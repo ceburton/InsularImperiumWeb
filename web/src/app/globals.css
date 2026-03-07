@@ -1,0 +1,662 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+@import "tailwindcss";
+
+@theme inline {
+  --color-marble: #161618;
+  --color-marble-vein: #26262c;
+  --color-slate: #1e1e22;
+  --color-parchment: #ecdcb0;
+  --color-parchment-dark: #c4a87a;
+  --color-parchment-ink: #1a1410;
+  --color-crimson: #9a031e;
+  --color-crimson-dark: #5c0112;
+  --color-crimson-light: #c4042a;
+  --color-bronze: #b08d57;
+  --color-bronze-dark: #6a5020;
+  --color-bronze-light: #d4a84a;
+  --color-iron: #55555e;
+  --color-iron-dark: #33333a;
+  --color-iron-light: #77778a;
+  --color-ichor: #00ff41;
+  --color-ichor-dark: #00aa2b;
+  --color-obsidian: #0a0a0e;
+  --color-obsidian-light: #141418;
+  --font-heading: 'Cinzel', serif;
+  --font-body: 'EB Garamond', serif;
+}
+
+/* ═══════════════════════════════════════════════
+   SKEUOMORPHIC DOCTRINE OF ROMESTEAD
+   If it looks like a web app, the Emperor weeps.
+   ═══════════════════════════════════════════════ */
+
+/* ── Base ── */
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--color-marble);
+  color: var(--color-parchment-ink);
+  font-family: var(--font-body);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Landing page cover image ── */
+.landing-bg {
+  position: relative;
+  background-image: url("/assets/InsularImperiumStart.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.landing-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ── Marble texture — deep veined dark stone ── */
+.marble-bg {
+  position: relative;
+  background:
+    radial-gradient(ellipse at 15% 45%, rgba(45,42,55,0.8) 0%, transparent 50%),
+    radial-gradient(ellipse at 85% 15%, rgba(55,48,60,0.6) 0%, transparent 45%),
+    radial-gradient(ellipse at 50% 85%, rgba(38,36,46,0.7) 0%, transparent 55%),
+    radial-gradient(ellipse at 70% 60%, rgba(30,28,38,0.5) 0%, transparent 40%),
+    linear-gradient(145deg, #161618 0%, #1e1e24 20%, #19191e 40%, #222230 60%, #1a1a20 80%, #161618 100%);
+}
+.marble-bg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    /* Primary veins — thick, wandering */
+    repeating-linear-gradient(
+      112deg,
+      transparent,
+      transparent 60px,
+      rgba(90, 85, 100, 0.06) 60px,
+      rgba(90, 85, 100, 0.06) 63px,
+      transparent 63px,
+      transparent 180px
+    ),
+    /* Secondary veins — thinner, denser */
+    repeating-linear-gradient(
+      165deg,
+      transparent,
+      transparent 90px,
+      rgba(75, 70, 85, 0.04) 90px,
+      rgba(75, 70, 85, 0.04) 91px,
+      transparent 91px,
+      transparent 250px
+    ),
+    /* Hairline cracks */
+    repeating-linear-gradient(
+      78deg,
+      transparent,
+      transparent 140px,
+      rgba(100, 95, 115, 0.03) 140px,
+      rgba(100, 95, 115, 0.03) 141px,
+      transparent 141px,
+      transparent 400px
+    ),
+    /* Surface polish shimmer */
+    radial-gradient(ellipse at 30% 30%, rgba(255,255,255,0.01) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: 0;
+}
+.marble-bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    /* Corner shadow vignette — torchlit room feel */
+    radial-gradient(ellipse at 50% 50%, transparent 40%, rgba(0,0,0,0.35) 100%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ── Parchment card — aged, stained, foxed ── */
+.parchment-card {
+  background:
+    /* Fiber noise texture */
+    url("data:image/svg+xml,%3Csvg width='200' height='200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='0.7' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.07'/%3E%3C/svg%3E"),
+    /* Water stain in upper-right corner */
+    radial-gradient(ellipse at 80% 15%, rgba(160,130,80,0.18) 0%, transparent 35%),
+    /* Coffee ring stain bottom-left */
+    radial-gradient(circle at 20% 85%, rgba(140,110,60,0.12) 0%, transparent 20%),
+    /* Age darkening at edges */
+    radial-gradient(ellipse at 50% 50%, transparent 50%, rgba(120,90,40,0.15) 100%),
+    /* Base parchment gradient */
+    linear-gradient(168deg, #ecdcb0 0%, #e0cca0 25%, #e8d4a6 50%, #d8c494 75%, #e4ceA0 100%);
+  border: 3px solid var(--color-bronze-dark);
+  box-shadow:
+    /* Inner age stain */
+    inset 0 0 40px rgba(120, 90, 40, 0.2),
+    inset 0 0 80px rgba(100, 70, 20, 0.08),
+    /* Heavy drop shadow */
+    0 6px 20px rgba(0,0,0,0.55),
+    0 2px 6px rgba(0,0,0,0.35),
+    /* Slight lift highlight */
+    0 -1px 0 rgba(255,255,255,0.05);
+  color: var(--color-parchment-ink);
+  position: relative;
+}
+/* Subtle crease line across the parchment */
+.parchment-card::before {
+  content: '';
+  position: absolute;
+  top: 38%;
+  left: 5%;
+  right: 5%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(120,90,40,0.12), rgba(120,90,40,0.08), transparent);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* ── Bronze frame — ornate with inner bevel ── */
+.bronze-frame {
+  border: 5px solid;
+  border-image: linear-gradient(
+    135deg,
+    #d4a84a 0%, #b08d57 20%, #8a6a30 40%,
+    #d4a84a 50%, #7a5a20 60%, #b08d57 80%, #d4a84a 100%
+  ) 1;
+  box-shadow:
+    inset 0 0 0 3px rgba(90,60,20,0.6),
+    inset 0 0 16px rgba(0,0,0,0.5),
+    0 0 0 1px rgba(60,40,10,0.8),
+    0 0 0 4px rgba(90,60,20,0.4),
+    0 8px 28px rgba(0,0,0,0.7);
+  position: relative;
+}
+/* Corner rosettes */
+.bronze-frame::before,
+.bronze-frame::after {
+  content: '✦';
+  position: absolute;
+  color: var(--color-bronze-light);
+  font-size: 12px;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.8), 0 0 6px rgba(176,141,87,0.3);
+  z-index: 2;
+}
+.bronze-frame::before { top: 2px; left: 6px; }
+.bronze-frame::after { bottom: 2px; right: 6px; }
+
+/* ── Iron frame — hammered, cold ── */
+.iron-frame {
+  border: 4px solid;
+  border-image: linear-gradient(
+    180deg, #7a7a82 0%, #4a4a52 30%, #5a5a62 70%, #3a3a42 100%
+  ) 1;
+  box-shadow:
+    inset 0 0 0 2px var(--color-iron-dark),
+    inset 0 0 12px rgba(0,0,0,0.6),
+    0 0 0 1px rgba(30,30,36,0.8),
+    0 6px 16px rgba(0,0,0,0.6);
+}
+
+/* ── Obsidian panel (Undead/Vampire) — emanating corruption ── */
+.obsidian-panel {
+  background:
+    /* Ichor wisps */
+    radial-gradient(ellipse at 25% 40%, rgba(0,255,65,0.04) 0%, transparent 50%),
+    radial-gradient(ellipse at 75% 60%, rgba(0,200,50,0.03) 0%, transparent 40%),
+    /* Surface micro-cracks */
+    url("data:image/svg+xml,%3Csvg width='200' height='200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='c'%3E%3CfeTurbulence baseFrequency='0.8' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23c)' opacity='0.04'/%3E%3C/svg%3E"),
+    linear-gradient(160deg, #0a0a0e 0%, #111115 30%, #0c0c10 60%, #0e0e14 100%);
+  border: 3px solid #1a3a1a;
+  box-shadow:
+    inset 0 0 50px rgba(0,255,65,0.06),
+    inset 0 0 100px rgba(0,255,65,0.03),
+    0 0 25px rgba(0,255,65,0.1),
+    0 0 50px rgba(0,255,65,0.05),
+    0 6px 20px rgba(0,0,0,0.7);
+  color: #c4d4c8;
+  position: relative;
+}
+/* Animated ichor smoke plume */
+.obsidian-panel::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60%;
+  background: radial-gradient(ellipse at 50% 0%, rgba(0,255,65,0.06) 0%, transparent 60%);
+  pointer-events: none;
+  animation: ichor-drift 6s ease-in-out infinite alternate;
+  z-index: 0;
+}
+@keyframes ichor-drift {
+  0% { opacity: 0.4; transform: translateY(0) scaleX(1); }
+  50% { opacity: 0.7; transform: translateY(4px) scaleX(1.05); }
+  100% { opacity: 0.4; transform: translateY(-2px) scaleX(0.95); }
+}
+
+/* ── Ichor smoke glow — heavier, layered ── */
+.ichor-glow {
+  filter:
+    drop-shadow(0 0 6px rgba(0,255,65,0.5))
+    drop-shadow(0 0 16px rgba(0,255,65,0.3))
+    drop-shadow(0 0 40px rgba(0,255,65,0.15));
+}
+.ichor-text {
+  color: var(--color-ichor);
+  text-shadow:
+    0 0 8px rgba(0,255,65,0.7),
+    0 0 16px rgba(0,255,65,0.4),
+    0 0 32px rgba(0,255,65,0.2),
+    0 0 64px rgba(0,255,65,0.1);
+}
+
+/* ── Engraved heading — deeper cut with dust in grooves ── */
+.engraved {
+  font-family: var(--font-heading);
+  color: #c0b494;
+  text-shadow:
+    0 1px 0 rgba(255,255,255,0.08),
+    0 -1px 0 rgba(0,0,0,0.9),
+    0 -2px 3px rgba(0,0,0,0.6),
+    0 0 12px rgba(0,0,0,0.4);
+  letter-spacing: 0.15em;
+}
+/* Extra deep variant for page titles */
+.engraved-deep {
+  font-family: var(--font-heading);
+  color: #b8a888;
+  text-shadow:
+    0 1px 0 rgba(255,255,255,0.06),
+    0 -2px 0 rgba(0,0,0,1),
+    0 -3px 6px rgba(0,0,0,0.8),
+    1px 1px 0 rgba(0,0,0,0.5),
+    -1px -1px 0 rgba(0,0,0,0.5),
+    0 0 20px rgba(0,0,0,0.5);
+  letter-spacing: 0.2em;
+}
+
+/* ── Wax seal button — drippy, heavy, tactile ── */
+.wax-seal {
+  background:
+    radial-gradient(circle at 30% 30%, rgba(255,255,255,0.12) 0%, transparent 40%),
+    radial-gradient(circle at 35% 35%, #c4042a 0%, #9a031e 40%, #6b0215 75%, #4a0110 100%);
+  border: none;
+  border-radius: 50%;
+  box-shadow:
+    /* Wax body shadow */
+    inset 0 -6px 12px rgba(0,0,0,0.5),
+    inset 0 3px 6px rgba(255,255,255,0.12),
+    inset 0 0 0 2px rgba(107,2,21,0.5),
+    /* Drip shadows around edge */
+    0 6px 16px rgba(0,0,0,0.6),
+    0 2px 4px rgba(0,0,0,0.4),
+    0 0 0 4px rgba(107,2,21,0.5),
+    /* Outer glow from firelight */
+    0 0 30px rgba(154,3,30,0.15);
+  color: #f4e4bc;
+  font-family: var(--font-heading);
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.7);
+  position: relative;
+}
+/* Wax drip blobs on edge */
+.wax-seal::before {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 12px;
+  height: 8px;
+  background: radial-gradient(ellipse, #8a0218 0%, #5c0112 100%);
+  border-radius: 50%;
+  opacity: 0.7;
+}
+.wax-seal:hover {
+  transform: scale(1.04);
+  box-shadow:
+    inset 0 -4px 10px rgba(0,0,0,0.5),
+    inset 0 3px 6px rgba(255,255,255,0.15),
+    inset 0 0 0 2px rgba(107,2,21,0.6),
+    0 4px 12px rgba(0,0,0,0.6),
+    0 2px 4px rgba(0,0,0,0.4),
+    0 0 0 4px rgba(107,2,21,0.7),
+    0 0 40px rgba(154,3,30,0.25);
+}
+.wax-seal:active {
+  transform: scale(0.93);
+  box-shadow:
+    inset 0 3px 12px rgba(0,0,0,0.7),
+    inset 0 -1px 2px rgba(255,255,255,0.08),
+    0 1px 4px rgba(0,0,0,0.5),
+    0 0 0 4px rgba(107,2,21,0.8);
+}
+
+/* ── Stone carve keyframes ── */
+@keyframes chisel {
+  0% { opacity: 0; letter-spacing: 0.6em; filter: blur(5px); }
+  40% { opacity: 0.5; letter-spacing: 0.3em; filter: blur(2px); }
+  70% { opacity: 0.8; letter-spacing: 0.18em; filter: blur(0.5px); }
+  100% { opacity: 1; letter-spacing: 0.15em; filter: blur(0); }
+}
+.animate-chisel {
+  animation: chisel 2.5s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+@keyframes dust-settle {
+  0% { opacity: 0; transform: translateY(-12px) scale(0.9); }
+  60% { opacity: 0.5; }
+  100% { opacity: 0.6; transform: translateY(0) scale(1); }
+}
+
+/* ── Stone grinding tab transition ── */
+@keyframes stone-grind-in {
+  0% { transform: translateX(40px); opacity: 0; filter: brightness(0.7); }
+  30% { filter: brightness(0.85); }
+  100% { transform: translateX(0); opacity: 1; filter: brightness(1); }
+}
+@keyframes stone-grind-out {
+  0% { transform: translateX(0); opacity: 1; }
+  100% { transform: translateX(-40px); opacity: 0; filter: brightness(0.7); }
+}
+
+/* ── Scroll unroll — heavier physics ── */
+@keyframes scroll-unroll {
+  0% { max-height: 0; opacity: 0; transform: scaleY(0.03); }
+  25% { opacity: 0.3; transform: scaleY(0.15); }
+  50% { opacity: 0.6; transform: scaleY(0.5); }
+  75% { opacity: 0.85; transform: scaleY(0.85); }
+  100% { max-height: 2000px; opacity: 1; transform: scaleY(1); }
+}
+.animate-unroll {
+  animation: scroll-unroll 1s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  transform-origin: top center;
+  overflow: hidden;
+}
+
+/* ── Wooden placard nav — heavy grain, knots, worn ── */
+.wooden-placard {
+  background:
+    /* Wood grain texture */
+    url("data:image/svg+xml,%3Csvg width='100' height='100' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='w'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.03 0.9' numOctaves='5' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23w)' opacity='0.15'/%3E%3C/svg%3E"),
+    /* Dark knot stain */
+    radial-gradient(circle at 30% 70%, rgba(30,18,8,0.4) 0%, transparent 25%),
+    /* Worn center groove */
+    linear-gradient(90deg, rgba(0,0,0,0.15) 0%, transparent 30%, transparent 70%, rgba(0,0,0,0.1) 100%),
+    /* Base wood gradient */
+    linear-gradient(180deg, #5c4033 0%, #4a3328 30%, #3e2a20 60%, #4a3328 85%, #3e2a20 100%);
+  border-right: 5px solid;
+  border-image: linear-gradient(
+    180deg, #8a6a30 0%, #6a5020 30%, #5a4018 60%, #6a5020 90%, #8a6a30 100%
+  ) 1;
+  box-shadow:
+    inset -10px 0 20px rgba(0,0,0,0.4),
+    inset 0 0 30px rgba(0,0,0,0.15),
+    5px 0 16px rgba(0,0,0,0.5);
+}
+
+/* ── Wax drop HP icons (replacing shields) ── */
+.wax-drop {
+  display: inline-block;
+  width: 10px;
+  height: 14px;
+  background: radial-gradient(ellipse at 45% 35%, #d41030 0%, #9a031e 50%, #6b0215 100%);
+  clip-path: polygon(50% 0%, 85% 40%, 80% 70%, 50% 100%, 20% 70%, 15% 40%);
+  margin-right: 2px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.4);
+}
+.wax-drop.empty {
+  background: radial-gradient(ellipse at 45% 35%, #4a4a52 0%, #3a3a42 60%);
+  opacity: 0.3;
+}
+/* Larger variant for detail views */
+.wax-drop-lg {
+  display: inline-block;
+  width: 14px;
+  height: 19px;
+  background: radial-gradient(ellipse at 45% 35%, #d41030 0%, #9a031e 50%, #6b0215 100%);
+  clip-path: polygon(50% 0%, 85% 40%, 80% 70%, 50% 100%, 20% 70%, 15% 40%);
+  margin-right: 3px;
+}
+.wax-drop-lg.empty {
+  background: radial-gradient(ellipse at 45% 35%, #4a4a52 0%, #3a3a42 60%);
+  opacity: 0.3;
+}
+
+/* ── Crossed swords ATK icon ── */
+.stat-swords {
+  display: inline-block;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #9a031e;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+}
+.stat-swords::before { content: '⚔'; }
+
+/* ── Tower/fortress DEF icon ── */
+.stat-tower {
+  display: inline-block;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #4a6080;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+}
+.stat-tower::before { content: '🏛'; }
+
+/* ── Deckled (torn) edges — heavier distress ── */
+.deckled-edge {
+  mask-image:
+    url("data:image/svg+xml,%3Csvg width='400' height='400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='t'%3E%3CfeTurbulence baseFrequency='0.035' numOctaves='6' seed='3'/%3E%3CfeColorMatrix type='discrete' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0'/%3E%3C/filter%3E%3Crect x='6' y='6' width='388' height='388' rx='2' fill='white'/%3E%3Crect width='100%25' height='100%25' filter='url(%23t)' opacity='0.5'/%3E%3C/svg%3E");
+  mask-size: cover;
+  -webkit-mask-image:
+    url("data:image/svg+xml,%3Csvg width='400' height='400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='t'%3E%3CfeTurbulence baseFrequency='0.035' numOctaves='6' seed='3'/%3E%3CfeColorMatrix type='discrete' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0'/%3E%3C/filter%3E%3Crect x='6' y='6' width='388' height='388' rx='2' fill='white'/%3E%3Crect width='100%25' height='100%25' filter='url(%23t)' opacity='0.5'/%3E%3C/svg%3E");
+  -webkit-mask-size: cover;
+}
+
+/* ── Rivets — heavier, hammered-in ── */
+.rivet {
+  width: 14px;
+  height: 14px;
+  background:
+    radial-gradient(circle at 38% 32%, rgba(255,255,255,0.25) 0%, transparent 30%),
+    radial-gradient(circle at 42% 38%, #d4a84a 0%, #8a6a30 45%, #5a4018 80%, #3e2a10 100%);
+  border-radius: 50%;
+  box-shadow:
+    inset 0 -3px 4px rgba(0,0,0,0.6),
+    inset 0 1px 2px rgba(255,255,255,0.25),
+    0 2px 4px rgba(0,0,0,0.6),
+    0 0 0 1px rgba(60,40,10,0.4);
+  position: absolute;
+  z-index: 3;
+}
+/* Iron variant rivet for obsidian panels */
+.rivet-iron {
+  width: 14px;
+  height: 14px;
+  background:
+    radial-gradient(circle at 38% 32%, rgba(255,255,255,0.15) 0%, transparent 30%),
+    radial-gradient(circle at 42% 38%, #6a6a72 0%, #4a4a52 45%, #33333a 80%);
+  border-radius: 50%;
+  box-shadow:
+    inset 0 -3px 4px rgba(0,0,0,0.7),
+    inset 0 1px 2px rgba(255,255,255,0.15),
+    0 2px 4px rgba(0,0,0,0.6);
+  position: absolute;
+  z-index: 3;
+}
+/* Ichor rivet for vampire panels */
+.rivet-ichor {
+  width: 14px;
+  height: 14px;
+  background:
+    radial-gradient(circle at 38% 32%, rgba(0,255,65,0.3) 0%, transparent 30%),
+    radial-gradient(circle at 42% 38%, #1a5a1a 0%, #0a3a0a 50%, #052005 100%);
+  border-radius: 50%;
+  box-shadow:
+    inset 0 -3px 4px rgba(0,0,0,0.6),
+    inset 0 1px 2px rgba(0,255,65,0.2),
+    0 0 6px rgba(0,255,65,0.2),
+    0 2px 4px rgba(0,0,0,0.6);
+  position: absolute;
+  z-index: 3;
+}
+
+/* ── Leather stitching — for nav item separation ── */
+.leather-stitch {
+  position: relative;
+}
+.leather-stitch::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  right: 10%;
+  height: 1px;
+  background: repeating-linear-gradient(
+    90deg,
+    #6a5020 0px, #6a5020 6px,
+    transparent 6px, transparent 10px
+  );
+  opacity: 0.4;
+}
+
+/* ── Torch flicker ambient ── */
+@keyframes torch-flicker {
+  0%, 100% { opacity: 0.7; }
+  25% { opacity: 0.9; }
+  50% { opacity: 0.6; }
+  75% { opacity: 0.85; }
+}
+.torch-glow {
+  animation: torch-flicker 3s ease-in-out infinite;
+}
+
+/* ── Brazier warmth on content ── */
+.brazier-warmth {
+  position: relative;
+}
+.brazier-warmth::before {
+  content: '';
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 200px;
+  height: 100px;
+  background: radial-gradient(ellipse, rgba(200,140,60,0.06) 0%, transparent 70%);
+  pointer-events: none;
+  animation: torch-flicker 4s ease-in-out infinite;
+}
+
+/* ── Stamped text — iron or bronze pressed into surface ── */
+.stamped {
+  font-family: var(--font-heading);
+  color: #6a5a4a;
+  text-shadow:
+    0 1px 0 rgba(255,255,255,0.05),
+    0 -1px 0 rgba(0,0,0,0.8);
+  letter-spacing: 0.12em;
+}
+
+/* ── Burnt edge accent — for section dividers ── */
+.burnt-edge {
+  position: relative;
+}
+.burnt-edge::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg,
+    transparent,
+    rgba(80,40,10,0.3) 10%,
+    rgba(60,30,5,0.5) 30%,
+    rgba(80,40,10,0.4) 50%,
+    rgba(60,30,5,0.5) 70%,
+    rgba(80,40,10,0.3) 90%,
+    transparent
+  );
+  filter: blur(1px);
+}
+
+/* ── Scrollbar styling — wooden scroll handle ── */
+::-webkit-scrollbar { width: 14px; }
+::-webkit-scrollbar-track {
+  background: linear-gradient(90deg, #151518, #1a1a1e, #151518);
+  border-left: 1px solid #2a2a30;
+}
+::-webkit-scrollbar-thumb {
+  background:
+    linear-gradient(180deg, #6a4a3a 0%, #5c4033 30%, #3e2a20 70%, #5c4033 100%);
+  border: 3px solid #1a1a1e;
+  border-radius: 4px;
+  box-shadow: inset 0 0 4px rgba(0,0,0,0.3);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #7a5a4a 0%, #6a4a3a 30%, #4a3328 70%, #6a4a3a 100%);
+}
+
+/* ── Utility: text on parchment ink ── */
+.ink-text {
+  color: #2a1e10;
+  text-shadow: 0 0.5px 0 rgba(0,0,0,0.1);
+}
+
+/* ── Section divider — chiseled line ── */
+.chisel-line {
+  height: 2px;
+  background: linear-gradient(90deg,
+    transparent,
+    rgba(176,141,87,0.4) 15%,
+    rgba(176,141,87,0.6) 50%,
+    rgba(176,141,87,0.4) 85%,
+    transparent
+  );
+  box-shadow: 0 1px 0 rgba(0,0,0,0.3), 0 -1px 0 rgba(255,255,255,0.03);
+}
+
+/* ── Nav tab — iron stamped plate ── */
+.nav-plate {
+  background:
+    linear-gradient(180deg, rgba(60,50,40,0.3) 0%, rgba(40,30,22,0.2) 100%);
+  border-left: 3px solid transparent;
+  transition: all 0.25s ease;
+}
+.nav-plate:hover {
+  background:
+    linear-gradient(180deg, rgba(80,65,50,0.3) 0%, rgba(60,45,32,0.2) 100%);
+}
+.nav-plate.active {
+  background:
+    linear-gradient(90deg, rgba(176,141,87,0.2) 0%, rgba(176,141,87,0.05) 100%);
+  border-left-color: #b08d57;
+}
+
+/* ── Shield HP icons (legacy compat) ── */
+.shield-icon {
+  display: inline-block;
+  width: 14px;
+  height: 16px;
+  background: radial-gradient(ellipse at 50% 40%, #c4042a 0%, #7a0216 100%);
+  clip-path: polygon(50% 100%, 0% 30%, 0% 0%, 100% 0%, 100% 30%);
+  margin-right: 2px;
+}
+.shield-icon.empty {
+  background: radial-gradient(ellipse at 50% 40%, #5a5a62 0%, #3a3a42 100%);
+  opacity: 0.4;
+}

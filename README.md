@@ -33,19 +33,22 @@ Web presence for **Insular Imperium** (Grid General): tactical turn-based strate
 
 ## Run locally
 
-Use either the repo root scripts (recommended) or run directly in `web/`.
-
-From repository root:
+**First-time setup** (install dependencies in the app folder):
 
 ```bash
-npm install
+cd web && npm install
+```
+
+From **repository root** (after setup):
+
+```bash
 npm run dev
 ```
 
-From `web/`:
+Or from **`web/`**:
 
 ```bash
-npm install
+npm install   # if not done yet
 npm run dev
 ```
 

@@ -1,0 +1,189 @@
+# Grid General (Insular Imperium)
+
+> A turn-based strategy game set in a Roman/medieval island-warfare setting, built with Phaser 3 and JavaScript (ESM). Players command armies on procedurally generated islands, fighting Orc factions and a Red AI opponent in grid-based tactical combat with naval warfare.
+
+## Tech Stack
+
+- **Game framework:** Phaser 3 (v3.90.0) — rendering, sprites, scenes, input, animations, game loop
+- **Audio:** Tone.js — procedural sound effects (hit, heal, level-up, frenzy, etc.)
+- **Language:** JavaScript ES Modules (`"type": "module"` in package.json)
+- **Desktop packaging:** Electron + electron-builder (Windows/macOS/Linux)
+- **Dev server:** Vite (HMR, on-demand serving)
+- **Compression:** lz-string (save data)
+- **Tile art:** 16×16 MiniWorld sprites with blob-based autotiling
+
+## Project Structure
+
+```
+main.js                  — Phaser game bootstrap (creates Phaser.Game with scene list)
+index.html               — Entry point, importmap for ESM CDN deps, game container
+config.js                — Central config: tile size, map dimensions, economy, build costs,
+                           UI layout, modal panel keys, teams, active modes, AI params,
+                           terrain, ship classes, unit stats, map generation, PRODUCTION
+                           (FORT_SIZE_UNIT_KEYS, PORT_SHIP_KEYS for fort/port build restrictions)
+GameState.js             — createGameState() factory: plain object holding all mutable state
+                           (units, selection, reachable tiles, combat targets, turn, gold, UI flags)
+AudioManager.js          — Tone.js procedural audio (hit, heal, level-up, siege sounds)
+MapManager.js            — Map orchestrator: delegates to terrain generator, location placer,
+                           pathing service; holds grid, locations, bitmask computation
+MapTerrainGenerator.js   — Procedural island generation (water edges, inlets, terrain types)
+MapLocationPlacer.js     — Places forts, orc camps, ports, workshops with name pools
+MapPathingService.js     — A* pathing (findPath optional options.units/movingUnit to avoid occupied tiles),
+                           getReachableTiles (excludes occupied), road generation via MST, bridge placement
+
+scenes/
+  MainMenuScene.js       — Title screen, New Game / Load Game / Island Select buttons
+  IslandSelectScene.js   — Placeholder for island/faction/difficulty selection
+  GameScene.js           — Core gameplay scene (~617 lines): initializes 13+ managers,
+                           creates map display, manages turn flow
+
+entities/
+  Unit.js                — Base entity class (Phaser Container): HP, ATK, DEF, MOV, level/XP,
+                           multi-turn pathing (persistentPath), moveTo, moveAlongPath (step-by-step;
+                           resolves with { blocked, stepsCompleted } if next tile occupied), embark
+  Hero.js                — Extends Unit: named hero with bonus stats, passive aura (4-tile range),
+                           active ability with cooldown, golden badge, portrait, aura ring visuals
+  Orc.js                 — Extends Unit: Frenzy mechanic (+50% ATK at ≤50% HP)
+  OrcHealer.js           — Orc healer subtype
+  OrcMage.js             — Orc mage subtype
+  OrcRider.js            — Orc mounted subtype
+  OrcSpear.js            — Orc spear subtype
+
+managers/
+  AIManager.js           — Enemy turn AI for Red and Orc; camera startFollow(unit) during each unit's move
+  AnimationManager.js    — Unit animations, visual effects; mage spell (lightning) — undead mage uses bright green
+  CameraManager.js       — Map scrolling, zoom, tile cursors (including road-placement cursor)
+  CombatManager.js       — Attack resolution, flanking, damage calculation, stat breakdowns
+  EconomyManager.js      — Gold income, maintenance, loot, purchase transactions
+  EngineerManager.js     — Workshop/road/bridge/castra construction, engineer staffing
+  HeroManager.js         — Hero selection, aura application, ability activation (9-hero roster)
+  InputManager.js        — Click/keyboard handling, selection; path for immediate move uses unit-avoidance;
+                           distant path (Path Move) ignores units; blocked result → "Blocked" message
+  NavalManager.js        — Ship lifecycle facade, delegates to 7 naval sub-modules
+  ProductionManager.js   — Production queues; getBuildableUnitKeys/getBuildableShipKeys by fort size/port
+                           (CONFIG.PRODUCTION); red fort spawn and blue completion validate buildable roster
+  SaveManager.js         — Serialization/deserialization with swappable storage backends
+  SiegeManager.js        — Siege unit logic (catapults/ballistae) — stub/WIP
+  SpawnManager.js        — Initial army deployment and unit spawning
+  TurnManager.js         — Turn cycling (Blue → Red → Orc), Path Move / Move All (camera follows
+                           moving unit), processAutoMovePaths (blocked handling, persistent path trim)
+  UIManager.js           — HUD facade: delegates to managers/ui/ (MedievalUI, MapHighlightUI,
+                           ManageCrewPanel, StatPanelUI, ProductionReportUI, ShipPlacementConfirmUI)
+
+managers/naval/
+  NavalAI.js             — AI ship turn logic (aggro, movement, bombard targeting)
+  ShipCombat.js          — Ship bombard targeting, execution, damage to ships/units/locations
+  ShipCrew.js            — Embark, disembark, deck/below-deck, crew transfer, reorder, promote
+  ShipMovement.js        — Ship movement, turning, reachable tile computation
+  ShipPlacement.js       — Ship creation, placement validation, placement preview
+  ShipState.js           — Sinking, derelict, repair, naval state advancement
+  ShipVisuals.js         — Ship sprite creation and visual updates
+
+managers/storage/
+  StorageAdapter.js      — Abstract storage interface
+  WebStorageAdapter.js   — localStorage-based save/load
+  ElectronStorageAdapter.js — File-based save/load via Electron IPC
+  getStorageAdapter.js   — Factory: returns Electron or Web adapter based on environment
+
+managers/ui/
+  ConfirmDialogUI.js     — Reusable confirmation dialog with Yes/No
+  ComingSoonPanel.js     — "Coming Soon" placeholder modal
+  HeroCardPopup.js       — Hero detail card with stats, abilities, aura info
+  ManageCrewPanel.js     — Ship crew management panel
+  MapHighlightUI.js      — Map tile highlighting (movement, attack range)
+  MapSizePanel.js        — Map size selection for new game
+  MedievalUI.js          — Shared medieval-themed UI button/panel factory
+  ModalHelper.js         — Reusable modal panel creation (blocker + container + destroy cleanup)
+  PauseOptionsPanel.js   — Pause menu with save/load/options
+  ProductionReportUI.js  — Production overview report
+  ShipPlacementConfirmUI.js — Ship placement confirmation dialog
+  StatBreakdown.js       — Combat stat breakdown data
+  StatBreakdownPanel.js  — Visual stat breakdown panel
+  StatPanelUI.js         — Unit stat display panel
+
+electron/
+  main.cjs               — Electron main process
+  preload.cjs            — Electron preload script (IPC bridge for file storage)
+
+assets/
+  test-map.json          — Test map data
+  tiles/                 — Tile sprite assets and blob lookup tables
+    blob_lookup.js       — Bitmask → sprite frame mapping
+    blob_lookup.json     — Same as JSON
+
+documentation/           — Design docs, feature plans, implementation notes
+tools/                   — Python scripts for generating tile sprite sheets
+```
+
+## Architecture & Key Patterns
+
+### Scene Flow
+MainMenuScene → (optional) IslandSelectScene → GameScene
+
+### State Management
+`GameState` is a plain object factory (`createGameState()`) holding all mutable game state. Managers receive it on construction. Scene keeps backward-compatible aliases (`scene.selectedUnit`, etc.) during ongoing migration.
+
+### Manager Pattern
+GameScene creates and owns 13+ manager instances. Each manager receives `scene` (for Phaser APIs) and operates on shared state. Naval functionality is decomposed into 7 sub-modules under `managers/naval/` with `NavalManager` as a facade.
+
+### Modal System
+`ModalHelper.createModalPanel()` handles blocker creation, depth management, and cleanup. `CONFIG.MODAL_PANEL_KEYS` is the single source of truth for which panels exist (used by InputManager for Escape and CameraManager for scroll-blocking).
+
+### Config-Driven Design
+Nearly all tunable values live in `config.js`: unit stats, terrain costs/effects, map generation parameters, economy values, AI behavior, UI layout constants, ship classes. Terrain types define movement cost, defense bonuses, damage modifiers, and healing.
+
+### Map Generation
+Procedural island generation with retry logic for naval connectivity:
+1. `MapTerrainGenerator` — creates island shape with water edges, inlets, terrain distribution
+2. `MapLocationPlacer` — places named forts, orc camps, ports, workshops with distance constraints
+3. `MapPathingService` — generates road network via MST connecting forts, A* pathing
+
+### Combat System
+Grid-based with flanking bonuses, terrain modifiers (forest damage reduction, fort defense bonus, bridge damage bonus), siege units, and naval bombardment. Heroes provide passive aura buffs to nearby allies and have active abilities with cooldowns. Mage spell animation: red/blue team colors; undead mage uses same lightning in bright green.
+
+### Economy
+Territory-based income (forts/camps generate gold per turn), unit maintenance costs, loot from capturing tiles, construction costs. Initial army-assembly budget of 2,500g. AI follows the same economic rules.
+
+### Movement & Pathing
+- Units move step-by-step along paths (`Unit.moveAlongPath`). Reachable tiles exclude occupied tiles (no moving through or ending on another unit).
+- **Path planning** for distant targets (Path Move / persistent path) ignores other units; when executing, if a step is blocked by another unit, movement stops, "Blocked" is shown, and the path is trimmed. Immediate move (click reachable tile) uses pathfinding with unit avoidance.
+- **Camera:** Red/Orc turn — camera follows the active unit. Blue Path Move and Move All — camera follows the moving unit step-by-step.
+
+### Production Restrictions
+Forts: buildable land units depend on fort size (`CONFIG.PRODUCTION.FORT_SIZE_UNIT_KEYS`; 9/8-tile get full roster; smaller forts fewer types). Ports build only ships (Liburna, Galley, Trireme). Red fort auto-spawn and blue production validate against these.
+
+### Naval System
+Ships are multi-tile floating terrain (Liburna 1-tile, Galley 2-tile, Trireme 3-tile) with deck/below-deck crew slots, hull HP, bombardment range, and boarding/disembarking mechanics.
+
+### Save System
+Pluggable storage: `WebStorageAdapter` (localStorage) for browser, `ElectronStorageAdapter` (file-based via IPC) for desktop. Save data compressed with lz-string.
+
+## Development
+
+```bash
+npm install          # Install dependencies
+npm run dev          # Start Vite dev server (browser)
+npm start            # Run in Electron desktop window
+npm run build        # Package with electron-builder
+```
+
+## Conventions
+
+- All game code is JavaScript ESM (import/export)
+- No TypeScript, no build step for game code (Vite serves directly)
+- Config values go in `config.js`, not scattered in managers
+- New UI panels should use `ModalHelper.createModalPanel()` and register in `CONFIG.MODAL_PANEL_KEYS`
+- Terrain bitmask computation lives in `MapManager`
+- Entity classes extend `Unit` (Phaser Container subclass)
+- Teams are `'blue'` (player), `'red'` (AI enemy), `'orc'` (AI enemy) — defined in `CONFIG.TEAMS`
+- Active modes (attack, heal, build, etc.) defined in `CONFIG.ACTIVE_MODES`
+
+## Known Architecture Notes
+
+- ~18k lines of JavaScript across 57+ files
+- Largest files: ProductionManager, UIManager, CombatManager, InputManager, SpawnManager; GameScene, ManageCrewPanel, PauseOptionsPanel, config, AnimationManager, Unit, MapPathingService (see documentation/js-files-line-count.md)
+- UIManager refactored to delegate to managers/ui/ (MedievalUI, MapHighlightUI, ManageCrewPanel, StatPanelUI, ProductionReportUI, ShipPlacementConfirmUI)
+- Managers still read/write `scene.*` properties heavily; migration to GameState is partial
+- SiegeManager and EconomyManager are small stubs / WIP
+- See `plan.md` and `refactor-2-25-26.md` for refactoring roadmap
+- For full config schema and embedded documentation (difficulty, engineer, etc.), see `llms-full.txt`

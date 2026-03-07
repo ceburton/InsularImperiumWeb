@@ -1,0 +1,12 @@
+{
+  "name": "insular-imperium-web",
+  "private": true,
+  "description": "Web presence for Insular Imperium (Grid General) — tactical strategy, heroes, naval combat.",
+  "repository": "https://github.com/ceburton/InsularImperiumWeb",
+  "scripts": {
+    "dev": "npm run dev --prefix web",
+    "build": "npm run build --prefix web",
+    "start": "npm run start --prefix web",
+    "lint": "npm run lint --prefix web"
+  }
+}

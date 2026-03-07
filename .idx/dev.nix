@@ -11,13 +11,12 @@
   ];
   # Sets environment variables in the workspace
   env = {};
-  workspace = {
-    # Runs once when the workspace is first created
-    onCreate = {
-      npm-install = "npm install --prefix web";
-    };
-    # Search for icons at https://pictogrammers.com/library/mdi/
-    previews = [{
+  # Runs once when the workspace is first created
+  onCreate = {
+    npm-install = "npm install --prefix web";
+  };
+  # Defines a preview that can be started in the side panel
+  previews = [{
       command = ["npm" "run" "dev"];
       manager = "web";
       id = "web";
@@ -25,6 +24,5 @@
       icon = "web";
       port = 3000;
       workingDirectory = "web";
-    }];
-  };
+  }];
 }

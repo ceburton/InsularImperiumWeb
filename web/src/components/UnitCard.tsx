@@ -1,7 +1,9 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 import type { UnitClass } from '@/data/units';
+import { getUnitSpriteSrc } from '@/data/units';
 
 interface UnitCardProps {
   unit: UnitClass;
@@ -59,11 +61,28 @@ export default function UnitCard({ unit, index, onClick }: UnitCardProps) {
       <div className={`${isOrc ? 'rivet-ichor' : 'rivet'} top-1.5 left-1.5`} />
       <div className={`${isOrc ? 'rivet-ichor' : 'rivet'} top-1.5 right-1.5`} />
 
-      {/* Unit name header — bronze/obsidian underline */}
-      <div className="mb-3 pb-2.5 relative" style={{
+      {/* Unit name header — sprite + title, bronze/obsidian underline */}
+      <div className="mb-3 pb-2.5 relative flex items-start gap-3" style={{
         borderBottom: `2px solid ${isOrc ? '#1a3a1a' : '#8a6a30'}`,
       }}>
-        <h3 className="text-lg font-bold tracking-[0.1em] pr-16" style={{
+        {getUnitSpriteSrc(unit.key) && (
+          <div className="flex-shrink-0 w-14 h-14 flex items-center justify-center rounded overflow-hidden" style={{
+            background: isOrc ? 'rgba(0,0,0,0.3)' : 'rgba(120,90,40,0.12)',
+            border: `1px solid ${isOrc ? '#1a3a1a' : '#8a6a30'}`,
+          }}>
+            <Image
+              src={getUnitSpriteSrc(unit.key)!}
+              alt=""
+              width={56}
+              height={56}
+              className="w-full h-full object-contain"
+              unoptimized
+              aria-hidden
+            />
+          </div>
+        )}
+        <div className="min-w-0 flex-1 pr-14">
+        <h3 className="text-lg font-bold tracking-[0.1em]" style={{
           fontFamily: "'Cinzel', serif",
           color: isOrc ? '#88cc88' : '#9a031e',
           textShadow: isOrc
@@ -79,6 +98,7 @@ export default function UnitCard({ unit, index, onClick }: UnitCardProps) {
         }}>
           {unit.attackType === 'magic' ? '✧ Arcane' : '⚔ Physical'} &bull; Range {unit.minRange}–{unit.range} &bull; MOV {unit.moves}
         </p>
+        </div>
       </div>
 
       {/* HP as wax drops */}

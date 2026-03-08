@@ -222,3 +222,25 @@ export const SHIP_CLASSES = [
     lore: 'The Trireme is a floating fortress. Three banks of oars drive it forward; three decks of soldiers man its rails.',
   },
 ];
+
+/** Map unit keys to sprite icon paths in /assets (for War Room unit cards). */
+export const UNIT_SPRITE: Record<string, string> = {
+  'unit-infantry': '/assets/unit-infantry-blue.webp',
+  'unit-knight': '/assets/unit-knight-blue.webp',
+  'unit-archer': '/assets/unit-archer-blue-v5-no-bg.png',
+  'unit-mage': '/assets/unit-mage-blue-v4.webp',
+  'unit-healer': '/assets/unit-healer-blue-v2.webp',
+  'unit-spear': '/assets/unit-spear-blue-no-bg.png',
+  'unit-catapult': '/assets/unit-catapult-blue.png',
+  'unit-ballista': '/assets/unit-ballista-blue.png',
+  'unit-engineer': '/assets/unit-engineer-blue.png',
+  'unit-orc-infantry-no-bg': '/assets/unit-orc-infantry-no-bg.png',
+  'unit-orc-mage-no-bg': '/assets/unit-orc-mage-no-bg.png',
+  'unit-orc-rider-no-bg': '/assets/unit-orc-rider-no-bg.png',
+  'unit-orc-spear-no-bg': '/assets/unit-orc-spear-no-bg.png',
+  'unit-orc-healer-no-bg': '/assets/unit-orc-healer-no-bg.png',
+};
+
+export function getUnitSpriteSrc(unitKey: string): string | null {
+  return UNIT_SPRITE[unitKey] ?? null;
+}

@@ -1,7 +1,9 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 import type { UnitClass } from '@/data/units';
+import { getUnitSpriteSrc } from '@/data/units';
 
 interface UnitDetailProps {
   unit: UnitClass;
@@ -49,8 +51,34 @@ export default function UnitDetail({ unit }: UnitDetailProps) {
   const accentFaint = isOrc ? 'rgba(0,255,65,0.05)' : 'rgba(176,141,87,0.06)';
   const borderThin = isOrc ? '#1a3a1a' : '#d4c49c';
 
+  const spriteSrc = getUnitSpriteSrc(unit.key);
+
   return (
     <div className="space-y-6" style={{ color: isOrc ? '#c4d4c8' : '#3a2a1a' }}>
+
+      {/* ── Unit sprite icon ── */}
+      {spriteSrc && (
+        <div className="flex justify-center">
+          <div
+            className="w-24 h-24 flex items-center justify-center rounded-lg overflow-hidden"
+            style={{
+              background: isOrc ? 'rgba(0,0,0,0.4)' : 'rgba(176,141,87,0.15)',
+              border: `2px solid ${isOrc ? '#1a3a1a' : '#8a6a30'}`,
+              boxShadow: 'inset 0 2px 8px rgba(0,0,0,0.2), 0 2px 8px rgba(0,0,0,0.2)',
+            }}
+          >
+            <Image
+              src={spriteSrc}
+              alt=""
+              width={96}
+              height={96}
+              className="w-full h-full object-contain"
+              unoptimized
+              aria-hidden
+            />
+          </div>
+        </div>
+      )}
 
       {/* ── Lore blockquote ── */}
       <blockquote className="px-5 py-4 relative" style={{

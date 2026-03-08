@@ -44,7 +44,6 @@ web/
 ├── tsconfig.json
 ├── postcss.config.mjs
 ├── eslint.config.mjs
-├── firebase.json           # Firebase config (if used)
 └── README.md               # This file
 ```
 

@@ -13,7 +13,7 @@ Web presence for **Insular Imperium** (Grid General): tactical turn-based strate
 	- Vampire Clan
 	- Naval Fleet
 - Detail overlays for units and heroes via reusable reveal components
-- Static-export friendly Next.js setup, ready for Firebase Hosting
+- Next.js setup deployed on Vercel
 
 ## Routes
 
@@ -65,21 +65,15 @@ Root scripts proxy into `web/`:
 
 ## Build and deploy
 
-This app is configured for static export in `web/next.config.ts` (`output: 'export'`).
+The app is deployed on **Vercel**. Push to the `main` branch to trigger automatic deployment.
 
-1. Build:
+To build locally:
 
 ```bash
 npm run build
 ```
 
-2. Deploy to Firebase Hosting (from `web/`):
-
-```bash
-firebase deploy
-```
-
-Firebase is configured to serve from `web/out` (`web/firebase.json`).
+Vercel auto-detects the Next.js framework from the `web/` directory.
 
 ## Tech stack
 
@@ -88,4 +82,4 @@ Firebase is configured to serve from `web/out` (`web/firebase.json`).
 - Tailwind CSS 4
 - Framer Motion
 - TypeScript
-- Firebase Hosting
+- Vercel

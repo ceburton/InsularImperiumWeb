@@ -1,13 +1,14 @@
 'use client';
 
 import Link from 'next/link';
+import HomeLogo from '@/components/HomeLogo';
 
 export default function MediaPage() {
   return (
     <div className="marble-bg min-h-screen flex flex-col items-center justify-center px-6">
-      <Link href="/" className="absolute top-6 left-6 text-sm uppercase tracking-wider" style={{ fontFamily: "'Cinzel', serif", color: 'var(--color-bronze)' }}>
-        ← Home
-      </Link>
+      <div className="absolute top-6 left-6">
+        <HomeLogo />
+      </div>
       <h1 className="text-3xl md:text-4xl font-bold mb-4" style={{ fontFamily: "'Cinzel', serif", color: 'var(--color-bronze)' }}>
         Media & Gallery
       </h1>

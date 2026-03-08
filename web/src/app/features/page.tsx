@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
+import HomeLogo from '@/components/HomeLogo';
 import { BLUE_HEROES, VAMPIRE_HEROES } from '@/data/heroes';
 import type { Hero } from '@/data/heroes';
 
@@ -156,17 +157,15 @@ export default function FeaturesPage() {
     <div className="marble-bg min-h-screen">
       {/* Fixed top navigation — stays at top of viewport while scrolling */}
       <nav
-        className="fixed top-0 left-0 right-0 z-40 w-full border-b flex items-center justify-center gap-1 py-3 px-4"
+        className="fixed top-0 left-0 right-0 z-40 w-full border-b flex items-center py-3 px-4 gap-4"
         style={{
           background: 'linear-gradient(180deg, rgba(22,22,24,0.97), rgba(26,24,22,0.95))',
           borderColor: 'var(--color-bronze-dark)',
           boxShadow: '0 4px 20px rgba(0,0,0,0.4)',
         }}
       >
-        <Link href="/" className="absolute left-4 text-sm uppercase tracking-wider" style={{ fontFamily: "'Cinzel', serif", color: 'var(--color-bronze)' }}>
-          ← Home
-        </Link>
-        <div className="flex flex-wrap items-center justify-center gap-2 md:gap-4">
+        <HomeLogo className="flex-shrink-0" />
+        <div className="flex-1 flex flex-wrap items-center justify-center gap-2 md:gap-4 min-w-0">
           {SECTIONS.map(({ id, label }) => (
             <button
               key={id}
@@ -186,7 +185,7 @@ export default function FeaturesPage() {
       </nav>
 
       {/* Spacer so content is not hidden under fixed nav */}
-      <div className="h-16 flex-shrink-0" aria-hidden />
+      <div className="h-20 flex-shrink-0" aria-hidden />
 
       <main>
         {/* Hero title & intro — full width */}

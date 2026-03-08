@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion';
 import Link from 'next/link';
+import Image from 'next/image';
 
 /** Deterministic "random" from seed so server and client hydrate the same. */
 function seeded(seed: number): number {
@@ -96,31 +97,39 @@ export default function LandingPortal() {
             }}
           />
 
-          <motion.h1
-            className="engraved-deep text-5xl md:text-7xl lg:text-8xl font-black tracking-[0.2em] text-center select-none"
-            initial={{ opacity: 0, letterSpacing: '0.6em', filter: 'blur(5px)' }}
-            animate={{ opacity: 1, letterSpacing: '0.15em', filter: 'blur(0px)' }}
-            transition={{ duration: 3, ease: [0.22, 1, 0.36, 1] }}
+          {/* Prominent logo — hero of the landing page */}
+          <motion.div
+            className="flex justify-center"
+            initial={{ opacity: 0, scale: 0.92, filter: 'blur(6px)' }}
+            animate={{ opacity: 1, scale: 1, filter: 'blur(0px)' }}
+            transition={{ duration: 1.5, ease: [0.22, 1, 0.36, 1] }}
           >
-            INSULAR
-            <br />
-            IMPERIUM
-          </motion.h1>
+            <Image
+              src="/assets/insularimperium.png"
+              alt="Insular Imperium"
+              width={480}
+              height={144}
+              className="h-[140px] md:h-[200px] lg:h-[280px] w-auto object-contain drop-shadow-[0_4px_24px_rgba(0,0,0,0.5)]"
+              priority
+            />
+          </motion.div>
 
-          {/* Subtitle with dust-settle */}
-          <motion.p
-            className="text-center mt-5 text-sm md:text-base tracking-[0.35em] uppercase"
+          {/* Game title — big, beautiful, engraved */}
+          <motion.h2
+            className="engraved-deep text-center mt-6 text-3xl md:text-4xl lg:text-5xl font-black tracking-[0.25em] uppercase select-none"
             style={{
-              color: '#7a6e58',
+              color: '#c4a87a',
               fontFamily: "'Cinzel', serif",
-              textShadow: '0 1px 3px rgba(0,0,0,0.7)',
+              textShadow: '0 0 20px rgba(176,141,87,0.15), 0 2px 4px rgba(0,0,0,0.6)',
             }}
-            initial={{ opacity: 0, y: -8 }}
-            animate={{ opacity: 0.65, y: 0 }}
-            transition={{ delay: 2.5, duration: 1.5 }}
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 2.2, duration: 1.2, ease: [0.22, 1, 0.36, 1] }}
           >
-            Commander&apos;s War Room
-          </motion.p>
+            Insular
+            <br />
+            Imperium
+          </motion.h2>
 
           {/* Decorative bronze filigree below title */}
           <motion.div
@@ -225,13 +234,21 @@ export default function LandingPortal() {
         </Link>
       </motion.div>
 
-      {/* Stone floor inscription — worn into the marble */}
+      {/* Stone floor inscription — worn into the marble, with small logo */}
       <motion.div
-        className="absolute bottom-8 z-20 text-center"
+        className="absolute bottom-8 z-20 text-center flex flex-col items-center gap-4"
         initial={{ opacity: 0 }}
         animate={{ opacity: 0.35 }}
         transition={{ delay: 4, duration: 2 }}
       >
+        <Image
+          src="/assets/insularimperium.png"
+          alt=""
+          width={120}
+          height={36}
+          className="h-8 w-auto object-contain opacity-70"
+          aria-hidden
+        />
         <div className="flex items-center gap-3">
           <div className="w-12 h-[1px]" style={{
             background: 'linear-gradient(90deg, transparent, rgba(90,86,80,0.4))',

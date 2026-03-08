@@ -3,6 +3,7 @@
 import { useState, useCallback, Suspense } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
+import HomeLogo from '@/components/HomeLogo';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ROMAN_UNITS, ORC_UNITS } from '@/data/units';
 import { BLUE_HEROES, VAMPIRE_HEROES } from '@/data/heroes';
@@ -57,13 +58,7 @@ function DashboardContent() {
     <div className="marble-bg min-h-screen flex">
       {/* ══════════ LEFT NAV — Heavy Wooden Placard Rack ══════════ */}
       <nav className="wooden-placard w-60 min-h-screen flex flex-col py-6 px-3 shrink-0 z-30">
-        <Link
-          href="/"
-          className="mb-4 text-sm uppercase tracking-wider block"
-          style={{ fontFamily: "'Cinzel', serif", color: 'var(--color-bronze)' }}
-        >
-          ← Home
-        </Link>
+        <HomeLogo className="mb-4 block w-fit" />
         {/* Iron heading plaque */}
         <div className="mb-6 pb-4 relative" style={{ borderBottom: '3px solid #6a5020' }}>
           <h2 className="engraved-deep text-lg font-bold text-center tracking-[0.2em]">

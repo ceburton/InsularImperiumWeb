@@ -308,7 +308,11 @@ export default function FeaturesPage() {
           <p className="text-parchment/85 mb-8 max-w-xl mx-auto" style={{ fontFamily: "'EB Garamond', serif" }}>
             Enter the War Room. Master the grid. Forge your legend.
           </p>
-          <Link href="/dashboard">
+          <Link
+            href="https://9000-firebase-gridgeneral-1770787749264.cluster-fsmcisrvfbb5cr5mvra3hr3qyg.cloudworkstations.dev/?monospaceUid=58064"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <motion.button
               className="px-10 py-4 rounded-lg font-bold uppercase tracking-widest text-lg"
               style={{

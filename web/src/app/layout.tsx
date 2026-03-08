@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Insular Imperium — Commander's Hub",
+  title: "Insular Imperium",
   description: "The War Room of the Roman Empire. Tactical intelligence, field reports, and hero dossiers.",
 };
 

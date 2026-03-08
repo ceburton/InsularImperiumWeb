@@ -232,6 +232,35 @@ export default function LandingPortal() {
             <span className="text-[10px] mt-1 opacity-40 tracking-wider">GALLERY</span>
           </motion.button>
         </Link>
+
+        {/* Divider — bronze chain link */}
+        <div className="hidden sm:flex flex-col items-center gap-1">
+          {[...Array(5)].map((_, i) => (
+            <div key={i} className="w-1.5 h-3 rounded-full" style={{
+              background: 'linear-gradient(180deg, #b08d57, #6a5020)',
+              boxShadow: '0 1px 2px rgba(0,0,0,0.5)',
+              opacity: 0.5,
+            }} />
+          ))}
+        </div>
+
+        <Link
+          href="https://9000-firebase-gridgeneral-1770787749264.cluster-fsmcisrvfbb5cr5mvra3hr3qyg.cloudworkstations.dev/?monospaceUid=58064"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <motion.button
+            className="wax-seal w-40 h-40 flex flex-col items-center justify-center text-center"
+            whileHover={{ scale: 1.06 }}
+            whileTap={{ scale: 0.91 }}
+          >
+            <span className="text-2xl mb-1">▶</span>
+            <span className="text-xs uppercase tracking-[0.15em] mb-0.5 opacity-80">Download</span>
+            <span className="text-sm font-bold uppercase tracking-widest">Play Now</span>
+            <div className="mt-2 w-10 h-[1px] bg-amber-200/30" />
+            <span className="text-[10px] mt-1 opacity-40 tracking-wider">LAUNCH</span>
+          </motion.button>
+        </Link>
       </motion.div>
 
       {/* Stone floor inscription — worn into the marble, with small logo */}

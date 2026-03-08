@@ -18,18 +18,18 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
 
   return (
     <div className="space-y-7" style={{
-      color: isVampire ? '#c4d4c8' : '#3a2a1a',
+      color: isVampire ? '#d4c4c4' : '#3a2a1a',
     }}>
       {/* Portrait — deeper atmospheric frame */}
       <div className={`w-full h-52 flex items-center justify-center relative overflow-hidden ${
         isVampire ? 'ichor-glow' : ''
       }`} style={{
         background: isVampire
-          ? 'radial-gradient(ellipse at 50% 50%, rgba(0,255,65,0.12) 0%, rgba(10,10,14,0.97) 60%)'
+          ? 'radial-gradient(ellipse at 50% 50%, rgba(185,28,28,0.12) 0%, rgba(10,10,14,0.97) 60%)'
           : `radial-gradient(ellipse at 50% 45%, rgba(180,160,120,0.35) 0%, rgba(236,220,176,0.05) 60%)`,
-        border: isVampire ? '3px solid #1a3a1a' : '3px solid #8a6a30',
+        border: isVampire ? '3px solid #3a1a1a' : '3px solid #8a6a30',
         boxShadow: isVampire
-          ? 'inset 0 0 40px rgba(0,255,65,0.08), 0 4px 12px rgba(0,0,0,0.4)'
+          ? 'inset 0 0 40px rgba(185,28,28,0.08), 0 4px 12px rgba(0,0,0,0.4)'
           : 'inset 0 0 30px rgba(100,70,20,0.12), 0 4px 12px rgba(0,0,0,0.2)',
       }}>
         {!portraitError ? (
@@ -41,7 +41,7 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
             className="relative z-10 object-contain h-full w-auto max-h-full"
             style={{
               filter: isVampire
-                ? 'drop-shadow(0 0 24px rgba(0,255,65,0.7))'
+                ? 'drop-shadow(0 0 24px rgba(185,28,28,0.7))'
                 : 'drop-shadow(0 3px 6px rgba(0,0,0,0.3))',
             }}
             onError={() => setPortraitError(true)}
@@ -50,7 +50,7 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
         ) : (
           <span className="text-8xl relative z-10" style={{
             filter: isVampire
-              ? 'drop-shadow(0 0 24px rgba(0,255,65,0.7))'
+              ? 'drop-shadow(0 0 24px rgba(185,28,28,0.7))'
               : 'drop-shadow(0 3px 6px rgba(0,0,0,0.3))',
           }}>
             {getIcon(hero.baseClass, isVampire)}
@@ -62,7 +62,7 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
         }} />
         {isVampire && (
           <div className="absolute inset-0 pointer-events-none" style={{
-            background: `radial-gradient(ellipse at 50% 100%, rgba(0,255,65,0.08) 0%, transparent 50%)`,
+            background: `radial-gradient(ellipse at 50% 100%, rgba(185,28,28,0.08) 0%, transparent 50%)`,
             animation: 'ichor-drift 6s ease-in-out infinite alternate',
           }} />
         )}
@@ -72,16 +72,16 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
       <div className="text-center">
         <h3 className="text-3xl font-black tracking-[0.12em]" style={{
           fontFamily: "'Cinzel', serif",
-          color: isVampire ? '#00ff41' : '#9a031e',
+          color: isVampire ? 'var(--color-ichor)' : '#9a031e',
           textShadow: isVampire
-            ? '0 0 15px rgba(0,255,65,0.5), 0 0 30px rgba(0,255,65,0.2)'
+            ? '0 0 15px rgba(185,28,28,0.5), 0 0 30px rgba(185,28,28,0.2)'
             : '0 1px 0 rgba(255,255,255,0.05), 0 -1px 2px rgba(0,0,0,0.2)',
         }}>
           {hero.name}{hero.title ? ',' : ''}
         </h3>
         {hero.title && (
           <p className="text-lg mt-1" style={{
-            color: isVampire ? '#3a8a3a' : '#7a5a3a',
+            color: isVampire ? '#a85a5a' : '#7a5a3a',
             fontFamily: "'EB Garamond', serif",
             fontStyle: 'italic',
           }}>
@@ -92,13 +92,13 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
 
       {/* Lore — ink on parchment blockquote */}
       <div className="px-5 py-4" style={{
-        borderLeft: `4px solid ${isVampire ? '#0a4a0a' : '#b08d57'}`,
+        borderLeft: `4px solid ${isVampire ? '#7f1d1d' : '#b08d57'}`,
         fontStyle: 'italic',
         lineHeight: '1.75',
         fontSize: '0.95rem',
         fontFamily: "'EB Garamond', serif",
         background: isVampire
-          ? 'linear-gradient(90deg, rgba(0,255,65,0.02), transparent)'
+          ? 'linear-gradient(90deg, rgba(185,28,28,0.04), transparent)'
           : 'linear-gradient(90deg, rgba(176,141,87,0.06), transparent)',
       }}>
         &ldquo;{hero.lore}&rdquo;
@@ -108,7 +108,7 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
       <div>
         <h4 className="text-sm font-bold uppercase tracking-[0.12em] mb-3" style={{
           fontFamily: "'Cinzel', serif",
-          color: isVampire ? '#3a8a3a' : '#8a6a3a',
+          color: isVampire ? '#b91c1c' : '#8a6a3a',
         }}>
           Bonus Statistics
         </h4>
@@ -118,14 +118,14 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
               key={key}
               className="text-center p-2.5"
               style={{
-                background: isVampire ? 'rgba(0,255,65,0.04)' : 'rgba(120,90,40,0.06)',
-                border: `1px solid ${isVampire ? '#1a3a1a' : '#c4a87a'}`,
+                background: isVampire ? 'rgba(185,28,28,0.06)' : 'rgba(120,90,40,0.06)',
+                border: `1px solid ${isVampire ? '#3a1a1a' : '#c4a87a'}`,
                 boxShadow: 'inset 0 1px 0 rgba(255,255,255,0.03)',
               }}
               whileHover={{ scale: 1.05 }}
             >
               <div className="text-xl font-bold" style={{
-                color: isVampire ? '#4aba4a' : '#6a4a2a',
+                color: isVampire ? 'var(--color-ichor)' : '#6a4a2a',
               }}>
                 {val > 0 ? '+' : ''}{val}
               </div>
@@ -141,7 +141,7 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
       <div>
         <h4 className="text-sm font-bold uppercase tracking-[0.12em] mb-3" style={{
           fontFamily: "'Cinzel', serif",
-          color: isVampire ? '#3a8a3a' : '#8a6a3a',
+          color: isVampire ? '#b91c1c' : '#8a6a3a',
         }}>
           Growth per Level
         </h4>
@@ -149,7 +149,7 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
           {Object.entries(hero.growth).map(([key, val]) => (
             <div key={key} className="text-center">
               <span className="text-base font-bold" style={{
-                color: isVampire ? '#4aba4a' : '#6a4a2a',
+                color: isVampire ? 'var(--color-ichor)' : '#6a4a2a',
               }}>+{val}</span>
               <span className="text-xs opacity-45 ml-1.5 uppercase" style={{
                 fontFamily: "'Cinzel', serif",
@@ -163,17 +163,17 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
       {/* Aura — embossed panel */}
       <div className="p-5" style={{
         background: isVampire
-          ? 'linear-gradient(135deg, rgba(0,255,65,0.06), rgba(0,50,12,0.08))'
+          ? 'linear-gradient(135deg, rgba(185,28,28,0.08), rgba(127,29,29,0.1))'
           : 'linear-gradient(135deg, rgba(176,141,87,0.1), rgba(176,141,87,0.04))',
-        border: `1px solid ${isVampire ? '#1a3a1a' : '#b08d57'}`,
+        border: `1px solid ${isVampire ? '#3a1a1a' : '#b08d57'}`,
         boxShadow: isVampire
-          ? 'inset 0 0 12px rgba(0,255,65,0.04)'
+          ? 'inset 0 0 12px rgba(185,28,28,0.05)'
           : 'inset 0 0 10px rgba(100,70,20,0.05)',
       }}>
         <h4 className="text-sm font-bold uppercase tracking-[0.12em] mb-3" style={{
           fontFamily: "'Cinzel', serif",
-          color: isVampire ? '#00ff41' : '#b08d57',
-          textShadow: isVampire ? '0 0 6px rgba(0,255,65,0.3)' : 'none',
+          color: isVampire ? 'var(--color-ichor)' : '#b08d57',
+          textShadow: isVampire ? '0 0 6px rgba(185,28,28,0.35)' : 'none',
         }}>
           Passive Aura (Range: {hero.aura.range})
           {hero.aura.undeadOnly && <span className="ml-2 text-xs opacity-50">— Undead Only</span>}
@@ -181,7 +181,7 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
         <div className="flex flex-wrap gap-4">
           {Object.entries(hero.aura.bonuses).map(([key, val]) => (
             <div key={key} className="text-sm">
-              <span className="font-bold" style={{ color: isVampire ? '#4aba4a' : '#6a4a2a' }}>
+              <span className="font-bold" style={{ color: isVampire ? 'var(--color-ichor)' : '#6a4a2a' }}>
                 +{val}
               </span>{' '}
               <span className="uppercase text-xs opacity-55" style={{
@@ -199,18 +199,18 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
       {/* Ability — heavier border, branded feel */}
       <div className="p-5" style={{
         background: isVampire
-          ? 'linear-gradient(135deg, rgba(0,255,65,0.08), rgba(0,80,20,0.1))'
+          ? 'linear-gradient(135deg, rgba(185,28,28,0.1), rgba(127,29,29,0.12))'
           : 'linear-gradient(135deg, rgba(154,3,30,0.08), rgba(154,3,30,0.03))',
-        border: isVampire ? '2px solid #0a4a0a' : `2px solid rgba(154,3,30,0.25)`,
+        border: isVampire ? '2px solid #7f1d1d' : `2px solid rgba(154,3,30,0.25)`,
         boxShadow: isVampire
-          ? 'inset 0 0 15px rgba(0,255,65,0.04)'
+          ? 'inset 0 0 15px rgba(185,28,28,0.05)'
           : 'inset 0 0 10px rgba(154,3,30,0.04)',
       }}>
         <div className="flex items-center justify-between mb-3">
           <h4 className="text-lg font-bold tracking-[0.08em]" style={{
             fontFamily: "'Cinzel', serif",
-            color: isVampire ? '#00ff41' : '#9a031e',
-            textShadow: isVampire ? '0 0 8px rgba(0,255,65,0.4)' : 'none',
+            color: isVampire ? 'var(--color-ichor)' : '#9a031e',
+            textShadow: isVampire ? '0 0 8px rgba(185,28,28,0.4)' : 'none',
           }}>
             ✧ {hero.ability.name}
           </h4>
@@ -234,7 +234,7 @@ export default function HeroDetail({ hero, variant }: HeroDetailProps) {
 
       {/* Bottom seal — branded into parchment */}
       <div className="text-center pt-5" style={{
-        borderTop: `2px solid ${isVampire ? '#1a3a1a' : '#b08d57'}`,
+        borderTop: `2px solid ${isVampire ? '#3a1a1a' : '#b08d57'}`,
       }}>
         {hero.vampireHero ? (
           <span className="ichor-text text-sm" style={{ fontFamily: "'EB Garamond', serif", fontStyle: 'italic' }}>

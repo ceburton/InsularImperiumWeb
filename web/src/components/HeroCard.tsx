@@ -27,7 +27,7 @@ export default function HeroCard({ hero, index, onClick, variant }: HeroCardProp
       whileHover={{
         y: -6,
         boxShadow: isVampire
-          ? '0 10px 35px rgba(0,255,65,0.15), 0 0 50px rgba(0,255,65,0.06), 0 4px 12px rgba(0,0,0,0.5)'
+          ? '0 10px 35px rgba(185,28,28,0.2), 0 0 50px rgba(185,28,28,0.08), 0 4px 12px rgba(0,0,0,0.5)'
           : '0 10px 30px rgba(0,0,0,0.55), 0 4px 12px rgba(0,0,0,0.3)',
       }}
       onClick={onClick}
@@ -35,7 +35,7 @@ export default function HeroCard({ hero, index, onClick, variant }: HeroCardProp
       {/* Vampire ichor smoke overlay — heavier, animated */}
       {isVampire && (
         <div className="absolute inset-0 pointer-events-none z-0" style={{
-          background: 'radial-gradient(ellipse at 50% 0%, rgba(0,255,65,0.08) 0%, transparent 60%)',
+          background: 'radial-gradient(ellipse at 50% 0%, rgba(185,28,28,0.08) 0%, transparent 60%)',
           animation: 'ichor-drift 5s ease-in-out infinite alternate',
         }} />
       )}
@@ -51,11 +51,11 @@ export default function HeroCard({ hero, index, onClick, variant }: HeroCardProp
         isVampire ? 'ichor-glow' : ''
       }`} style={{
         background: isVampire
-          ? 'radial-gradient(ellipse at 50% 50%, rgba(0,255,65,0.1) 0%, rgba(10,10,14,0.95) 60%)'
+          ? 'radial-gradient(ellipse at 50% 50%, rgba(185,28,28,0.12) 0%, rgba(10,10,14,0.95) 60%)'
           : `radial-gradient(ellipse at 50% 50%, rgba(180,160,120,0.35) 0%, rgba(236,220,176,0.1) 60%)`,
-        border: isVampire ? '2px solid #1a3a1a' : '2px solid #8a6a30',
+        border: isVampire ? '2px solid #3a1a1a' : '2px solid #8a6a30',
         boxShadow: isVampire
-          ? 'inset 0 0 30px rgba(0,255,65,0.06)'
+          ? 'inset 0 0 30px rgba(185,28,28,0.08)'
           : 'inset 0 0 20px rgba(100,70,20,0.1)',
       }}>
         {!portraitError ? (
@@ -66,14 +66,14 @@ export default function HeroCard({ hero, index, onClick, variant }: HeroCardProp
             height={176}
             className="relative z-10 object-contain h-full w-auto max-h-full"
             style={{
-              filter: isVampire ? 'drop-shadow(0 0 16px rgba(0,255,65,0.7))' : 'drop-shadow(0 2px 4px rgba(0,0,0,0.3))',
+              filter: isVampire ? 'drop-shadow(0 0 16px rgba(185,28,28,0.7))' : 'drop-shadow(0 2px 4px rgba(0,0,0,0.3))',
             }}
             onError={() => setPortraitError(true)}
             unoptimized
           />
         ) : (
           <span className="text-7xl relative z-10" style={{
-            filter: isVampire ? 'drop-shadow(0 0 16px rgba(0,255,65,0.7))' : 'drop-shadow(0 2px 4px rgba(0,0,0,0.3))',
+            filter: isVampire ? 'drop-shadow(0 0 16px rgba(185,28,28,0.7))' : 'drop-shadow(0 2px 4px rgba(0,0,0,0.3))',
           }}>
             {getHeroIcon(hero.baseClass, isVampire)}
           </span>
@@ -88,16 +88,16 @@ export default function HeroCard({ hero, index, onClick, variant }: HeroCardProp
       <div className="mb-3 text-center relative z-10">
         <h3 className="text-xl font-bold tracking-[0.12em]" style={{
           fontFamily: "'Cinzel', serif",
-          color: isVampire ? '#00ff41' : '#9a031e',
+          color: isVampire ? 'var(--color-ichor)' : '#9a031e',
           textShadow: isVampire
-            ? '0 0 12px rgba(0,255,65,0.5), 0 0 25px rgba(0,255,65,0.2)'
+            ? '0 0 12px rgba(185,28,28,0.5), 0 0 25px rgba(185,28,28,0.2)'
             : '0 1px 0 rgba(255,255,255,0.05), 0 -1px 2px rgba(0,0,0,0.2)',
         }}>
           {hero.name}
         </h3>
         {hero.title && (
           <p className="text-sm mt-0.5" style={{
-            color: isVampire ? '#3a8a3a' : '#7a5a3a',
+            color: isVampire ? '#a85a5a' : '#7a5a3a',
             fontFamily: "'EB Garamond', serif",
             fontStyle: 'italic',
           }}>
@@ -117,7 +117,7 @@ export default function HeroCard({ hero, index, onClick, variant }: HeroCardProp
         {Object.entries(hero.bonusStats).filter(([, v]) => v !== 0).map(([key, val]) => (
           <div key={key} className="text-center px-1">
             <div className="text-base font-bold" style={{
-              color: isVampire ? '#4aba4a' : '#6a4a2a',
+              color: isVampire ? 'var(--color-ichor)' : '#6a4a2a',
             }}>
               +{val}
             </div>
@@ -131,25 +131,25 @@ export default function HeroCard({ hero, index, onClick, variant }: HeroCardProp
       {/* Ability plaque — pressed into bronze/obsidian */}
       <div className="mt-3 p-3.5 relative z-10" style={{
         background: isVampire
-          ? 'linear-gradient(135deg, rgba(0,255,65,0.05), rgba(0,80,20,0.08))'
+          ? 'linear-gradient(135deg, rgba(185,28,28,0.06), rgba(127,29,29,0.1))'
           : 'linear-gradient(135deg, rgba(120,90,40,0.08), rgba(120,90,40,0.03))',
-        border: isVampire ? '1px solid #1a3a1a' : '1px solid #b08d57',
+        border: isVampire ? '1px solid #3a1a1a' : '1px solid #b08d57',
         boxShadow: isVampire
-          ? 'inset 0 0 10px rgba(0,255,65,0.03)'
+          ? 'inset 0 0 10px rgba(185,28,28,0.04)'
           : 'inset 0 0 8px rgba(100,70,20,0.06)',
       }}>
         <div className="flex items-center gap-2 mb-1.5">
           <span className="text-xs font-bold uppercase tracking-[0.1em]" style={{
-            color: isVampire ? '#00ff41' : '#9a031e',
+            color: isVampire ? 'var(--color-ichor)' : '#9a031e',
             fontFamily: "'Cinzel', serif",
-            textShadow: isVampire ? '0 0 6px rgba(0,255,65,0.3)' : 'none',
+            textShadow: isVampire ? '0 0 6px rgba(185,28,28,0.35)' : 'none',
           }}>
             ✧ {hero.ability.name}
           </span>
           <span className="text-[10px] opacity-35 ml-auto">CD: {hero.ability.cooldown}</span>
         </div>
         <p className="text-xs leading-relaxed" style={{
-          color: isVampire ? '#7a9a7a' : '#4a3a2a',
+          color: isVampire ? '#a87a7a' : '#4a3a2a',
           fontFamily: "'EB Garamond', serif",
         }}>
           {hero.ability.description}
@@ -160,7 +160,7 @@ export default function HeroCard({ hero, index, onClick, variant }: HeroCardProp
       <div className="mt-3 text-center relative z-10">
         {hero.cost > 0 ? (
           <span className="text-[10px] uppercase tracking-[0.1em]" style={{
-            color: isVampire ? '#4a6a4a' : '#8a7a5a',
+            color: isVampire ? '#8a5a5a' : '#8a7a5a',
             fontFamily: "'Cinzel', serif",
           }}>
             {hero.cost}g &bull; {hero.maintenance}g/turn

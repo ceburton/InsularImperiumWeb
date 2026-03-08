@@ -91,7 +91,7 @@ function DashboardContent() {
               className={`relative w-full text-left mb-1 px-3 py-3.5 flex items-center gap-3 leather-stitch nav-plate ${isActive ? 'active' : ''}`}
               style={{
                 color: isVampire
-                  ? (isActive ? '#00ff41' : '#3a7a3a')
+                  ? (isActive ? 'var(--color-ichor)' : '#7a3a3a')
                   : (isActive ? '#ecdcb0' : '#9a8a70'),
                 fontFamily: "'Cinzel', serif",
                 fontSize: '0.82rem',
@@ -104,10 +104,10 @@ function DashboardContent() {
               {/* Iron-stamped sigil */}
               <span className="text-xl flex-shrink-0" style={{
                 filter: isVampire
-                  ? `drop-shadow(0 0 ${isActive ? '6' : '3'}px rgba(0,255,65,0.5))`
+                  ? `drop-shadow(0 0 ${isActive ? '6' : '3'}px rgba(185,28,28,0.5))`
                   : `drop-shadow(0 1px 3px rgba(0,0,0,0.8))`,
                 textShadow: isActive
-                  ? (isVampire ? '0 0 10px rgba(0,255,65,0.4)' : '0 0 8px rgba(176,141,87,0.4)')
+                  ? (isVampire ? '0 0 10px rgba(185,28,28,0.4)' : '0 0 8px rgba(176,141,87,0.4)')
                   : 'none',
               }}>
                 {item.sigil}
@@ -130,10 +130,10 @@ function DashboardContent() {
                 >
                   <div className="w-2.5 h-2.5 rounded-full" style={{
                     background: isVampire
-                      ? 'radial-gradient(circle, #00ff41, #004a10)'
+                      ? 'radial-gradient(circle, var(--color-ichor), var(--color-ichor-dark))'
                       : 'radial-gradient(circle at 35% 35%, #d4a84a, #6a5020)',
                     boxShadow: isVampire
-                      ? '0 0 8px rgba(0,255,65,0.6), 0 0 16px rgba(0,255,65,0.25)'
+                      ? '0 0 8px rgba(185,28,28,0.6), 0 0 16px rgba(185,28,28,0.25)'
                       : '0 0 6px rgba(176,141,87,0.5), inset 0 -1px 2px rgba(0,0,0,0.4)',
                   }} />
                 </motion.div>
@@ -226,7 +226,7 @@ function DashboardContent() {
               {/* Corrupted obsidian header */}
               <div className="mb-10 p-8 obsidian-panel relative overflow-hidden">
                 <div className="absolute inset-0 pointer-events-none" style={{
-                  background: `radial-gradient(ellipse at 50% 0%, rgba(0,255,65,0.1) 0%, transparent 50%)`,
+                  background: `radial-gradient(ellipse at 50% 0%, rgba(185,28,28,0.1) 0%, transparent 50%)`,
                   animation: 'ichor-drift 5s ease-in-out infinite alternate',
                 }} />
                 {/* Ichor rivets */}
@@ -251,10 +251,10 @@ function DashboardContent() {
                 <div className="flex justify-center gap-3 mt-5 relative z-10">
                   {['DISEASED', 'FEARED', 'DESECRATED', 'SIPHONED'].map((status) => (
                     <span key={status} className="text-[10px] uppercase tracking-[0.15em] px-3 py-1.5" style={{
-                      border: '1px solid #1a3a1a',
-                      color: '#3a6a3a',
-                      background: 'rgba(0,255,65,0.04)',
-                      textShadow: '0 0 6px rgba(0,255,65,0.2)',
+                      border: '1px solid #3a1a1a',
+                      color: '#8a4a4a',
+                      background: 'rgba(185,28,28,0.06)',
+                      textShadow: '0 0 6px rgba(185,28,28,0.25)',
                     }}>
                       {status}
                     </span>
@@ -283,7 +283,7 @@ function DashboardContent() {
                 }}>
                   Undead Mechanics
                 </h3>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm" style={{ color: '#8aaa8a' }}>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm" style={{ color: '#b89a9a' }}>
                   {[
                     { title: 'Corruption', text: 'Undead presence corrupts terrain within 6 tiles. After 3 turns, tiles have a 50% chance of spawning undead units.' },
                     { title: 'Frenzy', text: 'Undead within 6 tiles of their hero gain +50% ATK but lose 5% HP per turn.' },
@@ -293,8 +293,8 @@ function DashboardContent() {
                     { title: 'Escalation', text: 'Four waves, each bringing a new vampire hero. The undead grow stronger with each fort that falls.' },
                   ].map((m) => (
                     <div key={m.title} className="p-4 relative" style={{
-                      border: '1px solid #1a3a1a',
-                      background: 'rgba(0,255,65,0.02)',
+                      border: '1px solid #3a1a1a',
+                      background: 'rgba(185,28,28,0.03)',
                     }}>
                       <strong className="ichor-text text-sm">{m.title}:</strong>
                       <span className="ml-1">{m.text}</span>

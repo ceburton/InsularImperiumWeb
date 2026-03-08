@@ -33,8 +33,8 @@ function HeroPortraitCard({ hero, variant }: { hero: Hero; variant: 'blue' | 'va
       <div
         className="w-24 h-24 rounded-lg overflow-hidden border-2 flex-shrink-0 transition-all duration-200 relative flex items-center justify-center"
         style={{
-          borderColor: isVampire ? '#1a3a1a' : '#8a6a30',
-          boxShadow: hover ? (isVampire ? '0 0 20px rgba(0,255,65,0.3)' : '0 0 20px rgba(176,141,87,0.4)') : 'none',
+          borderColor: isVampire ? '#3a1a1a' : '#8a6a30',
+          boxShadow: hover ? (isVampire ? '0 0 20px rgba(185,28,28,0.4)' : '0 0 20px rgba(176,141,87,0.4)') : 'none',
         }}
       >
         {!imgError ? (
@@ -60,11 +60,11 @@ function HeroPortraitCard({ hero, variant }: { hero: Hero; variant: 'blue' | 'va
           className="absolute left-full ml-3 top-0 z-50 w-72 p-4 rounded border shadow-xl"
           style={{
             background: isVampire ? 'linear-gradient(135deg, #0a1a0a, #141418)' : 'linear-gradient(135deg, #2a2520, #1a1814)',
-            borderColor: isVampire ? '#1a3a1a' : '#8a6a30',
+            borderColor: isVampire ? '#3a1a1a' : '#8a6a30',
             fontFamily: "'EB Garamond', serif",
           }}
         >
-          <div className="font-bold text-lg mb-2" style={{ color: isVampire ? '#00ff41' : '#b08d57', fontFamily: "'Cinzel', serif" }}>
+          <div className="font-bold text-lg mb-2" style={{ color: isVampire ? 'var(--color-ichor)' : '#b08d57', fontFamily: "'Cinzel', serif" }}>
             {hero.name}{hero.title ? `, ${hero.title}` : ''}
           </div>
           <div className="text-xs uppercase text-parchment-dark/80 mb-2">Aura (Range: {hero.aura.range})</div>
@@ -73,7 +73,7 @@ function HeroPortraitCard({ hero, variant }: { hero: Hero; variant: 'blue' | 'va
               <span key={k}>+{v} {k}</span>
             ))}
           </div>
-          <div className="mt-3 pt-2 border-t" style={{ borderColor: isVampire ? '#1a3a1a' : '#6a5020' }}>
+          <div className="mt-3 pt-2 border-t" style={{ borderColor: isVampire ? '#3a1a1a' : '#6a5020' }}>
             <div className="text-xs uppercase text-parchment-dark/80 mb-1">Ability: {hero.ability.name}</div>
             <p className="text-sm leading-snug text-parchment/95">{hero.ability.description}</p>
             <div className="text-[10px] mt-1 opacity-70">CD: {hero.ability.cooldown} · Rng: {hero.ability.range}</div>

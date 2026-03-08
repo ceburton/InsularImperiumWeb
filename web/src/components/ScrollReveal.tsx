@@ -96,7 +96,7 @@ export default function ScrollReveal({ children, isOpen, onClose, title, variant
                 className="engraved-deep text-2xl md:text-3xl font-black mt-6 mb-6 text-center tracking-wide"
                 style={{
                   fontFamily: "'Cinzel', serif",
-                  color: isParchment ? '#4a3828' : '#00ff41',
+                  color: isParchment ? '#4a3828' : 'var(--color-ichor)',
                 }}
               >
                 {title}

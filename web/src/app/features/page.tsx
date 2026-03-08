@@ -153,9 +153,9 @@ export default function FeaturesPage() {
 
   return (
     <div className="marble-bg min-h-screen">
-      {/* Sticky navigation */}
+      {/* Fixed top navigation — stays at top of viewport while scrolling */}
       <nav
-        className="sticky top-0 z-40 w-full border-b flex items-center justify-center gap-1 py-3 px-4"
+        className="fixed top-0 left-0 right-0 z-40 w-full border-b flex items-center justify-center gap-1 py-3 px-4"
         style={{
           background: 'linear-gradient(180deg, rgba(22,22,24,0.97), rgba(26,24,22,0.95))',
           borderColor: 'var(--color-bronze-dark)',
@@ -183,6 +183,9 @@ export default function FeaturesPage() {
           ))}
         </div>
       </nav>
+
+      {/* Spacer so content is not hidden under fixed nav */}
+      <div className="h-16 flex-shrink-0" aria-hidden />
 
       <main>
         {/* Hero title & intro — full width */}

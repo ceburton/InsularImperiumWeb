@@ -148,6 +148,7 @@ export default function FeaturesPage() {
   }, []);
 
   const scrollTo = (id: string) => {
+    setActiveId(id);
     sectionRefs.current[id]?.scrollIntoView({ behavior: 'smooth' });
   };
 

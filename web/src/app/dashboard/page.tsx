@@ -214,7 +214,7 @@ function DashboardContent() {
           {activeTab === 'heroes' && (
             <motion.div key="heroes" {...tabTransition}>
               <SectionHeader
-                title="Heroes of Rome"
+                title="Heroes of Insular Imperium"
                 subtitle="Nine champions of the Imperium. Each commands a unique aura and wields a devastating ability."
                 color="#9a031e"
               />

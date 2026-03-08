@@ -102,28 +102,27 @@ export default function ScrollReveal({ children, isOpen, onClose, title, variant
                 {title}
               </h2>
 
-              {/* Content */}
+              {/* Content — bottom rod is inside so it sits at end of content and scrolls with it */}
               <div className="relative">
                 {children}
-              </div>
-
-              {/* ── Scroll rod BOTTOM ── */}
-              <div className="absolute bottom-0 left-3 right-3 h-4 z-10" style={{
-                background: 'linear-gradient(180deg, #6a5020 0%, #8a6a30 25%, #b08d57 50%, #c4a060 75%, #9a7a40 100%)',
-                borderRadius: '3px',
-                boxShadow: '0 -3px 8px rgba(0,0,0,0.5), inset 0 -1px 0 rgba(255,255,255,0.2), inset 0 1px 2px rgba(0,0,0,0.3)',
-              }}>
-                <div className="absolute -left-1.5 top-0 bottom-0 w-3 rounded-l" style={{
-                  background: 'radial-gradient(ellipse at 40% 60%, #d4a84a, #6a5020)',
-                  boxShadow: '-1px 0 3px rgba(0,0,0,0.4)',
-                }} />
-                <div className="absolute -right-1.5 top-0 bottom-0 w-3 rounded-r" style={{
-                  background: 'radial-gradient(ellipse at 60% 60%, #d4a84a, #6a5020)',
-                  boxShadow: '1px 0 3px rgba(0,0,0,0.4)',
-                }} />
-                <div className="absolute inset-0 opacity-15" style={{
-                  background: 'repeating-linear-gradient(90deg, transparent, transparent 12px, rgba(0,0,0,0.15) 12px, transparent 13px)',
-                }} />
+                {/* ── Scroll rod BOTTOM (end of content, scrolls with unit info) ── */}
+                <div className="mt-8 mx-0 h-4 relative flex-shrink-0" style={{
+                  background: 'linear-gradient(180deg, #6a5020 0%, #8a6a30 25%, #b08d57 50%, #c4a060 75%, #9a7a40 100%)',
+                  borderRadius: '3px',
+                  boxShadow: '0 -3px 8px rgba(0,0,0,0.5), inset 0 -1px 0 rgba(255,255,255,0.2), inset 0 1px 2px rgba(0,0,0,0.3)',
+                }}>
+                  <div className="absolute -left-1.5 top-0 bottom-0 w-3 rounded-l" style={{
+                    background: 'radial-gradient(ellipse at 40% 60%, #d4a84a, #6a5020)',
+                    boxShadow: '-1px 0 3px rgba(0,0,0,0.4)',
+                  }} />
+                  <div className="absolute -right-1.5 top-0 bottom-0 w-3 rounded-r" style={{
+                    background: 'radial-gradient(ellipse at 60% 60%, #d4a84a, #6a5020)',
+                    boxShadow: '1px 0 3px rgba(0,0,0,0.4)',
+                  }} />
+                  <div className="absolute inset-0 opacity-15" style={{
+                    background: 'repeating-linear-gradient(90deg, transparent, transparent 12px, rgba(0,0,0,0.15) 12px, transparent 13px)',
+                  }} />
+                </div>
               </div>
             </motion.div>
           </motion.div>

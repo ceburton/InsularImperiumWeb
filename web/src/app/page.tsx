@@ -20,7 +20,7 @@ function Rivet({ className }: { className: string }) {
 
 export default function LandingPortal() {
   return (
-    <div className="landing-bg min-h-screen flex flex-col items-center justify-center relative overflow-hidden">
+    <div className="landing-bg min-h-screen md:h-screen md:min-h-0 md:overflow-hidden flex flex-col items-center justify-center relative overflow-x-hidden overflow-y-auto md:overflow-y-hidden">
       {/* Ambient dust particles — thicker, slower (seeded + r4 for exact server/client match) */}
       <div className="absolute inset-0 pointer-events-none z-10">
         {[...Array(30)].map((_, i) => {
@@ -63,15 +63,15 @@ export default function LandingPortal() {
         })}
       </div>
 
-      {/* Stone slab title — heavier, cracked, aged */}
+      {/* Stone slab title — heavier, cracked, aged; tighter margin on desktop so shields fit in viewport */}
       <motion.div
-        className="relative z-20 mb-20"
+        className="relative z-20 mb-4 md:mb-6"
         initial={{ opacity: 0, y: -40 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1.2, ease: [0.22, 1, 0.36, 1] }}
       >
         {/* Stone slab with heavier frame */}
-        <div className="relative px-12 md:px-20 py-10 md:py-14 bronze-frame" style={{
+        <div className="relative px-12 md:px-20 py-6 md:py-8 bronze-frame" style={{
           background: `
             /* Surface scratches */
             repeating-linear-gradient(
@@ -109,14 +109,14 @@ export default function LandingPortal() {
               alt="Insular Imperium"
               width={480}
               height={144}
-              className="h-[140px] md:h-[200px] lg:h-[280px] w-auto object-contain drop-shadow-[0_4px_24px_rgba(0,0,0,0.5)]"
+              className="h-[100px] md:h-[140px] lg:h-[180px] w-auto object-contain drop-shadow-[0_4px_24px_rgba(0,0,0,0.5)]"
               priority
             />
           </motion.div>
 
           {/* Game title — big, beautiful, engraved */}
           <motion.h2
-            className="engraved-deep text-center mt-6 text-3xl md:text-4xl lg:text-5xl font-black tracking-[0.25em] uppercase select-none"
+            className="engraved-deep text-center mt-3 md:mt-4 text-2xl md:text-3xl lg:text-4xl font-black tracking-[0.25em] uppercase select-none"
             style={{
               color: '#c4a87a',
               fontFamily: "'Cinzel', serif",
@@ -133,7 +133,7 @@ export default function LandingPortal() {
 
           {/* Decorative bronze filigree below title */}
           <motion.div
-            className="flex items-center justify-center gap-3 mt-4"
+            className="flex items-center justify-center gap-3 mt-2 md:mt-3"
             initial={{ opacity: 0 }}
             animate={{ opacity: 0.5 }}
             transition={{ delay: 3, duration: 1 }}
@@ -162,25 +162,28 @@ export default function LandingPortal() {
         </motion.div>
       </motion.div>
 
-      {/* Wax Seal CTA buttons — bigger, drippier */}
+      {/* CTA buttons — image assets, links preserved */}
       <motion.div
-        className="relative z-20 flex flex-col sm:flex-row gap-12 items-center"
+        className="relative z-20 flex flex-col sm:flex-row gap-3 items-center"
         initial={{ opacity: 0, y: 50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 1.8, duration: 1.2, ease: [0.22, 1, 0.36, 1] }}
       >
-        <Link href="/features">
-          <motion.button
-            className="wax-seal w-40 h-40 flex flex-col items-center justify-center text-center"
+        <Link href="/features" className="block">
+          <motion.span
+            className="block w-96 max-w-[min(384px,85vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >
-            <span className="text-2xl mb-1">✦</span>
-            <span className="text-xs uppercase tracking-[0.15em] mb-0.5 opacity-80">Tactical</span>
-            <span className="text-sm font-bold uppercase tracking-widest">Features</span>
-            <div className="mt-2 w-10 h-[1px] bg-amber-200/30" />
-            <span className="text-[10px] mt-1 opacity-40 tracking-wider">OVERVIEW</span>
-          </motion.button>
+            <Image
+              src="/assets/button-features.png"
+              alt="Features"
+              width={384}
+              height={384}
+              className="w-full h-full object-contain"
+            />
+            <span className="cta-button-label">Features</span>
+          </motion.span>
         </Link>
 
         {/* Divider — bronze chain link */}
@@ -194,18 +197,21 @@ export default function LandingPortal() {
           ))}
         </div>
 
-        <Link href="/dashboard">
-          <motion.button
-            className="wax-seal w-40 h-40 flex flex-col items-center justify-center text-center"
+        <Link href="/dashboard" className="block">
+          <motion.span
+            className="block w-96 max-w-[min(384px,85vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >
-            <span className="text-2xl mb-1">⚔</span>
-            <span className="text-xs uppercase tracking-[0.15em] mb-0.5 opacity-80">Enter the</span>
-            <span className="text-sm font-bold uppercase tracking-widest">War Room</span>
-            <div className="mt-2 w-10 h-[1px] bg-amber-200/30" />
-            <span className="text-[10px] mt-1 opacity-40 tracking-wider">SPQR</span>
-          </motion.button>
+            <Image
+              src="/assets/button-units.png"
+              alt="War Room"
+              width={384}
+              height={384}
+              className="w-full h-full object-contain"
+            />
+            <span className="cta-button-label">Units</span>
+          </motion.span>
         </Link>
 
         {/* Divider — bronze chain link */}
@@ -219,18 +225,21 @@ export default function LandingPortal() {
           ))}
         </div>
 
-        <Link href="/media">
-          <motion.button
-            className="wax-seal w-40 h-40 flex flex-col items-center justify-center text-center"
+        <Link href="/media" className="block">
+          <motion.span
+            className="block w-96 max-w-[min(384px,85vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >
-            <span className="text-2xl mb-1">🎬</span>
-            <span className="text-xs uppercase tracking-[0.15em] mb-0.5 opacity-80">Screenshots</span>
-            <span className="text-sm font-bold uppercase tracking-widest">Media</span>
-            <div className="mt-2 w-10 h-[1px] bg-amber-200/30" />
-            <span className="text-[10px] mt-1 opacity-40 tracking-wider">GALLERY</span>
-          </motion.button>
+            <Image
+              src="/assets/button-media.png"
+              alt="Media"
+              width={384}
+              height={384}
+              className="w-full h-full object-contain"
+            />
+            <span className="cta-button-label">Media</span>
+          </motion.span>
         </Link>
 
         {/* Divider — bronze chain link */}
@@ -248,24 +257,28 @@ export default function LandingPortal() {
           href="https://9000-firebase-gridgeneral-1770787749264.cluster-fsmcisrvfbb5cr5mvra3hr3qyg.cloudworkstations.dev/?monospaceUid=58064"
           target="_blank"
           rel="noopener noreferrer"
+          className="block"
         >
-          <motion.button
-            className="wax-seal w-40 h-40 flex flex-col items-center justify-center text-center"
+          <motion.span
+            className="block w-96 max-w-[min(384px,85vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >
-            <span className="text-2xl mb-1">▶</span>
-            <span className="text-xs uppercase tracking-[0.15em] mb-0.5 opacity-80">Download</span>
-            <span className="text-sm font-bold uppercase tracking-widest">Play Now</span>
-            <div className="mt-2 w-10 h-[1px] bg-amber-200/30" />
-            <span className="text-[10px] mt-1 opacity-40 tracking-wider">LAUNCH</span>
-          </motion.button>
+            <Image
+              src="/assets/button-play.png"
+              alt="Play Now"
+              width={384}
+              height={384}
+              className="w-full h-full object-contain"
+            />
+            <span className="cta-button-label">Play Now</span>
+          </motion.span>
         </Link>
       </motion.div>
 
       {/* Stone floor inscription — worn into the marble, with small logo */}
       <motion.div
-        className="absolute bottom-8 z-20 text-center flex flex-col items-center gap-4"
+        className="absolute bottom-4 md:bottom-6 z-20 text-center flex flex-col items-center gap-2 md:gap-4"
         initial={{ opacity: 0 }}
         animate={{ opacity: 0.35 }}
         transition={{ delay: 4, duration: 2 }}

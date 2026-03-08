@@ -86,12 +86,28 @@ function DashboardContent() {
               className={`relative w-full text-left mb-1 px-3 py-3.5 flex items-center gap-3 leather-stitch nav-plate ${isActive ? 'active' : ''}`}
               style={{
                 color: isVampire
-                  ? (isActive ? 'var(--color-ichor)' : '#7a3a3a')
+                  ? (isActive ? '#f0a0a0' : '#d49090')
                   : (isActive ? '#ecdcb0' : '#9a8a70'),
                 fontFamily: "'Cinzel', serif",
                 fontSize: '0.82rem',
                 cursor: 'pointer',
-                border: 'none',
+                borderTop: 'none',
+                borderRight: 'none',
+                borderBottom: 'none',
+                borderLeft: isVampire && isActive
+                  ? '3px solid var(--color-ichor)'
+                  : isActive
+                    ? '3px solid #b08d57'
+                    : '3px solid transparent',
+                ...(isVampire && !isActive && {
+                  background: 'rgba(185,28,28,0.12)',
+                  boxShadow: 'inset 0 0 0 1px rgba(185,28,28,0.25)',
+                }),
+                ...(isVampire && isActive && {
+                  background: 'linear-gradient(90deg, rgba(185,28,28,0.35) 0%, rgba(185,28,28,0.12) 100%)',
+                  boxShadow: 'inset 0 0 0 2px rgba(185,28,28,0.6), 0 0 12px rgba(185,28,28,0.2)',
+                }),
+                ...(isVampire && isActive && { textShadow: '0 0 10px rgba(185,28,28,0.4)' }),
               }}
               whileHover={{ x: 4 }}
               onClick={() => setActiveTab(item.key)}
@@ -99,19 +115,20 @@ function DashboardContent() {
               {/* Iron-stamped sigil */}
               <span className="text-xl flex-shrink-0" style={{
                 filter: isVampire
-                  ? `drop-shadow(0 0 ${isActive ? '6' : '3'}px rgba(185,28,28,0.5))`
+                  ? `drop-shadow(0 0 ${isActive ? '10' : '5'}px rgba(185,28,28,0.8))`
                   : `drop-shadow(0 1px 3px rgba(0,0,0,0.8))`,
                 textShadow: isActive
-                  ? (isVampire ? '0 0 10px rgba(185,28,28,0.4)' : '0 0 8px rgba(176,141,87,0.4)')
-                  : 'none',
+                  ? (isVampire ? '0 0 16px rgba(185,28,28,0.7), 0 0 4px rgba(255,200,200,0.5)' : '0 0 8px rgba(176,141,87,0.4)')
+                  : (isVampire ? '0 0 6px rgba(185,28,28,0.4)' : 'none'),
               }}>
                 {item.sigil}
               </span>
               <div className="flex flex-col">
-                <span className="tracking-wider leading-tight">{item.label}</span>
-                <span className="text-[9px] tracking-wider opacity-40 mt-0.5" style={{
+                <span className={`tracking-wider leading-tight ${isVampire ? 'font-semibold' : ''}`}>{item.label}</span>
+                <span className="text-[9px] tracking-wider mt-0.5" style={{
                   fontFamily: "'EB Garamond', serif",
                   fontStyle: 'italic',
+                  opacity: isVampire ? (isActive ? 0.95 : 0.75) : 0.4,
                 }}>
                   {item.subtitle}
                 </span>
@@ -125,10 +142,10 @@ function DashboardContent() {
                 >
                   <div className="w-2.5 h-2.5 rounded-full" style={{
                     background: isVampire
-                      ? 'radial-gradient(circle, var(--color-ichor), var(--color-ichor-dark))'
+                      ? 'radial-gradient(circle, #f0a0a0, var(--color-ichor), var(--color-ichor-dark))'
                       : 'radial-gradient(circle at 35% 35%, #d4a84a, #6a5020)',
                     boxShadow: isVampire
-                      ? '0 0 8px rgba(185,28,28,0.6), 0 0 16px rgba(185,28,28,0.25)'
+                      ? '0 0 10px rgba(185,28,28,0.9), 0 0 20px rgba(185,28,28,0.4), inset 0 0 6px rgba(255,200,200,0.3)'
                       : '0 0 6px rgba(176,141,87,0.5), inset 0 -1px 2px rgba(0,0,0,0.4)',
                   }} />
                 </motion.div>
@@ -159,7 +176,7 @@ function DashboardContent() {
             <motion.div key="units" {...tabTransition}>
               {/* Section: Roman Units */}
               <SectionHeader
-                title="Roman Legions"
+                title="Insular Imperium Units"
                 subtitle="The backbone of the Imperium. Every soldier, from the humblest Hastatus to the mightiest Onager."
                 color="#9a031e"
               />

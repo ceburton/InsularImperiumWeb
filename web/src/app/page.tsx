@@ -111,6 +111,7 @@ export default function LandingPortal() {
               height={144}
               className="h-[100px] md:h-[140px] lg:h-[180px] w-auto object-contain drop-shadow-[0_4px_24px_rgba(0,0,0,0.5)]"
               priority
+              loading="eager"
             />
           </motion.div>
 

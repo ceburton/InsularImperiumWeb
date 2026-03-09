@@ -17,6 +17,7 @@ export default function HomeLogo({ className = '' }: HomeLogoProps) {
           width={250}
           height={75}
           className="h-[75px] w-auto object-contain"
+          loading="eager"
         />
       </Link>
       <span

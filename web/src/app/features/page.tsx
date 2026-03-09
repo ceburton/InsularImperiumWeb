@@ -125,6 +125,7 @@ function ScreenshotPlaceholder({ title, caption, imageSrc, imageAlt }: { title: 
 
 export default function FeaturesPage() {
   const [activeId, setActiveId] = useState<string>(SECTIONS[0].id);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const sectionRefs = useRef<Record<string, HTMLElement | null>>({});
 
   useEffect(() => {
@@ -151,11 +152,12 @@ export default function FeaturesPage() {
   const scrollTo = (id: string) => {
     setActiveId(id);
     sectionRefs.current[id]?.scrollIntoView({ behavior: 'smooth' });
+    setMobileMenuOpen(false);
   };
 
   return (
     <div className="marble-bg min-h-screen">
-      {/* Fixed top navigation — stays at top of viewport while scrolling */}
+      {/* Fixed top navigation — desktop: full nav; mobile: logo + hamburger, section list in dropdown */}
       <nav
         className="fixed top-0 left-0 right-0 z-40 w-full border-b flex items-center py-3 px-4 gap-4"
         style={{
@@ -165,7 +167,8 @@ export default function FeaturesPage() {
         }}
       >
         <HomeLogo className="flex-shrink-0" />
-        <div className="flex-1 flex flex-wrap items-center justify-center gap-2 md:gap-4 min-w-0">
+        {/* Desktop: inline section buttons */}
+        <div className="hidden md:flex flex-1 flex-wrap items-center justify-center gap-2 lg:gap-4 min-w-0">
           {SECTIONS.map(({ id, label }) => (
             <button
               key={id}
@@ -182,10 +185,60 @@ export default function FeaturesPage() {
             </button>
           ))}
         </div>
+        {/* Mobile: hamburger */}
+        <div className="flex-1 flex justify-end md:hidden">
+          <button
+            type="button"
+            onClick={() => setMobileMenuOpen((o) => !o)}
+            className="p-2 rounded border touch-manipulation"
+            style={{ borderColor: 'var(--color-bronze-dark)', color: 'var(--color-parchment)' }}
+            aria-expanded={mobileMenuOpen}
+            aria-label={mobileMenuOpen ? 'Close menu' : 'Open section menu'}
+          >
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden>
+              {mobileMenuOpen ? (
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+              ) : (
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+              )}
+            </svg>
+          </button>
+        </div>
       </nav>
 
+      {/* Mobile dropdown: full-width list below nav, scrollable if needed */}
+      {mobileMenuOpen && (
+        <div
+          className="fixed left-0 right-0 z-30 md:hidden border-b overflow-y-auto top-14"
+          style={{
+            maxHeight: 'calc(100vh - 3.5rem)',
+            background: 'linear-gradient(180deg, rgba(26,24,22,0.98), rgba(22,22,24,0.98))',
+            borderColor: 'var(--color-bronze-dark)',
+            boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
+          }}
+        >
+          <div className="py-2 px-4 flex flex-col gap-0.5">
+            {SECTIONS.map(({ id, label }) => (
+              <button
+                key={id}
+                onClick={() => scrollTo(id)}
+                className="w-full text-left px-4 py-3 rounded text-sm font-semibold uppercase tracking-wider transition-all touch-manipulation"
+                style={{
+                  fontFamily: "'Cinzel', serif",
+                  color: activeId === id ? 'var(--color-parchment)' : 'var(--color-parchment-dark)',
+                  background: activeId === id ? 'rgba(176,141,87,0.2)' : 'transparent',
+                  border: `1px solid ${activeId === id ? 'var(--color-bronze)' : 'transparent'}`,
+                }}
+              >
+                {label}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+
       {/* Spacer so content is not hidden under fixed nav */}
-      <div className="h-20 flex-shrink-0" aria-hidden />
+      <div className="h-14 md:h-20 flex-shrink-0" aria-hidden />
 
       <main>
         {/* Hero title & intro — full width */}

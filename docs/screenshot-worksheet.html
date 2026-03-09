@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Insular Imperium — Screenshot Worksheet</title>
+  <style>
+    @media print {
+      body { background: white; color: #1a1a1a; }
+      .no-print { display: none !important; }
+      .page-break { page-break-before: always; }
+      a { color: #1a1a1a; text-decoration: none; }
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 24px;
+      background: #f5f5f0;
+      color: #2a2a2a;
+      line-height: 1.45;
+    }
+    h1 {
+      font-size: 1.75rem;
+      border-bottom: 3px solid #6a5020;
+      padding-bottom: 8px;
+      margin-top: 0;
+      color: #3a2a10;
+    }
+    h2 {
+      font-size: 1.15rem;
+      margin-top: 24px;
+      margin-bottom: 12px;
+      color: #4a3a20;
+    }
+    .intro {
+      margin-bottom: 20px;
+      padding: 12px;
+      background: #e8e4d8;
+      border-left: 4px solid #6a5020;
+      font-size: 0.95rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 16px;
+      font-size: 0.9rem;
+    }
+    th, td {
+      text-align: left;
+      padding: 10px 12px;
+      border: 1px solid #c4b896;
+      vertical-align: top;
+    }
+    th {
+      background: #6a5020;
+      color: #f5f0e0;
+      font-weight: 600;
+    }
+    tr:nth-child(even) { background: #faf8f0; }
+    tr:nth-child(odd) { background: #fff; }
+    .col-done { width: 44px; text-align: center; }
+    .col-done input { width: 20px; height: 20px; cursor: pointer; }
+    .col-filename { width: 180px; font-family: 'Consolas', monospace; font-size: 0.85rem; }
+    .col-notes { min-width: 200px; }
+    .section-note {
+      font-size: 0.85rem;
+      color: #5a4a3a;
+      margin-bottom: 8px;
+    }
+    .no-print {
+      margin-top: 24px;
+      padding: 12px;
+      background: #e0dcc8;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Insular Imperium — Screenshot Worksheet</h1>
+  <p class="intro">
+    Use this sheet while playtesting. Check off each screenshot when captured. Suggested filenames are for the Features page and <code>/web/public/assets/</code>. Resize browser to 1920×1080 or your target resolution before capturing.
+  </p>
+
+  <h2>1. Website screens (marketing)</h2>
+  <p class="section-note">Capture from the Insular Imperium web site (this Next.js app).</p>
+  <table>
+    <thead>
+      <tr>
+        <th class="col-done">Done</th>
+        <th>Screen</th>
+        <th class="col-filename">Suggested filename</th>
+        <th class="col-notes">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Landing page</td>
+        <td class="col-filename">screenshot-landing.png</td>
+        <td class="col-notes">Full view: logo, title, three shield links (Features, War Room, Media).</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Features page — hero</td>
+        <td class="col-filename">screenshot-features-hero.png</td>
+        <td class="col-notes">Top section: “Command the Seas, Conquer the Islands” and intro paragraph.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Features — section nav</td>
+        <td class="col-filename">—</td>
+        <td class="col-notes">Optional: desktop nav bar with section buttons visible.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>War Room / Dashboard</td>
+        <td class="col-filename">screenshot-warroom.png</td>
+        <td class="col-notes">Left nav (Field Reports, Blue Heroes, Vampire Clan, Naval Fleet) + main content area.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>War Room — Field Reports</td>
+        <td class="col-filename">screenshot-warroom-units.png</td>
+        <td class="col-notes">Units tab: Roman + Orc unit cards visible.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>War Room — Blue Heroes</td>
+        <td class="col-filename">screenshot-warroom-heroes.png</td>
+        <td class="col-notes">Heroes tab: hero cards grid.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>War Room — Vampire Clan</td>
+        <td class="col-filename">screenshot-warroom-vampires.png</td>
+        <td class="col-notes">Vampire tab: “The Undead Conclave” header + vampire hero cards.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>War Room — Naval Fleet</td>
+        <td class="col-filename">screenshot-warroom-fleet.png</td>
+        <td class="col-notes">Fleet tab: ship cards + Naval Doctrine panel.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Unit detail modal</td>
+        <td class="col-filename">screenshot-unit-modal.png</td>
+        <td class="col-notes">Click any unit card → scroll-reveal modal with stats/description.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Hero detail modal (blue)</td>
+        <td class="col-filename">screenshot-hero-modal-blue.png</td>
+        <td class="col-notes">Click a Blue hero → modal with aura and ability.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Hero detail modal (vampire)</td>
+        <td class="col-filename">screenshot-hero-modal-vampire.png</td>
+        <td class="col-notes">Click a Vampire hero → obsidian-style modal.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Media page</td>
+        <td class="col-filename">screenshot-media.png</td>
+        <td class="col-notes">Media & Gallery placeholder page.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="page-break"></div>
+  <h2>2. In-game screenshots (for Features page)</h2>
+  <p class="section-note">Capture from the actual game client while playing. These fill the placeholders on <code>/features</code>.</p>
+  <table>
+    <thead>
+      <tr>
+        <th class="col-done">Done</th>
+        <th>Feature section</th>
+        <th class="col-filename">Suggested filename</th>
+        <th class="col-notes">What to capture</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Unified Battlefield</td>
+        <td class="col-filename">unified-battlefield.png</td>
+        <td class="col-notes">Wide map: Hero aura on units, a flanking move, and a unit in a Fort—all in one view.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Naval combat</td>
+        <td class="col-filename">naval-combat.png</td>
+        <td class="col-notes">Trireme at a Port, units on deck, ballista indicator ready to bombard an enemy ship.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Hero ability</td>
+        <td class="col-filename">hero-ability.png</td>
+        <td class="col-notes">Hero unit zoomed in: purple aura ring + active ability (e.g. Testudo gold shields).</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Economy UI</td>
+        <td class="col-filename">economy-ui.png</td>
+        <td class="col-notes">Gold HUD with turn income; Production Report with balance vs maintenance.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Procedural variety</td>
+        <td class="col-filename">procedural-variety.png</td>
+        <td class="col-notes">Small map (dense) and Huge map (ocean/islands)—side-by-side or montage.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Construction</td>
+        <td class="col-filename">construction.png</td>
+        <td class="col-notes">Engineer next to a Road/Bridge over water; road-cursor or build UI visible.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Undead Legion</td>
+        <td class="col-filename">undead-legion.png</td>
+        <td class="col-notes">Vampire hero + aura over undead; conversion/decay or assault on a fort.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Frenzy mechanic</td>
+        <td class="col-filename">frenzy-mechanic.png</td>
+        <td class="col-notes">Orc Raider/Berserker low HP with red Frenzy glow; combat preview with Frenzy damage.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>3. Optional / extra</h2>
+  <table>
+    <thead>
+      <tr>
+        <th class="col-done">Done</th>
+        <th>Shot</th>
+        <th class="col-filename">Filename</th>
+        <th class="col-notes">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Mobile — landing</td>
+        <td class="col-filename">screenshot-landing-mobile.png</td>
+        <td class="col-notes">Narrow viewport: stacked layout, logo and shields.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Mobile — War Room menu</td>
+        <td class="col-filename">screenshot-warroom-mobile-menu.png</td>
+        <td class="col-notes">Hamburger open: Units / Heroes / Vampires / Fleet list.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Victory / defeat screen</td>
+        <td class="col-filename">victory.png / defeat.png</td>
+        <td class="col-notes">End-of-game screen if available in build.</td>
+      </tr>
+      <tr>
+        <td class="col-done"><input type="checkbox" /></td>
+        <td>Main menu / campaign select</td>
+        <td class="col-filename">main-menu.png</td>
+        <td class="col-notes">Game main menu or map-size/difficulty selection.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p class="no-print">
+    <strong>Print:</strong> Use your browser’s Print (Ctrl+P / Cmd+P) and choose “Save as PDF” or your printer. Table borders and checkboxes will print so you can tick by hand if you prefer.
+  </p>
+</body>
+</html>

@@ -37,6 +37,7 @@ function DashboardContent() {
   const searchParams = useSearchParams();
   const initialTab = (searchParams.get('tab') as TabKey) || 'units';
   const [activeTab, setActiveTab] = useState<TabKey>(initialTab);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [selectedUnit, setSelectedUnit] = useState<UnitClass | null>(null);
   const [selectedHero, setSelectedHero] = useState<Hero | null>(null);
   const [heroVariant, setHeroVariant] = useState<'blue' | 'vampire'>('blue');
@@ -56,13 +57,91 @@ function DashboardContent() {
 
   return (
     <div className="marble-bg min-h-screen flex">
-      {/* ══════════ LEFT NAV — Heavy Wooden Placard Rack ══════════ */}
-      <nav className="wooden-placard w-60 min-h-screen flex flex-col py-6 px-3 shrink-0 z-30">
+      {/* ══════════ MOBILE: Fixed top bar — logo + hamburger ══════════ */}
+      <header
+        className="fixed top-0 left-0 right-0 z-40 md:hidden flex items-center justify-between min-h-[100px] py-3 px-4 gap-4 border-b"
+        style={{
+          background: 'linear-gradient(180deg, rgba(22,22,24,0.97), rgba(26,24,22,0.95))',
+          borderColor: 'var(--color-bronze-dark)',
+          boxShadow: '0 4px 20px rgba(0,0,0,0.4)',
+        }}
+      >
+        <HomeLogo className="flex-shrink-0" />
+        <button
+          type="button"
+          onClick={() => setMobileMenuOpen((o) => !o)}
+          className="p-2 rounded border touch-manipulation"
+          style={{ borderColor: 'var(--color-bronze-dark)', color: 'var(--color-parchment)' }}
+          aria-expanded={mobileMenuOpen}
+          aria-label={mobileMenuOpen ? 'Close menu' : 'Open Units menu'}
+        >
+          <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden>
+            {mobileMenuOpen ? (
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            ) : (
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+            )}
+          </svg>
+        </button>
+      </header>
+
+      {/* ══════════ MOBILE: Dropdown — nav items (same as sidebar) ══════════ */}
+      {mobileMenuOpen && (
+        <div
+          className="fixed left-0 right-0 z-30 md:hidden border-b overflow-y-auto top-[100px]"
+          style={{
+            maxHeight: 'calc(100vh - 100px)',
+            background: 'linear-gradient(180deg, rgba(26,24,22,0.98), rgba(22,22,24,0.98))',
+            borderColor: 'var(--color-bronze-dark)',
+            boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
+          }}
+        >
+          <div className="py-2 px-4 flex flex-col gap-0.5">
+            {NAV_ITEMS.map((item) => {
+              const isActive = activeTab === item.key;
+              const isVampire = item.key === 'vampires';
+              return (
+                <button
+                  key={item.key}
+                  type="button"
+                  onClick={() => {
+                    setActiveTab(item.key);
+                    setMobileMenuOpen(false);
+                  }}
+                  className="w-full text-left px-4 py-3 rounded flex items-center gap-3 touch-manipulation"
+                  style={{
+                    fontFamily: "'Cinzel', serif",
+                    fontSize: '0.82rem',
+                    color: isVampire
+                      ? (isActive ? '#f0a0a0' : '#d49090')
+                      : (isActive ? '#ecdcb0' : '#9a8a70'),
+                    background: isActive
+                      ? (isVampire ? 'linear-gradient(90deg, rgba(185,28,28,0.35) 0%, rgba(185,28,28,0.12) 100%)' : 'rgba(176,141,87,0.2)')
+                      : (isVampire ? 'rgba(185,28,28,0.12)' : 'transparent'),
+                    border: `1px solid ${isActive ? (isVampire ? 'var(--color-ichor)' : '#b08d57') : 'transparent'}`,
+                  }}
+                >
+                  <span className="text-xl flex-shrink-0">{item.sigil}</span>
+                  <div className="flex flex-col">
+                    <span className="tracking-wider font-semibold">{item.label}</span>
+                    <span className="text-[9px] tracking-wider italic opacity-75" style={{ fontFamily: "'EB Garamond', serif" }}>
+                      {item.subtitle}
+                    </span>
+                  </div>
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
+      {/* ══════════ LEFT NAV — Heavy Wooden Placard Rack (desktop only) ══════════ */}
+      <nav className="hidden md:flex wooden-placard w-60 min-h-screen flex-col py-6 px-3 shrink-0 z-30">
         <HomeLogo className="mb-4 block w-fit" />
         {/* Iron heading plaque */}
         <div className="mb-6 pb-4 relative" style={{ borderBottom: '3px solid #6a5020' }}>
           <h2 className="engraved-deep text-lg font-bold text-center tracking-[0.2em]">
-            WAR ROOM
+            UNITS
           </h2>
           <p className="text-center text-[10px] uppercase tracking-[0.15em] mt-1.5" style={{
             color: '#7a6a5a',
@@ -169,7 +248,7 @@ function DashboardContent() {
       </nav>
 
       {/* ══════════ MAIN CONTENT ══════════ */}
-      <main className="flex-1 p-6 md:p-10 overflow-y-auto relative z-10">
+      <main className="flex-1 pt-[100px] px-6 pb-6 md:pt-10 md:px-10 md:pb-10 overflow-y-auto relative z-10">
         <AnimatePresence mode="wait">
           {/* ──── Field Reports (Units) ──── */}
           {activeTab === 'units' && (

@@ -164,14 +164,14 @@ export default function LandingPortal() {
 
       {/* CTA buttons — image assets, links preserved */}
       <motion.div
-        className="relative z-20 flex flex-col sm:flex-row gap-3 items-center"
+        className="relative z-20 flex flex-col sm:flex-row gap-1 sm:gap-2 items-center"
         initial={{ opacity: 0, y: 50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 1.8, duration: 1.2, ease: [0.22, 1, 0.36, 1] }}
       >
         <Link href="/features" className="block">
           <motion.span
-            className="block w-96 max-w-[min(384px,85vw)] aspect-square cursor-pointer relative"
+            className="block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >
@@ -199,7 +199,7 @@ export default function LandingPortal() {
 
         <Link href="/dashboard" className="block">
           <motion.span
-            className="block w-96 max-w-[min(384px,85vw)] aspect-square cursor-pointer relative"
+            className="block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >
@@ -227,7 +227,7 @@ export default function LandingPortal() {
 
         <Link href="/media" className="block">
           <motion.span
-            className="block w-96 max-w-[min(384px,85vw)] aspect-square cursor-pointer relative"
+            className="block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >
@@ -260,7 +260,7 @@ export default function LandingPortal() {
           className="block"
         >
           <motion.span
-            className="block w-96 max-w-[min(384px,85vw)] aspect-square cursor-pointer relative"
+            className="block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >

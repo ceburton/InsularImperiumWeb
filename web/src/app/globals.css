@@ -337,15 +337,20 @@ html, body {
     0 0 0 4px rgba(107,2,21,0.8);
 }
 
-/* ── CTA button label — sits in bottom red area of shield, position scales with button ── */
+/* ── Shield container for container-query-driven text scaling ── */
+.cta-shield {
+  container-type: inline-size;
+}
+
+/* ── CTA button label — sits in bottom red area of shield, scales with shield size ── */
 .cta-button-label {
   position: absolute;
-  bottom: calc(18% + 20px);
-  left: 0;
-  right: 0;
+  bottom: 25%;
+  left: 10%;
+  right: 10%;
   text-align: center;
   font-family: var(--font-heading);
-  font-size: clamp(0.6rem, 4vw, 1rem);
+  font-size: 4.95cqi;
   font-weight: 600;
   letter-spacing: 0.12em;
   text-transform: uppercase;

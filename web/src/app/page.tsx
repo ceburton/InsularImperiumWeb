@@ -171,7 +171,7 @@ export default function LandingPortal() {
       >
         <Link href="/features" className="block">
           <motion.span
-            className="block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
+            className="cta-shield block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >
@@ -199,7 +199,7 @@ export default function LandingPortal() {
 
         <Link href="/dashboard" className="block">
           <motion.span
-            className="block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
+            className="cta-shield block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >
@@ -227,7 +227,7 @@ export default function LandingPortal() {
 
         <Link href="/media" className="block">
           <motion.span
-            className="block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
+            className="cta-shield block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >
@@ -260,7 +260,7 @@ export default function LandingPortal() {
           className="block"
         >
           <motion.span
-            className="block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
+            className="cta-shield block w-64 sm:w-72 md:w-80 max-w-[min(320px,85vw)] sm:max-w-[min(288px,22vw)] aspect-square cursor-pointer relative"
             whileHover={{ scale: 1.06 }}
             whileTap={{ scale: 0.91 }}
           >

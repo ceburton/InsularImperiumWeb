@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Insular Imperium",
-  description: "The War Room of the Roman Empire. Tactical intelligence, field reports, and hero dossiers.",
+  description: "Turn-based tactics and strategy: command medieval fantasy armies across island archipelagos against orcs, undead hordes, and vampire lords. Units, heroes, and naval warfare.",
 };
 
 export default function RootLayout({

@@ -17,9 +17,10 @@
 ```
 main.js                  — Phaser game bootstrap (creates Phaser.Game with scene list)
 index.html               — Entry point, importmap for ESM CDN deps, game container
-config.js                — Central config (~646 lines): tile size, map dimensions, economy,
-                           build costs, UI layout, modal panel keys, teams, active modes,
-                           AI params, terrain definitions, ship classes, unit stats, map generation
+config.js                — Central config: tile size, map dimensions, economy, build costs,
+                           UI layout, modal panel keys, teams, active modes, AI params,
+                           terrain, ship classes, unit stats, map generation, PRODUCTION
+                           (FORT_SIZE_UNIT_KEYS, PORT_SHIP_KEYS for fort/port build restrictions)
 GameState.js             — createGameState() factory: plain object holding all mutable state
                            (units, selection, reachable tiles, combat targets, turn, gold, UI flags)
 AudioManager.js          — Tone.js procedural audio (hit, heal, level-up, siege sounds)
@@ -27,7 +28,8 @@ MapManager.js            — Map orchestrator: delegates to terrain generator, l
                            pathing service; holds grid, locations, bitmask computation
 MapTerrainGenerator.js   — Procedural island generation (water edges, inlets, terrain types)
 MapLocationPlacer.js     — Places forts, orc camps, ports, workshops with name pools
-MapPathingService.js     — A* pathing, road generation via minimum-spanning-tree, bridge placement
+MapPathingService.js     — A* pathing (findPath optional options.units/movingUnit to avoid occupied tiles),
+                           getReachableTiles (excludes occupied), road generation via MST, bridge placement
 
 scenes/
   MainMenuScene.js       — Title screen, New Game / Load Game / Island Select buttons
@@ -37,7 +39,8 @@ scenes/
 
 entities/
   Unit.js                — Base entity class (Phaser Container): HP, ATK, DEF, MOV, level/XP,
-                           multi-turn pathing, team coloring, idle animations, embark support
+                           multi-turn pathing (persistentPath), moveTo, moveAlongPath (step-by-step;
+                           resolves with { blocked, stepsCompleted } if next tile occupied), embark
   Hero.js                — Extends Unit: named hero with bonus stats, passive aura (4-tile range),
                            active ability with cooldown, golden badge, portrait, aura ring visuals
   Orc.js                 — Extends Unit: Frenzy mechanic (+50% ATK at ≤50% HP)
@@ -47,21 +50,25 @@ entities/
   OrcSpear.js            — Orc spear subtype
 
 managers/
-  AIManager.js           — Enemy turn AI for Red and Orc teams (aggro range, production weights)
-  AnimationManager.js    — Unit animations, visual effects
+  AIManager.js           — Enemy turn AI for Red and Orc; camera startFollow(unit) during each unit's move
+  AnimationManager.js    — Unit animations, visual effects; mage spell (lightning) — undead mage uses bright green
   CameraManager.js       — Map scrolling, zoom, tile cursors (including road-placement cursor)
   CombatManager.js       — Attack resolution, flanking, damage calculation, stat breakdowns
   EconomyManager.js      — Gold income, maintenance, loot, purchase transactions
   EngineerManager.js     — Workshop/road/bridge/castra construction, engineer staffing
   HeroManager.js         — Hero selection, aura application, ability activation (9-hero roster)
-  InputManager.js        — Click/keyboard handling, selection, right-click context menus, Escape
+  InputManager.js        — Click/keyboard handling, selection; path for immediate move uses unit-avoidance;
+                           distant path (Path Move) ignores units; blocked result → "Blocked" message
   NavalManager.js        — Ship lifecycle facade, delegates to 7 naval sub-modules
-  ProductionManager.js   — Per-location unit production queues and reinforcement spawning
+  ProductionManager.js   — Production queues; getBuildableUnitKeys/getBuildableShipKeys by fort size/port
+                           (CONFIG.PRODUCTION); red fort spawn and blue completion validate buildable roster
   SaveManager.js         — Serialization/deserialization with swappable storage backends
   SiegeManager.js        — Siege unit logic (catapults/ballistae) — stub/WIP
   SpawnManager.js        — Initial army deployment and unit spawning
-  TurnManager.js         — Turn cycling (Blue → Red → Orc), turn-count tracking
-  UIManager.js           — HUD, stat panels, action buttons, context menus, modal management
+  TurnManager.js         — Turn cycling (Blue → Red → Orc), Path Move / Move All (camera follows
+                           moving unit), processAutoMovePaths (blocked handling, persistent path trim)
+  UIManager.js           — HUD facade: delegates to managers/ui/ (MedievalUI, MapHighlightUI,
+                           ManageCrewPanel, StatPanelUI, ProductionReportUI, ShipPlacementConfirmUI)
 
 managers/naval/
   NavalAI.js             — AI ship turn logic (aggro, movement, bombard targeting)
@@ -132,10 +139,18 @@ Procedural island generation with retry logic for naval connectivity:
 3. `MapPathingService` — generates road network via MST connecting forts, A* pathing
 
 ### Combat System
-Grid-based with flanking bonuses, terrain modifiers (forest damage reduction, fort defense bonus, bridge damage bonus), siege units, and naval bombardment. Heroes provide passive aura buffs to nearby allies and have active abilities with cooldowns.
+Grid-based with flanking bonuses, terrain modifiers (forest damage reduction, fort defense bonus, bridge damage bonus), siege units, and naval bombardment. Heroes provide passive aura buffs to nearby allies and have active abilities with cooldowns. Mage spell animation: red/blue team colors; undead mage uses same lightning in bright green.
 
 ### Economy
 Territory-based income (forts/camps generate gold per turn), unit maintenance costs, loot from capturing tiles, construction costs. Initial army-assembly budget of 2,500g. AI follows the same economic rules.
+
+### Movement & Pathing
+- Units move step-by-step along paths (`Unit.moveAlongPath`). Reachable tiles exclude occupied tiles (no moving through or ending on another unit).
+- **Path planning** for distant targets (Path Move / persistent path) ignores other units; when executing, if a step is blocked by another unit, movement stops, "Blocked" is shown, and the path is trimmed. Immediate move (click reachable tile) uses pathfinding with unit avoidance.
+- **Camera:** Red/Orc turn — camera follows the active unit. Blue Path Move and Move All — camera follows the moving unit step-by-step.
+
+### Production Restrictions
+Forts: buildable land units depend on fort size (`CONFIG.PRODUCTION.FORT_SIZE_UNIT_KEYS`; 9/8-tile get full roster; smaller forts fewer types). Ports build only ships (Liburna, Galley, Trireme). Red fort auto-spawn and blue production validate against these.
 
 ### Naval System
 Ships are multi-tile floating terrain (Liburna 1-tile, Galley 2-tile, Trireme 3-tile) with deck/below-deck crew slots, hull HP, bombardment range, and boarding/disembarking mechanics.
@@ -165,11 +180,13 @@ npm run build        # Package with electron-builder
 
 ## Known Architecture Notes
 
-- ~15k lines of JavaScript across ~40 files
-- Largest files: ProductionManager (~1,287), UIManager (~1,229), CombatManager (~1,224), InputManager (~1,194), SpawnManager (~1,177)
+- ~18k lines of JavaScript across 57+ files
+- Largest files: ProductionManager, UIManager, CombatManager, InputManager, SpawnManager; GameScene, ManageCrewPanel, PauseOptionsPanel, config, AnimationManager, Unit, MapPathingService (see documentation/js-files-line-count.md)
+- UIManager refactored to delegate to managers/ui/ (MedievalUI, MapHighlightUI, ManageCrewPanel, StatPanelUI, ProductionReportUI, ShipPlacementConfirmUI)
 - Managers still read/write `scene.*` properties heavily; migration to GameState is partial
 - SiegeManager and EconomyManager are small stubs / WIP
 - See `plan.md` and `refactor-2-25-26.md` for refactoring roadmap
+- For full config schema and embedded documentation (difficulty, engineer, etc.), see `llms-full.txt`
 
 
 ## Technical Schema (config.js)
@@ -296,11 +313,13 @@ export const CONFIG = {
             cost: 220,
             maintenance: 5
         },
-        KNIGHT: { 
-            key: 'unit-knight', name: 'Knight', range: 1, minRange: 1, moves: 7, 
+        KNIGHT: {
+            key: 'unit-knight', name: 'Knight', range: 1, minRange: 1, moves: 7,
             stats: { hp: 40, atk: 20, def: 4 },
             growth: { hp: 8, atk: 4, def: 1 },
             bonusAgainst: [{ target: 'unit-archer', bonus: 5 }, { target: 'unit-healer', bonus: 5 }, { target: 'unit-mage', bonus: 5 }],
+            /** Cavalry suffer 50% attack penalty when attacking targets on fort tiles. */
+            attackPenaltyOnTerrain: [{ type: 'FORT', factor: 0.5 }],
             attackType: 'physical',
             cost: 365,
             maintenance: 12
@@ -402,6 +421,8 @@ export const CONFIG = {
             key: 'unit-orc-rider-no-bg', name: 'Orc Rider', range: 1, minRange: 1, moves: 7,
             stats: { hp: 70, atk: 20, def: 8 },
             growth: { hp: 15, atk: 5, def: 4 },
+            /** Cavalry suffer 50% attack penalty when attacking targets on fort tiles. */
+            attackPenaltyOnTerrain: [{ type: 'FORT', factor: 0.5 }],
             attackType: 'physical',
             cost: 450,
             maintenance: 15
@@ -900,10 +921,8 @@ export const CONFIG = {
         PORT_SPAWN_RATE: 5
     },
 
-    // Production restrictions: fort size -> land units; ports: full roster + ships
+    // Production restrictions: fort size -> land units; ports: ships only
     PRODUCTION: {
-        /** Ports can produce same land units as a 9-tile fort; build time for land units (turns). */
-        PORT_UNIT_BUILD_TURNS: 4,
         FORT_SIZE_UNIT_KEYS: {
             9: ['INFANTRY', 'KNIGHT', 'ARCHER', 'MAGE', 'HEALER', 'SPEAR', 'CATAPULT', 'BALLISTA', 'ENGINEER'],
             8: ['INFANTRY', 'KNIGHT', 'ARCHER', 'MAGE', 'HEALER', 'SPEAR', 'CATAPULT', 'BALLISTA', 'ENGINEER'],
@@ -1747,6 +1766,119 @@ See the full step-by-step implementation plan in [difficulty-impl-plan.md](diffi
 | `managers/ProductionManager.js` | Apply spawn-rate multiplier for enemy forts |
 
 
+## Documentation: enemy-ai-improvements.md
+# Enemy AI Improvement Ideas
+
+## Current State
+
+The enemy AI processes units sequentially each turn. Recent additions include:
+- **Coordinated targeting**: Nearby units (within 10 tiles) converge on the same target for flanking
+- **AI Canto**: Knights/Orc Riders reposition after attacking (flank setup or retreat)
+- **Sally logic**: City defense units have a 50% chance to break formation and chase ranged attackers for 2 turns
+- **City defense auto-defend**: Idle defense units always enter Defend stance
+
+### Naval AI (NavalAI.js)
+- Ships move toward and bombard enemy ships and land units
+- Ships board adjacent enemy ships when they have melee units on deck
+- Crew management: promotes below-deck units to fill empty deck slots
+- Disembarks crew to land when adjacent
+- **Missing**: No strategic troop transport or amphibious assault capability
+
+---
+
+## Proposed Improvements (Ranked by Recommendation)
+
+### 1. Amphibious Assault — Troop Transport via Ships
+
+Red units near a port with a docked friendly ship board it, the ship sails toward the nearest Blue port or coastal fort, then disembarks units to attack.
+
+- **Effort:** Medium-high (~100-150 lines across NavalAI + AIManager)
+- **Gameplay:** Game-changing. Forces the player to defend ports and coastlines, not just inland forts. Creates urgency and surprise attacks from unexpected directions. Very fun.
+- **Risk:** Complex state management across multiple turns. Ships could get intercepted or sunk mid-transit.
+
+#### Phased Approach
+- **Phase 1 (simpler):** When Red has a ship docked at a port and idle land units nearby, board 2-3 units. Ship sails toward the nearest Blue coastal location. On arrival, disembark units.
+- **Phase 2 (later):** Coordinate the assault — wait until multiple ships are loaded before launching. Time the arrival with a land-based attack from the other direction.
+
+#### Key Files
+- `managers/naval/NavalAI.js` — Add transport state machine (IDLE → LOADING → SAILING → DISEMBARKING)
+- `managers/AIManager.js` — Mark nearby port units as candidates for boarding
+- `managers/naval/ShipCrew.js` — Already has `boardUnit()` and `disembarkUnitToTile()`
+
+---
+
+### 2. AI Focus Fire on Weakest Unit
+
+Improve coordinated targeting to globally identify the most vulnerable Blue unit (lowest HP, isolated, no fort defense) and direct all nearby groups toward it.
+
+- **Effort:** Low (~20 lines modifying `_assignCoordinatedTargets`)
+- **Gameplay:** Makes the AI feel predatory and punishing of mistakes. Player learns to never leave a wounded unit exposed.
+
+#### Implementation
+- After cluster target assignment, scan for any Blue unit below 40% HP that isn't on a fort tile
+- Override cluster targets within 15 tiles to converge on the wounded unit
+- Reset override when the unit dies or heals above threshold
+
+---
+
+### 3. AI Siege Unit Escort
+
+Catapults and ballistas are high-value but slow and defenseless. Have nearby melee units assign as escorts — staying within 2 tiles of siege units and attacking threats that approach them.
+
+- **Effort:** Low-medium (~40 lines)
+- **Gameplay:** Makes siege attacks feel deliberate and organized. Currently siege units wander alone and die easily.
+
+#### Implementation
+- Add `aiRole = 'escort'` with a reference to the siege unit
+- Escort units prioritize targets near the siege unit rather than independently choosing
+- If no threats near the siege unit, escort moves with it toward its target
+- Assign 1-2 melee units per siege unit during the pre-pass
+
+---
+
+### 4. AI Tactical Retreat
+
+Units at low HP near a fort currently have a probabilistic retreat. Make it deterministic and smarter: any unit below 30% HP that isn't in a fort should path toward the nearest friendly fort.
+
+- **Effort:** Low (~25 lines expanding existing healing retreat logic)
+- **Gameplay:** Makes the AI feel survivalist rather than suicidal. Wounded units pull back and heal on fort tiles instead of dying pointlessly.
+
+#### Implementation
+- Raise the retreat HP threshold from 10 to 30% of max HP
+- Make retreat deterministic (always retreat) instead of probabilistic when below threshold
+- Units already on fort tiles stay and defend (existing behavior)
+- Consider having allies cover the retreat by prioritizing threats near the retreating unit
+
+---
+
+### 5. Naval Blockade
+
+Ships patrol near Blue ports to prevent the player from launching ships. If no enemy ships exist, AI ships position near Blue ports rather than sitting idle.
+
+- **Effort:** Low-medium (~30 lines in NavalAI)
+- **Gameplay:** Creates naval pressure even without direct combat. Player must break the blockade before launching ships.
+
+#### Implementation
+- In `processAIShipTurn()`, when no enemy ships are in aggro range, set the target to the nearest Blue port tile
+- Ship patrols within bombardment range (3 tiles) of the port
+- Bombard any units or structures at the port
+- Break blockade behavior when enemy ships appear (higher priority)
+
+---
+
+## Implementation Priority
+
+| Priority | Feature | Effort | Impact |
+|----------|---------|--------|--------|
+| 1 | Tactical Retreat (#4) | Low | Medium — smarter survival |
+| 2 | Siege Escort (#3) | Low-medium | Medium — organized siege attacks |
+| 3 | Focus Fire (#2) | Low | Medium-high — punishes mistakes |
+| 4 | Naval Blockade (#5) | Low-medium | Medium — naval pressure |
+| 5 | Amphibious Assault (#1) | Medium-high | Very high — game-changing |
+
+Recommended approach: implement #4 and #3 first as quick wins, then #1 as the big feature.
+
+
 ## Documentation: engineer-workshop-road-implementation.md
 # Engineer, Workshop, and Road — Implemented Behavior
 
@@ -1811,6 +1943,370 @@ This document describes the **current implementation** of Engineer units, Worksh
 | Road cursor | `scenes/GameScene.js` (load `road-cursor`), `managers/CameraManager.js` (`roadPlacementCursorLand`, land-tile check) |
 | Selection clear | `managers/InputManager.js` (`handleTileRightClick`, `handleEscape`) |
 | Road/Bridge toasts | `managers/InputManager.js` (removed "Road built" / "Bridge built" toasts) |
+
+
+## Documentation: extracted-image-prompts-unit-sprites-and-heroes.md
+# Extracted Image Prompts — Unit Sprites, Heroes, and Engineers
+
+This document collects **all image-generation prompts** for the project: **hero portraits** (from existing docs), **undead hero portraits**, and **Gemini image prompts for small map unit sprites** (infantry, knight, archer, mage, healer, spear, catapult, ballista, engineer, and orc units). Sources: `hero-plan.md` (§12), `undead-hero-design.md` (§3); §3 prompts are new and intended for Google Gemini.
+
+---
+
+## 1. Blue Team Heroes (hero-plan.md §12 — “Nano Prompts for Google Gemini and Nano Banna”)
+
+### 1. Marcus, the Centurion
+- **Portrait:** A close-up RPG character portrait of a handsome Roman Centurion named Marcus. He has a stern, disciplined face, short dark hair, and wears a galeated helmet with a transverse red crest and polished lorica segmentata armor. Background is a subtle battlefield blur. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a handsome Roman Centurion named Marcus. He stands confidently in polished lorica segmentata armor, holding a gladius. Background is a subtle battlefield blur. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-marcus.png`, `hero-marcus-full.png`
+
+### 2. Valeria, the Shield Maiden
+- **Portrait:** A close-up RPG character portrait of a beautiful Shield Maiden named Valeria. She has a fierce expression, braided blonde hair, and wears revealing and sexy chainmail armor with a fur cloak. She holds a round wooden shield with iron rim near her chest. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a beautiful Shield Maiden named Valeria. She stands ready for battle, wearing revealing and sexy chainmail armor that highlights her figure, with a fur cloak. She holds a round wooden shield. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-valeria.png`, `hero-valeria-full.png`
+
+### 3. Roderic, the Cavalier
+- **Portrait:** A close-up RPG character portrait of a handsome Knight named Roderic. He looks noble and brave, with a well-groomed beard. He wears shining silver plate armor and a helmet with the visor raised. A lance is visible over his shoulder. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a handsome Knight named Roderic. He stands tall in shining silver plate armor, helmet visor raised. A lance rests on his shoulder. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-roderic.png`, `hero-roderic-full.png`
+
+### 4. Sylara, the Hawkeye
+- **Portrait:** A close-up RPG character portrait of a beautiful Archer named Sylara. She has sharp, focused green eyes and wears a revealing and sexy green hooded cloak over leather armor. A longbow is strapped to her back. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a beautiful Archer named Sylara. She is poised with a longbow, wearing a revealing and sexy green outfit with leather armor that accentuates her curves. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-sylara.png`, `hero-sylara-full.png`
+
+### 5. Alana, the Battlemage
+- **Portrait:** A close-up RPG character portrait of a beautiful Battlemage named Alana. She has glowing eyes and wears revealing and sexy ornate violet robes with arcane symbols. Her hand is raised, glowing with magical energy. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a beautiful Battlemage named Alana. She casts a spell, wearing revealing and sexy violet robes with arcane symbols that show off her elegance. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-alana.png`, `hero-alana-full.png`
+
+### 6. Liora, the Saint
+- **Portrait:** A close-up RPG character portrait of a beautiful Healer named Liora. She has a gentle, serene face and wears revealing and sexy white and gold clerical vestments with a halo motif. Soft light illuminates her features. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a beautiful Healer named Liora. She stands gracefully, wearing revealing and sexy white and gold vestments with a halo motif. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-liora.png`, `hero-liora-full.png`
+
+### 7. Gaius, the Siege Master (Engineer hero)
+- **Portrait:** A close-up RPG character portrait of a ruggedly handsome Engineer named Gaius. He looks calculating and rugged, with grease smudges on his face. He wears practical leather gear and goggles on his forehead. Background hints at wooden siege engines. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a ruggedly handsome Engineer named Gaius. He stands next to a blueprint, wearing practical leather gear and goggles. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-gaius.png`, `hero-gaius-full.png`
+
+### 8. Brennus, the Berserker
+- **Portrait:** A close-up RPG character portrait of a ruggedly handsome Berserker named Brennus. He is wild and muscular, with war paint on his face and unkempt hair. He wears animal furs and looks ready to roar. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a ruggedly handsome Berserker named Brennus. He is muscular and wild, wearing animal furs and war paint, holding a massive axe. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-brennus.png`, `hero-brennus-full.png`
+
+### 9. Thalassa, the Tidesage
+- **Portrait:** A close-up RPG character portrait of a beautiful Water Mage named Thalassa. She has flowing hair that resembles water waves, wearing revealing and sexy blue robes adorned with shells and coral. Water droplets float around her. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a beautiful Water Mage named Thalassa. She controls water around her, wearing revealing and sexy blue robes adorned with shells. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-thalassa.png`, `hero-thalassa-full.png`
+
+---
+
+## 2. Undead (Vampire) Heroes (undead-hero-design.md §3 — “Nano Banana Prompts”)
+
+### 1. Tiberius Sanguis, the Rot-Bringer
+- **Portrait:** A close-up RPG character portrait of an evil, aristocratic male Roman Vampire named Tiberius. He has pale skin, glowing red eyes, and short dark hair. He wears corrupted, darkened lorica segmentata armor dripping with green ichor. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of an evil Roman Vampire named Tiberius. He stands leading a horde of zombies, wearing corrupted Roman armor and holding a rusted, jagged gladius. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-tiberius-close.png` (Portrait), `hero-tiberius.png` (Full)
+
+### 2. Drusilla Noctis, the Pale Rider
+- **Portrait:** A close-up RPG character portrait of a beautiful but terrifying female Vampire named Drusilla. She has long silver hair, pale skin, and fangs. She wears revealing, dark crimson and blackened steel cavalry armor. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a beautiful female Vampire named Drusilla. She is mounted on a skeletal undead horse, wearing revealing dark crimson armor and wielding a cursed cavalry lance. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-drusilla-close.png` (Portrait), `hero-drusilla.png` (Full)
+
+### 3. Livia Mortis, the Soul-Eater
+- **Portrait:** A close-up RPG character portrait of a beautiful, sinister female Vampire mage named Livia. She has glowing purple eyes and wears revealing, flowing black and gold necrotic robes. Shadows swirl around her. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a beautiful female Vampire mage named Livia. She is casting dark magic, wearing revealing black and gold necrotic robes with floating skulls surrounding her. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-livia-close.png` (Portrait), `hero-livia.png` (Full)
+
+### 4. Octavia Cruor, the Bone-Fletcher
+- **Portrait:** A close-up RPG character portrait of a beautiful, deadly female Vampire archer named Octavia. She has blood-red hair, pale skin, and wears revealing, stealthy dark leather armor. She holds a bow made of bones. Art style: detailed digital painting, fantasy strategy game asset.
+- **Full Body:** A full-body RPG character portrait of a beautiful female Vampire archer named Octavia. She is aiming a bone longbow, wearing revealing dark leather armor, with skeleton archers rising in the background. Art style: detailed digital painting, fantasy strategy game asset.
+- **File names:** `hero-octavia-close.png` (Portrait), `hero-octavia.png` (Full)
+
+---
+
+## 3. Unit sprites (map / icon) — Gemini image prompts
+
+Use these prompts in **Google Gemini** (or similar) to generate map-unit sprites. Request **transparent background** so sprites overlay on terrain.
+
+**Prompt convention:** Substitute `[BLUE]` with “blue armor and blue cloth accents” for player team, or “red armor and red cloth accents” for enemy team. Generate two images per human unit (one blue, one red) and save with the file names listed.
+
+---
+
+### 3.1 Human / team units (blue and red)
+
+**Infantry (sword and shield)**  
+- **Prompt:** Small strategy game unit sprite: Roman-style infantry soldier with round shield and short sword (gladius). Wearing [BLUE] lorica segmentata-style armor and helmet. Standing ready. Art style: detailed digital painting, fantasy strategy game asset.  
+- **Files:** `unit-infantry-blue.png`, `unit-infantry-red.png`
+
+**Knight (cavalry, lance)**  
+- **Prompt:** Small strategy game unit sprite: Medieval knight in plate armor with raised visor, holding a lance. Mounted on a war horse or shown as a single cavalry silhouette. [BLUE] plume or tabard. Art style: detailed digital painting, fantasy strategy game asset.  
+- **Files:** `unit-knight-blue.png`, `unit-knight-red.png`
+
+**Archer (longbow)**  
+- **Prompt:** Small strategy game unit sprite: A full-body RPG character portrait of a beautiful female medieval archer in short leather skirt armor with a longbow, quiver on back. [BLUE] hood or cloak. Standing in a ready pose. Art style: detailed digital painting, fantasy strategy game asset.  
+- **Files:** `unit-archer-blue.png`, `unit-archer-red.png`
+
+**Mage (staff / spell)**  
+- **Prompt:** Small strategy game unit sprite: A full-body RPG character portrait of a beautiful female fantasy mage in robes holding a staff or with hand raised in a casting pose. [BLUE] robe trim or hood. Arcane or magical accent. Art style: detailed digital painting, fantasy strategy game asset.  
+- **Files:** `unit-mage-blue.png`, `unit-mage-red.png`
+
+**Healer (cleric)**  
+- **Prompt:** Small strategy game unit sprite: A full-body RPG character portrait of a beautiful female cleric or healer in white and gold clerical vestments, gentle pose, possibly holding a holy symbol or staff. [BLUE] accent on robes. Art style: detailed digital painting, fantasy strategy game asset.  
+- **Files:** `unit-healer-blue.png`, `unit-healer-red.png`
+
+**Spearman (spear and shield)**  
+- **Prompt:** Small strategy game unit sprite: Spearman in light armor with a long spear and round or oval shield. [BLUE] on shield or tunic. Standing ready. Art style: detailed digital painting, fantasy strategy game asset.  
+- **Files:** `unit-spear-blue.png`, `unit-spear-red.png`
+
+**Catapult (siege engine)**  
+- **Prompt:** Small strategy game unit sprite: Wooden catapult siege engine on wheels, arm and bucket visible. [BLUE] banner or paint on frame. Art style: detailed digital painting, fantasy strategy game asset.  
+- **Files:** `unit-catapult-blue.png`, `unit-catapult-red.png`
+
+**Ballista (siege weapon)**  
+- **Prompt:** Small strategy game unit sprite: Ballista (large crossbow on stand) with bow and winch. [BLUE] trim or banner on frame. Art style: detailed digital painting, fantasy strategy game asset.  
+- **Files:** `unit-ballista-blue.png`, `unit-ballista-red.png`
+
+**Engineer (toolbelt / blueprint)**  
+- **Prompt:** Small strategy game unit sprite: Engineer or sapper in practical leather gear, toolbelt, and goggles. Holding a wrench, blueprint, or small cog. [BLUE] on bandana or apron. Art style: detailed digital painting, fantasy strategy game asset.  
+- **Files:** `unit-engineer-blue.png`, `unit-engineer-red.png`
+
+---
+
+### 3.2 Orc units (single sprite, transparent background)
+
+Orcs use one sprite per type (no blue/red). Naming suffix `-no-bg` in code.
+
+**Orc Infantry**  
+- **Prompt:** Small strategy game unit sprite: Orc warrior with broad shoulders, green skin, wearing crude armor and holding a sword or axe. Fierce pose. Art style: detailed digital painting, fantasy strategy game asset.  
+- **File:** `unit-orc-infantry-no-bg.png`
+
+**Orc Mage**  
+- **Prompt:** Small strategy game unit sprite: Orc shaman or mage with green skin, wearing bones and furs, holding a staff or casting. Art style: detailed digital painting, fantasy strategy game asset.  
+- **File:** `unit-orc-mage-no-bg.png`
+
+**Orc Rider (mounted)**  
+- **Prompt:** Small strategy game unit sprite: Orc rider on a wolf or boar, holding a weapon. Green skin, savage armor. Art style: detailed digital painting, fantasy strategy game asset.  
+- **File:** `unit-orc-rider-no-bg.png`
+
+**Orc Spear**  
+- **Prompt:** Small strategy game unit sprite: Orc spearman with green skin, crude armor, long spear and shield. Art style: detailed digital painting, fantasy strategy game asset.  
+- **File:** `unit-orc-spear-no-bg.png`
+
+**Orc Healer**  
+- **Prompt:** Small strategy game unit sprite: Orc healer or witch doctor with green skin, bones and feathers, holding a totem or potion. Art style: detailed digital painting, fantasy strategy game asset.  
+- **File:** `unit-orc-healer-no-bg.png`
+
+---
+
+### 3.3 Asset list (reference)
+
+| Asset key | Filename (blue) | Filename (red) |
+|-----------|-----------------|----------------|
+| Infantry | unit-infantry-blue | unit-infantry-red |
+| Knight | unit-knight-blue | unit-knight-red |
+| Archer | unit-archer-blue | unit-archer-red |
+| Mage | unit-mage-blue | unit-mage-red |
+| Healer | unit-healer-blue | unit-healer-red |
+| Spear | unit-spear-blue | unit-spear-red |
+| Catapult | unit-catapult-blue | unit-catapult-red |
+| Ballista | unit-ballista-blue | unit-ballista-red |
+| Engineer | unit-engineer-blue | unit-engineer-red |
+
+| Orc unit | Filename |
+|----------|----------|
+| Orc Infantry | unit-orc-infantry-no-bg |
+| Orc Mage | unit-orc-mage-no-bg |
+| Orc Rider | unit-orc-rider-no-bg |
+| Orc Spear | unit-orc-spear-no-bg |
+| Orc Healer | unit-orc-healer-no-bg |
+
+
+## Documentation: gemini-prompt-list.md
+# Gemini Prompt List — Copy & Paste Ready
+
+Each prompt below is ready to paste into Google Gemini. Save the result with the filename shown.
+Save all files to `assets/`.
+
+---
+
+## Blue Team Heroes — Portraits
+
+**→ Save as: `aaa-hero-marcus.png`**
+A close-up RPG character portrait of a handsome Roman Centurion named Marcus. He has a stern, disciplined face, short dark hair, and wears a galeated helmet with a transverse red crest and polished lorica segmentata armor. Background is a subtle battlefield blur. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-marcus-full.png`**
+A full-body RPG character portrait of a handsome Roman Centurion named Marcus. He stands confidently in polished lorica segmentata armor, holding a gladius. Background is a subtle battlefield blur. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-valeria.png`**
+A close-up RPG character portrait of a beautiful Shield Maiden named Valeria. She has a fierce expression, braided blonde hair, and wears revealing and sexy chainmail armor with a fur cloak. She holds a round wooden shield with iron rim near her chest. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-valeria-full.png`**
+A full-body RPG character portrait of a beautiful Shield Maiden named Valeria. She stands ready for battle, wearing revealing and sexy chainmail armor that highlights her figure, with a fur cloak. She holds a round wooden shield. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-roderic.png`**
+A close-up RPG character portrait of a handsome Knight named Roderic. He looks noble and brave, with a well-groomed beard. He wears shining silver plate armor and a helmet with the visor raised. A lance is visible over his shoulder. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-roderic-full.png`**
+A full-body RPG character portrait of a handsome Knight named Roderic. He stands tall in shining silver plate armor, helmet visor raised. A lance rests on his shoulder. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-sylara.png`**
+A close-up RPG character portrait of a beautiful Archer named Sylara. She has sharp, focused green eyes and wears a revealing and sexy green hooded cloak over leather armor. A longbow is strapped to her back. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-sylara-full.png`**
+A full-body RPG character portrait of a beautiful Archer named Sylara. She is poised with a longbow, wearing a revealing and sexy green outfit with leather armor that accentuates her curves. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-alana.png`**
+A close-up RPG character portrait of a beautiful Battlemage named Alana. She has glowing eyes and wears revealing and sexy ornate violet robes with arcane symbols. Her hand is raised, glowing with magical energy. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-alana-full.png`**
+A full-body RPG character portrait of a beautiful Battlemage named Alana. She casts a spell, wearing revealing and sexy violet robes with arcane symbols that show off her elegance. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-liora.png`**
+A close-up RPG character portrait of a beautiful Healer named Liora. She has a gentle, serene face and wears revealing and sexy white and gold clerical vestments with a halo motif. Soft light illuminates her features. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-liora-full.png`**
+A full-body RPG character portrait of a beautiful Healer named Liora. She stands gracefully, wearing revealing and sexy white and gold vestments with a halo motif. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-gaius.png`**
+A close-up RPG character portrait of a ruggedly handsome Engineer named Gaius. He looks calculating and rugged, with grease smudges on his face. He wears practical leather gear and goggles on his forehead. Background hints at wooden siege engines. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-gaius-full.png`**
+A full-body RPG character portrait of a ruggedly handsome Engineer named Gaius. He stands next to a blueprint, wearing practical leather gear and goggles. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-brennus.png`**
+A close-up RPG character portrait of a ruggedly handsome Berserker named Brennus. He is wild and muscular, with war paint on his face and unkempt hair. He wears animal furs and looks ready to roar. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-brennus-full.png`**
+A full-body RPG character portrait of a ruggedly handsome Berserker named Brennus. He is muscular and wild, wearing animal furs and war paint, holding a massive axe. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-thalassa.png`**
+A close-up RPG character portrait of a beautiful Water Mage named Thalassa. She has flowing hair that resembles water waves, wearing revealing and sexy blue robes adorned with shells and coral. Water droplets float around her. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-thalassa-full.png`**
+A full-body RPG character portrait of a beautiful Water Mage named Thalassa. She controls water around her, wearing revealing and sexy blue robes adorned with shells. Art style: detailed digital painting, fantasy strategy game asset.
+
+---
+
+## Undead (Vampire) Heroes — Portraits
+
+**→ Save as: `aaa-hero-tiberius-close.png`**
+A close-up RPG character portrait of an evil, aristocratic male Roman Vampire named Tiberius. He has pale skin, glowing red eyes, and short dark hair. He wears corrupted, darkened lorica segmentata armor dripping with green ichor. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-tiberius.png`**
+A full-body RPG character portrait of an evil Roman Vampire named Tiberius. He stands leading a horde of zombies, wearing corrupted Roman armor and holding a rusted, jagged gladius. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-drusilla-close.png`**
+A close-up RPG character portrait of a beautiful but terrifying female Vampire named Drusilla. She has long silver hair, pale skin, and fangs. She wears revealing, dark crimson and blackened steel cavalry armor. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-drusilla.png`**
+A full-body RPG character portrait of a beautiful female Vampire named Drusilla. She is mounted on a skeletal undead horse, wearing revealing dark crimson armor and wielding a cursed cavalry lance. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-livia-close.png`**
+A close-up RPG character portrait of a beautiful, sinister female Vampire mage named Livia. She has glowing purple eyes and wears revealing, flowing black and gold necrotic robes. Shadows swirl around her. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-livia.png`**
+A full-body RPG character portrait of a beautiful female Vampire mage named Livia. She is casting dark magic, wearing revealing black and gold necrotic robes with floating skulls surrounding her. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-octavia-close.png`**
+A close-up RPG character portrait of a beautiful, deadly female Vampire archer named Octavia. She has blood-red hair, pale skin, and wears revealing, stealthy dark leather armor. She holds a bow made of bones. Art style: detailed digital painting, fantasy strategy game asset.
+
+**→ Save as: `aaa-hero-octavia.png`**
+A full-body RPG character portrait of a beautiful female Vampire archer named Octavia. She is aiming a bone longbow, wearing revealing dark leather armor, with skeleton archers rising in the background. Art style: detailed digital painting, fantasy strategy game asset.
+
+---
+
+## Human/Team Unit Sprites — BLUE
+
+**→ Save as: `aaa-unit-infantry-blue.webp`**
+Small strategy game unit sprite: Roman-style infantry soldier with round shield and short sword (gladius). Wearing blue armor and blue cloth accents lorica segmentata-style armor and helmet. Standing ready. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-knight-blue.webp`**
+Small strategy game unit sprite: Medieval knight in plate armor with raised visor, holding a lance. Mounted on a war horse or shown as a single cavalry silhouette. Blue plume or tabard. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-archer-blue.png`**
+Small strategy game unit sprite: A full-body RPG character portrait of a beautiful female medieval archer in short leather skirt armor with a longbow, quiver on back. Blue hood or cloak. Standing in a ready pose. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-mage-blue.png`**
+Small strategy game unit sprite: A full-body RPG character portrait of a beautiful female fantasy mage in robes holding a staff or with hand raised in a casting pose. Blue robe trim or hood. Arcane or magical accent. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-healer-blue.png`**
+Small strategy game unit sprite: A full-body RPG character portrait of a beautiful female cleric or healer in white and gold clerical vestments, gentle pose, possibly holding a holy symbol or staff. Blue accent on robes. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-spear-blue.png`**
+Small strategy game unit sprite: Spearman in light armor with a long spear and round or oval shield. Blue on shield or tunic. Standing ready. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-catapult-blue.png`**
+Small strategy game unit sprite: Wooden catapult siege engine on wheels, arm and bucket visible. Blue banner or paint on frame. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-ballista-blue.png`**
+Small strategy game unit sprite: Ballista (large crossbow on stand) with bow and winch. Blue trim or banner on frame. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-engineer-blue.png`**
+Small strategy game unit sprite: Engineer or sapper in practical leather gear, toolbelt, and goggles. Holding a wrench, blueprint, or small cog. Blue on bandana or apron. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+---
+
+## Human/Team Unit Sprites — RED
+
+**→ Save as: `aaa-unit-infantry-red.webp`**
+Small strategy game unit sprite: Roman-style infantry soldier with round shield and short sword (gladius). Wearing red armor and red cloth accents lorica segmentata-style armor and helmet. Standing ready. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-knight-red.webp`**
+Small strategy game unit sprite: Medieval knight in plate armor with raised visor, holding a lance. Mounted on a war horse or shown as a single cavalry silhouette. Red plume or tabard. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-archer-red.png`**
+Small strategy game unit sprite: A full-body RPG character portrait of a beautiful female medieval archer in short leather skirt armor with a longbow, quiver on back. Red hood or cloak. Standing in a ready pose. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-mage-red.png`**
+Small strategy game unit sprite: A full-body RPG character portrait of a beautiful female fantasy mage in robes holding a staff or with hand raised in a casting pose. Red robe trim or hood. Arcane or magical accent. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-healer-red.png`**
+Small strategy game unit sprite: A full-body RPG character portrait of a beautiful female cleric or healer in white and gold clerical vestments, gentle pose, possibly holding a holy symbol or staff. Red accent on robes. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-spear-red.png`**
+Small strategy game unit sprite: Spearman in light armor with a long spear and round or oval shield. Red on shield or tunic. Standing ready. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-catapult-red.png`**
+Small strategy game unit sprite: Wooden catapult siege engine on wheels, arm and bucket visible. Red banner or paint on frame. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-ballista-red.png`**
+Small strategy game unit sprite: Ballista (large crossbow on stand) with bow and winch. Red trim or banner on frame. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-engineer-red.png`**
+Small strategy game unit sprite: Engineer or sapper in practical leather gear, toolbelt, and goggles. Holding a wrench, blueprint, or small cog. Red on bandana or apron. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+---
+
+## Orc Unit Sprites
+
+**→ Save as: `aaa-unit-orc-infantry-no-bg.png`**
+Small strategy game unit sprite: Orc warrior with broad shoulders, green skin, wearing crude armor and holding a sword or axe. Fierce pose. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-orc-mage-no-bg.png`**
+Small strategy game unit sprite: Orc shaman or mage with green skin, wearing bones and furs, holding a staff or casting. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-orc-rider-no-bg.png`**
+Small strategy game unit sprite: Orc rider on a wolf or boar, holding a weapon. Green skin, savage armor. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-orc-spear-no-bg.png`**
+Small strategy game unit sprite: Orc spearman with green skin, crude armor, long spear and shield. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+**→ Save as: `aaa-unit-orc-healer-no-bg.png`**
+Small strategy game unit sprite: Orc healer or witch doctor with green skin, bones and feathers, holding a totem or potion. Art style: detailed digital painting, fantasy strategy game asset. Transparent background.
+
+---
+
+## Summary — 52 images total
+
+| Category | Count |
+|----------|-------|
+| Blue hero portraits + full body | 18 |
+| Undead hero portraits + full body | 8 |
+| Blue team unit sprites | 9 |
+| Red team unit sprites | 9 |
+| Orc unit sprites | 5 |
+| **Total** | **49** |
 
 
 ## Documentation: gold-system-plan.md
@@ -3599,69 +4095,75 @@ Leveling Update.  Each level should require 50% more experience than the previou
 ## Documentation: js-files-line-count.md
 # JavaScript files by line count
 
-*Updated: Feb 27, 2026*
+*Updated: Mar 10, 2026*
 
 | # | Lines | File |
 |---|------:|------|
-| 1 | 1,287 | `managers/ProductionManager.js` |
-| 2 | 1,229 | `managers/UIManager.js` |
-| 3 | 1,224 | `managers/CombatManager.js` |
-| 4 | 1,194 | `managers/InputManager.js` |
-| 5 | 1,177 | `managers/SpawnManager.js` |
-| 6 | 771 | `scenes/GameScene.js` |
-| 7 | 690 | `managers/ui/ManageCrewPanel.js` |
-| 8 | 665 | `managers/ui/PauseOptionsPanel.js` |
-| 9 | 631 | `config.js` |
-| 10 | 591 | `managers/AnimationManager.js` |
-| 11 | 558 | `entities/Unit.js` |
-| 12 | 541 | `MapPathingService.js` |
-| 13 | 506 | `managers/HeroManager.js` |
-| 14 | 503 | `managers/naval/ShipCombat.js` |
-| 15 | 502 | `managers/NavalManager.js` |
-| 16 | 477 | `MapLocationPlacer.js` |
-| 17 | 438 | `managers/naval/ShipCrew.js` |
-| 18 | 437 | `MapManager.js` |
-| 19 | 436 | `MapTerrainGenerator.js` |
-| 20 | 431 | `managers/SaveManager.js` |
-| 21 | 399 | `managers/AIManager.js` |
-| 22 | 379 | `managers/CameraManager.js` |
-| 23 | 342 | `managers/naval/NavalAI.js` |
-| 24 | 317 | `managers/TurnManager.js` |
-| 25 | 272 | `managers/EngineerManager.js` |
-| 26 | 256 | `managers/naval/ShipMovement.js` |
-| 27 | 254 | `managers/ui/StatPanelUI.js` |
-| 28 | 232 | `managers/ui/ProductionReportUI.js` |
-| 29 | 228 | `scenes/MainMenuScene.js` |
-| 30 | 223 | `managers/ui/MapHighlightUI.js` |
-| 31 | 198 | `entities/Hero.js` |
-| 32 | 191 | `managers/naval/ShipState.js` |
-| 33 | 191 | `managers/ui/HeroCardPopup.js` |
-| 34 | 167 | `managers/naval/ShipPlacement.js` |
-| 35 | 153 | `managers/ui/ConfirmDialogUI.js` |
-| 36 | 130 | `managers/naval/ShipVisuals.js` |
-| 37 | 120 | `managers/ui/ComingSoonPanel.js` |
-| 38 | 119 | `managers/ui/MapSizePanel.js` |
-| 39 | 111 | `managers/EconomyManager.js` |
-| 40 | 89 | `managers/ui/MedievalUI.js` |
-| 41 | 83 | `entities/Orc.js` |
-| 42 | 69 | `AudioManager.js` |
-| 43 | 62 | `managers/ui/ShipPlacementConfirmUI.js` |
-| 44 | 56 | `managers/storage/StorageAdapter.js` |
-| 45 | 46 | `managers/ui/ModalHelper.js` |
-| 46 | 42 | `scenes/IslandSelectScene.js` |
-| 47 | 30 | `GameState.js` |
-| 48 | 25 | `managers/storage/ElectronStorageAdapter.js` |
-| 49 | 23 | `main.js` |
-| 50 | 21 | `assets/tiles/blob_lookup.js` |
-| 51 | 19 | `managers/storage/WebStorageAdapter.js` |
-| 52 | 15 | `managers/SiegeManager.js` |
-| 53 | 12 | `managers/storage/getStorageAdapter.js` |
-| 54 | 6 | `entities/OrcMage.js` |
-| 55 | 6 | `entities/OrcRider.js` |
-| 56 | 6 | `entities/OrcHealer.js` |
-| 57 | 6 | `entities/OrcSpear.js` |
+| 1 | 1,790 | `managers/UIManager.js` |
+| 2 | 1,507 | `managers/ProductionManager.js` |
+| 3 | 1,384 | `managers/AnimationManager.js` |
+| 4 | 1,383 | `managers/CombatManager.js` |
+| 5 | 1,372 | `managers/SpawnManager.js` |
+| 6 | 1,353 | `managers/InputManager.js` |
+| 7 | 939 | `scenes/GameScene.js` |
+| 8 | 879 | `managers/AIManager.js` |
+| 9 | 836 | `config.js` |
+| 10 | 823 | `managers/HeroManager.js` |
+| 11 | 789 | `managers/TurnManager.js` |
+| 12 | 775 | `managers/ui/PauseOptionsPanel.js` |
+| 13 | 767 | `managers/ui/ManageCrewPanel.js` |
+| 14 | 766 | `entities/Unit.js` |
+| 15 | 687 | `managers/NavalManager.js` |
+| 16 | 672 | `managers/naval/ShipCrew.js` |
+| 17 | 624 | `MapPathingService.js` |
+| 18 | 598 | `managers/naval/ShipCombat.js` |
+| 19 | 578 | `managers/SaveManager.js` |
+| 20 | 532 | `MapLocationPlacer.js` |
+| 21 | 508 | `MapTerrainGenerator.js` |
+| 22 | 495 | `MapManager.js` |
+| 23 | 480 | `managers/naval/NavalAI.js` |
+| 24 | 417 | `managers/CameraManager.js` |
+| 25 | 413 | `managers/ui/HeroCardPopup.js` |
+| 26 | 392 | `scenes/MainMenuScene.js` |
+| 27 | 339 | `managers/EngineerManager.js` |
+| 28 | 334 | `managers/ui/StatPanelUI.js` |
+| 29 | 329 | `managers/naval/ShipMovement.js` |
+| 30 | 300 | `managers/ui/UnitMessageLog.js` |
+| 31 | 289 | `entities/Hero.js` |
+| 32 | 264 | `managers/ui/ProductionReportUI.js` |
+| 33 | 249 | `managers/ui/StatBreakdown.js` |
+| 34 | 242 | `managers/ui/MapHighlightUI.js` |
+| 35 | 239 | `managers/ui/StatBreakdownPanel.js` |
+| 36 | 220 | `managers/naval/ShipState.js` |
+| 37 | 201 | `managers/ui/WaveAnnouncementPanel.js` |
+| 38 | 185 | `AudioManager.js` |
+| 39 | 176 | `managers/naval/ShipPlacement.js` |
+| 40 | 175 | `managers/ui/ConfirmDialogUI.js` |
+| 41 | 159 | `managers/naval/ShipVisuals.js` |
+| 42 | 138 | `managers/ui/MapSizePanel.js` |
+| 43 | 138 | `managers/ui/ComingSoonPanel.js` |
+| 44 | 138 | `managers/EconomyManager.js` |
+| 45 | 126 | `managers/ui/DifficultyPanel.js` |
+| 46 | 104 | `managers/ui/MedievalUI.js` |
+| 47 | 95 | `entities/Orc.js` |
+| 48 | 72 | `managers/ui/ShipPlacementConfirmUI.js` |
+| 49 | 64 | `managers/storage/StorageAdapter.js` |
+| 50 | 52 | `managers/ui/ModalHelper.js` |
+| 51 | 48 | `scenes/IslandSelectScene.js` |
+| 52 | 40 | `scripts/generate-llms.js` |
+| 53 | 33 | `GameState.js` |
+| 54 | 30 | `managers/storage/ElectronStorageAdapter.js` |
+| 55 | 25 | `main.js` |
+| 56 | 24 | `managers/storage/WebStorageAdapter.js` |
+| 57 | 21 | `assets/tiles/blob_lookup.js` |
+| 58 | 16 | `managers/SiegeManager.js` |
+| 59 | 13 | `managers/storage/getStorageAdapter.js` |
+| 60 | 7 | `entities/OrcSpear.js` |
+| 61 | 7 | `entities/OrcRider.js` |
+| 62 | 7 | `entities/OrcMage.js` |
+| 63 | 7 | `entities/OrcHealer.js` |
 
-**Total: ~18,339 lines** in 57 files.
+**Total: ~26,665 lines** in 63 files.
 
 
 ## Documentation: map-size-implementation.md
@@ -5424,6 +5926,11 @@ The following are **already in place** as of this review:
 - **UIManager.refreshAfterAction(message)** — Implemented; used throughout InputManager, CombatManager, NavalManager, TurnManager, ShipCrew, EngineerManager.
 - **NavalManager** — Split into submodules under `managers/naval/` (ShipPlacement, ShipMovement, ShipVisuals, ShipCrew, ShipCombat, ShipState, NavalAI); NavalManager acts as a facade.
 - **GameState** (`createGameState()`) — Exists and holds selection, reachable data, turn, modes; scene keeps aliases for backward compatibility. **Not yet fully adopted** by all managers (many still read/write `scene.*`).
+- **MapHighlightUI** (`managers/ui/MapHighlightUI.js`, 242 lines) — Exists; reachable tile and ship/unit highlight drawing lives here.
+- **StatBreakdown / StatBreakdownPanel** — Extracted stat display modules (`managers/ui/StatBreakdown.js` 249 lines, `managers/ui/StatBreakdownPanel.js` 239 lines).
+- **UnitMessageLog** (`managers/ui/UnitMessageLog.js`, 300 lines) — Combat/action message log UI.
+- **WaveAnnouncementPanel** (`managers/ui/WaveAnnouncementPanel.js`, 201 lines) — Wave/turn announcement banner.
+- **DifficultyPanel** (`managers/ui/DifficultyPanel.js`, 126 lines) — Difficulty selection modal.
 
 ---
 
@@ -5439,10 +5946,10 @@ The following are **already in place** as of this review:
 
 ### 2. Split UIManager by responsibility (Medium)
 
-**Issue:** **UIManager.js** is very large (~1,600+ lines) and handles stat panel, side panel, action buttons, reachable tiles/ship highlights, popup menu, turn banner, locations panel, manage crew (delegated to ManageCrewPanel), game over, toasts, panel textures. ManageCrewPanel is already extracted (~690 lines).
+**Issue:** **UIManager.js** is very large (~1,790 lines) and handles stat panel, side panel, action buttons, reachable tiles/ship highlights, popup menu, turn banner, locations panel, manage crew (delegated to ManageCrewPanel), game over, toasts, panel textures. MapHighlightUI (242 lines) is already extracted; ManageCrewPanel (767 lines) is already extracted.
 
 **Suggestion:** Split by feature when touching the file:
-- **ReachableTilesRenderer** (or consolidate with MapHighlightUI) — `updateReachableTiles()`, disembark/ship/unit highlight drawing.
+- **ReachableTilesRenderer** — Consolidate `updateReachableTiles()` and disembark/ship/unit highlight drawing into `MapHighlightUI` if not already fully there.
 - **LocationsPanelUI** — If the locations panel grows, extract it similarly to ManageCrewPanel.
 - Keep UIManager as a thin facade that delegates to these and creates buttons/panel textures.
 
@@ -5450,25 +5957,25 @@ The following are **already in place** as of this review:
 
 ### 3. Slim or extract createMapDisplay loop (Medium, optional)
 
-**Issue:** **GameScene.createMapDisplay()** is a long loop (~150+ lines) that, per tile, calls MapManager for frame/bitmask and creates Phaser sprites. Map *logic* is already in MapManager; the loop is mostly “get frame → create sprite, set position/origin/angle.”
+**Issue:** **GameScene.createMapDisplay()** is a long loop (~150+ lines) that, per tile, calls MapManager for frame/bitmask and creates Phaser sprites. Map *logic* is already in MapManager; the loop is mostly "get frame → create sprite, set position/origin/angle."
 
 **Suggestion (incremental):** Extract a **getTerrainSpriteConfig(x, y)** (or similar) that returns `{ key, frame, origin, angle? }` for a cell by delegating to MapManager and handling bridge/jetty orientation. createMapDisplay then becomes: get config → create sprite from config. Optionally move the loop into a **MapDisplayRenderer** that receives scene and mapManager so GameScene only calls `this.mapDisplayRenderer.render()`.
 
 ---
 
-### 4. Consolidate “wood button” / “medieval button” creation (Low)
+### 4. Consolidate "wood button" / "medieval button" creation (Low)
 
 **Issue:** **UIManager** uses `createMedievalButton` (MedievalUI); **SpawnManager** defines its own `createWoodButton` for unit selection and start-instructions panels (and **ConfirmDialogUI**, **ShipPlacementConfirmUI** have local `createWoodButton`). Styling is similar (rounded rect, trim, text); duplication of drawing and hover/disabled behavior.
 
-**Suggestion:** Extend **createMedievalButton** with options for size, colors, and optional “wood” palette (or a shared **ButtonFactory** with presets). Use it in SpawnManager, ConfirmDialogUI, and ShipPlacementConfirmUI so all panels share one look and one code path.
+**Suggestion:** Extend **createMedievalButton** with options for size, colors, and optional "wood" palette (or a shared **ButtonFactory** with presets). Use it in SpawnManager, ConfirmDialogUI, and ShipPlacementConfirmUI so all panels share one look and one code path.
 
 ---
 
 ### 5. Stub managers: document or remove (Low)
 
-**Issue:** **SiegeManager** and **EconomyManager** are small stubs (constructor + planned-feature comments). They're created in **GameScene** but not used in core gameplay. **HeroManager** is a full implementation (~506 lines) and is actively used.
+**Issue:** **SiegeManager** (16 lines) and **EconomyManager** (138 lines) are small stubs created in **GameScene** but not used in core gameplay. **HeroManager** is a full implementation (~823 lines) and is actively used.
 
-**Suggestion:** Keep stubs that are on the roadmap; add a short comment in GameScene where they are constructed (e.g. "Future: SiegeManager"). If a stub is not planned soon, remove it from `create()` to keep the “what's actually used” list clear. Document in this or an architecture doc which stubs exist and their intended use.
+**Suggestion:** Keep stubs that are on the roadmap; add a short comment in GameScene where they are constructed (e.g. "Future: SiegeManager"). If a stub is not planned soon, remove it from `create()` to keep the "what's actually used" list clear.
 
 ---
 
@@ -5482,9 +5989,14 @@ The following are **already in place** as of this review:
 
 ### 7. Further split large managers (Low, as-needed)
 
-**Issue:** UIManager (~1,600+), CombatManager (~1,200+), ProductionManager (~1,200+), InputManager (~1,100+) are each 1k+ lines.
+**Issue:** UIManager (~1,790), ProductionManager (~1,507), AnimationManager (~1,384), CombatManager (~1,383), SpawnManager (~1,372), InputManager (~1,353), AIManager (~879), HeroManager (~823), TurnManager (~789) are all large and still growing.
 
-**Suggestion:** Split only when touching a file for a feature; avoid big-bang rewrites. Consider extracting **ReachableTilesRenderer** / **LocationsPanelUI** from UIManager; damage calculation or “combat vs location/ship” from CombatManager; **ProductionPanelUI** / **ReportPanelUI** from ProductionManager; or input handlers (ShipInputHandler, UnitInputHandler, etc.) from InputManager when adding new flows. Prefer “extract class” so one responsibility per file stays clear.
+**Suggestion:** Split only when touching a file for a feature; avoid big-bang rewrites. Consider:
+- **UIManager** → consolidate remaining highlight drawing into MapHighlightUI; extract **LocationsPanelUI** if locations panel grows.
+- **CombatManager** → extract damage calculation or "combat vs location/ship" into smaller modules.
+- **ProductionManager** → consider **ProductionPanelUI** / **ReportPanelUI** for the panels; keep production logic in ProductionManager.
+- **InputManager** → consider **ShipInputHandler**, **UnitInputHandler**, etc. when adding new input flows.
+- **AIManager** → already at 879 lines; consider extracting land unit AI from NavalAI (already done); further split if orc/red AI logic diverges significantly.
 
 ---
 
@@ -5500,13 +6012,15 @@ The following are **already in place** as of this review:
 | — | refreshAfterAction() helper | — | — | ✅ Done (UIManager.refreshAfterAction) |
 | — | Extract "remove location by index" | — | — | ✅ Done (MapManager.removeLocation + GameScene.removeLocationAndLabels) |
 | — | Single source for buildable road terrain | — | — | ✅ Done (CONFIG.MAP_GENERATION.ROAD_BUILDABLE_TERRAIN) |
+| — | Extract stat display into modules | — | — | ✅ Done (StatBreakdown, StatBreakdownPanel) |
+| — | Extract highlight drawing | — | — | ✅ Done (MapHighlightUI) |
 | 1 | Reduce scene.* coupling (GameState adoption) | Medium | Medium | Open |
 | 2 | Split UIManager by responsibility | Medium | High | Open |
 | 3 | Slim or extract createMapDisplay loop | Medium | Medium | Optional |
 | 4 | Consolidate medieval/wood button creation | Low | Low | Open |
 | 5 | Document or remove stub managers | Low | Low | Open |
 | 6 | Unify confirm-dialog styling via CONFIG.UI | Low | Low | Open |
-| 7 | Further split UIManager/CombatManager/ProductionManager/InputManager | Low | High | As-needed |
+| 7 | Further split large managers | Low | High | As-needed |
 
 ---
 
@@ -5517,6 +6031,8 @@ The following are **already in place** as of this review:
 3. **Large files:** 2 (split UIManager) and 7 (further splits) when touching those areas for features.
 
 Related: [plan.md](../plan.md), [refactor-2-25-26.md](../refactor-2-25-26.md), [.cursor/plans/decompose_gamescene.js_d29414a0.plan.md](../.cursor/plans/decompose_gamescene.js_d29414a0.plan.md).
+
+*Updated: Mar 10, 2026*
 
 
 ## Documentation: save-plan.md

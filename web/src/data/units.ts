@@ -225,20 +225,20 @@ export const SHIP_CLASSES = [
 
 /** Map unit keys to sprite icon paths in /assets (for War Room unit cards). */
 export const UNIT_SPRITE: Record<string, string> = {
-  'unit-infantry': '/assets/unit-infantry-blue.webp',
-  'unit-knight': '/assets/unit-knight-blue.webp',
-  'unit-archer': '/assets/unit-archer-blue-v5-no-bg.png',
-  'unit-mage': '/assets/unit-mage-blue-v4.webp',
-  'unit-healer': '/assets/unit-healer-blue-v2.webp',
-  'unit-spear': '/assets/unit-spear-blue-no-bg.png',
+  'unit-infantry': '/assets/unit-infantry-blue.png',
+  'unit-knight': '/assets/unit-knight-blue.png',
+  'unit-archer': '/assets/unit-archer-blue.png',
+  'unit-mage': '/assets/unit-mage-blue.png',
+  'unit-healer': '/assets/unit-healer-blue.png',
+  'unit-spear': '/assets/unit-spear-blue.png',
   'unit-catapult': '/assets/unit-catapult-blue.png',
   'unit-ballista': '/assets/unit-ballista-blue.png',
   'unit-engineer': '/assets/unit-engineer-blue.png',
-  'unit-orc-infantry-no-bg': '/assets/unit-orc-infantry-no-bg.png',
-  'unit-orc-mage-no-bg': '/assets/unit-orc-mage-no-bg.png',
-  'unit-orc-rider-no-bg': '/assets/unit-orc-rider-no-bg.png',
-  'unit-orc-spear-no-bg': '/assets/unit-orc-spear-no-bg.png',
-  'unit-orc-healer-no-bg': '/assets/unit-orc-healer-no-bg.png',
+  'unit-orc-infantry-no-bg': '/assets/unit-orc-infantry.png',
+  'unit-orc-mage-no-bg': '/assets/unit-orc-mage.png',
+  'unit-orc-rider-no-bg': '/assets/unit-orc-rider.png',
+  'unit-orc-spear-no-bg': '/assets/unit-orc-spear.png',
+  'unit-orc-healer-no-bg': '/assets/unit-orc-healer.png',
 };
 
 export function getUnitSpriteSrc(unitKey: string): string | null {

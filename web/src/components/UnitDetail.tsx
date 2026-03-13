@@ -56,27 +56,34 @@ export default function UnitDetail({ unit }: UnitDetailProps) {
   return (
     <div className="space-y-6" style={{ color: isOrc ? '#c4d4c8' : '#3a2a1a' }}>
 
-      {/* ── Unit sprite icon ── */}
+      {/* ── Large Unit portrait area ── */}
       {spriteSrc && (
-        <div className="flex justify-center">
-          <div
-            className="w-24 h-24 flex items-center justify-center rounded-lg overflow-hidden"
+        <div className={`w-full h-64 flex items-center justify-center relative overflow-hidden ${
+          isOrc ? 'ichor-glow' : ''
+        }`} style={{
+          background: isOrc
+            ? 'radial-gradient(ellipse at 50% 50%, rgba(136,170,102,0.12) 0%, rgba(10,14,10,0.95) 60%)'
+            : `radial-gradient(ellipse at 50% 50%, rgba(180,160,120,0.35) 0%, rgba(236,220,176,0.1) 60%)`,
+          border: isOrc ? '2px solid #1a3a1a' : '2px solid #8a6a30',
+          boxShadow: isOrc
+            ? 'inset 0 0 30px rgba(136,170,102,0.08)'
+            : 'inset 0 0 20px rgba(100,70,20,0.1)',
+        }}>
+          <Image
+            src={spriteSrc}
+            alt={unit.name}
+            width={256}
+            height={256}
+            className="relative z-10 object-contain h-full w-auto max-h-full"
             style={{
-              background: isOrc ? 'rgba(0,0,0,0.4)' : 'rgba(176,141,87,0.15)',
-              border: `2px solid ${isOrc ? '#1a3a1a' : '#8a6a30'}`,
-              boxShadow: 'inset 0 2px 8px rgba(0,0,0,0.2), 0 2px 8px rgba(0,0,0,0.2)',
+              filter: isOrc ? 'drop-shadow(0 0 16px rgba(136,170,102,0.6))' : 'drop-shadow(0 2px 4px rgba(0,0,0,0.3))',
             }}
-          >
-            <Image
-              src={spriteSrc}
-              alt=""
-              width={96}
-              height={96}
-              className="w-full h-full object-contain"
-              unoptimized
-              aria-hidden
-            />
-          </div>
+            unoptimized
+          />
+          {/* Inner vignette */}
+          <div className="absolute inset-0 pointer-events-none" style={{
+            background: 'radial-gradient(ellipse at 50% 50%, transparent 40%, rgba(0,0,0,0.2) 100%)',
+          }} />
         </div>
       )}
 
@@ -95,137 +102,158 @@ export default function UnitDetail({ unit }: UnitDetailProps) {
         <span style={{ fontSize: '1.6rem', lineHeight: 0, verticalAlign: '-0.25em', opacity: 0.3 }}>&rdquo;</span>
       </blockquote>
 
-      {/* ── HP / Vitae ── */}
-      <div>
-        <SectionHead text={`Vitae — ${unit.stats.hp} HP`} isOrc={isOrc} />
-        <WaxDropRow hp={unit.stats.hp} />
-      </div>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* ── Stats grid ── */}
+        <div className="space-y-4">
+          <SectionHead text="Vital Statistics" isOrc={isOrc} />
+          <div className="grid grid-cols-2 gap-3">
+            {([
+              { label: 'ATK', value: unit.stats.atk, color: isOrc ? '#cc8888' : '#9a031e' },
+              { label: 'DEF', value: unit.stats.def, color: isOrc ? '#88aacc' : '#4a6080' },
+              { label: 'MOV', value: unit.moves, color: isOrc ? '#aacc88' : '#5a7040' },
+              { label: 'RNG', value: `${unit.minRange}-${unit.range}`, color: isOrc ? '#ccaacc' : '#806040' },
+            ] as const).map((s) => (
+              <motion.div
+                key={s.label}
+                className="text-center py-3 px-2 relative"
+                style={{
+                  background: accentFaint,
+                  border: `1px solid ${borderThin}`,
+                  boxShadow: `inset 0 1px 3px rgba(0,0,0,0.12), 0 1px 0 rgba(255,255,255,0.04)`,
+                }}
+                whileHover={{ scale: 1.04, boxShadow: `inset 0 1px 3px rgba(0,0,0,0.18), 0 0 8px ${accentFaint}` }}
+              >
+                <div className="text-xs mb-1 opacity-40">{statIcon(s.label)}</div>
+                <div className="text-2xl font-black" style={{ color: s.color, fontFamily: "'Cinzel', serif" }}>{s.value}</div>
+                <div className="text-[9px] uppercase tracking-widest opacity-45" style={{ fontFamily: "'Cinzel', serif" }}>{s.label}</div>
+              </motion.div>
+            ))}
+          </div>
+        </div>
 
-      {/* ── Stats grid ── */}
-      <div className="grid grid-cols-4 gap-3">
-        {([
-          { label: 'ATK', value: unit.stats.atk, color: isOrc ? '#cc6666' : '#9a031e' },
-          { label: 'DEF', value: unit.stats.def, color: isOrc ? '#6688aa' : '#4a6080' },
-          { label: 'MOV', value: unit.moves, color: isOrc ? '#88aa66' : '#5a7040' },
-          { label: 'RNG', value: `${unit.minRange}-${unit.range}`, color: isOrc ? '#aa8866' : '#806040' },
-        ] as const).map((s) => (
-          <motion.div
-            key={s.label}
-            className="text-center py-3 px-2 relative"
-            style={{
-              background: accentFaint,
-              border: `1px solid ${borderThin}`,
-              boxShadow: `inset 0 1px 3px rgba(0,0,0,0.12), 0 1px 0 rgba(255,255,255,0.04)`,
-            }}
-            whileHover={{ scale: 1.06, boxShadow: `inset 0 1px 3px rgba(0,0,0,0.18), 0 0 8px ${accentFaint}` }}
-          >
-            <div className="text-xs mb-1 opacity-40">{statIcon(s.label)}</div>
-            <div className="text-2xl font-black" style={{ color: s.color, fontFamily: "'Cinzel', serif" }}>{s.value}</div>
-            <div className="text-[9px] uppercase tracking-widest opacity-45" style={{ fontFamily: "'Cinzel', serif" }}>{s.label}</div>
-          </motion.div>
-        ))}
-      </div>
-
-      {/* ── Growth per level ── */}
-      <div>
-        <SectionHead text="Growth per Level" isOrc={isOrc} />
-        <div className="flex gap-5">
-          {Object.entries(unit.growth).map(([key, val]) => (
-            <div key={key} className="text-sm" style={{ fontFamily: "'EB Garamond', serif" }}>
-              <span className="font-bold text-base" style={{ color: isOrc ? '#4aba4a' : '#6a4a2a' }}>+{val}</span>
-              <span className="ml-1.5 uppercase text-[10px] tracking-wider opacity-45" style={{ fontFamily: "'Cinzel', serif" }}>{key}</span>
-            </div>
-          ))}
+        {/* ── HP / Vitae ── */}
+        <div className="space-y-4">
+          <SectionHead text={`Vitae — ${unit.stats.hp} HP`} isOrc={isOrc} />
+          <WaxDropRow hp={unit.stats.hp} />
+          <div className="mt-4 pt-4" style={{ borderTop: `1px dashed ${borderThin}` }}>
+             <SectionHead text="Growth per Level" isOrc={isOrc} />
+             <div className="flex gap-5 mt-2">
+                {Object.entries(unit.growth).map(([key, val]) => (
+                  <div key={key} className="text-sm" style={{ fontFamily: "'EB Garamond', serif" }}>
+                    <span className="font-bold text-base" style={{ color: isOrc ? '#4aba4a' : '#6a4a2a' }}>+{val}</span>
+                    <span className="ml-1.5 uppercase text-[10px] tracking-wider opacity-45" style={{ fontFamily: "'Cinzel', serif" }}>{key}</span>
+                  </div>
+                ))}
+             </div>
+          </div>
         </div>
       </div>
 
       {/* ── Attack type / Economy ── */}
-      <div className="flex flex-wrap gap-x-6 gap-y-1 text-sm py-3 px-4" style={{
+      <div className="flex flex-wrap gap-x-6 gap-y-3 text-sm py-4 px-6 justify-between" style={{
         background: accentFaint,
         border: `1px solid ${borderThin}`,
         fontFamily: "'EB Garamond', serif",
       }}>
-        <span>
-          <strong style={{ fontFamily: "'Cinzel', serif", fontSize: '0.7rem' }}>TYPE</strong>{' '}
-          {unit.attackType === 'magic' ? '⚡ Arcane' : '⚔ Physical'}
+        <span className="flex items-center gap-2">
+          <strong style={{ fontFamily: "'Cinzel', serif", fontSize: '0.7rem' }}>TYPE</strong>
+          <span className="px-2 py-0.5" style={{ border: `1px solid ${borderThin}`, background: 'rgba(0,0,0,0.05)' }}>
+            {unit.attackType === 'magic' ? '⚡ Arcane' : '⚔ Physical'}
+          </span>
         </span>
-        <span>
-          <strong style={{ fontFamily: "'Cinzel', serif", fontSize: '0.7rem' }}>COST</strong>{' '}
-          {unit.cost}g
+        <span className="flex items-center gap-2">
+          <strong style={{ fontFamily: "'Cinzel', serif", fontSize: '0.7rem' }}>COST</strong>
+          <span className="px-2 py-0.5" style={{ border: `1px solid ${borderThin}`, background: 'rgba(0,0,0,0.05)' }}>
+            {unit.cost}g
+          </span>
         </span>
-        <span>
-          <strong style={{ fontFamily: "'Cinzel', serif", fontSize: '0.7rem' }}>UPKEEP</strong>{' '}
-          {unit.maintenance}g / turn
+        <span className="flex items-center gap-2">
+          <strong style={{ fontFamily: "'Cinzel', serif", fontSize: '0.7rem' }}>UPKEEP</strong>
+          <span className="px-2 py-0.5" style={{ border: `1px solid ${borderThin}`, background: 'rgba(0,0,0,0.05)' }}>
+            {unit.maintenance}g / turn
+          </span>
         </span>
       </div>
 
       {/* ── Special properties ── */}
-      {unit.stats.isHealer && (
-        <div className="p-4" style={{
-          background: isOrc ? 'rgba(0,255,65,0.06)' : 'rgba(100,160,100,0.08)',
-          border: `1px solid ${isOrc ? '#1a4a1a' : '#8aaa8a'}`,
-          boxShadow: 'inset 0 1px 4px rgba(0,0,0,0.08)',
-        }}>
-          <span className="text-sm" style={{ fontFamily: "'EB Garamond', serif" }}>
-            ✚ <strong>Healer Unit</strong> — Restores HP to allied units within range.
-          </span>
-        </div>
-      )}
-
-      {unit.engineerSkills && (
-        <div className="p-4" style={{
-          background: 'rgba(176,141,87,0.08)',
-          border: '1px solid #c4a87a',
-          boxShadow: 'inset 0 1px 4px rgba(0,0,0,0.08)',
-        }}>
-          <span className="text-sm font-bold block mb-2" style={{ fontFamily: "'Cinzel', serif", letterSpacing: '0.08em' }}>⚒ Engineer Skills</span>
-          <div className="flex flex-wrap gap-2">
-            {unit.engineerSkills.map((s) => (
-              <span key={s} className="text-xs px-2.5 py-1" style={{
-                background: 'rgba(176,141,87,0.12)',
-                border: '1px solid #c4a87a',
-                fontFamily: "'EB Garamond', serif",
-              }}>
-                {s.replace(/_/g, ' ')}
-              </span>
-            ))}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {unit.stats.isHealer && (
+          <div className="p-4" style={{
+            background: isOrc ? 'rgba(0,255,65,0.06)' : 'rgba(100,160,100,0.08)',
+            border: `1px solid ${isOrc ? '#1a4a1a' : '#8aaa8a'}`,
+            boxShadow: 'inset 0 1px 4px rgba(0,0,0,0.08)',
+          }}>
+            <span className="text-sm" style={{ fontFamily: "'EB Garamond', serif" }}>
+              ✚ <strong>Healer Unit</strong> — Restores HP to allied units within range.
+            </span>
           </div>
-        </div>
-      )}
+        )}
 
-      {unit.canBoardShip && (
-        <p className="text-sm italic opacity-55" style={{ fontFamily: "'EB Garamond', serif" }}>
-          ⚓ Can board ships and fire from deck.
-        </p>
-      )}
+        {unit.engineerSkills && (
+          <div className="p-4" style={{
+            background: 'rgba(176,141,87,0.08)',
+            border: '1px solid #c4a87a',
+            boxShadow: 'inset 0 1px 4px rgba(0,0,0,0.08)',
+          }}>
+            <span className="text-sm font-bold block mb-2" style={{ fontFamily: "'Cinzel', serif", letterSpacing: '0.08em' }}>⚒ Engineer Skills</span>
+            <div className="flex flex-wrap gap-2">
+              {unit.engineerSkills.map((s) => (
+                <span key={s} className="text-xs px-2.5 py-1" style={{
+                  background: 'rgba(176,141,87,0.12)',
+                  border: '1px solid #c4a87a',
+                  fontFamily: "'EB Garamond', serif",
+                }}>
+                  {s.replace(/_/g, ' ')}
+                </span>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {unit.canBoardShip && (
+          <div className="p-4 flex items-center gap-3" style={{
+            background: 'rgba(74,96,128,0.08)',
+            border: '1px solid #4a6080',
+          }}>
+            <span className="text-lg">⚓</span>
+            <span className="text-sm italic" style={{ fontFamily: "'EB Garamond', serif" }}>
+              Can board ships and fire from deck.
+            </span>
+          </div>
+        )}
+      </div>
 
       {/* ── Combat modifiers ── */}
       {(unit.bonusAgainst || unit.receiveDamageFactorFrom || unit.damageReduction || unit.bonusAgainstLocation) && (
-        <div className="p-5" style={{
-          background: accentFaint,
+        <div className="p-6" style={{
+          background: `linear-gradient(180deg, ${accentFaint}, transparent)`,
           border: `1px solid ${borderThin}`,
           boxShadow: 'inset 0 2px 6px rgba(0,0,0,0.1)',
         }}>
-          <SectionHead text="Combat Modifiers" isOrc={isOrc} />
-          <div className="space-y-1.5 mt-3" style={{ fontFamily: "'EB Garamond', serif" }}>
+          <SectionHead text="Combat Doctrine" isOrc={isOrc} />
+          <div className="space-y-2 mt-4" style={{ fontFamily: "'EB Garamond', serif" }}>
             {unit.bonusAgainst?.map((b, i) => (
-              <p key={i} className="text-sm">
-                ✦ <strong>+{b.bonus} ATK</strong> against {b.targetName}
+              <p key={i} className="text-sm flex items-start gap-3">
+                <span style={{ color: accent }}>✦</span>
+                <span><strong>+{b.bonus} ATK</strong> against {b.targetName}</span>
               </p>
             ))}
             {unit.receiveDamageFactorFrom?.map((d, i) => (
-              <p key={i} className="text-sm">
-                ✦ Takes only <strong>{d.factor * 100}% damage</strong> from {d.attackerName}
+              <p key={i} className="text-sm flex items-start gap-3">
+                <span style={{ color: accent }}>✦</span>
+                <span>Takes only <strong>{d.factor * 100}% damage</strong> from {d.attackerName}</span>
               </p>
             ))}
             {unit.damageReduction?.magic && (
-              <p className="text-sm">
-                ✦ <strong>{unit.damageReduction.magic * 100}% magic damage reduction</strong>
+              <p key="magic-reduction-doctrine" className="text-sm flex items-start gap-3">
+                <span style={{ color: accent }}>✦</span>
+                <span><strong>{unit.damageReduction.magic * 100}% magic damage reduction</strong></span>
               </p>
             )}
             {unit.bonusAgainstLocation?.map((b, i) => (
-              <p key={i} className="text-sm">
-                ✦ <strong>+{b.bonusPercent}% damage</strong> against {b.type} locations
+              <p key={i} className="text-sm flex items-start gap-3">
+                <span style={{ color: accent }}>✦</span>
+                <span><strong>+{b.bonusPercent}% damage</strong> against {b.type} locations</span>
               </p>
             ))}
           </div>

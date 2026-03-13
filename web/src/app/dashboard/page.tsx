@@ -232,19 +232,6 @@ function DashboardContent() {
             </motion.button>
           );
         })}
-
-        {/* Bottom wax seal insignia */}
-        <div className="mt-auto pt-6 text-center" style={{ borderTop: '2px solid #3e2a10' }}>
-          <div className="wax-seal w-14 h-14 mx-auto flex items-center justify-center text-[10px] font-bold tracking-widest">
-            SPQR
-          </div>
-          <p className="text-[9px] mt-2.5 uppercase tracking-[0.15em]" style={{
-            color: '#5a4a3a',
-            textShadow: '0 1px 0 rgba(0,0,0,0.5)',
-          }}>
-            Insular Imperium
-          </p>
-        </div>
       </nav>
 
       {/* ══════════ MAIN CONTENT ══════════ */}

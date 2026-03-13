@@ -433,7 +433,7 @@ export default function FeaturesPage() {
               {/* Visual block */}
               <div className={reverse ? 'md:col-start-1 md:row-start-1' : ''}>
                 {screenshots ? (
-                  <div className={id === 'procedural' ? "grid grid-cols-2 gap-4" : "flex flex-col gap-8"}>
+                  <div className={(id === 'procedural' || id === 'economy') ? "grid grid-cols-2 gap-4" : "flex flex-col gap-8"}>
                     {screenshots.map((ss, ssIdx) => (
                       <div key={ssIdx} className="relative group">
                         <ScreenshotPlaceholder

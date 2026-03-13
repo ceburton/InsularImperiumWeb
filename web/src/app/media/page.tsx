@@ -1,28 +1,249 @@
 'use client';
 
+import { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
+import { motion, AnimatePresence } from 'framer-motion';
 import HomeLogo from '@/components/HomeLogo';
 
-export default function MediaPage() {
+const GALLERY_ENTRIES = [
+  {
+    imageSrc: '/assets/difficulty.png',
+    title: 'Step 1: Define the Challenge',
+    caption: 'Select your preferred difficulty level to match your strategic expertise.',
+  },
+  {
+    imageSrc: '/assets/map size.png',
+    title: 'Step 2: Scale the Battlefield',
+    caption: 'Choose the map size that fits your desired scope of conquest.',
+  },
+  {
+    imageSrc: '/assets/choose your hero.png',
+    title: 'Step 3: Recruit Your Champions',
+    caption: 'Select the legendary heroes who will lead your forces into the fray.',
+  },
+  {
+    imageSrc: '/assets/assemble your army.png',
+    title: 'Step 4: Muster Your Forces',
+    caption: 'Curate a balanced and powerful army ready for the front lines.',
+  },
+  {
+    imageSrc: '/assets/place your ship.png',
+    title: 'Step 5: Anchor the Fleet',
+    caption: 'Strategically position your vessel to secure your beachhead. You can\'t place your ship too close to enemy units!',
+  },
+  {
+    imageSrc: '/assets/disembark.png',
+    title: 'Step 6A: Command the Landing',
+    caption: 'Begin the deployment phase by offloading your primary units.',
+  },
+  {
+    imageSrc: '/assets/manifest.png',
+    title: 'Step 6B: Tactical Deployment',
+    caption: 'Utilize the Manifest interface to drag and drop specialized units directly into action.',
+  },
+];
+
+function ScreenshotPlaceholder({ title, caption, imageSrc, onClick }: { title: string; caption: string; imageSrc: string; onClick: () => void }) {
+  const [imgError, setImgError] = useState(false);
+
   return (
-    <div className="marble-bg min-h-screen flex flex-col items-center justify-center px-6">
-      <div className="absolute top-6 left-6">
+    <div
+      onClick={!imgError ? onClick : undefined}
+      className={`group relative w-full rounded-lg border-2 overflow-hidden flex flex-col transition-all duration-300 ${!imgError ? 'cursor-zoom-in hover:scale-[1.02] hover:shadow-xl' : ''}`}
+      style={{
+        borderColor: 'var(--color-bronze-dark)',
+        background: 'linear-gradient(135deg, rgba(26,24,20,0.6), rgba(42,38,30,0.5))',
+      }}
+    >
+      <div className="relative w-full aspect-video flex items-center justify-center bg-black/40 overflow-hidden">
+        {!imgError ? (
+          <Image
+            src={imageSrc}
+            alt={title}
+            fill
+            className="object-cover transition-transform duration-500 group-hover:scale-105"
+            unoptimized
+            onError={() => setImgError(true)}
+          />
+        ) : (
+          <div className="text-bronze-dark opacity-50 text-4xl">⚔</div>
+        )}
+        <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-colors duration-300" />
+      </div>
+      <div className="p-4 flex-1 flex flex-col justify-center border-t border-bronze-dark/30 bg-[#1a1814]/80">
+        <div className="text-bronze font-bold uppercase tracking-wider text-xs mb-1" style={{ fontFamily: "'Cinzel', serif" }}>
+          {title}
+        </div>
+        <p className="text-parchment-dark/80 text-xs leading-relaxed" style={{ fontFamily: "'EB Garamond', serif" }}>
+          {caption}
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function ImageModal({ src, alt, caption, onClose }: { src: string; alt: string; caption: string; onClose: () => void }) {
+  return (
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      onClick={onClose}
+      className="fixed inset-0 z-50 flex items-center justify-center p-4 md:p-8 bg-black/95 backdrop-blur-md cursor-zoom-out"
+    >
+      <motion.div
+        initial={{ scale: 0.9, opacity: 0 }}
+        animate={{ scale: 1, opacity: 1 }}
+        exit={{ scale: 0.9, opacity: 0 }}
+        onClick={(e) => e.stopPropagation()}
+        className="relative max-w-[95vw] max-h-[90vh] bronze-frame p-1 bg-[#1a1814] overflow-hidden rounded-sm shadow-[0_0_80px_rgba(0,0,0,1)] flex flex-col items-center justify-center"
+      >
+        <div className="relative w-full h-full flex items-center justify-center p-1">
+          <Image
+            src={src}
+            alt={alt}
+            width={1920}
+            height={1080}
+            className="max-w-full max-h-[85vh] object-contain block"
+            unoptimized
+            priority
+          />
+        </div>
+
+        {/* Caption Overlay */}
+        <div 
+          className="absolute bottom-0 left-0 right-0 p-6 pt-12 text-center"
+          style={{
+            background: 'linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.8) 50%, transparent 100%)',
+          }}
+        >
+          <div className="text-bronze font-bold uppercase tracking-[0.2em] text-sm md:text-base mb-1" style={{ fontFamily: "'Cinzel', serif", textShadow: '0 2px 4px rgba(0,0,0,0.5)' }}>
+            {alt}
+          </div>
+          <p className="text-parchment/90 text-sm md:text-lg max-w-3xl mx-auto leading-relaxed" style={{ fontFamily: "'EB Garamond', serif" }}>
+            {caption}
+          </p>
+        </div>
+        
+        <button
+          onClick={onClose}
+          className="absolute -top-2 -right-2 w-10 h-10 z-50 flex items-center justify-center text-xl font-bold cursor-pointer transition-all hover:scale-110 active:scale-95 shadow-lg border-2"
+          style={{
+            background: 'linear-gradient(135deg, #4a4a52 0%, #2a2a32 100%)',
+            borderColor: '#8a6a30',
+            color: '#c4a87a',
+            clipPath: 'polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)',
+            fontFamily: "'Cinzel', serif",
+          }}
+          aria-label="Close"
+        >
+          ✕
+        </button>
+      </motion.div>
+    </motion.div>
+  );
+}
+
+export default function MediaPage() {
+  const [selectedImage, setSelectedImage] = useState<{ src: string; alt: string; caption: string } | null>(null);
+
+  return (
+    <div className="marble-bg min-h-screen pb-20">
+      {/* Navigation */}
+      <nav
+        className="fixed top-0 left-0 right-0 z-40 w-full border-b flex items-center py-3 px-6 gap-4"
+        style={{
+          background: 'linear-gradient(180deg, rgba(22,22,24,0.97), rgba(26,24,22,0.95))',
+          borderColor: 'var(--color-bronze-dark)',
+          boxShadow: '0 4px 20px rgba(0,0,0,0.4)',
+        }}
+      >
         <HomeLogo />
-      </div>
-      <h1 className="text-3xl md:text-4xl font-bold mb-4" style={{ fontFamily: "'Cinzel', serif", color: 'var(--color-bronze)' }}>
-        Media & Gallery
-      </h1>
-      <p className="text-parchment/80 text-center max-w-md mb-8" style={{ fontFamily: "'EB Garamond', serif" }}>
-        Screenshots, trailers, and assets. Coming soon.
-      </p>
-      <div className="flex gap-4">
-        <Link href="/features" className="px-4 py-2 rounded border text-sm uppercase tracking-wider" style={{ fontFamily: "'Cinzel', serif", borderColor: 'var(--color-bronze)', color: 'var(--color-parchment)' }}>
-          Features
-        </Link>
-        <Link href="/dashboard" className="px-4 py-2 rounded border text-sm uppercase tracking-wider" style={{ fontFamily: "'Cinzel', serif", borderColor: 'var(--color-bronze)', color: 'var(--color-parchment)' }}>
-          War Room
-        </Link>
-      </div>
+        <div className="flex-1" />
+        <div className="flex gap-4">
+          <Link href="/features" className="text-parchment-dark hover:text-bronze transition-colors text-sm font-semibold uppercase tracking-widest" style={{ fontFamily: "'Cinzel', serif" }}>
+            Features
+          </Link>
+          <Link href="/dashboard" className="text-parchment-dark hover:text-bronze transition-colors text-sm font-semibold uppercase tracking-widest" style={{ fontFamily: "'Cinzel', serif" }}>
+            War Room
+          </Link>
+        </div>
+      </nav>
+
+      <div className="h-24" />
+
+      <main className="max-w-7xl mx-auto px-6">
+        <header className="text-center mb-16">
+          <motion.h1 
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="text-4xl md:text-5xl font-black mb-4 tracking-tight" 
+            style={{ fontFamily: "'Cinzel', serif", color: 'var(--color-bronze)' }}
+          >
+            Media & Gallery
+          </motion.h1>
+          <motion.div 
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.2 }}
+            className="w-24 h-1 bg-bronze mx-auto mb-6 opacity-50" 
+          />
+          <motion.p 
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 0.9 }}
+            transition={{ delay: 0.3 }}
+            className="text-parchment-dark text-lg max-w-2xl mx-auto italic" 
+            style={{ fontFamily: "'EB Garamond', serif" }}
+          >
+            A visual chronicle of your journey through the Insular Imperium archipelagos. From initial mobilization to the final disembarkation.
+          </motion.p>
+        </header>
+
+        {/* Gallery Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {GALLERY_ENTRIES.map((entry, index) => (
+            <motion.div
+              key={index}
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.1 * (index % 6) }}
+            >
+              <ScreenshotPlaceholder
+                title={entry.title}
+                caption={entry.caption}
+                imageSrc={entry.imageSrc}
+                onClick={() => setSelectedImage({ src: entry.imageSrc, alt: entry.title, caption: entry.caption })}
+              />
+            </motion.div>
+          ))}
+        </div>
+
+        {/* Video / Trailer Section Placeholder */}
+        <section className="mt-24 pt-12 border-t border-bronze/20 text-center">
+          <h2 className="text-2xl font-bold mb-8 uppercase tracking-[0.2em]" style={{ fontFamily: "'Cinzel', serif", color: 'var(--color-bronze-dark)' }}>
+            Cinematic Archives
+          </h2>
+          <div className="aspect-video w-full max-w-4xl mx-auto rounded-lg border-2 border-dashed border-bronze/30 flex items-center justify-center bg-black/20 group hover:border-bronze/50 transition-colors">
+            <div className="text-center p-12">
+              <div className="text-4xl mb-4 opacity-40 group-hover:scale-110 transition-transform duration-300">🎬</div>
+              <p className="text-parchment-dark/60 font-serif italic">Trailers and gameplay deep-dives coming soon to the imperial archives.</p>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      {/* Lightbox */}
+      <AnimatePresence>
+        {selectedImage && (
+          <ImageModal
+            src={selectedImage.src}
+            alt={selectedImage.alt}
+            caption={selectedImage.caption}
+            onClose={() => setSelectedImage(null)}
+          />
+        )}
+      </AnimatePresence>
     </div>
   );
 }

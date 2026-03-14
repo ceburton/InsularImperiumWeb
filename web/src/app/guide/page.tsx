@@ -108,6 +108,18 @@ function UnitCard({ unit, variant = 'blue' }: { unit: UnitClass; variant?: 'blue
   const [hover, setHover] = useState(false);
   const [imgError, setImgError] = useState(false);
   
+  const isRedArcher = unit.key === 'unit-archer' && variant === 'red';
+  const isRedKnight = unit.key === 'unit-knight' && variant === 'red';
+  const isBlueArcher = unit.key === 'unit-archer' && variant === 'blue';
+  const isBlueKnight = unit.key === 'unit-knight' && variant === 'blue';
+  
+  // Orc Scaling
+  const isOrcInfantry = unit.key === 'unit-orc-infantry-no-bg' && variant === 'orc';
+  const isOrcMage = unit.key === 'unit-orc-mage-no-bg' && variant === 'orc';
+  const isOrcRider = unit.key === 'unit-orc-rider-no-bg' && variant === 'orc';
+  const isOrcSpearman = unit.key === 'unit-orc-spear-no-bg' && variant === 'orc';
+  const isOrcHealer = unit.key === 'unit-orc-healer-no-bg' && variant === 'orc';
+
   // Mapping unit key to the correct sprite filename
   const spriteBase = unit.key.replace('-no-bg', '');
   const spriteSrc = `/assets/${spriteBase}-${variant}.png`;
@@ -128,7 +140,17 @@ function UnitCard({ unit, variant = 'blue' }: { unit: UnitClass; variant?: 'blue
             alt={unit.name} 
             width={64} 
             height={64} 
-            className="object-contain"
+            className={`object-contain transition-transform 
+              ${isRedArcher ? 'scale-[1.6]' : ''} 
+              ${isRedKnight ? 'scale-[1.2]' : ''}
+              ${isBlueArcher ? 'scale-[1.2]' : ''}
+              ${isBlueKnight ? 'scale-[1.2]' : ''}
+              ${isOrcInfantry ? 'scale-[1.8]' : ''}
+              ${isOrcMage ? 'scale-[2.4]' : ''}
+              ${isOrcRider ? 'scale-[2.0]' : ''}
+              ${isOrcSpearman ? 'scale-[2.0]' : ''}
+              ${isOrcHealer ? 'scale-[1.22]' : ''}
+            `}
             unoptimized
             onError={() => setImgError(true)}
           />
@@ -453,7 +475,7 @@ export default function GuidePage() {
                Commander&apos;s Field Guide
             </h1>
             <p className="text-xl md:text-2xl text-parchment font-serif leading-relaxed italic opacity-90 max-w-2xl mx-auto">
-               &quot;Veni, Vidi, Vici... and then I realized I forgot to build a bridge.&quot;
+               &quot;Veni, Vidi, Vici... and then I signed a book deal.&quot;
             </p>
           </div>
           
@@ -545,9 +567,9 @@ export default function GuidePage() {
             <p className="text-parchment/60 italic mb-8 border-l-2 border-red-900/40 pl-4 text-sm">
                The Red Empire uses the exact same technology as you, but with more anger and a questionable taste in primary colors. They have the same stats, the same units, and the same desire to see you fail.
             </p>
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6 opacity-60 filter saturate-50">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
                {ROMAN_UNITS.slice(0, 5).map((u) => <UnitCard key={u.key + '-red'} unit={u} variant="red" />)}
-               <div className="flex items-center justify-center text-parchment/40 text-xs italic bg-white/5 rounded border border-dashed border-white/10">...and more...</div>
+               <div className="flex items-center justify-center text-parchment/40 text-xs italic bg-white/5 rounded border border-dashed border-white/10 p-4">...and more...</div>
             </div>
           </div>
 

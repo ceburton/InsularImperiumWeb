@@ -311,7 +311,7 @@ export const CONFIG = {
             growth: { hp: 10, atk: 3, def: 2 },
             attackType: 'physical',
             cost: 220,
-            maintenance: 5
+            maintenance: 7
         },
         KNIGHT: {
             key: 'unit-knight', name: 'Knight', range: 1, minRange: 1, moves: 7,
@@ -330,7 +330,7 @@ export const CONFIG = {
             growth: { hp: 6, atk: 3, def: 1 },
             attackType: 'physical',
             cost: 200,
-            maintenance: 7
+            maintenance: 6
         },
         MAGE: { 
             key: 'unit-mage', name: 'Mage', range: 2, minRange: 1, moves: 4, 
@@ -343,7 +343,7 @@ export const CONFIG = {
         },
         HEALER: { 
             key: 'unit-healer', name: 'Healer', range: 2, minRange: 1, moves: 5, 
-            stats: { hp: 30, atk: 10, def: 3, isHealer: true },
+            stats: { hp: 30, atk: 6, def: 3, isHealer: true },
             growth: { hp: 7, atk: 2, def: 2 },
             attackType: 'magic',
             cost: 295,
@@ -358,7 +358,7 @@ export const CONFIG = {
             receiveDamageFactorFrom: [{ attackerKey: 'unit-knight', factor: 0.5 }, { attackerKey: 'unit-orc-rider-no-bg', factor: 0.5 }],
             attackType: 'physical',
             cost: 180,
-            maintenance: 6
+            maintenance: 5
         },
         CATAPULT: {
             key: 'unit-catapult',
@@ -393,7 +393,7 @@ export const CONFIG = {
             range: 1,
             minRange: 1,
             moves: 5,
-            stats: { hp: 34, atk: 13, def: 3 },
+            stats: { hp: 34, atk: 8, def: 3 },
             growth: { hp: 7, atk: 2, def: 1 },
             attackType: 'physical',
             cost: 320,
@@ -741,12 +741,28 @@ export const CONFIG = {
     UNDEAD_HERO_POOL: ['TIBERIUS', 'DRUSILLA', 'OCTAVIA', 'LIVIA'],
     UNDEAD_ESCALATION: {
         WAVE_2_UNIT_THRESHOLD: 15,
-        /** Message templates for wave announcement panel. Replace {heroName} with the spawned hero's name. */
-        UNDEAD_WAVE_MESSAGES: {
-            WAVE_1: 'The first fort has fallen, but its soil drinks deep of the blood spilled. {heroName} has risen to reclaim what was lost.',
-            WAVE_2: 'Your numbers grow, but so does the harvest. {heroName} joins the fray; your own fallen now march against you.',
-            WAVE_3: 'A leader has fallen, yet death is but a revolving door. {heroName} brings the bone-rain to avenge her kin.',
-            WAVE_4: 'Only one bastion remains. {heroName}, the soul-siphon, comes to personally oversee your extinction.'
+        /** Per-hero introduction messages for the wave announcement panel. */
+        HERO_INTRODUCTIONS: {
+            TIBERIUS: {
+                title: 'THE PLAGUE LORD RISES',
+                message: 'Tiberius, once a decorated centurion, returns from beyond the grave wreathed in pestilence. His mere presence corrupts the living, and the toxic clouds he commands rot flesh from bone. Where he marches, disease follows.',
+                whatFollows: ['Plague clouds weaken your forces.', 'Undead rally to his banner.']
+            },
+            DRUSILLA: {
+                title: 'THE TERROR RIDES FORTH',
+                message: 'Drusilla was the swiftest cavalry commander in life — in death, she is a nightmare given form. Mounted on a spectral steed, she charges through battle lines, leaving paralysing fear in her wake. None can stand before her charge.',
+                whatFollows: ['Lightning raids on exposed units.', 'Fear cripples your front line.']
+            },
+            LIVIA: {
+                title: 'THE SOUL-SIPHON AWAKENS',
+                message: 'Livia, the dread sorceress, feeds on the living essence of her victims. Each soul she claims restores her undead legion. Her dark magic ignores armour entirely, and those she drains feel their strength flow into the ranks of the dead.',
+                whatFollows: ['Magic damage bypasses your defences.', 'Undead heal from every kill.']
+            },
+            OCTAVIA: {
+                title: 'THE BONE ARCHER TAKES AIM',
+                message: 'Octavia, marksman without peer, now looses volleys of cursed bone from impossible range. The ground where her arrows land becomes desecrated — a killing field for any living soul who dares cross it. She strikes from beyond retaliation.',
+                whatFollows: ['Long-range bone barrages.', 'Desecrated ground punishes movement.']
+            }
         },
         CORRUPTION_RANGE: 6,
         /** Range (tiles) for vampire hero zone of control; undead units in this range give 50% of their gained EXP to the hero. */
@@ -826,6 +842,7 @@ export const CONFIG = {
             aggroRangeRed: 10,
             aggroRangeOrc: 7,
             cityDefenseChance: 0.15,
+            islandDefenseChance: 0.15,
             redProductionCostWeightExponent: 2.5,
             fortSpawnRateMult: 1.5,
             orcCampSpawnDelayMult: 1.4
@@ -839,6 +856,7 @@ export const CONFIG = {
             aggroRangeRed: 15,
             aggroRangeOrc: 10,
             cityDefenseChance: 0.25,
+            islandDefenseChance: 0.25,
             redProductionCostWeightExponent: 1.5,
             fortSpawnRateMult: 1.0,
             orcCampSpawnDelayMult: 1.0
@@ -852,6 +870,7 @@ export const CONFIG = {
             aggroRangeRed: 20,
             aggroRangeOrc: 14,
             cityDefenseChance: 0.40,
+            islandDefenseChance: 0.35,
             redProductionCostWeightExponent: 0.5,
             fortSpawnRateMult: 0.75,
             orcCampSpawnDelayMult: 0.75
@@ -1776,6 +1795,8 @@ The enemy AI processes units sequentially each turn. Recent additions include:
 - **AI Canto**: Knights/Orc Riders reposition after attacking (flank setup or retreat)
 - **Sally logic**: City defense units have a 50% chance to break formation and chase ranged attackers for 2 turns
 - **City defense auto-defend**: Idle defense units always enter Defend stance
+- **Tactical retreat**: Units below 30% HP deterministically retreat to friendly forts
+- **Siege escort**: 1-2 melee units per siege engine stay close and protect them
 
 ### Naval AI (NavalAI.js)
 - Ships move toward and bombard enemy ships and land units
@@ -1866,17 +1887,36 @@ Ships patrol near Blue ports to prevent the player from launching ships. If no e
 
 ---
 
-## Implementation Priority
+## Implementation Status
 
-| Priority | Feature | Effort | Impact |
-|----------|---------|--------|--------|
-| 1 | Tactical Retreat (#4) | Low | Medium — smarter survival |
-| 2 | Siege Escort (#3) | Low-medium | Medium — organized siege attacks |
-| 3 | Focus Fire (#2) | Low | Medium-high — punishes mistakes |
-| 4 | Naval Blockade (#5) | Low-medium | Medium — naval pressure |
-| 5 | Amphibious Assault (#1) | Medium-high | Very high — game-changing |
+| Priority | Feature | Effort | Impact | Status |
+|----------|---------|--------|--------|--------|
+| 1 | Tactical Retreat (#4) | Low | Medium — smarter survival | **DONE** |
+| 2 | Siege Escort (#3) | Low-medium | Medium — organized siege attacks | **DONE** |
+| 3 | Focus Fire (#2) | Low | Medium-high — punishes mistakes | Planned |
+| 4 | Naval Blockade (#5) | Low-medium | Medium — naval pressure | Planned |
+| 5 | Amphibious Assault (#1) | Medium-high | Very high — game-changing | **DONE (Phase 1 + 2)** |
 
-Recommended approach: implement #4 and #3 first as quick wins, then #1 as the big feature.
+### Implemented Details
+
+**Tactical Retreat (done):** Units below 30% max HP deterministically retreat to the nearest friendly fort tile. Units already on a friendly fort tile stay and defend. No probability roll — wounded units always pull back. Implemented in `AIManager.processTeamTurn()`.
+
+**Siege Escort (done):** Pre-pass `_assignSiegeEscorts()` assigns up to 2 nearby melee units (within 6 tiles) to each siege engine. Escorts use `aiRole = 'siegeEscort'` with `aiEscortTarget` reference. During their turn, escorts prioritize enemies within 3 tiles of the siege unit, stay within 2 tiles when no threats exist, and attack targets of opportunity when close. Assignments are cleared and re-evaluated each turn. Escorts are excluded from coordinated targeting.
+
+**Amphibious Assault Phase 1 + 2 (done):** AI troop transport via ships with coordinated multi-ship and land pincer attacks. State machine: LOADING → WAITING → SAILING → DISEMBARKING.
+
+- **Pre-pass** (`AIManager._markUnitsForBoarding`): Identifies docked friendly ships with room, validates a Blue coastal target exists (`_findAmphibiousTarget`), then assigns up to 3 nearby healthy melee units (within 8 tiles) with `aiRole = 'amphibBoard'`. Units walk toward the ship during their land turn and board when adjacent.
+- **NavalAI state machine** (`_processAmphibiousAssaults`): Runs before normal ship combat each turn.
+  - **LOADING**: Boards marked units as they arrive. Transitions to WAITING if other fleet ships are still loading, or directly to SAILING if solo.
+  - **WAITING** (Phase 2): Ship waits for other fleet ships targeting the same area (within 10 tiles) to finish loading. Continues loading late-arriving boarders. Force-launches after 3 turns of waiting to avoid indefinite delays.
+  - **SAILING**: Ship pathfinds toward the target Blue port/fort. Re-validates target each turn (retargets if captured). Transitions to DISEMBARKING when adjacent to land within 5 tiles of target.
+  - **DISEMBARKING**: All crew disembark to the closest land tile to the assault target. Mission ends.
+- **Fleet coordination** (Phase 2): `_getTransportFleet()` groups ships targeting the same area. Ships wait for the fleet before launching, enabling synchronized multi-ship assaults.
+- **Land pincer attacks** (Phase 2): `_signalLandPincer()` sets `aiPincerTarget` on land units within 15 tiles of the assault target when a transport is ≤2 turns from landing. These units push toward the landing zone, creating a two-front attack. `aiPincerTarget` is preferred over default targeting but yielded to `aiCoordinatedTarget`.
+- **Abort conditions**: Mission times out after 8 turns. Ship takes >40% hull damage. Ship sinks or becomes derelict. Target no longer Blue-owned (retargets or aborts).
+- **Target selection** (`_findAmphibiousTarget`): Scores Blue-owned ports and coastal forts by distance (≤30 tiles), defender count (within 4 tiles), and type (ports preferred over forts).
+- **Save/Load**: Transport state (`aiTransportState`, `aiTransportTarget`, `aiTransportTurnStarted`) serialized on ships. `aiBoardTargetShipId` serialized on units.
+- Transport ships are excluded from normal combat targeting and auto-disembark during their mission.
 
 
 ## Documentation: engineer-workshop-road-implementation.md
@@ -7999,15 +8039,31 @@ Vampire Heroes do not die normally. When a Vampire Hero reaches 0 HP:
 
 This creates a satisfying "finish the job" chase moment. Implementation: a `mistForm` boolean flag, a 1-turn timer, and a pathfind toward the nearest friendly fort.
 
-## 4. Pacing & Escalation Strategy (Large Maps)
-If 4 heroes spawn instantly, the player will be overwhelmed. The AI Manager should stagger their deployment based on **reactive game-state triggers** that respond to player strength rather than fixed geography:
+## 4. Pacing & Escalation Strategy
 
-* **Wave 1 (The Vanguard):** **Tiberius** activates immediately when the first Blue fort is captured. He gathers nearby infantry and marches slowly toward the captured fort, corrupting units along the way.
-* **Wave 2 (The Flankers):** **Drusilla** activates when Blue has **≥15 total units** OR captures a **second fort** (whichever comes first). Because she is fast (Cavalry), she will quickly catch up to the front lines.
-* **Wave 3 (The Avenger):** **Octavia** activates when Blue **kills their first Vampire Hero** (revenge escalation). She provides artillery support and area denial to defend remaining Red territory.
-* **Wave 4 (The Final Boss):** **Livia** activates when **only 1 Red fort remains** (desperation). She never leaves the Red capital/final fort and acts as the ultimate defensive boss.
+**Current Implementation:** Hero spawning uses an interval-based schedule scaled by map size, with **random hero selection** from `UNDEAD_HERO_POOL`. Each hero is picked randomly (no repeats until the pool is exhausted).
 
-This makes the pacing feel reactive rather than scripted. A player who rushes hard will face Drusilla earlier via the unit-count trigger; a player who focuses on assassinating heroes will trigger Octavia sooner.
+### Spawn Schedule (by map size)
+| Map Size | First Spawn | Interval | Max Heroes |
+|----------|-------------|----------|------------|
+| Micro (≤25) | Turn 4 | Every 4 turns | 1 |
+| Small (≤50) | Turn 6 | Every 6 turns | 2 |
+| Medium (≤75) | Turn 8 | Every 8 turns | 3 |
+| Large (100) | Turn 10 | Every 10 turns | 4 |
+
+### Hero Introduction Panels
+Each hero has a unique announcement panel (`HERO_INTRODUCTIONS` in `config.js`) with a custom title, flavour message, and "What follows" lines. The panel is shown whenever a hero is randomly selected, regardless of spawn order:
+
+* **Tiberius** — "THE PLAGUE LORD RISES" — pestilence and toxic clouds
+* **Drusilla** — "THE TERROR RIDES FORTH" — spectral cavalry charge and fear
+* **Livia** — "THE SOUL-SIPHON AWAKENS" — armour-ignoring magic and life drain
+* **Octavia** — "THE BONE ARCHER TAKES AIM" — bone barrages and desecrated ground
+
+### Implementation Details
+- `TurnManager._isEnemyHeroSpawnTurn()` checks if the current turn matches the schedule
+- `TurnManager._pickRandomUndeadHero()` selects from `UNDEAD_HERO_POOL` excluding already-spawned heroes
+- `TurnManager._showWaveAnnouncementAndSpawn()` looks up the hero-specific introduction from `HERO_INTRODUCTIONS[heroKey]` and shows it via `WaveAnnouncementPanel`
+- The panel pauses the enemy turn until the player closes it, then spawns the hero at the largest Red fort
 
 ## 5. Counter-Play Mechanics
 
@@ -8107,14 +8163,37 @@ Ability definitions:
 | LIVIA | `SOUL_SIPHON` | enemy | single | 4 | 0 | 4 |
 | OCTAVIA | `BONE_BARRAGE` | enemy | square | 6 | 0 | 4 |
 
-### Step 1.3 — Add `UNDEAD_ESCALATION` config block
+### Step 1.3 — Add `UNDEAD_HERO_POOL` and `UNDEAD_ESCALATION` config block
+
+**Note:** Hero spawning now uses **random selection** from a pool, not fixed wave triggers. Each hero is picked randomly (no repeats) on an interval schedule that scales by map size. Each hero has a unique introduction panel.
+
 ```js
+UNDEAD_HERO_POOL: ['TIBERIUS', 'DRUSILLA', 'OCTAVIA', 'LIVIA'],
 UNDEAD_ESCALATION: {
-    WAVE_1_HERO: 'TIBERIUS',   // trigger: first fort captured by Blue
-    WAVE_2_HERO: 'DRUSILLA',   // trigger: Blue ≥15 units OR 2nd fort captured
     WAVE_2_UNIT_THRESHOLD: 15,
-    WAVE_3_HERO: 'OCTAVIA',    // trigger: first Vampire Hero killed
-    WAVE_4_HERO: 'LIVIA',      // trigger: only 1 Red fort remains
+    /** Per-hero introduction messages for the wave announcement panel. */
+    HERO_INTRODUCTIONS: {
+        TIBERIUS: {
+            title: 'THE PLAGUE LORD RISES',
+            message: 'Tiberius, once a decorated centurion, returns from beyond the grave wreathed in pestilence...',
+            whatFollows: ['Plague clouds weaken your forces.', 'Undead rally to his banner.']
+        },
+        DRUSILLA: {
+            title: 'THE TERROR RIDES FORTH',
+            message: 'Drusilla was the swiftest cavalry commander in life — in death, she is a nightmare given form...',
+            whatFollows: ['Lightning raids on exposed units.', 'Fear cripples your front line.']
+        },
+        LIVIA: {
+            title: 'THE SOUL-SIPHON AWAKENS',
+            message: 'Livia, the dread sorceress, feeds on the living essence of her victims...',
+            whatFollows: ['Magic damage bypasses your defences.', 'Undead heal from every kill.']
+        },
+        OCTAVIA: {
+            title: 'THE BONE ARCHER TAKES AIM',
+            message: 'Octavia, marksman without peer, now looses volleys of cursed bone from impossible range...',
+            whatFollows: ['Long-range bone barrages.', 'Desecrated ground punishes movement.']
+        }
+    },
     CORRUPTION_RANGE: 6,
     CORRUPTION_THRESHOLD: 3,   // turns to fully corrupt
     FRENZY_LEASH_RANGE: 6,
@@ -8762,73 +8841,40 @@ _tickVampireRegen() {
 }
 ```
 
-### Step 7.3 — Wave activation system
-Create `checkUndeadWaveActivation()` in `TurnManager.js` (or `AIManager.js`). Called once per Red turn-start:
+### Step 7.3 — Wave activation system (UPDATED — Random Hero Selection)
+
+**Current implementation:** Hero spawning no longer uses fixed wave triggers (fort captures, unit counts, etc.). Instead, it uses an **interval-based schedule** scaled by map size with **random hero selection** from `UNDEAD_HERO_POOL`.
+
+#### Spawn schedule (`_getEnemyHeroSpawnSchedule()`)
+| Map Width | First Spawn | Interval | Max Heroes |
+|-----------|-------------|----------|------------|
+| ≤25 (micro) | Turn 4 | 4 turns | 1 |
+| ≤50 (small) | Turn 6 | 6 turns | 2 |
+| ≤75 (medium) | Turn 8 | 8 turns | 3 |
+| 100 (large) | Turn 10 | 10 turns | 4 |
+
+#### Key methods in `TurnManager.js`:
+- `_isEnemyHeroSpawnTurn()` — checks if current turn matches the schedule
+- `_pickRandomUndeadHero()` — picks randomly from `UNDEAD_HERO_POOL`, excluding already-spawned heroes (tracked in `_undeadWaveState.alreadySpawnedUndeadHeroes`)
+- `_showWaveAnnouncementAndSpawn(waveNum, heroKey, cfg)` — looks up the hero-specific introduction from `cfg.HERO_INTRODUCTIONS[heroKey]` (title, message, whatFollows) and shows it via `WaveAnnouncementPanel`. The panel pauses the enemy turn until the player closes it, then calls `_spawnVampireHero(heroKey)`.
+- `_spawnVampireHero(heroKey)` — spawns the hero at the largest Red fort
 
 ```js
-checkUndeadWaveActivation() {
-    if (!this._undeadWaveState) {
-        this._undeadWaveState = {
-            wave1Activated: false,
-            wave2Activated: false,
-            wave3Activated: false,
-            wave4Activated: false,
-            vampireHeroKills: 0
-        };
-    }
-    const ws = this._undeadWaveState;
-    const cfg = CONFIG.UNDEAD_ESCALATION;
-    const units = this.scene.gameState.units;
-    const locs = this.scene.mapManager.locations;
-
-    const blueForts = locs.filter(l => l.type === 'FORT' && l.owner === CONFIG.TEAMS.BLUE).length;
-    const redForts = locs.filter(l => l.type === 'FORT' && l.owner === CONFIG.TEAMS.RED).length;
-    const blueUnitCount = units.filter(u => u.team === CONFIG.TEAMS.BLUE && !u.isDying).length;
-
-    // Wave 1: first Blue fort captured
-    if (!ws.wave1Activated && blueForts >= 1) {
-        ws.wave1Activated = true;
-        this._spawnVampireHero(cfg.WAVE_1_HERO);
-    }
-    // Wave 2: ≥15 Blue units OR 2+ Blue forts
-    if (!ws.wave2Activated && ws.wave1Activated
-        && (blueUnitCount >= cfg.WAVE_2_UNIT_THRESHOLD || blueForts >= 2)) {
-        ws.wave2Activated = true;
-        this._spawnVampireHero(cfg.WAVE_2_HERO);
-    }
-    // Wave 3: first Vampire Hero permanently killed
-    if (!ws.wave3Activated && ws.vampireHeroKills >= 1) {
-        ws.wave3Activated = true;
-        this._spawnVampireHero(cfg.WAVE_3_HERO);
-    }
-    // Wave 4: only 1 Red fort remaining
-    if (!ws.wave4Activated && redForts <= 1) {
-        ws.wave4Activated = true;
-        this._spawnVampireHero(cfg.WAVE_4_HERO);
-    }
-}
-```
-
-```js
-_spawnVampireHero(heroKey) {
-    // Find the largest Red-owned fort to spawn at
-    const redForts = this.scene.mapManager.locations
-        .filter(l => l.type === 'FORT' && l.owner === CONFIG.TEAMS.RED)
-        .sort((a, b) => Object.keys(b.tileOwners).length - Object.keys(a.tileOwners).length);
-    if (!redForts.length) return;
-
-    // For LIVIA (Wave 4), spawn at the last fort
-    const fort = redForts[0];
-    const tileKey = Object.keys(fort.tileOwners)[0];
-    const [sx, sy] = tileKey.split(',').map(Number);
-
-    const hero = new Hero(this.scene, sx, sy, heroKey, CONFIG.TEAMS.RED);
-    this.scene.gameState.units.push(hero);
-    this.scene.heroManager.activeHeroes.push(hero);
-    this.scene.add.existing(hero);
-
-    addUnitMessage(hero, 'spawn',
-        `${hero.heroData.name} has risen! The undead march!`, '#9966ff');
+async _showWaveAnnouncementAndSpawn(waveNum, heroKey, cfg) {
+    const heroData = CONFIG.HEROES?.[heroKey];
+    const heroName = heroData?.name ?? heroKey;
+    const intro = cfg.HERO_INTRODUCTIONS?.[heroKey];
+    const hero = {
+        portraitKey: heroData?.portraitKey ?? `hero-${heroKey.toLowerCase()}`,
+        name: heroName
+    };
+    await WaveAnnouncementPanel.showWaveAnnouncement(this.scene, {
+        title: intro?.title ?? 'A DARK PRESENCE AWAKENS',
+        hero,
+        message: intro?.message ?? `${heroName} has risen from the grave.`,
+        whatFollows: intro?.whatFollows ?? [],
+        onClose: () => this._spawnVampireHero(heroKey)
+    });
 }
 ```
 
@@ -8851,7 +8897,7 @@ this.processSanctifiedDamage();
 this.tickTileStatusEffects();
 ```
 
-**Verification:** Play through a full game. Capture first fort → Tiberius spawns. Grow army to 15 → Drusilla spawns. Kill Tiberius → Octavia spawns. Reduce Red to 1 fort → Livia spawns.
+**Verification:** Play through a full game. At each scheduled spawn turn, a random hero is selected from the pool and announced via a unique introduction panel. Confirm no repeats until the pool is exhausted, and spawning stops at the map-size max.
 
 ---
 
@@ -8972,12 +9018,12 @@ Deserialize those and assign back to `turnManager._undeadWaveState` and `turnMan
 
 | # | Test Case | Expected Result |
 |---|-----------|-----------------|
-| 1 | Capture first fort | Tiberius spawns at largest Red fort |
-| 2 | Build 15 Blue units | Drusilla spawns |
-| 3 | Kill Tiberius | Enters Mist Form, moves toward Red fort |
-| 4 | Block mist form path | Tiberius permanently dies, undead enter Frenzy |
+| 1 | Reach spawn turn (map-size dependent) | Random hero spawns at largest Red fort with unique introduction panel |
+| 2 | Each hero spawns | Hero-specific title, message, and "What follows" shown in announcement panel |
+| 3 | Kill a Vampire Hero | Enters Mist Form, moves toward Red fort |
+| 4 | Block mist form path | Hero permanently dies, undead enter Frenzy |
 | 5 | Frenzied unit near Red unit | Attacks Red unit (friendly fire) |
-| 6 | Red infantry near Tiberius for 3 turns | Corruption counter fills, transforms to undead |
+| 6 | Red infantry near Vampire Hero for 3 turns | Corruption counter fills, transforms to undead |
 | 7 | Blue unit on Sanctified ground | No corruption, undead take 10 dmg/turn |
 | 8 | Engineer walks over Desecrated tile | Tile cleansed automatically |
 | 9 | Engineer attacks undead | 2× damage |
@@ -8986,7 +9032,7 @@ Deserialize those and assign back to `turnManager._undeadWaveState` and `turnMan
 | 12 | Soul Siphon with adjacent undead | Target damaged, Livia + adjacent undead healed |
 | 13 | Save with active undead, reload | All state preserved (tints, counters, wave progress) |
 | 14 | All Vampire Heroes killed | No more corruption, remaining undead all frenzied |
-| 15 | Only 1 Red fort left | Livia activates as final boss |
+| 15 | Max heroes reached | No more spawns after reaching map-size cap |
 
 ---
 

@@ -495,7 +495,7 @@ export default function FeaturesPage() {
             Enter the War Room. Master the grid. Forge your legend.
           </p>
           <Link
-            href="https://9000-firebase-gridgeneral-1770787749264.cluster-fsmcisrvfbb5cr5mvra3hr3qyg.cloudworkstations.dev/?monospaceUid=58064"
+            href="https://play.insularimperium.com"
             target="_blank"
             rel="noopener noreferrer"
           >

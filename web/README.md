@@ -40,7 +40,7 @@ web/
 │
 ├── package.json
 ├── package-lock.json
-├── next.config.ts          # output: 'export', unoptimized images
+├── next.config.ts          # unoptimized images (Vercel)
 ├── tsconfig.json
 ├── postcss.config.mjs
 ├── eslint.config.mjs
@@ -80,7 +80,7 @@ Assets live in **`public/assets`** (hero portraits, cover images, etc.). They ar
 
 ## Stack
 
-- [Next.js](https://nextjs.org) 16 (App Router, `output: 'export'`)
+- [Next.js](https://nextjs.org) 16 (App Router)
 - React 19, Tailwind CSS 4, Framer Motion, TypeScript
 
 ## When

@@ -141,10 +141,14 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
 
   useEffect(() => {
     const onKey = (event: KeyboardEvent) => {
-      if (controls || !pagination.stride || event.altKey || event.ctrlKey || event.metaKey || (event.target instanceof HTMLElement && event.target.closest('button, select, input, a, [contenteditable]'))) return;
-      if (['ArrowRight', 'PageDown', 'ArrowLeft', 'PageUp', ' '].includes(event.key)) {
+      if (controls || !pagination.stride || event.defaultPrevented || event.isComposing || event.altKey || event.ctrlKey || event.metaKey) return;
+      const target = event.target instanceof HTMLElement ? event.target : null;
+      if (target?.closest('select, input, textarea, [contenteditable]')) return;
+      // Space still activates focused buttons and links through their native behavior.
+      if (event.key === ' ' && target?.closest('button, a')) return;
+      if (['ArrowRight', 'ArrowDown', 'PageDown', 'ArrowLeft', 'ArrowUp', 'PageUp', ' '].includes(event.key)) {
         event.preventDefault();
-        turn(event.key === 'ArrowLeft' || event.key === 'PageUp' || (event.key === ' ' && event.shiftKey) ? -1 : 1);
+        turn(['ArrowLeft', 'ArrowUp', 'PageUp'].includes(event.key) || (event.key === ' ' && event.shiftKey) ? -1 : 1);
       }
     };
     window.addEventListener('keydown', onKey);
@@ -184,12 +188,12 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
         </div>
       </main>
       <nav className="reader-pagination" aria-label="Page navigation">
-        <button disabled={!pagination.stride || (chapter === 0 && pagination.page === 0)} onClick={() => turn(-1)} aria-label="Previous page">← <span>Previous</span></button>
+        <button disabled={!pagination.stride || (chapter === 0 && pagination.page === 0)} onClick={() => turn(-1)} aria-label="Previous page" aria-keyshortcuts="PageUp ArrowLeft ArrowUp" title="Previous page (PgUp, Left, or Up)">← <span>Previous</span></button>
         <div className="reader-page-status" role="status" aria-live="polite">
           <span>{pagination.stride ? `${pageLabel} of ${pagination.total}` : 'Preparing pages'}</span>
           <small>Chapter {chapter + 1} · Place saved</small>
         </div>
-        <button disabled={!pagination.stride || (chapter === chapters.length - 1 && lastVisible === pagination.total)} onClick={() => turn(1)} aria-label="Next page"><span>Next</span> →</button>
+        <button disabled={!pagination.stride || (chapter === chapters.length - 1 && lastVisible === pagination.total)} onClick={() => turn(1)} aria-label="Next page" aria-keyshortcuts="PageDown ArrowRight ArrowDown" title="Next page (PgDn, Right, or Down)"><span>Next</span> →</button>
       </nav>
       {controls && <div className="reader-menu-backdrop" onClick={() => { setControls(false); menuButton.current?.focus(); }}>
         <div ref={panel} id="reader-settings" className="reader-settings" role="dialog" aria-modal="true" aria-labelledby="reader-settings-title" tabIndex={-1} onClick={e => e.stopPropagation()}>
@@ -202,7 +206,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
             <label>Page width<select value={settings.width} onChange={e => change('width', Number(e.target.value))}><option value={560}>Narrow</option><option value={700}>Medium</option><option value={860}>Wide</option></select></label>
             <label>Page layout<select value={settings.layout} onChange={e => change('layout', e.target.value)}><option value="auto">Automatic · two pages when they fit</option><option value="single">Always one page</option></select></label>
           </div>
-          <p className="reader-note">Use the page buttons, arrow keys, or space bar to read. Your place follows you when you change the font or resize the window.</p>
+          <p className="reader-note">Next page: PgDn, Right arrow, or Down arrow. Previous page: PgUp, Left arrow, or Up arrow. Space also advances; Shift+Space goes back. Your place follows you when you change the font or resize the window.</p>
           <button className="reader-done" onClick={() => { setControls(false); menuButton.current?.focus(); }}>Back to the book</button>
         </div>
       </div>}

@@ -160,3 +160,35 @@ test('keyboard turns pages and the menu retains focus until dismissed', async ({
   await expect(page.getByRole('dialog')).toHaveCount(0);
   await expect(page.getByRole('button', { name: 'Aa Menu' })).toBeFocused();
 });
+
+for (const width of [1440, 390]) {
+  test(`all page hotkeys work with navigation focused at width ${width}`, async ({ page }) => {
+    await openReader(page, width, 900);
+    const next = page.getByRole('button', { name: 'Next page', exact: true });
+    await next.click();
+    const start = await page.locator('.reader-page-status').textContent();
+    for (const [forward, backward] of [['PageDown', 'PageUp'], ['ArrowRight', 'ArrowLeft'], ['ArrowDown', 'ArrowUp']]) {
+      await page.keyboard.press(forward);
+      await expect(page.locator('.reader-page-status')).not.toHaveText(start!);
+      await page.keyboard.press(backward);
+      await expect(page.locator('.reader-page-status')).toHaveText(start!);
+    }
+    await page.getByRole('button', { name: 'Previous page', exact: true }).focus();
+    await page.keyboard.press('ArrowDown');
+    await expect(page.locator('.reader-page-status')).not.toHaveText(start!);
+    await page.keyboard.press('Space');
+    await expect(page.locator('.reader-page-status')).toHaveText(start!);
+    await page.keyboard.press('Control+ArrowRight');
+    await expect(page.locator('.reader-page-status')).toHaveText(start!);
+    await page.getByRole('button', { name: 'Aa Menu' }).click();
+    await page.getByRole('button', { name: 'Close menu' }).focus();
+    await page.keyboard.press('PageDown');
+    await page.keyboard.press('ArrowRight');
+    await expect(page.locator('.reader-page-status')).toHaveText(start!);
+    await expect(page.getByRole('dialog')).toBeVisible();
+    await page.keyboard.press('Escape');
+    await page.keyboard.press('PageUp');
+    await expect(page.locator('.reader-page-status')).toContainText(width === 1440 ? 'Pages 1–2' : 'Page 1 of');
+    await assertFits(page);
+  });
+}

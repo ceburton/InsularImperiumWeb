@@ -317,6 +317,14 @@ export default function MediaPage() {
           </motion.p>
         </header>
 
+        <section className="mb-16 rounded-xl border border-bronze/50 bg-gradient-to-br from-[#29231c] to-[#101014] p-8 md:p-12" aria-labelledby="story-title">
+          <div className="text-bronze-light text-xs uppercase tracking-[0.3em] mb-4">Stories of the archipelago</div>
+          <h2 id="story-title" className="text-3xl md:text-4xl text-parchment mb-4" style={{ fontFamily: "'Cinzel', serif" }}>The Sunstone Saga</h2>
+          <p className="text-parchment-dark text-xl max-w-2xl mb-6">The bells ring across Aeridor. A prince wakes in the Drowned Lantern, and his story begins. Step into the world behind Insular Imperium.</p>
+          <Link href="/media/story" className="inline-block rounded border border-bronze-light bg-bronze-light px-6 py-3 text-[#17130e] font-bold hover:bg-parchment transition-colors">Read the Story →</Link>
+          <p className="text-parchment-dark text-sm mt-4">Adjustable fonts · Dark and high contrast themes · Saved reading position</p>
+        </section>
+
         {/* Gallery Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {GALLERY_ENTRIES.map((entry, index) => (

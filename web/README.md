@@ -76,6 +76,12 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Static assets
 
+The Sunstone Saga lives in `public/stories/The-Sunstone-Saga.md` and is linked from Media at `/media/story`. Replace this Markdown file and rebuild to update the story. Keep chapter headings in the form `# Chapter ...`; the reader builds its chapter menu from those headings.
+
+The reader fits pages to the viewport, recalculates them for font and screen changes, and shows two pages when there is enough room. The menu includes an option to always show one page. Bookmarks use text offsets in browser storage, so changing the layout keeps the current passage visible.
+
+To run the reader browser checks from `web`, run `npm run build` followed by `npm run test:reader`. The tests use installed Google Chrome in headless mode and start the production server on port 3100.
+
 Assets live in **`public/assets`** (hero portraits, cover images, etc.). They are served at `/assets/...` (e.g. `/assets/hero-marcus.png`).
 
 ## Stack

@@ -69,9 +69,9 @@ The General's boot moved, almost lazily, hooked the back leg of the chair, and k
 
 The world tipped. The wall went away. The floor came up and struck Marcus across the shoulders with all the warmth of a debt collector, and the breath went out of him in a grunt. The jug, by some mercy of the gods, landed on his chest and did not break. He lay among the rushes and the spilled wine and stared at the smoke-black rafters, and the rafters stared back.
 
-"Who ordered the earthquake?" he asked them.
+"Salt rot your bones," he told the General, "you creaking old goat."
 
-"I've seen corpses with better posture," said Roderic, "and I've just come from a funeral." He crouched, slow, knees cracking like green wood in a fire, until his face hung over Marcus's own. His breath smelled of cold and cloves. "Your brother's funeral, boy. Titus. They are putting him into the hill *right now.* The whole city is standing in the snow for him, the fishwives and the guild-masters and the legion and the beggars on the temple steps. The whole city, save one. The only man in Aeridor who shares his blood."
+"I've seen corpses with better reflexes," said Roderic, "and I've just come from a funeral." He crouched, slow, knees cracking like green wood in a fire, until his face hung over Marcus's own. His breath smelled of cold and cloves. "Your brother's funeral, boy. Titus. They are putting him into the hill *right now.* The whole city is standing in the snow for him, the fishwives and the guild-masters and the legion and the beggars on the temple steps. The whole city, save one. The only man in Aeridor who shares his blood."
 
 "I can hear the bells from here."
 
@@ -4371,55 +4371,227 @@ She looked at him a moment longer, and nodded once.
 
 ---
 
-The chair came up the fort road that evening on the shoulders of four shipwrights, with the cohort behind it and Kaeso's drum going at a slow limping three that Marcus had last heard on the black beach, beaten on a cooking pot, while a woman danced on a ship's hatch-cover. He felt the blood go into his face.
+The chair came up the fort road at sundown on the shoulders of four shipwrights, and Marcus heard it before he saw it.
 
-It was a real chair. That was the first terrible thing. Black oak, seasoned, high-backed, made by men who had built ships all their lives and never been asked to build anything so useless, and had put everything they knew into it out of pure astonishment. Every joint was pegged. The arms ended in dolphins. And up the high back, carved deep, a spiral of little sparks went turning from the seat to the top rail; and at the top of the spiral was a small carved woman with her arms raised and her skirts flying out round her in a wheel.
+A drum had started at the foot of the hill: a slow limping three, struck on a cooking pot. *Dum*, da-da. *Dum*, da-da. The last time he had heard it, a woman had been dancing barefoot on a ship's hatch-cover with the sparks climbing round her, and he had stood in the dark and wanted her until his hands went still.
 
-"That," said Gaius, behind him, "was keel stock."
+His hands went still now. His face went hot to the ears.
 
-They set it down by the well. Alana, on the well-curb with the weather-book, looked up and saw it, and saw the top rail, and went slowly and completely scarlet from her collar to her hair.
+It came in at the gate on two oars lashed for poles, with the cohort walking backward ahead of it to watch, and Gaius behind it like a man behind a bier he has paid for.
 
-"Centurion," said Rufo, at Marcus's elbow. "It wants presenting proper. By an officer. The lads asked particular."
+It was black oak, every joint pegged, rubbed with linseed and beeswax until it shone like a wet seal, and it smelled of the yards: pitch and shavings and steamed oak. The arms ended in leaping dolphins. Up the high back a spiral of sparks was cut deep into the grain, and at the top of it stood a woman no longer than his hand, her head flung back and her arms up and her skirts flying out in a wheel. Beside her the rail was bare, a hand's breadth of smooth oak with nothing in it; and she was turning toward it.
 
-He had stood in this courtyard while the whole town watched him decide whether eleven lived, and known what to say. He walked to the well now and every word he had ever known went out of him like water from a cracked jar.
+The shipwrights had been at the fire that night. They had even got the space.
+
+"That," said Gaius, at his elbow, "was keel stock."
+
+They set it down by the well. Alana, on the well-curb with the weather-book, looked up at the chair, and at the top rail; and the color went up her from the collar of the scorched violet to the roots of her hair, like wine soaking into a cloth.
+
+"Centurion," said Rufo. "It wants presenting proper. By an officer." He paused. "The lads asked particular."
+
+He had made speeches once, at his father's high table, and been good at it the way he had been good at dice: easily, and for nothing. He had done her voice there, with her verses in his hand. He had thought the knack drowned in the Lower Canal. It was only sober. He had never once used it for anyone but himself.
+
+He walked to the well.
 
 "Lady—" he said.
 
-"*Not a lady,*" said the whole cohort, helpfully.
+"*Not a lady,*" said the cohort, as one man.
 
-"Alana. Of Corvus. On behalf of the shipwrights of Cyrene, who made it. And the cohort. Who are mostly thieves. Who—" He had had a sentence. It had something in it about the Kettle Bank and the drowned of Cyrene going out like lamps, and it had been rather good, and it was gone. "Who wish the Chair," said Marcus, "to have a chair."
+"No," Marcus agreed. "A chair. She said so, the night my father sent us here." He turned to her. "Alana of Corvus. That same night you told me you'd like a good seat." He let it sit. "To watch me die."
 
-Silence.
+The courtyard went quiet. Her hand, flat on the open book, closed on the page.
 
-"So that the Chair," said Marcus, who could not stop, "can sit. In it."
+"I've been a poor host. On the *Clemency* the best seat was a cask. The shipwrights of Cyrene have put that right." He nodded to the shipwrights, their caps wrung to rope in their fists. "This is oak Master Gaius was keeping for a keel. He's in mourning.
 
-The cohort made a sound like a dam going.
+"These men had people on the Kettle Bank. You lit them, every one, and let them go out like lamps at the end of a feast, and lie down at last. Everything these men ever built was made to go to sea and come home. This is made to stay. They've put dolphins on the arms, because in Cyrene the dolphins bring the drowned home. And on the black beach, I'm told, you danced, and the fire got up out of its bed to dance with you." He did not look at the top rail. It cost him. "They've carved what they saw. I'm assured it's faithful."
 
-Alana looked at him as at a sum come out wrong in front of the full chairs of Corvus. Then at the shipwrights with their caps in their hands, anxious, as men stand by a hull at its launching. She got up and walked to the chair with her chin up and sat down very straight, with her hands on the two dolphins.
+He bowed: not the short bow of the court, but the long one that begins the man's figure of the Long Measure, with the hand that should open to her kept shut at his side. He had asked once, on the beach. Nobody in the courtyard would know it but her.
 
-It was the worst thing they could have done to him. She sat in it as if she had been carved for it: the scorched violet silk close at the shoulders and spread over the black oak, the dark hair pinned high and coming down at the nape, the long pale throat with the colour still going up it, the brows drawn down hard to forbid anybody to notice the colour. And over her head, on the top rail, the same woman with her arms up and her skirts flying, as she had been on the hatch-cover with the sparks going up round her and every man on the beach forgetting to breathe. The shipwrights had got her exactly, and she would never forgive them for it.
+"So take your seat, Chair. It's the best on the island. I only ask your patience. I mean to keep you waiting for the entertainment a very long while."
 
-"Thank you," she said to the shipwrights. "It is very well made. The joints are beautiful." She drew a breath. "The top rail is a libel."
+In the cave he had watched her face shut like a book.
 
-The courtyard roared.
+He watched it open. Her mouth went at one corner, thin as a paper cut, the smile she had given him in his father's hall over the prospect of his death; and then it would not stay thin. Her eyes were very bright. He saw her throat move.
 
-When the cohort had gone singing down the hill at last, to Oppius's mutton and his martyred turnips, she was still in the chair, looking at him.
+"How long?" said Alana.
 
-"That was the worst speech I have ever heard you give," said Alana.
+She said it plainly, as she would have asked the depth under a keel. The courtyard heard the other meaning first. A low, delighted sound went through the cohort like wind through barley, and he watched her hear it a heartbeat after them, and the color come up her again from the collar.
 
-"I've given worse."
+*Don't.*
 
-"Not sober."
+"As long as the Chair can bear it," said Marcus.
 
-"No," Marcus agreed. "Not sober."
+*Dum*, went Kaeso's pot.
 
-"I'll be precise tomorrow night," she said. "I wanted you to know I heard you, in the cave. I didn't like it. I heard it."
+Fingers was on his feet. "*Book's open on how long! Evens, and I'll take any man's coppers!*"
+
+Alana shut the weather-book on her pen and put her chin up over the scarlet.
+
+"I have read that promise, Highness, in every tongue they taught at Corvus. In most of them it rhymes. It is very old, and the commentaries are not encouraging."
+
+The courtyard came apart. Oppius sat down on a water-butt.
+
+"With respect to the Chair," said Marcus, "Corvus wrote the commentaries. The capital kept up the practice. I never heard a complaint."
+
+"You never stayed long enough to hear one," said Alana.
+
+It went in under his guard: a girl in violet at the edge of a floor, and a man who had not stayed. He laughed, because it was true and she had earned it, and Kaeso struck the pot for her twice.
+
+She came down off the well-curb and went round behind the chair as a master of Corvus goes round a student's proof, drew the pen out of the book, and laid it along the carved woman's leg from the flying hem to the heel.
+
+"A thumb too high," she said.
+
+"It isn't," said Marcus.
+
+The whole back rank bellowed at him: "*He'd know!*"
+
+"He would," Alana agreed. "From the dunes. In the dark."
+
+"Close enough," said Marcus, "to get the knees right."
+
+Rufo had to take hold of the well-sweep.
+
+Alana laid her palm flat on the seat of the chair, as a woman tries the bed at an inn before she pays for it, and pressed.
+
+"And how is it joined?"
+
+"Pegged, Chair," said the oldest shipwright, brightening; this was his own ground. "Glue's for furniture. A peg, you drive it home dry, and the damp swells it, and it holds the tighter the harder she's worked."
+
+Kaeso dropped his stick, and sat down beside it.
+
+"Thank you, master shipwright," said Alana. "That was very clear."
+
+She ran her thumb over the head of the left-hand dolphin, where the oak had been rubbed as smooth as skin, and looked at Marcus over it.
+
+"And will it bear me?"
+
+"It was cut to carry a ship through a winter gale," said Marcus.
+
+"You've not seen me in a gale, Highness."
+
+"I've seen you in a fire."
+
+It came out lower than he meant, and true. Nobody laughed. Kaeso found his stick and struck the pot once, softly, and let it ring.
+
+She looked at the dolphin. For the first time since the drum began, she did not look at him.
+
+"Evens," said Fingers, hoarse. "Evens again, gods help us."
+
+The old shipwright, looking from her face to the chair and back, said, "She's stiff yet, Chair. New joints. She'll want a season's sitting to break her in."
+
+Alana sat down in it.
+
+She did it all at once, chin first, as she had once walked the length of the Lesser Hall. She leaned back into the spiral of sparks until her shoulders found the carving, laid her forearms along the dolphins, and moved once, settling, with the small shift of the hips that a rider makes in a strange saddle. The violet silk drew tight across her thighs and stayed there. Her hair was coming down at the nape, her throat above the scorched collar was scarlet to the jaw, and over her head the little oak woman flung up her arms. The shipwrights had got her exactly. They had not got this.
+
+She looked up at him from the chair.
+
+"I'll break it in myself," she said. "I shall sit on it every night until it learns my shape."
+
+He did not hear what the courtyard did. He saw it. The shipwrights, who had understood at last, shaking hands with one another gravely all round, as men do when the hull has gone down the ways and floated. And Kaeso, unasked, striking up the limping three on his pot, hopefully, *Dum*, da-da; and Rufo, without looking round, laying one broad hand flat on the pot to stop it, and standing there with his face entirely grave and the tears running down into the creases of it.
+
+Marcus's face hurt. He could not remember being so happy. He could remember a good deal, these days.
+
+"The prince loses," he said. "Fair throw."
+
+The roar for that was still going when the iron came across the courtyard.
+
+It was not loud, a chink and a drag; but the noise went out of the courtyard the way the sea goes off a flat, all at once. Iason came first, and behind him Nonius in his irons, with Liora's clean linen wound round his ankles under the cuffs and a lamp, unlit, in his chained hands. Iason was taking him down to walk the water-gate stair in the dark, from the bottom step up into the gate, the way he was to walk it tomorrow night.
+
+The boy looked at the chair as he passed, at the little oak woman with her skirts up, and something went across his face that was very nearly a grin. Then it was gone, and he went on into the black mouth of the passage.
+
+Kaeso put his stick away inside his shirt.
+
+Alana was not watching the boy. She was watching the lamp in his hands until the dark took it; and her right hand, on the dolphin's head, closed. *No fire on the ship.* It sat between them on the cobbles, as plain as the chair.
+
+"Mutton," said Rufo, to nobody.
+
+They went down the hill to Oppius's pot, not singing, and took the shipwrights with them. The courtyard went blue with dusk. She was still in the chair.
+
+"That was a good speech," said Alana. She said it to the dolphin.
+
+"It was a good chair."
+
+"It was a good speech, Highness. Don't spoil it."
+
+He did not spoil it. He did not know what this was. With other women there had been a shape to it, a look across a room and a door at the end. This had none he knew. On the beach she had said *not tonight*. She had not said *never*.
+
+*A season's sitting.* They had a night and a day.
+
+She was looking past him, through the gate, at the empty bell-arch on the headland.
+
+"I'll be precise," she said.
 
 "I know."
 
-"Good." She stood. "Somebody will have to carry this up to my room, and I am not going to ask any of them." She went in to the tower with the book under her arm, and left him beside the well with a chair.
+"And if you're wrong, I'm to write it down."
+
+"Yes."
+
+"Which end of the book?"
+
+He had no answer. The weather went in the front of that book, and the dead in the back; and he carried a page torn from the back of it in his oilskin, with names on it in her hand and his.
+
+She looked at him as if he were a sum she had not finished; and then she put the evening back on her face, deliberately, as a woman pins up her hair.
+
+"Somebody," said Alana, "will have to carry this up to my room. And I am not going to ask any of them."
+
+She went in at the tower door with the book under her arm, and did not shut it behind her.
 
 He carried it up himself. It was very heavy. It was keel stock.
+
+The stair turned on itself like the inside of a whelk. He took it up upside down, the seat across his shoulders and the legs in the air, with the high back hanging down behind him and the little oak woman bumping along at his heels head-down, kicking. Alana went before them with a lamp. He did not look at her ankles on the steps above him. Then he did. Before the top he had skinned his knuckles on the stone, his shirt was stuck to him and his thighs burned, and she was waiting in the doorway at the top. He had watched her dance from the dark; she stood in the light now and watched him carry, and did not pretend to be doing anything else.
+
+It was the room she had taken because it had a door that shut. A cot. Her trunk at the foot of it. A window-slit with a deep sill, where she set the lamp. It smelled of lamp oil and ink. Once the chair was in, there was not much room left for anything, including him.
+
+"By the cot," she said.
+
+He set it down by the cot. She considered it with her head on one side.
+
+"No," she said. "It gives the cot ideas."
+
+He looked at her. She looked at the chair. He picked it up.
+
+"The foot of the cot, then."
+
+There was no way to the foot of the cot but over it. He went with one knee on the blanket and the ropes creaking under him and his face in the carved sparks, and looked up to find her watching his knee on her bed; and he took it off as if the blanket had been a stove. He set the chair down by the trunk.
+
+"No," she said, a shade too quickly. "Then I'd have to climb over it to get into bed."
+
+"You could go round."
+
+"There isn't any round, Highness. You're standing in all of it."
+
+He was. He picked the chair up.
+
+"Face it to the door."
+
+The top rail scraped the vault and brought down a sift of old whitewash into his hair, and she did not laugh, visibly. He set it in the middle of the floor facing the door, where it filled the room like a throne in a cupboard.
+
+"No," she said. "I'd sit all night watching the door."
+
+"For what?"
+
+"Draughts," said Alana.
+
+He picked it up.
+
+"The window."
+
+He set it down under the window-slit and stood with both hands on the top rail, out of breath. The little carved woman was under his right palm: the flung arms, the wheel of skirt, warm from his own hand. She saw where his hand was. He moved it. Through the slit, past the lamp, lay the gap, and the west tower over it, where she would be tomorrow night with Gaius and the bolt-thrower, and no fire.
+
+"There," she said. "It stays there."
+
+She sat down in it, facing the gap, with the weather-book on her knee.
+
+At the door he looked back, and came back. He did not ask. He stepped in between her and the slit, took hold of the two dolphins beside her hands, and tipped the chair back on its hind legs with her in it, so that her breath went out of her and her hands came down hard over his. It was very heavy. She was in it. For the space of it his face was a hand's breadth above hers, close enough to see the pulse going in her throat, and he did not close the hand's breadth. He walked it round on its heels a thumb's width toward the cot, and let it down.
+
+He straightened. He considered it with his head on one side, exactly as she had considered every place he had set it down. He looked at the cot. He looked at her.
+
+She sat bolt upright in the black oak and kept her face: brows drawn down hard, mouth pressed flat, the inside of her cheek between her teeth. But her eyes were watering at the corners, and her throat kept working at something that wanted badly to get out, like a gale leaning on a door.
+
+He gave her the court bow, from the neck, and went out without a word.
+
+He shut the door on her before it went.
 
 ---
 
@@ -5175,6 +5347,8 @@ His name was Statius. She knew it because she had asked it.
 
 The day after the captain of the Lanciarii put her haft across his throat on the slip, the prince had come to the door of the steam-box house about Nonius's galled ankles; and then, in the voice he used when he expected to be refused, about the big man's back. She had said yes to both. Rufo brought them down in their chains and stood by the door, and she asked the big man his name before she touched him, as the Vigil taught, and he gave it to the floor. He had been one of the two in the courtyard who dropped their eyes.
 
+That night he had not had a name. He had been a weight in the steam-box house, with the town's sick on their pallets all round and a lamp shaking in the doorway, and one hand big enough to close on both her wrists at once and pin them to the boards above her head. She remembered the boards, warm and wet from the steam. She remembered the sound the silk made. The sleeve went first, at the shoulder seam, with a noise like a sail splitting when the squall finds the stitching; then the skirt, from the hem upward, a long dry tearing that went on far longer than a skirt is long. His breath was sour wine and fish-oil. When she said the Vigil's words to him, the back of his other hand came across her mouth, once, not hard, the way a man cuffs a dog that will not lie down, and she tasted her own blood and said nothing more. There was more. There was the rest of that night, and the two who came on the other nights. She did not let herself remember those. She let herself remember the sleeve, the skirt and the hand on her wrists, and nothing past them, and then she put the memory away and kept her face quite still. In the morning she had found a shipwright's nail on the slip, pushed it through her bodice, and gone out to the wounded.
+
 There had been three. She had known which three when they stood against the tower wall on the first day, and before the town was out of the gate she had decided that she would never say which, or what. Not to the prince. Not to Alana. Not to the Sun on Midwinter night. She did not say it now, even inside her own head. It was hers.
 
 She had laid her hands on his back without warming them first, which she had never in her life done to a man on her table, and they had been perfectly steady. Below the last rib the long muscles either side of the spine had drawn up into knots the size of a child's fist, and they drew tighter with every load, until about each quarter of an hour he had to straighten and put his hands there and let them go. If a weight came on him with his body turned before he had let them go, they would seize altogether and pinch the great cord that runs down the back of the leg; and the leg would go from under him, and nothing he could do would stop it. She told him so. *Straighten before it comes. With a load on you, turn your feet, never your back.* He said, *Yes, healer,* to the floor, and Rufo took him back to the pen. The warmth she kept. It was hers to spend, and she did not spend it there.
@@ -5807,7 +5981,9 @@ She spent the morning of it unpacking. The satchels came back off the *Forward* 
 
 There had been none, either, for the man they called Pansa.
 
-She made it at noon, while the steam came down through the roof-vents and Hostus was at his dinner of bread and cold pork.
+He had come on one of the nights after the fort fell; they had run together since, as dyes run in wet wool. He had come laughing. The sergeant had put their long lad on the door with a lamp, and he stood in the light of it and held his hands out to her, palms up, as a juggler at the Midwinter fair shows the crowd there is nothing in them. *Sister,* he had said. *They tell me you've the touch.* Then he had shown her his own. They were small hands, and quick, dry and very strong, and they took her face first, a thumb hard on each cheekbone, and turned it up into the light so that she should see him laugh. He laughed the whole time. Softly, through his teeth, as though the two of them shared a joke, and once he looked round to see whether the lad in the door was laughing too. The lad was looking at the floor. After that his hands went where they liked, as a cutpurse goes through a stolen purse at his leisure, and found nothing in her worth the keeping, and he said so, for the lad to hear. The marks of his thumbs were still on her cheekbone, gone yellow, on the day the fort changed hands. She let herself remember that much: the lamp, the thumbs, the laugh. Not a breath past it.
+
+She made his at noon, while the steam came down through the roof-vents and Hostus was at his dinner of bread and cold pork.
 
 He was the one who laughed. A small quick man, bald as an egg, with a gap in his teeth he could whistle through, and the habit of making the other prisoners laugh at the shovels when the town was watching, which the town did not forgive. The slips had split his hands. Men who work wet timber in the frost get it: the skin cracks across the knuckles and in the webs of the thumbs, and the cracks go down to the red and will not close, and every grip opens them again. On the eleventh day Rufo had brought him into the steam-box house in his chains, with two others, and he had held his hands out to her across the bench, palms up, grinning, the way he had held them out once before, in another light.
 
@@ -5893,6 +6069,8 @@ Atilius. A big man, grey at the temples and thick through the shoulder, who stoo
 
 She had not decided anything about him. She had made sure of it. She had kept him in the dark of the room where she did not look, with the door shut, since the gate.
 
+The door would not stay shut against his eyes. She knew how they rested on a thing. They had rested on her so the first night they locked her in the steam-box house, over the worst pallet in it, where the cooper's widow from Rope Street lay burned from the shoulder to the hip and not yet out of danger. He had not torn anything, or struck anyone. He had only set his boot on the edge of the widow's pallet, and looked down at her, and then at Liora, and waited, as a sergeant waits for a slow recruit to see what the order is. She had seen it. He had nodded, as at a recruit who would do, and unbuckled his belt and laid it on the bench beside her jars, square to the edge, the way a careful man lays down his kit. That was what she kept of it: the belt laid square, the widow's breathing, the smell of honey on the dressings, and the lamp shaking in the doorway because the lad who held it was shaking. On the other nights he had not needed even the boot. He stood at the back by the door, with his feet apart and his weight even, and watched his men take their turns, and nothing moved in his face; as nothing moved in it now, while he watched the fire take them. She let herself remember that much, and pushed the door to on him again, and it would not quite shut.
+
 She said the litany.
 
 She said it as she always said it, low, in the old vowels, at the pace of the names: the eighty first, all of them, and the town's after them, street by street, and the *Tally*'s, and Nonius, who held the lamp. Then the two on the fire.
@@ -5953,7 +6131,7 @@ She knew that, kneeling there, quite exactly. A single pull on the right end, an
 
 She looked into his eyes and let him see her.
 
-And it came to her, then, out of the room where she did not look, with the door standing open now and the light going in: not a picture. She had never let it be a picture, and she did not now. Only the order of it. The others had held. He had not held. He had not needed to. He had been first, and he had been the worst, and he had been every time; and afterward he had stood over her and looked down at her, as he was looking up at her now, and smiled the slow certain smile of a man for whom it is all one, the beach and the room and the woman, all his to keep.
+And it came to her, then, out of the room where she did not look, with the door standing open now and the light going in: not the picture this time. She had had that at the fire, and once was enough. Only the order of it. The others had held. He had not held. He had not needed to. He had been first, and he had been the worst, and he had been every time; and afterward he had stood over her and looked down at her, as he was looking up at her now, and smiled the slow certain smile of a man for whom it is all one, the beach and the room and the woman, all his to keep.
 
 She tightened the knot.
 
@@ -6087,111 +6265,91 @@ He took her by the shoulder and turned her round.
 
 It was quick, and his grip was hard, harder than he knew; the fingers went into the joint above the bone. She came round to face him with her back against the cold stone of the window-ledge, and he was there, a hand from her, and his eyes went into hers and held. Grey eyes. She had held his arm between her hands and looked into it to the bone, and never troubled to notice their color. They were grey as the sea under the Grey, and as cold, and they went into her a long way, looking for something; and she let them look, and did not lower hers, and waited for what he would say.
 
-"The boy lives," he said.
+"Three," he said. "Merula says three."
 
-That was all.
+"Three," said Liora.
+
+"Only three? Not one more among those that are left? Nobody on the walls, nobody in the fort, that I ought to know of?"
+
+"There is no fourth, Highness."
+
+"Then it's done."
+
+"It's done."
+
+He let his breath go, long and slow through his nose, as a man does when the surgeon tells him the leg will keep. His grip on her shoulder eased. His eyes did not.
+
+"And the boy," he said. "Merula's long lad. He didn't sleep last night, and Merula thinks he won't sleep tonight." He stopped. When he went on it was very quiet. "The boy lives."
+
+It was a question. He did not make it one.
 
 She heard it, and for a moment did not understand it, and then she did.
 
 The boy. The long one at the end of the line, with the big red hands and the neck like a heron's, who had stood at a door because a sergeant told him to, and held up a lamp because a sergeant told him to, and looked at the floor; and had been looking at it ever since. He had not slept last night. She knew that too. She had seen his face at the fire when the sergeant went down.
 
-The prince had not said *stop*. He had not said *murderer*, or *why*, or *how*, or anything at all about the other three. He had not asked her a single thing. He had come all the way up the hill and down the long ward between the empty beds and closed the distance he had kept since the landing to say one thing, and it was the only thing that was still his to say.
+"This war may take him," said Liora. "But I will not."
 
 Her fear went out of her all at once, like water out of a split cask, and left her light-headed.
 
-"This war may take him," said Liora. "But I will not."
+He had not said *stop*. He had not said *murderer*, or *why*, or *how*. He had come all the way up the hill and down the long ward between the empty beds, and closed the distance he had kept since the landing, to ask her the only things that were still his to ask; and she had answered him, and he believed her. She could see him believe her. It went into his face like light into a room when the shutter is opened.
 
-She turned away from him, back to the window and the sea.
+She thought he would go then. He did not go. His hand left her shoulder and went to his side, and she saw that it was shaking, and the other with it. She had seen those hands every day since the landing, on the slips and in the courtyard, and only once still: on her table, with the *Tally*'s blood not yet dry on him. She knew now what it meant when they were still. She was glad, absurdly, to see them shake.
 
-She felt him stand there a moment longer, behind her. Then his hand left her shoulder. She heard him go back up the ward between the beds, not quickly, and stop again halfway, by the same nail, and go on; and the door, and his step on the stair.
+"I'm sorry," he said.
 
-The Grey lay on the sea, gold going to grey. Somewhere out on it, far off, a breath of air touched the surface and made a dark patch the size of a field, and went away again.
+She waited. Men said it on her pallets, to the wall, to their mothers, to her, and meant a hundred different things by it.
 
-She stood at the window until it was too dark to see the gap, and then a while longer.
+"For what they did to you in that room," said the prince. "And for what it cost you to answer it, because nobody else was going to. I gave you their lives in the courtyard and thought I'd done something fine." His mouth moved, not quite a smile. "That's two wounds, and you'll carry both. I don't think either one will close. Not under your hands. Not under anyone's."
+
+It was true. A sister of the Vigil can put the warmth into any hurt in the world but her own; it will not go in. Every novice tries it once, on a cut finger, under the blankets after the lamps are out, and not one of them tries it twice.
+
+"No," she said. "They won't."
+
+"Then I'll ask you something." He stopped, and began again, as a man takes a second run at a wall. She had never heard him do that; not to the council, not to the town in the courtyard. "I've no right to ask it. I'm asking."
+
+She waited.
+
+"The Fourteenth made a song about you. *The Angel of the Baths.* Hostus has half the cohort singing it, and Felix hums it over the carving when he thinks I'm not by." His eyes went past her for a moment, to the bed frames and the nails, and came back. "You think she's dead. I watched you on the beach today. I watched your hand on that man's chest at the end, and his face go easy under it, when he'd done nothing on this earth to be owed it; and I watched you close his eyes. Half the cohort looked away. I didn't. She isn't dead. She was on that beach. She's standing here."
+
+"You don't know what's in me, Highness."
+
+"No. I know what came through that gate behind me on the first day with blood to the wrists, and what's kept my men alive every day since." His voice did not rise. It was the voice he used when he expected to be refused, and it was begging. "Don't let her die. Not for them. They've had all of you they're ever going to have. We need her. My men need her, and I need her. And you'll need her more than any of us, for what you'll carry after. She's the one who'll have to carry it."
+
+She did not answer him. She found she could not. Something had come up into her throat and stood there, and she could not get past it.
+
+He did not seem to need an answer. He took a bundle out of the breast of his cloak, tied up in a cloth, and set it on the window-ledge by her hand. It smelled of the fort kitchen: mutton fat, and rosemary, and bread.
+
+"Felix," he said. "You're to eat it. He'll ask me, and I'm not lying to Felix; I'd never hear the end of it." Then, lower: "And anything else you want, you've only to say it. Of me, or the cohort, or the crown when I've the use of it. Tonight, or in a year. A ship home, if you want one. These beds full again, with a wall round them this time, and men on the wall."
+
+She looked at him. It was the thing she had wanted most in the world, and had sat over his arm with her hands on it and planned, coolly, to get from him another way. He was holding it out to her as a man holds out a cloak.
+
+"There's nothing," said Liora. It did not come out in her voice.
+
+"Then I'll ask again tomorrow," he said. "And the day after. And every day."
+
+He looked at her a moment longer, as if there were one more thing, and let it go. Then he went back up the ward between the beds, not quickly, and stopped again halfway, by the same nail, and went on; and the door, and his step on the stair.
+
+She meant to turn back to the window. She meant to stand there, as she had stood a great many evenings, until the light went.
+
+Her knees went instead. They had wanted to go on the beach, and she had told them no, in the voice for the farthest pallet; she had no voice left now to tell them anything. She sat down on the boards under the window with her back against the cold stone, among the empty frames, and wept.
+
+It was not the way women weep in songs. It was the way men wept on her pallets the night after their first fight, when the shaking came at last: ugly, and loud, from the belly, with her mouth open and the heels of her hands pressed into her eyes, and no end to it that she could see. She had not wept over the slate and chalk at sixteen, when the other novices did. She had not wept at the vat. She wept now for all of it: for the eighty in their frames, and the boy on the hospital ship who had asked whether she had come for him, and the girl in white silk who had come south believing she knew what the world was. And somewhere in the middle of it she found she was weeping for the three as well, and could not stop that either, and did not try.
+
+When it was done the light was nearly gone. Her face was stiff with salt. She sat a while longer with her head against the stone, wrung out, as the body is when a fever breaks, and listened to the sea.
+
+Then she reached up to the ledge for Felix's bundle and untied it on her knees, and the smell came up to her out of the cloth, mutton fat and rosemary, and her stomach turned over: not with sickness, with want. She could not remember when she had last eaten. Half a heel of bread on the morning of the calm, perhaps, standing at Hostus's bench, and the rest left there for the mice. And she had spent herself every hour since the loading: on the landing with the count in her mouth, at the mortar with the blue hood, on the frost of the slip, and today across the fire, which had taken more out of her than a night on the wards after a battle. A healer who does great work and does not eat is a healer who falls down, and is no use to anyone. The Vigil taught that to its novices in the same breath as the warmth, and she had forgotten it. She ate the mutton off the bone with her fingers, every shred of it, and the bread after it, and sucked the salt from her thumbs, and felt it go down into her and spread, slowly, the way the warmth spreads into a hurt when it takes.
+
+Felix had tied the cloth. She could see his hands in the knot, square and careful, and the salt in its twist of paper, because Felix would think of salt. Felix, who always knew where everyone was. She had not asked him for anything. She had not asked any of them. Hostus, who had watched her put every jar back on his shelves that morning and said nothing, because he knew when a woman did not want to be helped. Rufo, who had said *Healer* on the beach, and then *His heart*, quietly, so that nobody else on that sand need say anything at all. Alana of Corvus, who had walked down through the town in the dusk to tell her about the vat with her own mouth, and had not softened a word. And the prince, who had come up the hill with his hands shaking to beg her for a thing that was hers to keep or to let go. Before the landing she had not known one of their names. She had come up the hill tonight believing she had no one left on this island but the dead in their frames. She had been wrong. She was so seldom wrong that it was a long moment before she knew what to do with it; and then she found that she was glad.
+
+Then, because he had asked, she looked.
+
+She shut her eyes and went over herself as she went over a man who had fallen: carefully, joint by joint, pressing, asking where it hurt. She knew how to look. She had looked into a hundred bodies, and today into a heart across a fire. She had never once turned the looking on herself, and it was harder than the fire. There was nothing to lay her hands on, and no one to ask the name of; and then she asked it anyway, as the Vigil taught, because a name makes a patient. *Liora.* The hurts she found at once. They were where she had known they would be, and he had been right about them: they would not close. She went past them. She went down, slowly, as she had gone through the heat of the pyre, looking for the other thing: the warm thing that had gone out of her into a dying man on the beach and taken his pain, the thing the Fourteenth had sung about to make her blush. She did not find it. But she did not find the place where it had been and was not, either; and when she opened her eyes on the dark ward she knew that she would go on looking, tomorrow, and the day after, and every day.
+
+Through the window a breath of air came in off the sea, cold, out of the north, and touched her face, and stayed.
 
 ---
 
 **ALANA**
-
-She made the list on the hill road, coming down from the fort in the dark, because it would not stop making itself.
-
-*Item.* Statius, the evening before last, off the foot of the water-gate stair under the lead. A big man with a bad back, which the healer had laid her hands on, at the prince's asking; the whole cohort knew it, because the whole cohort knew everything. And it had not mended. Alana had felt what those hands could mend. Slipped, on the weed. Everyone very quick.
-
-*Item.* Pansa, yesterday afternoon, off the staging of the first slip, in the frost. Hostus had told her about it at the well, unasked, with his clean hands shaking a little. A pot of liniment for the cracks in his hands; the man had said they'd gone quiet. *Never seen a salve take like it, my lady. Not in twenty years. Not a thing could he feel.* Alana had read the *Book of Simples* in the long reading room at Corvus in her second winter, cover to cover, because it was there. There were four herbs in the isles that would take the feeling out of a hand so that a man could not find a ladder-rung with it. Three of them stank. The fourth was the blue hood, and it smelled of nothing at all, and every healer of the Vigil carried it.
-
-*Item.* Atilius, at noon, on the black beach.
-
-She had been at the fire. She had stood at the back of it, among the cohort, with her hands in her sleeves, because the prince had wanted the whole cohort there for the Tharsians' burning, as for their own. And partway through the litany, while the healer said the names, something had drawn on the air.
-
-She knew it. That was the worst of it. She had felt it first in her own right hand in the steam-box house, with the steam on her face, and again on the mole, coming up out of the stone like warm breath: the warmth that goes in instead of lying on the skin, and the sense of being looked into. No rune, and no rod, and no stroke drawn. This was the same working, and it was not warm. It went across the fire like a draught under a door, and the air pulled toward it as it pulls before her own stroke is let go, thick and strange, with the hair rising along her arms. She did not have to turn her head to look for the hand that drew it. She knew whose it was before the sergeant went down on the sand across the fire, with his hand on his chest like a man who has lost his purse.
-
-And the healer had stood quite still, with blood running out of her nose, and waited to be called.
-
-*Note,* said the cold small voice. *No rune.*
-
-Alana told it, for the second time in two days, to be quiet. This time it did not obey her.
-
----
-
-The steam-box house was empty but for Liora, and the eight wounded marines asleep on their pallets, and a lamp.
-
-She was packing again. Nerva had come up from the harbor at dusk and stood in the courtyard and sniffed the air like a hound, and said, *Morning,* and gone back down; and the satchels were coming down off Hostus's shelves for the second time in two days, jar by jar, in the same order. Liora did not look up when the door opened. She went on wrapping a jar of something in linen, and setting it in its place, and taking up the next.
-
-Alana stood inside the door with the snow on her shoulders.
-
-She had drafted it on the hill road. She had drafted it a great many times, as she drafted everything, and it was still not right, and she began it anyway, because she did not know how not to.
-
-"At Corvus," she said, "in my third year, Master Hesper set us a course of reading on appetites."
-
-Liora wrapped the jar.
-
-"The academy kept a whole bay of the long room on it. The appetites of the body and of the mind, and how they take hold. Wine, mostly. Poppy. Dice. There's a great deal written on dice; the men who write treatises are very often men who dice." She heard herself, and could not stop herself. "I read it because I'd decided, at fourteen, that I would never in my life be at the mercy of anything I couldn't name. There was a shelf on the drink. I read every book on it. I'd met a prince at a Midwinter dance by then, and I suppose I wanted to know." She kept her eyes on the lamp. "And there was one book at the end of the bay on the other appetite. The one that grows on killing. It was by a magistrate of the old fens who had hanged a great many men, and talked with every one of them the night before. He said it is the same as the drink, exactly. The first is hard, and costs a great deal, and a man thinks he will never pay so much again. The second costs less. By the third it costs nothing at all, and that is when it begins to take its price, because a thing that costs nothing to do—"
-
-"Stop," said Liora.
-
-She had not raised her voice. Nobody in Cyrene raised their voice. She set down the jar in its linen, in its place, and turned round.
-
-"I'm not in the mood for a lecture, my lady. Not tonight. Not from you." Her face in the lamplight was quite calm, and white, and the dried blood was still at the edge of one nostril where she had not troubled to wash it. "Tell me something instead. You've a great deal of learning. Tell me how it is that you can walk about this island without your stockings, in the middle of two hundred thieves and murderers and men who have not seen a woman's ankle in a year, without the least concern in the world for your safety."
-
-Alana opened her mouth.
-
-"I'll tell you," said Liora. "Because you are death in a skirt. Every man of the two hundred knows it, and so does every Tharsian left alive on this island. In fifteen days you have made more dead than I could heal in a lifetime of trying. Limbs in the air. Men cooked inside their mail. Bellies burst like wineskins in a fire. You set the sea alight on the Kettle Bank with the dead standing under it. The black beach. The towers. The mole, three nights since. I had what the dead had done on my table, and I had what you had done, and I could tell the one from the other by the smell. You came down off the west tower with your face cut open and your hair full of other men's blood and asked Hostus to hurry, because you were wanted." She did not move. "And you come in here and stand at my door and talk to me about murder."
-
-"I didn't say—"
-
-"You were working round to it. By way of Corvus." Liora's mouth moved, very slightly. "You're kinder than you think you are, my lady. You'd have got there by the end of the bay."
-
-The lamp burned. On the nearest pallet a marine of the *Tally* stirred in his sleep and said something in his round Tharsian speech, and was quiet.
-
-"You're a warrior," said Liora. "The General calls you a witch, to your face and behind your back, and he means it fondly; but it's the wrong word, and he knows it. You're a warrior. You do what warriors do, and you do it better than any of them, and they sing about it. And I am a warrior too. Who finished what those men started."
-
-She said it in the voice for the farthest pallet. It carried without being raised.
-
-"Men are pardoned for the crimes of war. There's a writ for it. We all watched one read on the quay, with a seal on it, in front of the town. Every soldier on the isles is pardoned the day the war ends, for whatever he did in it, and the songs see to the rest. Women aren't. Women don't get the writ. Women live with the crimes of war for the rest of their lives." She did not blink. "Those three were warriors too. That's what they'd have told you. They committed the wrong crime, on the wrong cunt. And they got the bad luck they deserved, and no more than they deserved. Bad luck. A stair. A ladder. A heart." She took a breath. "Can you say as much, my lady? For every one of the mountain of bodies on your conscience? That every one of them got only what he deserved?"
-
-Alana said nothing.
-
-She stood inside the door with the snow melting on her shoulders and found, for once in her life, that she had nothing drafted. Not a word. She had read every book in the bay, and none of them had this in it.
-
-The Kettle Bank. She had not counted. She had told herself they were dead already, the sea-dead, the Fourteenth's own; that she had only put them down. Nineteen of them had been the eighty. She had not counted the towers either. She had not counted the mole. She had a page in the back of the weather-book for the dead she owed, and not one of those was on it.
-
-Liora looked at her a moment longer. Then she turned back to the bench, and took up the next jar, and began to wrap it.
-
-"Shut the door when you go, my lady," she said. "It lets the cold in on them."
-
-Alana went out, and shut the door.
-
-The snow had stopped. Overhead, for the first time in three days, the steam from the roof-vents was not going straight up into the dark. It leaned. It leaned south, in a long grey feather, and frayed, and blew away.
-
-She stood in the slush in the yard of the steam-box house and looked back at the yellow crack of light under the door, and thought of what the Fourteenth's wounded had called her, singing it to a marching tune on the wards, which Hostus had told half the cohort by now: *the Angel of the Baths*. And of the angel's face over the sergeant on the beach, with the blood running down to her chin, closing his eyes so gently that half the cohort had looked away.
-
-*Note,* she thought, quite clearly, in her own voice and not the cold one. *Subject is not an angel.*
-
-And then, because she was thorough, and because it was true, she underlined it.
-
-*Definitely* not an angel.
-
----
 
 The wind came in the small hours, out of the north, cold off the ice, steady as a hand on the back. By first light Nerva had his finger in it and did not trouble to say anything at all.
 
@@ -11165,15 +11323,15 @@ He folded the scrap small, and sealed it with a drop of candle-wax and his thumb
 
 **GAIUS**
 
-The second course was lazy. He would not have seen it. That was the thing he could not get past, afterward, lying awake by his keels with the sailcloth over him: not that the course was lazy, but that he had walked under it twice that morning, in and out of the gatehouse with the sea-people, with his eyes on a spear-gun, and had not seen it at all.
+The second course was lazy. He would not have seen it. That was the thing he could not get past, afterward, lying awake by his keels with the sailcloth over him: not that the course was lazy, but that he had walked under it twice that morning, with his eyes on a spear-gun, and had not seen it at all.
 
-He had slept by the slips. His old cell in the sluice-house had a Tharsian in it again, the grey agent with the arrow-scar through his hand, and the rest of the sluice-house had the red cloaks from Silverwood lying head to foot on the floor where Gaius had lain through the nights of the garrison; he found that he minded that, and could not decide why, and had taken his bedding down to the open shed at the head of the first slip, with the new keel running away from him into the dark, and woken in the night twice to go and lay his hand on the scarf. It had been the best night's sleep he had had in a month. He did not tell anyone that either.
+He had slept by the slips, in the open shed at the head of the first slip, with the new keel running away from him into the dark, and woken twice in the night to go and lay his hand on the scarf. It had been the best night's sleep he had had in a month. He did not tell anyone that.
 
-The gatehouse was his. That was to say, the drawing was his: a squat stone box at the head of the water-gate stair, twenty feet on the face, with a barrel-vaulted passage through it and an iron-strapped oak door at each end, so that any man who came up the stair at night with a ladder and an idea would find himself in a stone throat with murder-holes over his head. He had drawn it in the cave on the back of a Tharsian dispatch, while the others argued about Silverwood, and left it with Baebius; and the town's masons had built it while he was gone, under Baebius's eye, which was a soldier's eye, which knew a wall when it saw one and did not know a mason.
+The gatehouse was his. That was to say, the drawing was his: a squat stone box at the head of the water-gate stair, with a vaulted passage through it and an iron-strapped oak door at each end, so that any man who came up the stair at night with a ladder would find himself in a stone throat with murder-holes over his head. He had drawn it in the cave on the back of a Tharsian dispatch, and the town's masons had built it while he was gone, under Baebius's eye, which knew a wall when it saw one and did not know a mason.
 
 He came up to it at the ninth hour to do what he should have done that morning, and found Spurius Lento sitting in its passage on the inner step with the lock in pieces.
 
-Not the door. The lock. Gaius had asked for the best lock in the fort to be moved to his new gate, and Baebius had sent the smith to take it off the old paymaster's strongroom under the gate-tower, where the garrison had kept its silver: a big Tharsian box-lock of black iron, the size of a volume of the great Anaxis. Fingers had it off its plate and its insides laid out on the stone in a neat row, in the order they had come out: the bolt, the spring, the tumbler, the wards. He was sitting over them with his elbows on his knees and his chin in his hands, looking at them, the way Gaius had seen Liora look at a wound.
+It was the big Tharsian box-lock off the old paymaster's strongroom, black iron, the size of a volume of the great Anaxis. Fingers had its insides laid out on the stone in the order they had come out, and was sitting over them with his chin in his hands, the way Gaius had seen Liora look at a wound.
 
 "You've broken it," said Gaius.
 
@@ -11183,45 +11341,31 @@ Gaius crouched. His knees did not like it. He picked up the bolt-spring and turn
 
 "Tharsian," he said. "Three wards and a false one."
 
-"Two and a false one." Fingers reached out and touched the third ward with one fingertip, very lightly, the way a man touches a horse he does not trust. "That one's for show. It's cut, but it doesn't bear on anything. Key'd turn the same with it filed off. Lazy smith." He grinned up at Gaius for the first time. He had a thin clever face like a ferret's and very good teeth, which in a thief was a mark of either great success or great vanity, and in Fingers was both. "A lock's just a little building, master engineer. Somebody always builds one wall lazy."
+"Two and a false one." Fingers touched the third ward with one fingertip, the way a man touches a horse he does not trust. "That one's for show. Key'd turn the same with it filed off. Lazy smith." He grinned up at Gaius for the first time. He had a thin clever face like a ferret's and very good teeth, which in a thief was a mark of either great success or great vanity, and in Fingers was both. "A lock's just a little building, master engineer. Somebody always builds one wall lazy."
 
-Gaius looked at the third ward.
+Gaius pulled his lenses down and turned the ward in the light, and saw the bright file-marks on its edge where nothing had ever rubbed. He had walked past that lock every day of his captivity and admired it. He had been wrong for six weeks and nobody had told him.
 
-He pulled his lenses down and turned it in the light, and saw the bright file-marks on its edge where nothing had ever rubbed. He had walked past that lock every day of his captivity, on the way to the slips, and admired it. *A good lock, Tharsian work, three wards and a false.* He had been wrong for six weeks and nobody had told him.
-
-He put the ward down where it had been, in its place in the row.
-
-The passage was quiet. Up in the courtyard someone was shouting about boats.
+He put the ward back in its place in the row.
 
 "Which wall of mine is lazy?" said Gaius.
 
-Fingers stopped grinning.
-
-He looked up at the new grey stone round them, with the mason's lines still white on it, and Gaius saw a different look come into his face, the way a cat stops dead in a doorway with one paw lifted. He got up and went out onto the head of the stair, and turned, and looked at the face of the gatehouse from the seaward side, where a man coming up out of the water would see it. Then he came back.
+Fingers stopped grinning. He got up and went out onto the head of the stair, and turned, and looked at the face of the gatehouse from the seaward side, where a man coming up out of the water would see it. Then he came back.
 
 "That one," he said. "Outside. Second course from the bottom. I'd go in there."
 
 ---
 
-Gaius went and looked.
+Gaius went down three steps of the stair and turned and rapped the second course of his gate with his knuckles.
 
-He went down three steps of the water-gate stair and turned and looked up at the second course of his gate, a little above the height of his own head. Good grey quarry stone, squared and dressed, with fine joints. It looked better than the rest. It looked very handsome indeed.
+It rang. Not the way a bell rings; the way a jar rings that is empty, when the jar beside it is full. The course above it said nothing at all.
 
-He went up two steps, and put his hand on it, and rapped it with his knuckles.
-
-It rang.
-
-Not much. Not the way a bell rings; the way a jar rings that is empty, when the jar beside it is full. He rapped the course above it, and it said nothing at all, the dead flat nothing of good stone with its back to more good stone.
-
-He took out his knife and put the point into the joint under one of the stones of the second course, and pushed, and the knife went in to the hilt as though the joint were cheese.
+He put the point of his knife into the joint under one of the stones and pushed, and it went in to the hilt as though the joint were cheese.
 
 *Short*, he thought. *Sand and ambition and not enough lime.* And under that: *Shiners.*
 
-He had seen it once before, in the south, on a church wall a mason had been paid for by the course. You took your good thick facing stones, that ought to go deep into a wall and tie the face to the core, and split each of them the long way, like a loaf, and stood the halves on edge in the face where one whole stone ought to have lain flat. From the front it looked like two good stones for the price of one. From behind it was a skin of slabs four fingers thick with nothing tying them to anything. A man with a bar could have a run of it out in the time it took to say a prayer, and be through the rubble core into the passage behind, while the guards on the parapet were looking out to sea for ladders.
+He had seen it once before, in the south, on a wall a mason had been paid for by the course. You took the thick facing stones that ought to tie the face to the core and split each of them the long way, like a loaf, and stood the halves on edge. From the front, two good stones for the price of one. From behind, a skin of slabs four fingers thick, tied to nothing. A man with a bar at the foot of this stair at low tide could have a run of it out in the time it took to say a prayer, while the guards on the parapet looked out to sea for ladders.
 
-From the sea. Where a man coming up out of the water at low tide would stand at the foot of this stair with a bar in his hand and his eye at the height of the second course.
-
-He stood there with his hand flat on the cold stone of his own gate, and felt the shame of it go up through him from his feet, slowly, like cold water rising in a hold.
+He stood with his hand flat on the cold stone of his own gate, and felt the shame of it go up through him from his feet, slowly, like cold water rising in a hold.
 
 "Who laid this course?" he said.
 
@@ -11239,11 +11383,11 @@ He went to find a bar.
 
 He rebuilt it before dark.
 
-He could not take it down. The gatehouse stood on it; you do not pull the second course out from under a building because you dislike the second course. So he did what the old bridge-builders did when a pier was going: he took it out in short lengths, three stones at a time, a man's arm-span, and no more, and shored the course above each gap with oak needles driven through the wall and propped on either side, so that the wall over every gap was never standing on less than four parts in five of itself. Then he rebuilt each length with the shiners thrown down the stair into the sea where they belonged, and good thick stones laid flat in their place, and every third one a through-stone, a great long block that went the whole depth of the wall and tied the face to the core like a pin through a hinge; and the mortar mixed by his own hands in a trough on the stair-head, with lime burnt that morning in the old Tharsian kiln behind the yards, and slaked hot.
+He could not take it down; the gatehouse stood on it. So he did what the old bridge-builders did when a pier was going: he took it out three stones at a time and shored the course above each gap with oak needles, so that the wall over every gap was never standing on less than four parts in five of itself. The shiners went down the stair into the sea, and good thick stones went in their place, every third one a through-stone that tied the face to the core like a pin through a hinge, set in mortar he mixed with his own hands from lime burnt that morning.
 
-Four parts in five. He noticed it while he was shoring the second length, and stood for a moment with the mallet in his hand looking at the needles, and thought that the prince would have liked it. He did not mention it to the prince.
+Four parts in five. He noticed it while he was shoring the second length, and thought that the prince would have liked it. He did not mention it to the prince.
 
-He had a gang of the cohort, and Iason, and two of the town's masons who were not Vettius and were very anxious that everybody should know it, and Fingers. Fingers was no use with a stone. He had a thief's hands, long and quick, good for a lock and no good for a block that wanted two men and a bar; so when the fetching ran ahead of the laying he sat on the stair-head beside Gaius while the mortar took. Gaius had his drawings of the fort out on the tablet, the ones he had made as a prisoner crawling the spring culvert at night with a stub of chalk, to check the depth of the gatehouse wall; and Fingers looked over his shoulder, the way thieves look over everyone's shoulder, and asked what the dotted lines were. So Gaius told him.
+Fingers was no use with a stone. He had a thief's hands, good for a lock and no good for a block that wanted two men and a bar; so when the fetching ran ahead of the laying he sat on the stair-head beside Gaius while the mortar took. Gaius had his drawings of the fort out on the tablet, the ones he had made as a prisoner crawling the spring culvert at night with a stub of chalk; and Fingers looked over his shoulder, the way thieves look over everyone's shoulder, and asked what the dotted lines were. So Gaius told him.
 
 "It's a lock drawn flat," said Fingers, after a while.
 
@@ -11255,7 +11399,7 @@ Gaius looked at him.
 
 "That's why your walls are good," said Fingers. "And your masons' aren't."
 
-Gaius did not answer that. He turned the leaf to the next drawing, which was the east port, the tower on the rocks above the black beach that the prince had taken by its sea-stair on the night of the landing. Fingers's finger went up the sea-stair and round to the door, and stopped. Then it went back down, slowly, along the foot of the tower on the seaward side, to a small square Gaius had drawn in the wall there, low down, with a short line coming out of the bottom of it into the rocks.
+Gaius did not answer that. He turned the leaf to the east port, the tower on the rocks above the black beach that the prince had taken by its sea-stair on the night of the landing. Fingers's finger went up the sea-stair and round to the door, and stopped. Then it went back down, slowly, to a small square Gaius had drawn low in the seaward wall, with a short line coming out of the bottom of it into the rocks.
 
 "What's that?"
 
@@ -11273,7 +11417,7 @@ Gaius did not answer that. He turned the leaf to the next drawing, which was the
 
 "You're a thief."
 
-"Same thing, at the shoulders." Fingers sat back. He looked at the drawing a moment longer, and Gaius saw his lips move, very slightly, the way a man's lips move when he is putting a thing by in his head to be found later. Then he looked away out to sea. "I'll not need it," he said. "We've got that tower."
+"Same thing, at the shoulders." Fingers looked at the drawing a moment longer, and Gaius saw his lips move, very slightly, the way a man's lips move when he is putting a thing by to be found later. Then he looked away out to sea. "I'll not need it," he said. "We've got that tower."
 
 "Yes," said Gaius. "We have."
 
@@ -11281,17 +11425,13 @@ The mortar was taking. He got up, and went down the stair to the next length.
 
 ---
 
-It was full dusk when they set the last through-stone. Gaius drove the oak needles out of the last gap himself, and listened to the wall take its own weight again, which a good wall does with no sound at all; and then he went down three steps of the stair as he had at the ninth hour and turned and looked up at the second course of his gate.
+It was full dusk when they set the last through-stone. Gaius drove the last needles out himself, and listened to the wall take its own weight again, which a good wall does with no sound at all. The new course looked worse than the old one. The stones were rougher, and the long ends of the through-stones stood out in the face like the heads of nails. It looked like a wall that had been mended.
 
-It looked worse than it had. The new stones were rougher, and not so well matched, and the long ends of the through-stones stood out in the face like the heads of nails. It looked like a wall that had been mended.
-
-He rapped it. It said nothing at all.
-
-He went along the whole of it in the dusk, rapping every stone, with the cohort up on the wall watching him in silence, because they had learned by now that when the engineer was knocking on things it was not the moment for a joke. Every stone said nothing. When he got to the end he stood for a while with his hand flat on the last of them.
+He went along the whole of it, rapping every stone, with the cohort up on the wall watching him in silence. Every stone said nothing.
 
 Then he took out his knife, and in the joint under the last through-stone, where the mortar was still green, he cut a mark, as the old bridge-builders cut one into a pier they meant to be judged by. It was not his own. Small square letters, at the height of a man's eye coming up the stair at low water: *S. LENTO.*
 
-Fingers was sitting on the top step. He had sat there the last hour without saying anything, which for Fingers was a kind of illness. He read the letters upside down, as thieves read everything, and Gaius watched him read them, and saw his thin face do something it had plainly not been told it was going to do.
+Fingers was sitting on the top step. He had sat there the last hour without saying anything, which for Fingers was a kind of illness. He read the letters upside down, as thieves read everything, and Gaius watched his thin face do something it had plainly not been told it was going to do.
 
 "There's a book on you," said Fingers, after a while, not quite steadily. "Did you know? Since the slips. Since before Silverwood."
 
@@ -17371,33 +17511,23 @@ They stood there. The spring ran in its channel. Hostus hummed among the pallets
 
 Then, at the far end of the room, a man got up off the floor.
 
-It was Tuccius, up off his pallet on the haft of a lanciarius's spear, with the new-healed leg stiff under him and his face gone white round the broken nose. The healer said something under her breath that Marcus did not think healers were supposed to know.
+It was Tuccius, on the haft of a lanciarius's spear, with the new-healed leg stiff under him and his face white round the broken nose. He came down the room a step and a swing, toward the slab, with a cup of Hostus's hot honeyed wine in his free hand. He had not drunk his. He did not spill a drop.
 
-He went down the room on the spear, a step and a swing, past the Tharsians and the Aeridans, toward the slab; and in his free hand he carried a cup. Hot wine, with honey in it, from Hostus's pot on the brazier, that every man in the Baths had been given for the cold. He had not drunk his. It was full to the brim, and he did not spill a drop.
-
-Sylara watched him come. Her hand stayed where it was, on Rufo's head.
-
-Tuccius did not look at her. He bent, with a sound in his throat, and set the cup on the edge of the slab by the sleeping man's shoulder.
+He bent, with a sound in his throat, and set it by the sleeping man's shoulder.
 
 "For when he wakes," he said, to the slab. "He'll have the cold on him."
 
-He turned round on the spear and started back.
+He turned on the spear and started back.
 
 "Lanciarii," said Sylara.
 
-He stopped. He did not turn round.
+He stopped, with his back to her. Marcus had heard Valeria say that word across a black beach in the dark, and heard men answer to it who would not have answered to their own names. Tuccius nodded once, at the far wall, and went on to his pallet.
 
-The elf did not say anything else. She had said it the way she said everything, in one word, flat, with nothing hung on it. But Marcus had heard Valeria say *Lanciarii* across a black beach in the dark, and a gate at Silverwood, and the slip at Cyrene with the dead coming up it; and he had heard men answer to it who would not have answered to their own names; and he thought the elf had heard it too, often enough, from a roof.
-
-Tuccius stood there in the middle of the floor with his back to her. Then he nodded, once, at the far wall, and went on to his pallet, and lay down with his broken nose pointing at the painted fish.
-
-The healer let her breath out.
-
-"I'll tell him not to walk," she said. "Tomorrow. Again."
+"I'll tell him not to walk," said Liora. "Tomorrow. Again."
 
 "I saw," said Marcus.
 
-"Yes," said Liora. She was still looking at the slab, at the cup on its edge, steaming a little in the lamplight. "Yes. So did I."
+"Yes," said Liora, looking at the cup steaming on the edge of the slab. "So did I."
 
 ---
 
@@ -17781,31 +17911,31 @@ The slips came up out of the white at the bottom of the lane, the four of them, 
 
 Except the engineer.
 
-Gaius was crouched at the head of the slip by the stem, with his lenses down on his nose and his hands on the third strake, feeling along its edge where it met the second, the way a man feels along a horse's leg for heat. He did not look round. He had heard somebody come down the lane fast and stop, and stand there breathing.
+Gaius was crouched at the head of the slip by the stem, with his lenses down and his hands on the third strake, feeling along its edge the way a man feels along a horse's leg for heat. He did not look round.
 
 "If you've come to tell me the yard's shut," he said to the strake, "I know. I'm not working. I'm looking."
 
 Marcus did not say anything.
 
-The engineer sat back on his heels and pushed his lenses up and looked at him. Up and down, the whole of him; it did not take long. Gaius had spent a month looking at things that were about to fail and knowing exactly where. He did not ask anything. He got up, and went to the row of baskets under the edge of the shed roof, and came back with one of them and a short-handled maul, and held them out.
+The engineer pushed his lenses up and looked at him, the whole of him; it did not take long. He did not ask anything. He went to the baskets under the shed roof and came back with one of them and a short-handled maul.
 
 "Treenails," he said.
 
-The basket was full of oak pegs a span long, shaved eight-sided and tapered at one end. The engineer pointed with his chin at the fourth strake, clamped to the frames but not fastened: a long row of holes bored through plank and frame, a hand's breadth apart, the whole length of the ship.
+Oak pegs a span long, shaved eight-sided. He pointed with his chin at the fourth strake, clamped to the frames but not fastened, with a row of bored holes the whole length of the ship.
 
 "One in each. All the way along. Then the other side." He closed Marcus's fingers round the haft of the maul himself, the way you show a child. "Straight. Not hard. If you split one, I'll know."
 
-Then he went back to the stem, and did not look round again.
+Then he went back to the stem.
 
-The first peg split. Marcus heard it go, a small dry crack like a knuckle.
+The first peg split, a small dry crack like a knuckle.
 
 "Not hard," said Gaius, from the stem. "Straight."
 
-He set another, and hit it straight, and on the fourth stroke it went home with a different sound, deeper, as if it had found the bottom of something; and he went to the next hole.
+He set another, and on the fourth stroke it went home with a deeper sound, as if it had found the bottom of something; and he went to the next hole.
 
-He did not stop. He went down the side of the ship from the stern to the stem, one hole at a time, through the fog, with the harbor bell ringing out in the white every so often, one stroke and a long wait. He learned the sound a peg made going in straight, and the higher sound it made just before it split, and stopped when he heard that and set it again. He did not think. That was the thing he would remember, afterward. For hours at a time he did not think about anything at all except the next hole and the sound of the next peg; and when he did think, about the hand, or the stair, or the quay, the peg split.
+He went down the side of the ship from stern to stem through the fog, with the harbor bell ringing out in the white, one stroke and a long wait. He learned the sound a peg made going in straight, and the higher sound it made just before it split. For hours at a time he did not think about anything but the next hole; and when he did think, about the hand, or the stair, or the quay, the peg split.
 
-At some point the engineer came along the hull with a loaf and a lump of cold boiled pork in a cloth, and cut both in two with his knife; and they sat on the slip-edge with their legs over the water and ate, and the pork was salt and fat and very good, and Marcus had not known he was hungry. Gaius talked about the frames: doubled, and staggered, so that there was no line in her anywhere for a sea to find. He had seen it on the *Concord*, through the water, at the Teeth.
+At some point the engineer came along the hull with a loaf and a lump of cold boiled pork in a cloth, and cut both in two with his knife, and they sat on the slip-edge with their legs over the water and ate. The pork was salt and fat and very good, and Marcus had not known he was hungry. Gaius talked about the frames, doubled and staggered so that there was no line in her anywhere for a sea to find. He had seen it on the *Concord*, through the water, at the Teeth.
 
 "Four times the work," he said. "She'll last a hundred years. If nobody burns her."
 
@@ -17817,27 +17947,25 @@ Marcus looked at him. He had heard it from Liora. He had never heard it from Gai
 
 "What did you do?"
 
-"Built it again. In my head. Every night, every course, from the footings up." Gaius got up with a hand on the frame. "It's still standing. I go and look at it sometimes." He bent and put his thumb on the last peg Marcus had driven, and pressed, as a man presses a ripe fruit. "That one's good."
+"Built it again. In my head. Every night, every course, from the footings up." Gaius got up with a hand on the frame. "It's still standing. I go and look at it sometimes." He pressed his thumb on the last peg Marcus had driven, as a man presses a ripe fruit. "That one's good."
 
 He went back to the stem.
 
-Marcus finished the one side a little after the middle of the day, by the bell, and went round the stem and began on the other. Nobody came down to the slips. It was a day nobody could do anything.
+Marcus drove the last peg on the far side as the white began to go grey with evening. His arm was shaking from the shoulder down. Not the old shaking. The honest kind, that comes from swinging a maul all day.
 
-He drove the last peg as the white began to go grey with evening, and stood back. His arm was shaking from the shoulder down. Not the old shaking. The honest kind, that comes into a man's arm from swinging a maul all day.
-
-Gaius came along the side of the hull with his lenses down, running his thumb over the tops of the pegs as he walked, the way a man runs his thumb along the teeth of a comb. He stopped twice, and tapped.
+Gaius came along the hull running his thumb over the tops of the pegs. He stopped twice, and tapped.
 
 "That one," he said. "And that one."
 
 "You said you'd know."
 
-"I did know. The rest you heard go, and took out yourself, and set again before I came to look. I heard you do it." He looked at Marcus. "These two you didn't hear. One by the stern, the first hour; and one here, about the middle of the day, when you stopped for a while and stood still."
+"I did know. The rest you heard go, and set again yourself. I heard you do it." He looked at Marcus. "These two you didn't hear. One by the stern, the first hour; and one here, about the middle of the day, when you stopped for a while and stood still."
 
 Marcus stood there with the maul in his hand.
 
 "Thank you," he said.
 
-Gaius took the maul out of his hand, gently, the way he had put it there, and hung it on its peg under the roof.
+Gaius took the maul out of his hand, gently, the way he had put it there, and hung it on its peg.
 
 "For what? You've fastened a strake for me on a day nobody could work." He pushed his lenses up and looked at him with his naked short-sighted eyes. "I'll have those two out in the morning. She'll never know." He considered. "Go and eat something. You look like a man who's been building a bridge."
 
@@ -17859,23 +17987,17 @@ The fog was still there in the morning, but thinner, and grey instead of white; 
 
 He went to the stable before it was light.
 
-Tam was awake this time, sitting up in his horse-blanket by the door with his knees under his chin, and he scrambled up when Marcus came in and pointed down the row of stalls with his whole arm.
+Tam was awake this time, sitting up in his horse-blanket by the door, and he scrambled up and pointed down the row of stalls with his whole arm.
 
-"He slept here, Highness," he whispered. "In the stall. On the straw, in his cloak. He wouldn't go up." He swallowed. "The Captain came down at midnight with a blanket and said things, Highness. To him. I won't say them. And went away. And came back with another blanket."
+"He slept here, Highness," he whispered. "In the stall, in his cloak. He wouldn't go up. The Captain came down at midnight with a blanket and said things, Highness. I won't say them. And went away, and came back with another blanket."
 
-"Go back to sleep, Tam."
+The old man was sitting on the stool in the last stall, for once, with two blankets round his shoulders, one grey and one the faded blue of the Lanciarii's cloaks, looking at the wall. He did not turn his head.
 
-He did not. Marcus heard him not do it, all the way down the row.
+Marcus did not say anything. He took the curry-comb and the brush down off their peg and turned to Thistle. The mare looked at him with one dark eye, then put her ears back to soft, and let him.
 
-The old man was sitting on the stool in the last stall, for once, with two blankets round his shoulders, one grey and one the faded blue of the Lanciarii's cloaks, and his hands on his knees, looking at the wall. He did not turn his head.
+He had been taught this at nine years old, in the royal stables under the Old Hill, by a man with a cavalry general's voice, who had said that a horseman who could not groom his own horse could not be trusted with anyone else's. He had not done it since he was sixteen. His hands remembered: the comb in small hard circles, then the brush with the lay of the hair, neck and shoulder and barrel and back, in their order, as if they had been waiting in a stall all this time for him to come back for them.
 
-Marcus did not say anything. He took the curry-comb and the brush down off their peg, and turned to Thistle. The mare looked at him with one dark eye, as if asking whether he was going to be any trouble; and then put her ears back to soft, and let him.
-
-He began at the neck, behind the ear. The comb in small hard circles, to bring the dirt up; then the brush, long strokes with the lay of the hair, leaning into it from the shoulder the way you lean into an oar; and every so often the comb knocked against the post, two short knocks, so that a little grey cloud went up into the lamplight and hung there.
-
-He had been taught this at nine years old, in the royal stables under the Old Hill, by a man with a cavalry general's voice, who had said that a horseman who could not groom his own horse could not be trusted with anyone else's, and had stood over him for a month of mornings until he could do it without being told. He had not done it since he was sixteen. His hands remembered: neck and shoulder and foreleg and barrel and back and quarters, in their order, as if they had been waiting all this time in a stall for him to come back for them.
-
-The mare leaned into the brush, the whole warm weight of her, and he leaned back. He came to the back, where the saddle sat.
+He came to the back, where the saddle sat.
 
 "Harder on the left," said Roderic. "Where the saddle sits. She likes it."
 
@@ -17883,7 +18005,7 @@ Marcus brushed harder on the left.
 
 The mare groaned, deep in her chest, like an old woman letting herself down into a hot bath; and behind him Marcus heard the old man breathe out, once, which in another man would have been a laugh.
 
-Neither of them said anything else. The light came up grey in the door of the stall, and then less grey. The harbor bell had stopped. When Marcus had finished the off side and the quarters and the tail, and hung the comb and the brush back on their peg, he stood a moment with his hand flat on the mare's warm shoulder; and the door of the stall was full of white light, ordinary light, the light of a winter morning with the fog gone back out beyond the moles where it belonged.
+Neither of them said anything else. When Marcus had finished and hung the comb and the brush back on their peg, the door of the stall was full of white light, ordinary light, the light of a winter morning with the fog gone back out beyond the moles where it belonged.
 
 He went out without a word, and the old man let him.
 
@@ -17985,71 +18107,51 @@ Marcus went to the door, and knocked on it for the Lanciarii to open it; and whe
 
 He found Nerva on the black beach in the evening, at low water, where the *Clemency* had lain.
 
-There was nothing there now. The marines had burned her last ribs on the thirtieth day to make their pyre, and the tide had taken the ash, and the next tide the nails, and now there was only a place on the black sand above the wrack-line that was blacker than the rest, and flat, and a long rock at the head of it, where an old man had sat every night for a month. Thalassa had seen him there, she said, from the water, before she ever spoke to any of them: an old man by a burned ship, sitting on a rock, doing nothing. She had thought he was mourning someone. Marcus had not told her she was right.
+There was nothing there now but a place on the sand that was blacker than the rest, and a long rock at the head of it, where an old man had sat every night for a month. Thalassa had seen him there from the water, before she ever spoke to any of them. She had thought he was mourning someone. Marcus had not told her she was right.
 
-Nerva was not doing nothing tonight. He had a coil of new rope beside him on the rock and the end of it across his knees, and a fid, and he was putting an eye-splice into the end, tucking the strands in and over and under one at a time with the fid, slowly, by feel, with his eyes on the Grey. The black ship's tiller-ropes would want renewing, the engineer had said, before she sailed; the old ones were Tharsian, and her rudder had turned out sound, to his visible disappointment.
+Nerva had a coil of new rope on the rock beside him and was putting an eye-splice into the end of it, by feel, with his eyes on the Grey. Tiller-ropes for the black ship, the engineer had said.
 
-Marcus came down the beach and sat on the rock beside him. Not forty paces off. On the same rock, at the other end.
-
-Nerva did not look round. He tucked a strand.
-
-After a while Marcus reached over and took the standing part of the rope and held it taut, so that the old man could work the strands against it. Nerva's hands paused on the fid. Then they went on.
-
-They sat there. The sea came in a little and went out a little at the bottom of the beach, steaming, and the Grey lay out past the towers, yellow with the last of the light.
+Marcus sat down at the other end of the same rock. After a while he reached over and held the standing part taut, so that the old man could work the strands against it. Nerva's hands paused on the fid. Then they went on.
 
 "What did it look like," said Marcus. "From the water."
 
-The fid stopped.
+The fid stopped. Nerva did not say anything for so long that Marcus thought he would not.
 
-Nerva sat with it in his hand and the half-made splice across his knees, and did not say anything for so long that Marcus thought he would not. The light went out of the Grey, a little, and a little more. A gull walked along the wrack-line below them, looking at things, and went away.
-
-"Like a lamp going out one window at a time," said Nerva. "From the top down."
+"Like a lamp going out one window at a time," he said. "From the top down."
 
 Marcus held the rope.
 
-"I'd cleared the moles. I'd the boy in the hold, asleep, and the surgeon with him, and forty of the town in the waist that I'd taken off the quay at the last because there was room, and I'd the stair astern of me, up the hill. You could see it from the water. They'd lit it, the whole length, every landing, so the Hundred could see to fight. Torches. Like the windows of a tall house." He put the fid to the next strand, and did not tuck it. "And the top window went out. And then the next one under it. And the next. One at a time. Slow. And I could hear him, till about halfway down. *Tiberius.* Over all of it. Like a bell." He tucked the strand. "Then I couldn't."
-
-The sea came in a little, and went out.
+"I'd cleared the moles. I'd the boy in the hold, asleep, and the surgeon with him, and forty of the town in the waist, and the stair astern of me, up the hill. They'd lit it, the whole length, every landing, so the Hundred could see to fight. Like the windows of a tall house." He put the fid to the next strand, and did not tuck it. "And the top window went out. And then the next one under it. One at a time. Slow. And I could hear him, till about halfway down. *Tiberius.* Over all of it. Like a bell." He tucked the strand. "Then I couldn't."
 
 "And you held the course," said Marcus.
 
-"I held the course." The old captain's hands were steady on the splice. "I've held it every night since, Highness. In a cell, mostly."
+"I held the course. I've held it every night since, Highness. In a cell, mostly."
 
-Marcus did not say anything. He held the rope.
+"On the *Audit*," said Marcus after a while, "you told me you'd done that once before. Raked a ship. *It wasn't on purpose.*"
 
-"On the *Audit*," he said after a while. "You told me you'd done that once before. Raked a ship. *It wasn't on purpose.*"
+Nerva drew a strand tight and looked at it.
 
-Nerva tucked a strand, and drew it tight, and looked at it.
+"In the narrows," he said. "That night, going out. Everything that would float was trying to get out at once, in the dark, with the red ships ramming in the mouth. A merchantman came across my bow out of the smoke, full to the rails with the town." He did not look up. "If I'd turned I'd have gone onto the rocks with the boy in the hold. So I put the helm over a hand's breadth and went down her side and took her oars off, every one. I heard them go." The fid went in, and out. "I don't know if she got out."
 
-"In the narrows," he said. "That night. Going out. The red ships were in the mouth of the harbor by then, in the smoke, ramming anything that moved; and everything was moving. Everything that would float was trying to get out through the narrows at once, in the dark." He drew the next strand through. "A big ship came across my bow out of the smoke. A merchantman. Full to the rails with the town. Rowing for the mouth, same as me." He did not look up. "I didn't turn. If I'd turned I'd have gone onto the rocks with the boy in the hold. So I didn't turn. I put the helm over a hand's breadth and went down her side and took her oars off, all down the one side, every one. I heard them go." The fid went in, and out. "I don't know if she got out."
-
-The Grey had gone dark. There was a lamp lit on the end of the east mole, and its light lay on the water in a long wavering line toward them, and stopped short of the beach.
-
-"The sea-woman," said Marcus, "says her people were in the narrows that night. Under the water. Her whole city." He looked at the lamp on the mole. "She says they pulled who they could to the beaches."
+"The sea-woman says her people were in the narrows that night," said Marcus. "Under the water. She says they pulled who they could to the beaches."
 
 Nerva's hands stopped.
 
 "Did they," he said. It was not a question.
 
-He sat there with the fid in one hand and the splice in the other, looking at the Grey; and Marcus sat at the other end of the rock with the rope taut in his hands, and did not look at him, and gave him the whole of the dark to look at it in.
+Marcus did not look at him, and gave him the whole of the dark to look at it in.
 
-He had come down the beach meaning to tell him. He had decided it in the stable, with the brush in his hand, somewhere about the off-side quarters: that this old man had sat three years in a cell for an order, and had a right to know whose order it was, and where it began. He had come down the black sand with it ready in his mouth, and his brother's paper inside his shirt. And he found now, sitting on the rock with the rope in his hands and the old man's silence beside him, that he could not say it. Not because it was too heavy. Because it was not his to set down. The order had been Titus's, and Titus was dead. But the warrant that had put this old man in a cell was the king's, signed in the king's own hand, in anger, on the night the king believed his son had run; and the king had let it stand three years after he knew better. If anyone was to come down a beach in the dark to an old man on a rock and set that down in front of him, it would have to be the one who had picked it up.
+He had come down the beach meaning to tell him whose order it was, with his brother's paper inside his shirt. He found now that he could not. Not because it was too heavy. Because it was not his to set down. The order had been Titus's, and Titus was dead. But the warrant that had put this old man in a cell was the king's, signed in anger on the night the king believed his son had run, and let stand three years after he knew better. If anyone was to come down a beach in the dark and set that down in front of him, it would have to be the one who had picked it up.
 
-He held the rope.
-
-"Gaius has a keel on the first slip," he said at last. "Oak. Doubled frames. He's fourth strake up, both sides, and the pegs are in." He paused. "Most of them. He says she'll be in the water by the spring, if nobody burns her."
-
-"I've seen her," said Nerva.
-
-"She'll need a captain."
+"Gaius has a keel on the first slip," he said at last. "She'll need a captain."
 
 The old man did not move.
 
 "She'll need a captain," said Marcus, "who doesn't turn round."
 
-The fid stopped, halfway through a strand. The old hands lay still on the splice, in the dark, for a long moment; long enough for the sea to come in once at the bottom of the beach, and steam, and go out. Then they went on. The strand went through, and was drawn tight, and the fid went in for the next one.
+The fid stopped, halfway through a strand, for as long as it took the sea to come in once at the bottom of the beach, and go out. Then it went on.
 
-"He's got her mast a hand too far forward," said Nerva. "On his drawing. I looked, this morning." He tucked the strand. "She'll gripe like a pig in a following sea. Tell him."
+"He's got her mast a hand too far forward," said Nerva. "On his drawing. She'll gripe like a pig in a following sea. Tell him."
 
 "Tell him yourself. He likes being told."
 
@@ -18057,9 +18159,7 @@ The fid stopped, halfway through a strand. The old hands lay still on the splice
 
 "No," said Marcus.
 
-Nerva finished the splice by feel, in the dark, and rolled the eye under his palm on his knee to bed it, the way a man rolls a pie-crust; and held out his hand for the rope, and coiled it on the rock, sunwise, without looking, with the splice on top.
-
-They stayed there a while longer, the two of them, at either end of the rock, in the dark, at the place where the *Clemency* had been, looking at the Grey. Neither of them said anything more about anything. After a time the tide turned, and began to come in up the black sand toward them, steaming, in long low ripples that whispered as they came; and Nerva got up, slowly, with the coil over his shoulder, and went up the beach toward the town without a word, and Marcus let him go.
+Nerva finished the splice in the dark and coiled the rope on the rock, sunwise, with the splice on top. After a time the tide turned and came up the black sand toward them, steaming, whispering as it came; and Nerva got up with the coil over his shoulder and went up the beach toward the town without a word, and Marcus let him go.
 
 ---
 
@@ -18083,21 +18183,17 @@ Near the bottom she came to the lines he had written without stopping, without c
 
 "Those aren't respect. They're what happened." She did not look up from the page. "He's a king. He can read what happened."
 
-Felix came up at the second hour of the night with a jug of hot water and a cup, and put them at Marcus's elbow, and stood there. Felix did not stand there; in six years Marcus had never once looked up and found him still in the room. He looked up.
+Felix came up at the second hour of the night with a jug of hot water, and stood there. In six years Marcus had never once looked up and found him still in the room.
 
-"Pen," said Felix, "the forger, Highness. Rufo's long-nosed one. He asked me to say." "He says, if Your Highness wishes it, he'll fair-copy the report. For the King. Tonight. He says he can do it in an hour in the chancery hand, the old one with the long tails, the one the palace clerks use; and no clerk on the Old Hill would know it from their own." Felix paused. "He says a king ought to get a page he can read, Highness, and he says it very respectfully."
+"Pen asks, Highness. He'll fair-copy the report for the King tonight, in the old chancery hand. No clerk on the Old Hill would know it from their own."
 
-Marcus looked down at the page under his hand. At his own writing on it, going up and down the lines like a drunk man walking home along a canal; the blots, the crossings-out, the *regret* struck through, the line about the wood crossed out and written in again above itself, smaller, between the lines.
+Marcus looked at his own writing, going up and down the lines like a drunk man walking home.
 
-"No," he said.
+"No. Tell him thank you." He looked at the page. "He'll want my hand. Even this one."
 
-Felix waited.
+Felix gave him the long grey look that had always before meant *I will get you home, Highness*. It meant something else tonight.
 
-"Tell him thank you. Tell him it's a kind thought." He looked at the page. "He'll want my hand," said Marcus. "Even this one."
-
-Felix gave him the long neat grey look that had always before meant *I will get you home, Highness, and we will not speak of this*. It meant something else tonight.
-
-"Yes, Highness," said Felix, and went; and was gone before the door shut, as he always was.
+"Yes, Highness," said Felix, and was gone before the door shut, as he always was.
 
 Alana did not say anything. She leaned on his arm and read.
 

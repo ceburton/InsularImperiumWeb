@@ -17,19 +17,20 @@
 11. [Chapter Ten: The Writ](#chapter-ten-the-writ)
 12. [Chapter Eleven: The Tally](#chapter-eleven-the-tally)
 13. [Chapter Twelve: Four in Five](#chapter-twelve-four-in-five)
-14. [Chapter Thirteen: The Boundary](#chapter-thirteen-the-boundary)
-15. [Chapter Fourteen: One Voice](#chapter-fourteen-one-voice)
-16. [Chapter Fifteen: The Measure](#chapter-fifteen-the-measure)
-17. [Chapter Sixteen: The Heart-Grove](#chapter-sixteen-the-heart-grove)
-18. [Chapter Seventeen: The Song Closes](#chapter-seventeen-the-song-closes)
-19. [Chapter Eighteen: Not an Angel](#chapter-eighteen-not-an-angel)
-20. [Chapter Nineteen: The Roof of the Sea](#chapter-nineteen-the-roof-of-the-sea)
-21. [Chapter Twenty: Two Runners](#chapter-twenty-two-runners)
-22. [Chapter Twenty-One: Slack Water](#chapter-twenty-one-slack-water)
-23. [Chapter Twenty-Two: The Wakening](#chapter-twenty-two-the-wakening)
-24. [Chapter Twenty-Three: The Warm Roads](#chapter-twenty-three-the-warm-roads)
-25. [Chapter Twenty-Four: Every Hull I Touched](#chapter-twenty-four-every-hull-i-touched)
-26. [Chapter Twenty-Five: A Day We Can Spare](#chapter-twenty-five-a-day-we-can-spare)
+14. [Chapter Thirteen: Two Wounds](#chapter-thirteen-two-wounds)
+15. [Chapter Fourteen: The Boundary](#chapter-fourteen-the-boundary)
+16. [Chapter Fifteen: One Voice](#chapter-fifteen-one-voice)
+17. [Chapter Sixteen: The Measure](#chapter-sixteen-the-measure)
+18. [Chapter Seventeen: The Heart-Grove](#chapter-seventeen-the-heart-grove)
+19. [Chapter Eighteen: The Song Closes](#chapter-eighteen-the-song-closes)
+20. [Chapter Nineteen: Not an Angel](#chapter-nineteen-not-an-angel)
+21. [Chapter Twenty: The Roof of the Sea](#chapter-twenty-the-roof-of-the-sea)
+22. [Chapter Twenty-One: Two Runners](#chapter-twenty-one-two-runners)
+23. [Chapter Twenty-Two: Slack Water](#chapter-twenty-two-slack-water)
+24. [Chapter Twenty-Three: The Wakening](#chapter-twenty-three-the-wakening)
+25. [Chapter Twenty-Four: The Warm Roads](#chapter-twenty-four-the-warm-roads)
+26. [Chapter Twenty-Five: Every Hull I Touched](#chapter-twenty-five-every-hull-i-touched)
+27. [Chapter Twenty-Six: A Day We Can Spare](#chapter-twenty-six-a-day-we-can-spare)
 
 ---
 
@@ -5973,6 +5974,8 @@ The wind did not come that day. At noon she wrote it in the book: *Wind, none.* 
 
 ---
 
+# Chapter Thirteen: Two Wounds
+
 **LIORA**
 
 The wind did not come, and so she had a day she had not counted on.
@@ -6475,7 +6478,7 @@ It came out of the Grey ahead of them, from the west. She put her face into it a
 
 ---
 
-# Chapter Thirteen: The Boundary
+# Chapter Fourteen: The Boundary
 
 **SYLARA**
 
@@ -6945,7 +6948,7 @@ Behind him the column let out its breath, ninety people and a horse, all at once
 
 ---
 
-# Chapter Fourteen: One Voice
+# Chapter Fifteen: One Voice
 
 **MARCUS**
 
@@ -7373,7 +7376,7 @@ And then, because that was true too, and because she had promised herself the mo
 
 ---
 
-# Chapter Fifteen: The Measure
+# Chapter Sixteen: The Measure
 
 **LIORA**
 
@@ -7977,7 +7980,7 @@ And under it, because it was true, and she had promised that too: *He used my na
 
 ---
 
-# Chapter Sixteen: The Heart-Grove
+# Chapter Seventeen: The Heart-Grove
 
 **MARCUS**
 
@@ -8491,7 +8494,7 @@ The mist was beginning to thin.
 
 ---
 
-# Chapter Seventeen: The Song Closes
+# Chapter Eighteen: The Song Closes
 
 **SYLARA**
 
@@ -9231,7 +9234,7 @@ She did not cross it out. You did not cross out a report; the wood needed to kno
 
 ---
 
-# Chapter Eighteen: Not an Angel
+# Chapter Nineteen: Not an Angel
 
 **GAIUS**
 
@@ -9877,7 +9880,7 @@ Then she put it away. There would be time. It was going to be, she suspected, wi
 
 ---
 
-# Chapter Nineteen: The Roof of the Sea
+# Chapter Twenty: The Roof of the Sea
 
 **THALASSA**
 
@@ -10485,7 +10488,7 @@ She turned and went up the beach and into the town, toward the light in the towe
 
 ---
 
-# Chapter Twenty: Two Runners
+# Chapter Twenty-One: Two Runners
 
 **AURELIAN**
 
@@ -11877,7 +11880,7 @@ He did not take it out. Marcus did not say anything else about it. They sat side
 
 ---
 
-# Chapter Twenty-One: Slack Water
+# Chapter Twenty-Two: Slack Water
 
 **MARCUS**
 
@@ -12925,7 +12928,7 @@ And then, for the first time since the pyre, without asking her leave, sleep.
 
 ---
 
-# Chapter Twenty-Two: The Wakening
+# Chapter Twenty-Three: The Wakening
 
 **LIORA**
 
@@ -14149,7 +14152,7 @@ It was warm, this time.
 
 ---
 
-# Chapter Twenty-Three: The Warm Roads
+# Chapter Twenty-Four: The Warm Roads
 
 **MARCUS**
 
@@ -15357,7 +15360,7 @@ And at her other side, without a sound, Kymon came and stood, with the sea still
 
 ---
 
-# Chapter Twenty-Four: Every Hull I Touched
+# Chapter Twenty-Five: Every Hull I Touched
 
 **ALANA**
 
@@ -16799,7 +16802,7 @@ Somebody had counted them first.
 
 ---
 
-# Chapter Twenty-Five: A Day We Can Spare
+# Chapter Twenty-Six: A Day We Can Spare
 
 **THALASSA**
 

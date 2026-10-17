@@ -27,6 +27,20 @@ export function pageForOffset(root: HTMLElement, offset: number, stride: number)
   return 0;
 }
 
+// Page holding the first visible character at or after `offset` within one element's text.
+export function pageForTextIn(root: HTMLElement, element: HTMLElement, offset: number, stride: number) {
+  let started = false;
+  for (const node of textNodes(element)) {
+    if (!started && offset >= node.length) { offset -= node.length; continue; }
+    for (let i = started ? 0 : offset; i < node.length; i++) {
+      const page = characterPage(root, node, i, stride);
+      if (page >= 0) return page;
+    }
+    started = true;
+  }
+  return -1;
+}
+
 export function offsetForPage(root: HTMLElement, page: number, stride: number) {
   let offset = 0;
   for (const node of textNodes(root)) {

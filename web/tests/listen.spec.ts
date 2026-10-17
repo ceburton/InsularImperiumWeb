@@ -150,19 +150,19 @@ test('narration continues into the next chapter and stops after the last', async
       await page.getByRole('button', { name: 'Pause listening' }).click();
     } else {
       await expect(page.getByRole('button', { name: 'Listen', exact: true })).toBeVisible({ timeout: 15000 });
-      expect(await page.evaluate(() => (window as unknown as { __locks: { active: number } }).__locks.active)).toBe(0);
+      expect(await page.evaluate(() => (window as unknown as { __locks: { active: number } }).__locks.active)).toBe(1);
     }
   }
 });
 
-test('wake lock follows playback and settings persist speed and English voices', async ({ page }) => {
+test('wake lock holds while reading and settings persist speed and English voices', async ({ page }) => {
   await fakeSpeech(page, 200);
   await openReader(page);
   const locks = () => page.evaluate(() => (window as unknown as { __locks: { active: number; requested: number } }).__locks);
-  await page.getByRole('button', { name: 'Listen', exact: true }).click();
   await expect.poll(async () => (await locks()).active).toBe(1);
+  await page.getByRole('button', { name: 'Listen', exact: true }).click();
   await page.getByRole('button', { name: 'Pause listening' }).click();
-  await expect.poll(async () => (await locks()).active).toBe(0);
+  expect((await locks()).active).toBe(1);
   await page.getByRole('button', { name: 'Aa Menu' }).click();
   const voice = page.getByRole('combobox', { name: 'Voice' });
   await expect(voice.locator('option')).toHaveText(['Automatic', 'Test English (en-US)', 'Test British (en-GB)']);
@@ -172,6 +172,23 @@ test('wake lock follows playback and settings persist speed and English voices',
   await page.getByRole('button', { name: 'Aa Menu' }).click();
   await expect(page.getByRole('combobox', { name: 'Listening speed' })).toHaveValue('1.5');
   await expect(page.getByRole('combobox', { name: 'Voice' })).toHaveValue('test-gb');
+});
+
+test('wake lock lets the screen sleep after 15 minutes without a scroll or page turn', async ({ page }) => {
+  await page.clock.install();
+  await fakeSpeech(page);
+  await openReader(page);
+  const active = () => page.evaluate(() => (window as unknown as { __locks: { active: number } }).__locks.active);
+  await expect.poll(active).toBe(1);
+  await page.clock.fastForward('14:00');
+  await page.getByRole('button', { name: 'Next page', exact: true }).click();
+  await page.clock.fastForward('14:00');
+  expect(await active()).toBe(1);
+  await page.clock.fastForward('01:01');
+  await expect.poll(active).toBe(0);
+  await page.mouse.move(200, 400);
+  await page.mouse.wheel(0, 100);
+  await expect.poll(active).toBe(1);
 });
 
 test('Listen is hidden without speech synthesis', async ({ page }) => {

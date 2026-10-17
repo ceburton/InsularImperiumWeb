@@ -28,6 +28,8 @@ function savePlace(settings: Settings, chapter: number, offset: number, listen: 
   try { localStorage.setItem(storageKey, JSON.stringify({ settings, chapter, offset, listen })); } catch { /* Storage is optional. */ }
 }
 
+const wakeIdleMs = 15 * 60 * 1000;
+
 async function acquireWakeLock(holder: { current: WakeLockSentinel | null }, wanted: () => boolean) {
   try {
     if (!('wakeLock' in navigator) || holder.current || document.visibilityState !== 'visible') return;
@@ -73,6 +75,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
   const listenPlace = useRef<ListenPlace>(null);
   const prefs = useRef({ rate: 1, voice: '' });
   const wakeLock = useRef<WakeLockSentinel | null>(null);
+  const keepAwake = useRef(() => {});
   // Narration runs from utterance callbacks, so it keeps its state in refs rather than React state.
   const narration = useRef({ playing: false, token: 0, paragraph: 0, chunk: 0, retries: 0, pending: '' as '' | 'page' | 'chapter', timer: 0, watchdog: 0, utterance: null as SpeechSynthesisUtterance | null });
 
@@ -304,7 +307,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
     n.playing = true;
     n.retries = 0;
     setListening(true);
-    void acquireWakeLock(wakeLock, () => n.playing);
+    keepAwake.current();
     const saved = listenPlace.current;
     if (saved?.chapter === chapter && paragraphVisible(saved.paragraph)) speak(saved.paragraph, saved.paragraph === n.paragraph ? n.chunk : 0);
     else speak(...firstOnPage());
@@ -319,7 +322,6 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
     window.clearTimeout(n.watchdog);
     window.speechSynthesis.cancel();
     setListening(false);
-    releaseWakeLock(wakeLock);
     savePlace(settings, chapter, anchor.current, listenPlace.current);
   }
 
@@ -357,21 +359,51 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
 
   useEffect(() => {
     const n = narration.current;
+    let mounted = true;
+    let idle = false;
+    let idleTimer = 0;
     const stop = () => {
+      mounted = false;
       n.playing = false;
       n.token++;
       window.clearTimeout(n.timer);
       window.clearTimeout(n.watchdog);
+      window.clearTimeout(idleTimer);
       try { window.speechSynthesis?.cancel(); } catch { /* Speech is optional. */ }
       releaseWakeLock(wakeLock);
     };
+    // Keep the screen awake while the reader is in use, listening or not, and let it sleep after 15 minutes without a scroll or page turn.
+    const goIdle = () => {
+      if (n.playing) { stillReading(); return; }
+      idle = true;
+      releaseWakeLock(wakeLock);
+    };
+    const stillReading = () => {
+      idle = false;
+      window.clearTimeout(idleTimer);
+      idleTimer = window.setTimeout(goIdle, wakeIdleMs);
+      void acquireWakeLock(wakeLock, () => mounted && !idle);
+    };
+    keepAwake.current = stillReading;
+    stillReading();
     const onPageHide = () => { if (n.playing) latest.current.stopListening(); };
-    // Browsers drop the wake lock whenever the tab is hidden.
-    const onVisibility = () => { if (document.visibilityState === 'visible' && n.playing) void acquireWakeLock(wakeLock, () => n.playing); };
+    // Browsers drop the wake lock whenever the tab is hidden, so coming back counts as reading.
+    const onVisibility = () => { if (document.visibilityState === 'visible') stillReading(); };
+    const scrolls = ['wheel', 'touchmove', 'scroll'] as const;
     window.addEventListener('pagehide', onPageHide);
     document.addEventListener('visibilitychange', onVisibility);
-    return () => { window.removeEventListener('pagehide', onPageHide); document.removeEventListener('visibilitychange', onVisibility); stop(); };
+    for (const type of scrolls) window.addEventListener(type, stillReading, { capture: true, passive: true });
+    return () => {
+      window.removeEventListener('pagehide', onPageHide);
+      document.removeEventListener('visibilitychange', onVisibility);
+      for (const type of scrolls) window.removeEventListener(type, stillReading, { capture: true });
+      keepAwake.current = () => {};
+      stop();
+    };
   }, []);
+
+  // Every page or chapter turn, whether by the reader or by narration, restarts the idle clock.
+  useEffect(() => { keepAwake.current(); }, [pagination.page, chapter]);
 
   useEffect(() => {
     if (!('mediaSession' in navigator)) return;

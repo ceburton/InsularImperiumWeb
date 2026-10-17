@@ -321,8 +321,11 @@ export default function MediaPage() {
           <div className="text-bronze-light text-xs uppercase tracking-[0.3em] mb-4">Stories of the archipelago</div>
           <h2 id="story-title" className="text-3xl md:text-4xl text-parchment mb-4" style={{ fontFamily: "'Cinzel', serif" }}>Insular Imperium</h2>
           <p className="text-parchment-dark text-xl max-w-2xl mb-6">The bells ring across Aeridor. A prince wakes in the Drowned Lantern, and his story begins. Step into the world behind Insular Imperium.</p>
-          <Link href="/media/story" className="inline-block rounded border border-bronze-light bg-bronze-light px-6 py-3 text-[#17130e] font-bold hover:bg-parchment transition-colors">Read the Story →</Link>
-          <p className="text-parchment-dark text-sm mt-4">Adjustable fonts · Dark and high contrast themes · Saved reading position</p>
+          <div className="flex flex-wrap gap-4">
+            <Link href="/media/story" className="inline-block rounded border border-bronze-light bg-bronze-light px-6 py-3 text-[#17130e] font-bold hover:bg-parchment transition-colors">Read the Story →</Link>
+            <Link href="/media/audiobook" className="inline-block rounded border border-bronze-light px-6 py-3 text-bronze-light font-bold hover:bg-bronze-light hover:text-[#17130e] transition-colors">Listen to the Audiobook →</Link>
+          </div>
+          <p className="text-parchment-dark text-sm mt-4">Adjustable fonts · Dark and high contrast themes · Saved reading position · Full audiobook, also as a podcast</p>
         </section>
 
         {/* Gallery Grid */}

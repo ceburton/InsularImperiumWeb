@@ -7,7 +7,9 @@
     "dev": "npm run dev --prefix web",
     "build": "npm run build --prefix web",
     "start": "npm run start --prefix web",
-    "lint": "npm run lint --prefix web"
+    "lint": "npm run lint --prefix web",
+    "audio:publish": "npm run audio:publish --prefix web",
+    "audio:prune": "npm run audio:prune --prefix web"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

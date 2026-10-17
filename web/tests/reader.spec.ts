@@ -70,17 +70,17 @@ test('fonts repaginate, bookmarks survive resize and reload, and one-page mode w
   await openReader(page, 1440, 900);
   await page.getByRole('button', { name: 'Next page', exact: true }).click();
   await page.getByRole('button', { name: 'Next page', exact: true }).click();
-  const before = await page.evaluate(() => JSON.parse(localStorage.getItem('sunstone-reader-v2')!));
+  const before = await page.evaluate(() => JSON.parse(localStorage.getItem('insular-reader-v2')!));
   await page.getByRole('button', { name: 'Aa Menu' }).click();
   await page.getByRole('combobox', { name: 'Font size', exact: true }).selectOption('32');
   await page.getByRole('combobox', { name: 'Line spacing', exact: true }).selectOption('2.1');
   await page.getByRole('button', { name: 'Back to the book' }).click();
-  await expect.poll(() => page.evaluate(() => JSON.parse(localStorage.getItem('sunstone-reader-v2')!).settings.size)).toBe(32);
+  await expect.poll(() => page.evaluate(() => JSON.parse(localStorage.getItem('insular-reader-v2')!).settings.size)).toBe(32);
   await assertFits(page);
   await page.setViewportSize({ width: 390, height: 844 });
   await expect(page.locator('.reader-book')).not.toHaveClass(/reader-spread/);
   await assertFits(page);
-  const after = await page.evaluate(() => JSON.parse(localStorage.getItem('sunstone-reader-v2')!));
+  const after = await page.evaluate(() => JSON.parse(localStorage.getItem('insular-reader-v2')!));
   expect(after.offset).toBeGreaterThan(0);
   expect(after.offset).toBe(before.offset);
   const position = await page.locator('.reader-page-status').textContent();
@@ -96,7 +96,7 @@ test('fonts repaginate, bookmarks survive resize and reload, and one-page mode w
 });
 
 test('largest fonts fit short screens and all chapter openings', async ({ page }) => {
-  await page.addInitScript(() => localStorage.setItem('sunstone-reader-v2', JSON.stringify({ settings: { font: 'sans', size: 32, spacing: 2.1 }, chapter: 0, offset: 0 })));
+  await page.addInitScript(() => localStorage.setItem('insular-reader-v2', JSON.stringify({ settings: { font: 'sans', size: 32, spacing: 2.1 }, chapter: 0, offset: 0 })));
   await openReader(page, 844, 390);
   for (let chapter = 0; chapter < 13; chapter++) {
     await page.getByLabel('Choose chapter').selectOption(String(chapter));
@@ -130,7 +130,7 @@ test('page turns cross chapter boundaries in both directions and finish at the e
 });
 
 test('every chapter ending remains reachable with large text', async ({ page }) => {
-  await page.addInitScript(() => localStorage.setItem('sunstone-reader-v2', JSON.stringify({ settings: { font: 'mono', size: 32, spacing: 2.1 }, chapter: 0, offset: 0 })));
+  await page.addInitScript(() => localStorage.setItem('insular-reader-v2', JSON.stringify({ settings: { font: 'mono', size: 32, spacing: 2.1 }, chapter: 0, offset: 0 })));
   await openReader(page, 390, 844);
   for (let chapter = 0; chapter < 12; chapter++) {
     await page.getByLabel('Choose chapter').selectOption(String(chapter + 1));

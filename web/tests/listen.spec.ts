@@ -40,7 +40,7 @@ async function fakeSpeech(page: Page, delay = 15) {
 }
 
 async function openReader(page: Page, theme = 'charcoal') {
-  await page.addInitScript(theme => { if (!localStorage.getItem('sunstone-reader-v2')) localStorage.setItem('sunstone-reader-v2', JSON.stringify({ settings: { theme }, chapter: 0, offset: 0 })); }, theme);
+  await page.addInitScript(theme => { if (!localStorage.getItem('insular-reader-v2')) localStorage.setItem('insular-reader-v2', JSON.stringify({ settings: { theme }, chapter: 0, offset: 0 })); }, theme);
   await page.setViewportSize({ width: 412, height: 915 });
   await page.goto('/media/story');
   await expect(page.locator('.reader-page-status')).toContainText(/Page \d/);
@@ -48,7 +48,7 @@ async function openReader(page: Page, theme = 'charcoal') {
 }
 
 const spoken = (page: Page) => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.slice());
-const saved = (page: Page) => page.evaluate(() => JSON.parse(localStorage.getItem('sunstone-reader-v2')!));
+const saved = (page: Page) => page.evaluate(() => JSON.parse(localStorage.getItem('insular-reader-v2')!));
 const status = (page: Page) => page.locator('.reader-page-status > span');
 
 async function highlightVisible(page: Page) {
@@ -68,7 +68,7 @@ for (const theme of ['charcoal', 'light']) {
     await expect.poll(() => spoken(page)).toContain('Marcus.');
     const first = await spoken(page);
     expect(first[0]).toBe('Chapter One: The Drowned Lantern');
-    expect(first.join(' ')).not.toMatch(/[*_]|Preparing|Page \d|SUNSTONE SAGA/);
+    expect(first.join(' ')).not.toMatch(/[*_]|Preparing|Page \d|INSULAR IMPERIUM/);
     await expect(page.locator('.reader-speaking')).toHaveCount(1);
     const fits = await page.evaluate(() => [...document.querySelectorAll('.reader-toolbar > *')].every(e => { const r = e.getBoundingClientRect(); return r.left >= 0 && r.right <= innerWidth; }));
     expect(fits).toBe(true);

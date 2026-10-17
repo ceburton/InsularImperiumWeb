@@ -16,8 +16,11 @@ const themes = {
 };
 const fonts = { serif: 'Georgia, serif', garamond: "'EB Garamond', Georgia, serif", sans: 'Arial, sans-serif', mono: "'Courier New', monospace" };
 const defaults = { theme: 'charcoal', font: 'serif', size: 21, spacing: 1.8, width: 700, layout: 'auto' };
-const storageKey = 'sunstone-reader-v2';
-const voiceKey = 'sunstone-reader-voice';
+const storageKey = 'insular-reader-v2';
+const voiceKey = 'insular-reader-voice';
+// Keys used before the story was renamed from The Sunstone Saga; read once so saved progress carries over.
+const legacyStorageKeys = ['sunstone-reader-v2', 'sunstone-reader-v1'];
+const legacyVoiceKey = 'sunstone-reader-voice';
 const rates = [0.75, 1, 1.25, 1.5, 1.75, 2];
 const gap = 64;
 type Pagination = { page: number; total: number; columns: number; stride: number };
@@ -82,7 +85,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
   useEffect(() => {
     const frame = requestAnimationFrame(() => {
       try {
-        const saved = JSON.parse(localStorage.getItem(storageKey) || localStorage.getItem('sunstone-reader-v1') || 'null');
+        const saved = JSON.parse([storageKey, ...legacyStorageKeys].map(k => localStorage.getItem(k)).find(Boolean) || 'null');
         if (saved) {
           const s = saved.settings || {};
           setSettings({
@@ -101,7 +104,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
         }
       } catch { /* Storage is optional. */ }
       try {
-        const v = JSON.parse(localStorage.getItem(voiceKey) || 'null');
+        const v = JSON.parse(localStorage.getItem(voiceKey) || localStorage.getItem(legacyVoiceKey) || 'null');
         if (v) {
           prefs.current = { rate: rates.includes(v.rate) ? v.rate : 1, voice: typeof v.voice === 'string' ? v.voice : '' };
           setVoicePrefs(prefs.current);
@@ -409,7 +412,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
     if (!('mediaSession' in navigator)) return;
     const session = navigator.mediaSession;
     try {
-      if (listening) session.metadata = new MediaMetadata({ title: chapters[chapter]?.title, artist: 'The Sunstone Saga', album: 'Insular Imperium' });
+      if (listening) session.metadata = new MediaMetadata({ title: chapters[chapter]?.title, artist: 'Insular Imperium', album: 'Insular Imperium' });
       session.playbackState = listening ? 'playing' : 'paused';
       session.setActionHandler('play', () => { if (!narration.current.playing) latest.current.startListening(); });
       session.setActionHandler('pause', () => { if (narration.current.playing) latest.current.stopListening(); });
@@ -451,7 +454,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
     <div className="story-reader" style={{ '--reader-bg': theme.background, '--reader-fg': theme.color, '--reader-accent': theme.accent, colorScheme: ['light', 'sepia'].includes(settings.theme) ? 'light' : 'dark' } as CSSProperties}>
       <header className="reader-toolbar">
         <Link href="/media">← Media</Link>
-        <span className="reader-brand">The Sunstone Saga</span>
+        <span className="reader-brand">Insular Imperium</span>
         <div className="reader-toolbar-actions">
           {canSpeak && <button className="reader-listen" disabled={!pagination.stride} onClick={toggleListening} aria-label={listening ? 'Pause listening' : 'Listen'}>{listening ? '⏸︎' : '▶︎'} <span>{listening ? 'Pause' : 'Listen'}</span></button>}
           {listening && <button onClick={() => setDim(true)} aria-label="Dim mode" title="Dim the screen while listening">◐ <span>Dim</span></button>}
@@ -467,7 +470,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
         <div ref={pageArea} className="reader-page-area" style={{ maxWidth: settings.width * (settings.layout === 'single' ? 1 : 2) + (settings.layout === 'single' ? 0 : gap) }}>
         <div ref={viewport} className={`reader-book ${pagination.columns === 2 ? 'reader-spread' : ''}`}>
           <article ref={article} className="reader-prose" aria-label={chapters[chapter]?.title} style={{ fontFamily: fonts[settings.font as keyof typeof fonts], fontSize: settings.size, lineHeight: settings.spacing, transform: `translateX(-${pagination.page * pagination.stride}px)`, visibility: ready && pagination.stride ? 'visible' : 'hidden' }}>
-            <p className="reader-eyebrow">THE SUNSTONE SAGA</p>
+            <p className="reader-eyebrow">INSULAR IMPERIUM</p>
             <h1>{chapters[chapter]?.title}</h1>
             {markdown}
           </article>

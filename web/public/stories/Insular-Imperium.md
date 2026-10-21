@@ -210,13 +210,13 @@ Marcus looked up at him. "Did he stand in this one? I don't remember seeing his 
 
 Roderic had time to think, quite clearly, *Well, that's done it,* and then Marcus came over the table.
 
-He went straight through it, cups and trenchers and a roasted goose flying up around him, and his shoulder took Ursus under the ribs like a ram taking a gate. They went down together in a crash of benches. The hall erupted. Women shrieked. Somebody's dog fled under the high table with the goose.
+He went straight through it, cups and trenchers and a roasted goose flying up around him, and his shoulder took Ursus under the ribs like a ram taking a gate. Drunk or not, he moved like a hunting cat. Three years of wine had not yet got at the frame Roderic had built in the yard: the long legs and the lean hard waist, the shoulders that had filled out at eighteen and stayed, the quick heavy hands of a swordsman. They went down together in a crash of benches. The hall erupted. Women shrieked. Somebody's dog fled under the high table with the goose.
 
 The other nine came in.
 
 Roderic sighed, set down his cup, and stood.
 
-His knees cracked. His back reminded him, as it did every winter, of the Tharsian halberd that had found it on the Long Field nineteen years ago. He paid it no mind. He had fought with worse backs and less reason.
+He came up off the bench the way a bull gets up out of a field, all of a piece and without hurry: a big man, a head taller than any of Varro's young knights, deep through the chest and thick through the shoulder, with the heavy wrists of a man who had swung a cavalry sword for thirty years, and the mourning black stretched over muscle the years had made harder rather than softer. His back reminded him, as it did every winter, of the Tharsian halberd that had found it on the Long Field nineteen years ago. He paid it no mind. He had fought with worse backs and less reason.
 
 The first knight to reach him was young and fast and stupid, and came in with both fists high. Roderic took the bench beside him by one end and swung it, low and flat, like a scythe through wheat. It took the young knight across both shins and he went over it face-first into the rushes. Two.
 
@@ -240,7 +240,7 @@ They went back to back without a word, the way he'd taught him in the yard when 
 
 Afterward, Roderic could never quite remember the order of it. He remembered the fire iron coming down and the candlestick going up to meet it, iron on iron, the shock of it singing up his arm into his bad shoulder. He remembered putting the man with the carving knife into the fire, briefly, just the seat of his breeches, and the howl he made. He remembered Marcus seizing a knight by the belt and the hair and running him the full length of the high table, through the salt and the bread and the funeral wine, and off the end into the screen, which fell, and showed the servants' passage behind, full of wide-eyed cooks.
 
-He remembered one man left. The last one stood in the middle of the floor with his fists up and looked around at his nine friends groaning in the rushes, and at the old general with the bent candlestick, and at the prince with blood running down his chin and his teeth showing.
+He remembered one man left. The last one stood in the middle of the floor with his fists up and looked around at his nine friends groaning in the rushes, and at the big grey general with the bent candlestick, and at the prince with blood running down his chin and his teeth showing.
 
 The last man lowered his fists. He bowed, quite correctly, to the prince. Then he turned and walked out of the hall.
 
@@ -276,7 +276,7 @@ He turned to the hall, to the lords and the guards and the cooks in the passage,
 
 "No," the king agreed. "It can't."
 
-He walked out. The guards closed around the prince and the general like a fist.
+He walked out. The guards closed around the prince and the general.
 
 In the passage behind the fallen screen, Felix looked down at the black cloak bundled in his arms, still damp from the canal, and then up at the ceiling, and Roderic heard him say to no one at all:
 
@@ -302,7 +302,7 @@ Marcus had gone very still.
 
 "Highness." She gave him the bow a scholar gives a lectern. "You've blood on your chin."
 
-He wiped it with the back of his hand and only spread it. Roderic watched the boy's face and saw, with the small sour pleasure of the old, that he was remembering.
+He wiped it with the back of his hand and only spread it. Roderic watched the boy's face and saw, with a small sour pleasure, that he was remembering.
 
 Roderic remembered too. The summer the Corvus delegation had come to court, when the war was still a rumor and the academy still stood. A girl of fifteen with ink on her hands even then, following the second prince through the gardens with a book under her arm, laughing too loudly at his jokes. The sonnet she had written him, which he had read aloud at the high table to a roar of laughter, doing her voice. The Midwinter dance, three years after, when she had crossed the whole length of the Lesser Hall to stand before him in a violet gown she must have saved a year to buy, with her chin up over it like a banner over a wall, and he had looked straight through her and asked the herald's daughter instead. Roderic had seen the girl walk back across that floor. He had seen soldiers walk back from worse with straighter shoulders, but not many.
 
@@ -328,7 +328,7 @@ Alana turned to Felix as if the prince had already been dismissed, which he had.
 
 "Not a lady. A chair." She stepped back over the screen and into the dark of the passage. Her footsteps went away briskly over the flagstones, unhurried and absolutely certain, the tread of someone who had already decided where she was going and did not care who followed.
 
-Marcus stood where she had left him, bleeding into his collar. He did not answer. He did not argue. He only looked at the dark doorway for a long moment, and then down at his own split knuckles, the way a man looks at a bill he knows is his.
+Marcus stood where she had left him, bleeding into his collar. He did not answer. He did not argue. He only looked at the dark doorway, and then down at his own split knuckles, the way a man looks at a bill he knows is his.
 
 Roderic picked up the bent candlestick again, looked at it, and set it on the high table with the others, where it leaned like a drunk.
 
@@ -404,7 +404,7 @@ That was the one she had said aloud in the hall. It had the merit of being true.
 
 *Two. The subject is twenty-three years old, has lost her home, her chair, her library and every student she ever had, and is still, after eight years and a sonnet read aloud in somebody else's voice, pathetically attracted to Marcus of Aeridor.*
 
-She stood quite still in the middle of the bridge and made herself look at that one. A scholar does not get to skip the ugly line in the proof.
+She stood in the middle of the bridge and made herself look at that one. A scholar does not get to skip the ugly line in the proof.
 
 He had come over the table like a storm coming over a seawall. She had watched it through the gap in the screen, the goose flying, the great red-bearded oaf going down under him, and something in her chest had gone tight and hot that was not, if she was being precise, entirely disapproval. And afterwards, the blood on his chin. *I haven't earned it.* She had wanted, for one appalling breath, to wipe it off for him.
 
@@ -524,7 +524,7 @@ It was not a cohort. It was what a city sweeps out of its corners. Marcus walked
 
 Halfway along the third ten there was a man who stood differently.
 
-It was a small thing. Nobody else would have marked it. The rest of the ten slumped in their chains the way chained men slump, every one his own shape, but this one had his feet set a shoulder apart and his weight a little forward on them, and his left arm held slightly crooked at the elbow as though it still remembered the weight of a shield-boss. He was perhaps thirty. Grey come early into a short black beard. A soldier's tan, faded to a prisoner's yellow.
+It was a small thing. Nobody else would have marked it. The rest of the ten slumped in their chains the way chained men slump, every one his own shape, but this one had his feet set a shoulder apart and his weight a little forward on them, and his left arm held slightly crooked at the elbow as though it still remembered the weight of a shield-boss. He was perhaps thirty. Grey come early into a short black beard. A soldier's tan, faded to a prisoner's yellow. The gaol had taken the flesh off him and left the frame, and the frame was a front-rank man's: tall, nearly of a height with the General, broad and flat across the back as a gate, with a bull's neck and forearms roped from wrist to elbow by ten years of carrying a shield on the march and putting it into other men's faces at the end of it.
 
 Marcus stopped in front of him.
 
@@ -682,7 +682,7 @@ He opened his hands. They hurt, doing it.
 
 "Can you sail her?" he said, and jerked his head at the *Clemency*.
 
-Nerva looked past him at the ship for a long moment. His eyes went up the new mast and down along the weeded strakes and the oar-ports, half of them still boarded up, and back to the stern, where the steering oar hung in its yoke at a sullen angle like a broken arm.
+Nerva looked past him at the ship. His eyes went up the new mast and down along the weeded strakes and the oar-ports, half of them still boarded up, and back to the stern, where the steering oar hung in its yoke at a sullen angle like a broken arm.
 
 "I can sail anything that floats," the captain said at last. "Whether she floats is another question. I'll want caulkers. I'll want pitch. I'll want the starboard steering oar off her and looked at by a man who knows what he's looking at, because I don't like the angle of her." He paused. "And I'll want stones, Highness. You don't take a ship into the Grey on dead reckoning. Not unless you mean to stay there."
 
@@ -838,7 +838,7 @@ But he had turned his head to watch the General go, and there it was. Short and 
 
 She took her eyes off it. She put them on the sea, firmly, as she would have put a book back on a shelf. Her hands were cold in her sleeves, and the borrowed cloak smelled of somebody else's pipe, and the violet hem of her robe had gone black with wet and weighed on her ankles like a pair of fetters.
 
-Higher up it was worse, or better. Where the cloak gaped, the sleet had got into the silk and laid it against her like a second skin, so that anyone who cared to look would know the exact shape of her from the hip down. Corvus silk, the academy's last bolt. She had had it cut to be looked at, once, in a house of learning that had since burned to the cellars, and she found, with some annoyance, that she did not altogether mind it still doing its work, even here, even for an audience of sleet and one prince who was not looking.
+Higher up it was worse, or better. Where the cloak gaped, the sleet had got into the silk and laid it against her like a second skin, cold as a slate, and printed the exact shape of her from the hip down. Corvus silk, the academy's last bolt, cut to be looked at once, in a house of learning that had since burned to the cellars. It had not been cut for sleet. It clung at every step and dragged at her knees, and she crossed the deck in it with the short careful stride of a woman wading, for an audience of sleet and one prince who was not looking.
 
 The trunk was below. In the stern cabin, under the bench, lashed down by the servant with knots she had checked and then retied. She could feel it there, under her feet, through the planking. She knew she could not. It was half a ship away and wrapped in oilcloth and iron. She could feel it all the same, the way one feels a person standing behind one in an empty room.
 
@@ -903,8 +903,6 @@ He thought of Titus on his bier with his hair combed. He thought of Roderic's ba
 Two hundred and twelve. Ninety-one. One.
 
 The ship boomed down into a trough, and came up, and boomed down again, and the snow came over the rail in a long white breath, and the light was going. Somewhere ahead in the dark, two days or three, Cyrene was burning, or had finished burning, and the dead were waiting for him in the water off its beaches with weed in their hair.
-
-His hands were shaking. He let them.
 
 He closed his fist on the stone, and turned his back on it, and stood at the rail facing the way they were going, alone, while the snow came down on the *Clemency* and covered the deck and his boots and his shoulders, and the night came down behind it.
 
@@ -972,7 +970,7 @@ There was a chest in the waist by the mainmast, an iron-strapped thing with the 
 
 "Gladii," Roderic went on, low. "And I'll wager there's not one in that chest without rust in the fuller. Spears with the heads gone loose. Shields, condemned." He turned one over with his boot from the stack against the mast. The faded red *XIV* by the boss looked back at them both: the Fourteenth's, out of the arsenal's back rooms, from some winter before Hollowmere. "Some clerk cleared his books with this, Highness, and he smiled to do it."
 
-"Then we'll be the best-armed condemned men on the sea." Marcus lifted a sword out of the chest, a short legion blade in a split scabbard, and drew it a hand's breadth, and looked at the bloom of rust along the edge, and slid it home. "The dead don't care what a man was sent down for. When they come over the side I'd like him to have something sharper than his opinion."
+"Then we'll be the best-armed condemned men on the sea." Marcus lifted a sword out of the chest, a short legion blade in a split scabbard, and half drew it, and looked at the bloom of rust along the edge, and slid it home. "The dead don't care what a man was sent down for. When they come over the side I'd like him to have something sharper than his opinion."
 
 "And if he comes over the side at *you*? With your iron?"
 
@@ -990,7 +988,7 @@ Roderic looked at the hands, and then away, out over the ice, as if something th
 
 "You've sorted more men than I've met." Marcus got up. He swayed as he did it, and caught himself on the chest, and saw Roderic's hand come out from his side, quick as a striking adder, and stop, and go back. "Show me how."
 
-The old man looked at him for a long moment. Then he grunted, and unfolded his arms, and turned to the waist, and filled his chest, and Marcus heard the voice come up out of him that had carried across the Long Field nineteen years ago and had never in his life needed a herald.
+Roderic looked at him for a long moment. Then he grunted, and unfolded his arms, and turned to the waist, and filled his chest, and Marcus heard the voice come up out of him that had carried across the Long Field nineteen years ago and had never in his life needed a herald.
 
 "*On your feet! All of you! Stand up, you sick dogs, stand up and come aft, in your tens, the way they chained you! Move!*"
 
@@ -998,7 +996,7 @@ The old man looked at him for a long moment. Then he grunted, and unfolded his a
 
 It took the whole of the morning.
 
-Roderic did it the way he would have sorted remounts at a horse fair: by walking down the line and looking, and looking again, and saying very little. He made every man hold out his hands, palms up, and he read them the way a priest reads a liver. *Oar. Oar. Plough. Hammer, that one. Nothing, you've never worked a day.* A man with soft palms and an inky middle finger was a clerk, and a clerk would be no use in a line until somebody had frightened him properly. A man with a hard ridge across the inside of his fingers had held reins, and Roderic stopped in front of him and looked at him a long time.
+Roderic did it the way he would have sorted remounts at a horse fair: by walking down the line and looking, and looking again, and saying very little. He made every man hold out his hands, palms up, and he read them. *Oar. Oar. Plough. Hammer, that one. Nothing, you've never worked a day.* A man with soft palms and an inky middle finger was a clerk, and a clerk would be no use in a line until somebody had frightened him properly. A man with a hard ridge across the inside of his fingers had held reins, and Roderic stopped in front of him and looked at him a long time.
 
 "Horses?"
 
@@ -1056,7 +1054,7 @@ So they came to the chest, one at a time, and he gave each man his blade and sai
 
 One man did not come. He sat on his bench in the third ten with his face to the hull and his hands between his knees, and when Rufo went and stood over him he did not look up, and Rufo came back and shook his head. Nobody near him knew what he was called. Marcus looked at the back of his neck for a while, and let him be.
 
-Roderic watched him do it. When it was done, and the chest was empty, and the last of the cohort had gone back to the benches with rust on his palms and his name in the prince's mouth, the old man said, not looking at him:
+Roderic watched him do it. When it was done, and the chest was empty, and the last of the cohort had gone back to the benches with rust on his palms and his name in the prince's mouth, the General said, not looking at him:
 
 "Where did you learn to sort men like that?"
 
@@ -1182,13 +1180,13 @@ She turned and looked at him then, because she wanted to see whether he knew wha
 
 She looked back at the fog.
 
-"They do not want anything," she said. "That is the first thing, and the thing nobody believes. People want them to be hungry, or angry, or sorry. They are none of those things. They are bodies that have been given an instruction. Lucan's priests, or Livia, or whatever is in the Spire that taught them, take a dead thing and write a sentence into it, the way you write on a wax tablet, and it does the sentence until the wax is gone." She heard her own voice steady as she went, as it always steadied, the way a horse steadies on a road it knows. "The sentence is short. *Walk. Hold. Kill what lives.* They cannot read it themselves. They cannot argue with it. They do not tire, and they do not feel the cold. The cold *keeps* them. The cold is why the war goes as it does in winter."
+"They do not want anything," she said. "That is the first thing, and the thing nobody believes. People want them to be hungry, or angry, or sorry. They are none of those things. They are bodies that have been given an instruction. Lucan's priests, or Livia, or whatever is in the Spire that taught them, take a dead thing and write a sentence into it, the way you write on a wax tablet, and it does the sentence until the wax is gone." She heard her own voice steady as she went, as it always steadied. "The sentence is short. *Walk. Hold. Kill what lives.* They cannot read it themselves. They cannot argue with it. They do not tire, and they do not feel the cold. The cold *keeps* them. The cold is why the war goes as it does in winter."
 
 "And the water."
 
 "The water they cannot write on. That is the one mercy in it." She was quiet a moment. "Whatever drowns stays drowned. The deep keeps its own ledger, the sailors say, and for once the sailors are right. Not Lucan's priests, not Livia, not anyone has ever raised a man the sea took." She paused. "So they do the other thing. They raise the dead on land, and then they walk them into the water. Down the beach and under. In a ford. In a harbor mouth. They leave them standing on the bottom of the sea, in the dark, in the cold that keeps them, wherever they are useful, for as long as the sentence lasts. At Corvus they walked the dead down the slipways into the harbor and left them there for a week. The fishermen who came out after saw them at low water. In rows."
 
-He did not say anything. His hands had stopped knocking. She looked and saw that he had closed them on the rail, hard, until the knuckles stood out.
+He did not say anything. She looked and saw that he had closed his hands on the rail, hard, until the knuckles stood out.
 
 "Steel slows them," she said. "Steel takes off the parts that hold the sword. It does not rub out the sentence. Fire does, mostly. Fire takes the tablet away." She drew her right hand out of her sleeve and turned it palm up between them, in the last of the light, and showed him the small white burn across the ball of her thumb. "Fire with a particular sign on it does it better. I found that at Hollowmere, in a ditch, on a man who had been a carter. I don't know why it works. I have three theories and no time. I know that it does."
 
@@ -1244,7 +1242,7 @@ She turned from the rail. She went down the deck toward the hatch, briskly, the 
 
 By the first watch they were in the Grey, and the world had gone.
 
-He had sailed in fog before. Every man of the isles had. He had stood at the rails of troopships and seen the sea smoke close around them like a fist and open again a mile on, and he had thought he knew what it was. He had not known. This was not a fog that lay on the water. It was a fog that *was* the water, that came up off it in slow, enormous, yellow-grey breaths and took the ship in and did not let it go. It stank of struck matches and rotten eggs and, under those, the hot wet mineral breath of Cyrene's spring, an island he could not see, exhaling somewhere ahead of them in the dark. The lantern at the stern made a ball of dirty gold about the length of a man's arm, and beyond the ball there was nothing. Not dark. Dark would have been honest. It was a soft, endless, faintly luminous nothing, the color of an old man's eye.
+He had sailed in fog before. Every man of the isles had. He had stood at the rails of troopships and seen the sea smoke close around them and open again a mile on, and he had thought he knew what it was. He had not known. This was not a fog that lay on the water. It was a fog that *was* the water, that came up off it in slow, enormous, yellow-grey breaths and took the ship in and did not let it go. It stank of struck matches and rotten eggs and, under those, the hot wet mineral breath of Cyrene's spring, an island he could not see, exhaling somewhere ahead of them in the dark. The lantern at the stern made a ball of dirty gold about the length of a man's arm, and beyond the ball there was nothing. Not dark. Dark would have been honest. It was a soft, endless, faintly luminous nothing, the color of an old man's eye.
 
 The cold had changed too. They had come out of the ice-sea into warmer water, and the air was not so bitter now, but it was wet. It got into the wool and the leather and the joints of a man's fingers, and it clung.
 
@@ -1478,7 +1476,7 @@ When it was done she stood up, and took the lantern off its hook at the stern ra
 
 "*Down!*" he bellowed. "*Every man down! On your faces! Now!*"
 
-And the cohort went down. All of them. Rufo's ring folded inward and dropped behind the shields like a fist closing, and the drowned dead stood over them for a moment, swaying, in the gold-sheened waist, with nothing to push against.
+And the cohort went down. All of them. Rufo's ring folded inward and dropped behind the shields, and the drowned dead stood over them for a moment, swaying, in the gold-sheened waist, with nothing to push against.
 
 She dropped the lantern onto the sign.
 
@@ -1528,7 +1526,7 @@ Rufo had found a split of ash from a broken oar-loom. He sat on the lid of the a
 
 And the drowned of Cyrene, whom nobody would count at all.
 
-Marcus stood by the mainmast when it was done, and found that his hands had started again. A small tremor, a plucked string. It had come back sometime after the fire went out. The bells had stopped, though. He did not know when. He listened for them and there was only the sea, and the creak of the old ship, and far off, on the port bow, the long low sigh of surf on rock.
+Marcus stood by the mainmast when it was done, and found that he had put his hands under his arms again. It had come back sometime after the fire went out. The bells had stopped, though. He did not know when. He listened for them and there was only the sea, and the creak of the old ship, and far off, on the port bow, the long low sigh of surf on rock.
 
 He took the oilskin packet out of his tunic.
 
@@ -1564,7 +1562,7 @@ He looked at it. It was not enough. It would never be enough.
 
 She took back the book and the pen, and closed the book, and put it inside her cloak against her ribs. And she did not leave. She stood beside him at the mast, a hand's breadth off, and looked forward with him into the thinning grey.
 
-He felt her there the way he had felt the fire go out in the night, all at once, by the warmth. There was ash on her cheek. She had not noticed it. Her bandaged hand was held a little away from her body, the way people hold a hurt they mean to ignore, and her eyes were red, and she was looking at Cyrene's fog with the same patient, measuring attention she gave to casks and weather and the dead, as if it were one more sum that would come out if she only worked it long enough.
+He felt her there the way he had felt the fire go out in the night, all at once, by the warmth. There was ash on her cheek. She had not noticed it. Her bandaged hand was held a little away from her body, and her eyes were red, and she was looking at Cyrene's fog with the same patient, measuring attention she gave to casks and weather and the dead, as if it were one more sum that would come out if she only worked it long enough.
 
 The fire had taken her hem off at the knee. Below the black fringe of burned silk her leg was bare to the ankle, long and pale and streaked with soot, the knee skinned pink where she had knelt on the flames, and the oil had dried into the rest of the robe and left it lying on her as close as a hand, at the waist, along the small of her back. He had seen her a dozen ways since the quay, inky and shabby and lost in a borrowed sea-cloak, and once on a ladder in the cold with her hair coming out of its pins, and every time he had looked away, as if looking were a debt he had no right to run up. He did not look away now. If she knew it, and he thought she did, she did not trouble to pull the ruined silk straight.
 
@@ -1576,7 +1574,7 @@ He did nothing. He stood beside her and said nothing, and let her stand there, a
 
 The fog was lifting.
 
-It went the way the Grey went near an island in the first of the morning, Nerva had told him: not all at once, but in rents and tatters, torn open by the land-wind coming down off the hills, so that pieces of the world appeared and vanished like things glimpsed through a moving crowd. A stretch of black water, glassy, with a single gull riding it. A line of white where the swell broke on a reef. And then, all at once, as if a curtain had been dragged aside, the headland.
+It went the way the Grey went near an island in the first of the morning, Nerva had told him: not all at once, but in rents and tatters, torn open by the land-wind coming down off the hills, so that pieces of the world appeared and vanished like things glimpsed through a moving crowd. A stretch of black water, glassy, with a single gull riding it. A line of white where the swell broke on a reef. And then, as if a curtain had been dragged aside, the headland.
 
 It stood up out of the sea a mile off the port bow, black and sheer, a broken tooth of basalt against a sky only a little less black than itself. At its crown there was a fort, a squat dark shape of walls and one square tower, and on the tower a light was burning. Below it, along the curve of the bay to the east, there was a town, or the bones of one: roofs, and gaps in the roofs, and the long black ribs of the slipways running down into the water, charred, with the steam of Cyrene's spring rising white and slow among them as if the whole shore were quietly smoking still.
 
@@ -1592,7 +1590,7 @@ It was not ringing for Titus. It was ringing for them.
 
 Marcus turned his back on it.
 
-He climbed onto the lid of the empty arms chest by the mast, because it was the only high place in the waist, and stood there above them in the grey light with his scorched cloak hanging off him and his hands shaking at his sides. The whole waist looked up at him. Faces black with smoke. Grey with sickness and no sleep. Rufo's, set. Iason's, empty. Oppius's one eye, wet. The drum-boy, Kaeso, with his bloody rag-wrapped sticks in his lap.
+He climbed onto the lid of the empty arms chest by the mast, because it was the only high place in the waist, and stood there above them in the grey light with his scorched cloak hanging off him. The whole waist looked up at him. Faces black with smoke. Grey with sickness and no sleep. Rufo's, set. Iason's, empty. Oppius's one eye, wet. The drum-boy, Kaeso, with his bloody rag-wrapped sticks in his lap.
 
 "Look behind you," he said.
 
@@ -1617,8 +1615,6 @@ He looked down at them. At Rufo's hard face. At Oppius, with his one wet eye. At
 Something moved in the waist. Not a sound. A shifting, the way a field shifts when the wind comes into it.
 
 "Last night the dead came up out of the dark at us. And you *stood*. Thieves and debtors and deserters, in a ring around a drum-boy, in the dark, with nobody watching, and you did not break. I have seen the legions break for less. Calvo didn't run. Fabius didn't drop his sword. You are not what they said you were. You proved it last night, and nobody saw it but each other."
-
-His hands were shaking. He did not hide them.
 
 "Every man here has lost someone. A wife. A son. A brother at Hollowmere. A town." He did not look at Iason, and every man on the ship knew who he meant. "They're in the hill, and in the fords, and in the water we came through last night. We can't bring one of them back. Not one. But we can go up that beach with their names in our mouths, and make the men who did it *hear* them.
 
@@ -1760,7 +1756,7 @@ He looked at the dead coming down the sand, and he thought of the drowned town o
 
 The crossbows loosed.
 
-It was a ragged volley, no more than a score of bows, and the bolts came down the beach thick and black and hit the shields of the Fourteenth with a sound like a fist of gravel thrown against a door. A man screamed in the second rank. Another went down with a bolt through his foot, pinned to the sand. Rufo's line flinched and held.
+It was a ragged volley, no more than a score of bows, and the bolts came down the beach thick and black and hit the shields of the Fourteenth with a sound like gravel thrown against a door. A man screamed in the second rank. Another went down with a bolt through his foot, pinned to the sand. Rufo's line flinched and held.
 
 "*Atticus!*" Marcus roared.
 
@@ -1888,7 +1884,7 @@ It was a neat mark. Three short lines, and a long one, and under them a number, 
 
 "Of what?"
 
-But he knew, as he said it, and the old man did not have to answer. Those were the doors where the dead had been. Somebody had gone down this lane with a stick of chalk, a clerk in a long coat, and counted, and written it down, and come back with the means to make them walk. *Two, in this one. Four, in that. One.*
+But he knew, as he said it, and Roderic did not have to answer. Those were the doors where the dead had been. Somebody had gone down this lane with a stick of chalk, a clerk in a long coat, and counted, and written it down, and come back with the means to make them walk. *Two, in this one. Four, in that. One.*
 
 He thought of the woman in the fishwife's apron in the oar-port. The boy of twelve. The shipwright with the adze. *Clock, clock.*
 
@@ -1900,7 +1896,7 @@ They found the boy in the net-lofts.
 
 Atticus's slingers found him, rather, and nearly killed him. A shape moved in the dark of a loft door over the lane, and three slings came up, whirling, and the shape cried out, high and cracked, "*Don't! Don't, I'm from here!*" and came down the outside ladder so fast it nearly fell.
 
-It was a boy of twelve or thirteen, barefoot, in a fisher's smock that had been white once and was now no color at all. He was thin as a gull's leg and filthy, with salt sores at the corners of his mouth and a gutting knife in his fist that he held out in front of him in both hands, point up, as though it were a holy sign and would ward off evil. His eyes went over the cohort. Over their condemned shields, the old red *XIV*. Over the old man on the Tharsian horse. They came to Marcus, and stopped there, and widened.
+It was a boy of twelve or thirteen, barefoot, in a fisher's smock that had been white once and was now no color at all. He was thin as a gull's leg and filthy, with salt sores at the corners of his mouth and a gutting knife in his fist that he held out in front of him in both hands, point up, as though it were a holy sign and would ward off evil. His eyes went over the cohort. Over their condemned shields, the old red *XIV*. Over the big grey soldier on the Tharsian horse. They came to Marcus, and stopped there, and widened.
 
 "You're them," the boy said. "From the sea. In the night." He swallowed. "We saw the lights. Under the water. My gran said it was the Deep come to take the town. She sat up all night with the lamp lit and my grandda's net-needle in her fist."
 
@@ -1948,7 +1944,7 @@ Tam looked at the sky. At the steam rising from the gutter. He sniffed, exactly 
 
 ---
 
-They went down to the weed-rocks under the eastern tower with twenty men. Marcus would have taken fewer, but Rufo would not hear of it, and the optio stood on that the way he stood behind his split shield, immovably, until Marcus gave way. So: Rufo and a dozen of his shields, and Atticus with four slingers, and Spurius Lento, called Fingers, with his roll of picks and wires. And Tam in front, barefoot, going over the black and green slime of the weed-rocks as lightly as a cat goes along a wall.
+They went down to the weed-rocks under the eastern tower with twenty men. Marcus would have taken fewer, but Rufo would not hear of it, and the optio stood on that the way he stood behind his split shield, immovably, until Marcus gave way. So: Rufo and a dozen of his shields, and Atticus with four slingers, and Spurius Lento, called Fingers, with his roll of picks and wires. And Tam in front, barefoot and sure, going over the black and green slime of the weed-rocks.
 
 The rest of the cohort he sent to the quay, under Roderic, with orders to go slowly and loudly and stay out of bolt-range, and make the tower look at them. Roderic had grinned at that. *Be a nuisance in plain sight. I've been doing that since before your father was crowned.*
 
@@ -2220,7 +2216,7 @@ The engineer looked at his hands. He turned them over and back. He made two fist
 
 "Anaxis," he said at last, "has nothing on that."
 
-Liora did not answer. She had sat down on the end of the nearest steam-box, all at once, as if somebody had cut a string, and she did not look like anything out of a chapel window now. She looked like a woman at the end of a watch that had lasted since the fort fell. Hostus came down the shed with a slab of the tower's ham on the blade of his knife, as though he had been waiting for it, and she took it with her fingers and ate it fast, fat and all, the way soldiers eat in a lull.
+Liora did not answer. She had sat down on the end of the nearest steam-box as if somebody had cut a string, and she did not look like anything out of a chapel window now. She looked like a woman at the end of a watch that had lasted since the fort fell. Hostus came down the shed with a slab of the tower's ham on the blade of his knife, as though he had been waiting for it, and she took it with her fingers and ate it fast, fat and all, the way soldiers eat in a lull.
 
 Alana stood up. "The spring comes up under the tower."
 
@@ -2303,7 +2299,7 @@ Marcus turned his head and looked at them, one and then the other. Something pas
 
 "The gate's the gate, Centurion," said Rufo, very quietly. "They'll open it from inside or they won't. Either way, two hundred men are going to have to stand under that wall and take bolts while they wait for it. And they'll stand if they can see you. They won't if they can't." He did not look away. "You know it. You said it yourself on the deck. You stood on a box and told us we belonged to ourselves. Well, we do. And we'd like you where we can see you, please, sir, when the bolts come."
 
-Marcus did not move for a long moment.
+Marcus did not move.
 
 "The stair," he said at last. Alana did not know what he meant. She saw Roderic flinch. "The last time I wasn't where my men could see me, they were on a stair." He let out a long breath. "All right. All right, optio. The gate."
 
@@ -2331,7 +2327,7 @@ And somewhere, very faintly, through the stone, through the water, as Gaius had 
 
 Then the engineer stopped, and turned his head, and put the lantern's shutter down to a slit.
 
-There was a grate above them. Alana could see it, a grid of black iron bars against a dim and flickering gold light, a hand's breadth over Gaius's head where the drain's roof opened upward into a shaft. Through the bars came warm air and the smell of hot lamp-oil, and the chisel, loud now, close. *Tink.* And a voice. A man's voice, speaking quietly, steadily, in the round Tharsian accent. Not to anyone. To himself, the way a clerk talks under his breath while he adds a column.
+There was a grate above them. Alana could see it, a grid of black iron bars against a dim and flickering gold light, just over Gaius's head where the drain's roof opened upward into a shaft. Through the bars came warm air and the smell of hot lamp-oil, and the chisel, loud now, close. *Tink.* And a voice. A man's voice, speaking quietly, steadily, in the round Tharsian accent. Not to anyone. To himself, the way a clerk talks under his breath while he adds a column.
 
 "…seventeen. Eighteen. Mind the fault, there, you'll split it. Nineteen…"
 
@@ -2425,7 +2421,7 @@ Not all at once. They faltered, the way a line of men falters when its officer g
 
 She took one of the jars of oil from round her neck and broke it on the flagstones in front of them, and drew the sign in it with her left hand, small, quick, crooked, a student's scrawl. And spoke the names of the strokes. And touched the rod to it.
 
-The fire went through them like a word through a crowd.
+The fire went through them.
 
 ---
 
@@ -2487,7 +2483,7 @@ There was a long silence. Then a voice, from high up, at a slit in the tower wal
 
 Marcus did not answer at once.
 
-He turned his head, because there was a sound behind him that he did not understand. It came from the gate. A murmur, and then a shuffling, and then a great many voices all at once, low and rising. He turned and looked.
+He turned his head, because there was a sound behind him that he did not understand. It came from the gate. A murmur, and then a shuffling, and then a great many voices, low and rising. He turned and looked.
 
 The town had come up the hill.
 
@@ -2543,7 +2539,7 @@ Marcus took it.
 
 "I do," said Marcus.
 
-Merula looked at him for a long moment, through the stoop and the tiredness, with a pair of small, shrewd, colorless eyes. Then something in his face shifted, very slightly. It was not relief. Marcus thought, later, that it was disappointment: the look of a man who has been told that the world is going to be more complicated than he had hoped.
+Merula looked at him, through the stoop and the tiredness, with a pair of small, shrewd, colorless eyes. Then something in his face shifted, very slightly. It was not relief. Marcus thought, later, that it was disappointment: the look of a man who has been told that the world is going to be more complicated than he had hoped.
 
 "Then you're a fool, Highness," the captain said quietly, "and they'll hate you for it."
 
@@ -2605,7 +2601,7 @@ She went away toward the steam-box house before he could answer.
 
 He stood in the courtyard with Merula's sword in his hand, and saw Iason.
 
-The young man of Cyrene was standing by the well with his unwiped sword, quite still, looking at the Tharsians against the wall. He had heard all of it. He did not say anything. After a moment he turned his back on Marcus, deliberately, the way a man turns his back on a fire he does not trust himself near, and walked out through the gate after the town.
+The young man of Cyrene was standing by the well with his unwiped sword, looking at the Tharsians against the wall. He had heard all of it. He did not say anything. After a moment he turned his back on Marcus, deliberately, the way a man turns his back on a fire he does not trust himself near, and walked out through the gate after the town.
 
 Marcus let him go. There was nothing in him to say that Iason would have wanted to hear.
 
@@ -2635,7 +2631,7 @@ The boy smiled a little. Then the smile went.
 
 Roderic waited.
 
-"My hands were steady. They were steady on the ship, in the night, with the dead coming in through the ports. And they were steady this morning on the stair, and under the wall, and in the courtyard." He held his free hand out over the parapet, palm down, in the last of the light. It shook. A small fine tremor, a plucked string. "And now look. I'm sober for the first time in three years, General, and the only time my hands don't shake is when I'm killing someone." He put the hand down on the stone. "What does that make me?"
+"My hands were steady. They were steady on the ship, in the night, with the dead coming in through the ports. And they were steady this morning on the stair, and under the wall, and in the courtyard." He held his free hand out over the parapet, palm down, in the last of the light. It shook. "And now look. I'm sober for the first time in three years, General, and the only time my hands don't shake is when I'm killing someone." He put the hand down on the stone. "What does that make me?"
 
 Roderic did not answer at once. He had heard that question before, in other words, from other young men, at the edge of other fires. He had asked it himself, once, after his first field.
 
@@ -2749,7 +2745,7 @@ She took a fistful of coppers off Fingers in the first few throws, and he looked
 
 "It's *scholarship*," said Alana. "There's a difference. There is currently a difference." She swept the coppers toward her. "You've been cheating me with that chipped one since the first throw, Master Lento. I simply cheated better."
 
-Fingers stared at her for a long moment. Then a slow grin spread across his ugly face, the first she had ever seen there.
+Fingers stared at her. Then a slow grin spread across his ugly face, the first she had ever seen there.
 
 "Eleven years in the harbor prison," he said, "and I never had a cellmate as crooked as you."
 
@@ -2900,7 +2896,7 @@ She did not look at anyone. She looked at the space.
 
 He had come down off the wall at a walk, because Roderic had told him to, and he had stopped at the edge of the dunes because of the drum.
 
-He had meant to go down to the fire and sit among them and not drink, as the old man had said. He had meant to be seen. And then he had seen the table, and who was on it, and he had not gone any farther. He stood in the dark at the edge of the firelight with his cloak around him, where no one could see him at all, and watched.
+He had meant to go down to the fire and sit among them and not drink, as the General had said. He had meant to be seen. And then he had seen the table, and who was on it, and he had not gone any farther. He stood in the dark at the edge of the firelight with his cloak around him, where no one could see him at all, and watched.
 
 He knew the dance before she had finished the first figure.
 
@@ -2908,21 +2904,21 @@ He had danced it every Midwinter since he was twelve. He had danced it badly and
 
 *Mine,* he thought. *That's my figure she's leaving out. That's where I should have been.*
 
-He had thought her many things. A clever, sharp-tongued, inky child at the bottom of the high table. A wraith in violet, out of a burned city, who had come to watch him die. A terror with a glass rod on an afterdeck, with blood on her lip and the sea on fire behind her. A fellow officer, more or less; a mind he could trust with the stones. He had not let himself think of her as anything else. He had held himself a hand's breadth off from her since the quay, on purpose, because whatever he wanted from her he had forfeited eight years ago at a high table, and because he was a drunk four days dry and a prince sent to die, and a man like that had no business wanting anything.
+He had thought her many things. A clever, sharp-tongued, inky child at the bottom of the high table. A wraith in violet, out of a burned city, who had come to watch him die. A terror with a glass rod on an afterdeck, with blood on her lip and the sea on fire behind her. A fellow officer, more or less; a mind he could trust with the stones. He had not let himself think of her as anything else. He had kept his distance from her since the quay, on purpose, because whatever he wanted from her he had forfeited eight years ago at a high table, and because he was a drunk four days dry and a prince sent to die, and a man like that had no business wanting anything.
 
 He had not known she could do this. He did not think *she* had known.
 
 She was barefoot. Her hair was down. It was darker than he had thought, and longer, and it went out from her on the turns like the sash did, and the firelight went red and gold through it. Her skirts went out with it. Every turn lifted the violet silk in a wide swirling wheel and showed him her legs to the thigh, long and pale and strong, and every turn he told himself to look away and did not. The silk had gone dark where the sweat held it to her, across her breasts and down the long curve of her back, and when she flung her head back he saw her throat working as she breathed, wet and gold in the firelight, and the hollow at the base of it where the sweat ran, and he thought of putting his mouth there so plainly that he felt it in his teeth. He had watched a great many women dance. He had watched the dancing-girls of the Silk Row, who were paid to be watched, and the daughters of lords, who were paid in husbands; and none of them had ever moved like this, with nothing held back and nothing offered either, as if her body were simply a thing she had decided, tonight, for once, to live in all the way.
 
-And the sparks. He did not know what she had done to the fire. He saw it rise up out of its bed in a slow gold spiral and come over the heads of the men and wrap itself round her, and turn with her, and follow the swing of her hem like hounds at heel. He had seen her burn the sea with that same hand. Now she was dancing in it, as if fire were a cloak she had put on to be looked at in.
+And the sparks. He did not know what she had done to the fire. He saw it rise up out of its bed in a slow gold spiral and come over the heads of the men and wrap itself round her, and turn with her, and follow the swing of her hem like hounds at heel. He had seen her burn the sea with that same hand. Now she was dancing in it, and the light of it ran gold up the inside of her lifted arm.
 
-Her face was quite grave through all of it, the face she wore over the casks and the weather-book and the dead, and her eyes were on the empty place beside her, and she was beautiful. Not pretty. He had known a hundred pretty women; he had made a career of them. She was beautiful the way the fire on the Kettle Bank had been beautiful, the way a thing is when it is wholly itself and does not care if you are watching. And he wanted her. He stood in the dark and admitted it to himself plainly, the way a man admits a wound once he has stopped pretending he can walk on it. He wanted her so badly that his shaking hands went still at his sides, as they did in a fight.
+Her face was quite grave through all of it, the face she wore over the casks and the weather-book and the dead, and her eyes were on the empty place beside her, and she was beautiful. Not pretty. He had known a hundred pretty women; he had made a career of them. She was beautiful the way the fire on the Kettle Bank had been beautiful, wholly itself. And he wanted her. He stood in the dark and admitted it to himself plainly, the way a man admits a wound once he has stopped pretending he can walk on it.
 
 And they were all watching. That was the next thing he understood, and he did not like it.
 
 The whole cohort, sitting round the fire on the black sand, gone utterly silent. Nobody whistled. Nobody called out. Oppius had stopped carving with the knife in mid-air. Rufo had come up off his split shield onto one knee, slowly, as a man kneels in a temple without knowing he has done it. Atticus the Vessan had his hand over his mouth. And Fingers, the little lockpick, the thief, stood at the foot of the table with her hairpins cupped in his two hands as if they were the King's Shard, and looked up at her with a face that Marcus would have struck him for, if he had had any right to strike anyone for anything.
 
-He had no right. He knew it. He stood in the dark and felt it come up in him anyway, hot and low and ugly, the thing he had felt at sixteen when another boy took the horse he wanted: *mine*. He had thrown her away at a high table. He had looked through her at a dance. He had kept a hand's breadth off her on a prison hulk all the way through the Grey because he was too proud and too ashamed to close it. And now men who had nothing in the world were sitting on a beach looking at what he had thrown away, and seeing it, and he was standing in the dark, alone, behind them.
+He had no right. He knew it. He stood in the dark and felt it come up in him anyway, hot and low and ugly, the thing he had felt at sixteen when another boy took the horse he wanted: *mine*. He had thrown her away at a high table. He had looked through her at a dance. He had kept clear of her on a prison hulk all the way through the Grey because he was too proud and too ashamed to close the gap. And now men who had nothing in the world were sitting on a beach looking at what he had thrown away, and seeing it, and he was standing in the dark, alone, behind them.
 
 *You fool,* said the voice in his head that sounded like Titus. *You poor proud stupid fool. You had eight years.*
 
@@ -2942,7 +2938,7 @@ He did not know how long he had been visible. He had come forward without knowin
 
 He wanted to go to her. He wanted to walk round the fire and sit down on the sand beside her where Fingers was sitting and say—what? *I remember the dance*? *I'm sorry*? He had said sorry to her in his head over and over on the *Clemency*'s deck and never once aloud. He had told himself it would only be for him.
 
-It still would be. He knew that. But he had watched her dance with that empty space beside her, and he thought, standing there in the edge of the firelight with his hands shaking: *Maybe it doesn't matter anymore who it's for. Maybe the only thing worse than saying it for yourself is never saying it at all.*
+It still would be. He knew that. But he had watched her dance with that empty space beside her, and he thought, standing there in the edge of the firelight: *Maybe it doesn't matter anymore who it's for. Maybe the only thing worse than saying it for yourself is never saying it at all.*
 
 She looked away first.
 
@@ -2966,9 +2962,9 @@ She did not know what to do with that at all. So she did nothing, and left them 
 
 She did not answer. The surf came in and went out round their feet.
 
-Out of the corner of her eye she saw him look at her. At her hair, down her back. At the wet silk where it clung to her shins, and her bare feet in the foam, and up again. She saw him make himself stop, and look at the sea; and she saw him give it up and look again, slowly, as if he had decided it was the one thing tonight he would not lie about. Nobody had ever looked at her like that, as though looking cost him something and he meant to pay it. She stood quite still and let him. Under the damp silk her skin went hot from her throat to her knees.
+Out of the corner of her eye she saw him look at her. At her hair, down her back. At the wet silk where it clung to her shins, and her bare feet in the foam, and up again. She saw him make himself stop, and look at the sea; and she saw him give it up and look again, slowly, as if he had decided it was the one thing tonight he would not lie about. Nobody had ever looked at her like that, as though looking cost him something and he meant to pay it. The foam ran cold over her feet and sucked the sand from under her heels, and she did not step back out of it. Under the damp silk her skin went hot from her throat to her knees.
 
-He did not have a cup. She noticed that. He had been at the fire, and the wine was going round, and he did not have a cup, and his hands were shaking at his sides. She looked at them, and then at the wineskin in her own hand, which she had not realized she was still holding, and without thinking, out of nothing but long habit and the warmth of the fire and the stupid loose kindness that wine puts into a person, she held it out to him.
+He did not have a cup. She noticed that. He had been at the fire, and the wine was going round, and he did not have a cup, and his hands were closed at his sides round nothing. She looked at them, and then at the wineskin in her own hand, which she had not realized she was still holding, and without thinking, out of nothing but long habit and the warmth of the fire and the stupid loose kindness that wine puts into a person, she held it out to him.
 
 Then she understood what she was doing, and went cold, and snatched it back.
 
@@ -3026,7 +3022,7 @@ It pleased her. It pleased her so suddenly and so fiercely that she was ashamed 
 
 "I'd dance it now." He turned to her at last. "If you'd let me. Here, on the sand. Badly. I'm a worse dancer sober, I've found. I'm a worse everything sober. But I'd dance it."
 
-And there it was: the thing she had wanted at eighteen so badly that she had walked the length of the Lesser Hall for it, held out to her in the dark on a beach, five years late, by a man with shaking hands. She thought of the space beside her on the table. She had danced to it all night and never let herself ask who she was putting in it. She had told herself it was nobody. It was the debt. It was a gift to the cohort. It was the first time in her life she had chosen to be looked at.
+And there it was: the thing she had wanted at eighteen so badly that she had walked the length of the Lesser Hall for it, held out to her in the dark on a beach, five years late, by a man with nothing in his hands. She thought of the space beside her on the table. She had danced to it all night and never let herself ask who she was putting in it. She had told herself it was nobody. It was the debt. It was a gift to the cohort. It was the first time in her life she had chosen to be looked at.
 
 *Was it for him?* she thought. *Did I climb on that table, and take down my hair, and dance the Long Measure with a hole in it, for the one man on this island who wasn't even there to see?*
 
@@ -3154,7 +3150,7 @@ She envied it so hard her teeth ached.
 
 It was not her town. It was not her war. She had come for the iron.
 
-Every seventh day since the end of summer, five men in grey-green had walked into the western glade of Silverwood with iron flasks on their backs, and knelt at the roots of the old trees the way men kneel to pray, and when they stood up the earth under them was black. She had watched it from under the fern all autumn. She had watched the singers of the western glade, which had sung since before there were maps, go quiet one at a time, the way a wood goes quiet when a hawk is over it. She had watched Lyrielle, who felt the Heart-Grove in her own blood, begin to walk like an old woman.
+Every seventh day since the end of summer, five men in grey-green had walked into the western glade of Silverwood with iron flasks on their backs, and knelt at the roots of the old trees, and when they stood up the earth under them was black. She had watched it from under the fern all autumn. She had watched the singers of the western glade, which had sung since before there were maps, go quiet one at a time, the way a wood goes quiet when a hawk is over it. She had watched Lyrielle, who felt the Heart-Grove in her own blood, begin to walk like an old woman.
 
 The elders at the council roots argued for a month and came to it at last. Kill the five, and the iron comes back with fifty. Find where the iron is filled.
 
@@ -3174,7 +3170,7 @@ For ten years now she had watched human commanders for the wardens, from trees a
 
 She had written that at noon yesterday, on this roof, with a lead point in the little book of bark-leaves the wardens used. Three of the ports had fallen by then. The fort had not, and a fort is not a customs-house. It had seemed generous at the time.
 
-She had seen the hulk driven up the black beach, and the witch knee-deep in the surf flinging lightning the way a farm-wife flings out slops, and the old man pull a Tharsian off his horse with a boathook and climb into its saddle stiffly, an old man getting onto a horse that was not his, and then ride as if it were. The drunk she had from a cohort man under her eaves, who had told another, laughing, that the prince went through a tavern window into a canal at his own brother's funeral. It was the kind of thing men said of their commanders. Most of the time it was true.
+She had seen the hulk driven up the black beach, and the witch knee-deep in the surf flinging lightning the way a farm-wife flings out slops, and the big grey soldier pull a Tharsian off his horse with a boathook and swing up into its saddle, a heavy man in old mail on a horse that was not his, and ride as if it were. The drunk she had from a cohort man under her eaves, who had told another, laughing, that the prince went through a tavern window into a canal at his own brother's funeral. It was the kind of thing men said of their commanders. Most of the time it was true.
 
 The fort fell before sunset.
 
@@ -3380,7 +3376,7 @@ The prince did not take the sword. He did not shout for the optio.
 
 "Me," said the shipwright.
 
-"You're the only man in Cyrene I'd believe. If you can keep him alive, nobody else in this town has an excuse." The prince's hands were still shaking. He put them behind him. "That's the bargain."
+"You're the only man in Cyrene I'd believe. If you can keep him alive, nobody else in this town has an excuse." The prince put his hands behind him. "That's the bargain."
 
 "And if it's me who comes?"
 
@@ -3448,7 +3444,7 @@ He said something in his slow hill-voice. Two of the others started down.
 
 There was an outfall beside the stair, a square mouth in the rock where the fort's drains came out, half full of warm foul water. She went into it backward like an otter into a bank and lay with the stink of it in her mouth while the two slingers turned the weed over with their feet, and threw a stone into the drain-mouth for luck that struck the wall a hand from her face. The light went. They gave it up.
 
-The leader did not. She could see his shape against the last of the sky, standing on the rock above the stair, quite still, looking down at the door. Then he went.
+The leader did not. She could see his shape against the last of the sky, standing on the rock above the stair, looking down at the door. Then he went.
 
 She lay in the drain an hour, to be sure. When she came out it was full dark and she stank like a tanner's pit to the end of her braid, and at her shoulder, when she felt for it, there was a pulled place in the wool of her cloak, a little loop of green drawn out and broken off. She would mend it. She had mended worse.
 
@@ -3460,7 +3456,7 @@ She went down to the black beach after, east of the fires. The cohort had a pig 
 
 There was nobody on that stretch of sand. She stripped in the lee of the dunes, cloak and leathers and the shirt that had been white once, and walked down into the surf as bare as the day the wardens found her, and the sea took her to the knees and then to the waist, warm as a bath drawn for somebody else. She scrubbed the drain off with fistfuls of black sand until her skin burned with it: arms and throat, breasts and belly, the long hard flanks the bow had made, the soles of her feet. Then she pulled the thong off her braid and worked it loose, and lay back in the swell and let the sea comb it out for her, a long pale weed spread round her on the black water.
 
-She had not thought about her body since she was a girl except as a thing to be fed and kept warm and kept out of sight. It was a good body for the work. Lying in the warm sea with the firelight coming and going on her wet skin, she found it was something else as well, and that she did not mind knowing it. Up the beach half the cohort sat round a pig and talked about women. Not one of them knew there was a woman in the sea. She turned that over, and could not tell whether what she felt was safety or a kind of waste.
+She had not thought about her body since she was a girl except as a thing to be fed and kept warm and kept out of sight. It was a good body for the work. Lying in the warm sea with the firelight coming and going on her wet skin, it was warm to the bone for the first time since the autumn, and that was new enough to keep her there. Up the beach half the cohort sat round a pig and talked about women. Not one of them knew there was a woman in the sea. She turned that over, and could not tell whether what she felt was safety or a kind of waste.
 
 She wrung the water out of her hair and plaited it again over one shoulder, by feel, the way the wardens had taught her at nine. She rinsed her clothes and spread them on the grass. Then she lay up in the marram to dry, with the black sand warm under her and the stems pricking at her shoulders and the night air going over her like a hand that did not know it was a hand.
 
@@ -3514,7 +3510,7 @@ On the quay, the old general came down to meet it. He came slowly, on the grey T
 
 The woman in the bow turned her head and looked at the horse. Sylara saw it from the headland and knew it, because she had worn that look herself. It was the look she gave an axe in Silverwood. Not hate, exactly. Measure. Where it would go in. How it could be stopped.
 
-She took out the book, and turned past page one, and page two with its single line, to a clean leaf, and wet the lead on her tongue. Then she looked at the galley, and the woman, and the horse, and the old man, and the prince coming down the hill from the fort at a run with his cloak flying behind him.
+She took out the book, and turned past page one, and page two with its single line, to a clean leaf, and wet the lead on her tongue. Then she looked at the galley, and the woman, and the horse, and the grey soldier, and the prince coming down the hill from the fort at a run with his cloak flying behind him.
 
 She suspected, with some irritation, that she was going to need a great many more of them.
 
@@ -3542,7 +3538,7 @@ She watched the crews instead. Convicts, by the look of them, and one in a woman
 
 ---
 
-She had been four days on the *Patience*, two of them in the Grey being sick over the side with what she hoped was the dignity of an officer. A ship was a wall that moved, and she did not approve of walls that moved. Her braids had worked loose in the Grey, the two long fair plaits she wore down her back to the belt, going to iron at the temples, and she had unpicked them in the lee of the mast and plaited them again tighter, as one tightens a girth. The sickness had taken nothing off her she wanted back. She had kept the body under the mail hard for half her life by carrying it, and at thirty-eight she liked it better than she had at eighteen, and saw no reason to say so to anyone. The cold had got into the old seam on her face, the white line from the corner of her left eye to the hinge of her jaw, so that it pulled when she spoke. Ladies at court had told her, kindly, that a little paint would hide it. She had told them, kindly, that it had taken a great deal of trouble to get.
+She had been four days on the *Patience*, two of them in the Grey being sick over the side with what she hoped was the dignity of an officer. A ship was a wall that moved, and she did not approve of walls that moved. Her braids had worked loose in the Grey, the two long fair plaits she wore down her back to the belt, going to iron at the temples, and she had unpicked them in the lee of the mast and plaited them again tighter, as one tightens a girth. The sickness had taken nothing off her she wanted back. She had kept the body under the mail hard for half her life by carrying it, and at thirty-eight it still did what she told it, quicker than it had at eighteen, which was more than she could say for the ship. The cold had got into the old seam on her face, the white line from the corner of her left eye to the hinge of her jaw, so that it pulled when she spoke. Ladies at court had told her, kindly, that a little paint would hide it. She had told them, kindly, that it had taken a great deal of trouble to get.
 
 Behind her along the waist stood the Lanciarii: sixty of them, all that was left of the Fourteenth that could still stand in a line, in mail and old blue cloaks, their spears stacked along the rail like a hedge in winter. The lancea: an ash haft taller than a man, a narrow leaf-shaped head at one end and an iron spike at the other, so that it would kill you whichever way round it came. It was the old levy spear of the hill country, the spear the farmers of Callow had carried down to the Long Field, and nobody since had found a thing a horse liked less. Shields in front, points behind. Nobody had ever made a song about it. That was one of the things she liked about it.
 
@@ -3622,7 +3618,7 @@ Then the optio spoke, trying the word to see if it would bear weight.
 
 "Suspended." He thought about it. "Well. That's more than we had at breakfast."
 
-And the old man on the grey mare made a noise like a bear that has sat on a thistle.
+And the General on the grey mare made a noise like a bear that has sat on a thistle.
 
 "That," said Roderic of the Long Field, "is *my* line."
 
@@ -3662,7 +3658,7 @@ She gave the prince Varro's orders at the top of the quay, with Roderic sitting 
 
 "Four orders, Highness. You hold Cyrene. You don't sail beyond its waters without the council's leave. I report everything to the council, by every ship, and I will." She held his eyes. "And the fourth the Lord Marshal gave me privately, so I'll give it to you in daylight. If you drink, I'm to bring you home."
 
-He looked down at his own hands, shaking at his sides, and back at her.
+He looked down at his own hands, and back at her.
 
 "Then you'll have a long, dull job, Captain."
 
@@ -3730,7 +3726,7 @@ She looked down at the eleven in the ash.
 
 "And you'd have those spared. The men who did it."
 
-"I asked for it," said Liora. "In the courtyard, before he chose." Her hands were folded in front of her apron, quite still, and the knuckles had gone white. "It was my wish, Captain, not his alone. Lay it at my door, if you need a door to lay it at."
+"I asked for it," said Liora. "In the courtyard, before he chose." Her hands were folded in front of her apron, and the knuckles had gone white. "It was my wish, Captain, not his alone. Lay it at my door, if you need a door to lay it at."
 
 Valeria had no answer.
 
@@ -4020,7 +4016,7 @@ That was all.
 
 He would never know. The old man had come to the edge of a sentence and looked over and drawn back, and blacked it out so that his son would know there had been one, and never what it was. And then he had written *keep warm*.
 
-Marcus could not see the paper very well. His hands were shaking so that it rattled. He laid it on the parapet under his palm and stood with his head down, breathing, like a man at the top of a long climb. There was a cup by his other hand, brought up from the well. He drank, to have done something, and the spring's water went down foul and cold, tasting of eggs and iron.
+Marcus could not see the paper very well. It rattled in his fingers. He laid it on the parapet under his palm and stood with his head down, breathing, like a man at the top of a long climb. There was a cup by his other hand, brought up from the well. He drank, to have done something, and the spring's water went down foul and cold, tasting of eggs and iron.
 
 He heard her on the stair. Nobody else in Cyrene walked like that, a long even step that set each foot down as if testing the stones. She came along the wall-walk in her mail and fur and stopped two paces off.
 
@@ -4240,7 +4236,7 @@ It was. He could see it was. It went into him like warm wine.
 
 Then she held out her hand. He took it, and she hauled him up in one pull, weight going back, as a woman hauls a full bucket from a well. Her palm was hard and callused where a haft rubs, and very warm. His knee went as he came up, and for a moment he stood closer to her than he had meant to, and she did not step back.
 
-She was nearly of a height with him. The salt had dried white on her mail, and the two fair plaits lay forward over her shoulders, thick as a man's wrist and gone to iron at the temples, down to the belt that was drawn tight round a waist with no softness in it anywhere. She was made the way a good blade is made, long and plain and kept for use, and she had been looked at before, he saw, and knew what was being looked at, and was not sorry for any of it. She let him look. It was a kind of answer.
+She was nearly of a height with him. The salt had dried white on her mail, and the two fair plaits lay forward over her shoulders, thick as a man's wrist and gone to iron at the temples, down to the belt that was drawn tight round a waist with no softness in it anywhere. She was made the way a good blade is made, long and plain and kept for use.
 
 "Your back's gone," she said.
 
@@ -4316,7 +4312,7 @@ Iason had got up off the bollard, and was looking at the boy as he had on the fi
 
 "I'll be under the stair," said Iason. "In the dark of the water-gate. Three paces off him."
 
-Marcus's hands were shaking. He put them behind his back.
+Marcus put his hands behind his back.
 
 "Very well." It was the worst thing he had said since the landing, and he knew it as he said it. "You'll hold the lamp, Nonius. And when the words are said and her lines are on the stair, you'll put it down and walk up into the water-gate, and not run, and Iason will take you through. You walk. You don't stay to watch."
 
@@ -4346,7 +4342,7 @@ The *Patience* Nerva would lay along the fourth slip with her mast down, where t
 
 "Because I hung her rudder." Gaius rubbed out a line in the soot with his thumb, and said nothing else.
 
-"And the horses," said Roderic. He sat with his back against a pillar and his legs out in front of him, lowered there like a cask, with sand still in his beard. "She'll have four or six in stalls under the main hatch. If there's fighting on her deck, they'll come up. A groom brings a horse off a ship rump-first, slow, with a cloth on its eyes. A frightened horse comes off teeth-first, and goes through whatever's in front of it."
+"And the horses," said Roderic. He sat with his back against a pillar and his long legs out in front of him, with sand still in his beard. "She'll have four or six in stalls under the main hatch. If there's fighting on her deck, they'll come up. A groom brings a horse off a ship rump-first, slow, with a cloth on its eyes. A frightened horse comes off teeth-first, and goes through whatever's in front of it."
 
 "Then it'll be my front rank in front of it," said Valeria, "and they've looked one in the eye now. Three times."
 
@@ -4380,7 +4376,7 @@ His hands went still now. His face went hot to the ears.
 
 It came in at the gate on two oars lashed for poles, with the cohort walking backward ahead of it to watch, and Gaius behind it like a man behind a bier he has paid for.
 
-It was black oak, every joint pegged, rubbed with linseed and beeswax until it shone like a wet seal, and it smelled of the yards: pitch and shavings and steamed oak. The arms ended in leaping dolphins. Up the high back a spiral of sparks was cut deep into the grain, and at the top of it stood a woman no longer than his hand, her head flung back and her arms up and her skirts flying out in a wheel. Beside her the rail was bare, a hand's breadth of smooth oak with nothing in it; and she was turning toward it.
+It was black oak, every joint pegged, rubbed with linseed and beeswax until it shone like a wet seal, and it smelled of the yards: pitch and shavings and steamed oak. The arms ended in leaping dolphins. Up the high back a spiral of sparks was cut deep into the grain, and at the top of it stood a woman no longer than his hand, her head flung back and her arms up and her skirts flying out in a wheel. Beside her the rail was bare, smooth oak with nothing in it; and she was turning toward it.
 
 The shipwrights had been at the fire that night. They had even got the space.
 
@@ -4496,7 +4492,7 @@ Marcus's face hurt. He could not remember being so happy. He could remember a go
 
 The roar for that was still going when the iron came across the courtyard.
 
-It was not loud, a chink and a drag; but the noise went out of the courtyard the way the sea goes off a flat, all at once. Iason came first, and behind him Nonius in his irons, with Liora's clean linen wound round his ankles under the cuffs and a lamp, unlit, in his chained hands. Iason was taking him down to walk the water-gate stair in the dark, from the bottom step up into the gate, the way he was to walk it tomorrow night.
+It was not loud, a chink and a drag; but the noise went out of the courtyard the way the sea goes off a flat. Iason came first, and behind him Nonius in his irons, with Liora's clean linen wound round his ankles under the cuffs and a lamp, unlit, in his chained hands. Iason was taking him down to walk the water-gate stair in the dark, from the bottom step up into the gate, the way he was to walk it tomorrow night.
 
 The boy looked at the chair as he passed, at the little oak woman with her skirts up, and something went across his face that was very nearly a grin. Then it was gone, and he went on into the black mouth of the passage.
 
@@ -4584,7 +4580,7 @@ He set it down under the window-slit and stood with both hands on the top rail, 
 
 She sat down in it, facing the gap, with the weather-book on her knee.
 
-At the door he looked back, and came back. He did not ask. He stepped in between her and the slit, took hold of the two dolphins beside her hands, and tipped the chair back on its hind legs with her in it, so that her breath went out of her and her hands came down hard over his. It was very heavy. She was in it. For the space of it his face was a hand's breadth above hers, close enough to see the pulse going in her throat, and he did not close the hand's breadth. He walked it round on its heels a thumb's width toward the cot, and let it down.
+At the door he looked back, and came back. He did not ask. He stepped in between her and the slit, took hold of the two dolphins beside her hands, and tipped the chair back on its hind legs with her in it, so that her breath went out of her and her hands came down hard over his. It was very heavy. She was in it. For the space of it his face was a hand's breadth above hers, close enough to see the pulse going in her throat, and he did not close it. He walked it round on its heels a thumb's width toward the cot, and let it down.
 
 He straightened. He considered it with his head on one side, exactly as she had considered every place he had set it down. He looked at the cot. He looked at her.
 
@@ -4912,7 +4908,7 @@ The sum was cold. It would not have been, before the still-room. She set that be
 
 Halfway down the arm she opened her eyes and looked up past his shoulder and saw Alana in the doorway.
 
-She was without her cloak, with the lamplight on her and the snow coming down behind, and dried blood under her nose, and a cut on her cheekbone that wanted closing. She was watching Liora's hands, or the arm under them, or the bench by the door where the boy lay. Liora could not tell which. Perhaps Alana could not either. Liora shut her eyes on the next hand's breadth of the cut, and when she opened them again the doorway was empty. Alana had gone away up the slip into the dark.
+She was without her cloak, with the lamplight on her and the snow coming down behind, and dried blood under her nose, and a cut on her cheekbone that wanted closing. She was watching Liora's hands, or the arm under them, or the bench by the door where the boy lay. Liora could not tell which. Perhaps Alana could not either. Liora shut her eyes and went on along the cut, and when she opened them again the doorway was empty. Alana had gone away up the slip into the dark.
 
 So she did the second sum. It was shorter.
 
@@ -4922,7 +4918,7 @@ She could perhaps win. She was not modest about her face; too many people had to
 
 Not hers. Not now.
 
-The last of the cut drew shut under her palm like a seam pulled closed from the inside, and left a long line of new skin, pink and shining as the inside of a shell. She took her hands away. They were cold, as they always were after. She put the green-fletched arrow in his hand.
+The last of the cut drew shut under her palm like a seam pulled closed from the inside, and left a long line of new skin, too pink, as it always was the first day. She took her hands away. They were cold, as they always were after. She put the green-fletched arrow in his hand.
 
 "It came out of the grey man's hand," she said. "It isn't ours."
 
@@ -4982,7 +4978,7 @@ Nobody asked her what she meant. Alana looked up at her, and then at Marcus, and
 
 ---
 
-He had the arrow in his fingers. He had asked every man on the mole. Atticus had looked at the fletching a long time and said in his slow voice, "Not ours, Centurion. Nobody of mine could make that shot in the dark. I'd like to meet who could." Rufo said nobody. The Lanciarii said nobody. Roderic said, "Somebody who wanted that box more than the grey one did," and limped off to see to the chestnut mare.
+He had the arrow in his fingers. He had asked every man on the mole. Atticus had looked at the fletching a long time and said in his slow voice, "Not ours, Centurion. Nobody of mine could make that shot in the dark. I'd like to meet who could." Rufo said nobody. The Lanciarii said nobody. Roderic said, "Somebody who wanted that box more than the grey one did," and went off to see to the chestnut mare.
 
 Nobody claimed it. He put it inside his tunic.
 
@@ -5006,9 +5002,9 @@ That made nine. Two hundred and three.
 
 Then he left a space, and at the very bottom of the page, by itself, he wrote one more. *Nonius.* He had no right to put him among the others, and he could not leave him off. So he put him apart, where he could see him.
 
-His hands had begun to shake again, now that there was nobody left to fight. He held the page flat on the rail until the ink took.
+There was nobody left to fight. He held the page flat on the rail with both hands until the ink took.
 
-Roderic came back and stood at the rail beside him, leaning on his forearms to spare his back, and looked down at the bottom step where the lamp had been. Marcus had heard him send the healer away from that back again in the night: *Spend it on the young ones.* His face was grey with no sleep, and there was a horse's slobber on his sleeve. Marcus felt the question come up in him, as it always did now when the old man stood beside him with nothing to be done. *Whose order was it?*
+Roderic came back and stood at the rail beside him, leaning on his forearms to spare his back, and looked down at the bottom step where the lamp had been. Marcus had heard him send the healer away from that back again in the night: *Spend it on the young ones.* His face was grey with no sleep, and there was a horse's slobber on his sleeve. Marcus felt the question come up in him, as it always did now when the General stood beside him with nothing to be done. *Whose order was it?*
 
 There were twelve flasks under the hill, and a pilot in irons, and a stone in Alana's fist that pointed at a dying wood somewhere west through the Grey. There was a boy on a bench in the steam-box house with linen on his ankles.
 
@@ -5216,7 +5212,7 @@ The white seam down her face had drawn tight, as it did in the cold.
 
 He did not get up on anything. He found he did not want to.
 
-"Six islands in four years. You know the count. And every island we lose, we lose all of it. Not the land only. The men. The Fourteenth's wounded were killed in their beds in this town. Nineteen of them walked out under the sea beside Cyrene's fishwives to keep the Kettle Bank against us, and the rest went into a vat. Titus's own dead came up out of the river at Hollowmere in their blue cloaks and walked into the Fourteenth. You've seen the quaestor's book. *Stock.* That's what we are to him. Every man of ours he kills is one more of his. Every woman. Every boy on a stair with a lamp." His hands shook on the edge of the table, and he let them. "We cannot out-number a king who counts our dead as stock. Not if every man in Aeridor picked up a spear tomorrow. The more of us he kills, the more he has. Gaius, tell me I've added it wrong."
+"Six islands in four years. You know the count. And every island we lose, we lose all of it. Not the land only. The men. The Fourteenth's wounded were killed in their beds in this town. Nineteen of them walked out under the sea beside Cyrene's fishwives to keep the Kettle Bank against us, and the rest went into a vat. Titus's own dead came up out of the river at Hollowmere in their blue cloaks and walked into the Fourteenth. You've seen the quaestor's book. *Stock.* That's what we are to him. Every man of ours he kills is one more of his. Every woman. Every boy on a stair with a lamp." He put his hands flat on the edge of the table. "We cannot out-number a king who counts our dead as stock. Not if every man in Aeridor picked up a spear tomorrow. The more of us he kills, the more he has. Gaius, tell me I've added it wrong."
 
 "You haven't," said Gaius.
 
@@ -5236,9 +5232,9 @@ It was harder than the rest. He had known it would be.
 
 "My grandfather sent Silverwood a treaty in the spring. In the autumn he sent the axes, and cut the pine on their western shore for a war-fleet, and called it the crown's part. It was never the crown's part. My father's council had letters from Stoneheart two famine winters running, asking for grain, and answered them with apologies on very good paper. I was at that table, the second winter. I was drunk. I thought it was funny how long the letters were." Somebody on the stair drew a breath. "The fens asked for a border with their own name on it, drawn by their own hand, and nobody ever drew it. And our banners went through the villages on the edges of the old lands, on the way to somewhere that mattered, and took bread and roofs and firewood, and never looked down to see what they'd passed through." He stopped. "That's my house. That's my name. I carry it with the ninety-one, and it's heavier, because the ninety-one weren't all my fault, and this was."
 
-He looked at Roderic. The old man was looking at the floor.
+He looked at Roderic. The General was looking at the floor.
 
-"So I'm not going to Silverwood to offer them anything. A man who's broken his word doesn't get to come back with a new one in his fist and ask to be believed. I'm going to give them back what was done to them. Twelve flasks, and the day-book, and the ship, and the woman who said the names of the eighty over the vat. And then I'm going to stand on their ground and let them decide what I am." He spread his shaking hands. "That's the whole plan. It's a poor plan. It's the only one I've got that doesn't end with every man in this cave standing up again after he's dead, carrying stone for Lucan."
+"So I'm not going to Silverwood to offer them anything. A man who's broken his word doesn't get to come back with a new one in his fist and ask to be believed. I'm going to give them back what was done to them. Twelve flasks, and the day-book, and the ship, and the woman who said the names of the eighty over the vat. And then I'm going to stand on their ground and let them decide what I am." He spread his hands. "That's the whole plan. It's a poor plan. It's the only one I've got that doesn't end with every man in this cave standing up again after he's dead, carrying stone for Lucan."
 
 ---
 
@@ -5678,7 +5674,7 @@ She drew the report out of her mail. It was warm from her ribs and crushed flat,
 
 "I had the whole afternoon. The prince talks a long time in a cave."
 
-She unbuckled her sword-belt and hung it on the peg, and stood the Farrier in the corner. Then she bent from the waist with her arms down before her and shook herself out of the mail, as she had done ten thousand times: one long shrug from the shoulders, and it went off over her head and down her arms all at once and poured onto the boards with the sound of a sack of nails. She had never once done it in front of a man who wanted to watch. He wanted to. She could feel it on her back as she straightened, as plain as the heat off the brazier, and she let him have it. Under the mail the arming-coat was quilted linen, dark with sweat at the arms and down the spine, and it smelled of iron and of her. She unlaced it down the front without hurrying. She had decided on the wall that nothing about tonight was going to be hurried. Then the shirt, over her head, and her plaits came out of the neck of it, each as thick as a man's wrist, and fell down her back to her waist.
+She unbuckled her sword-belt and hung it on the peg, and stood the Farrier in the corner. Then she bent from the waist with her arms down before her and shook herself out of the mail, as she had done ten thousand times: one long shrug from the shoulders, and it went off over her head and down her arms and poured onto the boards with the sound of a sack of nails. She had never once done it in front of a man who wanted to watch. He wanted to. She could feel it on her back as she straightened, as plain as the heat off the brazier, and she let him have it. Under the mail the arming-coat was quilted linen, dark with sweat at the arms and down the spine, and it smelled of iron and of her. She unlaced it down the front without hurrying. She had decided on the wall that nothing about tonight was going to be hurried. Then the shirt, over her head, and her plaits came out of the neck of it, each as thick as a man's wrist, and fell down her back to her waist.
 
 She stood in her hose and boots in the lamplight and let him look.
 
@@ -5782,7 +5778,7 @@ She waited for the old weight to come down. It did not come. She read them down 
 
 And there had been the steam-box house, in the small hours, with the blood still drying under her nose: his arm laid open on the table under somebody else's hands, and the honey-gold head bent over it, and the face half the island had told her, unasked, was the loveliest it had ever seen, quite calm. Alana had stood in the doorway with the snow at her back and found out how much she minded. Then she had gone back up the slip. She had not written that down.
 
-On the beach he had offered, and she had said *not tonight*, and he had not asked again. He would not. He had kept the hand's breadth off her ever since, kept it exactly, because it was the one thing left he could give her that he had not already thrown away. He would keep it to the wood, and into the ground, if she let him.
+On the beach he had offered, and she had said *not tonight*, and he had not asked again. He would not. He had kept his distance ever since, kept it exactly, because it was the one thing left he could give her that he had not already thrown away. He would keep it to the wood, and into the ground, if she let him.
 
 It was not his to close. It had not been since the beach.
 
@@ -5864,7 +5860,7 @@ She sat down on the cold crust of the dune and unlaced them, and pulled them off
 
 He held out both hands, cupped. She let the pins fall into them, and he put them away inside his tunic against his ribs, with the arrow and the oilskin, with enormous care. Her hair came down.
 
-It came down the whole dark heavy weight of it, over her shoulders and down her back to the waist, and she felt him see it, and shook it once so that he would see it better. She had been looked at all her life, in lecture halls and on quays and across the floor of the Lesser Hall, and had minded it, mostly. She did not mind it now. She stood barefoot on the warm sand in the dark silk with her hair down and the fire behind her, and found that she wanted to be looked at by this one man, on this sandhill, exactly as much as she could bear, and a little more.
+It came down the whole dark heavy weight of it, over her shoulders and down her back to the waist, and she shook it once, because the pins had left it crimped and it pulled at her scalp. He had opened his mouth to say something about the pins. He did not say it. She stood barefoot on the warm sand in the dark silk with her hair down and the fire behind her, and found that she wanted to be looked at by this one man, on this sandhill, exactly as much as she could bear, and a little more.
 
 She gave him her hand again, and the drum came round to the strong beat, and they danced.
 
@@ -6024,7 +6020,7 @@ She did not watch him go up. She watched Hostus's face, which was turned up to w
 
 He had gone backward, as a man goes who has been holding on with his eyes and not his hands. A man's height and a half is not very high. It was high enough. He lay at the ladder's foot in the frost with his head at an angle no head takes on its own, and his hands open at his sides, palms up, the cracks in them shining with her lard.
 
-She went to him because it was what she did. She knelt on the frost and put two fingers under the angle of his jaw, and waited the proper time, and a little longer. Behind her the slip had gone quiet the way a slip goes quiet, all at once, adzes held up in the air.
+She went to him because it was what she did. She knelt on the frost and put two fingers under the angle of his jaw, and waited the proper time, and a little longer. Behind her the slip had gone quiet the way a slip goes quiet, adzes held up in the air.
 
 "His neck," she said.
 
@@ -6292,7 +6288,7 @@ The boy. The long one at the end of the line, with the big red hands and the nec
 
 "This war may take him," said Liora. "But I will not."
 
-Her fear went out of her all at once, like water out of a split cask, and left her light-headed.
+Her fear went out of her like water out of a split cask, and left her light-headed.
 
 He had not said *stop*. He had not said *murderer*, or *why*, or *how*. He had come all the way up the hill and down the long ward between the empty beds, and closed the distance he had kept since the landing, to ask her the only things that were still his to ask; and she had answered him, and he believed her. She could see him believe her. It went into his face like light into a room when the shutter is opened.
 
@@ -6540,7 +6536,7 @@ Sylara said nothing.
 
 Sylara looked at her.
 
-It was a long look. The lantern was between them, and its slit of light lay across the healer's hands, which were folded in her lap, quite still, long-fingered, scrubbed so clean the skin at the knuckles had gone thin and shiny. They were the steadiest hands Sylara had ever seen on a woman or a man. She had seen them on the stair, from the rocks under the fort's seaward wall, at the top of the tide, in the last light of the thirteenth day. She had seen the halt, and the big man with the keg on his shoulder at the railless lip, and the healer at the turn of the stair with her satchels. She had heard the name called down the stair, not loudly. She had seen the man turn his head.
+It was a long look. The lantern was between them, and its slit of light lay across the healer's hands, which were folded in her lap, long-fingered, scrubbed so clean the skin at the knuckles had gone thin and shiny. They were the steadiest hands Sylara had ever seen on a woman or a man. She had seen them on the stair, from the rocks under the fort's seaward wall, at the top of the tide, in the last light of the thirteenth day. She had seen the halt, and the big man with the keg on his shoulder at the railless lip, and the healer at the turn of the stair with her satchels. She had heard the name called down the stair, not loudly. She had seen the man turn his head.
 
 And the next day she had seen a small bald man go backward off a ladder at the slips, from a roof on the far side of them, and the day after that a big grey man go down on the black beach at the edge of a fire, with the healer kneeling by him and her two fingers on his eyes.
 
@@ -6810,13 +6806,13 @@ Lyrielle looked at her for a long time.
 
 "No."
 
-"You are telling them to me. The thieves. The old man. The witch. The healer." Something moved at the corner of the long carved mouth, very slightly. "You never told me a human's name in ten years. You told me *the captain*, and *the lord*, and *the one with the limp*."
+"You are telling them to me. The thieves. The big soldier. The witch. The healer." Something moved at the corner of the long carved mouth, very slightly. "You never told me a human's name in ten years. You told me *the captain*, and *the lord*, and *the one with the limp*."
 
 "I still haven't. Those are trades."
 
 "Are they." Lyrielle bent, stiffly, and picked up her bow. "Then tell me his trade, warden. In one word. As you would write it."
 
-Sylara thought of the slips at Cyrene, and a sword in the ash, and a man sitting halfway up a black beach with his back to the sea. She thought of a man at a ship's rail an hour ago, looking at his grandfather's stumps, with his hands shaking in front of everyone.
+Sylara thought of the slips at Cyrene, and a sword in the ash, and a man sitting halfway up a black beach with his back to the sea. She thought of a man at a ship's rail an hour ago, looking at his grandfather's stumps, in front of everyone.
 
 "I don't know," she said. "That's why I came back first."
 
@@ -6834,7 +6830,7 @@ Sylara stopped walking.
 
 "Her bow was found," said Lyrielle. "At the edge of the glade. Strung. One arrow loosed." She did not stop walking, and after a moment Sylara had to go on, or be left. "Faelar tracked her as far as the Ring Walk. Then there were horses. Then there was nothing."
 
-Sereth had taught Sylara to fletch. They had been girls together in the wardens' house at the Boundary, Sylara the only human the wardens had taken in that decade and Sereth the only elf-child young enough to be put to the same work, and they had hated each other for a year and a half and then not, all at once, over a pot of hide glue that had boiled over. Sereth had laughed until she cried. Sylara had not known elves could.
+Sereth had taught Sylara to fletch. They had been girls together in the wardens' house at the Boundary, Sylara the only human the wardens had taken in that decade and Sereth the only elf-child young enough to be put to the same work, and they had hated each other for a year and a half and then not, over a pot of hide glue that had boiled over. Sereth had laughed until she cried. Sylara had not known elves could.
 
 She had been the daughter of an elder. Of Ithren-Sol, who sat on the council roots, and who had held her on his knee at the Midwinter singing until she was sixty, which among elves was not a long time at all.
 
@@ -6888,7 +6884,7 @@ Somebody was beating time for them, soft and steady, on a drum, on the march, in
 
 She lay along the low bough of a pine above the edge of the cutting with Lyrielle on the next bough and Faelar on the one beyond, and two of the young wardens further along in the silver dark, all of them with arrows nocked, none of them raised; and she watched them come.
 
-The prince was at the front. Of course he was. He walked bareheaded, with his helmet with the red crest under his arm and the patched black cloak over his mail, and he looked at the trees as he came, up and up, the way men look up in a temple, and did not look at his feet, and caught his boot on a root and nearly went down and recovered and walked on, red at the neck. Behind him came the woman with the broad-headed spear, already scowling at the silver roof as if it owed her money, her two long fair plaits swinging at her belt and the grey in them catching the light; she walked like a woman who knew the whole wood was looking at her and had decided long ago that it might. Then the Lanciarii in their old blue cloaks two by two behind her, their long spears sloped on their shoulders, the points going along above the column like a hedge on the move; and the old general on the grey mare, sitting very straight. Then the thieves with *XIV* on their shields. The slingers, the brown silent Vessan at their head, his eyes on everything. The witch, walking with her face tipped up and her lips moving, as if she were reading the trees, her dark hair pinned up high and her long pale throat bare to the cold, which she did not seem to have noticed. The engineer, with a look of quiet suffering, his hands rigidly in his belt, where he had been told to keep them.
+The prince was at the front. Of course he was. He walked bareheaded, with his helmet with the red crest under his arm and the patched black cloak over his mail, and he looked at the trees as he came, up and up, the way men look up in a temple, and did not look at his feet, and caught his boot on a root and nearly went down and recovered and walked on, red at the neck. Behind him came the woman with the broad-headed spear, already scowling at the silver roof as if it owed her money, her two long fair plaits swinging at her belt and the grey in them catching the light. Then the Lanciarii in their old blue cloaks two by two behind her, their long spears sloped on their shoulders, the points going along above the column like a hedge on the move; and the old general on the grey mare, sitting very straight. Then the thieves with *XIV* on their shields. The slingers, the brown silent Vessan at their head, his eyes on everything. The witch, walking with her face tipped up and her lips moving, as if she were reading the trees, her dark hair pinned up high and her long pale throat bare to the cold, which she did not seem to have noticed. The engineer, with a look of quiet suffering, his hands rigidly in his belt, where he had been told to keep them.
 
 And two of the thieves with a handcart between them, and on it, lashed under sailcloth, two crates. And beside the cart, with one hand on the sailcloth, walking in the middle of a space two paces wide that went everywhere she went, the healer.
 
@@ -7124,7 +7120,7 @@ The old elf's eyes moved to it, and came back.
 
 So he said it.
 
-He said it badly at first, because he had no speech, and then less badly, because the old elf did not help him and he found he did not want help. He said it standing on the moss with his helmet at his feet and his hands at his sides where everyone could see them, and they shook, and he let them.
+He said it badly at first, because he had no speech, and then less badly, because the old elf did not help him and he found he did not want help. He said it standing on the moss with his helmet at his feet and his hands at his sides where everyone could see them.
 
 He told them about Aerid the Binder, the ship's master from the rock nobody wanted, and the box of shards that was the whole of the kingdom. He told them about four in five. He told them what he had given Cyrene in the cave: four fields in five and four boats in five and four seats in five and four spears in five on the wall, and the crown's fifth a harbor and a road and a seat that was always outvoted, and a drum. He told them that Silverwood had never been given its four, only its boundary, and then had the boundary cut down for masts; and that he was not here to give it its four, because they had always been its own, and a man does not give back a thing he stole and call it a gift.
 
@@ -7138,7 +7134,7 @@ The tiers were very still.
 
 "Then I'll tell you the count of mine, Elder," said Marcus, "so you can write it under his."
 
-He held up one shaking hand, open, where the whole ring of seats could see it, and folded the first finger down.
+He held up one hand, open, where the whole ring of seats could see it, and folded the first finger down.
 
 "A harbor. The western bay, where the *Tally* called. The water and the sand to the high-tide mark. Not a tree. Not a root. Not one of those stumps; they're yours, and I'd sooner you left them where they are so that every prince of my house who comes after me has to walk past them." Second finger. "A road. From the sand to wherever you'll let a man stand to talk to you. This one, if you'll have it. My people walk it on your sufferance, with their hands empty, and if you shut it, it's shut." Third. "A seat. At these roots. To listen."
 
@@ -7254,7 +7250,7 @@ Beside Marcus, Lyrielle put her hand on the trunk of the great tree, and leaned 
 
 She found him in the cutting, after dark, sitting on a stump.
 
-She had watched the council from a bough above the stair, as she had watched every council since she was nine; the wardens were permitted the boughs, not the seats. She had watched him stand on the moss and talk with his hands shaking. She had watched him come to the place about the seat, and stop, and change course in the middle of the water like a ship going about; and she had seen Nyra-Lis's face when he did it, and the heron's, and she had written in the book, by feel, on the bough, with her knees round the branch: *He gave away the no.* And then sat there with the lead in her fingers for a long time, not knowing what she thought of it.
+She had watched the council from a bough above the stair, as she had watched every council since she was nine; the wardens were permitted the boughs, not the seats. She had watched him stand on the moss bareheaded and talk. She had watched him come to the place about the seat, and stop, and change course in the middle of the water like a ship going about; and she had seen Nyra-Lis's face when he did it, and the heron's, and she had written in the book, by feel, on the bough, with her knees round the branch: *He gave away the no.* And then sat there with the lead in her fingers for a long time, not knowing what she thought of it.
 
 Then she had watched the song not close.
 
@@ -7324,7 +7320,7 @@ The fires cracked. Somewhere among the stumps a thief laughed, and was shushed.
 
 "He's not a traitor," said Sylara. Her voice came out wrong. "He's her *father*."
 
-"I know." The prince's hands were shaking again. He let them. "That's the whole of it, isn't it. That's what he'd buy. Not gold. You can't buy an elf with gold, I'd think. Not the best voice on the roots." He looked at the dark under the standing trees, toward the west, where the black root ran under the moss to the western glade. "When's the next seventh night?"
+"I know." The prince rubbed his palms down his thighs. "That's the whole of it, isn't it. That's what he'd buy. Not gold. You can't buy an elf with gold, I'd think. Not the best voice on the roots." He looked at the dark under the standing trees, toward the west, where the black root ran under the moss to the western glade. "When's the next seventh night?"
 
 She had counted it on the bough, on her cord. She did not need to count it again.
 
@@ -7638,11 +7634,11 @@ Down the cutting a spade rang on a root, and a thief swore at it.
 
 **VALERIA**
 
-The General's back went at dusk, as it always went: all at once, between one stride and the next, like a plank giving under a cart.
+The General's back went at dusk, as it always went: between one stride and the next, like a plank giving under a cart.
 
 She saw it go. She was on the edge of the ditch with Rufo, measuring how far the thieves had dug, which was not far, and saw him get down off the mare at the top of the cutting after a day of riding up and down the Ring Walk with two of the elves' wardens to learn it; saw him put his right foot to the ground and the left come off the stirrup; saw the whole long straight length of him check, in the middle, like a man who has heard his name called behind him and will not turn round.
 
-He did not make a sound. He stood beside the mare with one hand on her withers and the other on the saddle, quite still, looking out over the cutting with his beard combed and his chin up, as a man looks out over a field he is about to charge.
+He did not make a sound. He stood beside the mare with one hand on her withers and the other on the saddle, looking out over the cutting with his beard combed and his chin up, as a man looks out over a field he is about to charge.
 
 "Carry on," she said to Rufo, and went up the slope.
 
@@ -8160,7 +8156,7 @@ The dead began to walk.
 
 The dead came across the open ground at a walk, soundlessly, out of step, and the slingers on the wall either side of the gate began to sling.
 
-Atticus's men did not shout either. They stood on the Girdle in their bare feet on the roots and swung, once round their heads, and let go, and the lead went into the dead with a sound like a fist into a sack of wet grain. Heads. Atticus had told them heads, on the *Clemency*, three days out of the capital; he had told them again on the black beach before the Kettle Bank, in his slow hill-voice, and they had learned it as hill-men learn where to throw at a wolf. A dead man with his skull broken was a dead man. A dead man with his arm broken was a dead man with one arm, still walking.
+Atticus's men did not shout either. They stood on the Girdle in their bare feet on the roots and swung, once round their heads, and let go, and the lead went into the dead with a short wet smack. Heads. Atticus had told them heads, on the *Clemency*, three days out of the capital; he had told them again on the black beach before the Kettle Bank, in his slow hill-voice, and they had learned it as hill-men learn where to throw at a wolf. A dead man with his skull broken was a dead man. A dead man with his arm broken was a dead man with one arm, still walking.
 
 They fell. Not many. Some. They fell where they were struck, without a sound, and the ones behind walked over them and did not look down.
 
@@ -8170,7 +8166,7 @@ Marcus heard them go, a ragged hard *clack-clack-clack* like a stick drawn along
 
 And then the dead were at the gate.
 
-There was no shock. That was the other thing he had not been ready for. The living hit a shield wall. They charged it, and roared, and the wall rocked, and you felt the weight of them come through the shield into your shoulder and your hip and your heels. The dead did not charge. They walked into it. They walked into the shields as if the shields were not there, as a tide walks into a sea-wall, and leaned, and kept walking, with their grey faces against the painted *XIV* a hand's breadth from his eyes, and their hands came over the rims and round the edges, feeling, slowly, the way a blind man feels for a latch.
+There was no shock. That was the other thing he had not been ready for. The living hit a shield wall. They charged it, and roared, and the wall rocked, and you felt the weight of them come through the shield into your shoulder and your hip and your heels. The dead did not charge. They walked into it. They walked into the shields as if the shields were not there, and leaned, and kept walking, with their grey faces against the painted *XIV* under his eyes, and their hands came over the rims and round the edges, feeling, slowly, the way a blind man feels for a latch.
 
 "*Push,*" said Rufo, and they pushed. "Stab. Low. In under the rim. *Stab.*"
 
@@ -8210,7 +8206,7 @@ On the wall either side of the gate the slingers had been waiting. They stood up
 
 He did not know how long they held it. Long enough for his arms to begin to shake, and then to stop shaking, the way they did at the end, when the shaking had gone past where shaking could reach. Long enough for the dead in front of the shell to stop being a crowd and begin to be a heap. Somewhere in it a grey hand came in under a rim at the shell's left corner and found a man's wrist and broke it like a stick, and the man did not let go of his shield, and after that Marcus could hear him breathing through his teeth, high and fast, over all the other breathing in the dark.
 
-And somewhere in it, later, something came in under the shields at their heels. It came low along the leaf-mould, warm, and in the dark of the shell it showed a faint gold-white, like breath on a frosty morning with a lamp behind it. It did not go out past the rims to the dead. It lay round their boots as if it knew which side of the shields it was for, and came up through them, and the high fast breathing at the left corner stopped, and the man swore, astonished, in a quite different voice. Marcus felt a split knuckle he had not known he had close up inside his glove. *Liora,* he thought. On her knees by the cart, with her two hands flat on a root and her eyes shut. He could not look round.
+And somewhere in it, later, something came in under the shields at their heels. It came low along the leaf-mould, warm, and in the dark of the shell it showed a faint gold-white. It did not go out past the rims to the dead. It lay round their boots as if it knew which side of the shields it was for, and came up through them, and the high fast breathing at the left corner stopped, and the man swore, astonished, in a quite different voice. Marcus felt a split knuckle he had not known he had close up inside his glove. *Liora,* he thought. On her knees by the cart, with her two hands flat on a root and her eyes shut. He could not look round.
 
 He heard Alana's voice somewhere behind him, small and clear and very calm, say *Third glass*, and later, *Fourth*.
 
@@ -8246,7 +8242,7 @@ And then Lyrielle was on the wall beside him, on the south side, with an arrow o
 
 "That was a singer of the western glade," she said. Her voice was steady. Marcus did not know how. "The great one. He was the first I ever saw, when the wardens took me as a child. He came down to the pool at dusk and sang, and the moss lit under him." The arrow did not move. "He will try to kill you. You will not kill him. Drive him, pin him, outlast him. The cleansing will return him to himself."
 
-It was Roderic's voice that answered. Marcus had not known he was there. He had come across the clearing from the north gate on foot, limping, with his grandfather's sword in his hand and his back very straight, because Valeria had told him to sit on his horse in the trees and wait, and it was not yet time, and he had come to see.
+It was Roderic's voice that answered. Marcus had not known he was there. He had come across the clearing from the north gate on foot, with his grandfather's sword in his hand and his back very straight. He and Valeria had agreed that he would hold the horses in the trees until his time came; it was not yet time, and he had come to see.
 
 "And if it can't be returned?"
 
@@ -8264,7 +8260,7 @@ Six of the Lanciarii came in behind her. Not beside her. Behind, and either side
 
 "Anchor on me," she said. Not loud. She did not need loud.
 
-From the wall above, Marcus could see the whole straight length of her back: the two fair plaits hanging from under her helmet to her belt, the mail drawn tight across shoulders she had spent half her life making into exactly this. The six behind her were looking at it the way men look at a wall they mean to set their backs against. He thought she knew. He thought she did not mind.
+From the wall above, Marcus could see the whole straight length of her back: the two fair plaits hanging from under her helmet to her belt, the mail drawn tight across shoulders she had spent half her life making into exactly this. The six behind her were looking at it the way men look at a wall they mean to set their backs against; and when she moved, they moved with her, and nobody had given an order.
 
 The great singer came at her.
 
@@ -8354,7 +8350,7 @@ The black had gone into the skin of his fingers. Not deep. A tracery of it, very
 
 "Can you—"
 
-"Not with that in it." She turned his hand over, palm up, and back. "The warmth goes into the black the way heat goes into a stone. It finds nothing to hold. I tried it on the mole, on the marine who gripped the split flask, and Hostus took his arm off above the elbow." She had a knife in her other hand. He had not seen her take it out. It was very small and very sharp, a surgeon's knife, with a handle of bone, and she held it the way Iason held his chisel, and he understood, all at once and coldly, standing there with his hand in hers in the trees outside the Girdle with a dead man at his feet, why ninety thieves kept a pace off her. "So it comes out first. It's in the skin yet, not the hand. Hold still, Highness. This will hurt."
+"Not with that in it." She turned his hand over, palm up, and back. "The warmth goes into the black the way heat goes into a stone. It finds nothing to hold. I tried it on the mole, on the marine who gripped the split flask, and Hostus took his arm off above the elbow." She had a knife in her other hand. He had not seen her take it out. It was very small and very sharp, a surgeon's knife, with a handle of bone, and she held it the way Iason held his chisel, and he understood, coldly, standing there with his hand in hers in the trees outside the Girdle with a dead man at his feet, why ninety thieves kept a pace off her. "So it comes out first. It's in the skin yet, not the hand. Hold still, Highness. This will hurt."
 
 It hurt.
 
@@ -8362,7 +8358,7 @@ She took the skin off his fingers the way a woman peels an apple when she means 
 
 Then she put the knife between her teeth, and cupped her two hands and breathed into them, once, twice, as a woman blows on a fire on a cold morning, and closed his hand between them, and shut her eyes.
 
-He had had it before, in his forearm, the night of the mole. He was still not ready for it. The warmth did not lie on the skin. It went in, down through the raw of his fingers to the bone, and something came in with it, looking; he felt it go along each finger from the tip to the knuckle, the way you know your own hand in a dark room without needing to see it. Where her fingers closed over his there was a faint red-gold light along their rims, so faint in the grey morning that he would have missed it if he had looked away. The raw drew in under her palms like a seam pulled shut from the inside. When she opened her hands his fingers were whole, the new skin on them pink and shining as the inside of a shell, and the feeling was coming back into them in pins.
+He had had it before, in his forearm, the night of the mole. He was still not ready for it. The warmth did not lie on the skin. It went in, down through the raw of his fingers to the bone, and something came in with it, looking; he felt it go along each finger from the tip to the knuckle, the way you know your own hand in a dark room without needing to see it. Where her fingers closed over his there was a faint red-gold light along their rims, so faint in the grey morning that he would have missed it if he had looked away. The raw drew in under her palms like a seam pulled shut from the inside. When she opened her hands his fingers were whole, the new skin on them pink and soft as a boy's, and the feeling was coming back into them in pins.
 
 Her hands were cold when she let go, like a draught under a door. There was sweat on her lip. She took the knife out of her teeth, and he understood a second thing, more slowly than the first, and knew he would be thinking about it long after the wood was quiet: why, for all of it, ninety thieves kept no further off her than a pace.
 
@@ -8504,7 +8500,7 @@ Not all at once. It came up off the sand on the seaward side with a long sucking
 
 It went over onto its back with a crash that she was sure they heard on the council roots.
 
-Sereth went with it, inside, tumbling, and lay on the bars that had been its roof with her knees in the air and the floor above her, and the floor was a sheet of black iron riveted to the frame at every hand's breadth with rivets as thick as a thumb.
+Sereth went with it, inside, tumbling, and lay on the bars that had been its roof with her knees in the air and the floor above her, and the floor was a sheet of black iron riveted close along the frame with rivets as thick as a thumb.
 
 Old. Rusted. Sylara had seen the bloom on them from the bracken, red-brown, scabbed, the way iron goes when it lives too near the sea. She had staked a life on it.
 
@@ -8542,7 +8538,7 @@ Sereth looked at it. Then she turned on her back on the bars and set both her ba
 
 Sereth was not much bigger than a cat any more. She went through it.
 
-Sylara caught her as she came out. She did not mean to; she had meant to give her a hand. But Sereth's legs did not hold when they touched the sand, and she came down out of the cage the way a sack comes off a cart, all at once, and Sylara caught her round the ribs and held her up, and felt the bones under the rags like the ribs of a boat, and nothing over them.
+Sylara caught her as she came out. She did not mean to; she had meant to give her a hand. But Sereth's legs did not hold when they touched the sand, and she came down out of the cage the way a sack comes off a cart, and Sylara caught her round the ribs and held her up, and felt the bones under the rags like the ribs of a boat, and nothing over them.
 
 *You can't lift a pot of glue.*
 
@@ -8652,7 +8648,7 @@ She did not stop at the edge of the moss. Wardens were permitted the boughs. Not
 
 She walked out onto it with Sereth in her arms and the scarred boy at her side holding Sereth's feet, and the four young wardens behind her with their bows, and the song stopped.
 
-Not closed. Stopped. Every voice at once, as a flock of birds stops all at once in a tree when the hawk's shadow goes over. A thousand elves on the tiers and the stairs and the hanging bridges turned their long fine faces to the floor of the council roots, where a human woman stood with her chest heaving and her hood fallen back and a warden in rags lying in her arms with her cropped hair sticking up at the nape.
+Not closed. Stopped. Every voice at once, as a flock of birds stops in a tree when the hawk's shadow goes over. A thousand elves on the tiers and the stairs and the hanging bridges turned their long fine faces to the floor of the council roots, where a human woman stood with her chest heaving and her hood fallen back and a warden in rags lying in her arms with her cropped hair sticking up at the nape.
 
 Sylara had never been looked at by so many in her life. She felt it on her like weather: on the wet leathers, on the braid, on her face. She found, absurdly, with her lungs on fire and her arms breaking, that she was standing up straighter under it.
 
@@ -8694,7 +8690,7 @@ This was not a door.
 
 It closed like a fist.
 
-She felt it in the ground. She would swear to that afterward to anyone who asked, and the elves never once disbelieved her. She felt it come up through the moss of the council roots into the soles of her feet, a thrum, like the thrum in Gaius's tuned skeins when the wind touches them; and the great tree over her head shivered along its whole length, every branch, every leaf; and the leaves of the roof turned on their stems all together, all at once, silver and grey and silver, with a sound like the sea coming in over a whole beach. And out from the council roots in every direction, through the wood, from tree to tree, she heard it go: the thrum, the shiver, the turning of the leaves. A wave going out across a pool. To the Boundary. To the cutting. To the Fold. To the heart.
+She felt it in the ground. She would swear to that afterward to anyone who asked, and the elves never once disbelieved her. She felt it come up through the moss of the council roots into the soles of her feet, a thrum, like the thrum in Gaius's tuned skeins when the wind touches them; and the great tree over her head shivered along its whole length, every branch, every leaf; and the leaves of the roof turned on their stems all together, silver and grey and silver, with a sound like the sea coming in over a whole beach. And out from the council roots in every direction, through the wood, from tree to tree, she heard it go: the thrum, the shiver, the turning of the leaves. A wave going out across a pool. To the Boundary. To the cutting. To the Fold. To the heart.
 
 And in its wake, as it passed, like the wake behind a ship, the wood stood up.
 
@@ -8732,7 +8728,7 @@ There was a great deal to watch.
 
 There was Liora, by the cart in the middle of the Girdle, among the wounded, and the space round her, which had gone. It had gone at about the fourth glass, when the first crossbow bolt came over the south wall into the aid station and hit the thief who had been holding a slinger's leg for her, in the throat, so that he was past her before he had finished falling; and Liora had kept her one hand on the leg until the bone went home, and held the dying thief's hand with the other and said his name; and after that nobody kept a pace off her, because there was nowhere left to keep it, and because, Alana thought, the men lying on the leaf-mould by the cart in rows had found they did not care what she was so long as she came.
 
-Twice since then Alana had seen the gold-white haze go out from her hands along the rows, low over the leaf-mould, like breath on a frosty morning with a lamp behind it, and men who had been lying down sit up in it and reach for their shields. It did not go out past the wall. Each time Liora had been slower getting up off her knees.
+Twice since then Alana had seen the gold-white haze go out from her hands along the rows, low over the leaf-mould, and men who had been lying down sit up in it and reach for their shields. It did not go out past the wall. Each time Liora had been slower getting up off her knees.
 
 There was Gaius on the north rise beside her, at the bolt-thrower, with two thieves on the winch and his lenses down and his face perfectly calm, winding and loosing and winding and loosing, and at every loose saying, quietly, to himself, "Quarter-tone." He had put a bolt through two red cloaks at once at the south edge of the clearing at the sixth glass, through the trees, and said nothing at all about it, and wound again.
 
@@ -8924,7 +8920,7 @@ The slope did not go on forever. Marcus knew that. But it went on longer than th
 
 "*Your tally-stick. Give it here.*"
 
-Rufo, with his split shield against the dead and his face a hand's breadth from Marcus's in the dark, did not ask again. He got the stick out of his belt somehow with his sword-hand and put it into Marcus's hand.
+Rufo, with his split shield against the dead and his face against Marcus's in the dark, did not ask again. He got the stick out of his belt somehow with his sword-hand and put it into Marcus's hand.
 
 Marcus put it into Alana's.
 
@@ -8970,7 +8966,7 @@ Not as they had stopped when he called them back. All at once. As a man's legs s
 
 Marcus lowered his shield.
 
-The slope was covered with them. Lying where they had stood, in rows, on the leaf-mould, quite still, with their faces to the silver roof. Fishermen. A woman in a red skirt. Soldiers in faded blue. A boy with a net-needle in his belt. They lay there under the trees of Silverwood the way the dead lie, at last, as if somebody had finally let them sit down.
+The slope was covered with them. Lying where they had stood, in rows, on the leaf-mould, with their faces to the silver roof. Fishermen. A woman in a red skirt. Soldiers in faded blue. A boy with a net-needle in his belt. They lay there under the trees of Silverwood the way the dead lie, at last, as if somebody had finally let them sit down.
 
 Beside him Rufo said, very softly, "Salt and iron," and took his helmet off.
 
@@ -9046,7 +9042,7 @@ It had closed.
 
 They did not shout. They did not sound a horn. They loosed.
 
-He heard it go over him like wind through barley: hundreds of arrows, all at once, a long soft hiss like the sea going out over shingle. It went over the Girdle and the clearing and the slope and into the trees beyond, to the south, where the red cloaks of the fifth glass and the eighth were, and into the crags of the Fold, and he heard the red cloaks scream, and then he did not hear them.
+He heard it go over him like wind through barley: hundreds of arrows, a long soft hiss like the sea going out over shingle. It went over the Girdle and the clearing and the slope and into the trees beyond, to the south, where the red cloaks of the fifth glass and the eighth were, and into the crags of the Fold, and he heard the red cloaks scream, and then he did not hear them.
 
 On the south wall of the Girdle, Lyrielle let her drawn bow down, at last, slowly, after six glasses, with her arms shaking so that the arrow fell off the string onto the roots. She did not pick it up. She sat down on the wall with the bow across her knees and her face in her hands.
 
@@ -9086,7 +9082,7 @@ Nobody told him to. He had thought someone would, the old elf or the white-haire
 
 So he went.
 
-The hollow in the middle of the heart-tree was a cave. He had to stoop to go into it, between two of the great twisted trunks, where they came down into the ground and left a gap like a doorway; and inside, it was not dark. The silver light came and went in it, slowly, the way breath comes and goes. In. Out. In. He could see by it. He could see that the inside of the hollow was the inside of the tree: walls of grey-silver wood, twisting upward round him like the inside of a shell, going up into a darkness he could not see the top of. And the floor was roots. All the roots of the heart-tree, coming together at the bottom of the hollow from every side and going down into the ground in one great knot, like the strands of a rope at the place where it is spliced.
+The hollow in the middle of the heart-tree was a cave. He had to stoop to go into it, between two of the great twisted trunks, where they came down into the ground and left a gap like a doorway; and inside, it was not dark. The silver light came and went in it, slowly, the way breath comes and goes. In. Out. In. He could see by it. He could see that the inside of the hollow was the inside of the tree: walls of grey-silver wood, twisting upward round him, going up into a darkness he could not see the top of. And the floor was roots. All the roots of the heart-tree, coming together at the bottom of the hollow from every side and going down into the ground in one great knot, like the strands of a rope at the place where it is spliced.
 
 And at the bottom of the knot, between the roots, half sunk in them, as a stone is sunk in a river-bed: water. A pool no wider than a shield, steaming faintly, green and clear. And in the pool, under the water, a stone.
 
@@ -9160,7 +9156,7 @@ He did not know what he had expected. Fire. A scream. He had none of Alana's run
 
 What happened was that the stone breathed out.
 
-It had been breathing all along, in, out, slow, faint, the silver light coming and going. Now it breathed out once, long, the way a man breathes out who has been holding his breath under water and comes up; and the light came out of it, all of it, at once, not silver but white, so bright that Marcus put his hand over his eyes and still saw it through the bones of his fingers, red and white. It filled the pool. It filled the hollow. It went up the twisting walls of the tree round him like water going up a wick, and he heard the wood creak and crack all round him in the light, the whole fountain of it, a hundred trunks, the way a ship's timbers creak and crack when she comes up off a rock on the flood.
+It had been breathing all along, in, out, slow, faint, the silver light coming and going. Now it breathed out once, long, the way a man breathes out who has been holding his breath under water and comes up; and the light came out of it, all of it, at once, not silver but white, so bright that Marcus put his hand over his eyes and still saw it through the bones of his fingers, red and white. It filled the pool. It filled the hollow. It went up the twisting walls of the tree round him like water going up a wick, and he heard the wood creak and crack all round him in the light, the whole fountain of it, a hundred trunks.
 
 And the black came out.
 
@@ -9176,7 +9172,7 @@ The Heart-Stone lay in its pool among the roots, gold with green in it, clean, e
 
 No black. Anywhere.
 
-He knelt there a long time. His legs were not going to get him up again for a while, he thought, and he did not want them to. He sat back on his heels with his hands on his knees in the silver light coming and going, in, out, slow, like breath, and found that his hands were shaking and that he did not care who saw.
+He knelt there a long time. His legs were not going to get him up again for a while, he thought, and he did not want them to. He sat back on his heels with his hands on his knees in the silver light coming and going, in, out, slow, like breath.
 
 From outside, through the doorway between the trunks, there came a sound.
 
@@ -9408,7 +9404,7 @@ The engineer's face was trying very hard to stay perfectly still, and failing at
 
 Gaius turned to Sileth-Mae, and opened his mouth, and Marcus braced himself for something about load paths or the third volume of Anaxis; and the engineer went down on one knee on the moss of the council roots, in front of a thousand elves, stiffly, like a man unused to kneeling, and bowed his head, and said nothing at all.
 
-The tiers made a sound. It was the same sound, Marcus thought, that they had made when he said he would get used to being outvoted. He still did not know what kind of sound it was. He thought now it might be laughter. Elves laughed very quietly, it seemed, and very rarely, and all at once.
+The tiers made a sound. It was the same sound, Marcus thought, that they had made when he said he would get used to being outvoted. He still did not know what kind of sound it was. He thought now it might be laughter. Elves laughed very quietly, it seemed, and very rarely.
 
 ---
 
@@ -9580,7 +9576,7 @@ The Captain's eyes went round the room once, slowly: the empty benches, the cups
 
 The witch tilted her head. "On what?"
 
-Rufo looked at the stick in his hand. He looked at it for a long moment. Then he put it away in his belt, slowly, with great care.
+Rufo looked at the stick in his hand. Then he put it away in his belt, slowly, with great care.
 
 "Nothing that's settled, my lady," he said.
 
@@ -9798,7 +9794,7 @@ He was careful. She had known he would be. She had not known how hard it would b
 
 "No," said Alana. "I have been careful all my life. Not tonight."
 
-She took his hand from her breast and drew it down over her belly and lower, and held it there between her thighs, where she was already wet for him; and the breath went out of him all at once, as if she had struck him. She felt his fingers learn her. Slowly; and then not slowly. She had her forehead against his shoulder and her nails in his arm, and the list was gone, and the order, and the cold small voice that wrote things down, all of it gone; there was only his hand, and the heat climbing in her, and she said a word she had not known she knew, and then his name.
+She took his hand from her breast and drew it down over her belly and lower, and held it there between her thighs, where she was already wet for him; and the breath went out of him as if she had struck him. She felt his fingers learn her. Slowly; and then not slowly. She had her forehead against his shoulder and her nails in his arm, and the list was gone, and the order, and the cold small voice that wrote things down, all of it gone; there was only his hand, and the heat climbing in her, and she said a word she had not known she knew, and then his name.
 
 Not *Highness*. She heard herself say it. She heard him hear it.
 
@@ -9886,7 +9882,7 @@ Then she put it away. There would be time. It was going to be, she suspected, wi
 
 The dead were walking again.
 
-She heard them before she was properly awake, the way a mother hears a cough two rooms away. She lay in the warm dark of the sleeping-hollow with her cheek on the rock and her hand flat on the rock beside it, and the rock told her. Far off. South, and deep, beyond the edge of the bank where the sea floor fell away into the cold. A sound like no other sound in the sea: not a current dragging shingle, not a whale talking to itself across forty miles of water, not the slow grind of the vents. Feet. Thousands of feet, set down one after another on the sea floor, all in step, the way the dry folk's soldiers walked on their roads.
+She heard them before she was properly awake. She lay in the warm dark of the sleeping-hollow with her cheek on the rock and her hand flat on the rock beside it, and the rock told her. Far off. South, and deep, beyond the edge of the bank where the sea floor fell away into the cold. A sound like no other sound in the sea: not a current dragging shingle, not a whale talking to itself across forty miles of water, not the slow grind of the vents. Feet. Thousands of feet, set down one after another on the sea floor, all in step, the way the dry folk's soldiers walked on their roads.
 
 She lay still and listened to it, the way she would have read a tide, for its edges; and it had none.
 
@@ -9894,7 +9890,7 @@ Beside her, in the hollow, Galene slept with her mouth open and one webbed hand 
 
 Kymon was not in the hollow.
 
-She found him where she knew she would, at the mouth of the passage, sitting on the lip of rock above the water with his feet in it and a spear-gun across his knees, re-laying the sinew. He did not look up. He had heard her coming in the same way she had heard the dead: through the stone.
+She found him where she knew she would, at the mouth of the passage, sitting on the lip of rock above the water with his feet in it and a spear-gun across his knees, re-laying the sinew. He did not look up. He had heard her coming in the same way she had heard the dead: through the stone. He was the biggest man of the hearth and the stillest, long in the arm and deep in the chest from forty years of the deep dives, and in the blue light of the passage the muscle lay along his shoulders and down his back in slabs, like the coils of something resting.
 
 "You heard them," she said.
 
@@ -9970,7 +9966,7 @@ She asked old Ione, the healer, who slept in the next hollow and woke at once as
 
 They went up the long way, by the north passage, where the rock opened out under the edge of the bank, and out into the cold.
 
-It took the breath out of you, the cold, every time, even after a lifetime. You went out of the warm mouth of the passage into the open sea, and the water closed round you like a fist of iron, and for the first twenty strokes every part of you that was not covered with the fat of a winter's eating shouted at you to go back. Then the body remembered what it was for. The heart slowed. The blood went in from the hands and feet and stayed in the middle where it was needed. You swam.
+It took the breath out of you, the cold, every time, even after a lifetime. You went out of the warm mouth of the passage into the open sea, and the water closed round you, iron-cold, and for the first twenty strokes every part of you that was not covered with the fat of a winter's eating shouted at you to go back. Then the body remembered what it was for. The heart slowed. The blood went in from the hands and feet and stayed in the middle where it was needed. You swam.
 
 She swam up the slope of the bank with Kymon beside her and a little below, the way he always swam, where he could see her and anything that came at her from underneath. The black sand of the roof went by under them, and the broken shell, and here and there among the shell, small and grey and soft at the edges, the things the fire had left. She did not look at them. The dry folk's word for the bank was a good word, she thought, a kitchen word. The Kettle. Warm water came up through the sand there from the vents below, in a hundred places, shimmering like air over a fire; the sand was warm under her hand when she touched it. And the fish knew it, and came, and the fishermen knew the fish came, and set their nets there; and in a hundred years not one of them had ever thought to ask why a patch of sea in the middle of a cold world was warm.
 
@@ -10108,7 +10104,7 @@ Valeria looked at him. Something happened at the corner of her mouth and was put
 
 "Given. Not cut." He came down the plank. His legs felt strange on the stone after three days of deck. "The wood gives what the wind takes. They were lying in a fort on a beach. Every one of them. The elves gave them to us."
 
-Baebius looked at him for a long moment, and then at the trunks again.
+Baebius looked at him, and then at the trunks again.
 
 "I sailed under masts of that wood," he said. "When I was a boy. In your grandfather's time. On a supply hulk that followed the fleet to Vessa and back." He was quiet. "You could put your ear to the mast, the old hands said, on a still night, and hear the wood. Singing, they said. I never heard it. I put my ear to it every night for a year." He looked back at Marcus. "I'll go and put my ear to them now, Highness, with your leave. I'm an old fool. But I'll go and do it."
 
@@ -10184,7 +10180,7 @@ The red cloaks saw them.
 
 It went down the file of prisoners like a shiver going down a horse. A man looked up, and saw the seven on the slip, and looked down again at once; and the man behind him saw him look and looked too; and then the whole file was looking, and then not looking, in a hurry, with their heads down and their eyes on the stone. Not one of them called out. Not one of the seven called back.
 
-Merula took his lenses from round his neck, and wiped them on the corner of his cloak, and put them on, and looked at the file of red cloaks through them for a long moment, all the way to the end. Then he took them off again, and bent, and put his shoulder to the next keel-block, and two of his men took the other end.
+Merula took his lenses from round his neck, and wiped them on the corner of his cloak, and put them on, and looked at the file of red cloaks through them, all the way to the end. Then he took them off again, and bent, and put his shoulder to the next keel-block, and two of his men took the other end.
 
 "They know each other," said Marcus.
 
@@ -10276,7 +10272,7 @@ It had been like this for years, if she was honest; and she was trying to be hon
 
 But since the pyre, she had not slept at all.
 
-Not since she had stood at the pyre on the fifteenth day with her hands folded and her eyes on the sergeant across the fire, and tied the knot. Not since she had untied what she could of it, afterward, in pity, and left the rest. She lay down at night and closed her eyes and the knot was there, behind them, the way the shape of a window stays on your eyes after you look at the sun. Not his face. She did not see his face. She saw the knot. She felt it in her hands, the same hands she warmed every morning and laid on the town's hurts to mend them, the way you feel a rope you have hauled on all day, in your hands, at night.
+Not since she had stood at the pyre on the fifteenth day with her hands folded and her eyes on the sergeant across the fire, and tied the knot. Not since she had untied what she could of it, afterward, in pity, and left the rest. She lay down at night and closed her eyes and the knot was there, behind them, the way the shape of a window stays on your eyes after you look at the sun. Not his face. She did not see his face. She saw the knot. She felt it in her hands, the same hands she warmed every morning and laid on the town's hurts to mend them.
 
 She was not sorry. She had looked, carefully, at that too. She was not sorry. She was only awake.
 
@@ -10326,7 +10322,7 @@ Then a woman stood up out of the sea.
 
 She stood up the way a person stands up out of a bath, without hurry, and the warm water ran off her, and she was waist-deep, and then she came in through the surf toward Liora with the steam going up round her, and stopped a little way off, knee-deep, as Liora was, and looked at her.
 
-She was tall. Taller than Liora, not so tall as an elf. Long-limbed, with broad shoulders like a swimmer's, and skin that was not quite the color of anybody's skin that Liora had ever washed: very fair, with a cold grey shine to it in the starlight, like the inside of a mussel shell. She wore something close-fitting, dark, that might have been sealskin, and it fitted her as close as the seal's had fitted the seal. It hid nothing a skin would not have hidden. Liora, who had spent her life looking at bodies and knew a fine one when she saw it, looked: the long hard thighs that the surf broke round, the flat belly, the full high breasts, and over all of it the smooth, sleek weight of a woman who carried a winter's eating under her skin against the cold, as a seal does, so that there was not a hard edge on her anywhere and not an ounce of her soft. A woman of thirty, perhaps; it was hard to say. Over the sealskin hung a kind of loose sleeveless coat of something storm-grey that did not cling to her as wet cloth clings, open down the front, and that had shells sewn on it, small ones, and bits of coral, that chinked very faintly when she moved. She saw Liora looking, and did not cover herself, and did not seem to mind. If anything she stood a moment longer for it, unhurried, the way a woman stands who knows exactly what she looks like coming up out of the sea. Her hair was long and loose and hung down her back almost to the water, and it was blue. Not black with a blue sheen, the way some women's is. Blue. The blue of deep water in sunlight, the blue of the stone at Liora's own throat; and even in the dark, even soaked, it moved as she moved, slowly, a beat behind, as if it were still underwater.
+She was tall. Taller than Liora, not so tall as an elf. Long-limbed, with broad shoulders like a swimmer's, and skin that was not quite the color of anybody's skin that Liora had ever washed: very fair, with a cold grey shine to it in the starlight, like the inside of a mussel shell. She wore something close-fitting, dark, that might have been sealskin, and it fitted her as close as the seal's had fitted the seal. It hid nothing a skin would not have hidden. Liora, who had spent her life looking at bodies and knew a fine one when she saw it, looked: the long hard thighs that the surf broke round, the flat belly, the full high breasts, and over all of it the smooth, sleek weight of a woman who carried a winter's eating under her skin against the cold, as a seal does, so that there was not a hard edge on her anywhere and not an ounce of her soft. A woman of thirty, perhaps; it was hard to say. Over the sealskin hung a kind of loose sleeveless coat of something storm-grey that did not cling to her as wet cloth clings, open down the front, and that had shells sewn on it, small ones, and bits of coral, that chinked very faintly when she moved. Her hair was long and loose and hung down her back almost to the water, and it was blue. Not black with a blue sheen, the way some women's is. Blue. The blue of deep water in sunlight, the blue of the stone at Liora's own throat; and even in the dark, even soaked, it moved as she moved, slowly, a beat behind, as if it were still underwater.
 
 And the water would not leave her.
 
@@ -10572,7 +10568,7 @@ He sat for a time and looked at the space. Then he took the paper by its corner 
 
 "I will sign it," he said, "on the day he fails."
 
-The fire settled. Varro looked at the drawer, and at the king, for a long moment, and the king watched him decide that half a loaf was a great deal of bread.
+The fire settled. Varro looked at the drawer, and at the king, and the king watched him decide that half a loaf was a great deal of bread.
 
 "Majesty," said Varro, and bowed, and went.
 
@@ -10686,33 +10682,17 @@ Valeria had said, about halfway, with one arm round his neck and her face perfec
 
 At the top, on the top step, something low on the left of his back, under the old halberd scar where the Long Field had come in through his plate, went *click*, very quietly, like a latch dropping in a far room.
 
-He stood there. He did not put her down. He did not say anything at all for the space of three breaths. Then he said, in a voice he did not recognize, "Valeria, my dear, would you be so good as to open the door," and she looked at his face, and opened it; and he walked through it very carefully, as a man walks across a room with a tray of full cups, and set her down on the bed, and then, after some consideration, lay down beside her on his face and did not move again.
+He stood there. He did not put her down. Then he said, in a voice he did not recognize, "Valeria, my dear, would you be so good as to open the door," and she looked at his face, and opened it; and he set her down on the bed, and lay down beside her on his face, and did not move again. He laughed into the blanket, and it hurt, and after a while so did she.
 
-"I told you," said Valeria.
-
-"You did not."
-
-"I said I'd not carry you. That was the telling."
-
-He had laughed into the blanket. It hurt. He had kept laughing anyway, and after a while so had she, which he had heard from her only once before, in the dark over the land gate: a low surprised sound, like a door that has not been opened in years, and it had been worth the back. It had been worth a great deal more than the back. And later—
-
-Well. Later had been later. A man of fifty-two with one good side learns to be a tactician.
-
-He had lain on his face a while and considered the ground, as he had considered a good many fields in his life from the back of a horse, with the enemy in plain view and his own dispositions nothing like what he would have chosen. His back he could not lie on; he had tried it, once, at her suggestion, and said a short word in the hill-tongue, and she had rolled him off it again with one hand, like a woman turning a loaf. On his face he was no use to anyone. That left the right side. The right side was sound. The right side had carried him through the Long Field and two marriages and the whole of the march from the Girdle, and he thought it might be persuaded to carry him through this.
+Well. Later had been later. A man of fifty-two with one good side learns to be a tactician. He got himself over onto the right side by stages, the way a hull is warped off a quay, a hand and then an elbow and then the rest, and lay there breathing.
 
 "You've the look," said Valeria, up on one elbow beside him, "of a man drawing up a plan."
 
-"I'm drawing up a plan."
-
-"Does it need a council?"
-
-"It needs a captain who'll do as she's told," said Roderic. "For once. For the opening only. After that she may have the field."
-
-She looked at him a long moment in the light of the one lamp, with her scar pale down the side of her face and something at the corner of her mouth that was not yet a smile and was considering it.
+"It needs a captain who'll do as she's told," said Roderic. "For the opening only."
 
 "Go on, then," she said. "General."
 
-He got himself over onto the right side by stages, the way a hull is warped off a quay, a hand and then an elbow and then the rest, and lay there breathing. Then, because a good commander begins with what he most wants and works back from it:
+Then, because a good commander begins with what he most wants and works back from it:
 
 "Your hair," he said.
 
@@ -10724,7 +10704,7 @@ That stopped her. She sat up in the bed and looked at him as if he had asked for
 
 She did it without any hurry at all. Twenty years of soldier's plaits, done every dawn by feel in the dark: her fingers knew the work the way they knew the laces of her mail, and she let him watch them do it backward, a cross at a time, from the end up. The fair hair came out of the plaiting crimped in long waves, grey at the temples, and heavy; there was a great deal more of it than a man would have guessed from two plaits. When she had done the second she shook it out, once, and it came down round her like a cloak, over her shoulders and her breasts and down her back to the bed, and she sat in it and looked at him through it.
 
-She knew what it did. He watched her know it. She sat up straighter for it, a little, the way she stood straighter on a wall in the wind, and did not cover anything; and he lay on his good side with his mouth gone dry and thought that he had once seen the sun come up over the Long Field with the whole of the enemy's horse drawn up in it, and this was better.
+She sat in it as she stood on a wall in the wind, straight. He lay on his good side with his mouth gone dry, looking at the one grey streak that ran down through all that fair from the temple, and thought that he had once seen the sun come up over the Long Field with the whole of the enemy's horse drawn up in it, and this was better.
 
 "Well?" she said.
 
@@ -10732,51 +10712,19 @@ She knew what it did. He watched her know it. She sat up straighter for it, a li
 
 "Then you're a poorer general than they say." She pulled her shirt off over her head, and the hair came up with it and fell back down. "Lie still. I'll do the rest."
 
-She did the rest. She stripped him as she would have stripped a man in the line who had taken a blow and could not do it for himself, quickly and with no nonsense, and with a great deal more attention than she would have given a man in the line; and when he said, "Gently with the casualty," she said, "You're not a casualty, you're a general," and then, looking down at what she had uncovered, "though I'll grant some of you's in better order than the rest." Then she stripped herself, and stood a moment by the bed in the lamplight.
-
-He had seen her before. He found it made no difference at all. The long brown arms and the pale breasts, and the shoulders galled red where twenty years of mail had sat on them; the hard flat belly, and the long muscle down the front of her thighs that a lifetime of standing in a line had put there and no lady at court would ever own; and over all of it, now, the hair. She was thirty-eight, and she had built every inch of herself on purpose, for use, and she stood there and let him see the work and was proud of it, and was right to be.
-
-"Down here," said Roderic. "With your back to me. That's the opening."
-
-She lay down along him in the curl of his good side, with her back to his chest and her hair everywhere, in his mouth and his beard and over his arm, smelling of iron and woodsmoke. He put his face in it.
-
-"Your knee," he said. "Up. No, the other. Higher. There."
-
-"I know where my own knee goes, General."
-
-"Humor an old man's dispositions."
-
-She laughed, low, and did.
-
-Then he took his time, because he had a great deal of it and for once no way at all to hurry. His hand found her breast and stayed there until he felt her breath change under it; went down over the hard belly, slowly, and down, and found her wet, and stayed there too, as long as it liked, while she went quiet against him and then not quiet. He talked, close at her ear, nonsense mostly, the order of march for the morning and the faults of the Lord Marshal, in a low reasonable voice, and felt her shake with laughter and then with something else, and kept talking, and kept on.
-
-"Now," said Valeria at last. It came out of her rough. "That's an order."
-
-"I thought I had the field."
-
-"You had the *opening*." She reached back between them and took hold of him and brought him to her herself, and pressed back, and he was in her, slowly, all the way; and for a while neither of them said anything.
-
-He could not go fast. That was the whole of his tactics, and in the end the whole of the battle: the back would allow him one pace, and that pace was slow, and he gave it to her and no other, long and steady and deep, with his arm across her and his hand spread on her belly holding her to him. She tried once to hurry him and found she could not, and swore at him, and then stopped swearing. He felt her find out that slow was what she had wanted all along and had never once been given; felt it go through her like a long swell coming up a beach, and gather, and go on gathering, while she said his name, and *don't you stop*, and *don't you dare*; and he did not stop, and did not dare, until she cried out with her face in the blanket and went hard against him all down her length, and then soft. He followed her a little after, with his face in her hair.
-
-At the very last the back put in its word. He said the hill-word and her name in the same breath, and she laughed until the bed shook, and that hurt as well, and he did not care.
-
-She went to sleep like that, with his arm across her, in the middle of telling him he was a fool. He lay awake a while longer with her hair in his beard and his back like a hot nail in the left side of him, and thought that he had never in his life had a better night's work out of one good side.
+She did the rest. She stripped him quickly and with no nonsense, as she would have stripped a man in the line who could not do it for himself, and with a good deal more attention; then herself, and lay down along him in the curl of his good side with her back to his chest and her hair everywhere, in his mouth and his beard, smelling of iron and woodsmoke. He could not hurry. The back would allow him one pace, and that pace was slow, so he took his time with his hand on her and talked nonsense at her ear, the order of march and the faults of the Lord Marshal, until she stopped laughing; and when she had had enough of waiting she reached back between them and brought him to her herself. He gave her the one pace and no other, long and steady, and felt her find out that slow was what she had wanted all along, and heard her say his name, and *don't you dare*; and he did not dare, until she cried out with her face in the blanket. At the very last the back put in its word. He said the hill-word and her name in the same breath, and she laughed until the bed shook, and that hurt as well, and he did not care.
 
 And then at the middle watch the drum-boy had knocked.
 
-He had got up. He did not afterward know how. He had got up off the bed in the dark and found the blanket and put it round himself, because Valeria was asleep, or was pretending to be, which with Valeria came to the same thing; and he had opened the door, and Kaeso had been standing on the top step with a lamp in his hand and his mouth already open on the message. Fourteen. A thin brown boy with a drummer's shoulders, in the harbor prison in his father's place because his father had the cough. The boy's eyes went up to Roderic's beard, and down to the blanket, and past him into the room, and back up to the beard, and stayed there, with the look of a boy who has been told never to stare at a general and is finding it the hardest order of his life.
+He had got up, he did not afterward know how, with the blanket round him, and opened the door; and Kaeso stood on the top step with a lamp in his hand and his mouth already open on the message. The boy's eyes went up to Roderic's beard, and down to the blanket, and back up to the beard, and stayed there.
 
-"The prince wants the Captain," said Kaeso. "In the tower. Now. The healer's come up from the beach." He swallowed. "He said if I found the General, the General as well. He said I'd likely—" He stopped, and went red to the roots of his hair. "He said I'd likely find the General."
+"The prince wants the Captain," said Kaeso. "In the tower. Now. The healer's come up from the beach." He swallowed. "He said I'd likely find the General."
 
 "Did he," said Roderic.
 
 "Yes sir. He said it to the Chair. She laughed."
 
-"Did she."
-
-"Yes sir."
-
-By dawn every man in the fort knew. Roderic did not need telling; he could see it on the walls as he crossed the courtyard, the way you see a wind come over barley. The sentries on the gate stood up straighter as he passed and looked at a fixed point a little above his head with an expression of great and terrible respect. A thief at the well said something to another thief, and was hit. And at the foot of the wall-steps, on an upturned bucket, Spurius Lento called Fingers, who had stayed at Cyrene and had apparently done nothing in eleven days but sharpen his odds, was paying silver out into a row of grimy palms with the face of a man robbed on a technicality.
+By dawn every man in the fort knew. At the foot of the wall-steps, on an upturned bucket, Fingers was paying silver out into a row of grimy palms with the face of a man robbed on a technicality.
 
 "Ten to one," Fingers was saying, to nobody. "I gave ten to one. Who puts good silver on a man's *back*?"
 
@@ -10816,7 +10764,7 @@ It was warm. That was the first mercy. The spring ran under the slab somewhere, 
 
 She put her hands on him.
 
-She did not do it as Valeria did. Valeria worked a back the way she drilled a line, from one end, firmly, with no nonsense and a great deal of elbow. The healer laid both palms flat on him and did nothing at all for a long moment, the way a man lays his hands on a horse's leg to feel for heat; and he felt, or thought he felt, something go into him under her palms, slow and warm and deeper than the marble, as if she were not pressing but looking.
+She did not do it as Valeria did. Valeria worked a back from one end, firmly, with no nonsense and a great deal of elbow. The healer laid both palms flat on him and did nothing at all for a long moment, the way a man lays his hands on a horse's leg to feel for heat; and he felt, or thought he felt, something go into him under her palms, slow and warm and deeper than the marble, as if she were not pressing but looking.
 
 "None of that," he said into the marble.
 
@@ -10848,7 +10796,7 @@ Liora did not stop. She did not look round. She leaned on the knot with the heel
 
 "Not really," she said. "But I enjoy it very much." A thumb, deep, under the edge of the scar. "You're lucky he's too old for me."
 
-Roderic had been smiling into the marble. He had been smiling since the door opened; he could not help it; there was something about lying in a hot room with one's arse in the air while two women discussed it that brought out the boy in a man, if the man had any boy left in him, and Roderic had always had a great deal. He felt the smile go out of his face the way a tide goes off a flat beach, all at once and a long way.
+Roderic had been smiling into the marble. He had been smiling since the door opened; he could not help it; there was something about lying in a hot room with one's arse in the air while two women discussed it that brought out the boy in a man, if the man had any boy left in him, and Roderic had always had a great deal. He felt the smile go out of his face.
 
 *Too old.*
 
@@ -10898,13 +10846,13 @@ The healer's hands did not pause.
 
 Valeria did.
 
-She crouched by the end of the slab in her mail, with the Farrier leaned against the wall behind her, and took his face between her two hard hands, one each side of his beard, the way a farrier's mate takes hold of a horse that is going to be difficult about its feet; and turned it up off the marble toward her, firmly, as far as his back would let it go; and kissed him.
+She crouched by the end of the slab in her mail, with the Farrier leaned against the wall behind her, and took his face between her two hard hands, one each side of his beard; and turned it up off the marble toward her, firmly, as far as his back would let it go; and kissed him.
 
 It was not a short kiss. It was not the kiss of a woman making a point in front of another woman, though it was that as well. It went on for some time. It went on while the healer's thumbs came off the knot and both her palms went down flat on him again, over the old scar, and stayed there; and the warmth came back into him, not slow this time and not looking, but going, down through the knot and the knot under it that he had not known was there, and on down into the place beneath both, where the halberd had come in through his plate on the Long Field and something had set crooked in the mud that afternoon and stayed crooked ever since. He understood then, in the part of him that was still thinking at all, what she was doing; and he could not say one word about it, because his mouth was otherwise engaged, and the hands on his face were not letting go. Something deep in the bottom of his back drew tight, like a knot being drawn, and held, and went home. And for the first time in nineteen years his back was not the most interesting thing that was happening to him.
 
 When she let him go she held his head a moment longer, an inch off the marble, in her two hands, with her scar white in the steam and her eyes perfectly level.
 
-"My horse, Liora," said Valeria.
+"Mine, Liora," said Valeria.
 
 "Hmm," said Liora. "Of course." She took her hands off him. "That will do."
 
@@ -10946,7 +10894,7 @@ When nobody was looking.
 
 They came up out of the sea at the third hour, in daylight, in front of everyone.
 
-He had thought a long time about where to meet them. Half the night, after the healer knocked and stood in the door of the tower room in her bare feet and told it, in the voice she used for everything, to him and Alana and a candle; and after Valeria came, and the General came walking like a man carrying eggs, and they had stood round the table in their cloaks until the candle was a stub and there was nothing left to say before morning. Somewhere quiet, Alana had said, when the others had gone. The cave. Or the black beach at dusk, where the woman came up the first time. Somewhere nobody would see. And he had lain on his back in the dark with Alana asleep against his shoulder, which she did now as if it were a thing she had always done, and thought about it; and at first light he had sent Kaeso down to the black beach to beat the drum once at the water's edge and say into the surf, feeling a great fool, that the Prefect of Cyrene would wait for them at the water-gate at the third hour, and would be glad of them.
+He had thought a long time about where to meet them. Half the night, after the healer knocked and stood in the door of the tower room in her bare feet and told it, in the voice she used for everything, to him and Alana and a candle; and after Valeria came, and the General came, slow on the stair and saying nothing about it, and they had stood round the table in their cloaks until the candle was a stub and there was nothing left to say before morning. Somewhere quiet, Alana had said, when the others had gone. The cave. Or the black beach at dusk, where the woman came up the first time. Somewhere nobody would see. And he had lain on his back in the dark with Alana asleep against his shoulder, which she did now as if it were a thing she had always done, and thought about it; and at first light he had sent Kaeso down to the black beach to beat the drum once at the water's edge and say into the surf, feeling a great fool, that the Prefect of Cyrene would wait for them at the water-gate at the third hour, and would be glad of them.
 
 "In front of everyone," Alana had said, sitting up, with the pattern of his shirt pressed into her cheek.
 
@@ -10982,8 +10930,6 @@ He came up the way a breakwater would come up if it decided to: all at once, wit
 
 The woman had stopped on the step to wring out her hair. The surge had dragged the grey coat off one shoulder as she came, and the sealskin under it, which laced at the shoulder and had plainly been made for a sea with nobody in it to look, had let go of its lacing and gone down with the coat; so that the woman of the sea stood for the space of a long breath on the water-gate stair of Cyrene in broad daylight, bare to the waist on that side before the whole fort and half the town, and wrung out her hair. Marcus, a step above her with nowhere else to put his eyes, looked very hard at her face. She put it right without any hurry, the way a woman tucks up a strand that has come loose, and looked up at the wall to see what the matter was.
 
-On the wall, a spear fell. It clattered down the face of the gatehouse and bounced off the stair and went into the sea, and nobody laughed.
-
 The woman looked at Marcus. Her eyes were grey, the grey of the sea in winter, and very steady.
 
 "You're the one who holds the rail," she said.
@@ -11002,7 +10948,7 @@ Kymon finished looking at the wall. Then he looked at Marcus.
 
 "Give them time," said Marcus.
 
-Something happened at the corner of the big man's mouth, and went away.
+The big man looked at him, and did not laugh, quite.
 
 Marcus stepped back onto the second step to let them come up past him; and then, because there was a wall full of men watching who had to see it, and a town on the rocks, and an elf in the pines who missed nothing, he put out his hand: his right, with the new skin on the palm still pinker than the rest, where Liora had given it back to him at Silverwood. He held it out to the woman of the sea palm up, empty, the way you would hold a hand out to a nervous horse, or a stranger at a door.
 
@@ -11050,7 +10996,7 @@ Alana's pen stopped.
 
 "On the bank," said Thalassa. "In the autumn. It came down through the sea to where they'd stood the dead. I was there. Under it." She held up the hand that was not in the water, palm out, long and pale, with the web between the fingers. "It came to this, and divided, and went round it."
 
-Alana looked at the hand for a long moment. She had gone a little white round the mouth, the way she did when a figure came out wrong.
+Alana looked at the hand. She had gone a little white round the mouth, the way she did when a figure came out wrong.
 
 "I didn't know," she said. "That there was anyone down there. I didn't know there was anyone in the sea at all."
 
@@ -11126,7 +11072,7 @@ It was not a word. It was the sound a man makes when he has been looking at a th
 
 "No," said Kymon.
 
-Gaius looked at him for a long moment. Then he looked down at his tablet, and went on drawing it anyway, from memory, very fast.
+Gaius looked at him. Then he looked down at his tablet, and went on drawing it anyway, from memory, very fast.
 
 Kymon watched him do it. Then he turned his head and looked at Thalassa.
 
@@ -11162,7 +11108,7 @@ Everybody looked at him. The old captain had not said anything since the beach. 
 
 They looked at him.
 
-He had not known he was going to say it until he said it. He had been sitting on the rim of the pool listening to the old captain and the sea-woman talk about the gap, and looking at the Heart-Stone with its twenty scars, and thinking about a board on a wall at the head of the long quay that the red cloaks had painted fresh, because they liked boards; and the thing had come up in him all at once, whole, the way the right word comes up in a dice game.
+He had not known he was going to say it until he said it. He had been sitting on the rim of the pool listening to the old captain and the sea-woman talk about the gap, and looking at the Heart-Stone with its twenty scars, and thinking about a board on a wall at the head of the long quay that the red cloaks had painted fresh, because they liked boards; and the thing had come up in him whole, the way the right word comes up in a dice game.
 
 "Leave it wrong," he said.
 
@@ -11204,7 +11150,7 @@ Liora wiped her fingers on the cloth. "Behind the slip gate," she said. "Where t
 
 "Behind it," said Valeria. "Not in it."
 
-"Behind it," Liora agreed, in the voice of a woman who would be wherever the hurt was, and everybody in the cave heard it, and nobody argued. Marcus had seen what came off her hands along the rows of the hurt at Silverwood, gold-white, like breath on a frosty morning with a lamp behind it, and men sitting up under it and reaching for their shields. He did not argue either.
+"Behind it," Liora agreed, in the voice of a woman who would be wherever the hurt was, and everybody in the cave heard it, and nobody argued. Marcus had seen what came off her hands along the rows of the hurt at Silverwood, gold-white, and men sitting up under it and reaching for their shields. He did not argue either.
 
 "And the General?" said Valeria, not looking at him.
 
@@ -11218,9 +11164,11 @@ Roderic, against his pillar, drew himself up to his full height, which nobody in
 
 "I'll put a man on anything with four legs that can be persuaded to go in a straight line. It's the whole of the cavalry's art." He looked at Marcus, and something in his face, new since the morning, was very bright. "Give me two horses and a beach with the sea behind them, boy, and I'll show you something the songs never got."
 
-"Not till I say," said Valeria.
+"When it's time," said Valeria.
 
-"Not till you say, my dear."
+"When it's time, my dear. You'll see it, and so will I."
+
+She looked at him then, for the first time since the council began. "Then whichever of us sees it first."
 
 It went round the cave, very softly, the way a breeze goes round a field: not quite a laugh. The Captain's face did not change. The General's did not either. Kaeso, at the door, went red again for no reason anyone could see.
 
@@ -11460,7 +11408,7 @@ Sylara had been on the roof since noon, which was where she lived, when she was 
 
 The witch climbed badly. She came up the outside of the loft by the net-ladder with her violet skirts kilted up through her belt and her weather-book in her teeth and the pilot's half-hour glass in a bag on her back, swearing round the book in some language with too many corners in it; and at the top she stuck, with one knee on the gutter and one hand on the ridge and the rest of her hanging over Netmakers' Row, and looked up at Sylara with ink on her face and said round the book, perfectly clearly: "Not a word."
 
-The kilting had done what kilting does on a ladder. From the ridge Sylara could see a great deal of the witch's legs, long and pale and bare nearly to the hip; and from the look of the two old men mending a seine in the street below, so could Netmakers' Row. One of them had stopped mending. The other had not noticed that his needle had gone through his own sleeve.
+The kilting had done what kilting does on a ladder. From the ridge Sylara could see a great deal of the witch's legs, long and pale and bare nearly to the hip; and from the look of the two old men mending a seine in the street below, so could Netmakers' Row. One of them had stopped mending.
 
 Sylara said not a word. She put down a hand and hauled the witch up by the belt.
 
@@ -11528,7 +11476,7 @@ She had not seen this one. That was what she could not get over. She saw everyth
 
 She looked down.
 
-He was looking up. He was looking straight at her, at the roof, at her; and his face, which she had seen do nothing at the Girdle's east gate with the dead coming at it four deep, did something, all at once. He looked away, fast, at the boat on the rollers, at the rope in his hands, at the sky, like a boy caught with his hand in a pie on a windowsill. The rope slipped. Forty men staggered. The skiff went back down the hard a length and a half and fetched up against the next one with a crack like a door slammed, and a woman of the town said something about the Prefect's foolishness that made the slingers laugh.
+He was looking up. He was looking straight at her, at the roof, at her; and his face, which she had seen do nothing at the Girdle's east gate with the dead coming at it four deep, did something. He looked away, fast, at the boat on the rollers, at the rope in his hands, at the sky, like a boy caught with his hand in a pie on a windowsill. The rope slipped. Forty men staggered. The skiff went back down the hard a length and a half and fetched up against the next one with a crack like a door slammed, and a woman of the town said something about the Prefect's foolishness that made the slingers laugh.
 
 "Eleven," said the witch, writing. "That one counts double."
 
@@ -11540,7 +11488,7 @@ It was slack. The water lay in it flat and grey and still between the mole tower
 
 "I know." The witch was looking at the glass. "An hour early. Less a few breaths." She wrote it down, and drew a line under it, and then, after a moment, a second line. "She's right."
 
-Nobody said anything for a while. The three of them sat on the ridge of the net-loft and looked at the flat grey water in the gap, and at the Grey beyond it, and at the town below filling up with boats.
+The three of them sat on the ridge of the net-loft and looked at the flat grey water in the gap, and at the Grey beyond it, and at the town below filling up with boats.
 
 *Some moments,* Sylara thought, *have to be taken before they go.*
 
@@ -11680,7 +11628,7 @@ She lay back in the net and let him. He put his mouth on her. He took his time a
 
 Then she pulled him up by the hair. "Now," she said. "Rufo. Now."
 
-He came into her slowly, because he was slow, and because he wanted to know it; and she was hot and tight and wet round him, and she locked her legs round his back and held him there, and looked at him from a hand's breadth away with her eyes wide open in the half-dark, as if she had decided to watch this too and would not miss a thing of it. He moved. She moved with him, and then against him, impatient, setting her own pace, which was faster than his; and he let her have it, because it was hers. The net creaked under them. Somewhere a float went bouncing away across the boards. He had known women, in the way soldiers know women, and none of it had been anything like this, and he could not have said why, except that she was looking at him the whole while as if he were the one thing on the island worth the looking; and when it took him it came up from the soles of his feet like the flood through the gap, all at once and faster than anyone had warned him, and he held on to her and let it.
+He came into her slowly, because he was slow, and because he wanted to know it; and she was hot and tight and wet round him, and she locked her legs round his back and held him there, and looked at him with her eyes wide open in the half-dark, as if she had decided to watch this too and would not miss a thing of it. He moved. She moved with him, and then against him, impatient, setting her own pace, which was faster than his; and he let her have it, because it was hers. The net creaked under them. Somewhere a float went bouncing away across the boards. He had known women, in the way soldiers know women, and none of it had been anything like this, and he could not have said why, except that she was looking at him the whole while as if he were the one thing on the island worth the looking; and when it took him it came up from the soles of his feet like the flood through the gap, faster than anyone had warned him, and he held on to her and let it.
 
 Afterward she lay on top of him in the net with her face in his neck and her braid across his chest, breathing hard. He did not move. He was afraid that if he moved she would remember who she was and get up.
 
@@ -11972,7 +11920,7 @@ Gaius did not answer at once. He watched the last of the liburnas come round in 
 
 "Tharsian work," he said. "I've seen it before."
 
-He turned and went back along the wall-walk the way he had come, at the same fast limp, toward the steps and the slips and his keel, and did not look back. Merula, at the parapet, watched him go; and then looked at the five ships, at the last liburna, for a long moment, with his small colorless eyes gone narrow, like a man who has seen a face he knows in a crowd where it has no business to be.
+He turned and went back along the wall-walk the way he had come, at the same fast limp, toward the steps and the slips and his keel, and did not look back. Merula, at the parapet, watched him go; and then looked at the five ships, at the last liburna, with his small colorless eyes gone narrow, like a man who has seen a face he knows in a crowd where it has no business to be.
 
 ---
 
@@ -11984,7 +11932,7 @@ A boat put off from the *Audit*, eight oars and a steersman, and came along the 
 
 "What answer?"
 
-"He wouldn't let me see." Something moved in her scarred face and was put away. "Their herald read it on the causeway and went red to the ears."
+"He wouldn't let me see." Something moved in her scarred face and was put away. "Their herald read it on the causeway and lost his place twice."
 
 "That was Titus," said Marcus.
 
@@ -12072,7 +12020,7 @@ There was a silence on the wall. Then a sound, all along it, from one end to the
 
 "That's five in five," said Marcus. "It's the first time. You've made history, Opiter Vibius. Put it in the book."
 
-The herald looked at him for a long moment, with his pale eyes. Then he looked up at the roof, at the netmender and the fisher-wife and the cooper and the deaf old priest and the old soldier with one ear, one after another, as if he were fixing them somewhere too.
+The herald looked at him with his pale eyes. Then he looked up at the roof, at the netmender and the fisher-wife and the cooper and the deaf old priest and the old soldier with one ear, one after another, as if he were fixing them somewhere too.
 
 He did not open the book. He bowed, very correctly, the depth of bow a clerk gives a magistrate, and stepped back down into the boat, and the boathook let go of the stone, and the oars went out.
 
@@ -12110,7 +12058,7 @@ Pherusa looked at her for a long moment out of her clouded eyes.
 
 And she turned and went back up the passage toward the dome, with her hand on the rock, and the sound of the singing came down the passage to meet her and closed round her, and she was gone.
 
-Nobody said anything for a while. Then the hunter with grey in his hair, whose name was Proteas, got up off the rock and pulled his spear-gun round onto his back and looked at Kymon, and Kymon got up, and the rest of them got up after him; and they went out into the cold.
+The hunter with grey in his hair, whose name was Proteas, got up off the rock at last and pulled his spear-gun round onto his back and looked at Kymon, and Kymon got up, and the rest of them got up after him; and they went out into the cold.
 
 ---
 
@@ -12122,7 +12070,7 @@ Thalassa lay at the inner end of the gap on the east side with her hand flat on 
 
 She could hear the dead.
 
-They were standing. That was the worst of it. They had come up out of the deep in the night, along the bottom from the south, and climbed the long slope toward the island, and stopped, a little way out from the harbor mouth, where the sand began to shelve up toward the gap; and they had stood there ever since, in rows, the way they had stood on Kolpos's roof, not breathing, not swaying, with the current going round them. Hundreds. She could feel the weight of them in the sand, a long way off, the way you feel a cart go by in the street through the floor of a house. She could hear nothing else from them. They made no sound when they stood. That was the thing the dry folk never understood about the dead. It was not the noise. It was the lack of it.
+They were standing. That was the worst of it. They had come up out of the deep in the night, along the bottom from the south, and climbed the long slope toward the island, and stopped, a little way out from the harbor mouth, where the sand began to shelve up toward the gap; and they had stood there ever since, in rows, the way they had stood on Kolpos's roof, not breathing, not swaying, with the current going round them. Hundreds. She could feel the weight of them in the sand, a long way off. She could hear nothing else from them. They made no sound when they stood. That was the thing the dry folk never understood about the dead. It was not the noise. It was the lack of it.
 
 And over them, on the roof of the world, the ships. She knew the big one's voice now, the slow deep triple knock of her oars, and the way her hull hummed when she lay to her anchor in the swell; and the smaller ones, each with its own note, the way every boat in Kolpos's waters had its own note to anyone who had grown up listening. One of the smaller ones had a rudder that knocked. Very faintly, every time she swung to the swell. *Tak.* A small loose sound, iron on wood, like a gate with a bad hinge. Thalassa noticed it and put it away, as she put away everything the water told her, without knowing yet what it was for.
 
@@ -12134,7 +12082,7 @@ She heard them go in the water one after another, the splash and the knock of th
 
 At the eighth hour the water began to change.
 
-It was a small thing. Nobody on the roof of the world could have felt it. The ebb had been running out through the gap all morning in long smooth folds, cold, steady, the way it always ran; and at the eighth hour it began to slacken. Not when it should have. An hour before it should have, by the tables the red cloaks carried and the board on the harbor master's wall. Thalassa lay with her hand on the sand and felt it go slack under her palm, the long pull of the ebb fading out of the water the way the pull goes out of a rope when the man at the other end lets go; and she thought of the north wind, three days of it, in the Grey, pushing the sea south like water across a basin, and the wind dropping, and the whole sea leaning back the other way, slowly, slowly, the way a great weight leans before it falls.
+It was a small thing. Nobody on the roof of the world could have felt it. The ebb had been running out through the gap all morning in long smooth folds, cold, steady, the way it always ran; and at the eighth hour it began to slacken. Not when it should have. An hour before it should have, by the tables the red cloaks carried and the board on the harbor master's wall. Thalassa lay with her hand on the sand and felt it go slack under her palm, the long pull of the ebb fading out of the water; and she thought of the north wind, three days of it, in the Grey, pushing the sea south like water across a basin, and the wind dropping, and the whole sea leaning back the other way, slowly, slowly, the way a great weight leans before it falls.
 
 *Soon,* she thought. *An hour. Less.*
 
@@ -12194,11 +12142,11 @@ The line at the top of the slip was holding. It was a line of round iron-rimmed 
 
 But it went back slowly. And the men who went down in it did not, most of them, stay down.
 
-Behind the line, where the slip came up into the yard, there was a woman kneeling on the stone. Thalassa knew her: the healer, who had stood in the surf below the Baths and said the drowned in the old long vowels. Her sleeves were rolled to the elbow, and there was a light about her. Not the blue of Kolpos. Something warmer, gold and white, that hung behind the line in the cold air like breath on a frosty morning with a lamp behind it, and lay along the backs of the men in it, and went in at the edges of their wounds. A man of the soldier-woman's came out of the line with his forearm laid open from the wrist to the elbow, and went down on his knees in front of her, and she took the arm in both her hands and shut her eyes. Thalassa, with the sea running out of her hair, watched him get up a little after and take his shield back from the man who had held it for him, and go into the line again, the way a fisherman goes back to a net he has left for a moment to fetch a knife.
+Behind the line, where the slip came up into the yard, there was a woman kneeling on the stone. Thalassa knew her: the healer, who had stood in the surf below the Baths and said the drowned in the old long vowels. Her sleeves were rolled to the elbow, and there was a light about her. Not the blue of Kolpos. Something warmer, gold and white, that hung behind the line in the cold air the way warm water hangs shivering over a vent, and lay along the backs of the men in it, and went in at the edges of their wounds. A man of the soldier-woman's came out of the line with his forearm laid open from the wrist to the elbow, and went down on his knees in front of her, and she took the arm in both her hands and shut her eyes. Thalassa, with the sea running out of her hair, watched him get up a little after and take his shield back from the man who had held it for him, and go into the line again, the way a fisherman goes back to a net he has left for a moment to fetch a knife.
 
 Then Kymon came up out of the sea.
 
-She had seen him do it a hundred times, in the shallows round Kolpos, after seals, after the big slow fish of the vents. She had never seen him do it for this. He came up out of the water at the foot of the slip behind the last of the dead the way the sea comes up a beach in a storm, all at once, all of him, with the water going off his shoulders in sheets; and the trident went out ahead of him in both his hands, low, and took a dead man in the small of the back as it climbed out of the sea, and went through the iron there, and the barbs took hold. And Kymon did not stop. He did not pull the thing up the slip toward the line. He went back. He threw himself backward off the stone into the sea with the whole of his weight, the way he threw himself into deep water after a seal, and took the dead man with him; and the sea closed over both of them, and they were gone.
+She had seen him do it a hundred times, in the shallows round Kolpos, after seals, after the big slow fish of the vents. She had never seen him do it for this. He came up out of the water at the foot of the slip behind the last of the dead, all of him, with the water going off his shoulders in sheets; and the trident went out ahead of him in both his hands, low, and took a dead man in the small of the back as it climbed out of the sea, and went through the iron there, and the barbs took hold. And Kymon did not stop. He did not pull the thing up the slip toward the line. He went back. He threw himself backward off the stone into the sea with the whole of his weight, the way he threw himself into deep water after a seal, and took the dead man with him; and the sea closed over both of them, and they were gone.
 
 On the slip, all along the line, every man stopped.
 
@@ -12214,7 +12162,7 @@ He went up and back. And up and back. Every time he came up out of the sea at th
 
 The man went in at the fourth or fifth time.
 
-She did not see how it began. She was at the surface at the foot of the slip with her face just out of the water, watching the line, when the dead came up the slip all at once in a rush, a dozen together, and the line bent; and on the right of it, where the soldier-woman's company joined the thieves, a man was pulled down. An old man. She saw his face: no teeth, and a grey stubble, and his mouth open, more surprised than afraid. Two of the dead had him by the arm and the leg, the way the dead took hold of anything, without hate, without anything, with hands like iron shutting. Then the line pushed, all together, with a shout, and the long spears came down level and went in, and the front of the dead went back off the slipway into the sea in a heap, falling, the way a wave falls back off a beach; and the two that held the old man went back with the rest, and did not let go.
+She did not see how it began. She was at the surface at the foot of the slip with her face just out of the water, watching the line, when the dead came up the slip in a rush, a dozen together, and the line bent; and on the right of it, where the soldier-woman's company joined the thieves, a man was pulled down. An old man. She saw his face: no teeth, and a grey stubble, and his mouth open, more surprised than afraid. Two of the dead had him by the arm and the leg, the way the dead took hold of anything, without hate, without anything, with hands like iron shutting. Then the line pushed, all together, with a shout, and the long spears came down level and went in, and the front of the dead went back off the slipway into the sea in a heap; and the two that held the old man went back with the rest, and did not let go.
 
 Kymon went for him.
 
@@ -12242,7 +12190,7 @@ Nerites looked up at her. He did not struggle much. He was a sensible boy. He kn
 
 She took his hand.
 
-He held on very hard. She held on. Kymon was coming; she could feel him in the water, coming, fast, from the slip-foot, too far. The count went on, on the roof of the world. *One. Two.* Nerites held on. And then he did not, and she felt the exact moment, as she had felt it a great many times one night three years ago under another harbor mouth, in another sea: like a rope going slack.
+He held on very hard. She held on. Kymon was coming; she could feel him in the water, coming, fast, from the slip-foot, too far. The count went on, on the roof of the world. *One. Two.* Nerites held on. And then he did not, and she felt the exact moment, as she had felt it a great many times one night three years ago under another harbor mouth, in another sea.
 
 Kymon came. He took the dead thing off the boy's chest with his hands, by the collar and the greave, and threw it into the channel, and did not wait for the spear-guns. He put the black trident through its head into the sand, and pulled the trident out, and put it through again, and again, until Thalassa put her hand on his arm.
 
@@ -12272,7 +12220,7 @@ Out on the roof of the world, on the big black ship, the man who counted stopped
 
 Thalassa held on to the stone with one hand, and looked up.
 
-She was half out of the water at the foot of the inner mole, under the wall, with her hand still lifted, and the thin sea-grey stuff her people swam in clinging to her from the throat to the hip, wet through, so that it hid nothing of her shape from anyone who cared to look, and her blue hair streaming down her back over it; and along the top of the wall, and on the slips, and on the roofs of the town, the dry folk were looking at her. Hundreds of them. With their mouths open, and their weapons hanging, and the sea going past below them into their harbor as it had never gone in the memory of anyone alive. Looking at her. She was used to being looked at by the dry folk, and did not mind it; she had even, in an unhurried way, come to like it. But this was not that. They were looking at her lifted hand. At the sea, coming in behind it.
+She was half out of the water at the foot of the inner mole, under the wall, with her hand still lifted, and the thin sea-grey stuff her people swam in clinging to her from the throat to the hip, wet through and going cold on her in the wind, and her blue hair streaming down her back over it; and along the top of the wall, and on the slips, and on the roofs of the town, the dry folk were looking at her. Hundreds of them. With their mouths open, and their weapons hanging, and the sea going past below them into their harbor as it had never gone in the memory of anyone alive. Looking at her. Not at the sealskin, this time. They were looking at her lifted hand. At the sea, coming in behind it.
 
 She understood what they thought, then. She was a tide-reader, and she had been reading the faces of the dry folk from the water for three years, and she knew what it looked like when they had decided a thing.
 
@@ -12374,7 +12322,7 @@ He nodded slowly, as if she had told him something about herself, and sat with i
 
 "I've not taken it out." He did not move his hand toward it. He said it the way he said everything, the way he had said *aye* on the hard in front of forty men, as a fact he would stand behind. "I'll take it out when it falls out."
 
-Something happened in her chest that she did not have a word for in either of her tongues. She lay on the ridge and looked at the float. Then she looked away, at the harbor, where the tide was going down again now in the dark, and the blue lights had come back under the water, out past the gap, and some of them, she saw, were inside the harbor now, in the deep mud of the inner basin where the dead had gone, moving slowly about down there in the dark, low, one at a time, like men going round a field at night with lanterns, looking for something they had dropped.
+Something happened in her chest that she did not have a word for in either of her tongues. She lay on the ridge and looked at the float. Then she looked away, at the harbor, where the tide was going down again now in the dark, and the blue lights had come back under the water, out past the gap, and some of them, she saw, were inside the harbor now, in the deep mud of the inner basin where the dead had gone, moving slowly about down there in the dark, low, one at a time, like hunters quartering a wood by lantern for a blood-trail.
 
 "They're finishing them," she said. "In the mud."
 
@@ -12490,7 +12438,7 @@ He did not answer at once. He looked out at the blue lights in the harbor mud, g
 
 She heard the word go out of her mouth into the dark. *Running.* She saw it land. She was the best shot on Silverwood and she had never in her life seen anything land like that; she saw it go into him, and his face go white in the dark, as if somebody had opened a door on him in winter, and his hands come up off the slates.
 
-He did not say anything for a long moment.
+He did not say anything.
 
 "Aye," he said then, quite quietly. "Maybe it is." And then, in the same quiet voice, not cruel, which was worse, as a man says a thing he has seen and must put down before he can go: "And you'd have me promise you a house on a beach. Tonight. With the dead coming up the slip tomorrow. So that whichever of us goes in the sea, you'll have had one. So you'll have taken it before it went." He looked at her. "That's not a house, Sylara. That's a grave with a door on it."
 
@@ -12506,7 +12454,7 @@ He did it badly. He went down the net-ladder backward, slowly, one rung at a tim
 
 She lifted her head and watched him go.
 
-She watched him all the way. Along the boats, and up the long stepped lane from the hard, and across the open ground below the fort where the town's lanterns did not reach, and up to the gate, and in. She watched him the way she had watched men walk through the cutting at Silverwood for ten years from the tree line, with her bow in her hand and an arrow on the string, not drawn: the way a warden watches a man walk into a place where something might be waiting for him. She did not decide to do it. Her hands did it. They took the arrow out of the quiver and laid it on the string and held it there, and her eyes went over every roof and corner and shadow between him and the gate, and found nothing, and went over them again.
+She watched him all the way. Along the boats, and up the long stepped lane from the hard, and across the open ground below the fort where the town's lanterns did not reach, and up to the gate, and in. She watched him the way she had watched men walk through the cutting at Silverwood for ten years from the tree line, with her bow in her hand and an arrow on the string, not drawn. She did not decide to do it. Her hands did it. They took the arrow out of the quiver and laid it on the string and held it there, and her eyes went over every roof and corner and shadow between him and the gate, and found nothing, and went over them again.
 
 When the gate had shut behind him she put the arrow back in the quiver with the others.
 
@@ -12528,7 +12476,7 @@ Fingers made the first joke about it, squatting on his heels with his hands to t
 
 They were not many round the fire, after the watch was set: Fingers, and Hostus the barber with his needle-case in his lap and nothing to sew, because the Angel had gone along the yard at dusk and left him only a split thumb, which he had done with a great deal of ceremony; and Oppius the baker at the pot, where half a sheep from the town was going to pieces in the barley with a fistful of onions, and the smell of it all over the courtyard; and Kaeso with his drum between his knees and his sticks in his belt, and five of Rufo's forty, and the lanciarius with the broken nose who had voted for the Captain at the Boundary House and had not been allowed to forget it; and Pen, at the end of the bench nearest the lamp, with his ink-pot beside him on the stone and his long inky fingers cracking hazelnuts. And Ear.
 
-His name was Lucius. Nobody had called him that since the *Clemency*. He had come aboard her with a burn down the side of his head from a brazier in the harbor prison, where a turnkey had put his face to the coals for answering back, and the cohort had called him Ear before she cleared the harbor. The ear had gone bad at sea. Hostus had done what he could with vinegar, and it had not been enough, and after the fort, when it was going black at the edges and he was sure he would die of it, he had gone at last to the healer where she sat with the wounded on the wreck of the *Clemency* on the black beach; and she had warmed her hands at the lamp and laid them over it and shut her eyes, and asked his name while she did it, to keep him still. He had felt the heat go in, and something in there with it, looking. What the coals had taken she could not give back. But the black had gone out of what was left, and by morning there was new skin on it, pink and shining as the inside of a shell. He had said *Lucius*, while she held it, and cried, and been ashamed of crying, and she had not said anything about it. He did not suppose she remembered it. He did not mind. Some days he thought he would rather be Ear than Lucius. Lucius had been in the harbor prison. Ear had held the line on the Kettle Bank in the dark, and gone up the beach, and stood in the ditch at Silverwood with the dead coming.
+His name was Lucius. Nobody had called him that since the *Clemency*. He had come aboard her with a burn down the side of his head from a brazier in the harbor prison, where a turnkey had put his face to the coals for answering back, and the cohort had called him Ear before she cleared the harbor. The ear had gone bad at sea. Hostus had done what he could with vinegar, and it had not been enough, and after the fort, when it was going black at the edges and he was sure he would die of it, he had gone at last to the healer where she sat with the wounded on the wreck of the *Clemency* on the black beach; and she had warmed her hands at the lamp and laid them over it and shut her eyes, and asked his name while she did it, to keep him still. He had felt the heat go in, and something in there with it, looking. What the coals had taken she could not give back. But the black had gone out of what was left, and by morning there was new skin on it. He had said *Lucius*, while she held it, and cried, and been ashamed of crying, and she had not said anything about it. He did not suppose she remembered it. He did not mind. Some days he thought he would rather be Ear than Lucius. Lucius had been in the harbor prison. Ear had held the line on the Kettle Bank in the dark, and gone up the beach, and stood in the ditch at Silverwood with the dead coming.
 
 He had stood on the slip today. On the third slip, at the right of the line, two men from Rufo. He had seen the big sea-man come up out of the water. He had not stopped shaking yet. He held his hands out to the fire so that the shaking would look like cold.
 
@@ -12542,13 +12490,11 @@ He had stood on the slip today. On the third slip, at the right of the line, two
 
 There was a short silence round the fire.
 
-"Give them time," said Fingers; and the whole fire went up in a shout, all at once, men and boy, so loud that the sentry on the gate leaned over and told them to hush; and Kaeso went red to the ears and grinned, and Ear laughed until the shaking in his hands went into the laughing and he could not tell which was which.
+"Give them time," said Fingers; and the whole fire went up in a shout, men and boy, so loud that the sentry on the gate leaned over and told them to hush; and Kaeso ducked his head and grinned, and Ear laughed until the shaking in his hands went into the laughing and he could not tell which was which.
 
 ---
 
 "She put her hand up," said Vatinius, when it had died down. "The woman. I saw it. At the foot of the wall, in the weed. She put up her hand." He held up his own big hand into the firelight, slowly, palm out, to show them. "Like that. And the sea came."
-
-Nobody said anything.
 
 "I saw it," said the lanciarius with the broken nose. He was a square grey man of forty with a face like a split log, and he did not say much, and when he did the Lanciarii listened. "From the slip gate. Up went the hand. In came the sea. Faster than a horse." He spat into the fire. "I've been at sea thirty years, one way and another. I never saw a tide come in like that. Never."
 
@@ -12700,7 +12646,7 @@ He came in out of the dark at the edge of the firelight and stopped there, and t
 
 He sat down at the edge of the bench, at the far end from Pen, without saying anything, and put his elbows on his knees.
 
-Nobody said anything either. Then Pen got up, and went along the bench, and held out the linen bag. Rufo looked at it. Then he put his hand in and took some hazelnuts, and held them in his fist, and did not eat them.
+Then Pen got up, and went along the bench, and held out the linen bag. Rufo looked at it. Then he put his hand in and took some hazelnuts, and held them in his fist, and did not eat them.
 
 "How was the roof?" said Fingers.
 
@@ -12720,7 +12666,7 @@ Then he put the stick away, and opened his fist, and ate the hazelnuts one at a 
 
 Ear lay down afterward by the barracks wall in his blanket with his head on his shield and could not sleep.
 
-The fire had burned down to a red eye in the ash. The men round it were dark shapes, rolled in their cloaks, breathing. Somewhere out in the harbor, low, under the water, the blue lights had come back, inside the gap now, in the inner basin, moving slowly about in the mud where the dead had gone, one at a time, like men going round a field at night with lanterns; and he could hear, very faintly, if he listened, a sound from the water like nothing he had ever heard, low and long and steady, that he thought might be singing.
+The fire had burned down to a red eye in the ash. The men round it were dark shapes, rolled in their cloaks, breathing. Somewhere out in the harbor, low, under the water, the blue lights had come back, inside the gap now, in the inner basin, moving slowly about in the mud where the dead had gone, one at a time, like the eel-men on the Aeridor canals at night with their lamps on poles; and he could hear, very faintly, if he listened, a sound from the water like nothing he had ever heard, low and long and steady, that he thought might be singing.
 
 Two of the forty had gone up on the wall for the middle watch. He counted the shapes that were left round the fire without meaning to. Ten. Ten, and himself.
 
@@ -12810,7 +12756,7 @@ That one had a line through it, in good ink, and after the line two words in the
 
 Day nine had been the day of the rod. He remembered it in his hands. He had set the *Arrears*'s pintle softer than any of them, and drawn it himself at the forge, and quenched it wrong on purpose, with the quaestor's man standing at his shoulder telling him to hurry; and he had hung it on her with his own broken fingers, and she had gone down the slip that evening into the sea, and the quaestor's man had said she was handsome work.
 
-He had known them this morning from the wall. He had not needed the book for that. A man knows his own work the way a mother knows her children's walk, by the sheer and the stroke and the way they come round. The *Surety*, first of the two galleys, with the sag in her keel that he had not been given time to take out, so that she swam a little low amidships, like a tired horse. The *Levy*, with her mast stepped a hand's breadth forward of where he would have stepped it. The *Tithe*, with his scarf in her stem. And the *Arrears*, last of the line, coming round slow and wide, as a ship comes round whose steering oar is hung a finger's breadth off true, because her lower pintle had begun, in a month of hard rowing, to give.
+He had known them this morning from the wall. He had not needed the book for that. A man knows his own work by the sheer and the stroke and the way they come round. The *Surety*, first of the two galleys, with the sag in her keel that he had not been given time to take out, so that she swam a little low amidships, like a tired horse. The *Levy*, with her mast stepped a span forward of where he would have stepped it. The *Tithe*, with his scarf in her stem. And the *Arrears*, last of the line, coming round slow and wide, as a ship comes round whose steering oar is hung a finger's breadth off true, because her lower pintle had begun, in a month of hard rowing, to give.
 
 Four. Four of his, out there in the dark, five hundred paces off, with their rudders hung on iron he had set soft with his own hands.
 
@@ -12850,7 +12796,7 @@ A step on the stones of the slip-yard, coming down from the gate. Light, unhurri
 
 He sat up.
 
-She stopped at the edge of the shed, where the roof ended and the starlight began. She was in her cloak, with the hood down, and her heavy hair loose, the gold of it gone grey in the starlight. She had not stopped to dress. The cloak hung open from the brooch at her throat, and under it was only her shift, the plain linen she slept in, worn thin with washing, and the starlight went through it as if it were hardly there: the long line of her from the shoulder to the bare ankle, the curve of a hip, the shadow of her breasts under the linen, her feet white on the black stone. She stood in it and let him see, the way she let everyone see, without any fuss and without any apology. He had liked her for that from the first day. He had thought then, in the steam-box house, with his hands between hers, that she was the most beautiful thing he had seen since the middle span at Tarrow, and that was the highest thing he knew how to say, and he had never said it.
+She stopped at the edge of the shed, where the roof ended and the starlight began. She was in her cloak, with the hood down, and her heavy hair loose, the gold of it gone grey in the starlight. She had not stopped to dress. The cloak hung open from the brooch at her throat, and under it was only her shift, the plain linen she slept in, worn thin with washing, and the starlight went through it as if it were hardly there: the long line of her from the shoulder to the bare ankle, the curve of a hip, the shadow of her breasts under the linen, her feet white on the black stone. He had thought, the first day, in the steam-box house, with his hands between hers, that she was the most beautiful thing he had seen since the middle span at Tarrow, and that was the highest thing he knew how to say, and he had never said it.
 
 Under her arm, rolled tight and tied with a cord, she carried a mat.
 
@@ -12874,11 +12820,11 @@ He moved the books. He lifted them out from under the place where his head had b
 
 She came in under the roof. She untied the cord and unrolled the mat on the shavings beside his bed, and lay down on it in her cloak, on her side, with her back to him. He lay down on his side, with his back to her, and drew the sailcloth over the two of them, and his cloak over that.
 
-There was a hand's breadth of cold between them. Then there was not. She moved, or he did; he did not know which, and he never asked. And her back was against his back, through her cloak and his, from the shoulders down.
+There was a span of cold between them. Then there was not. She moved, or he did; he did not know which, and he never asked. And her back was against his back, through her cloak and his, from the shoulders down.
 
 She was warm.
 
-He had forgotten that. He had not had anyone's back against his since Tarrow, and he had forgotten that a back was warm. It was a small thing. It was a hand's breadth of warmth through two thicknesses of wool, and the weight of her leaning a little, and the small rise and fall of her breathing against his spine, quick at first, like a bird's, and then less quick.
+He had forgotten that. He had not had anyone's back against his since Tarrow, and he had forgotten that a back was warm. It was a small thing. It was the warmth of her through two thicknesses of wool, and the weight of her leaning a little, and the small rise and fall of her breathing against his spine, quick at first, like a bird's, and then less quick.
 
 *No stone in an arch stands,* says Anaxis, in the first book, on the first page, before there is a single number in it. *Every stone in an arch is falling. The arch is only the place where they have agreed to fall against each other.*
 
@@ -12894,7 +12840,7 @@ He did not get to the first course.
 
 He was asleep almost at once.
 
-She felt him go. She had sat beside a great many beds, and she knew the moment a body gives itself up to sleep the way a sailor knows the turn of the tide: a long breath out that is not followed at once by another, and then a slackening, all at once, everywhere, as if a hand had let go of all the strings together. It came through his back into hers. One moment the engineer was lying behind her with his shoulders set like a man bracing a beam against a wall that was going; and the next he was gone, as simply as a stone goes down into water, and his back against hers was loose and heavy and warm, and he was breathing slow and deep through his nose with a small catch at the top of every breath, like a man who has come a long way uphill and is glad to be there.
+She felt him go. She had sat beside a great many beds, and she knew the moment a body gives itself up to sleep: a long breath out that is not followed at once by another, and then a slackening, everywhere, as if a hand had let go of all the strings together. It came through his back into hers. One moment the engineer was lying behind her with his shoulders set like a man bracing a beam against a wall that was going; and the next he was gone, as simply as a stone goes down into water, and his back against hers was loose and heavy and warm, and he was breathing slow and deep through his nose with a small catch at the top of every breath, like a man who has come a long way uphill and is glad to be there.
 
 *Well,* thought Liora. *That was quick.*
 
@@ -12904,7 +12850,7 @@ She had not meant to come. That was not quite true. She had not decided to come,
 
 *I may never be able to.*
 
-She did not know, even now, which of the several things she might have meant by it she had meant. Perhaps all of them. He had not asked. She had come in her shift with only the cloak over it, and she had seen him see that, in the starlight, all of it, and she had not minded; she had stopped minding that a long time ago, and stopped apologising for it. It was not the looking she minded. It was what men did after the looking. And he had done nothing after it at all. He had looked at the mat. And then he had moved his books.
+She did not know, even now, which of the several things she might have meant by it she had meant. Perhaps all of them. He had not asked. She had come in her shift with only the cloak over it, and the cold off the slip had gone through the linen before she was halfway down the hill, and her feet were numb on the stone. He had seen her, in the starlight. And he had done nothing after it at all. He had looked at the mat. And then he had moved his books.
 
 She kept coming back to that. She had watched him do it in the starlight, and she had watched his hands while he did it, because she always watched hands. He had lifted the two volumes of Anaxis out from under his head in their oilcloth, with both his long hands, the hands she had given back to him in the steam-box house a month ago, as carefully as she had ever seen anybody lift anything, and set them up on the bench out of the way. She knew what those books were. They were the one kindness anyone in a red cloak had ever done him, and he had hated it, and slept on them for fifteen nights in the sluice-house, and carried them to Silverwood and back. A man did not move a thing like that out of the way for nothing. He had moved it for her, and said nothing about it, and then he had said *Here.*
 
@@ -12914,9 +12860,9 @@ It came through two thicknesses of wool and the linen of her shift, from his bac
 
 None came back. That was the work.
 
-This was coming back. It asked nothing. It did not want anything of her, it did not want her to be anything, it did not even know that she was there; it was only a man asleep with his back to hers, being warm, the way a hearthstone is warm after the fire is out. And it came into her and spread, slowly, the way the warm water from the spring spreads out into the cold sea in the surf below the Baths, where she stood at night to say the names.
+This was coming back. It asked nothing. It did not want anything of her, it did not want her to be anything, it did not even know that she was there; it was only a man asleep with his back to hers, being warm. And it came into her and spread, slowly, the way the warm water from the spring spreads out into the cold sea in the surf below the Baths, where she stood at night to say the names.
 
-She did not fight it. She did not know how she would have fought it. She lay quite still and let it come; and then, without deciding to, she leaned into it a little, the way you lean into a wind on a hillside. And it flowed over her, and through her, from her back to the ends of her fingers, and she felt it go, like some new form of magic: nothing the Vigil had ever taught her, nothing perhaps the Vigil had ever known, a thing she had no name for and did not, for once, want to name.
+She did not fight it. She did not know how she would have fought it. She lay and let it come; and then, without deciding to, she leaned into it a little, the way you lean into a wind on a hillside. And it flowed over her, and through her, from her back to the ends of her fingers, and she felt it go, like some new form of magic: nothing the Vigil had ever taught her, nothing perhaps the Vigil had ever known, a thing she had no name for and did not, for once, want to name.
 
 The knot was there when she shut her eyes. It was always there, small and dark and tight, behind her eyes, where she had tied it. She looked at it, as she looked at it every night. It did not go away. She did not ask it to. She was warm.
 
@@ -12974,7 +12920,7 @@ He went past her out of the shed at his fast limping walk toward the water-butts
 
 ---
 
-They came down from the fort at a run, the way the cohort ran, in no order and all at once: down the long lane from the gatehouse and along the quay under the burned yards, with their shields banging and the bell still going behind them. Valeria first, with the Lanciarii at her back in their old blue cloaks and their spears sloped over their shoulders like a hedge on the move. Then the prince. He had no helmet and his cloak was on crooked, and he had come down the hill, Liora thought, at the same speed as the Lanciarii, which was a thing she had seen few princes do. The Lanciarii went on past the slips to the slip gate, where the quay narrowed between the old burned yards and the sea, and began to make a wall there. Marcus stopped at the head of the fourth slip, because someone had called him.
+They came down from the fort at a run, the way the cohort ran, in no order: down the long lane from the gatehouse and along the quay under the burned yards, with their shields banging and the bell still going behind them. Valeria first, with the Lanciarii at her back in their old blue cloaks and their spears sloped over their shoulders like a hedge on the move. Then the prince. He had no helmet and his cloak was on crooked, and he had come down the hill, Liora thought, at the same speed as the Lanciarii, which was a thing she had seen few princes do. The Lanciarii went on past the slips to the slip gate, where the quay narrowed between the old burned yards and the sea, and began to make a wall there. Marcus stopped at the head of the fourth slip, because someone had called him.
 
 "Highness."
 
@@ -13008,7 +12954,7 @@ Marcus looked at him a long moment. "And the twenty-three? Have they done it?"
 
 Marcus did not answer either of them. He turned his head and looked at Liora.
 
-She had not expected that. She stood with the mat under her arm and her hair down her back, straight out of the shavings, in her shift and her open cloak, and the whole slip-yard looking at her. She knew what it saw. She had known for a long time what a yard of men saw when she stood in it, and she had stopped, somewhere on the road between the Vigil's house and this one, apologising for it; it was not the looking she had ever minded. She let them look. And he looked at her steadily with his grey eyes, the way he had looked at her across the window of the Baths on the night he said *the boy lives*.
+She had not expected that. She stood with the mat under her arm and her hair down her back, straight out of the shavings, in her shift and her open cloak, and the whole slip-yard looking at her; and up at the saw-pit at the head of the slip the two sawyers let the long saw stand in the cut. And he looked at her steadily with his grey eyes, the way he had looked at her across the window of the Baths on the night he said *the boy lives*.
 
 "You decide," said Marcus.
 
@@ -13022,7 +12968,7 @@ It was the most that anyone had ever put into her hands. She understood that at 
 
 She put her mat down against the timbers of the pen and went along the line.
 
-She did not hurry. She looked at each of them as she came to him, the way she looked at a man on a pallet: all of him, the hands and the eyes and the way he stood. They knew what she was. She saw them know it. The space came round her as it always did, a little room of air that walked with her, and the men in the pen leaned back out of it on their chains without seeming to, the way grass leans from a wind.
+She did not hurry. She looked at each of them as she came to him, the way she looked at a man on a pallet: all of him, the hands and the eyes and the way he stood. They knew what she was. She saw them know it. The space came round her as it always did, a little room of air that walked with her, and the men in the pen leaned back out of it on their chains without seeming to.
 
 Merula first. He stood in it and did not lean.
 
@@ -13104,7 +13050,7 @@ Gaius, at the head of the first slip, looked at it over his shoulder, and went o
 
 **VALERIA**
 
-The frost had got into her plaits. She could feel the weight of them down her back over the mail, the two long fair ropes of them to her belt, stiff and cold as hawsers, and the cold of the rings through her shirt, and under the shirt her own body, which she had kept hard by carrying it for nineteen years and liked better at thirty-eight than she ever had at eighteen. She did not say so to anyone. She stood in the cold and let it find her, and found that the Lanciarii were watching her stand in it, the way they always watched her before a fight, to see how she stood; and she let them.
+The frost had got into her plaits. She could feel the weight of them down her back over the mail, the two long fair ropes of them to her belt, stiff and cold as hawsers, and the cold of the rings through her shirt, and under the shirt her own body, kept hard by carrying it for nineteen years, warm and ready and hers. She stood in the cold and let it find her. The Lanciarii were watching her stand in it, the way they always watched her before a fight, to see how she stood.
 
 There was a list. There had always been a list, since she was nineteen and on a baggage cart behind the camp on the Long Field, listening to the levy die. *Things that might kill me*, at the top, and under it, in a separate column, *Things to deal with later*. She kept it in her head because paper got wet. This morning it went:
 
@@ -13280,7 +13226,7 @@ Her dead lay under the arch with their cloaks over their faces. Two of the Lanci
 
 She looked round. Roderic had come down from the fort.
 
-He came along the quay walking very straight, as he had walked since the Baths, like a man who keeps forgetting that he need not ask his back's leave for anything any more; once he put out a hand to the wall, from nineteen years' habit, and looked at it, and took it away. He stopped beside her under the arch, and looked east along the harbor with her, at the boats and the lofts and the tower and, beyond them, the black beach, where the marines' fires were going again round the *Clemency*'s ribs, and their boats lay drawn up in a long row on the shingle above the tide-line, keel by keel, all but one.
+He came along the quay walking very straight, as he had walked since the Baths, like a man who keeps forgetting that he need not ask his back's leave for anything any more; once he put out a hand to the wall, from nineteen years' habit, and looked at it, and took it away. Straight, he was a head taller than any of the Lanciarii, and broad through the chest and shoulders under the old mail in a way the bent years had hidden: a big-boned, heavy-wristed man, made for carrying a lance and a shield all day and a horse under him, with the sea-light on the grey in his beard turning it the color of iron. He stopped beside her under the arch, and looked east along the harbor with her, at the boats and the lofts and the tower and, beyond them, the black beach, where the marines' fires were going again round the *Clemency*'s ribs, and their boats lay drawn up in a long row on the shingle above the tide-line, keel by keel, all but one.
 
 "You saw the bolt-thrower," he said.
 
@@ -13298,9 +13244,13 @@ He said nothing. He stood with his hand on the arch and looked at the black beac
 
 On the harbor master's wall, above the hard, the garrison's tide-board said in its neat red figures that the afternoon's low water would come at the eleventh hour.
 
-"Not till I say," said Valeria.
+"It's your gate," said Valeria.
 
-"Not till you say, my dear," said Roderic. And did not move from her side.
+"And my beach," said Roderic. "You'll know when the gate can spare me. I'll know when the beach is ready. Whichever of us knows it first says so." He looked down at her, which he could do now, from his whole height. "I'll not go without you know it, my dear. And you'll not keep me past the time."
+
+She looked up at him. It was a long way up, now that he stood straight; she had forgotten, in nineteen years of hating him, how big he was. "Agreed," she said.
+
+And he did not move from her side.
 
 ---
 
@@ -13312,7 +13262,7 @@ She lay on the roof of the net-loft with the bow under her and the rest in a row
 
 It was her roof. The loft under it was the one she had walked him into by the belt two days ago, with the whole of the forty watching from the boats and the witch up on the roof opposite saying *note*; it smelled of tar and old net and, faintly still, of him. She had chosen it at the first bell without thinking about why. It was the best roof on the hard. It looked straight down the street of boats toward the east port, and along the back of the lofts to the foreshore, and up to the slip gate behind; from here she could see everything the forty could not, which was what a roof was for.
 
-She had plaited her braid fresh at the first bell, by feel, in the dark, tight from the nape the warden's way, and pushed the end of it through her belt so that it would not catch on anything; and she had thought, doing it, of the place where it was thickest, and of a lock of short brown hair that was not in it, and had pulled the plait tighter than it needed to be. Down on the hard a man of the forty looked up at the ridge, and then another, and nudged a third. She knew what they saw: the long line of her laid out along the ridge in her leathers, from the bow to the boot-heels, and the fair rope of the braid down her back. A month ago she would have moved. She lay where she was and let them look. It was her roof; and the one who mattered was not looking.
+She had plaited her braid fresh at the first bell, by feel, in the dark, tight from the nape the warden's way, and pushed the end of it through her belt so that it would not catch on anything; and she had thought, doing it, of the place where it was thickest, and of a lock of short brown hair that was not in it, and had pulled the plait tighter than it needed to be. Down on the hard a man of the forty looked up at the ridge, and then another, and nudged a third; and after a while the three of them found work on the far side of the boats. A month ago she would have moved. It was her roof; and the one who mattered was not looking.
 
 She could see him.
 
@@ -13394,7 +13344,7 @@ Two.
 
 She reached for the last one, and it was a duck-arrow with a bent goose-feather; and she put it on the string, and drew, and looked for the one who mattered.
 
-There were so many. That was the thing. There were too many, all at once, coming over the boats, and every one of them mattered, and she had one arrow. She held it, drawn, with the Silverwood String humming against her cheek, and could not choose; and in the time it took her not to choose, a marine on the stern of the boat below her own eaves looked up.
+There were so many. That was the thing. There were too many, coming over the boats, and every one of them mattered, and she had one arrow. She held it, drawn, with the Silverwood String humming against her cheek, and could not choose; and in the time it took her not to choose, a marine on the stern of the boat below her own eaves looked up.
 
 He was a big man, bigger than the first man, with a red cord on his shoulder that meant something to the marines, and a short sword, and no helmet; and he had been hunting her all morning. She saw that in his face. She had shot three of his men under his eyes and he had been looking along these roofs for her since the second hour, the way the first man had looked along them, for a different reason; and now he had found her, on the ridge, against the sky, with an arrow drawn that she had not loosed.
 
@@ -13436,7 +13386,7 @@ He had looked at the wrong roof instead. Twice. On purpose, with his helmet push
 
 So he did not look up. He went along behind his forty, and put his shoulder into the gaps, and hauled men out of them by the belt, and said *feet*, and *shields*, and *look at the man in front of you*; and all morning, at the back of his skull, in the place where a soldier keeps the things he cannot afford to think about, he listened for her.
 
-She had flung it at him on the roof last night, in a fury: *nothing in my hands but fourteen arrows.* He had not forgotten it. A man in the throat. A man in the knee. A crossbowman through the shoulder. He could not see them all, but he could hear them, if he listened: a particular sound, a short hard *tuck*, like a fist into a sack, that no other weapon on the field made. He knew it the way he knew the forty's feet on a deck in the dark. At noon the sound had stopped for so long that he thought she must be out. He sat on the skiff and ate what he was given, and cut his notch for Barbatus. Then he did the one thing he had not let himself do all morning, and looked along the roofs for her; and the ridge was empty, and he did not breathe again until he saw the small shape go back up the net-ladder at the back of the loft a while later, and lie down in its place. She had been among the dead in the lanes, then, with her foot on their chests, getting her arrows back.
+She had flung it at him on the roof last night, in a fury: *nothing in my hands but fourteen arrows.* He had not forgotten it. A man in the throat. A man in the knee. A crossbowman through the shoulder. He could not see them all, but he could hear them, if he listened: a particular sound, a short hard *tuck*, that no other weapon on the field made. He knew it the way he knew the forty's feet on a deck in the dark. At noon the sound had stopped for so long that he thought she must be out. He sat on the skiff and ate what he was given, and cut his notch for Barbatus. Then he did the one thing he had not let himself do all morning, and looked along the roofs for her; and the ridge was empty, and he did not breathe again until he saw the small shape go back up the net-ladder at the back of the loft a while later, and lie down in its place. She had been among the dead in the lanes, then, with her foot on their chests, getting her arrows back.
 
 Then the dead came at the ninth hour, and the red cloaks came up off the foreshore after them, all of them, and there was no more room at the back of his skull for anything.
 
@@ -13454,7 +13404,7 @@ Somewhere in it he understood that she was not keeping any back. That she was sh
 
 And then nothing.
 
-He went on fighting. He did not decide to. A man in a line goes on fighting the way a man in a river goes on swimming. He put his shield up and took a blow on it, and pushed, and the man in front of him went back; and he stood in the gap and waited for the *tuck* behind him, and it did not come, and it did not come. He waited for it the way you wait between the lightning and the thunder, with your shoulders up; and it went on not coming, longer than any thunder he had ever waited for.
+He went on fighting. He did not decide to. He put his shield up and took a blow on it, and pushed, and the man in front of him went back; and he stood in the gap and waited for the *tuck* behind him, and it did not come, and it did not come. He waited for it the way you wait between the lightning and the thunder, with your shoulders up; and it went on not coming, longer than any thunder he had ever waited for.
 
 He turned round.
 
@@ -13476,7 +13426,7 @@ He ran toward it. That was the difference. He had time, afterward, a great deal 
 
 Something woke.
 
-It woke the way a man wakes who has been asleep a long time in a cold room: all at once, without any grogginess, with his eyes open and his feet on the floor. It had been in him all his life. He knew that the moment it woke, the way you know a voice you have not heard since you were a child. He had felt it turn over in its sleep a few times. Once when he was twelve, in his father's yard, with a pitchfork in his hands, and a man who had come for the rent. Once on the bank of the ford, with Gallus coming up out of the water with his squint, when he had put his shield down to go to him and been pulled back by four men and dragged to the rear. He had been afraid of it every day since he was twelve. He had made himself a sergeant, and the first man of a line, and a man who said *feet* and *shields* and *look at the man in front of you*, so that it would sleep. And now it was awake, and he was not afraid of it.
+It woke the way a man wakes who has been asleep a long time in a cold room: all at once, without any grogginess, with his eyes open and his feet on the floor. It had been in him all his life. He knew that the moment it woke. He had felt it turn over in its sleep a few times. Once when he was twelve, in his father's yard, with a pitchfork in his hands, and a man who had come for the rent. Once on the bank of the ford, with Gallus coming up out of the water with his squint, when he had put his shield down to go to him and been pulled back by four men and dragged to the rear. He had been afraid of it every day since he was twelve. He had made himself a sergeant, and the first man of a line, and a man who said *feet* and *shields* and *look at the man in front of you*, so that it would sleep. And now it was awake, and he was not afraid of it.
 
 He was not afraid of anything.
 
@@ -13502,7 +13452,7 @@ The body went over the stern of the hauled-up boat, high, turning, with its arms
 
 The red cloaks stopped.
 
-He saw them stop. He saw them look at the body, and then at him, standing in the mouth of the lane with no shield and his sword in his hand and two of their blades in him; and he saw it come into their faces, all of them, one after another, the way the tide comes into a gap. Then they were going back. Not in a line. Not in any order. Back along the street, over the hulls, toward the east end and the foreshore and the black beach, faster and faster, the way a field of men goes when one of them has run and the rest have seen him go. And behind him, he heard it a long way off, through the water over his head, the forty roaring, and coming on.
+He saw them stop. He saw them look at the body, and then at him, standing in the mouth of the lane with no shield and his sword in his hand and two of their blades in him; and he saw it come into their faces, all of them, one after another. Then they were going back. Not in a line. Not in any order. Back along the street, over the hulls, toward the east end and the foreshore and the black beach, faster and faster, the way a field of men goes when one of them has run and the rest have seen him go. And behind him, he heard it a long way off, through the water over his head, the forty roaring, and coming on.
 
 He let them go. He did not want them. He turned round.
 
@@ -13568,7 +13518,7 @@ And went back into the sea.
 
 That was the dawn. By the sixth hour the east port had been taken back by a thief up a privy shaft, and the engineer had not smiled, and the slip gate had held, at the price of three men; and Marcus had come down from the fort to the slip gate, where the General already stood with Valeria under the arch, and stayed. By the eighth hour there was nothing to do but wait for the board.
 
-Thalassa came up at the foot of the second slip in the slack of the afternoon, out of the water, as she always came, without a sound, so that the women in the bucket line at the bottom of the slip stepped back from her with their hands to their mouths and then stood quite still and stared, as the whole town stared at her now, wherever she came up. She stood in the shallows with the water to her waist and her short trident on her back, and let them. The sea ran off her in sheets. The dark sealskin was wet and close as paint over the long swimmer's shoulders and the high full breasts and the flat of her belly where it went down into the grey water, and her blue hair lay over her shoulders and moved on them, slowly, as if it had not yet been told that it was out of the sea. Two fisher-wives at the end of the line said something to each other behind their hands. Thalassa looked them over, gravely, from their feet to their hair and back, as they had looked at her; and one of them laughed, and went red; and the sea-woman turned away from them, unhurried, as if she had been paid a compliment she had expected, and waited, and Marcus went down the slip to her.
+Thalassa came up at the foot of the second slip in the slack of the afternoon, out of the water, as she always came, without a sound, so that the women in the bucket line at the bottom of the slip stepped back from her with their hands to their mouths and then stood and stared, as the whole town stared at her now, wherever she came up. She stood in the shallows with the water to her waist and her short trident on her back. The sea ran off her in sheets. The dark sealskin was wet and close as paint over the long swimmer's shoulders and the high full breasts and the flat of her belly where it went down into the grey water, and her blue hair lay over her shoulders and moved on them, slowly, as if it had not yet been told that it was out of the sea. Two fisher-wives at the end of the line said something to each other behind their hands. Thalassa looked them over, gravely, from their feet to their hair and back, as they had looked at her; and one of them laughed, and went red; and the sea-woman turned away from them, unhurried, as if she had been paid a compliment she had expected, and waited, and Marcus went down the slip to her.
 
 "It turns at the tenth hour," she said, without any greeting; she never gave one. "Your board says the eleventh."
 
@@ -13612,7 +13562,7 @@ He saw it go down on the cobbles, face up. He knew it was Rufo before he saw his
 
 Then Rufo ran. Not away. Into them.
 
-What happened in the street after that Marcus never afterward found words for, though he was asked for them by a good many people, his father among them. A man without a shield went through the red cloaks the way a man walks through standing corn. That was the nearest he ever came. He did not hurry. He did not stop. Men came at him and were not there any more. A head went up in the air over the boats, turning, with its helmet still on, and came down somewhere he did not see. A man put a blade into him, and Marcus saw it go in, and saw Rufo not notice; not stumble, not turn, not anything, as a man does not notice a bramble catch his sleeve. Then Rufo was at the mouth of a lane between a loft and a boat, and there was a big man in it, and then the big man was in the air, high, over the stern of the boat, turning slowly with his arms out like a child thrown into a river in summer; and came down on the cobbles of the street in front of his own men, ten paces off; and lay there.
+What happened in the street after that Marcus never afterward found words for, though he was asked for them by a good many people, his father among them. A man without a shield went through the red cloaks the way a man walks through standing corn. That was the nearest he ever came. He did not hurry. He did not stop. Men came at him and were not there any more. A head went up in the air over the boats, turning, with its helmet still on, and came down somewhere he did not see. A man put a blade into him, and Marcus saw it go in, and saw Rufo not notice; not stumble, not turn, not anything. Then Rufo was at the mouth of a lane between a loft and a boat, and there was a big man in it, and then the big man was in the air, high, over the stern of the boat, turning slowly with his arms out like a child thrown into a river in summer; and came down on the cobbles of the street in front of his own men, ten paces off; and lay there.
 
 The red cloaks stopped.
 
@@ -13662,7 +13612,9 @@ He said it quite quietly. He had not moved from Thistle's side all afternoon. He
 
 Valeria did not look at him. She looked at the beach for a long moment. Then, without turning her head, she lifted one hand, palm out, at the height of her shoulder. The gesture she had made at Silverwood, at the south gap, with the singer leaning on her shield. One palm.
 
-Roderic got up onto Thistle.
+Roderic lifted his own, open, back to her. *The gate is yours.*
+
+Then he got up onto Thistle.
 
 He did it in one movement, foot and hand and over, as Marcus had never once seen him do it; and then sat there a moment in the saddle with his eyes shut, the way a man stands at the top of a stair he has not been able to climb in years, not trusting it yet. Then he opened them, and gathered the reins, and was sitting a horse; and twenty years went off him as if he had shrugged off a cloak.
 
@@ -13692,9 +13644,13 @@ Marcus took the chestnut's reins out of Tam's hands.
 
 "They don't say where," said Marcus.
 
-She stared at him. For a moment he thought she would lever him off the horse with the Farrier's haft, and he would not have blamed her. Then she stepped back.
+She stared at him. Then she looked up at the General, and he looked down at her, and something went between them that Marcus was not part of.
 
-"If you fall off," said Valeria, "I'll kill you myself."
+"He's yours till the end of the beach," she said.
+
+"And then he's yours again, my dear," said Roderic, "and so am I."
+
+She stepped back.
 
 The Lanciarii opened.
 
@@ -13708,17 +13664,17 @@ He would remember the noise. The songs never had the noise. Not the shouting; Ro
 
 They heard the horses. He saw them turn.
 
-He saw their faces as they turned. Living men's faces, wet and white and very young, a great many of them, with their mouths open, looking up the beach at two horses coming at them out of nowhere at a gallop, with the low sun behind them; and he understood, in the last fifty paces, what the old man had meant, and why he had wanted a beach with the sea behind it, and why two horses would do. It was not the horses. It was that there was nowhere to go.
+He saw their faces as they turned. Living men's faces, wet and white and very young, a great many of them, with their mouths open, looking up the beach at two horses coming at them out of nowhere at a gallop, with the low sun behind them; and he understood, in the last fifty paces, what the General had meant, and why he had wanted a beach with the sea behind it, and why two horses would do. It was not the horses. It was that there was nowhere to go.
 
 They broke before the horses reached them.
 
-Not all at once. A man at the front, nearest, threw down his oval shield in the shallows and put his hands up. Another went down on his knees in the water. Another turned and tried to swim, in his mail, for the boats, and went under, and did not come up. And then the whole long crowd of them came apart, along the edge of the sea, the way the street had come apart; and the horses went into them, and through them, along the edge of the flood with the spray going up from the hooves; and Marcus had his sword out and could not afterward remember whether he had used it, or on whom. Roderic had used his. Marcus saw that. Twice, from the saddle, low and quick and economical, the way a man trims a hedge; and then not again, because there was nobody left standing in front of him who had not put his sword down.
+Not all at once. A man at the front, nearest, threw down his oval shield in the shallows and put his hands up. Another went down on his knees in the water. Another turned and tried to swim, in his mail, for the boats, and went under, and did not come up. And then the whole long crowd of them came apart, along the edge of the sea, the way the street had come apart; and the horses went into them, and through them, along the edge of the flood with the spray going up from the hooves; and Marcus had his sword out and could not afterward remember whether he had used it, or on whom. Roderic had used his. Marcus saw that. A big marine with a boat-hook came up out of the water at the mare's shoulder, and the General leaned down out of the saddle, the whole weight of his body going into it as easily as a man leans to pick up a glove, and took the hook and the hand that held it off together; and a second came at him from the other side and went down in the surf with his helmet opened like a jar. Low and quick and economical, and the arm that did it as thick as a mooring-post; and then not again, because there was nobody left standing in front of him who had not put his sword down.
 
 They pulled up at the far end of the beach, by the rocks, with the horses blowing and the sea round their fetlocks. Marcus found that his right hand would not open off the reins. When he made it, the palm came away raw; the chestnut had taken the skin off it somewhere along the beach, and he had not felt it go.
 
 Behind them the black beach was full of men on their knees in the shallows with their hands on their heads. Out in the flood a few were still swimming for the boats, and some of them were getting there, and some of them were not. And down from the street of boats behind them, along the beach at a run, came the forty, roaring; and behind the forty, at a walk, in two ranks, with their spears sloped, the Lanciarii.
 
-Roderic sat Thistle at the edge of the sea with his reins slack in his hand and his sword across his thighs, breathing, looking back along the beach at what he had done. His face was grey. He was smiling.
+Roderic sat Thistle at the edge of the sea with his reins slack in his hand and his sword across his thighs, breathing, looking back along the beach at what he had done. His face was wet with the spray. He was smiling.
 
 "That's it," he said.
 
@@ -13736,9 +13692,17 @@ Merula counted them. He had come down the beach behind the Lanciarii with his Th
 
 "Get them out of the water," said Marcus, "before they freeze."
 
-Then he looked at Roderic, who was still sitting on Thistle at the edge of the sea, and had not moved; and saw his face, and his hands on the reins, which had begun to shake now that there was nothing left for them to do, and his knees, still clamped to the mare's sides as if the charge had not stopped; and understood.
+Then he looked at Roderic, who was still sitting on Thistle at the edge of the sea, and had not moved. He had his eyes shut. He had put one hand flat on the small of his own back, under the mail, where the halberd had gone in on the Long Field, the way a man puts his hand on a sleeping dog to be sure it is still breathing; and there was nothing there. There was only his back.
 
-"I can't get down," said the General. "Don't tell her."
+"Nineteen years," said the General, without opening his eyes. "Nineteen years I've got off a horse like a sack of meal off a cart, boy, and been glad of a mounting-block, and pretended I liked the view from it." He breathed in, the whole depth of his chest, as if the air off the flood were wine. "Gods. I could do that again. I could do that twice. I feel thirty." He opened his eyes and looked along the beach, past the kneeling men and the forty coming down at a run, to the slip gate a long way off, where a small figure in mail stood in the arch with a spear grounded beside her, watching. "Is she looking?"
+
+"She's looking."
+
+"Good," said Roderic. "Watch this. And you may tell her I did it on purpose."
+
+He kicked his feet out of the stirrups, swung his right leg forward over the mare's neck, and slid off her shoulder sideways in one easy drop, the way the young bloods of the Long Field had done it at the summer fairs to make the girls scream, and landed on both feet in the shallows with the sea round his boots, and turned toward the far arch, and bowed to it from the waist with his sword held out to one side.
+
+Far off, on the quay, the Lanciarii cheered. Marcus could not see Valeria's face at that distance. He did not think she had moved at all.
 
 ---
 
@@ -13746,7 +13710,7 @@ At dusk the herald came.
 
 He came in the same boat as the day before, eight oars and a steersman, under the white open hand on its board, along the coast under the headland and round into the lee of the fort to the foot of the water-gate stair; and stood up in the stern in his neat dark coat with his red book under his arm, and opened it, and found his page. The six ships stood out beyond the gap with their lanterns lit, and the *Audit*'s stern-lantern rode highest. Their boats were all aboard, the ones that had come back. Nobody had counted how many had not.
 
-Marcus came down the stair to the second step, as before. Valeria came with him, and stood one step above him, with the Farrier, and did not look at him, and had not looked at him since he came back up the beach leading the chestnut, walking, with the General on Thistle beside him, and the General sitting very straight.
+Marcus came down the stair to the second step, as before. Valeria came with him, and stood one step above him, with the Farrier, and did not look at him, and had not looked at him since he came back up the beach leading the chestnut, walking, with the General walking beside him leading Thistle, very straight, and whistling.
 
 "Opiter Vibius," said Marcus.
 
@@ -13790,23 +13754,25 @@ Thalassa was in the water at the foot of the steps, with only her head and shoul
 
 Marcus stood on the second step in the dark. Above him on the gatehouse roof someone lit a lamp. Down on the black beach the cohort was building a fire along the tide-line, a long one, out of the wreck of the marines' boats and the black ribs of the *Clemency* that were left, to burn the red cloaks' dead before the night was out, so that nobody would walk them anywhere. He could hear Kaeso's drum begin down there, slow, the beat for the dead; and under it, a long way off, from the inner basin, very faint, the singing.
 
-"You fell off," said Valeria.
+"Over the neck," said Valeria.
 
-"I didn't fall off."
+"I'm sorry?"
 
-"You fell off at the end. Getting down. I saw you." She did not look at him. "Your knee went and you sat down in the sea."
+"He got down over the mare's neck. Like a boy at a fair." She did not look at him. "Fifty-two years old, in front of the whole town and the Navarch's fleet, and he bowed. With a sword." She was silent. "He said it was on purpose."
 
-"That's not falling off. That's dismounting badly."
+"He said to tell you so."
 
-Valeria said nothing for a while. Then she said, in a different voice, low, looking out at the dark where the ships had been: "He couldn't get down."
+Valeria said nothing for a while. She turned the Farrier in her hands, and looked out at the dark where the ships had been, and Marcus saw, in the last of the light, that she was trying to look as she always looked, and could not quite get there.
 
-"No."
+"I watched him at the water's edge," she said at last, low. "The boat-hook. The one with the helmet." She considered it, with a captain's honesty, as she would have considered a report. "I ought to have been thinking about the tide. I was not thinking about the tide." She cleared her throat. "It is not a proper thing for an officer to feel, watching a man take another man's hand off. I'll thank you not to put it in a song."
 
-"He thinks I don't know." She was silent. "It isn't the back. The healer mended the back. It's the rest of him. Nineteen years since he last did that, and his legs locked on the saddle and wouldn't let go, and his hands—" She stopped. "Two of the Lanciarii had to lift him off. In front of everybody. And he made a joke about it the whole way, so they'd laugh, so nobody would look at his face." She turned the Farrier in her hands. "Nineteen years I hated that man. For a field. For my father." She stopped. "I gave him the palm."
+"I don't write songs."
 
-"You did."
+"He does." She turned the Farrier again. "Nineteen years I hated that man. For a field. For my father." She stopped. "I gave him the palm."
 
-"I'd do it again," said Valeria. "That's the worst of it." And she went up the stair into the dark, toward the lamp, and the General.
+"He gave it back."
+
+"He did." She was quiet. "I'd do it again," said Valeria. "That's the worst of it." And she went up the stair into the dark, toward the lamp, and the General, and Marcus could have sworn that, near the top, she went up two steps at a time.
 
 ---
 
@@ -13830,7 +13796,7 @@ She heard it change. She could not have said how. It went up, and then it went q
 
 "Well," he said, after a while, to the window. "*Well.*"
 
-He did not say anything else. He did not come away from the window, either, for a long time; and then he did, all at once, and went to the door and opened it and stood back from it.
+He did not say anything else. He did not come away from the window, either, for a long time; and then he did, and went to the door and opened it and stood back from it.
 
 ---
 
@@ -13918,7 +13884,7 @@ There was a pool of it by Rufo's left boot, dark on the old white stone, creepin
 
 "You've been stabbed," she said.
 
-Rufo looked down at himself. He looked for a long moment, as a man looks at a coat he finds he has put on by mistake, that belongs to somebody else.
+Rufo looked down at himself. He looked, as a man looks at a coat he finds he has put on by mistake, that belongs to somebody else.
 
 "Have I?" he said.
 
@@ -13934,13 +13900,13 @@ They got his mail off him where he knelt. It took the three of them, the barber 
 
 It was a cork float: the kind the women of the town sewed along the edges of their nets. Liora picked it up. She looked at it, and at him. Then she put it into his hand, and his fingers closed on it.
 
-The first wound was under his left arm, where the mail gapped at the armhole. A blade had gone in there sideways and met a rib and slid along it, as a blade will, instead of going between. She laid her hand over it and went in. The rib had turned it. *That is what ribs are for,* she thought. A finger deep and a hand long, and clean, and nothing under it that mattered. The second was in the back of his right thigh, low, from behind: a short hard thrust a hand's breadth above the knee, that had missed the great vessel of the thigh by the width of her thumb. She held her palm on that one longer.
+The first wound was under his left arm, where the mail gapped at the armhole. A blade had gone in there sideways and met a rib and slid along it, as a blade will, instead of going between. She laid her hand over it and went in. The rib had turned it. *That is what ribs are for,* she thought. A finger deep and a hand long, and clean, and nothing under it that mattered. The second was in the back of his right thigh, low, from behind: a short hard thrust just above the knee, that had missed the great vessel of the thigh by the width of her thumb. She held her palm on that one longer.
 
-She had very little left. She warmed her hands under her arms, as she had warmed them all day, and they did not get warm; and she laid them on him anyway, one under the arm and one on the thigh, and shut her eyes, and gave him what there was. It was enough. It went in slower than it had in the morning, and she felt the meat draw together under her palms like a seam pulled shut from the inside; and when she took her hands away there was new skin where the blades had been, pink and shining as the inside of a shell, and blood all round it that had no business there any more.
+She had very little left. She warmed her hands under her arms, as she had warmed them all day, and they did not get warm; and she laid them on him anyway, one under the arm and one on the thigh, and shut her eyes, and gave him what there was. It was enough. It went in slower than it had in the morning, and she felt the meat draw together under her palms like a seam pulled shut from the inside; and when she took her hands away there was new skin where the blades had been, and blood all round it that had no business there any more.
 
 "You'll live," she said.
 
-He did not seem to hear her. He did not move or make a sound for any of it, and Liora did not think he had felt it. That would come later. It would all come later: every blow he had taken in the street without noticing, and the two blades, and the weight of whatever he had lifted and thrown. It would come tonight, or tomorrow, all at once, the way a debt comes due.
+He did not seem to hear her. He did not move or make a sound for any of it, and Liora did not think he had felt it. That would come later. It would all come later: every blow he had taken in the street without noticing, and the two blades, and the weight of whatever he had lifted and thrown. It would come tonight, or tomorrow, the way a debt comes due.
 
 Somewhere in the middle of it the noise came in at the high window again: the whole town at once, on its walls and its roofs, roaring. Hostus did not go to look this time. Nobody did. Rufo did not turn his head.
 
@@ -14010,7 +13976,7 @@ Liora came round the end of the slab and knelt down beside him on the wet stone,
 
 He turned his head and looked at her. His eyes were wet, and he did not seem to know that either.
 
-"More than I've ever known what to do about anything," said Rufo. "In my life." Then his face went, all at once, the way a wall goes when the last course under it gives; and he said, with his voice breaking on it: "Please. Just save her."
+"More than I've ever known what to do about anything," said Rufo. "In my life." Then his face went, the way a wall goes when the last course under it gives; and he said, with his voice breaking on it: "Please. Just save her."
 
 Liora looked at him. At the new pink skin under his arm, and the shaking, and the float in his fist, and the street still there behind his eyes; not asleep yet. Lying down. She thought of the forty in the lane below, who would want to see him; and the jokes they would make, because that was what men made; and the fleet out beyond the gap with its lanterns; and the night coming. She thought of what a man like this would do, tonight, if he were told that the thing he had carried up the hill was in no danger and needed nothing from him.
 
@@ -14132,7 +14098,7 @@ She lay and listened to it. She was warm. That was the second thing. She had bee
 
 She opened her eye. The one that would open.
 
-Lamp-light, low, through steam. A wall with water running at the foot of it. A ceiling she did not know, very old, with fish painted on it, faded, swimming nowhere. And close to her face, so close that it filled the whole of the world on that side: a man's shoulder, bare, with a bandage round it under the arm; and a square jaw above it, with the old scar along it; and short hair, with nothing in it. He was lying on his side on the edge of the stone, along the length of her, the way a man lies along a wall on watch, with his back to the room; and his arm was under her head. He was not holding her. He was being very careful not to hold her. She could feel how careful he was being in every part of him that was near her, the way you feel a bowstring that is drawn and not loosed.
+Lamp-light, low, through steam. A wall with water running at the foot of it. A ceiling she did not know, very old, with fish painted on it, faded, swimming nowhere. And close to her face, so close that it filled the whole of the world on that side: a man's shoulder, bare, with a bandage round it under the arm; and a square jaw above it, with the old scar along it; and short hair, with nothing in it. He was lying on his side on the edge of the stone, along the length of her, with his back to the room; and his arm was under her head. He was not holding her. He was being very careful not to hold her. She could feel how careful he was being in every part of him that was near her, the way you feel a bowstring that is drawn and not loosed.
 
 There was something in her good hand. Small and round and light. She closed her fingers on it and knew it without looking. Cork.
 
@@ -14206,7 +14172,7 @@ Felix had followed him down with the pot wrapped in a cloth. He filled the cup a
 
 "Tell me."
 
-Kymon told him. He did not tell it well. He had not, Marcus thought, told anybody anything at length in his life; he said things in the fewest words that would carry them, the way a man carries water in his two hands, and let the rest fall. But Thalassa sat in the sea beside him and filled in round the words as he said them, the way you fill round stones with smaller stones in a wall, so that by the end of it Marcus could see it.
+Kymon told him. He did not tell it well. He had not, Marcus thought, told anybody anything at length in his life; he said things in the fewest words that would carry them, the way a man carries water in his two hands, and let the rest fall. But Thalassa sat in the sea beside him and filled in round the words as he said them, so that by the end of it Marcus could see it.
 
 The six ships had gone into the Grey at dusk on one count, and Kymon had gone into the sea after them at the foot of the stair; and under the Grey, down on the bottom where the warm road ran west from Cyrene's hearth, he had followed the sound of their oars. All of them on one count. You could hear it a long way, under the water, Thalassa said: the oars of a whole ship's crew going in together, like a heart. They had not gone far. A few hours, west, slow, feeling their way out into the Grey along the lane. Then the oars had stopped.
 
@@ -14224,7 +14190,7 @@ Kymon was quiet a moment. He drank the last of the cup.
 
 "Black," he said. "High in the stern. Painted gold along the rail. A woman on her." He set the cup down on the step beside him with great care, as if it might break, and looked at it. "I came up under the big ship's stern in the dark, to listen. At the window. The woman came over from her ship to the big one while I was there. Not in a boat." He looked up at Marcus. "The fog was between the ships. She put her hand out into it. And it folded. Like cloth. Like the edge of a sail when you fold it to its other edge. And there was a place in it like a door, and her own deck on one side of it and the big ship's deck on the other, and she stepped through. And the fog was fog again."
 
-Nobody said anything. Felix, on the step above, had stopped with the pot in his hands.
+Felix, on the step above, had stopped with the pot in his hands.
 
 "There was a thread," said Kymon. "At her wrist. With lights on it. Small. Like ours, in the jars." He touched his own thick wrist with two fingers. "When she stepped through, one of the lights went out."
 
@@ -14314,8 +14280,6 @@ Gaius spoke from the rim of the pool without looking up from the water round his
 
 She said it without any weight at all, the way she said everything that mattered, and she did not look at Marcus when she said it. Everyone in the cave knew which letter. The Marshal's, with the bull's head on it, that she kept inside her mail: the recall drafted and not signed, and his Majesty keeping it; and the Captain to hold the Prefect in Cyrene's waters, and *not to sail with him again*, or the Marshal would send a captain who could.
 
-Nobody said anything to that either.
-
 Marcus looked up the stair.
 
 "Faelar," he said.
@@ -14344,7 +14308,7 @@ He looked round the cave.
 
 "The crown answers the wood," he said. "I don't know another way to say it. That was the bargain. It was the only bargain we ever had."
 
-Nobody said anything for a long moment. Then the General, at his pillar, laughed: a short breath through the nose, the old one; and then, Marcus saw, as if he had just remembered that it cost him nothing now, a proper laugh, from the belly.
+Nobody said anything. Then the General, at his pillar, laughed: a short breath through the nose, the old one; and then, Marcus saw, as if he had just remembered that it cost him nothing now, a proper laugh, from the belly.
 
 "Well," said Roderic. "That wasn't a speech. I've heard speeches. That wasn't one." He shifted his shoulders against the stone. "Two horses won't go on a liburna. I'll want a deck."
 
@@ -14398,7 +14362,7 @@ She did not say anything at first. She stood a step above him with the Farrier o
 
 She went on down the stair. At the bottom she stopped, without turning round.
 
-"And the General goes on the *Forward*," she said. "Where I can see him. Not on one of those barns of the engineer's. He's never fought off a deck in his life. If he's going to learn, I want to watch."
+"And the General goes on the *Forward*," she said. "He told me so. He didn't ask." Her face did not change, but something in her voice did. "He's never fought off a deck in his life, and he says he'll learn it beside the Lanciarii or not at all." She went on down. "I find I didn't mind being told."
 
 ---
 
@@ -14780,7 +14744,7 @@ The boy did not look at the foot. He looked at the chisel. He struck it once, no
 
 It was lighter than he had thought. It weighed about as much as a good pair of boots.
 
-He turned it over. Garrison iron. He knew it by the color of the break where the rivet had sheared; he had seen bad iron all his life, and this was bad iron, short and grey and crumbly at the grain, the kind that is cheap and that a quartermaster buys by the hundredweight. He weighed it in his hand. Then he looked at the boy, who was standing over the anvil with the hammer hanging at his side and his face gone red to the ears.
+He turned it over. Garrison iron. He knew it by the color of the break where the rivet had sheared; he had seen bad iron all his life, and this was bad iron, short and grey and crumbly at the grain, the kind that is cheap and that a quartermaster buys by the hundredweight. He weighed it in his hand. Then he looked at the boy, who was standing over the anvil with the hammer hanging at his side, not breathing.
 
 "Good," said Gaius.
 
@@ -14788,7 +14752,7 @@ The boy did not say anything. But he did not look at the ground, either.
 
 Gaius dropped the band in the scrap, on top of the grindstone, and the boy's on top of that, with its chain; and it all made a fine noise going in. Liora was looking at the scrap. Then she looked at him, at his face, for a long moment, in the last of the forge-light, with her own face very still and her hands folded in front of her bloody apron; and whatever she was going to say, she did not say it.
 
-"The tide's at the sixth hour of the night," she said instead. "I've put Roderic on a door in the warm room to sleep till then. He's furious." She turned to go, and stopped. "Sennius. Bring the basin."
+"The tide's at the sixth hour of the night," she said instead. "I've told Roderic to sit still in the warm room till then. He's furious." She turned to go, and stopped. "Sennius. Bring the basin."
 
 They went away along the quay together, the healer and the boy, unhurried; and the boy walked a pace behind her, as before, and did not carry anything over his arm. Gaius listened to them go, and knew after a while what he was listening for, and that it was not there. No chink. Only their feet on the stone, going away: the sound of two people walking.
 
@@ -14798,19 +14762,17 @@ He went back to the anvil. His left foot felt strange in the boot, very light, a
 
 **RODERIC**
 
-The door was the healer's.
+The healer had told him to sit still until the tide, and he was sitting still, and he wanted it known that it was the hardest thing anyone had asked of him in thirty years.
 
-She had had it brought up from the fort that afternoon: a good oak door, old, iron-studded, with a ring for a handle and the marks on it of a bar that had once gone across. It had been the door of the old paymaster's strongroom under the gate-tower, until Fingers took the lock off it to see how it thought. Now it was going to sea. *There is no flat place in a ship,* Liora had said, *that a man can be laid on and worked on and not roll off,* and she had gone through the fort until she found one. Tonight it lay across two trestles in the steam of the warm room, with a folded blanket on it, and Roderic of the Long Field lay on the blanket on his face, with his beard on his crossed forearms and his shirt off, and contemplated the grain of it.
+He sat on the stone bench by the brazier in the warm room with his shirt off for the heat and his mail across his knees, going over the rings with a rag and a pot of the fort's tallow, link by link, the way he had done it at twenty in his grandfather's armory with the old man watching. It was good mail. It had been made for him in the capital the year he was given the Long Field command, by a smith who had measured him twice and sworn both times, and it had hung on a stand for nineteen years because the man it was made for could not carry it. It fitted him again. He had put it on that afternoon to see, and it had sat on his shoulders the way a good horse takes a saddle, and he had stood in it for a while in the empty gatehouse with his eyes shut, not thinking of anything.
 
-"You have not lain down since the beach," Liora had said. "You stood at the pyre all night and in the cave all morning, and this afternoon I watched you carry a water-cask down the slip quay on your shoulder because you could. You will lie on that until the tide."
+"You have not sat down since the beach," Liora had said. "You stood at the pyre all night and in the cave all morning, and this afternoon I watched you carry a water-cask down the slip quay on your shoulder because you could."
 
-"Madam," he had said, "the last time I lay on a door, they carried me off a field on it, and I had at least won something."
+"Two casks, madam. One on each shoulder. You missed the second."
 
-"Then win something," said Liora, "and lie down."
+"I did not miss it," said Liora. "I was hoping you would drop it, so that I could say something."
 
-So he lay down. It was the only order he had obeyed without argument in thirty years, and he wanted it known that he had argued in his head.
-
-She had a last look at him first. He felt her find the place: low on the left, under the old halberd scar, where for nineteen years something had sat in him like a stone in a field. It was not there. He knew it was not there. He had known it every morning since the morning at the Baths, and he still woke each day and lay a moment waiting for it, the way a man puts his hand to his hip for a sword he has not worn in years. She laid both hands flat over the scar and shut her eyes, and he felt the warmth go in, and something go looking about the old ground, unhurried, like a quartermaster walking a store he has filled himself; and come back satisfied.
+She had a last look at him before she let him be. He felt her find the place: low on the left, under the old halberd scar, where for nineteen years something had sat in him like a stone in a field. It was not there. He knew it was not there. He had known it every morning since the morning at the Baths, and he still woke each day and lay a moment waiting for it, the way a man puts his hand to his hip for a sword he has not worn in years. She laid both hands flat over the scar and shut her eyes, and he felt the warmth go in, and something go looking about the old ground, unhurried, like a quartermaster walking a store he has filled himself; and come back satisfied.
 
 "It holds," said Liora.
 
@@ -14818,13 +14780,9 @@ She had a last look at him first. He felt her find the place: low on the left, u
 
 "It held on the beach," she agreed. "I wanted to see it hold after." She took her hands away.
 
-The warm room was full of steam and lamplight and the sound of the spring running in its channel round the foot of the walls, and it smelled, as it always smelled, of sulphur and wet stone and a thousand years of other men's oil, and now of mutton as well. There was a pot of it on the brazier by the door, with barley and a ham-bone in it, and the healer had made him eat a bowl before she let him lie down, and eaten two herself standing up, with the steady wolfish hunger she had after work. At the far end of the room, past the place where the steam stood thickest, the elf lay on the great slab under the painted fish, very still, asleep, with her right arm bound across her and her face turned from the lamp; and on the floor beside the slab, where he had been when Roderic came in, and where by the healer's account he had been for the better part of two days, sat the first man of the first line, with his back against the marble and his knees drawn up, as a man sits by a fire that he has been told to keep in.
+The warm room was full of steam and lamplight and the sound of the spring running in its channel round the foot of the walls, and it smelled, as it always smelled, of sulphur and wet stone and a thousand years of other men's oil, and now of mutton as well. There was a pot of it on the brazier, with barley and a ham-bone in it, and the healer had made him eat a bowl, and eaten two herself standing up, with the steady wolfish hunger she had after work. At the far end of the room, past the place where the steam stood thickest, the elf lay on the great slab under the painted fish, very still, asleep, with her right arm bound across her and her face turned from the lamp; and on the floor beside the slab sat the first man of the first line, with his back against the marble and his knees drawn up, as a man sits by a fire that he has been told to keep in.
 
-Roderic could see him if he turned his head on his arms. He did not turn it much. A man lying on his face on a door has very few dignities left, and the chief of them is not to stare.
-
-Liora wiped her hands on her apron.
-
-"Two hours," she said. "Then the door goes down the lane, and you behind it. I have the Lanciarii's word on it, and Valeria's. And mine." She looked at him, the whole length of him, as she looked at everything, and he felt himself being added up. "You've never fought off a deck, General. You know that."
+Liora wiped her hands on her apron and looked at him, the whole length of him, as she looked at everything, and he felt himself being added up. "You've never fought off a deck, General. You know that."
 
 "I know it."
 
@@ -14832,59 +14790,75 @@ Liora wiped her hands on her apron.
 
 He thought about it. She deserved that.
 
-"Because the boy said *the crown answers the wood*," said Roderic. "In the cave. In front of everybody. And there's a song about me, madam, that every harper in the isles has by heart, and in all the verses of it nobody says a word I'd care to have said over me." He moved his beard on his arms. "That one I'd care to have said over me. I'd like to be there when it's true."
+"Because the boy said *the crown answers the wood*," said Roderic. "In the cave. In front of everybody. And there's a song about me, madam, that every harper in the isles has by heart, and in all the verses of it nobody says a word I'd care to have said over me." He set the mail down on the bench beside him. "That one I'd care to have said over me. I'd like to be there when it's true."
 
-Liora looked at him a moment longer. Then she nodded, once, as she nodded over a dose that would do, and went to see to her satchels.
+Liora looked at him a moment longer. Then she nodded, once, as she nodded over a dose that would do, and took her satchels and went down the lane to the ships.
 
 ---
 
 Valeria came at the first hour of the night, with the Farrier.
 
-He heard her before he saw her, the way he always did: the iron heel of the haft on the stone of the lane outside, *tock*, at every second step, like a slow clock; and then the curtain at the door, and the draught, and the steam swirling, and her boots. She came and stood by the end of the door and looked down at him, at his bare back and his beard on his arms and the old halberd scar lying white across the small of his back like a road on a map, with nothing under it any more, and her scarred face doing nothing at all.
+He heard her before he saw her, the way he always did: the iron heel of the haft on the stone of the lane outside, *tock*, at every second step, like a slow clock; and then the curtain at the door, and the draught, and the steam swirling, and her boots. She stopped inside the curtain and looked at him, and for a moment her scarred face did nothing at all.
 
-"The Lanciarii's aboard," she said. "The *Forward*. Forty of Rufo's, too, if Rufo's coming, which he'd better be. The bolt-throwers are up. The engineer's hung his rudders and he says they'll float, and the town's forty are sitting on the *Rope Street*'s benches in the dark, singing, very badly, about a woman from Netmakers' Row. Kaeso is trying to give them a count." She leaned the Farrier against the trestle. "Nerva says the sixth hour, on the top of the tide, and out on the first of the ebb. The liburnas go down the slips at the fifth. You go down the lane at the fourth, with four men of the Lanciarii to carry this, and you stand on the afterdeck by the binnacle, where I can see you."
+He knew what she saw, because he had seen it himself that morning in the still-room's bronze, for the first time in nineteen years without wishing he had not looked. A big man, sitting easy. The shoulders a lancer gets and never loses, wide and heavy and sloped with muscle from the neck, the arms roped from the wrist to the shoulder, the chest deep as a cask and grey-furred, the old white scars lying across it like roads on a map of a country he had ridden through when he was young and stupid; and the belly flat, because the healer fed him and he had not been drunk in a month. Fifty-two, and nothing in him bent. He had not known, until the healer gave it back, how much of a man's face is only his back.
 
-"On the afterdeck."
+She looked. She let him see her look. Then she came and leaned the Farrier against the bench.
 
-"Out of the way."
+"The Lanciarii's aboard," she said. "The *Forward*. Forty of Rufo's, too, if Rufo's coming, which he'd better be. The bolt-throwers are up. The engineer's hung his rudders and he says they'll float, and the town's forty are sitting on the *Rope Street*'s benches in the dark, singing, very badly, about a woman from Netmakers' Row. Kaeso is trying to give them a count." She folded her arms. "Nerva says the sixth hour, on the top of the tide, and out on the first of the ebb. The liburnas go down the slips at the fifth."
 
-"I'm not sailing, my dear," said Roderic into his forearms. "I'm baggage. I'll be stowed aft with the healer's door, and somebody will chalk a mark on me so they know whose I am."
+"Then I'll walk down at the fourth," said Roderic, "and stand in the waist with the Lanciarii, where a man can get to the rail."
 
-"Yes," said Valeria. "I will."
+"The afterdeck's safer."
 
-He turned his head on his arms and looked up at her. She was standing with her hands on her hips and her face lit along one side by the lamp, and there was something at the corner of her mouth that was not quite anything; and he thought, as he had thought a great many times in the last three weeks, that he had been a fool for nineteen years, and for a good many years before that, and that it had all been worth it to arrive at being this particular fool, on this door, now.
+"The afterdeck's for the prince and the witch and the old captain and the stones. I'll not stand among the furniture, my dear." He looked up at her. "You'd not put me there, and I'd not let you. Not now."
 
-"The last time they carried me off a field on one of these," he said, "you were sitting on a cart."
+She was quiet a moment. Then: "No," she said. "Not now."
 
-"I know. I watched you go past." She looked down at the door. "You swore the whole length of the road. Very well, I thought. For a lord."
+She crouched by the bench, so that her face was level with his, and he could see the scar along her jaw, and the grey at her temples where the two long fair plaits began, and the plaits themselves coming forward over her shoulders and swinging an inch off the stone; and her eyes, which were brown, and steady, and did not look away from anything, ever. She had left her mail at the door for the heat. She was in her shirt, open at the throat, and the steam had got into the linen and laid it to her the way rain lays a sail to its mast, to the hard flat belly and the breasts and the long soldier's shoulders she had kept as she kept the Farrier's edge, for twenty years, and was proud of, and would have taken his head off for mentioning. She knew where he was looking. She let him. He thought of those plaits undone on a pillow in the tower room, crimped and heavy and grey at the edges, all down her back like a cloak, and that he was the only man living who had seen it; and he did not say that either.
 
-"I've had practice since."
+"I'd do it again," said Valeria quietly. "The palm. I said so."
 
-"I know." She crouched by the end of the trestle, so that her face was level with his, and he could see the scar along her jaw, and the grey at her temples where the two long fair plaits began, and the plaits themselves coming forward over her shoulders and swinging an inch off the stone; and her eyes, which were brown, and steady, and did not look away from anything, ever. She had left her mail at the door for the heat. She was in her shirt, open at the throat, and the steam had got into the linen and laid it to her the way rain lays a sail to its mast, to the hard flat belly and the breasts and the long soldier's shoulders she had kept as she kept the Farrier's edge, for twenty years, and was proud of, and would have taken his head off for mentioning. She knew where he was looking. She let him. He thought of those plaits undone on a pillow in the tower room, crimped and heavy and grey at the edges, all down her back like a cloak, and that he was the only man living who had seen it; and he did not say that either. She put out one hard hand and laid it on the side of his neck, under the beard, where his pulse was, and kept it there a moment, as if she wanted to know it was still going and did not care to ask.
+"And I gave it back. I'll give it again." He put out one hand and laid it on the side of her neck, under the plaits, where her pulse was, and kept it there, and she did not move away. "Off a deck it's different ground, my dear. You'll be at the head of the Lanciarii with your eyes on the men in front of you, and I'll be behind with nothing to do but look. Some days I'll see it first. Some days you will."
 
-"I'd do it again," said Valeria quietly. "I said so. The palm. That's still the worst of it."
+"And when you see it first?"
 
-"I know, my dear."
+"Then I'll give you the palm," said Roderic, "and you'll go. And when you see it first, you'll give it to me, and I'll go, and I'll not make you say it twice."
 
-"Then don't make me." She took her hand away and stood up, and took up the Farrier. "Stand on the afterdeck. Stand still. I'll not give you the palm off a deck. You'll not charge anything off a deck unless I say. You hear me?"
+She looked at him. Then she put her own hand up over his on her neck and held it there.
 
-"I hear you."
+"Whichever of us sees it first," said Valeria.
 
-"Say it."
+"Whichever of us sees it first."
 
-"I'll not charge," said Roderic, "until you say."
+He stood, and brought her up with him by the hand, without hurry; and she came up, which she had never once let a man do in her life, and found herself standing with the top of her head at his chin and his arm round her, against a chest like a wall, and his other hand flat at the small of her back. He felt her go still, the way a good mare goes still when she has made up her mind to stand. Then he felt her decide that she liked it, and be surprised, and not trouble to hide either.
 
-She looked at him a moment longer. Then she went out, and the curtain fell behind her, and the draught came and went; and he heard her go away down the lane, *tock*, at every second step, until the sound of the spring in its channel came back up over it and he could not hear her any more.
+"You've got very large," said the Captain of the Lanciarii, into his chest, "since the Baths."
+
+"I was always this large, my dear. I was only folded."
+
+She laughed. He had heard it three times now in nineteen years, and he meant to hear it a good deal more. Then she stepped back, and took up the Farrier, and was the Captain again, as if it were a cloak she put on at the door.
+
+"The fourth hour," she said. "On your own feet."
+
+"On my own feet."
+
+She went out, and the curtain fell behind her, and the draught came and went; and he heard her go away down the lane, *tock*, at every second step, until the sound of the spring in its channel came back up over it and he could not hear her any more.
+
+He sat down again, and picked up the mail, and found that he was grinning at it like a boy.
 
 ---
 
-He must have slept. A man of fifty-two lying on his face in a warm room, with a bowl of mutton in him and a back that had nothing to say for itself, can sleep through a siege, and he had done so, once, at Vessa, and been very much admired for it by people who did not know that he had been drunk.
+**RUFO**
 
-He was not drunk now. He woke because somebody was speaking at the far end of the room, very low, in a voice so small and broken that for a moment he did not know it for a voice at all. He opened his eyes. The steam had thinned a little. The lamps had been trimmed, and there was only the one burning now by the slab, low, and in its light the elf had turned her head on the folded cloak under it, a hand's breadth, toward the man on the floor.
+When the General had taken his mail and gone up to the gate-tower roof to watch the slips, the warm room was quiet. Only the spring in its channel, and the one lamp burning low by the slab, and the breathing.
+
+He had been listening to her breathe for two days. He knew it now the way he knew the creak of the fort gate: the short shallow draw on the left, where the ribs were still knitting, and the longer one after, and the catch at the top. It was steadier tonight. He had been counting the catches. Seven, the last hour. Nine, the hour before.
+
+Then it changed, and she turned her head on the folded cloak under it, toward him.
 
 "Go," she said.
 
-It was not a word so much as the shape of one. Her mouth had closed to a pink seam and her nose was straight again, the healer's work, but one side of her face was still a bruise the color of a thundercloud going off, and the eye on that side was half shut; and the word came out round all of that, in a whisper, the way water comes out of a cracked jug. But it came. Roderic heard it from his door, ten paces off, quite plainly. He shut his eyes again at once and lay very still, because he was a gentleman, and because there is no getting off a door in a quiet room that the room will not hear.
+It was not a word so much as the shape of one. Her mouth had closed to a pink seam and her nose was straight again, the healer's work, but one side of her face was still a bruise the color of a thundercloud going off, and the eye on that side was half shut; and the word came out round all of that, in a whisper, the way water comes out of a cracked jug. But it came.
 
 "No," said Rufo.
 
@@ -14894,11 +14868,11 @@ It was not a word so much as the shape of one. Her mouth had closed to a pink se
 
 "Vatinius," said the elf, "*prays*."
 
-There was a sound from the floor by the slab. It was not a laugh. It was the sound a man makes when he has been holding a laugh down for two days with everything else, and something gets out round the edge.
+Something came out of him then. It was not a laugh. It was the sound a man makes when he has been holding a laugh down for two days with everything else, and something gets out round the edge.
 
 "Knife," she said.
 
-"I found it." Roderic heard a belt-buckle, and leather, and the faint sliding whisper of a long blade coming out of a sheath. "It was under a boat in the lane. Where he threw it." A pause. "I've cleaned it. The edge was turned. I took it back."
+"I found it." He unbuckled it from his belt and drew it out of the sheath far enough that she could see the edge in the lamplight. "It was under a boat in the lane. Where he threw it. I've cleaned it. The edge was turned. I took it back."
 
 "Sereth's."
 
@@ -14906,17 +14880,17 @@ There was a sound from the floor by the slab. It was not a laugh. It was the sou
 
 "Take it."
 
-Silence. The spring ran in its channel. Roderic lay on his door with his eyes shut and his face in his arms, and did not breathe more than he had to.
+He sat with the knife in his two hands and looked at it. The spring ran in its channel.
 
-"It's a warden's knife," said Rufo, very low. "You don't give it to—"
+"It's a warden's knife," he said, very low. "You don't give it to—"
 
 "Not giving." The whisper cracked, and went on. "Lending. Bring it back."
 
-Another silence, longer. Then the sound of the blade going back into its sheath, slowly, all the way, and the sheath being made fast to a belt; and a man's breath going out of him, long, as it goes out of a man who has set down a heavy thing in the place it was meant for.
+He sat a long time. Then he put the blade back into its sheath, slowly, all the way, and made the sheath fast to his belt beside his own; and let his breath go out, long, the way a man sets down a heavy thing in the place it was meant for.
 
 "I'll bring it back," said Rufo.
 
-And then a small sound: a rustle of linen, as of a hand moving on a blanket, and closing on something. Roderic did not open his eyes. He did not need to. He had heard the healer tell the story of the cork, in a few words, to Valeria, at the fort. A crab-man's float, out of a man's hair, in a lane, in the frost.
+Her good hand moved on the blanket, and closed on something. He knew what it was without looking. A crab-man's float, out of a man's hair, in a lane, in the frost.
 
 "Mine," said the elf. "Keeping this."
 
@@ -14926,11 +14900,11 @@ And then a small sound: a rustle of linen, as of a hand moving on a blanket, and
 
 "Aye," said Rufo, after a moment. "All right. It's yours."
 
-There was a long quiet then, so long that Roderic began to think it was over, and that he could open his eyes, and perhaps cough, in a general sort of way, as a man coughs at the door of a room before he comes into it. He was considering how best to manage it, from a door, on his face, when the whisper came again, smaller than before, and very fast, as if it had been waiting behind her teeth a long time and was afraid of being stopped.
+There was a long quiet then. He thought she had gone back to sleep. He was watching the lamp, and counting her breathing, and had got to the third catch, when the whisper came again, smaller than before, and very fast, as if it had been waiting behind her teeth a long time and was afraid of being stopped.
 
 "Not waiting a year."
 
-Nothing from the floor.
+He did not say anything. He did not know what to say.
 
 "Not," said the elf. "Waiting. A *year*."
 
@@ -14938,107 +14912,45 @@ Nothing from the floor.
 
 "Cut what you've got."
 
-Roderic lay on his door and stared at the grain of the oak a finger's breadth from his nose, and found that his eyes were stinging, and put it down to the steam.
+He drew Sereth's knife again. He did not have a glass, and the light was poor, and his hands were not steady, which they always were; and he took a lock from above his ear, where it was longest, and cut it, a small dry sound like a man cutting a thread, and then a second time because the first was not enough. He held it out to her on his palm. It looked like nothing much. Brown hair, a little grey in it, that he had never once in his life thought about.
 
-He heard the knife come out again. He heard a small dry sound, close to the floor, like a man cutting a thread; and then another; and the knife going back. And then, very faintly, the rustle of linen again, and fingers working, slow and clumsy and one-handed, at the thick of a braid; and then nothing at all, for so long that the steam began to tickle at the back of his throat, and he held it, as long as a man can hold anything.
+She took it in her good hand. And then she began, very slowly, one-handed, to work it into the thick of her braid where it lay over her shoulder: clumsy, because she had only the one hand and that one shaking, and her mouth set hard with the effort, and her one good eye very bright; and she got it wrong, and the braid came loose at the end, and she said a word in the elves' tongue that he did not know and did not need to.
 
-Then he coughed.
+"Hold that," said Sylara.
 
-He had not meant to. It was the steam. It got into a man's chest. He coughed into his forearms, once, explosively, and the door shook on its trestles, and the sound went round the old warm room and came back off the painted fish on the ceiling like a bull bellowing in a byre; and at the far end of the room the silence changed its quality entirely.
+He held the end of her braid, while she worked his hair into it. It took a long time. When it was done she lay back on the cloak and shut her eye, and her hand stayed on the braid, over the place.
 
-He lay still. There was nothing else to do.
+"Half," she said. "Rest when you come back."
 
-He felt them look at him. Both of them. He did not have to raise his head. He knew the look; he had been given it by sentries, and by cooks, and once by a bishop whose dinner he had ridden through. He lay on his face on the strongroom door with his shirt off and a bowl of mutton in him and the steam going up off him, and he considered the situation as he would have considered a bad bit of ground with a river at the bottom of it; and then he did the only thing a cavalryman can do on bad ground, which is to go straight at it.
+"When I bring the knife."
 
-"I'm not here," said Roderic, into the oak. "I'm part of the door."
+"When you bring the knife." A breath. Then, very drowsy: "*Ow*."
 
-There was a silence.
+"What?"
 
-Then, from the slab, a sound. A small sound, broken, round a mouth that had only just healed; a sound that clearly hurt a great deal, and went on anyway, and hurt more, and would not stop. The elf was laughing. And from the floor beside her, after a moment, low and helpless, as if something had come undone in him that had been tied a long time, the first man of the first line was laughing too.
+"Smiling. Hurts."
 
-"*Ow*," said the elf, and went on laughing.
-
-"Don't," said Rufo. "Don't. Your ribs. Sylara—"
-
-"*Door*," said the elf, and could not stop.
-
-Roderic lay on his door and grinned into his forearms like a boy, and let them.
+He sat on the floor by the slab with his back against the marble and her knife at his belt and listened to her go to sleep, and counted the catches. Four, before he had to go down. Then three.
 
 ---
 
-He went down the lane at the fourth hour of the night on his own two feet, with his cloak over his shoulder and his boots unlaced, because Valeria's man had woken him late and he had come out of the Baths with the thongs flapping; and behind him came four men of the Lanciarii with the healer's door between them, like a coffin he had declined. The town had come out into their doorways to see the Lanciarii go by, and stood there with their shawls round them and their lamps in their hands, and watched the General of the Long Field walk down to the ships, very straight, as he walked now, because he could. A small girl in a doorway on the corner by the fountain held out a heel of bread to him as he passed, very seriously, with a fold of sausage in it. He stopped, and bowed to her, and took it in his hand, and ate it going down the hill.
+**RODERIC**
 
-Halfway down the long stepped lane the bearers stopped to change hands, and set the door down at the turn, where there was an old terrace with a parapet that looked out over the harbor; and Rufo was there.
+He went down the lane at the fourth hour of the night on his own two feet, in the mail that had waited nineteen years for him, with his sword at his hip and his cloak over his shoulder. The town had come out into their doorways to see the Lanciarii go by, and stood there with their shawls round them and their lamps in their hands, and watched the General of the Long Field walk down to the ships, very straight, as he walked now, because he could. A small girl in a doorway on the corner by the fountain held out a heel of bread to him as he passed, very seriously, with a fold of sausage in it. He stopped, and bowed to her, and took it in his hand, and ate it going down the hill.
 
-He had come down ahead of them. He was standing at the parapet in his mail with his helmet under his arm and his shield on his back, the split one, the one he had carried at the end of a line of thieves on a prison quay, and the warden's knife in its sheath at his belt beside his own; and he was looking down at the harbor. Below the terrace the slips went down into the black water in the torchlight. The two liburnas stood in their cradles on the second and fourth, with their new pale masts and their rudders hung, and the men round them on the ways with mallets, knocking out the shores one by one; and out at the mole the *Forward* lay with her lanterns lit, and the *Remainder* beyond her, black and long, and the tide was making up the slips toward the keels in small black tongues that lapped and went back and came on.
+Halfway down the long stepped lane there was an old terrace with a parapet that looked out over the harbor; and Rufo was there.
 
-The bearers went off a little way along the terrace to blow on their hands. Rufo did not turn round.
+He had come down ahead of him. He was standing at the parapet in his mail with his helmet under his arm and his shield on his back, the split one, the one he had carried at the end of a line of thieves on a prison quay, and the warden's knife in its sheath at his belt beside his own; and he was looking down at the harbor. Below the terrace the slips went down into the black water in the torchlight. The two liburnas stood in their cradles on the second and fourth, with their new pale masts and their rudders hung, and the men round them on the ways with mallets, knocking out the shores one by one; and out at the mole the *Forward* lay with her lanterns lit, and the *Remainder* beyond her, black and long, and the tide was making up the slips toward the keels in small black tongues that lapped and went back and came on.
 
-"General."
+Roderic came and stood at the parapet beside him. They were of a height, he found, near enough; he had not stood straight beside the man before.
 
 "First man."
 
-Roderic sat down on the end of the door where the bearers had left it, and put his foot up on the step of the parapet, and began on his boot.
+"General."
 
-He got as far as the top eye. Rufo turned round from the parapet and watched him do it; and then, without being asked, put his helmet down on the stone and crouched, and took the thongs out of his hands.
+"On the beach," said Roderic. "Yesterday. I went off the back of your forty, along the edge of the flood, and the marines broke before we reached them, because your forty were coming down the street behind them, roaring." He set his hands on the parapet. "And I didn't know a single one of their names. I'd like to."
 
-"Not that knot," said Rufo. "Not at sea."
-
-He drew the thongs out to the bottom eye and began again, one side and then the other, tight, and crossed them, and went up; and at the top, instead of the knot a man ties on his own boot in the dark without looking, he tied a different knot, two turns and a tuck, close, flat, that would not come loose in water and could be cut with one stroke.
-
-Roderic watched him do it.
-
-"Two turns and a tuck," he said.
-
-"Aye. The Fourteenth's."
-
-"Who taught you?"
-
-"My first centurion. At Hollowmere." Rufo started on the second boot. "He used to say a boot's the only thing in the army that'll still be on you when they find you."
-
-"He was right."
-
-"He was. They found him on the ford." Rufo drew the thongs through, and crossed them, and went up. "With his boots on."
-
-Roderic said nothing. He looked at the slips. Silence was a thing you could give a man, he had found, if you had nothing better; and he had nothing better.
-
-Rufo tied it off. Two turns and a tuck, close and flat. He sat back on his heels and looked at it, and then at the harbor, and did not get up.
-
-"You're the one who ran at Hollowmere," said Roderic.
-
-He did not say it to the boots. He said it to the harbor, the way a man says a thing across a fire, without looking, so as not to make it heavier than it is.
-
-Rufo did not move.
-
-"I am," he said.
-
-"Good," said Roderic. "Then you know what it costs to stay."
-
-Rufo turned his head and looked at him then. Roderic did not look back. He kept his eyes on the slips, on the men knocking out the shores, on the black tongues of the tide coming up the ways; and let the first man of the first line look at the side of his face for as long as he wanted, which was some time.
-
-"There's a song," said Roderic. "You'll have heard it. The levy at the Long Field get one line in it, and it rhymes *held* with *felled*."
-
-Down on the second slip a shore came out, and the hull settled a hair in her cradle, and creaked.
-
-"Nobody sings the ones who hold," said Roderic. He put his elbows on his knees. "I knew one name out of the thousand. One. And I learned it nineteen years late, from his daughter, on the seaward wall of this fort, with the Grey coming in."
-
-"Vibius," said Rufo. "Of Callow."
-
-Roderic turned his head.
-
-"The Captain says it," said Rufo. "Not often. When she thinks nobody's by. At the stand, before a drill, under her breath, the way you'd check a strap." He looked down at his hands. "The Lanciarii all know it. Nobody says they do."
-
-Roderic looked at him a long moment. Then he looked back at the harbor, because there was something wrong with the torchlight on the water, and it took him a while to get it right.
-
-"On the beach," he said, when he had. "Yesterday. I went off the back of your forty, along the edge of the flood, and the marines broke before we reached them, because your forty were coming down the street behind them, roaring, and every man of them had just watched what you did." He moved his shoulders. "That's a charge. That's all a charge is. A great noise, at the right time, off the back of somebody who held." He was silent a moment. "And I didn't know a single one of their names."
-
-Rufo did not say anything.
-
-"Next time I charge," said Roderic, "I'll be charging off the back of your forty. There's no other way it goes, now; I've seen your forty, and I've seen the Lanciarii, and I've seen a liburna's deck. There's no room on it for a horse." He turned his head, at last, and looked at Rufo straight. "And I'd like to know their names first."
-
-Rufo looked at him.
-
-He looked at him for a long time, crouched on his heels on the old terrace with the torchlight on one side of his face and the dark on the other, and the scar along his jaw, and the warden's knife at his belt. Then he looked away, down at the slips, where the men were knocking out the last of the shores; and he began.
+Rufo looked at him. He looked at him for a while, with the torchlight on one side of his face and the dark on the other, and the scar along his jaw; and Roderic let him, and looked at the slips. Then the first man looked away, down at the men knocking out the shores; and he began.
 
 "Vatinius," he said. "Carter. From the Lower Steps. Big. Slow. Prays." A breath. "Gav—"
 
@@ -15050,7 +14962,7 @@ Roderic waited. Down on the second slip a man knocked out a shore, and the hull 
 
 He went on.
 
-He did not hurry. He said them the way a good first man reads the roll to a new officer: one after another, each in its place, a name and a thing about the man so that he would be a man and not a name. Florus, who could not swim and had said so before every boat. Macro, who had been a cook in a bishop's kitchen and was the only one of them who knew what a bishop ate on fast days. Strabo, who had the best eyes in the cohort and could see a ship's oars through a fog. Naevius and Lollius, cousins, who did not speak to each other and stood side by side in every line. Aper, Balbus, Lurco. Scaeva, left-handed, who had to be put on the right of the line or he hit people. Tappo, who sang. Nasica, who said he had once been a priest and nobody believed him and he did not seem to mind. Pomponius. Murcus. Plancus, who had been a boatman on the canals and could tell you any tide in the capital from the smell of it...
+He did not hurry. He said them the way a good first man reads the roll to a new officer: one after another, each in its place, a name and a thing about the man so that he would be a man and not a name. Florus, who could not swim and had said so before every boat. Macro, who had been a cook in a bishop's kitchen. Strabo, who could see a ship's oars through a fog. Naevius and Lollius, cousins, who did not speak to each other and stood side by side in every line. Aper, Balbus, Lurco. Scaeva, left-handed, who had to be put on the right of the line or he hit people. Tappo, who sang. Nasica, who said he had once been a priest. Pomponius. Murcus. Plancus, who had been a boatman on the canals and could tell you any tide in the capital from the smell of it...
 
 Then he stopped. It was not forty. Roderic had heard enough rolls called to hear how far short of it this one fell.
 
@@ -15058,43 +14970,37 @@ Then he stopped. It was not forty. Roderic had heard enough rolls called to hear
 
 "That's not forty."
 
-"That's the forty." Rufo looked at his hands. "There were forty. On the quay. On the day the prince struck the irons." He did not say anything else about it, and Roderic did not ask him to. There were three new notches on a stick in the man's belt, he knew, two days old, and he did not need to be told whose.
+"That's the forty." Rufo looked at his hands. "There were forty. On the quay. On the day the prince struck the irons." He did not say anything else about it, and Roderic did not ask him to.
 
-"Again," said Roderic. "From the top. Slower. I'm old."
+"Again," said Roderic. "From the top. Slower. I learn a field by riding it twice."
 
-Rufo said them again, and Roderic said each one after him, aloud, sitting on the strongroom door with his elbows on his knees and his boots tied the Fourteenth's way: *Vatinius. Carter. Prays. Lucius, called Ear.* The way a man learns a road at night, by walking it. When he lost one, Rufo gave it back to him without a word, and he went on.
+Rufo said them again, and Roderic said each one after him, aloud, with his hands on the parapet: *Vatinius. Carter. Prays. Lucius, called Ear.* The way a man learns a road at night, by walking it. When he lost one, Rufo gave it back to him without a word, and he went on.
 
 Down on the slips the last of the shores came out from under the *Rope Street*'s bilge, and somebody shouted; and she began to move. Slowly at first, so slowly that the torches along the ways seemed to be walking the other way, up the slip, and then not slowly; down the greased timbers, stern first, with her new pale mast swaying against the dark and the forty fishermen of the town sitting on her benches with their oars up, and her rudder on its plain grey pintles going into the sea ahead of her; and she went into the black water of the harbor with a long rushing roar like the sea coming up a stair, and threw up a great wave on either quarter, white in the torchlight, and lifted, and rode. Along the quay the town made a sound. Not a cheer. A long breath out.
 
-The *Lucky Bastard* went down the fourth slip a little after, at about Macro, with a roar and a wave and another long breath from the town, and neither of them looked. Roderic got to Plancus, who could smell a tide, and stopped, and let his breath go.
+The *Lucky Bastard* went down the fourth slip a little after, at about Macro, with a roar and a wave and another long breath from the town, and neither of them looked. Roderic got to Plancus, who could smell a tide, and stopped.
 
 "Again tomorrow," he said. "And the day after. Till I've got them as well as I've got that damned song."
 
 "Aye, General."
 
-"And Rufo."
+"When it comes to a deck," said Roderic, "it'll be your forty I go in alongside. There's no room on a liburna for a horse." He looked down at the harbor, at the two new hulls riding at their warps in the black water, and the *Forward*'s lanterns, and the gap, and the Grey beyond it. "I'll want to be able to shout their names while I do it. Not *the Long Field and the king*." He thought about that. "Something better."
 
-The first man looked at him.
+Rufo did not say anything for a moment. Then he put his helmet on, and settled the split shield on his back.
 
-"The Captain says I'm not to charge off a deck till she says." Roderic looked down at the harbor, at the two new hulls riding at their warps in the black water with their pale masts swaying, and the *Forward*'s lanterns, and the gap, and the Grey beyond it. "I've given her my word. So when she says, it'll be your forty I come off the back of." He paused. "I'll want to be able to shout their names. While I do it. Not *the Long Field and the king*." He thought about that. "Something better."
+"They'll like that," he said. "They'll not say so."
 
-Rufo did not say anything for a moment. Then he stood up, and put out his hand; not to shake, but the way a man puts out his hand to another man on the ground, to pull him up. Roderic looked at it.
-
-"I've a new back, first man," he said. "The healer says it's better than the old one. I can get up off a door."
-
-"Aye." Rufo kept the hand out. "It's easier with a hand. At your age." The corner of his mouth moved. "So the Captain says."
-
-Roderic looked up at him, at the scarred square jaw and the brown eyes and the short hair with a little piece cut out of it at the side, above the ear, ragged, where a man had cut it with a knife in poor light; and he laughed, a short breath through the nose, and then a longer one, because there was nothing in the way of it any more. Then he took the hand.
+They went down the rest of the lane together, side by side, two big men in mail, and the town in its doorways watched them go.
 
 ---
 
 The fleet went out on the first of the ebb, at a little past the sixth hour of the night, in the dark.
 
-He sat on the *Forward*'s afterdeck by the binnacle, where the Captain could see him, with his back against the post and his cloak round him and the healer's door lashed to the rail at his elbow; and in the dark he could see very little. The deck, wet and black and smelling of new pitch. A slice of lamp-light falling down the binnacle-post from under the horn lid, gold, onto the planking. Boots going by. The prince's, once, stopping by his head for a moment and then going on without a word, which was right. The witch's, very small, coming and going all night from the binnacle to the rail and back. And past the edge of the deck, if he turned his head, a strip of black water going by under the rail, and the lanterns of the others on it: the *Remainder*'s, close astern; and further off the two new ones, low and small, rowing like fishermen, with Kaeso's drum going on the *Rope Street* very faintly to give them a count, and the town's forty losing it, and finding it, and losing it again.
+He stood in the *Forward*'s waist among the Lanciarii, with his back to the mast and his cloak round him, and in the dark he could see very little. The deck, wet and black and smelling of new pitch. A slice of lamp-light falling down the binnacle-post aft from under the horn lid, gold, onto the planking. Boots going by. The prince's, once, stopping by him for a moment and then going on without a word, which was right. The witch's, very small, coming and going all night from the binnacle to the rail and back. Valeria's, once, which stopped beside his, close, and stayed. And past the edge of the deck a strip of black water going by under the rail, and the lanterns of the others on it: the *Remainder*'s, close astern; and further off the two new ones, low and small, rowing like fishermen, with Kaeso's drum going on the *Rope Street* very faintly to give them a count, and the town's forty losing it, and finding it, and losing it again.
 
 And under the water, now and again, as the *Forward* went out through the gap between the mole towers into the Grey, there were lights. Blue, faint, a long way down. Coming and going, alongside, like the lamps of a village seen through a fog. Keeping pace.
 
-He lay and watched them, and when the fog came down over the rail and took them, and took the lanterns, and took everything but the gold light under the horn lid and the boots and the wet deck and the sound of the oars, he shut his eyes, and said the forty over to himself in the dark, from the top, slowly, in order, with the thing about each man. *Vatinius. Carter. Prays.* It seemed to him that somebody ought to. It seemed to him that a man who had spent nineteen years in a song might spend a few nights saying something truer. The healer said her dead in the surf. The boy carried his ninety-one against his breastbone, and did not know yet whose hand had taken him off that stair the night those names were made; Roderic had carried the paper to the island himself, and had it still, folded small inside his tunic, and had not found the day they could spare. He had never kept a list of his own. It was time the General had one.
+He watched them, and when the fog came down over the rail and took them, and took the lanterns, and took everything but the gold light under the horn lid and the boots and the wet deck and the sound of the oars, he shut his eyes, and said the forty over to himself in the dark, from the top, slowly, in order, with the thing about each man. *Vatinius. Carter. Prays.* It seemed to him that somebody ought to. It seemed to him that a man who had spent nineteen years in a song might spend a few nights saying something truer. The healer said her dead in the surf. The boy carried his ninety-one against his breastbone, and did not know yet whose hand had taken him off that stair the night those names were made; Roderic had carried the paper to the island himself, and had it still, folded small inside his tunic, and had not found the day they could spare. He had never kept a list of his own. It was time the General had one.
 
 Not of the dead. He had enough of those. Of the ones who held.
 
@@ -15164,7 +15070,7 @@ Thalassa said nothing.
 
 The warm road ran west from the foot of the Kettle Bank along the floor of the sea, and they went down onto it in the dark and swam.
 
-It was not a road. The dry folk would not have known it for one; they would have found nothing there if they had dived for it but cold black water and sand, and died of the cold in the time it takes to say a name. But it was there. It came out from under the bank where the hearth of Cyrene breathed up through the rock, and lay along the bottom westward, a river of warmth in the cold no wider than a dry folk's street, a man's height deep, slow, so slow that you could not have said it moved at all, except that it did; and you found it the way you find the warm side of a sleeper in the dark, with your skin. Warm along the belly, where you swam low over the sand. Cold on the back, where the black water of the Grey lay over you like a hand. If you rose too far, the cold took you. If you strayed to the side, you felt it go out of the water by your cheek, the way the warmth goes out of a room when somebody opens a door, and you turned back toward it without thinking, the way a plant turns toward a window.
+It was not a road. The dry folk would not have known it for one; they would have found nothing there if they had dived for it but cold black water and sand, and died of the cold in the time it takes to say a name. But it was there. It came out from under the bank where the hearth of Cyrene breathed up through the rock, and lay along the bottom westward, a river of warmth in the cold no wider than a dry folk's street, a man's height deep, slow, so slow that you could not have said it moved at all, except that it did; and you found it the way you find the warm side of a sleeper in the dark, with your skin. Warm along the belly, where you swam low over the sand. Cold on the back, where the black water of the Grey lay over you like a hand. If you rose too far, the cold took you. If you strayed to the side, you felt it go out of the water by your cheek, and you turned back toward it without thinking.
 
 That was all a warm road was. A thread of the hearth's breath, going from one island to the next under the cold, because the hearths, it seemed, had been talking to each other along the bottom of the sea since before there were any merfolk to swim in what they said. Her mother had told her that. Her mother had sung it. Whether the stones warmed the water or the water warmed the stones, nobody in the sea had ever been able to say. *Ask the stone,* her mother used to say, and laugh.
 
@@ -15202,13 +15108,13 @@ She had not drifted. The road was where it had been. The ship was not.
 
 She swam on and watched. Kymon came up beside her in the dark, close, so that his shoulder brushed hers, and she felt the question in him without any note at all.
 
-The *Forward* went on a little more to the north. And the *Remainder* behind her, the long black sound, followed her north as a dog follows a man. And the two new ones on the flank, following the *Forward*'s lantern, went north too. Not much. Not so a man on the deck would have known it, with no stars and no shore and no wind and nothing to steer by but the stones in his box. A hand's breadth on a hand's breadth. But the road ran west, straight, the way it had run since before there were merfolk, from Cyrene's hearth to Silverwood's; and the ships were leaving it.
+The *Forward* went on a little more to the north. And the *Remainder* behind her, the long black sound, followed her north as a dog follows a man. And the two new ones on the flank, following the *Forward*'s lantern, went north too. Not much. Not so a man on the deck would have known it, with no stars and no shore and no wind and nothing to steer by but the stones in his box. A finger's width, and then another. But the road ran west, straight, the way it had run since before there were merfolk, from Cyrene's hearth to Silverwood's; and the ships were leaving it.
 
 Then she felt the other thing.
 
 It came to her as a warmth at first, ahead, and to the right, a long way off: as if there were a hearth there, somewhere out in the dark, in the cold, where she knew there was no hearth. No island. Nothing out there but the Grey and the deep water and the Teeth. And it was not like a hearth. A hearth breathes; you feel it on your face, slow and wide and patient, like a sleeper. This did not breathe. It was small, and hot, and sharp, like a coal dropped out of a fire into snow. And it was calling.
 
-That was the only word for it. She did not have another. It was calling, the way a lamb calls on a hill when it has lost the ewe; on and on, without stopping, in one note, without hope and without end. And the water was full of it. The water round her was full of it, the way the water round a dying whale is full of its song, so that you feel it in your teeth and in the bones behind your eyes; and it was not a song. It was grief. The water was grieving.
+That was the only word for it. She did not have another. It was calling; on and on, without stopping, in one note, without hope and without end. And the water was full of it. The water round her was full of it, the way the water round a dying whale is full of its song, so that you feel it in your teeth and in the bones behind your eyes; and it was not a song. It was grief. The water was grieving.
 
 She stopped swimming.
 
@@ -15230,11 +15136,11 @@ She went up.
 
 She came up under the *Forward*'s quarter in the lee of the rudder, where she had come up before, and went forward along the black wall of the hull to the waist, where the wet line hung over the side, and climbed.
 
-The dry folk had made a ladder of it for them at Cyrene, after the gap: knots in the line every foot, so a webbed hand could close on them. She went up it out of the sea into the fog with the water streaming off her, and over the rail onto the deck; and the cold of the air hit her like a blow after the warm road, and the sea came up off her as it always did when she came out of it with something to read, and hung round her in the lamp-light in drops, small and bright and still, like a spider's web after rain. The sealskin lay on her as close as paint from throat to thigh, and the grey coat hung open over it, streaming, and in the lamp-light there was nothing about the shape of her that a man at the rail could fail to see; and the man at the rail did not fail. He was a lanciarius with his spear grounded, and he took two steps back, very fast, and said something about his mother, and then went on looking.
+The dry folk had made a ladder of it for them at Cyrene, after the gap: knots in the line every foot, so a webbed hand could close on them. She went up it out of the sea into the fog with the water streaming off her, and over the rail onto the deck; and the cold of the air hit her like a blow after the warm road, and the sea came up off her as it always did when she came out of it with something to read, and hung round her in the lamp-light in drops, small and bright and still, like a spider's web after rain. The sealskin lay on her as close as paint from throat to thigh, cold now, and the grey coat hung open over it, streaming. A lanciarius at the rail with his spear grounded took a step back, and forgot to look away.
 
-She did not mind him. She had stopped minding on the water-gate stair, before half the town; and there was a pleasure in it, when the cold had gone through you to the bone, to be looked at like a fire. She did not look at him. She went aft, barefoot, dripping, toward the gold light.
+She did not look at him. The cold had gone through her to the bone on the ladder, and her fingers would not close properly; and there was a pleasure in it, after the warm road, to be looked at like a fire. She went aft, barefoot, dripping, toward the gold light.
 
-The binnacle stood on its post by the tiller with its horn lid off and the lamp burning inside it, and the witch was there. She was bent over it with her weather-book open on the rail beside her and a stylus in her hand and her face a hand's breadth from the stones, very still, the way Thalassa had seen herons stand at the edge of the Kettle at low water. The old captain stood at the tiller with his white braid over his shoulder and his hands on the bar. And the prince stood beside the witch, with one hand on the rail and his face grey with the night and the fog; and at their feet, sitting on the deck with his back against the binnacle-post and a cloak round him, a large grey-bearded man turned his head as she came up and looked at her with great interest, the whole of her, and then, like a gentleman, at her face.
+The binnacle stood on its post by the tiller with its horn lid off and the lamp burning inside it, and the witch was there. She was bent over it with her weather-book open on the rail beside her and a stylus in her hand and her face down close to the stones, very still, the way Thalassa had seen herons stand at the edge of the Kettle at low water. The old captain stood at the tiller with his white braid over his shoulder and his hands on the bar. And the prince stood beside the witch, with one hand on the rail and his face grey with the night and the fog; and at their feet, sitting on the deck with his back against the binnacle-post and a cloak round him, a large grey-bearded man turned his head as she came up and looked at her with great interest, the whole of her, and then, like a gentleman, at her face.
 
 "Evening," he said, as if she had come into a room.
 
@@ -15344,7 +15250,7 @@ The prince turned round and looked at her.
 
 The prince did not say anything. His face had gone a color she had not seen on the dry folk before, even on the stair island, under the harbor mouth. He was looking at the masts.
 
-"Thirty-one," he said. His voice had changed. "There are thirty-one empty berths under the Hall of Kings. On the inner quay. I used to—" He stopped. "My father counts them. From his window. Every night. He thinks nobody knows."
+"Thirty-one," he said. His voice had changed. "There are thirty-one empty berths under the Hall of Kings. On the inner quay. I used to—" He stopped. "My father counts them. From his window. Every night. He's never said it to a living soul."
 
 "Then he'll want to know where," said Thalassa.
 
@@ -15394,13 +15300,13 @@ The deck was full. Nobody had gone below all night and nobody had been told to s
 
 She had not got used to that. She did not think she would. At Corvus they had stood up for her when she came into a room, and she had liked it, and been ashamed of liking it. This was better. They did not stand. They drew in their feet.
 
-The General sat where he had sat since dusk, on the afterdeck with his back against the binnacle-post and his cloak round him and his sword across his knees, under the healer's door, which was lashed to the after rail above his head with a sail over it, waiting for somebody to bleed on it. He had been awake all night. She knew because she had heard him all night, saying the names of the forty over in a low voice, one after another, like a man telling beads; and once, at about the fourth glass, she had heard him stop, and say *Florus* three times, irritably, until he had it, and go on. He turned his head as she passed and looked up at her out of his bright blue eyes.
+The General stood where he had stood since dusk, in the waist among the Lanciarii with his back against the mast and his cloak round him and his sword at his hip, and the Captain asleep sitting up against the bench at his feet with her head against his knee, which she would deny. He had been awake all night. She knew because she had heard him all night, saying the names of the forty over in a low voice, one after another, like a man telling beads; and once, at about the fourth glass, she had heard him stop, and say *Florus* three times, irritably, until he had it, and go on. He turned his head as she passed and looked down at her out of his bright blue eyes.
 
 "Going for a walk, Chair?"
 
 "The dawn sight, General."
 
-"In this." He looked out at the masts. "Bring me back a sight, then. I've had nothing but the deck for six hours." He paused. "The deck is a fine deck. I've no complaints of the deck."
+"In this." He looked out at the masts. "Bring me back a sight, then. I've had nothing but the deck for six hours." He paused. "The deck is a fine deck. I've no complaints of the deck." He did not move his knee.
 
 Liora sat by the foot of the mast with her satchels open beside her and the boy beside her, the one who had been on a chain until last night, holding the basin in his big red hands as if he had been told to hold it and would hold it until he died. He did not look up. Liora did. She looked at Alana's face, and then at the closed fist, and then at the bow; and she did not say anything, which was a thing about Liora that Alana had stopped finding restful some time ago and had begun to find simply true.
 
@@ -15670,11 +15576,11 @@ Nearer. Not loud. It did not need to be loud.
 
 The red went out of the light.
 
-It went the way it had come, from the inside, back out to the frame; and the noise came back up through the water, all at once, the gull and the lapping and men's breath; and Rufo was standing at the rail of the *Forward* with a grown man held off his feet by the throat and the belt, out over the sea, and the man's face going from grey to purple, and the man's hands clawing at his wrist. He looked at the man's face. It was Tuccius. It was Tuccius of the Lanciarii, who had sat with Caelius on the steps.
+It went the way it had come, from the inside, back out to the frame; and the noise came back up through the water, the gull and the lapping and men's breath; and Rufo was standing at the rail of the *Forward* with a grown man held off his feet by the throat and the belt, out over the sea, and the man's face going from grey to purple, and the man's hands clawing at his wrist. He looked at the man's face. It was Tuccius. It was Tuccius of the Lanciarii, who had sat with Caelius on the steps.
 
 He put him down.
 
-He did it carefully, as you put down a thing you have picked up by mistake in somebody else's house, and let go, and stepped back; and Tuccius sat down on the bench behind him all at once with both hands at his throat and his breath going in and out of him in great whoops, like a man who has been under a wave. Nobody went to him. The deck round them had gone back. There was a space, a fathom across, where nobody stood; and in the middle of it was Rufo, and at his left shoulder, a little behind him, where a file-closer stands, the prince.
+He did it carefully, as you put down a thing you have picked up by mistake in somebody else's house, and let go, and stepped back; and Tuccius sat down on the bench behind him with both hands at his throat and his breath going in and out of him in great whoops, like a man who has been under a wave. Nobody went to him. The deck round them had gone back. There was a space, a fathom across, where nobody stood; and in the middle of it was Rufo, and at his left shoulder, a little behind him, where a file-closer stands, the prince.
 
 He had not touched him. He stood there with his hands at his sides and his eyes on the masts, and did not look at Rufo at all.
 
@@ -15776,7 +15682,7 @@ Rufo looked at him.
 
 ---
 
-Nobody laughed. Not then. It went along the deck afterward, in a whisper, from bench to bench, and across to the *Rope Street* in the boat that took Kaeso back, and by the time the sun was a smear of white in the Grey over the masts there was not a man in the four ships who had not heard it and said it over to himself and laughed; but not then. Then there was only the prince, looking at him, for a long moment, with that thing still going on in his face; and then the corner of his mouth went, very slightly, as the elf's had gone on the stair; and he looked away, down, over the side, into the sea.
+Nobody laughed. Not then. It went along the deck afterward, in a whisper, from bench to bench, and across to the *Rope Street* in the boat that took Kaeso back, and by the time the sun was a smear of white in the Grey over the masts there was not a man in the four ships who had not heard it and said it over to himself and laughed; but not then. Then there was only the prince, looking at him, with that thing still going on in his face; and then the corner of his mouth went, very slightly, as the elf's had gone on the stair; and he looked away, down, over the side, into the sea.
 
 "Kymon," he said.
 
@@ -15832,7 +15738,7 @@ Under the bow, in the water, the lights had begun.
 
 They were the sea-folk's lights: the little blue jars they carried in the dark under the harbor, with the sea-creatures in them that burned without heat. He had seen them from the slips at Cyrene, at night, moving about under the water beyond the moles like the lamps of a village seen through rain. He had never seen them close. The young ones had swum out ahead of the *Forward* in two lines when Kymon gave the word, and spread, and gone down a little way under the water, a fathom, perhaps two, and stopped; and held up the jars; and now there were two rows of blue lights in the sea ahead of the bow, going away from the ship into the fog toward the masts, one on either hand, a long oar's length apart and narrowing, like the lamps along both sides of a street at night when you look down it from the top of a hill.
 
-Every one of the jars had a little twist in the neck. He could see it from the bow. He did not know what it meant. The sea-woman had stood on the deck that morning, before the young ones went down, in her sealskin and an old sea-coat of Nerva's thrown open over it, with the wet making the sealskin a second skin on her from the laced shoulder to the knee and her blue hair hanging down her back to the small of it, heavy, like weed off a rock; and half the benches had found a reason to look aft, and she had let them, and not cared. She had watched the young ones take the jars out of their nets, and he had seen her face.
+Every one of the jars had a little twist in the neck. He could see it from the bow. He did not know what it meant. The sea-woman had stood on the deck that morning, before the young ones went down, in her sealskin and an old sea-coat of Nerva's thrown open over it, with the wet making the sealskin a second skin on her from the laced shoulder to the knee and her blue hair hanging down her back to the small of it, heavy, like weed off a rock. She had watched the young ones take the jars out of their nets, and he had seen her face.
 
 "*Give way together,*" said Nerva, at the stern, not loudly. "*Easy. Easy all.*"
 
@@ -15926,7 +15832,7 @@ The fire ships came out of the crescent like two bulls out of a gate.
 
 They had been lying behind it, at the back of the pool, the two round old hulls Kymon had shown with his shaking hands on the steps at Cyrene: deep and broad and black, low in the water with what was in them, with the smell of them coming across the pool through the fog before you could see them, pitch and oil and old tarred brush. And each had a liburna in front of it on a long line, towing; and as the *Forward* came out of the masts and the *Remainder* behind her, the men on them lit them.
 
-He saw it go up. You could not have missed it. It went up the first one from the hold, through the hatches, all at once, with a sound like a great breath going in; and then the flame came up out of the hatches and stood on her deck, yellow, taller than her mast, and the fog round her went orange and then gold, and he felt the heat of it on his face across three hundred paces of water. Then the second. The liburnas leaned on their oars and brought them on, at the towing pace, slow, burning, straight at the place where the lane of blue lights came out of the masts; where the *Forward* and the *Remainder* were, and the *Rope Street* coming, and the *Lucky Bastard* still in among the Teeth with no room to turn.
+He saw it go up. You could not have missed it. It went up the first one from the hold, through the hatches with a sound like a great breath going in; and then the flame came up out of the hatches and stood on her deck, yellow, taller than her mast, and the fog round her went orange and then gold, and he felt the heat of it on his face across three hundred paces of water. Then the second. The liburnas leaned on their oars and brought them on, at the towing pace, slow, burning, straight at the place where the lane of blue lights came out of the masts; where the *Forward* and the *Remainder* were, and the *Rope Street* coming, and the *Lucky Bastard* still in among the Teeth with no room to turn.
 
 "*Back water*," said Nerva at the stern, "*steerboard bank*," and the *Forward* began to come round, slowly, too slowly, with the flood under her pushing her on.
 
@@ -16070,15 +15976,15 @@ She did not run. Gaius had half thought she would run, with her line in pieces r
 
 The *Forward*'s oars went in. She gathered way. She did not turn.
 
-Gaius looked back along the deck at the old man at the tiller, with his white braid over his shoulder and his old hands on the bar and his sea-pale eyes on the *Audit*'s ram, coming; and he saw the prince standing beside him with Alana's book inside his tunic and his hand on the binnacle-post, and his face quite still; and he understood that nobody on the *Forward* was going to turn her round.
+Gaius looked back along the deck at the old man at the tiller, with his white braid over his shoulder and his old hands on the bar and his sea-pale eyes on the *Audit*'s ram, coming; and he saw the prince standing beside him with Alana's book inside his tunic and his hand on the binnacle-post, and his face set; and he understood that nobody on the *Forward* was going to turn her round.
 
 At his feet, on the foredeck, by the bolt-thrower's bed, the Lanciarii were laying out the boarding-bridge: a long plank gangway with cleats on it and a great iron spike at its end, on a pivot at the foot of the mast, with ropes to raise it and let it fall. The Captain stood over them with the Farrier on her shoulder, watching them do it, saying nothing. Behind her the Lanciarii were taking up their shields, the big curved ones, and lining up along the deck in a column, five abreast, the way they had stood in the gap at Silverwood. Behind them, in the waist, Rufo's forty were on their feet.
 
-And at the stern, by the binnacle, the General was sitting again with his back to the post and his sword across his knees, where the Captain had put him, and was looking at the *Audit* coming down the pool.
+And in the waist, by the mast, the General was standing with his sword drawn and its point on the deck, leaning on the pommel the way a man leans on a gate to look at a field, and was looking at the *Audit* coming down the pool.
 
 "Engineer," he said.
 
-Gaius went aft. He did not know why. He went along the gangway between the benches with the oars going in and out on either side of him on Nerva's count, and stood over him and looked down.
+Gaius went to him. He did not know why. He went along the gangway between the benches with the oars going in and out on either side of him on Nerva's count, and stood beside him; and found, as he had found once or twice since the Baths, that he had to look up.
 
 "When we go across," said Roderic, "does she roll toward us, or away?"
 
@@ -16086,9 +15992,9 @@ Gaius looked at the *Audit*. She was a cable off. Less.
 
 "Toward," he said. "She's higher than us by a man's height, and light in the stern with her stores down. When the bridge takes the weight she'll lean to it. Then come back. Then lean again." He thought about it. "Every time a file goes across. Like a man nodding."
 
-Roderic considered that, with his chin on his fist and his eyes on the *Audit*.
+Roderic considered that, with both hands on his pommel and his eyes on the *Audit*.
 
-"Then it's a field," he said. "That moves. That's all a deck is. I've never fought on one." He rolled his shoulders, the way a man does before he lifts something. "You go when it comes up to meet you. Not when it's going away. Same as putting a horse at a wall." He looked up at Gaius out of his bright blue eyes. "Like a man nodding. I'll remember that."
+"Then it's a field," he said. "That moves. That's all a deck is. I've never fought on one." He rolled his shoulders, the way a man does before he lifts something. "You go when it comes up to meet you. Not when it's going away. Same as putting a horse at a wall." He looked down at Gaius out of his bright blue eyes. "Like a man nodding. I'll remember that."
 
 Gaius nodded. He did not say anything. There was nothing to say, and the *Audit* was very near now, very black, very long, filling the fog from one side of the world to the other; and he had looked at her this morning in his head, and every morning for a month, and hated how good she was. He went back to the bolt-thrower. There was a bolt in the trough and nothing to lay it on. There was nothing to call. She had never come up his slips.
 
@@ -16108,7 +16014,7 @@ It was the size of a loaf. It was made of lead, dull and grey, with a lid that s
 
 That was where the warmth came from.
 
-It was green. It was the same green-gold as the stone in the *Forward*'s binnacle, the one she had carried to the bow every morning at sea, and it was ten times the size: a long piece, broken, with one face rough and the other two smooth and glassy where somebody had cut it with a saw and a great deal of patience; and it breathed. Slowly. In and out, the light in it, the way the Heart-Stone of Cyrene breathed in its pool. It lay in its black wool under the windows and breathed, and the room was warm from it as a room is warm from a sleeping animal; and she found, sitting on the stool where they had put her with her hands in their irons in her lap, that she could not look at it for long.
+It was green. It was the same green-gold as the stone in the *Forward*'s binnacle, the one she had carried to the bow every morning at sea, and it was ten times the size: a long piece, broken, with one face rough and the other two smooth and glassy where somebody had cut it with a saw and a great deal of patience; and it breathed. Slowly. In and out, the light in it, the way the Heart-Stone of Cyrene breathed in its pool. It lay in its black wool under the windows and breathed, and the room was warm from it; and she found, sitting on the stool where they had put her with her hands in their irons in her lap, that she could not look at it for long.
 
 She did not know why. She was not a fish; she could not feel the water. She could not hear what the sea-folk heard. But there was something at the very edge of her hearing when she looked at it, high and thin and steady, like the note a wet finger draws out of the rim of a glass; and it went on, and on, without a breath, and without changing; and if she listened to it for more than a few heartbeats she found that her eyes had begun to sting, and that she did not know what she was grieving for.
 
@@ -16132,9 +16038,9 @@ She was sitting at the Navarch's table, in the Navarch's chair, with one of the 
 
 Alana said nothing.
 
-The irons sat in her lap, one on each hand, heavy as stones. She could feel the inside of them against her knuckles: cold, rough, old. The pins went through the hinges at the back, one each, and were peened over at both ends; she had felt the marine do it, with a little hammer, two taps a side, very neat. Her fingers were balled in the dark inside and she could not open them. She had tried, once, on the ladder, without meaning to; the fire had come down her arm the way it always came when she was frightened, quick and obedient, and met the iron where her palm should have been open to let it out, and had nowhere to go; and it had gone into the iron, and into her own hand, all at once, and she had made a sound on the ladder that the marines had pretended not to hear.
+The irons sat in her lap, one on each hand, heavy as stones. She could feel the inside of them against her knuckles: cold, rough, old. The pins went through the hinges at the back, one each, and were peened over at both ends; she had felt the marine do it, with a little hammer, two taps a side, very neat. Her fingers were balled in the dark inside and she could not open them. She had tried, once, on the ladder, without meaning to; the fire had come down her arm the way it always came when she was frightened, quick and obedient, and met the iron where her palm should have been open to let it out, and had nowhere to go; and it had gone into the iron, and into her own hand, and she had made a sound on the ladder that the marines had pretended not to hear.
 
-So she sat and did not try again, and looked at the books, and let the fire lie where it lay under her breastbone, quite still, the way you keep a lamp turned down to a blue bead all night in a sickroom so that it will be there when it is wanted.
+So she sat and did not try again, and looked at the books, and let the fire lie where it lay under her breastbone, the way you keep a lamp turned down to a blue bead all night in a sickroom so that it will be there when it is wanted.
 
 "He's coming, you know," said Livia. "Your prince."
 
@@ -16144,7 +16050,7 @@ Alana's heart did something. She kept her face where it was.
 
 "You weren't at that dance."
 
-"I was in the gallery. With the Corvus delegation. Behind a pillar." Livia's mouth moved. "You never saw me. You only ever saw him."
+"I was in the gallery. With the Corvus delegation. Behind a pillar." Livia's mouth moved. "You never saw me. You only ever saw him." She turned a page. "I only ever saw you."
 
 ---
 
@@ -16196,23 +16102,41 @@ She did it slowly, with both hands, the way she had closed the great catalogue a
 
 It came the way water comes out of a cracked jug, slow, pale, cold, and lay along her fingers and hung from them; and the lights on it hung like dew. Alana had seen it from the bow across the water, and in the door, and in the white. She had not seen it close. They were not all the same. That was the first thing she saw, and it was the thing she would see afterward when she shut her eyes. They were not all the same color, or the same size, or the same brightness. Some were very small, and quick, and bright, and moved on the thread a little all the time, as if they could not keep still. Some were larger, and dimmer, and steady, with a slow pulse to them. One near the end was the deep gold of old honey. One was almost blue.
 
-"Thirty-seven," said Livia softly. "Now. I had a hundred and four, when I walked out of the forbidden wing with my book open in my hands and the roof going in behind me. Everyone who was still in the academy that night. Everyone who stayed." She looked at the thread with her head a little on one side. "The masters, mostly, who were too old to run, and too proud. Old Hesper. Do you remember Hesper? He's the gold one. And the porters, who stayed to put out the fires, and their children, who stayed because their fathers did. And the youngest of the students, who'd hidden in the long gallery under the tables because they thought nobody would look for them there." She touched one of the small quick bright ones, very gently, with the tip of one finger, and it trembled. "Little Quintus. Who couldn't hold a rod. Do you remember? You spent a whole winter trying to teach him, and he never got a spark. He's the brightest of them all now. Isn't that strange?"
+"Thirty-seven," said Livia softly. "Now. I had a hundred and four, when I walked out of the forbidden wing with my book open in my hands and the roof going in behind me. Everyone who was still in the academy that night. Everyone who stayed." She looked at the thread with her head a little on one side. "The masters, mostly, who were too old to run, and too proud. Old Hesper. Do you remember Hesper? He's the gold one. And the porters, who stayed to put out the fires, and their children, who stayed because their fathers did. And the youngest of the students, who'd hidden in the long gallery under the tables because they thought it was the last place anyone would look." She touched one of the small quick bright ones, very gently, with the tip of one finger, and it trembled. "Little Quintus. Who couldn't hold a rod. Do you remember? You spent a whole winter trying to teach him, and he never got a spark. He's the brightest of them all now. Isn't that strange?"
 
 Alana did not say anything. She could not have. Her throat had closed.
 
-"Lucan is very mean with souls," said Livia. "He's a clerk at heart, like all of them. He gave me Corvus, and he said that was my allowance, and I should make it last. So I do." She turned her hand a little, and the lights swung. "I don't spend them on nothing. I've been very careful. Sixty-seven doors in two years, and every one of them for something that mattered." She looked up. "You mattered."
+"Lucan is very mean with souls," said Livia. "He's a clerk at heart, like all of them. He gave me Corvus, and he said that was my allowance, and I should make it last. So I do." She turned her hand a little, and the lights swung. "I don't spend them on nothing. Sixty-seven doors in two years, and every one of them for something that mattered." She looked up. "You mattered. He told me so himself."
 
-"You should have let them go."
+"Lucan."
 
-"Let them go where?" Livia looked genuinely curious. "Into the sea? Into the ground? Up to the Sun, with a priest singing behind them? They're not unhappy, little chair. They're not anything. They're *kept*." She drew the thread back along her fingers, slowly. "And they're *mine*. That's the thing you never understood about me, at Corvus, with all your columns. You always thought I wanted to know things. I never wanted to know anything. I wanted to *keep* it."
+"Lucan." Livia drew the thread back along her fingers, slowly, and it went into her sleeve. "You think this is about the Navarch, and his prince, and his little sum. It isn't. The Navarch is a clerk who's been lent to me for the morning. This is about you." She folded her hands on the red book. "Do you know why Corvus had to burn, little chair? Not taken. Not counted and chalked and left standing, like Cyrene, with a quaestor in the tower. *Burned.* The roof, the long gallery, the catalogue, the chairs, every page."
 
-The thread went back into her sleeve. Livia folded her hands on the red book.
+"Because it wouldn't yield."
 
-"You asked why you," she said. "That's why. You're the only one left who knows what I was. Everyone else who knew is on the thread, and they don't say anything any more. And I find I can't bear—" She stopped. She looked, for a moment, at nothing; at the lamp on its chain; and her face did a thing that Alana had never seen it do, at Corvus or anywhere, and that she did not have a word for. It was very brief. Then it was gone, and Livia was smiling again. "I find it's very quiet. That's all. Being remembered by people who don't understand what they're remembering. It's like being read by somebody who moves their lips."
+"Because of something in it." Livia smiled. "Lucan doesn't fear much. He doesn't need to. He has the dead, and the dead don't get tired, or frightened, or hungry, or go home for the harvest; and nobody in the isles has anything to set against them but courage, which runs out, and fire, which runs out faster. But there was something at Corvus that he did fear. Something somebody wrote down once, a long time ago, and somebody else catalogued, and somebody else put on a shelf. He burned the shelf. He burned the building round the shelf. And then he counted the chairs who'd got out." She tilted her head. "There was one."
+
+Alana sat very still.
+
+"I don't know what it is," said Livia, quite pleasantly. "I never wanted to. Lucan doesn't know either, which is what frightens him; he only knows it was there. But you were the Chair of the library, dearest. You read every card in that building. You put your hand on every spine. You know where things were kept, and what they were next to, and what the card said about them that nobody else ever read." She leaned forward a little, under the lamp. "Either you know it already, and haven't noticed. Or you'll work it out. You always do. You'd have it in a column by the fourth glass, and wait till the sixth to be sure."
+
+"And then?"
+
+"Then you were to be brought to him." Livia said it the way she had once read out the order of examinations. "Not alive. He doesn't care for the living; they argue. You were to be killed, gently, somewhere quiet, and raised. And then you'd sit at his table with your hands folded and tell him everything you know, and everything you could work out, in order, from the top, because you wouldn't want anything any more except to be asked." She sat back. "That was my errand. *Bring me the little chair.*"
 
 Somewhere above them, very faint, a man shouted on the deck. Then another.
 
-"Come with me," said Livia. "Not to Lucan. I don't care about Lucan. Come with me. Open your book. I'll sit with you while you read it, the way I used to sit with you in the long room. I'll turn the pages, if your hands are tired." She leaned forward a little, under the lamp. "You've got it in your trunk, on that ship, sealed with your own wax, and every night you put your hand on it in the dark to see if it's still there. I know you do. I can feel it from here. It's so *attentive*, isn't it? It's been waiting two winters for you to be brave."
+"You could have done it in the bow," said Alana. Her voice came out quite steady, which surprised her. "You had my wrist."
+
+"I could." Livia looked at her, down the length of the table, and her violet eyes were very bright. "But I asked for the errand, little chair. Lucan thinks he gave it to me. He didn't. I asked." She turned the book a little on the table, square to its edge. "Do you know what it is, to be raised? I'll tell you, because nobody told me, and I'd have liked to know. You come back and the world has gone flat. Wine is water. Silk is sacking. Music is a man sawing wood in the next street. The sun's a lamp in a room you're not in. You can stand in a garden in May and smell nothing at all." She said it lightly, as if she were describing the weather in a place she had visited once. "All the little pleasures go. Every one. And what's left, what still has any taste to it at all, is the other thing. Somebody else's pain. Somebody frightened. Somebody's blood, going." She smiled. "The peasants think we drink it because we're hungry. We aren't hungry. We're *bored*. Blood isn't food, dearest. It's the theatre."
+
+Alana could not look away from her.
+
+"I always wanted you," said Livia, softly. "At Corvus. When you were sixteen with your hands all blisters from the rod, and I stood in the door of the long room and watched you burn yourself a hundred times an afternoon and not stop. I didn't know what it was, then. I was alive; I thought it was something else. I know now." She looked at Alana's irons, and her face did a small, private, hungry thing that Alana had never seen it do at Corvus, and would see afterward, in the dark, whenever she was tired. "Lucan wants you dead by sunset. He can wait. He's very patient; it's the only thing he has. I've been looking forward to you for two winters, and I mean to have you for a while first, the way you are, warm, with all your fire in you. He'll never know. And when I'm done, I'll take what's left to him, and you'll sit at his table and tell him everything, and you won't mind." She smiled. "You won't mind anything. That's the kindness of it."
+
+"I'll burn first."
+
+"Oh, I do hope so," said Livia. "I've been counting on it." She leaned back in the Navarch's chair. "And you'll bring your book. The one in your trunk on that ship, sealed with your own wax, that you put your hand on every night in the dark to see if it's still there. I can feel it from here. It's been waiting two winters for you to be brave."
 
 "I'm not going to open it."
 
@@ -16244,6 +16168,8 @@ Alana looked at her back.
 
 She had been waiting for it. She had been waiting for it since the ladder; she had done the working in her head a dozen times in the long while on the stool, as she had done every working she had ever been set, slowly, in a column, from the top, with her eyes on the books so that nobody would see her doing it. *Iron. Old iron, bronze-age iron, the bad soft kind they had then, before anybody knew how to make it hard. The pins are iron too. Iron goes soft before it melts; a long way before. Red is enough. Bright red, for the length of time it takes to say the long litany, perhaps. The pin will bend. A bent pin will shear if you strike it.* And underneath, in the margin, where she put the things she did not want to look at: *The iron is round your hand. Whatever heat goes into the iron goes into your hand first.*
 
+And under that, smaller, the thing every first-year at Corvus was taught in the first week, and taught again, harder, in the second. A fire-witch's own fire knows her. Some of it is in the skin: the fire comes out of her and goes round her, the way a dog in the dark goes round its master's feet and not a stranger's, and she can hold it off her open palm all day and feel no more than a summer noon. And some of it is in the will: the thing you do on purpose, holding it off, keeping a skin of nothing between the flame and the flesh by wanting it there, which is why a frightened witch burns and a tired one blisters. *Both work in open air,* the masters said. *Neither knows anything about iron.* The fire would know her. The iron would not. The iron would only get hot, and it was closed round her hand.
+
 She had done the sum. She knew what it came to. She had not liked it, and she had checked it twice, and it had come out the same.
 
 She let the fire come down.
@@ -16252,13 +16178,13 @@ Not all of it. A little. The way you turn up a lamp in a sickroom, a little at a
 
 It hurt.
 
-She had known it would hurt. She had been burned before; the rod had cooked her right palm on the Kettle Bank, and she had watched the healer give it back to her new, in the steam-box house, pink and shining as the inside of a shell. This was not that. This was slow. That was what she had not put in the column: how slow it would be. The iron did not get hot all at once. It drank the heat, as old iron does, greedily, and gave nothing back; and her hand lay inside it in the dark and cooked, slowly, like a hand held to a hearth by somebody who will not let go; and she sat on the stool with her face toward the books and her eyes on the red spines and the white hands stamped on them, and read them, one shelf after another, left to right, from the top, the little gilt words on each spine under the hand, because she had to read something.
+She had known it would hurt. She had been burned before; the rod had cooked her right palm on the Kettle Bank, and she had watched the healer give it back to her new, in the steam-box house, pink and shining as the inside of a shell. This was not that. She held the skin of nothing between her palm and the fire with everything she had, and it held, a little; it was why she still had hands at all. It was not enough. This was slow. That was what she had not put in the column: how slow it would be. The iron did not get hot all at once. It drank the heat, as old iron does, greedily, and gave nothing back; and her hand lay inside it in the dark and cooked, slowly, like a hand held to a hearth by somebody who will not let go; and she sat on the stool with her face toward the books and her eyes on the red spines and the white hands stamped on them, and read them, one shelf after another, left to right, from the top, the little gilt words on each spine under the hand, because she had to read something.
 
 *Southern Sea. Southern Sea. Southern Sea. Thessa. Southern Sea. The Navarch has been writing a long time.*
 
 Through the windows, behind Livia's back, the fog went orange.
 
-It came up all at once, a great soft glow, gold and red, low down in the milk of the fog, a long way off; and then another, nearer. Livia leaned a little toward the glass. Alana did not look. She was on the third shelf. She could smell something, very faint, under the lamp-oil and the old leather and the warm stone-smell of the box: a smell like the kitchen at Corvus when the cook let the fat catch. She knew what it was. She did not stop reading.
+It came up, a great soft glow, gold and red, low down in the milk of the fog, a long way off; and then another, nearer. Livia leaned a little toward the glass. Alana did not look. She was on the third shelf. She could smell something, very faint, under the lamp-oil and the old leather and the warm stone-smell of the box: a smell like the kitchen at Corvus when the cook let the fat catch. She knew what it was. She did not stop reading.
 
 *The lowest shelf is short. And the one at the end of it, the brown one, with no gilt left on it at all. The year of Thessa.*
 
@@ -16302,7 +16228,7 @@ She brought the iron on her left hand down on the corner of the Navarch's table,
 
 Her hand came out into the air.
 
-She did not look at it. She knew better than to look at it. She held it up, palm out, open, as it had been made to be held, toward Livia; and the fire that had been going into the iron for so long with nowhere else to go came down her arm into her open palm all at once, glad, quick, obedient, the one thing in the world that had always come when she called; and stood there, in her hand, a hand's breadth off the skin, white at the heart and gold at the edges, and lit the whole cabin like noon.
+She did not look at it. She knew better than to look at it. She held it up, palm out, open, as it had been made to be held, toward Livia; and the fire that had been going into the iron for so long with nowhere else to go came down her arm into her open palm, glad, quick, obedient, the one thing in the world that had always come when she called; and stood there, in her hand, off the skin, white at the heart and gold at the edges, and lit the whole cabin like noon.
 
 Livia looked at it.
 
@@ -16314,7 +16240,7 @@ She stepped back through the door.
 
 She did not hurry. She stepped back, one pace, into the fog-edged frame, the way you step back out of a room you have only looked into, and stood on the deck of her own ship among the cold small lamps, with her burned hand against her breast, looking at Alana through the door. Alana saw one of the lights on the thread go out. A small one, quick and bright. Near the hand.
 
-"Thirty-six," said Livia. "You see? You always cost me something."
+"Thirty-six," said Livia. "You see? You always cost me something." She looked at her burned fingers, and for the first time that morning she did not look amused. "Lucan is going to be so very cross with me."
 
 And the door folded the other way, quickly, like a book shut, and she was gone; and there was nothing between the table and the stern windows but the warm air of the cabin, and the green light of the stone in its box breathing up off the glass, and through the glass, in the milk of the fog, a long dark hull with a gold rail, pulling away.
 
@@ -16372,7 +16298,7 @@ The ram went by.
 
 It went by a long arm's length off the *Forward*'s right bow, low, in its curl of white water, with a sound like a wave going up a beach; and above it the red eye went by, huge, and the black rail, and the faces of the marines behind the rail, astonished, turning to follow; and then the *Forward*'s stem went into the *Audit*'s oars.
 
-He would hear it for the rest of his life. Not a crash. A long rending crackle that went on and on, like a winter's kindling going into a fire all at once, or a hundred men breaking a hundred staves across their knees one after another down a line; and under it, inside the *Audit*, below her deck, where the looms of those oars came inboard to the hands of the men who pulled them, another sound. He knew what it was. Every man on the *Forward* knew. A broken oar does not stop at the break. The loom comes back, the length of a man, with the whole of the ship's way behind it, into the chest of the man on the bench. The *Audit* screamed. All down her right side, under her deck, men screamed at once, a great many of them, and went on screaming; and the *Forward* went down her side grinding, timber on timber, with the broken blades going under her keel and up between the hulls in a storm of splinters, and heeled, and hung, and came back. And the *Audit*'s way came off her as if she had been checked by a rope; and her stern swung; and she came round on them, heavily, leaning, the whole black height of her, until her rail was over their rail.
+He would hear it for the rest of his life. Not a crash. A long rending crackle that went on and on, like a hundred men breaking a hundred staves across their knees one after another down a line; and under it, inside the *Audit*, below her deck, where the looms of those oars came inboard to the hands of the men who pulled them, another sound. He knew what it was. Every man on the *Forward* knew. A broken oar does not stop at the break. The loom comes back, the length of a man, with the whole of the ship's way behind it, into the chest of the man on the bench. The *Audit* screamed. All down her right side, under her deck, men screamed at once, a great many of them, and went on screaming; and the *Forward* went down her side grinding, timber on timber, with the broken blades going under her keel and up between the hulls in a storm of splinters, and heeled, and hung, and came back. And the *Audit*'s way came off her as if she had been checked by a rope; and her stern swung; and she came round on them, heavily, leaning, the whole black height of her, until her rail was over their rail.
 
 "*Grapnels!*"
 
@@ -16394,7 +16320,7 @@ Like a man nodding.
 
 She was at the foot of the bridge with the Farrier in both hands and her old helmet on, the one with the cheek-pieces, and her two long fair plaits coming down from under the rim of it at the back and tucked through her belt so that nobody could take hold of them; she stood tall in her mail with her weight on the balls of her feet, and he thought, not for the first time, that he had never seen anybody look so exactly like the thing she was; at the side of the column, not at its head, because the head of a column was not a place for a captain, she had told him once. It was a place for a shield. The shields were there. Five of the Lanciarii's big curved shields in a row, edge to edge, so that they made a wall; and behind them, rank on rank, the shields went up over the men's heads and lay there, edge over edge, like the tiles of a roof; and the whole column crouched on the *Forward*'s foredeck under its roof, with the spear-points sticking out of the front of it like the spines of some great beast curled up in a field, and waited for the nod.
 
-At the right end of the front rank, where the first blow comes, knelt the lanciarius with the broken nose. Tuccius. The man who had stood on his bench that morning and asked who wrote everything down. Marcus could see the side of his face under the rim of his helmet, grey and set, looking up the bridge at the rail. He had asked for that place. Marcus had seen him ask, from the stern, while they laid out the bridge: a word to the Captain, quiet, with his eyes on the deck; and the Captain look at him for a long moment, and nod. Nobody had said anything else about it. Nobody would.
+At the right end of the front rank, where the first blow comes, knelt the lanciarius with the broken nose. Tuccius. The man who had stood on his bench that morning and asked who wrote everything down. Marcus could see the side of his face under the rim of his helmet, grey and set, looking up the bridge at the rail. He had asked for that place. Marcus had seen him ask, from the stern, while they laid out the bridge: a word to the Captain, quiet, with his eyes on the deck; and the Captain look at him, and nod. Nobody had said anything else about it. Nobody would.
 
 The *Audit* leaned.
 
@@ -16404,13 +16330,13 @@ The column went up the bridge.
 
 It went as one thing, at a walk, the way the Lanciarii had gone up the slope at Silverwood; not running, because a running man cannot keep his shield where it should be; with the points out in front, and the roof over it, and the men's boots finding the cleats on the gangway without looking. And the *Audit* opened on it.
 
-Crossbows. From the high stern of her, where the black rail swept up toward the gilt book; from the rail above the bridge-head; from somewhere higher still, a fighting-top on her mast where Marcus had not seen anyone. The bolts came down onto the roof of shields like hail onto a tiled roof, a hard flat clatter, and some went through, and he heard men grunt under the roof the way men grunt who have been struck and have decided not to fall. The roof did not open. A man in the third rank sat down on the bridge, all at once, under his shield; and the man behind him stepped over him without breaking step, and the man behind that one took him by the belt and passed him back down the bridge to the hands reaching up from the *Forward*'s deck, like a sack going down a chain. Marcus saw his face as he went by, and knew that the hands at the bottom had nothing to do for him but take him. A man of the Lanciarii, grey, older than Tuccius, whose name Marcus did not know. He would learn it that night, from the healer, at the rail.
+Crossbows. From the high stern of her, where the black rail swept up toward the gilt book; from the rail above the bridge-head; from somewhere higher still, a fighting-top on her mast where Marcus had not seen anyone. The bolts came down onto the roof of shields like hail onto a tiled roof, a hard flat clatter, and some went through, and he heard men grunt under the roof the way men grunt who have been struck and have decided not to fall. The roof did not open. A man in the third rank sat down on the bridge under his shield; and the man behind him stepped over him without breaking step, and the man behind that one took him by the belt and passed him back down the bridge to the hands reaching up from the *Forward*'s deck, like a sack going down a chain. Marcus saw his face as he went by, and knew that the hands at the bottom had nothing to do for him but take him. A man of the Lanciarii, grey, older than Tuccius, whose name Marcus did not know. He would learn it that night, from the healer, at the rail.
 
 On the *Forward*'s rail the elves were shooting. He had not heard them begin. They stood along the rail in a row with their long bows, Faelar in the middle of them, very tall and still, and shot over the heads of the Lanciarii at the crossbowmen on the *Audit*'s stern with no more hurry than men picking fruit; and the crossbows on the stern began to falter, one, and then another. And from the foredeck behind him, where the bolt-thrower stood on its bed, came the deep flat *thock* of the windlass let go, and a bolt the length of a man went up over the bridge and into the knot of crossbowmen at the stern rail, and the knot was not there any more. Gaius did not say anything. He had nothing to call. Marcus did not look round to see his face; he did not need to.
 
 The front of the column reached the rail.
 
-The *Audit*'s marines were waiting for it, crouched behind the rail with their oval shields and their short spears, and they put their spears into the wall of shields at the top of the bridge, and the wall stopped. Marcus saw it stop. He saw Tuccius take a spear-point in the rim of his shield and another under it, in the thigh, and go down on one knee on the cleats, with the bridge nodding under him; and stay there. On one knee, with his shoulder in his shield and his shield in the gap at the bridge-head, holding it the way a man holds a door that somebody is pushing from the other side. He did not go back. He did not get up. He knelt at the top of the bridge with a spear in his leg and held the door, and the Lanciarii came up behind him and over him, the second rank, the third, stepping on his back and his shoulder the way men step on a stone in a river; and went over the rail.
+The *Audit*'s marines were waiting for it, crouched behind the rail with their oval shields and their short spears, and they put their spears into the wall of shields at the top of the bridge, and the wall stopped. Marcus saw it stop. He saw Tuccius take a spear-point in the rim of his shield and another under it, in the thigh, and go down on one knee on the cleats, with the bridge nodding under him; and stay there. On one knee, with his shoulder in his shield and his shield in the gap at the bridge-head, holding it the way a man holds a door that somebody is pushing from the other side. He did not go back. He did not get up. He knelt at the top of the bridge with a spear in his leg and held the door, and the Lanciarii came up behind him and over him, the second rank, the third, stepping on his back and his shoulder; and went over the rail.
 
 "*Gate,*" said Valeria, from the bridge, quite calmly. "*Anchor on me.*"
 
@@ -16434,13 +16360,13 @@ It was warm. It leaned into his palm through the wool, steady, patient, toward t
 
 "There," he said. "Under the book."
 
-Rufo looked where he pointed. He looked for a long moment, the way he looked at a gap in a line, measuring.
+Rufo looked where he pointed. He looked the way he looked at a gap in a line, measuring.
 
 "Aye," he said.
 
 And Marcus saw it come.
 
-He had seen it once before, from a horse's back, in a street of boats, and not understood what he was seeing. He understood it now, close to, a hand's breadth from Rufo's face. It was not rage. That was the thing nobody would believe afterward, who had not seen it: there was no rage in it at all. The face went still. All of it, at once, the way a sea goes still before a squall; and the eyes went somewhere a long way off, past the *Audit*, past the fog, to some place where everything was happening slowly; and Rufo turned round without another word, and went up the bridge.
+He had seen it once before, from a horse's back, in a street of boats, and not understood what he was seeing. He understood it now, close to, an arm's length from Rufo's face. It was not rage. That was the thing nobody would believe afterward, who had not seen it: there was no rage in it at all. The face went still. All of it, at once, the way a sea goes still before a squall; and the eyes went somewhere a long way off, past the *Audit*, past the fog, to some place where everything was happening slowly; and Rufo turned round without another word, and went up the bridge.
 
 "*Gate!*" Valeria's voice, from the *Audit*'s rail. And the Lanciarii, who held the bridge-head now and a few paces of the *Audit*'s deck beyond it, and were holding them with their spears against the marines, opened in the middle like a door, and Rufo went through, and was gone.
 
@@ -16484,7 +16410,7 @@ Not a few, now. The *Audit* was a big ship, and there had been more marines in h
 
 The forty hit the wall.
 
-It was not like the street of boats. In the street there had been hulls to get behind, and lanes to go round, and room. Here there was a deck as wide as a lane and a wall across it, and the forty in front of the wall with their shields locked; and there was nothing to do but push. Marcus pushed. He had his shoulder in his shield and his face a hand's breadth from an oval shield with a white hand painted on it, and a face behind the shield, a young one with a fuzz of beard, very close, sweating, its mouth open, saying something over and over in Tharsian; and his sword was going in under the rim of the oval shield, and coming back, and going in. It was steady. It did what it was told. Beside him Vatinius had stopped praying and was making the sound a man makes lifting a cart; and on his other side Ear was shouting, high, a boy's voice, the same word over and over, and the word was *Rufo*.
+It was not like the street of boats. In the street there had been hulls to get behind, and lanes to go round, and room. Here there was a deck as wide as a lane and a wall across it, and the forty in front of the wall with their shields locked; and there was nothing to do but push. Marcus pushed. He had his shoulder in his shield and his face against the rim of an oval shield with a white hand painted on it, and a face behind the shield, a young one with a fuzz of beard, very close, sweating, its mouth open, saying something over and over in Tharsian; and his sword was going in under the rim of the oval shield, and coming back, and going in. It was steady. It did what it was told. Beside him Vatinius had stopped praying and was making the sound a man makes lifting a cart; and on his other side Ear was shouting, high, a boy's voice, the same word over and over, and the word was *Rufo*.
 
 The wall pushed back.
 
@@ -16498,29 +16424,27 @@ He did not know what that meant. He knew what he was afraid it meant. He held th
 
 He looked back over his shoulder. He did not know why.
 
-Valeria was on the *Audit*'s deck at the bridge-head, behind the forty, with the Lanciarii round her in a ring with their points out, holding the bow. She was not looking at him. She was looking at the wall. She looked at it the way he had seen her look at the gap at Silverwood, and the slip gate, and the black beach: adding it up. She looked at the forty going back. She looked at the wall getting deeper. And then she turned, all the way round, with her back to the fight, and looked across the gap between the two ships at the *Forward*'s afterdeck. At the binnacle-post, and the old man sitting against it with his sword across his knees, who had sat there all morning because she had told him to, and had not once asked her when.
+Valeria was on the *Audit*'s deck at the bridge-head, behind the forty, with the Lanciarii round her in a ring with their points out, holding the bow. She was not looking at him. She was looking at the wall. She looked at it the way he had seen her look at the gap at Silverwood, and the slip gate, and the black beach: adding it up. She looked at the forty going back. She looked at the wall getting deeper. And then she turned, all the way round, with her back to the fight, and looked across the gap between the two ships at the *Forward*'s waist, where one man stood alone at the rail among the empty benches, in old cavalry mail, with his sword drawn, looking at the wall too.
 
-Marcus knew what she had added. The Lanciarii had the bow, and could not leave it, or the bridge was lost and everyone on the *Audit*'s deck with it. The elves had the crossbows on the stern and nothing else. The forty were going back, and the wall was getting deeper, and Rufo was on the far side of it alone. There was nothing left on the *Forward* that could cross that bridge but the rowers lying on their benches, and the bolt-thrower crew with nothing to lay on, and the healer, and the boy with the basin, and one man of fifty-two who had fought from a saddle all his life and never once from a deck.
+Marcus knew what they had both added. The Lanciarii had the bow, and could not leave it, or the bridge was lost and everyone on the *Audit*'s deck with it. The elves had the crossbows on the stern and nothing else. The forty were going back, and the wall was getting deeper, and Rufo was on the far side of it alone. There was nothing left on the *Forward* that could cross that bridge but the rowers, and the bolt-thrower crew with nothing to lay on, and the healer, and the boy with the basin, and one man of fifty-two who had fought from a saddle all his life and never once from a deck.
 
-He saw her face. He would not have known how to tell anybody what was in it, afterward, and he never tried. Then she took her right hand off the haft of the Farrier and lifted it, open, palm out, over her head, where the whole of the *Forward* could see it.
+He saw her face, and across the water, the General's. Then they lifted their hands at the same moment, each to the other, open, palm out: the Captain over her head at the bridge-head, where the whole of the *Forward* could see it, and the General at the rail. Neither of them had waited for the other. Neither of them had needed to.
 
 "*Now,*" said Valeria.
 
 She did not shout it. It went across the water all the same.
 
-On the *Forward*'s afterdeck, by the binnacle, a man got up off the deck.
-
-Marcus saw it over the heads of the Lanciarii, through the rigging, between the two hulls: an old man coming up off the planking all in one movement, the way he got up from a tavern bench when he had decided to leave, with the sword in his fist and his cloak sliding off his shoulders. A small neat grey servant was at his side from nowhere, as Felix always was, holding up a shield. Roderic looked at it the way he looked at a hat he did not care for, and shook his head, and gave Felix the cloak instead. Then he came forward along the *Forward*'s deck between the benches toward the bridge, at a walk, a big grey man in old cavalry mail with a sword in one hand and nothing at all on the other arm; and the men on the benches drew in their feet as he passed, and did not say anything, and did not breathe.
+Roderic was already moving. A small neat grey servant was at his side from nowhere, as Felix always was, holding up a shield, and Roderic looked at it the way he looked at a hat he did not care for, and shook his head, and gave Felix his cloak instead. Then he came forward along the *Forward*'s deck between the benches toward the bridge, at a walk, a big man in old cavalry mail with a sword in one hand and nothing at all on the other arm; and the rowers on the benches drew in their feet as he passed, and did not say anything, and did not breathe.
 
 He reached the foot of the bridge. He stopped there, with his head on one side, looking up at the black rail and the bridge nodding up and down against it; and Marcus saw his lips move, and knew as surely as if he had heard it what he was saying. *Like a man nodding.* The *Audit* leaned. The foot of the bridge came up to meet him.
 
 He went.
 
-And as he went up the bridge, at the run, the first time Marcus had ever seen him go into a fight on his own two feet, with no shield and his sword up and the planking going up and down under him like the floor of a tavern at closing, he began to shout.
+And as he went up the bridge, at the run, the first time Marcus had ever seen him go into a fight on his own two feet, with his sword up and the planking going up and down under him and his boots finding every cleat as if he had been born on a gangway, he began to shout.
 
 "*VATINIUS!*"
 
-It went down the *Audit*'s deck like a gate going in under a ram. Marcus had heard Roderic shout before, on the beach, at the drill, at the eulogy feast with a table going over; he had never heard this. It came up out of the old man from somewhere under the scars, from the bottom of nineteen years and forty verses, and it filled the fog.
+It went down the *Audit*'s deck like a gate going in under a ram. Marcus had heard Roderic shout before, on the beach, at the drill, at the eulogy feast with a table going over; he had never heard this. It came up out of the General from somewhere under the scars, from the bottom of nineteen years and forty verses, and it filled the fog.
 
 "*VATINIUS! CARTER! PRAYS!*"
 
@@ -16530,29 +16454,41 @@ Beside Marcus in the line the big slow man jerked as if he had been struck, and 
 
 "*HERE!*" screamed Ear, like a boy at a roll-call, and went forward.
 
-"*RUSTICUS! SALVIUS! DENTO!*" The old man was over the rail. He was on the *Audit*'s deck, coming down it at the back of the forty, through the Lanciarii, who opened for him, at a run: a big heavy man's run, too long in the stride for a deck, with the planking coming up under his boots when he did not expect it and going away when he did, so that twice Marcus saw him nearly go down, and he did not go down. He had the sword up. He was not using it. He was not near enough to use it. He did not need to be. "*FLORUS! WHO CAN'T SWIM!*"
+"*RUSTICUS! SALVIUS! DENTO!*" He was over the rail and on the *Audit*'s deck, coming down it at the back of the forty, through the Lanciarii, who opened for him; and he did not slow, and he did not go to the back of the line, where a charge comes off. He went for the mast. There was a water-cask lashed at the foot of it, chest-high, beside the place where the wall met the forty; and the General put one boot on the grating's edge and the other on the cask's head, and Marcus saw the whole great weight of the man go up into the air above the line of locked shields, with the fog behind him and the sword going back over his shoulder, the way a horse goes up at a wall; and come down on the other side. "*FLORUS! WHO CAN'T SWIM!*"
 
 And from the sea between the hulls, very faint and very indignant: "*I'M HERE!*"
 
 The forty laughed. In the middle of it, with their shoulders in their shields and the wall in front of them, the whole line laughed, one great bark of it, like a dog's; and went forward.
 
-"*MACRO! STRABO! NAEVIUS AND LOLLIUS!*" He was behind them now. Right behind them, at the back of the line, where a charge comes off; and he did not stop there. He went along the back of the line from grating to grating, roaring, the way a drover runs along behind a herd at a river, slapping rumps to send them in. "*APER! BALBUS! LURCO!*"
+Marcus did not see him land. He saw what happened after.
+
+The wall was three deep, and the back rank of it was the place where nobody in the wall had ever thought to look. The General came down into it like a stone into a well. The first marine he struck never turned round; the sword went into the join of his neck and shoulder from above, a downward chopping cut with the full weight of a big man's falling body behind it, and opened him to the breastbone; and the General's shoulder, still coming down, took the man beside him and threw him into the man in front, so that a whole file of the wall went forward onto the forty's shields in a heap. And then he was among them.
+
+He did not fight like Rufo. Nobody would ever mistake the one for the other, afterward, who had seen both. There was no stillness in it and no far-off look. It was a big man, bigger than any of them and heavier by a stone or two, in better mail than any of them had ever worn, with thirty years of the tiltyard and the drill-field and the long war in his wrists, going among men half his age who had been taught to stand in a line and push and had never been taught anything else. He took a short sword on the iron of his sleeve and broke the arm that held it with his pommel. He cut a man's spear in two and the hand that held it, and the hand went over the side. He put his boot into the back of a marine's knee and his sword into the back of his neck as he went down, and turned before the man had finished falling and took the next one across the face. He did not stand in one place. He went along the back of the wall from grating to grating, the way a man goes along a hedge with a billhook, cutting and moving on, cutting and moving on; and the wall had no back to it, and did not know which way to face.
+
+"*MACRO! STRABO! NAEVIUS AND LOLLIUS!*" Roaring, all the while, the names coming out of him on every stroke. "*APER! BALBUS! LURCO!*"
 
 Nobody answered for Lurco.
 
-Marcus had seen him go down, and not known who it was. He knew now. The man on Ear's right, beyond Ear, who had gone down and not got up, and lay on the black deck by the grating with the line stepping over him. Roderic saw it too. Marcus saw him see it: saw the old man's eyes go to the place in the line where an answer should have come from, and find the gap, and the shape on the deck under it. He did not stop.
+Marcus had seen him go down, and not known who it was. He knew now. The man on Ear's right, beyond Ear, who had gone down and not got up, and lay on the black deck by the grating with the line stepping over him. Roderic saw it too. Marcus saw him see it: saw the General's eyes go, over the heads of the wall, to the place in the line where an answer should have come from, and find the gap, and the shape on the deck under it. He did not stop.
 
-"*LURCO!*" he roared again, at the gap, at the shape on the deck, louder than before, as if the man had only not heard; and went on. "*SCAEVA! TAPPO! NASICA!*"
+"*LURCO!*" he roared again, at the gap, at the shape on the deck, louder than before, as if the man had only not heard; and the marine who stood nearest that gap turned round to see what was coming, and it was the last thing he saw. "*SCAEVA! TAPPO! NASICA!*"
 
 The wall broke.
 
-It broke from the middle, the way ice breaks on a pond when a boy jumps on it: one man, and then the men either side of him, and then the whole of it going in long cracks back toward the stern. Marcus felt it go under his shield. The Tharsian with the fuzz of beard was not there any more; there was only deck, and the backs of red cloaks going away. They had been told, perhaps, what Aeridor would do when it came: a horn, a banner, a song, *the Long Field and the king*. Nobody had told them about this. An old man with no shield running along behind a line of thieves, roaring their names down a deck as a herald calls lords into a hall, and every thief answering him; and they did not know what it meant, and a man will stand against anything but a thing he does not understand. They went back. They went down the hatches, and over the side, and up the stern ladder, and some of them only threw down their oval shields on the deck and stood there with their hands open. The forty went through them.
+It broke from behind, the way a dam breaks when the water has got in under it: the back rank first, and then the men in the middle, who could feel the back go and did not know what had taken it, and then the whole of it going in long cracks toward the gratings and the hatches. Marcus felt it go under his shield. The Tharsian with the fuzz of beard was not there any more; there was only deck, and the backs of red cloaks going away. They had been told, perhaps, what Aeridor would do when it came: a horn, a banner, a song, *the Long Field and the king*. Nobody had told them about this. A big grey knight in the middle of their own back rank with his sword going like a flail, roaring the names of thieves, and every thief answering him; and they did not know what it meant, and a man will stand against anything but a thing he does not understand. They went back. They went down the hatches, and over the side, and up the stern ladder, and some of them only threw down their oval shields on the deck and stood there with their hands open. The forty went through them.
 
-"*POMPONIUS! MURCUS!*" The old man came through the gap behind them, still shouting, with his sword up and his face red as a forge. "*PLANCUS!*" He was by the mast. "*WHO CAN SMELL*—"
+And round the General, by the mast, there was suddenly room.
+
+Marcus saw it open. Nobody had told the marines to give him room. They simply did. Men who had been coming up out of the hatches with their swords out came up, and saw him, and the dead round his boots, and stopped; and went another way. A marine with a spear came round the mast at him, and saw his face, and lowered the spear, and backed away step by step until the grating's edge took him behind the knees and he sat down in it. The deck round the mast was clear for three paces every way, and the General stood in the middle of it with his sword up and the blood running down the blade onto his glove, breathing like a bellows, and not one man of the Navarch's would come into the ring.
+
+Marcus looked back, once, toward the bridge-head. The Captain was standing in the ring of the Lanciarii with the Farrier grounded, watching the General; and her face under the cheek-pieces of her helmet had gone pink to the ears, and her lips were apart, and she had the look a woman has at a summer fair when she has watched a big horse go clean over the high jump and has made up her mind to buy it. She saw Marcus looking. It went, at once, and was the Captain's face again, and she said something short to the man beside her about his shield. But Marcus had seen it.
+
+"*POMPONIUS! MURCUS!*" His face was red as a forge, and he was grinning. "*PLANCUS!*" He turned to find the next man, and there was no next man. "*WHO CAN SMELL*—"
 
 He stopped.
 
-There was a bolt in him. Marcus had not seen it come; nobody had. It had come down from the fighting-top on the *Audit*'s mast, from straight above, where one crossbowman the elves could not see past the yard had wound, and waited, and chosen the man who was shouting; and it stood out of the old man high in the chest, under the collarbone, through the mail, short and black and quite still.
+There was a bolt in him. Marcus had not seen it come; nobody had. It had come down from the fighting-top on the *Audit*'s mast, from straight above, where one crossbowman the elves could not see past the yard had wound, and waited, and chosen the only man on the deck that nobody below would go near; and it stood out of the General high in the chest, under the collarbone, through the mail, short and black and quite still.
 
 He stood by the mast a moment, with his sword up and his mouth open, as if he had seen something a long way off that interested him. Then the sword came down, slowly. Then he went down after it, all at once, the way a tower goes down when the sappers fire the props under it, all of a piece, without any fuss; and lay on his side on the *Audit*'s deck at the foot of her mast, with his cheek on the planking and the sword under his hand.
 
@@ -16568,17 +16504,17 @@ Marcus stayed where he was, one breath. The deck under his knee was wet and blac
 
 "Go on," said Roderic.
 
-He went. Behind him, as he got up, he heard the Captain's boots come down the deck fast from the bridge-head, and stop; and the old man's voice, muffled by the planking.
+He went. Behind him, as he got up, he heard the Captain's boots come down the deck fast from the bridge-head, and stop; and the General's voice, muffled by the planking.
 
-"You gave me the palm."
+"Which of us saw it first?"
 
-"I did."
+"Both," said Valeria.
 
-"Off a deck."
+"Then neither of us can blame the other."
 
 "I'd do it again," said Valeria.
 
-She did not say that it was the worst of it. Marcus heard her not say it. Then he was past the mast and among the forty, going aft, and could hear nothing over the noise of his own boots.
+She did not say that it was the worst of it. Marcus heard her not say it. He looked back once, from the gap in the forty, and saw her on her knees on the black deck by the mast with the Farrier laid down beside her and her two hands flat on the General's mailed chest either side of the bolt, holding him. Then he was past the mast and among the forty, going aft, and could hear nothing over the noise of his own boots.
 
 ---
 
@@ -16652,7 +16588,7 @@ He put out his hand to her. He did not know what he meant to do with it. It was 
 
 She looked at it.
 
-Then she lifted her right arm off her lap, carefully, the whole arm, from the shoulder, as if it belonged to somebody else; and laid the back of her wrist against his shaking hand. The back of the wrist, where the iron had not been. It was the only part of her hand she had left to give him. She gave it.
+Then she lifted her right arm off her lap, carefully, the whole arm, from the shoulder, as if it belonged to somebody else; and laid the back of her wrist against his hand. The back of the wrist, where the iron had not been. It was the only part of her hand she had left to give him. She gave it.
 
 He held still. The shaking went on. She kept her wrist where it was.
 
@@ -16684,7 +16620,7 @@ It came down through the hatch from the deck above, not grey any more but gold-w
 
 Then the healer came down the ladder after it.
 
-He learned the rest afterward, from Rufo, who had seen it from the steering-deck. She had come over the bridge as soon as the wall broke, with her satchels and the freed boy behind her carrying the basin, and the mist going out from her along the *Audit*'s deck from the bridge-head to the mast the way smoke goes out along a floor when somebody opens a door; and at the top of the bridge Tuccius had got up off his knee in it, and looked at his thigh, and sworn by every god on the Lower Steps. She had knelt at the mast. She had put her two hands flat on the old man's chest either side of the bolt and shut her eyes, and drawn it herself, and said something to the Captain over him that made the Captain laugh once, hard, as if it had been knocked out of her; and the old man had said *Ow*, distinctly, and asked who had got Plancus's tide.
+He learned the rest afterward, from Rufo, who had seen it from the steering-deck. She had come over the bridge as soon as the wall broke, with her satchels and the freed boy behind her carrying the basin, and the mist going out from her along the *Audit*'s deck from the bridge-head to the mast the way smoke goes out along a floor when somebody opens a door; and at the top of the bridge Tuccius had got up off his knee in it, and looked at his thigh, and sworn by every god on the Lower Steps. Halfway to the mast a marine had come up out of a grating behind her with a short sword, one of the ones who had gone down the hatches and not stayed there, and gone for her back, because she was the thing on that deck that was making the others get up again. She never saw him. The boy did. Sennius dropped the basin and stepped in between, with nothing in his hands at all, and took the blade meant for her in the meat of his left arm and both his hands round the man's wrist, and held it there, a Tharsian boy holding a Tharsian marine off a healer of Aeridor in the middle of the *Audit*'s deck, until Ear came back down the line and hit the marine with his shield. Rufo said the boy had not made a sound. He had picked the basin up again, Rufo said, with the blood running off his elbow into it, and gone after her as if nothing had happened, and she had not known until she knelt at the mast and saw what was in it. She had knelt at the mast. She had closed the boy's arm first, with one hand, without looking at him, the way she would have put a hand on a dog's head going past; and he had gone scarlet, throat and all. Then she had put her two hands flat on the General's chest either side of the bolt and shut her eyes, and drawn it herself, and said something to the Captain over him that made the Captain laugh once, hard, as if it had been knocked out of her; and the old man had said *Ow*, distinctly, and asked who had got Plancus's tide.
 
 What Marcus saw was Liora at the foot of the ladder, with the hood of her cloak fallen back and her honey-colored hair half out of its cloth, and blood to the wrists that was not hers, and her face already gone pale with what it had cost; looking past him at Alana's hands.
 
@@ -16718,7 +16654,7 @@ Marcus looked at the sword.
 
 "No," said the Navarch. He considered. "It is for this."
 
-Marcus took it in his shaking hand. It was lighter than it looked. He stood there holding it, and did not know what to do with it, and after a moment held it out sideways without looking, and Rufo took it from him.
+Marcus took it in his hand. It was lighter than it looked. He stood there holding it, and did not know what to do with it, and after a moment held it out sideways without looking, and Rufo took it from him.
 
 The Navarch turned to the table. Livia had left a book open there, under the swinging lamp; a red book, one of his, with the white closed hand on its spine. He turned it toward himself with one long finger, and turned the leaves back, not many; and found the place, and turned the book round again on the table so that it faced Marcus, and stepped back.
 
@@ -16730,7 +16666,7 @@ And under the line, a space. Three fingers deep. Empty. With another line ruled 
 
 "You sent me word," said the Navarch, "to leave a space."
 
-There was a pen in the brass collar of the inkwell sunk into the table. Marcus took it out. His hand was still shaking. He dipped the pen and wrote, in the space, in a bad hand that went up and down like a drunk man's, two words; and put the pen back in its collar.
+There was a pen in the brass collar of the inkwell sunk into the table. Marcus took it out. He dipped the pen and wrote, in the space, in a bad hand that went up and down like a drunk man's, two words; and put the pen back in its collar.
 
 *Not alone.*
 
@@ -16794,7 +16730,7 @@ Marcus closed the book.
 
 It was not heavy. It was a small book, the size of his two hands, with the red gone brown at the edges where a man's thumb had held it a great many times. He stood in the Navarch's cabin with it in his hand, and the green windows behind him, and Alana on the end of the table with her open hands in her lap, and Rufo at the foot of the ladder with the Navarch's sword under his arm, and the Navarch by his table; and he thought about a window.
 
-A tall window, in a small room forty-four steps above the floor of the Hall of Kings, that looked down over the steaming canals onto the inner quay of the royal harbor, and thirty-one empty berths. An old man stood at it every night, after the lamps were lit, and counted them. He thought nobody knew.
+A tall window, in a small room forty-four steps above the floor of the Hall of Kings, that looked down over the steaming canals onto the inner quay of the royal harbor, and thirty-one empty berths. An old man stood at it every night, after the lamps were lit, and counted them, and had never once said so aloud.
 
 *Dawn. Thirty-one.*
 
@@ -16812,9 +16748,9 @@ It was quieter now. The witch had shut the lid on it that morning with her two b
 
 Thalassa lay still in the dark and listened.
 
-The twenty-six lay on the warm road where it went under the Teeth, in the deep cleft between the black rocks where the young ones played in the spring; in twos, close, the way the hunters had taught them, so that each could feel the next one's breathing in the water. The road came through the cleft from the east like a river through a gate, slow and warm along the belly, and went on west under the pool toward the wood; and on either side of it the cold stood up like a wall. It was the only warm water for a night's swim in any direction. They had come down into it at dusk the way men come in out of the snow to a fire, without a word, and lain down in it, and the young ones had been asleep before the last of them was down.
+The twenty-six lay on the warm road where it went under the Teeth, in the deep cleft between the black rocks where the young ones played in the spring; in twos, close, the way the hunters had taught them, so that each could feel the next one's breathing in the water. The road came through the cleft from the east like a river through a gate, slow and warm along the belly, and went on west under the pool toward the wood; and on either side of it the cold stood up like a wall. It was the only warm water for a night's swim in any direction. They had come down into it at dusk without a word, and lain down in it, and the young ones had been asleep before the last of them was down.
 
-They slept the way the young sleep after a day like this one: all at once, like stones dropped into a pool. Halia slept with her trident in her arms like a doll, and her mouth open, and a long scratch down her cheek from a Tharsian rower's fingernails that she had not noticed until Kymon showed her. She had towed the man two hundred strokes through the burning water to the fishermen's ship with his hands in her hair, and he had scratched her the whole way, because he was drowning and did not know she was not drowning him; and when the fishermen pulled him out over their rail with a boathook he had been sick on their deck and then wept, and Halia had hung in the water under the rail and watched him weep with an expression Thalassa had not seen on her face before, and had not liked.
+They slept the way the young sleep after a day like this one, like stones dropped into a pool. Halia slept with her trident in her arms like a doll, and her mouth open, and a long scratch down her cheek from a Tharsian rower's fingernails that she had not noticed until Kymon showed her. She had towed the man two hundred strokes through the burning water to the fishermen's ship with his hands in her hair, and he had scratched her the whole way, because he was drowning and did not know she was not drowning him; and when the fishermen pulled him out over their rail with a boathook he had been sick on their deck and then wept, and Halia had hung in the water under the rail and watched him weep with an expression Thalassa had not seen on her face before, and had not liked.
 
 Kymon slept the way he did everything, thoroughly, flat on his back on the warm sand with his arms flung out and the trident along his side under his hand, as if a wave had thrown him there and he had decided to make the best of it. Glaukos slept like that. She thought of Glaukos, and then made herself stop.
 
@@ -16936,315 +16872,157 @@ He looked at her a while longer. He had the grey face still that he had had on t
 
 ---
 
-The elf sat where he had sat for three nights, with his back against the stem-post and his bow across his knees, under the open sky; though there was no sky, only the fog, lit brown and gold from underneath by the lanterns of the pool, and the masts going up into it.
+The elf sat where he had sat for three nights, with his back against the stem-post and his bow across his knees, under a sky that was only fog, lit brown and gold from underneath by the lanterns of the pool. Round him on the foredeck his people lay sleeping in their grey cloaks, in a row, very straight, the way the dry folk lay their dead. One of them opened an eye as she came over the rail with the sea running off her, and looked at her, all of her, the sealskin laid to her like paint and the dry folk's coat hanging open over it, the way the men of the ships had learned to look at her in a month; and shut it again, slowly, as if it cost him something. She found she did not mind. Among her own people nobody looked at her like that, because everybody had always seen her.
 
-Round him on the foredeck his people lay sleeping in their grey cloaks, in a row, very straight, with their bows beside them, the way the dry folk lay their dead. Thalassa had thought they were dead the first night, and had said so, and the witch had laughed. They did not stir when she came over the rail with the sea running off her. One of them opened an eye, and looked at her, all of her, the sealskin laid to her like paint and the dry folk's coat hanging open over it and the wet shining on her throat in the lantern-light, the way the men of the ships had learned to look at her in a month; and shut it again, slowly, as if it cost him something. She found she did not mind. Among her own people nobody looked at her like that, because everybody had always seen her.
+The prince carried the box. He set it down on the deck in front of the elf, slowly, bending his knees, one hand under it: a dull grey box the size of a loaf, lead, with a lid that slid in grooves, and on the lid, side by side, two dark marks the shape of hands.
 
-The prince carried the box.
-
-He had gone aft for it while she climbed, and come back with it in his arms, against his chest, the way a man carries a child that has fallen asleep somewhere it should not be; and she saw by his face what it weighed, and by the way he set it down on the deck in front of the elf, slowly, bending his knees, one hand under it. It was not big. A dull grey box the size of a loaf of bread, with a lid that slid in grooves. Lead. She had never seen lead before this morning. The dry folk made their pipes of it, the witch said, and their coffins, and their seals for letters, and the roofs of their temples, and it kept in whatever you put in it, which was what made it such a good thing for coffins and such a bad thing for pipes.
-
-And on the lid, side by side, two dark marks the shape of hands.
-
-Thalassa looked at them, and then at the witch, who had come forward behind the prince and stood a little apart, by the foremast, with her own hands held up in front of her, palms out, like a woman who has just washed them and has nothing to dry them on. The healer had been at them in the black ship's cabin, and again at dusk, and was not finished. The skin on the palms was half made, pink and shining as the inside of a shell at the middle and raw still at the edges, and the witch held them away from everything, as if she did not yet believe they were hers. The witch was not looking at the box. She was looking at the elf.
-
-The engineer was there too, with his lenses pushed up on his forehead and a bruise the size of a fist going purple on his jaw that he did not seem to know about; and the old captain, who had come forward from the tiller and stood with his back against the rail and his arms folded, not part of it, only there; and behind Thalassa, coming up the knotted line with no sound at all and the sea pouring off him, so that the elf on the foredeck who had opened one eye opened both, Kymon.
-
-He had followed her up. Of course he had. He came and stood at her shoulder, a little behind, with the trident upright in his hand and the water running down its shaft, and looked at the box from underneath, as he looked at everything.
+The witch had come forward behind him and stood by the foremast with her own hands held up in front of her, palms out, like a woman who has just washed them and has nothing to dry them on. The healer had been at them twice and was not finished; the new skin was pink and shining at the middle and raw still at the edges. The engineer was there, with a bruise the size of a fist going purple on his jaw that he did not seem to know about; and the old captain, with his back against the rail and his arms folded; and behind Thalassa, coming up the knotted line with no sound at all, Kymon, who came and stood at her shoulder with the trident upright in his hand, and looked at the box from underneath, as he looked at everything.
 
 "It's yours," said the prince to the elf.
 
-Faelar looked at the box. He did not put out his hand to it.
+"It is not mine," said Faelar. "It is the wood's."
 
-"It is not mine," he said. "It is the wood's."
+"Then you're the wood, tonight." The prince sat down on the deck on the other side of the box, cross-legged, the way the elves sat, so that his face was on a level with Faelar's. "I know whose it is. I don't know what's to be done with it. So I'm asking you."
 
-"Then you're the wood, tonight. You're all of it that's here." The prince sat down on the deck, on the other side of the box, cross-legged, the way the elves sat, so that his face was on a level with Faelar's; and Thalassa saw the elf notice it, and file it away, the way he filed everything. "I don't know what's to be done with it. I know whose it is. So I'm asking you."
-
-"The wood would sing a month on this."
-
-"We haven't got a month. We've got till the tide."
-
-"No," said Faelar. "You have not." He looked at the box a while longer. Then he did put out his hand, his long hand, and laid it flat on the lid, beside the two dark marks, not touching them; and left it there; and Thalassa saw the long face change. Not much. Elves' faces did not do much. As the sea's face changes when the wind goes round, a little, everywhere at once.
+Faelar put out his long hand and laid it flat on the lid, beside the two dark marks, not touching them; and Thalassa saw the long face change, a little, everywhere at once, as the sea's face changes when the wind goes round.
 
 "It is crying," said Faelar.
 
-"Yes," said Thalassa.
+"It doesn't stop," said Thalassa. "We hear it through the lead. All of us."
 
-He looked up at her.
+"No. It will not stop." He took his hand away. "It does not know where it is. It knows only that it is not where it was. It calls the grove to come and fetch it, as a lamb calls the ewe; and when it hears another stone of the wood anywhere in the sea, it thinks *there*, and pulls."
 
-"It has been crying since they took the lid off," she said. "We felt it on the road, half a night's swim away, before your ships turned. Proteas felt it once before. Here. Four winters ago." She did not say the rest. The prince had told them, at dusk, on the black ship's deck; she could see on their faces that they knew. "We hear it now. Through the lead. All of us. It doesn't stop."
+"It's the best steering-stone in the sea," said the engineer, quietly, to the box, the way he said things to timbers. "With a saw and a week you could cut a hundred. Any ship of ours could find the wood in any fog." He pushed his lenses up. "I'm not saying do it. Somebody ought to say it out loud, so nobody has to think it quietly afterward."
 
-"No," said Faelar. "It will not stop." He took his hand off the lid, slowly. "It does not know where it is. It knows only that it is not where it was. It is calling the grove to come and fetch it, as a lamb calls the ewe. And when it hears another stone of the wood anywhere in the sea, it thinks: *there*. And pulls." He looked at the binnacle-stone on its post by the tiller, far aft, under its horn lid, where the green shard lay in its straw among the gold ones, pointing west again tonight, toward the wood, as it should. "Every one of those it pulled. They were cut from it. It thought they were home."
+"And every time you opened the box to saw it, it would call," said the witch, "and every ship steering by the wood's stones would come to you instead." She did not look at the box. Her hands were shaking, very finely, and she was holding them up so that the shaking would look like something she meant. "I could study it ten years. It lay under glass at Corvus in the wing they told us not to go into, and I used to lie awake in the long gallery wondering what was in there. I'd have gone in at sixteen with my own lamp." She looked at the elf. "It isn't mine to want. Don't ask me."
 
-Nobody said anything for a moment.
+Faelar was quiet a long time. Then he said, not to the prince, but to the box:
 
-"It's the best steering-stone in the sea," said the engineer.
-
-He said it quietly, to the box, the way he had said things all month to timbers and pintles and the cracks in old walls; not as if he wanted it, but as if somebody had to put it in the column and he was the one who could add. "Every Silverwood stone the Navarch had in every binnacle was sawn off that. A year of them. With what's left, and a saw, and a week, you could cut a hundred. Any ship of ours could find the wood in any fog, in any season, from anywhere in the isles." He pushed his lenses down onto his nose, and looked at the box through them, and pushed them up again. "I'm not saying do it. I'm saying it's there to do. Somebody ought to say it out loud, so that nobody has to think it quietly afterward."
-
-"And every time you opened the box to saw it," said the witch, "it would call."
-
-They looked at her.
-
-She had not moved from the foremast. She stood with her new hands up in front of her, and her face in the gold lantern-light was the face Thalassa had seen bent over the binnacle on the night of the road: very white, very calm, like a heron at the edge of the Kettle at low water.
-
-"Every ship steering by the wood's stones would come to you instead of the wood," she said. "Every time. For as long as you kept it. You'd have to anchor it somewhere quiet and shut the lid and never open it, or open it and live behind a reef." She looked at the box. "I could study it for ten years," she said. "I could fill a shelf with it. It lay under glass at Corvus for longer than anyone could remember, and nobody ever lifted the glass. I could learn more from it in a winter than the academy learned in all those years." She was quiet a moment. "Livia did."
-
-The fog moved over the pool. Somewhere aft, on the black ship, the hammer stopped.
-
-"It was in the wing they told us not to go into," said the witch. "I used to think about it, at night, in the long gallery, when I couldn't sleep. What was in there. What I'd learn." She lowered her hands a little; and Thalassa saw that they were shaking, very finely, all the time, the way a sail shakes at the edge of the wind, and that the witch knew it, and had been holding them up so that the shaking would look like something she meant. "I'd have gone in, if she'd asked me. I'd have gone in at sixteen with my own lamp." She looked at the elf. "It isn't mine to want. Don't ask me. Ask him."
-
-The prince was looking at her. He did not say anything. After a moment he turned back to Faelar.
-
-"I'm asking," he said.
-
-Faelar was quiet a long time. Then he said, not to the prince, but to the box, as if it were the one he owed an answer:
-
-"Your grandfather sent us a treaty once."
-
-The prince's head came up.
-
-"And an axe. In the same season." The elf's voice did not change. It was the voice he used for the weather. "I was young. I remember the saws." He looked up, past the bow, at the pale masts standing in the dark round the pool, with the lantern-light going up them a little way and then losing them in the fog. "Those. He wrote that he would spare the wood, and sealed it, and then he came and took. It is worse, to be promised first. Then you know that he knew."
-
-The prince did not look away from him. Thalassa watched him not do it.
+"Your grandfather sent us a treaty once. And an axe. In the same season." His voice did not change; it was the voice he used for the weather. He looked past the bow at the pale masts standing in the dark round the pool. "Those. He wrote that he would spare the wood, and sealed it, and then he came and took. It is worse, to be promised first. Then you know that he knew."
 
 "I know," said the prince.
 
-"So I will ask you something first." Faelar laid his bow down on the deck beside him, carefully, and folded his long hands in his lap. "If I say: give it to me, and I will carry it home in my arms, and the grove will keep it, and you will never have a stone to find us by in the fog except the ones the wood chooses to give you, one at a time, freely, when it has sung on each of them for a season. Will you give it to me?"
+"Then I will ask you one thing first. If I say: give it to me, and the grove will keep it, and you will never have a stone to find us by except the ones the wood chooses to give. Will you?"
 
-"Yes," said the prince.
+"Yes."
 
-"If I say: give it to the engineer, and let him cut his hundred, and the wood will take its chance, as it always has. Will you do that?"
+"And if I say break it, here, on the deck?"
 
-"No." He did not have to think. "It isn't mine to give him."
+"I'd ask you to be sure," said the prince. "But yes."
 
-"If I say: break it, here, now, on the deck, with that hammer I hear on the black ship. Will you do that?"
+Faelar looked at him for a long time. Then at the box.
 
-The prince was silent a moment.
+"A cut branch does not go back on the tree," he said. "Carried home, it would lie in the grove by the stone it was cut from and cry there forever, and the grove would hear it. Broken, it would be a hundred small stones crying instead of one." He laid his hands flat on his knees. "Let it sleep."
 
-"If you say so," he said. "I'd ask you to be sure. But yes."
+"How?"
 
-Faelar looked at him for a long time. Then he looked at the box again, with the two dark hands on its lid; and Thalassa, standing with the sea dripping off her onto the deck and the drops of it hanging round her in the cold like a web after rain, heard the crying through the lead, on and on, one note, without hope and without end; and saw that the elf heard it too, and had been hearing it all day, sitting in the bow with his face as still as the pool.
+The elf turned his head and looked at Thalassa. "Where does a stone sleep? You would know. You live under them."
 
-"A cut branch does not go back on the tree," said Faelar.
+She had known since he laid his hand on the lid.
 
-Nobody spoke.
+"Where it can't hear home," she said. "The hearths talk to each other along the bottom of the sea, by the warm roads. That's how it hears the others." She pointed with her chin, the way Kymon did, west and north into the dark. "At the end of the reef the rock stops, like the wall at the end of a field, and the floor goes down past the road, past any warm water, past any light. Five of your grandfather's ships went down there the first winter. Nobody plays there. No hearth reaches it." She looked at the two burned hands on the lid. "I've never put a stone there. Nobody has. But I've put children to sleep who were crying for a thing they couldn't have. You take them somewhere quiet, where they can't hear it. And you sing."
 
-"If I carry it home it will lie in the grove by the stone it was cut from, and it will cry there. It will cry by its mother's side and not know that it is there, because it is cut, and a cut thing cannot know its own tree. And the grove will hear it. Always." He put his hands flat on his knees. "We will not do that to the grove. And if you break it, you will have a hundred small stones crying instead of one, and you will have to find somewhere to put a hundred." He looked up. "Let it sleep."
+"Then that," said Faelar, the way the elves said things when the song had closed; and leaned back against the stem-post, and shut his eyes.
 
-"How?" said the prince.
-
-The elf turned his head and looked at Thalassa.
-
-"Where does a stone sleep?" he said. "You would know. You live under them."
-
-She had known since he laid his hand on the lid what she was going to say. She had known, perhaps, since the road, since the night the water began to grieve and Proteas came back down the line with his eyes white all round; she had not let herself know it until now.
-
-"Where it can't hear home," she said.
-
-They waited. The dry folk always waited, when she spoke; they had learned that much in a month.
-
-"The hearths talk to each other," she said. "Along the bottom of the sea, under the cold. By the warm roads. That's how it hears the others. That's how the little ones you cut off it hear it." She pointed with her chin, the way Kymon did, west and north, past the bow, past the masts, at the dark. "At the end of the reef the rock stops. All at once, like the wall at the end of a field. And the sea floor goes down. Down past where the road goes, past where any warm water goes, past where there's any light. Five of your grandfather's ships went down there, in the first winter, when the storms came. We know where they lie. Nobody plays there." She was quiet a moment. "It's cold there. It's the coldest water I know. No hearth reaches it. There's no island anywhere near enough to hear. A stone down there wouldn't remember it had an island."
-
-"And it would sleep," said Faelar.
-
-"I think it would sleep."
-
-"You think."
-
-"I've never put a stone there," said Thalassa. "Nobody has." She looked at the box, at the two burned hands on its lid. "But I've put children to sleep who were crying for a thing they couldn't have. You take them somewhere quiet, where they can't hear it. And you sing."
-
-The elf looked at her for a long moment.
-
-"Then that," he said.
-
-He said it the way the elves said things when the song had closed: once, without any more weight on it than on anything else; as if it had always been going to be that, and they had only been waiting for somebody to notice. He picked up his bow and laid it across his knees again, and leaned back against the stem-post, and shut his eyes.
-
-The prince sat where he was a while, cross-legged on the deck by the box. Then he looked up at Thalassa.
+The prince looked up at her from the deck.
 
 "It's your sea," he said.
 
-"Yes," said Thalassa. "It is."
+"Yes. It is."
 
 "Will you take it down?"
 
-She heard the engineer breathe out, behind her, quietly, through his nose; and the old captain shift his weight on the rail; and the witch, by the foremast, say nothing at all, very carefully. Kymon did not move. She felt him not move, at her shoulder, the way you feel a rock not move under your hand in a current.
-
-"You're asking," she said.
+"You're asking."
 
 "I'm asking."
 
-She looked at him. The grey young face in the brown lantern-light, the hand on his knee, the eyes. He had asked the elf. He had asked her. In four winters, she thought, in all the years of the dry folk's war on the roof of the world, with the dead walked into her sea over her roof and the tall ships breaking on the Teeth in the dark and the boats going down in the narrows with the people screaming in them, it was the first time that any one of them had come to the rail and looked down into the water and asked.
+She looked at the grey young face in the brown lantern-light. In four winters of the dry folk's war on the roof of the world, with the dead walked into her sea and the tall ships breaking on the Teeth in the dark, it was the first time any one of them had come to the rail and asked.
 
 "Yes," said Thalassa.
 
-"It's deep," said Kymon, behind her. It was the first thing he had said since he came over the rail. "Colder than the road. Colder than anything." He set the butt of the trident down on the deck, quietly. "I'll go."
+"It's deep," said Kymon behind her. "Colder than anything." He set the butt of the trident down on the deck. "I'll go."
 
-"We'll go," said Thalassa.
+"We'll go."
 
-He looked at her from underneath. Then he did what he had done on the morning of the gap, and on the night of the road, and on the first morning she ever saw him, with his broken nose and his grandfather's trident, on a rock outside a dome that was not there any more. He did not argue. He moved a half-step behind her, and a little to one side, where he could see whatever came at her from underneath.
+He did not argue. He moved a half-step behind her and a little to one side, where he could see whatever came at her from underneath, as he had on the first morning she ever saw him. "At first light," he said. "At the bottom of the ebb. The water's slack then."
 
-"At first light," he said. "At the bottom of the ebb. The water's slack then. It'll go straight down."
-
-"At first light," said the prince. He got up off the deck, slowly, with one hand on the rail, and stood looking down at the box. "Thank you," he said, to all of them, and to none of them; and then, as if he had heard himself and knew it was not the right word, and had no better one: "Thank you."
-
-The old captain unfolded his arms.
-
-"I'll have a lamp at the rail," he said, to nobody in particular, "at the end of the reef. In case anybody wants to know where the ship is, coming up." And he went aft.
+The old captain unfolded his arms. "I'll have a lamp at the rail," he said, to nobody in particular, "at the end of the reef. In case anybody wants to know where the ship is, coming up." And he went aft.
 
 ---
 
 They went down at the bottom of the ebb, in the first grey of the light.
 
-The Grey thinned at dawn, as it always did here at the bottom of the tide, as if it had drawn a breath; and the masts stood up out of the flat water in their dozens, pale, laced with their black stays, with the weed hanging off the rocks at their feet like hair; and the black ship and the dry folk's ships lay among them on the slack, with their lanterns gone yellow and small in the morning, and their people along the rails. Nobody had told the dry folk to come and watch. They had come. She saw the old soldier standing at the binnacle on the *Forward*'s afterdeck with one hand on the post, and the scarred soldier-woman beside him with her two long pale plaits down her back and her spear grounded; and the healer at the rail with the long thin boy beside her holding a basin he had forgotten to put down; and the big man, Rufo, at the waist, grey to the lips, wrapped in somebody's cloak, with the shaking still on him, the shaking that comes after; and all along the rails of the fishermen's ship and the thieves' ship and the long black one, faces. The witch stood at the bow with the prince. She had not slept. Thalassa could see that from the water.
+Nobody had told the dry folk to come and watch. They had come. All along the rails of the ships among the drowned masts there were faces: the big grey soldier on the *Forward*'s afterdeck with the soldier-woman beside him and her two long pale plaits down her back; the healer, with the long thin boy holding a basin he had forgotten to put down, his arm bound; Rufo at the waist, grey to the lips in somebody's cloak. The witch stood at the bow with the prince. She had not slept.
 
-The prince handed the box down over the rail himself, on a line, slowly, hand under hand, with the line burning across his palms; and Kymon took it at the bottom, in the water, in both arms, and held it, and it pulled him down to his chin at once.
-
-"Heavy," said Kymon.
+The prince handed the box down over the rail himself, on a line, hand under hand, and Kymon took it in the water in both arms, and it pulled him down to his chin at once.
 
 "It wants to go down," said Thalassa. "That's the one kindness in it."
 
-She took the jar from Halia. Nerites's jar, with the twist in its neck like a wave going over, and the sea-lights in it bright and blue from their night's feeding. Halia gave it to her without a word and then did not let go of it, for a moment; and then did.
+Halia gave her Nerites's jar, with the twist in its neck and the sea-lights in it bright from their night's feeding, and then for a moment did not let go of it; and then did. The young ones were up on the black rock at the end of the Teeth in the cold air, in a row, like gulls on a mole, which they never did in the sight of the dry folk. Proteas was in the water at the very end of the rock, holding on with one hand, with his face down in the sea, looking over the edge. As she came he lifted his face and laid his hand flat on her breastbone, hard, the way you put your hand on somebody to stop them going over an edge; and held it there; and took it away.
 
-The young ones were on the reef. All of them, out of the warm, up on the black rock at the end of the Teeth in the cold grey air, in a row, with their tridents, like a row of gulls on a mole, which was a thing they never did in the sight of the dry folk; and their breath went up white. Proteas was not with them. He was in the water at the very end of the rock, where it stopped, holding on to it with one hand, with his face down in the sea, looking over the edge.
-
-She swam to him, with Kymon below her and the box in his arms.
-
-Proteas lifted his face out of the water as she came. He looked at her, and at the box in Kymon's arms, and back at her. He did not say anything. He had not said anything since dusk. Then he took his hand off the rock, and laid it flat on her breastbone, hard, the way he had on the road on the night the water began to grieve, the way you put your hand on somebody to stop them going over an edge; and held it there; and took it away.
-
-She did not know what it meant. She did not think he knew. She went over the edge.
+She went over the edge.
 
 ---
 
-The rock stopped.
+The rock stopped, as she had said it did; one moment the weed-hung face of the reef under her hand, the next a lip of stone and the dark going down, and the cold coming up out of it like breath out of a well. They went down, Kymon a little below her with the box, the blue light of the jar making a small round room in the sea around them.
 
-It stopped the way she had said it did, all at once, like the wall at the end of a field: one moment the black weed-hung face of the reef under her hand, and the next nothing, a lip of rock and then the dark going down, and the cold coming up out of it like breath out of a well. She went over the lip with her face down and the jar held out in front of her, and Kymon came after her with the box, a little below, as he always did; and they went down.
+Then the road went out of the water by her cheek, like a door shutting in another part of a house, and there was no warm anywhere. This cold was not the fist of the roof of the world. It was slow and patient and enormous, like the weight of a hill. It did not try to stop your heart. It lay on you, and waited, and was certain. She let her heart slow, and the blood go in from her hands and feet, and held the jar against her breast, and the room of light got smaller.
 
-It was easy, at first. It is always easy at first. The water was the grey-green of the reef-water, cold, but no colder than the sea off the Kettle in the winter; and the box pulled Kymon down and he let it, with the trident on his back and his arms round the lead and his legs barely moving; and she went down beside him with the jar, and the blue light went with them, a small round room of light in the dark sea, the size of a dry folk's cart, moving down.
+Down. Nothing living. No weed. Only the dark, and the silence, and the feeling that grew in her as she went down through them that she had come into a place that had never once been asked to have anyone in it.
 
-Then the warm went.
+Then the light found the first of the five, lying on her side on a slope of grey mud and old shell like a beast lying down on a hillside, pale all over, her ribs showing white through the planking like the ribs of a horse a long time dead on a moor. The second sat upright below her with a rag of sail hanging straight down from her yard in the still water, stitched along its edge with crowned fish in a thread that had been blue once. The third and fourth lay one across the other. And the fifth lay at the very bottom, on a floor of soft grey stuff that lifted at a touch like smoke, upright, with her bow toward the reef as if she had tried to climb back up after the others; and her stern was carved, with big square letters cut deep in the pale wood, the gilt long gone. Thalassa could not read them. Glaukos would have wanted them. *A piece with letters on.* She did not take anything.
 
-She felt the road go out of the water by her left cheek, a last thread of it, like a door shutting in another part of a house; and then there was no warm anywhere. Not along the belly, not on the back. The cold came in from every side at once, a different cold from the cold of the roof of the world. That cold was a fist. This was a slow, patient, enormous thing, like the weight of a hill. It did not try to stop your heart. It did not need to try. It lay on you, and waited, and was certain.
-
-She felt her heart slow. She let it. She felt the blood go in from her hands and her feet and stay in the middle, where it was needed, and her fingers went numb on the jar, and she held the jar.
-
-Down.
-
-The light from the jar went out a little way into the dark and found nothing. No fish. No weed. The sea-lights in the jar crowded to the side of the glass nearest her hand, as they did in the cold, as if the warmth of her could help them; and she held the jar closer, against her breast, and the room of light got smaller.
-
-Down. Her ears hurt, and then they did not hurt, and then they hurt again, deeper, and she swallowed and they cleared. Kymon below her was a dark shape in the edge of the blue, with the pale lead box in his arms like a child, going down steadily, not fast, as if he were walking down a long stair in the dark and knew every step.
-
-She thought of the five.
-
-She had never seen them. Nobody went down here; nobody had any reason to. Proteas had seen them once, the first spring after the storms, when the masts had stopped standing up off the end of the reef and he had come to see where they had gone; and he had come back up white and said they were lying on the slope below the reef like cattle lying down on a hillside, and that he would not go down again; and he had not. She thought she understood now. It was not the dark. The dark was only the dark. It was the cold, and the silence, and the feeling that grew in you as you went down through them that you had come into a place that had never once in all the ages of the sea been asked to have anyone in it.
-
-Then the light found the first of them.
-
-She was lying on her side on a slope of grey mud and old shell, as Proteas had said, like a beast lying down, very big. Bigger, much bigger, than she had looked from the reef when she was a mast. She was pale. All of her. The wood did not rot, and the cold had kept it cleaner than the reef-water kept the others, and she lay there in the edge of the blue light with her ribs showing white through the planking where the sea had taken it, like the ribs of a horse that has been dead a long time on a moor; and her mast, broken off short, lay downhill of her, along the slope, as straight as the day it was cut. There was nothing living on her. There was nothing living anywhere.
-
-They went past her, down. Kymon did not look at her. She did.
-
-The second lay a little below the first, on her keel, upright, as if she were still sailing; with her mast standing, and a rag of sail on her yard, hanging straight down in the still water, not moving at all. Thalassa went by within a spear's length of the rag and saw the weave of it, and the pattern stitched along the edge of it in a thread that had been blue once, crowned fish, a row of them, going round.
-
-The third and the fourth together, one across the other, as if they had come down the slope in a storm side by side and the second had climbed the first.
-
-And the fifth, at the bottom.
-
-At the very bottom, where the slope came down out of the dark into a flat floor of soft grey stuff that was not sand and not mud, that lifted and hung in the water at the touch of a hand like smoke and took a long time to settle. She lay there on it with her bow toward the reef, as if she had tried to come back up the slope after the others and could not; upright, with her deck still on her, and her stern high, and her stern carved. There were letters on it. Big square letters, gilded once, the gilt gone, and nothing living down here to pick them out in white as the creatures of the reef picked out the letters on the hulls above. Only the shapes of them, cut deep, in the pale wood, in the blue light.
-
-She could not read them. She looked at them anyway, for a long moment, with the cold lying on her like a hill. Glaukos would have wanted them. *A piece with letters on.* She thought of him asleep in the hollow with his arms flung out, and of what he would say if he knew she had been here, and she did not take anything.
-
-Kymon set the box down on the fifth ship's deck, at the foot of her mast.
-
-He did it gently, the way he set everything down. The grey stuff came up off the planking round it in a slow cloud and hung, and did not settle. Then he looked at her, across the box, in the blue light; and she gave him the jar, and he held it up; and she put her two hands on the lid.
-
-On the marks. She had not meant to. They were where her hands went: two dark shapes of hands on the dull grey lead, a little smaller than her own, the fingers spread. The witch's. She put her palms where the witch's palms had been, and the cold of the lead came up into them, and then, under the cold, very faint, through the lead, a warmth. Like a hand on the other side of a door.
+Kymon set the box down on the fifth ship's deck, at the foot of her mast. Thalassa put her two hands on the lid, on the marks, because that was where her hands went: the witch's two hands, a little smaller than her own. Under the cold of the lead, very faint, there was warmth, like a hand on the other side of a door.
 
 She slid the lid open.
 
-It was not what she had thought. She had thought there would be light. There was a little. The stone lay in the box on its square of black wool, long and narrow, sawn smooth at one end and rough at the other where it had been broken off something greater, the length of her forearm; gold, with green in it, the green of the sea-grass in the meadows round the vents when the sun comes down through four fathoms in summer and lies on it. And it was warm. The warmth came off it into the cold water like breath off a sleeper's mouth on a winter morning, and she felt it on her face, and wanted to weep.
-
-And it called.
-
-Out of the box, now, with nothing between it and the sea; the one long note, high, thin, like a wet finger round the rim of a glass, going out into the dark in every direction at once. Calling the grove. Calling for something to come and fetch it. She felt it in her teeth, and in the bones behind her eyes, and in her breastbone where Proteas's hand had been; and she saw Kymon shut his eyes on the other side of the box, and hold the jar up, steady, and keep them shut.
+The stone lay on its black wool, the length of her forearm, sawn smooth at one end, gold with green in it, the green of the sea-grass round the vents when the summer sun comes down four fathoms and lies on it; and its warmth came off it into the cold like breath off a sleeper's mouth. And it called: the one long note, high and thin, going out into the dark in every direction at once. She felt it in her teeth and in the bones behind her eyes. Kymon shut his eyes across the box and held the jar up, steady.
 
 It called, and the deep did not answer.
 
-That was the first thing she understood, kneeling on the fifth ship's deck with her hands on the open box. There was nothing down here to answer it. The note went out into the dark and did not come back off anything; it went out and out, and thinned, and was lost, like a voice in a field of snow. No hearth reached here. No road. No island anywhere near enough to hear. The stone called, and listened, as Faelar had said it did; and heard, for the first time since it was cut from its mother in the grove, longer ago than anyone remembered, nothing at all.
+There was nothing down there to answer it. The note went out and did not come back off anything, and thinned, and was lost, like a voice in a field of snow. It called again. Smaller. Puzzled.
 
-It called again. Smaller. Puzzled.
+Then she sang. The song her mother had sung her in the warm dark of a sleeping-hollow under the stair island, on the nights when the dry folk's war was loud on the roof of the world: the old song of the roads, how the hearths talk to each other along the bottom of the sea, slowly, from one island to the next; how everything that is warm is warm because something under it is still burning, a long way down, patiently, for nobody. *Ask the stone*, her mother used to sing at the end, and laugh. *Ask the stone.* She sang it through and began again without stopping, the way you do with a child, so that the end runs into the beginning and there is no place for the crying to come back in.
 
-Then she sang.
-
-She did not decide to. She had told the prince she would, on the deck, and had not known what song. It came up out of her the way the names came, the way it had come in the surf on the black beach: the song her mother sang her, in the warm dark of a sleeping-hollow under the stair island, on the nights when the dry folk's war was loud on the roof of the world and she could not sleep for it. The old song of the roads. How the hearths talk to each other along the bottom of the sea, under the cold, slowly, from one island to the next, as they had talked since before there were merfolk to swim in what they said. How everything that is warm is warm because something under it is still burning, a long way down, patiently, for nobody. *Ask the stone*, her mother used to sing, at the end, and laugh. *Ask the stone.*
-
-She sang it low, under the water, with her hands on the edges of the box and the cold lying on her back; and the drops of the sea did not hang round her here, because she was in the sea, and there was nowhere for them to hang; but she felt them try.
-
-The stone called again. Slower. Further apart.
-
-She sang the song through once, and began again, the way you do with a child, from the beginning, without stopping between, so that the end runs into the beginning and there is no place for the crying to come back in. Kymon knelt across the box from her with his eyes shut and the jar held up, and did not move. The grey stuff hung round them in the water, lit blue.
-
-The note came again. Lower. A long time after the last one. And then a longer time. It came the way a child's crying comes when it is being held at last, in long breaths, each further from the one before, each a little less sure of what it had been crying for. Then there was one more, very small, as if it had remembered something and then forgotten what it was.
+The note came again. Lower. A long time after. Then a longer time, the way a child's crying comes when it is being held at last, each breath further from the one before. Then one more, very small, as if it had remembered something and forgotten what it was.
 
 And then there was not.
 
-She sang to the end of the song, because you finish the song. Then she stopped, and knelt there on the deck of the fifth ship with her hands on the open box and the stone lying in it, warm, gold and green, quite still; and listened.
-
-Nothing.
-
-Not silence. The deep is never silent. There was the slow enormous creak of the cold itself, very far off, and the tick of the grey stuff settling round them at last, one grain at a time, and her own heart, very slow. But the crying had stopped. It had not gone quiet, as it went quiet behind the lead. It had stopped, the way a sleeper's breathing stops being a thing you listen to and becomes a thing that is only there.
+She finished the song, because you finish the song. Then she knelt on the fifth ship's deck and listened, and there was only the slow creak of the cold far off, and the grey stuff settling, and her own heart. The crying had not gone quiet, as it went quiet behind the lead. It had stopped, the way a sleeper's breathing stops being a thing you listen to and becomes a thing that is only there.
 
 The water had stopped grieving.
 
-She knelt there a long time. Long enough that Kymon opened his eyes, and looked at her across the box, and then reached over with his free hand and put it on her wrist; and she felt how cold his hand was, colder than hers, and knew they had been down too long.
-
-She did not shut the lid. She took the box in both hands and lifted it, and turned it, and tipped the stone out of it, gently, onto the deck of the fifth ship at the foot of her mast; and it lay there on the pale wood, the wood of its own island, a long way from home, among masts that had grown on the same island and come to this same water as it had, because of a stone in a box; and it was warm, and it did not call.
-
-She set the box down beside it, open, with the two hands on the lid turned up.
-
-Then she took Kymon's cold hand, and they went up.
+Kymon's cold hand came onto her wrist. They had been down too long. She tipped the stone out of the box onto the pale deck at the foot of the mast, among timbers that had grown on its own island and come to this water because of a stone in a box; and it lay there, warm, and did not call. She set the box beside it, open, with the two hands on the lid turned up. Then she took Kymon's hand, and they went up.
 
 ---
 
-She felt it on the way up. Everyone did.
+She felt it on the way up. Everyone did. Not warmer; the sea was as cold as it had been. But it was only cold now. The grief had gone out of every drop of it, the way the ache goes out of a tooth that has been drawn and leaves you astonished at how much of you it had been using.
 
-In the slope water, going past the fourth ship and the third and the second, and the first lying on her side like a horse on a moor, she felt the sea change round her as it changes round you when you come up out of the cold into the warm road: all at once, everywhere, from the skin in. Not warmer. It was as cold as it had been. But it was only cold now. The grief had gone out of it, out of every drop of it, the way the ache goes out of a tooth that has been drawn, and leaves you astonished at how much of you it had been using.
+And the reef felt it. As they came up over the lip of the rock into the grey-green she heard the young ones on the black rock making a noise she had not heard since before the roof. Halia first, high, breaking; then the others. It was not singing. It was not laughing, not quite, and not crying. It was the noise children make when a thing they have been afraid of for so long that they had stopped knowing they were afraid of it goes away, and they find they do not know what to do with their hands.
 
-Kymon felt it. She saw him feel it, beside her in the blue light, going up; his face changed, from underneath.
+Proteas was where they had left him, with his face in the sea and his eyes shut. She put her hand flat on his breastbone, the way he had put his on hers, and held it there; and after a while, under her hand, she felt him breathe out, long, all the way, the way a man breathes out who has been holding it since the second watch four winters ago.
 
-And the reef felt it. As they came up over the lip of the rock out of the dark into the grey-green, with the cold letting go of them stroke by stroke and the light coming down to meet them, she heard it before she saw them: a sound she had not heard since the morning of the gap, since before the gap, since the autumn, since before the roof. On the black rock at the end of the Teeth, in a row in the cold air like gulls on a mole, the young ones were making a noise. Halia first. She heard Halia's voice, high, breaking. Then the others. It was not singing. It was not laughing, not quite, and not crying. It was the noise children make when a thing they have been afraid of for a very long time, so long that they had stopped knowing they were afraid of it, goes away; and they find that they do not know what to do with their hands.
-
-Proteas was in the water at the end of the rock, where they had left him, holding on with one hand.
-
-He did not lift his face when they came up beside him. He had it down in the sea, still, looking over the edge into the dark where they had gone. Thalassa put her face in the water beside his. He was not looking at anything. His eyes were shut.
-
-She put her hand flat on his breastbone, the way he had put his on hers. She held it there. She did not know if it meant *again*, or *done*, or *I am sorry*, or *you had the children*; she thought, perhaps, it meant all of those, and that he would know which; and after a while, under her hand, she felt him breathe out, long, all the way, the way a man breathes out who has been holding it since the second watch four winters ago.
-
-Then she left him there, and swam to the *Forward*, and came up under her bow.
-
-The prince was at the rail. He had been there, she thought, since they went down. The witch was beside him. Neither of them had a cloak on, and the witch's face was the color of the fog.
+She swam to the *Forward* and came up under her bow. The prince was at the rail, where he had been since they went down, and the witch beside him with her face the color of the fog.
 
 "It's asleep," said Thalassa.
 
-He did not ask her how she knew. That was the second thing she would remember about him, afterward. He looked at her face, in the water, and at Kymon's beside her; and he believed it.
+He did not ask her how she knew. He looked at her face in the water, and at Kymon's, and believed it.
 
 "Will it wake?" said the witch.
 
-"Not there. I don't think so." She thought about it, honestly. "If someone went down and fetched it up, and carried it near enough to an island to hear. Perhaps. Nobody will go down there."
+"Not there. Nobody will go down there."
 
-"No," said the witch. She was looking past Thalassa at the place where the reef stopped. "No. I don't suppose anybody will." And she shut her eyes, and stood there at the rail with her new hands held together against her breast to keep them still, and Thalassa saw her sway, very slightly, and the prince's arm come round behind her without his looking, and stay there, not touching, in case.
+"No," said the witch, looking past her at the place where the reef stopped. "I don't suppose anybody will." She swayed a little, and the prince's arm came round behind her without his looking, and stayed there, not touching, in case.
 
 "What do we owe you?" said the prince.
 
-He said it plainly, as a man asks the price of a thing at a stall. Thalassa looked up at him. The dry folk always wanted to know the price; it was the first thing they asked of anything, the thing they asked before they asked what it was. She had thought, a month ago, lying in the cold off his harbor mouth watching him hold the rail, that it was the worst thing about them. She was less sure now. It was a kind of courtesy, perhaps, in its way. It was a way of saying *I know it cost you something.*
+He said it plainly, as a man asks the price of a thing at a stall. The dry folk always wanted to know the price. She had thought, a month ago, that it was the worst thing about them. She was less sure now. It was a way of saying *I know it cost you something.*
 
 "Nothing," she said.
 
 "That's not an answer."
 
-"It's the true one." She pushed the wet hair back off her face, and the drops of the sea came up off her into the grey air and hung there round her, small and bright, as they always did when she had something to say. "Ask us," said Thalassa. "That's all. Next time. Before you steer for the rocks, and before you fight over our roof, and before you walk your dead into our water, or anybody's. Come to the rail and look down and ask." She looked at him. "That's all we ever wanted. Nobody ever did."
-
-He was quiet a moment.
+"It's the true one." The drops of the sea came up off her into the grey air and hung round her, small and bright, as they always did when she had something to say. "Ask us. That's all. Next time. Before you steer for the rocks, and before you fight over our roof, and before you walk your dead into our water, or anybody's. Come to the rail and look down and ask." She looked at him. "That's all we ever wanted. Nobody ever did."
 
 "I will," he said.
 
@@ -17254,7 +17032,7 @@ He was quiet a moment.
 
 They went home along the road, east, all day, under the ships.
 
-The dry folk went home over them, slowly, with the four ships they had taken following the four they had come in, the black one last and biggest, rowed by her own people on her own benches with the scarred soldier-woman's men walking up and down between them with their long spears; and every ship had its own note, and the taken ones had new notes, sullen, complaining, like dogs on strange leads. The young ones swam in a long loose line behind, in twos, close, and talked all the way, which they had not done coming out; they talked about the fire-ships, and the ring, and the old man who had run down the black ship's deck shouting, and the fat man who could not swim who had said *thank you, madam*, and which of them had been the madam, which was disputed. Halia did not talk. She swam beside Thalassa for a long way without saying anything, with her fingers going now and then to the scratch on her cheek, lightly, as if to be sure it was still there; and once, out of nothing, she said, "He wept," and swam on.
+The dry folk went home over them, slowly, with the four ships they had taken following the four they had come in, the black one last and biggest, rowed by her own people on her own benches with the scarred soldier-woman's men walking up and down between them with their long spears; and every ship had its own note, and the taken ones had new notes, sullen, complaining, like dogs on strange leads. The young ones swam in a long loose line behind, in twos, close, and talked all the way, which they had not done coming out; they talked about the fire-ships, and the ring, and the big grey man who had gone over the black ship's wall shouting, and the fat man who could not swim who had said *thank you, madam*, and which of them had been the madam, which was disputed. Halia did not talk. She swam beside Thalassa for a long way without saying anything, with her fingers going now and then to the scratch on her cheek, lightly, as if to be sure it was still there; and once, out of nothing, she said, "He wept," and swam on.
 
 Proteas swam at the point, with his head down, as he always did. Once, a long way along the road, in the afternoon, she heard him singing. Very low. Not a song she knew. She did not swim up to hear it better.
 
@@ -17376,7 +17154,7 @@ All of it, as far as he could tell; the moles were black with people from the to
 
 Then the *Rope Street* came through the gap between the two towers with her name on her stem in Orso's fresh paint, and the town saw who was rowing her.
 
-He had heard the town make a great many sounds in a month. He had heard it howl on the night of the landing, behind its shutters, and go silent when the Silverwood trunks came in on their rafts, and say *masts* under its breath along the harbor the way a congregation says the last word of a prayer. He had never heard this. It came off the moles all at once, from both sides of the gap, the way a sea comes off a reef: not a cheer, not at first. Names. Every woman on the moles shouting a name, at once, the name of the man she had seen at the oars; and the men at the oars shouting back, and losing the stroke entirely, and the *Rope Street* slewing across the harbor mouth with her oars every which way while Kaeso beat on his drum like a man beating out a fire, and the town roaring at her, and laughing, and weeping, and roaring. She did not ram the mole. She missed it by the length of a boathook, and Orso Netmender, standing on the end of the mole, big and grey as a bollard, leaned out over the water with his arms spread as if he meant to catch her.
+He had heard the town make a great many sounds in a month. He had never heard this. It came off the moles from both sides of the gap, the way a sea comes off a reef: not a cheer, not at first. Names. Every woman on the moles shouting a name, at once, the name of the man she had seen at the oars; and the men at the oars shouting back, and losing the stroke entirely, and the *Rope Street* slewing across the harbor mouth with her oars every which way while Kaeso beat on his drum like a man beating out a fire, and the town roaring at her, and laughing, and weeping, and roaring. She did not ram the mole. She missed it by the length of a boathook, and Orso Netmender, standing on the end of the mole, big and grey as a bollard, leaned out over the water with his arms spread as if he meant to catch her.
 
 "Rope Street," said Valeria, beside Marcus at the rail, under her breath. "The town says go."
 
@@ -17388,15 +17166,15 @@ They had it. Marcus let them have it until the *Rope Street* was alongside the h
 
 The noise did not stop. It changed. He felt it change as they came between the towers, and the town saw the *Forward*, and the people on her deck. He did not know what he had expected. Nothing; or the silence of the masts again. It was not silence. It was a sound like a long breath let out by a great many people at once, and then a voice somewhere on the east mole, a woman's, high and cracked, shouting something he did not catch; and then another; and then the whole mole, and he caught it then, and did not know what to do with his face.
 
-They were not shouting *the prince*. They were not shouting *Prefect*. They were shouting the names of the forty. Somebody on the *Rope Street* had told them, in the time it took her to come alongside, what the old man had roared down the black ship's deck, and whose names; the fishermen had heard it across the pool, every one. And the town knew the names already, from a month of thieves living among them, and it shouted them across the water at the *Forward* the way the old man had shouted them down the *Audit*'s deck. *Vatinius! Ear! Florus!* Somebody shouted *Florus!* and a great many people laughed, the way people laugh at a funeral when they have been holding it for a long time; and Florus, at the *Forward*'s rail, wrapped in a blanket, still grey from the sea, lifted one hand very slowly and waved it, like a bishop.
+They were not shouting *the prince*. They were not shouting *Prefect*. They were shouting the names of the forty. Somebody on the *Rope Street* had told them, in the time it took her to come alongside, what the General had roared down the black ship's deck, and whose names; and the town knew the names already, from a month of thieves living among them, and shouted them across the water at the *Forward* the way he had shouted them. *Vatinius! Ear! Florus!* Somebody shouted *Florus!* and a great many people laughed, the way people laugh at a funeral when they have been holding it for a long time; and Florus, at the *Forward*'s rail, wrapped in a blanket, still grey from the sea, lifted one hand very slowly and waved it, like a bishop.
 
 Then they saw the black ship.
 
-She came in last, on the end of the *Remainder*'s tow, rowed by her own people on her own three banks, with the Lanciarii walking up and down her gratings between the benches with their spears; long and low and murderous and beautiful, with her scorpion's tail of a stern standing up over the water and the gilt book on it, open. She had sat off this harbor five days ago in the fog with her oars run in while the dead came up the slipways. The town had looked at her for two days from these moles, and known what she was.
+She came in last, on the end of the *Remainder*'s tow, rowed by her own people on her own three banks, with the Lanciarii walking up and down her gratings between the benches with their spears; long and low and murderous and beautiful, with her scorpion's tail of a stern standing up over the water and the gilt book on it, open.
 
 The noise went out of the moles as she came between the towers, all at once, the way a fire goes out when the roof falls in. Nobody shouted anything. They stood on the moles with their lanterns, and watched her come in, slowly, past them, so close under the east mole that a man could have stepped from it onto her rail, with her people pulling at her oars and not looking up; and nobody threw anything, and nobody said anything, and nobody moved.
 
-Old Baebius was on the slip quay, with his forty of the Lanciarii drawn up behind him in two ranks with their spears shouldered, as he had been when they came home from Silverwood. Very correct. Very still. The lantern on the bollard beside him made his old face look carved.
+Old Baebius was on the slip quay, with his forty of the Lanciarii drawn up behind him in two ranks with their spears shouldered, as he had been when they came home from Silverwood. Very correct. Very still.
 
 "Captain," he said to Valeria, as she came down the *Forward*'s plank.
 
@@ -17406,7 +17184,7 @@ Old Baebius was on the slip quay, with his forty of the Lanciarii drawn up behin
 
 "Well done, Baebius."
 
-The old man's eyes went past her, to Marcus coming down the plank behind her, and then past Marcus to the harbor, where the four prizes lay on the black water in the dusk with the Lanciarii on their decks and the lanterns coming on along their rails one by one; and then out past them, through the gap, at the Grey. He looked at the Grey a long time. Then he looked at Marcus.
+The old man's eyes went past her, to Marcus, and then out through the gap at the Grey. He looked at it a long time.
 
 "They say you found the old fleet," he said.
 
@@ -17428,7 +17206,7 @@ Baebius nodded slowly, several times, as old men do when they are putting a thin
 
 There were four hundred and twelve of them. The Lanciarii took them off the black ship's plank, and the galleys', in the dark, one at a time, and came up one short, and went back, and found the last of them asleep under a bench in the *Tithe*'s bilge, where he had been since the morning; and woke him, and brought him up blinking into the lanterns, and the file was whole.
 
-Orso Netmender came up from the hard while they were still coming off, with his face still wet in his beard, and stood by Marcus at the slip-head and watched the file go by in the lantern-light toward the yards: rowers, mostly, in their sea-shirts, barefoot, grey with cold and fear; and marines in what was left of their red cloaks; and a few in black, from the Navarch's own household, clerks and stewards, who walked in a little knot together with their heads up and looked at nothing.
+Orso Netmender came up from the hard with his face still wet in his beard, and stood by Marcus at the slip-head and watched the file go by toward the yards: rowers, mostly, barefoot, grey with cold and fear; marines in what was left of their red cloaks; and a little knot of clerks and stewards in black from the Navarch's household, who walked with their heads up and looked at nothing.
 
 "Four hundred," said Orso, the way a man says the weight of a stone he has just been handed.
 
@@ -17436,7 +17214,7 @@ Orso Netmender came up from the hard while they were still coming off, with his 
 
 "I don't know," said Marcus. "It's your town." He looked at the old netmender. "What does the town say?"
 
-Orso looked at him for a long moment, with his scarred hands still held out in front of him, weighing. Then he put them down.
+Orso looked at him, with his scarred hands still held out in front of him, weighing. Then he put them down.
 
 "The town'll have to sit on it," he said slowly. "On the gatehouse roof. Tomorrow, if the fog lets us." He sniffed. "It'll say feed them if they work. And keep them out of the Rope Street. And lock up the clerks." He watched the knot of black-coated men go by with their heads up. "Especially the clerks."
 
@@ -17464,21 +17242,21 @@ The Baths were full.
 
 They had been full since the thirtieth day, and the healer had not been out of them except to sail; and now she was back in them, and they were fuller. Marcus came in out of the cold behind the last of the stretchers, into the warm and the steam and the smell of vinegar and blood and the green iron of the spring, and stood inside the door with his back to the wall where he would be out of the way, and looked.
 
-The great room of the old Baths went up into the dark over his head, with the painted fish swimming round the ceiling in the lamplight, blue and gold and peeling, the way they had swum for two hundred years over the bathers of Cyrene; and under them, on the benches along the walls and on pallets on the floor and on the old marble slabs where the bath-slaves had once oiled the town's merchants, lay the hurt. Tharsians and Aeridans, side by side, as Liora laid them, by what was wrong with them and not by whose they were. The spring ran down its stone channel in the middle of the floor, steaming. Hostus the barber went between the pallets with his bowl and his little knives, humming. And at the far end, by the channel, the long thin boy Sennius stood with a lamp held up high in one hand and a basin in the other, and his big red hands quite steady, while the healer knelt on the floor in front of him over a man's leg.
+Under the painted fish on the ceiling, on the benches and the pallets and the old marble slabs, lay the hurt. Tharsians and Aeridans, side by side, as Liora laid them, by what was wrong with them and not by whose they were. The spring ran down its stone channel in the middle of the floor, steaming. Hostus the barber went between the pallets with his bowl and his little knives, humming. And at the far end, by the channel, the long thin boy Sennius stood with a lamp held up high in one hand and a basin in the other, and his big red hands quite steady, while the healer knelt on the floor in front of him over a man's leg.
 
-The man was Tuccius. He had come up from the *Forward* on his own feet, between two of the lanciarii, with his thigh bound and his broken nose in the air, swearing at them in a steady low voice that did not repeat itself, because they would not let go of him. The healer had closed the wound on the deck at the Teeth, Marcus knew, and been too spent to do the rest; and he had not stopped swearing when they put him down, or when she cut off the binding, or when she warmed her hands at the brazier and put them flat on his thigh above the pink seam and shut her eyes. He stopped then. Marcus saw the faint red-gold come up along the rims of her fingers, the way it did, so faint you could tell yourself it was the lamp.
+The man was Tuccius. He had sworn at the two lanciarii who carried him up because they would not let go of him, and had not stopped swearing until the healer warmed her hands at the brazier and put them flat on his thigh above the pink seam. He stopped then. Marcus saw the faint red-gold come up along the rims of her fingers, the way it did, so faint you could tell yourself it was the lamp.
 
 Marcus looked away from them.
 
 Sylara was on the slab by the far wall, where she had been when they sailed.
 
-She was sitting up. That was the first thing. On the thirtieth day she had not been able to lift her head, and on the night they sailed she had still been lying down with her arm bound to her side; and now she was sitting up against a roll of blankets with her back to the wall and both arms free, and nothing left of the beating in her face but a shadow of yellow along the cheekbone, which is the color of hope in a face, the healer said, if anything is. Her braid lay forward over her shoulder, long and fair and plaited tight the wardens' way, down past her breast to the blanket; and near the top of it, worked into the thick of the plait where anyone could see it, there was a lock of dark hair that was not hers. She was watching the door.
+She was sitting up, which was the first thing, against a roll of blankets with her back to the wall and both arms free, and nothing left of the beating in her face but a shadow of yellow along the cheekbone, which is the color of hope in a face, the healer said, if anything is. Her braid lay forward over her shoulder, long and fair and plaited tight the wardens' way, down past her breast to the blanket; and near the top of it, worked into the thick of the plait where anyone could see it, there was a lock of dark hair that was not hers. She was watching the door.
 
 She had been watching it, Marcus thought, since the fort bell rang.
 
 Rufo came in past him.
 
-He came in last of the forty, behind the stretchers, with Ear on one side of him and Vatinius on the other, the way two men walk beside a third who has drunk too much, close, not touching, in case; and he was grey to the lips, with the shaking still on him that had been on him since the black ship's steering-deck, the cold that comes after. He had eaten a loaf and a half at the Teeth, and most of a cheese, and a cold leg of mutton down to the knuckle, and been sick, and eaten again; and then slept in the *Forward*'s waist under three cloaks from the moment the reef went astern until the towers came out of the fog, like a dead man. He did not look at the healer, or the hurt, or the painted fish. He walked down the long room between the pallets as Marcus had seen him walk down the *Audit*'s deck, the way a man walks through a crowded market toward somebody he has seen at the far end of it; and Ear and Vatinius stopped halfway, without a word to each other, and let him go on alone.
+He came in last of the forty, behind the stretchers, with Ear on one side of him and Vatinius on the other, the way two men walk beside a third who has drunk too much, close, not touching, in case; and he was grey to the lips, with the shaking still on him that had been on him since the black ship's steering-deck, the cold that comes after. He did not look at the healer, or the hurt, or the painted fish. He walked down the long room between the pallets as Marcus had seen him walk down the *Audit*'s deck, the way a man walks through a crowded market toward somebody he has seen at the far end of it; and Ear and Vatinius stopped halfway, without a word to each other, and let him go on alone.
 
 He stopped by the slab.
 
@@ -17498,7 +17276,7 @@ She put out her hand and laid it flat on the sheath. Not on the hilt. On the she
 
 "Sit," said Sylara.
 
-Rufo sat. He sat down on the floor where he stood, all at once, the way a man sits who has been told he may; with his back against the side of the slab, under her hand, and his legs out in front of him across the floor, and his head back against the edge of the marble. And Marcus watched the elf's hand come off the knife and go to his head, to the place above his ear where the hair had been cut short, with a knife, on the night they sailed; and rest there.
+Rufo sat. He sat down on the floor where he stood, the way a man sits who has been told he may; with his back against the side of the slab, under her hand, and his legs out in front of him across the floor, and his head back against the edge of the marble. And Marcus watched the elf's hand come off the knife and go to his head, to the place above his ear where the hair had been cut short, with a knife, on the night they sailed; and rest there.
 
 He was asleep before her hand had settled. Marcus saw his chest go, and his mouth come open, and the shaking go out of his hands on the floor like water out of a sieve.
 
@@ -17556,7 +17334,7 @@ After a while she opened her eyes.
 
 "Will you get it?"
 
-He got it. He lit the lamp from the coals, and sat down again on the end of the bed with the weather-book open on his knee at the place where it fell open, which was the place where the spine had been bent back on the morning of the thirty-third day, on the *Forward*'s deck, in the bow, and never closed properly since. Her small square hand went down the margin in columns, figures, bearings, the baseline; and at the bottom, the last line, trailing off the edge of the page where the pen had come off it:
+He got it. He lit the lamp from the coals, and sat down again with the weather-book open on his knee where it fell open, at the morning of the thirty-third day. Her small square hand went down the margin in columns, figures, bearings, the baseline; and at the bottom, the last line, trailing off the edge of the page where the pen had come off it:
 
 *The stern bearing was*
 
@@ -17564,7 +17342,7 @@ He looked at it. He had looked at it for most of the thirty-third day, inside hi
 
 "Write," said Alana. "Mine won't hold a line."
 
-He found her pen in its case, and the little horn of ink, and dipped. His hand shook. It had been shaking since the *Audit*, on and off, in the way the healer said it would for a few days, like a horse that has been worked too hard; and the pen-nib went down on the page and made a blot, and he swore.
+He found her pen in its case, and the little horn of ink, and dipped. His hand shook. It had been shaking since the *Audit*, on and off; and the pen-nib went down on the page and made a blot, and he swore.
 
 "Your hand is terrible," said Alana.
 
@@ -17576,9 +17354,9 @@ He found her pen in its case, and the little horn of ink, and dipped. His hand s
 
 "I took the stern bearing at the binnacle a quarter of a glass before. It's there, three lines up, in my hand. Pilots never write a figure twice. Write *as above*."
 
-He wrote *as above*, after *The stern bearing was*, in his bad hand that went up and down like a drunk man's. It looked strange there, in the line of her neat small square letters; like a man in muddy boots walking into a lecture-hall.
+He wrote *as above*, after *The stern bearing was*, in his bad hand that went up and down like a drunk man's.
 
-"Now the difference," said Alana. She gave it to him: a figure, in fingers and parts of a finger, that she had in her head as clearly, he thought, as she had had it on the deck at the Teeth, with the stone in her left hand and the white door folding open in the air in front of her. He wrote it. "And the range from that, on the baseline, is—" She stopped. He saw her lips move, very slightly, as they had moved over the spines.
+"Now the difference," said Alana. She gave it to him, in fingers and parts of a finger, out of her head. He wrote it. "And the range from that, on the baseline, is—" She stopped. He saw her lips move, very slightly, as they had moved over the spines.
 
 "Six hundred and sixty paces," said Marcus.
 
@@ -17598,7 +17376,7 @@ Alana lay still on the pillow. Then her face did something he had not seen it do
 
 "*Range, six hundred and sixty paces*. And under it: *Faelar, six hundred and eighty*." She shut her eyes. "And under that: *The elf was out by twenty*."
 
-He wrote it. All three lines, in his drunk man's hand, under her columns. He blotted it with his sleeve, which was the wrong thing to do with a weather-book and he knew it and she did not open her eyes to stop him.
+He wrote it. All three lines, in his drunk man's hand, under her columns.
 
 "Is that all?" he said.
 
@@ -17611,8 +17389,6 @@ He wrote it. *Sextus.* By itself, at the bottom of the page, under the elf who w
 "Who was he?"
 
 "The porter's boy. At Corvus. He carried my books up the tower stair, every day, for four years, because the porter said a lady shouldn't. He was nine when they gave me the tower, and thirteen when it burned. He used to read the spines on the way up and ask me what they meant." She did not open her eyes. "He went past me, in the white, going the other way. Glad to see me. He said *Chair*—" She stopped. "She'd had him two years, on that thread. I didn't know. I didn't ask what happened to the porters' children. I got out with a book, and I never once asked."
-
-He looked at the name a while longer. *Sextus.* Six letters in his bad hand, with the *x* heavier than the rest, where the shaking had gone out of it.
 
 He laid the pen in the fold of the book. Then he put his hand inside his tunic and found her hairpin, where it had been since the dune, and turned it in his fingers, as he did whenever his hands were idle.
 
@@ -17644,13 +17420,13 @@ He nodded. He found that he had known it.
 
 There was nothing in any of the languages he knew that would have been the right thing to say to that. There was only the true thing, in the plainest of them, which he had not said on the black beach, or on the dune with her hand flat on his chest, or at the binnacle with a hand's breadth of brass between them; and he found that he was tired of not saying it.
 
-He closed the weather-book on the pen, to keep the place, and set it on the floor by the bed. Then he got up off the end of the bed and came round and sat down again by her head, on the edge of the mattress, where he could see her face. The lamp was behind him. His shadow fell across her, and he leaned out of it, so that the light lay on her again: the dark heavy hair come down out of its pins all over the pillow, and the long pale throat, and the dark brows drawn together the way they drew together over a sum; the tear-tracks dry at the corners of her eyes, and no ink on her anywhere, for the first time since he had known her. She had on a shirt of his that somebody had found for her on the *Forward*, too big, open at the neck, and the lamp went in at the neck of it and lay in the hollow of her collarbone like water in a cup. He had thought her beautiful on the dune, and in the loft, and in a violet gown five years ago without once letting himself know it. He had not seen her like this, with nothing held up in front of her at all. The room smelled of lamp-oil, and of her, and of the sea coming in at the shutter.
+He closed the weather-book on the pen, to keep the place, and set it on the floor by the bed. Then he got up off the end of the bed and came round and sat down again by her head, on the edge of the mattress, where he could see her face. The lamp lay on her: the dark heavy hair come down out of its pins all over the pillow, the long pale throat, the brows drawn together the way they drew together over a sum, and no ink on her anywhere, for the first time since he had known her. She had on a shirt of his, too big, open at the neck, and the lamp lay in the hollow of her collarbone like water in a cup. He had not seen her like this, with nothing held up in front of her at all.
 
 "The last time I said anything of yours out loud," he said, "I did it in a voice. For a table."
 
 Her eyes opened.
 
-"This isn't yours. It's mine. And there's no table." He had thought his hand would shake, and it did not. He looked down at it, with her hairpin in it, and it was as steady as Nerva's on the tiller. "I love you, Alana."
+"This isn't yours. It's mine. And there's no table." He looked down at his hand, with her hairpin in it, and it was as steady as Nerva's on the tiller. "I love you, Alana."
 
 She lay quite still.
 
@@ -17710,7 +17486,7 @@ Not all at once. It went out of them the way a tremor goes out of a deck when th
 
 He laughed, and she pulled him down by the neck, and kissed him.
 
-He was careful. He was careful the way a man is careful with a thing he has nearly lost once already: with her mouth, and with the buttons of the borrowed shirt, one at a time, which took a great while, because he kept stopping to look at what each one let the lamp see. The hollow at the base of her throat. The curve of her breast, white in the lamplight, the nipple drawn tight and dark in the cold that came off the shutter. He put his mouth there, and she drew a long breath and held his head to her with both her steady new hands in his hair, and said his name; and then, precisely, the way she would have corrected a bearing, "Lower"; and he went lower, and pushed the blanket down off her, and the shirt with it, and she lay there in the lamplight with nothing on her but the light, and lifted her hips to let him have the rest.
+He was careful: with her mouth, and with the buttons of the borrowed shirt, one at a time, which took a great while, because he kept stopping to look at what each one let the lamp see. The hollow at the base of her throat. The curve of her breast, white in the lamplight, the nipple drawn tight and dark in the cold that came off the shutter. He put his mouth there, and she drew a long breath and held his head to her with both her steady new hands in his hair, and said his name; and then, precisely, the way she would have corrected a bearing, "Lower"; and he went lower, and pushed the blanket down off her, and the shirt with it, and she lay there in the lamplight with nothing on her but the light, and lifted her hips to let him have the rest.
 
 "You're being careful," she said after a while, not quite steadily.
 
@@ -17746,25 +17522,21 @@ Then he got up, quietly, and found his boots.
 
 ---
 
-The fog had come in over the moles in the last hour of the night, the Lanciarii sentry at the gate-tower said, all at once, like a tide over a sandbar; and it lay on Cyrene now from the water to the fort, so thick that the sentry could not see the point of his own spear. The harbor bell was ringing for it, slowly, one stroke and a long wait and one stroke, to tell any fool on the water where the moles were. Nobody was on the water. Nobody would be. No ship would go in or out of that gap today, nor any boat, nor any merfolk with any sense; and the cohort, which had come home from a sea-fight the evening before and been told by its officers that it would sail again the moment the prizes were fit, had looked out of its windows at the white and gone back to bed.
+The fog had come in over the moles in the last hour of the night like a tide over a sandbar, so thick that the sentry at the gate-tower could not see the point of his own spear. The harbor bell was ringing for it, one stroke and a long wait and one stroke. No ship would go in or out of that gap today; and the cohort had looked out of its windows at the white and gone back to bed.
 
-There was nothing to do. Nobody was going anywhere.
-
-Marcus stood in the gate-tower arch with the fog going past him into the courtyard in slow wet coils, and the bell ringing, and the sentry's breath smoking, and thought about a wall at dusk on a black headland, a month ago, with a fort to hold and two hundred thieves on the beach; and an old man on the wall beside him, holding his eyes.
+Marcus stood in the gate-tower arch with the fog going past him into the courtyard in slow wet coils, and the bell ringing, and the sentry's breath smoking, and thought about a wall at dusk on a black headland, a month ago, with a fort to hold and two hundred thieves on the beach; and the General on the wall beside him, holding his eyes.
 
 *Ask me on a day when there's nothing else to do afterward but sit with it.*
 
 He went to the stable.
 
-It was in the old garrison block under the north wall, a long low room of stalls with a loft over it, warm with horse and dry straw and the green iron smell of the spring that came up under the whole fort; and it was dark, and the fog had got into it and lay along the floor between the stalls like milk. Tam the stable-boy was asleep in the straw by the door, rolled in a horse-blanket, with one bare foot sticking out. The chestnut from the *Tally* put its head over its door as Marcus came in, and looked at him, and blew, and took its head in again.
+It was a long low room of stalls under the north wall, warm with horse and dry straw, and the fog had got into it and lay along the floor between the stalls like milk. Tam the stable-boy was asleep in the straw by the door, rolled in a horse-blanket, with one bare foot sticking out.
 
 The lamp was lit in the last stall.
 
 Roderic was grooming the mare.
 
-He stood at her near shoulder in his shirtsleeves with the brush in one hand and the curry-comb in the other, working back from her neck in long strokes with his weight behind them; and he bent when he needed to, for the foreleg, and straightened again, without a hand on anything. Marcus had seen him stand and bend like that a dozen times since the Baths, and still could not get used to it. For as long as Marcus could remember, the old man had got down off a horse as if the ground were further off than it looked. Thistle stood with her head low and her ears soft and let him, and now and then swung her nose round and blew on his shoulder, to see that he was still there.
-
-Somebody had brought him a stool. He had not used it. It stood in the straw by the manger with his cloak folded on it.
+He stood at her near shoulder in his shirtsleeves, a head taller than the partition, with the brush in one hand and the curry-comb in the other, working back from her neck in long strokes with the whole weight of his shoulders behind them; and he bent for the foreleg and straightened again without a hand on anything, easy as a man half his age. Thistle stood with her head low and her ears soft and let him, and now and then swung her nose round and blew on his shoulder, to see that he was still there.
 
 Marcus stood in the door of the stall.
 
@@ -17786,9 +17558,9 @@ Roderic stood with it flat on the mare's shoulder a moment longer. Then he hung 
 
 "I'm sober. I've been sober a long time."
 
-"I know." The old man looked at him then, for the first time, with the lamplight on the side of his face and the fog behind Marcus in the door of the stall. "I've been counting."
+"I know." Roderic looked at him then, for the first time, with the lamplight on the side of his face and the fog behind Marcus in the door of the stall. "I've been counting."
 
-Neither of them said anything for a while. The mare pulled a wisp of hay out of the net by the old man's head and ate it, slowly, with a sound like somebody tearing linen a long way off. The harbor bell rang, out in the white, once; and they waited for the next stroke, both of them, without knowing that they were waiting, until it came.
+Neither of them said anything for a while. The mare pulled a wisp of hay out of the net and ate it, slowly. The harbor bell rang, out in the white, once.
 
 "Whose order was it?" said Marcus.
 
@@ -17798,7 +17570,7 @@ It was folded small, the size of a palm, gone soft at the folds and brown along 
 
 Marcus did not take it.
 
-He did not need to open it. He could see the hand from where he stood, through the back of the paper, where the ink had bitten through: short lines, pressed hard, the pen nearly through at the end of every word, as if each one were a stake driven into frozen ground. He had seen that hand over his shoulder at nine years old, correcting his sums. He had seen it on the outside of every letter that came home from the islands to the king, and never to him; on the reports the council read out in the hall, the ones that sent the Ninth to Vessa. He would have known it in the dark.
+He did not need to open it. He could see the hand from where he stood, through the back of the paper, where the ink had bitten through: short lines, pressed hard, the pen nearly through at the end of every word, as if each one were a stake driven into frozen ground. He had seen that hand over his shoulder at nine years old, correcting his sums. He would have known it in the dark.
 
 He took it. His hands opened it. He watched them do it.
 
@@ -17816,7 +17588,7 @@ He took it. His hands opened it. He watched them do it.
 
 The bell rang.
 
-Marcus read it again. It did not change. It said the same thing the second time, in the same hand, with the same blot at the end of *hate* where the pen had stopped and gone through.
+Marcus read it again. It did not change. There was a blot at the end of *hate* where the pen had stopped and gone through.
 
 "He told you to burn it," he said. His voice came out strange.
 
@@ -17832,7 +17604,7 @@ The mare blew.
 
 "And Tiberius."
 
-"Tiberius had it from me, on the island, on the eve. Not that." He nodded at the paper. "An order of my own, in my own words, under my own seal. I wasn't going to have the heir's hand found on a dead centurion at the top of a stair. So I gave him mine, and kept his." The old man's voice did not change. It was the voice he used on the drill-ground, flat and carrying, with no weight hung on it. "Titus found the surgeon. Titus found the bottle. Tiberius did the rest his own way: a lie about a flanking move, and Nerva, and the cup. And then he went back up the stair."
+"Tiberius had it from me, on the island, on the eve. Not that." He nodded at the paper. "An order of my own, in my own words, under my own seal. I wasn't going to have the heir's hand found on a dead centurion at the top of a stair. So I gave him mine, and kept his." Roderic's voice did not change. It was the voice he used on the drill-ground, flat and carrying, with no weight hung on it. "Titus found the surgeon. Titus found the bottle. Tiberius did the rest his own way: a lie about a flanking move, and Nerva, and the cup. And then he went back up the stair."
 
 "*Get the boy off this rock, Aulus,*" said Marcus. "*However you have to.*"
 
@@ -17842,7 +17614,7 @@ Marcus stood with the paper in his hands.
 
 "And my father," he said.
 
-"Your father believed what the first ship said, same as the city. That you'd gone down to the boats before the end." Roderic did not look away from it. "When Nerva came in with you asleep in his hold, the council sent the warrant up the hill, and your father signed it that evening. In anger. I'd been a day in the city with my mouth shut. That night I went up and told him."
+"Your father believed what the first ship said, same as the city. That you'd gone down to the boats before the end." "When Nerva came in with you asleep in his hold, the council sent the warrant up the hill, and your father signed it that evening. In anger. I'd been a day in the city with my mouth shut. That night I went up and told him."
 
 "All of it."
 
@@ -17854,7 +17626,7 @@ Marcus stood with the paper in his hands.
 
 "And you said yes."
 
-"I said *Majesty*. It's not the same word." The old man's mouth moved, not quite a smile. "It's taken me three years to find the day."
+"I said *Majesty*. It's not the same word." Roderic's mouth moved, not quite a smile. "It's taken me three years to find the day."
 
 Marcus said nothing.
 
@@ -17872,7 +17644,7 @@ Roderic looked down at his hands.
 
 Marcus did not move.
 
-He stood in the door of the stall with the fog behind him and the lamp in front of him and the old man leaning on the grey mare in the straw, and her breath going up between them in the cold; and he found that he could not feel his hands. It was not the shaking. The shaking had stopped some time in the night, about the *x* of a dead boy's name. It was something else. He looked down, and his hands were fists, both of them, and his brother's paper was crushed in one of them, and he had not felt them do it; and he thought, from a long way off, *not again*, and opened them, and smoothed the paper flat with his thumb, carefully, because it was Titus's.
+He found that he could not feel his hands. He looked down, and they were fists, both of them, and his brother's paper was crushed in one of them; and he thought, from a long way off, *not again*, and opened them, and smoothed the paper flat with his thumb, carefully, because it was Titus's.
 
 "Ninety-one," he said.
 
@@ -17880,29 +17652,29 @@ He stood in the door of the stall with the fog behind him and the lamp in front 
 
 "He bought me out." He heard his own voice say it, quite quietly, the way a man reads a figure off a slate. "Out of a battle that ninety-one other men's sons didn't leave. He was the only one. The only one in that whole city who ever fought to keep me alive. And I was in the Lantern with my face on the table while he held the ford at Hollowmere." His voice had not risen. He did not know what was keeping it down. "And my father knew. He knew the whole of it, and he let them call me a coward in his own hall for three years. And then he stood by Titus's bier and agreed, in front of the whole court, that a penal cohort *can't* take Cyrene. I heard him. *It can't.* And sent me to find out."
 
-The old man held his eyes. He did not say anything else. He did not need to. He stood in the straw with his back against the mare, fifty-two years old and wounded nine times and two wives buried, straight as a lance because at last he could be, with the dust of her coat on his sleeves; and let the boy look.
+Roderic held his eyes. He did not say anything else. He did not need to. He stood in the straw with his back against the mare, fifty-two years old and wounded nine times and two wives buried, straight as a lance because at last he could be, with the dust of her coat on his sleeves; and let the boy look.
 
 Marcus turned round and went out of the stall.
 
-He did not say anything. He did not know what he would have said. He went past the chestnut's door and past Tam asleep in the straw with his bare foot out, with his brother's paper inside his shirt against his ribs, and out of the stable into the white; and the fog took him at once, so that by the time he was three paces from the door he could not see it; and behind him, in the last stall, in the lamplight, he heard the old man take the brush down off its peg, and the mare shift her weight, and the long strokes begin again.
+He went past Tam asleep in the straw, with his brother's paper inside his shirt against his ribs, and out into the white; and the fog took him at once; and behind him, in the last stall, he heard the General take the brush down off its peg, and the mare shift her weight, and the long strokes begin again.
 
 ---
 
 He did not remember, afterward, how he came to the slips.
 
-He walked. He knew that. He walked along the inside of the north wall in the white with his hand on the stones, because there was nothing else to steer by, and down the long stair to the town, and through the town, which was shut up and silent and dripping, every shutter closed and every door, with the fog standing in the lanes like water in a ditch; and he walked fast, and then faster, and at some point he was very nearly running, down a lane he did not know, with his breath sawing in his chest, and he made himself stop, and stood there in the middle of the lane with his hands on his knees.
+He walked along the north wall in the white with his hand on the stones, and down the long stair, and through the town, shut up and dripping, with the fog standing in the lanes like water in a ditch; and he walked fast, and then faster, and at some point he was very nearly running, and he made himself stop, and stood in the middle of a lane he did not know with his hands on his knees.
 
 *He bought me out.*
 
-He thought about the stair. He had not let himself think about the stair, not properly, not in order, for three years; he had thought about the cup. The cup, and the seaman's hand holding it out across the pitching deck, and *drink this, Centurion, it's cold out on the water*. He had built a whole house round the cup, room by room, with the wine, and lived in it, and called the house Tiberius, and hated it. And the house was the wrong house. It had always been the wrong house. There was another one, up a hill, with a long table in it and the lamps smoking over the maps and the council shouting at one end; and at the other end, where nobody was shouting, his brother with his head down over a sheet of paper, writing, pressing so hard the pen went nearly through.
+For three years he had not let himself think about the stair; he had thought about the cup. He had built a whole house round the cup, room by room, with the wine, and lived in it, and called the house Tiberius, and hated it. And it had always been the wrong house. The right one was up a hill, with a long table in it and the council shouting at one end; and at the other end, where nobody was shouting, his brother with his head down over a sheet of paper, pressing so hard the pen went nearly through.
 
 And Roderic at the hearth with his sea-cloak on, waiting to carry it.
 
-He took the paper out of his shirt and looked at it in the white, though there was not light enough to read it and he did not need to. *Let it be someone he can afford to hate.* He put it back.
+*Let it be someone he can afford to hate.*
 
-And then three years. Three years of the old man watching him drink. Three years of the Lower Canal and the Drowned Lantern and the Fishmarket Steps, of Felix fishing him out of taverns, of the court laughing behind its hands at the king's younger son; and the old man knowing. And saying nothing. And coming down to the quay on the morning after Titus's funeral, when the boy was being sent off to die with two hundred thieves, and getting into the boat with him.
+And then three years of Roderic watching him drink, and knowing, and saying nothing; and coming down to the quay on the morning after Titus's funeral, when the boy was being sent off to die with two hundred thieves, and getting into the boat with him.
 
-He knew, standing in the lane with his hands on his knees, whom he was angry at. He had thought it would be a great many people. It was not. It was simple, the way the worst things are. Titus had been the only one: the only one in that whole city who had fought to keep him alive, with a pen and a cutter and a lie he had kept to the end; and Marcus had paid him for it in wine, and had been in the Drowned Lantern with his face on the table on the night his brother held the ford at Hollowmere and did not come back from it. That was the first thing, and it was not anger. It was worse than anger. The second was his father. His father had known all of it, from the first night, and had let the whole city call his son a coward in his own hall for three years rather than say one word; and then, when there was nothing left of the boy worth the trouble of keeping, had looked at him across the wreck of a funeral feast and written him off. *You will take it back, or you will not come back.* He had meant it. Marcus had heard him mean it.
+He knew, standing in the lane, whom he was angry at. It was simple, the way the worst things are. Titus first, and that was not anger; it was worse than anger. And his father, who had known all of it from the first night, and had let the whole city call his son a coward in his own hall, and then looked at him across the wreck of a funeral feast and written him off. *You will take it back, or you will not come back.* He had meant it.
 
 It burned in him like a fire in a ship's hold with the hatches shut, and there was nothing in the lane to hit.
 
@@ -17910,7 +17682,7 @@ He straightened up.
 
 The lane went down. He could hear water at the bottom of it, and the knock of wood on wood, and a man's voice, low, saying something about a bevel. He went down toward it.
 
-The slips came up out of the white at the bottom of the lane, the four of them, side by side under their long shed roofs, going down into the harbor in the fog like the ribs of something. The first slip had a keel on it. It had had a keel on it since the night they came home from Silverwood, two baulks of the old seasoned oak scarfed end to end on Merula's blocks; and in eight days somebody had put frames on the keel, all along it, the first of them, pale new oak standing up off the backbone in the fog like the ribs of a horse, close-set, doubled; and somebody had begun to plank them up from the bottom. Three strakes on either side, already, fastened to the frames with pegs of oak driven through. The shipwrights were not there. Nobody was there, in the fog, on a day nobody could do anything.
+The slips came up out of the white at the bottom of the lane, four of them under their long shed roofs. The first had a keel on it, two baulks of the old seasoned oak scarfed end to end on Merula's blocks; and in eight days somebody had put frames on the keel, pale new oak standing up off the backbone in the fog like the ribs of a horse, close-set, doubled, and begun to plank them up from the bottom. Three strakes on either side, already. Nobody was there, in the fog, on a day nobody could do anything.
 
 Except the engineer.
 
@@ -17936,13 +17708,9 @@ The first peg split, a small dry crack like a knuckle.
 
 He set another, and on the fourth stroke it went home with a deeper sound, as if it had found the bottom of something; and he went to the next hole.
 
-He went down the side of the ship from stern to stem through the fog, with the harbor bell ringing out in the white, one stroke and a long wait. He learned the sound a peg made going in straight, and the higher sound it made just before it split. For hours at a time he did not think about anything but the next hole; and when he did think, about the hand, or the stair, or the quay, the peg split.
+He went down the side of the ship from stern to stem through the fog. He learned the sound a peg made going in straight, and the higher sound it made just before it split. For hours at a time he did not think about anything but the next hole; and when he did think, about the hand, or the stair, or the quay, the peg split.
 
-At some point the engineer came along the hull with a loaf and a lump of cold boiled pork in a cloth, and cut both in two with his knife, and they sat on the slip-edge with their legs over the water and ate. The pork was salt and fat and very good, and Marcus had not known he was hungry. Gaius talked about the frames, doubled and staggered so that there was no line in her anywhere for a sea to find. He had seen it on the *Concord*, through the water, at the Teeth.
-
-"Four times the work," he said. "She'll last a hundred years. If nobody burns her."
-
-They ate.
+At some point the engineer came along the hull with a loaf and a lump of cold boiled pork, and they sat on the slip-edge with their legs over the water and ate. Marcus had not known he was hungry.
 
 "I burned my bridge at Tarrow," said the engineer, after a while, to the water. "On orders." He brushed the crumbs off his knees into the harbor. "I didn't speak to anybody for a month."
 
@@ -17976,29 +17744,23 @@ Gaius took the maul out of his hand, gently, the way he had put it there, and hu
 
 He did not go back to the stable that night.
 
-He went up through the town in the dark and the fog, slowly this time, with the ache in his arm and the other ache somewhere under it; and up the long stair to the fort, and across the courtyard past the stable door, which was shut, with a line of lamplight under it; and he did not stop.
+He went up through the town in the fog, slowly, with the ache in his arm and the other ache under it, and past the stable door with a line of lamplight under it, and did not stop. In the tower room Alana was asleep, truly asleep, with her hands open on the blanket. He lay down on the floor by the bed in his cloak, as he had lain on a great many floors.
 
-He went up to the tower room. Alana was asleep, truly asleep, with her hands open on the blanket, quite still now, and her weather-book on the floor where he had left it with the pen in it to keep the place. He lay down on the floor by the bed in his cloak, as he had lain on a great many floors.
-
-He thought about wine once, in the night. Clearly, the way a man thinks about a door in a wall that he has bricked up himself, and knows exactly where it is, and how many bricks, and that the mortar is still soft. He lay there and thought about it for a long time, with his eyes open in the dark and the fog pressing white against the window.
+He thought about wine once, in the night. Clearly, the way a man thinks about a door in a wall that he has bricked up himself, and knows exactly where it is, and how many bricks, and that the mortar is still soft. He lay there with his eyes open in the dark.
 
 He did not get up.
 
 ---
 
-The fog was still there in the morning, but thinner, and grey instead of white; and the harbor bell was still ringing, but slower.
-
-He went to the stable before it was light.
-
-Tam was awake this time, sitting up in his horse-blanket by the door, and he scrambled up and pointed down the row of stalls with his whole arm.
+He went to the stable before it was light. Tam was awake this time, and scrambled up and pointed down the row of stalls with his whole arm.
 
 "He slept here, Highness," he whispered. "In the stall, in his cloak. He wouldn't go up. The Captain came down at midnight with a blanket and said things, Highness. I won't say them. And went away, and came back with another blanket."
 
-The old man was sitting on the stool in the last stall, for once, with two blankets round his shoulders, one grey and one the faded blue of the Lanciarii's cloaks, looking at the wall. He did not turn his head.
+Roderic was sitting on the stool in the last stall, for once, with his back to the wall and his long legs out in the straw, and two blankets round his great shoulders, one grey and one the faded blue of the Lanciarii's cloaks. He did not turn his head.
 
 Marcus did not say anything. He took the curry-comb and the brush down off their peg and turned to Thistle. The mare looked at him with one dark eye, then put her ears back to soft, and let him.
 
-He had been taught this at nine years old, in the royal stables under the Old Hill, by a man with a cavalry general's voice, who had said that a horseman who could not groom his own horse could not be trusted with anyone else's. He had not done it since he was sixteen. His hands remembered: the comb in small hard circles, then the brush with the lay of the hair, neck and shoulder and barrel and back, in their order, as if they had been waiting in a stall all this time for him to come back for them.
+He had been taught this at nine years old, in the royal stables under the Old Hill, by a man with a cavalry general's voice. He had not done it since he was sixteen. His hands remembered: the comb in small hard circles, then the brush with the lay of the hair, neck and shoulder and barrel and back, in their order.
 
 He came to the back, where the saddle sat.
 
@@ -18006,19 +17768,19 @@ He came to the back, where the saddle sat.
 
 Marcus brushed harder on the left.
 
-The mare groaned, deep in her chest, like an old woman letting herself down into a hot bath; and behind him Marcus heard the old man breathe out, once, which in another man would have been a laugh.
+The mare groaned, deep in her chest, like an old woman letting herself down into a hot bath; and behind him Marcus heard the General breathe out, once, which in another man would have been a laugh.
 
-Neither of them said anything else. When Marcus had finished and hung the comb and the brush back on their peg, the door of the stall was full of white light, ordinary light, the light of a winter morning with the fog gone back out beyond the moles where it belonged.
+Neither of them said anything else. When Marcus had finished, the door of the stall was full of ordinary light, the light of a winter morning with the fog gone back out beyond the moles where it belonged.
 
-He went out without a word, and the old man let him.
+He went out without a word, and Roderic let him.
 
 ---
 
 The sea-woman came up the slip-quay steps a little before noon, out of the harbor, with the water streaming off her and something in her arms.
 
-The fog had gone. It had gone the way it came, all at once, in the last hour of the morning, rolled back off the town and the harbor and over the moles like a blanket pulled off a bed; and the Grey lay out beyond the gap again where it always lay, and the harbor was full of people doing all the things they had not been able to do the day before, at once and loudly. Gaius was on the black ship's stern with a rope round his waist and his lenses down, hanging over the taffrail with his head under her counter, looking at her rudder. The Lanciarii were swabbing the *Forward*. Rufo was on the slip quay with the forty, who had been told to get the four prizes' oars out of their heaps and sorted and had instead got into an argument about which of them had been the fat one who couldn't swim, in which Florus was taking both sides.
+The harbor was full of people doing all the things they had not been able to do the day before, at once and loudly. Gaius was hanging over the black ship's taffrail on a rope with his head under her counter, looking at her rudder. Rufo was on the slip quay with the forty, who had been told to sort the four prizes' oars and had instead got into an argument about which of them had been the fat one who couldn't swim, in which Florus was taking both sides.
 
-Thalassa came up out of the noise on the steps, and the noise went quiet round her, the way it always did, because she came up out of the sea in a sealskin laid to her like paint, with her blue hair down her back to the waist and the water running off her shoulders in the sun; and every shipwright on the slip quay discovered at once a great interest in the edge of his own adze, and looked anyway. She knew it. She let them; and she came to Marcus and held out what she was carrying.
+The noise went quiet round Thalassa on the steps, the way it always did, because she came up out of the sea in a sealskin laid to her like paint, with her blue hair down her back to the waist and the water running off her shoulders in the sun; and every shipwright on the slip quay discovered at once a great interest in the edge of his own adze, and looked anyway; and she came to Marcus and held out what she was carrying.
 
 It was wrapped in sea-grass, long and green and wet. He took it. It was lighter than it looked.
 
@@ -18026,7 +17788,7 @@ It was wrapped in sea-grass, long and green and wet. He took it. It was lighter 
 
 Marcus unwound the grass.
 
-It was a length of carved rail from a ship's stern, as long as his forearm, pale and sweet-smelling, the resin still in it; the wood the masts were made of, the wood he had seen standing up out of the sea in a forest. The edges of it were worn round and smooth, not by the sea; by hands. A boy's hands, he thought. A great many times. And cut into the face of it, in the old way, deep and plain, the way his grandfather's carvers had cut it into the stern of every ship in the fleet and his father's had cut it into the boss of every shield in the kingdom since: a dolphin with a crown on its head.
+It was a length of carved rail from a ship's stern, as long as his forearm, pale and sweet-smelling, the resin still in it. The edges were worn round and smooth, not by the sea; by a boy's hands, a great many times. And cut into the face of it, in the old way, deep and plain: a dolphin with a crown on its head.
 
 He stood holding it.
 
@@ -18044,7 +17806,7 @@ She went back down the steps into the harbor, and the noise came back up round t
 
 They had put the Navarch in the old harbor-master's room in the gate-tower, over the slip gate, with a window onto the harbor and a door that locked and two of the Lanciarii outside it.
 
-He was standing at the window when Marcus came in, with his hands clasped behind his back; tall and stooped in his long plain black coat, looking down at the harbor, at his own ship lying at the slip quay with the engineer hanging under her counter on a rope. He turned round when the door opened, and inclined his head, as one man inclines his head to another across a council table.
+He was standing at the window when Marcus came in, tall and stooped in his long plain black coat, looking down at his own ship at the slip quay. He turned round and inclined his head, as one man inclines his head to another across a council table.
 
 "Prefect."
 
@@ -18052,7 +17814,7 @@ He was standing at the window when Marcus came in, with his hands clasped behind
 
 They had taken his stylus. Marcus saw that at once, because the Navarch's right hand came up as he turned, from habit, toward his ear, where the stylus had lived; and found nothing there; and stopped, and came down again, slowly, to his side. He did not seem to know he had done it.
 
-There was a table, and a stool, and a bed made up, Marcus saw, the way a clerk makes a bed, with the blanket squared and the corners folded under. There was nothing on the table. There was nothing anywhere in the room that a man could write on or write with.
+The bed was made up the way a clerk makes a bed, with the corners folded under. There was nothing in the room that a man could write on or write with.
 
 "Your books are with the lady Alana of Corvus," said Marcus. "She began on them last night."
 
@@ -18068,8 +17830,6 @@ He watched the long pale face. Nothing happened in it for a long moment; nothing
 
 "Yes," said Lartius Scaurus. "He should have it."
 
-The harbor noise came up through the window. A man was shouting at the forty to sort the oars by length, and the forty were shouting back.
-
 "I would like him to know," said the Navarch, carefully, as a man sets down a figure he has checked twice, "that I kept it."
 
 "He'll see that."
@@ -18078,7 +17838,7 @@ The harbor noise came up through the window. A man was shouting at the forty to 
 
 Marcus took the book out from under his arm and laid it on the table.
 
-It was not the brown one. It was a new book, from the stores of the black ship, which had been full of them: red leather, unwritten, the pages ruled; with the white closed hand on its spine. Beside it he laid a pen, a goose-quill, cut, and a little horn of ink with a stopper.
+It was not the brown one. It was a new book from the black ship's stores, red leather, the pages ruled, with the white closed hand on its spine. Beside it he laid a cut quill and a little horn of ink.
 
 The Navarch looked at them.
 
@@ -18086,7 +17846,7 @@ The Navarch looked at them.
 
 "Then record that."
 
-The Navarch looked at him a long time with his pale heavy-lidded eyes. Then he came to the table, and sat down on the stool, with his long legs folded under it, and drew the book toward him, and opened it at the first page, and squared it against the edge of the table with one finger. He unstoppered the ink. He dipped the pen, and drew the excess off it against the rim of the horn, twice, the way a careful man does, and began to write; and Marcus stood across the table from him and read it upside down, as the Navarch had read *Not alone* upside down in his cabin, with the lamp swinging.
+The Navarch looked at him a long time with his pale heavy-lidded eyes. Then he sat down, and opened the book at the first page, and squared it against the edge of the table with one finger, and dipped the pen, and began to write; and Marcus read it upside down, as the Navarch had once read *Not alone* upside down in his cabin.
 
 *Day thirty-six. Cyrene. A prisoner. Given a book.*
 
@@ -18104,15 +17864,13 @@ The Navarch laid the pen down beside the book, square to it, and looked up.
 
 "Hers," said the Navarch. "The lady Livia's. Telling me what you had done, and how much it had cost you, and what she meant to take next." He looked down at the new book, at the one line in it. "She has very beautiful handwriting."
 
-Marcus went to the door, and knocked on it for the Lanciarii to open it; and when he looked back from the doorway the Navarch was sitting at the table with his long hands folded on the closed red book in front of him, quite still, looking at the window; and his right hand had come up out of the fold, a little, toward his ear, and was resting there, on the table, halfway, with the fingers curled round nothing.
+When Marcus looked back from the doorway the Navarch was sitting with his long hands folded on the closed red book, looking at the window; and his right hand had come up out of the fold, a little, toward his ear, with the fingers curled round nothing.
 
 ---
 
 He found Nerva on the black beach in the evening, at low water, where the *Clemency* had lain.
 
-There was nothing there now but a place on the sand that was blacker than the rest, and a long rock at the head of it, where an old man had sat every night for a month. Thalassa had seen him there from the water, before she ever spoke to any of them. She had thought he was mourning someone. Marcus had not told her she was right.
-
-Nerva had a coil of new rope on the rock beside him and was putting an eye-splice into the end of it, by feel, with his eyes on the Grey. Tiller-ropes for the black ship, the engineer had said.
+Nerva sat on the long rock at the head of the beach, where he had sat every night for a month, putting an eye-splice into a coil of new rope by feel, with his eyes on the Grey.
 
 Marcus sat down at the other end of the same rock. After a while he reached over and held the standing part taut, so that the old man could work the strands against it. Nerva's hands paused on the fid. Then they went on.
 
@@ -18144,7 +17902,7 @@ Nerva's hands stopped.
 
 Marcus did not look at him, and gave him the whole of the dark to look at it in.
 
-He had come down the beach meaning to tell him whose order it was, with his brother's paper inside his shirt. He found now that he could not. Not because it was too heavy. Because it was not his to set down. The order had been Titus's, and Titus was dead. But the warrant that had put this old man in a cell was the king's, signed in anger on the night the king believed his son had run, and let stand three years after he knew better. If anyone was to come down a beach in the dark and set that down in front of him, it would have to be the one who had picked it up.
+He had come down the beach meaning to tell him whose order it was. He found now that he could not; it was not his to set down. The warrant that had put this old man in a cell was the king's, and let stand three years after he knew better. If anyone was to set that down in front of him, it would have to be the one who had picked it up.
 
 "Gaius has a keel on the first slip," he said at last. "She'll need a captain."
 
@@ -18162,13 +17920,13 @@ The fid stopped, halfway through a strand, for as long as it took the sea to com
 
 "No," said Marcus.
 
-Nerva finished the splice in the dark and coiled the rope on the rock, sunwise, with the splice on top. After a time the tide turned and came up the black sand toward them, steaming, whispering as it came; and Nerva got up with the coil over his shoulder and went up the beach toward the town without a word, and Marcus let him go.
+Nerva finished the splice in the dark and coiled the rope, sunwise, with the splice on top; and when the tide turned and came steaming up the black sand he got up with the coil over his shoulder and went up the beach without a word.
 
 ---
 
 He wrote the report that night, at the table in the tower room, by one lamp, in his own hand.
 
-Alana sat beside him and read it as he wrote it. Her hands were steady again; the shaking had gone out of them some time in the fog, and not come back. She held each page herself as he finished it, and turned it to the lamp, and leaned over his arm for the next. She did not say much. She made him cross out *regret* in the third line ("He knows you regret it. He has a cellar full of people who regret things. Tell him what happened.") and *with respect* in the first ("You're his son. If you have to tell him it's with respect, it isn't."); and she made him put back, after he had crossed it out, the line about the wood.
+Alana sat beside him and read it as he wrote it. Her hands were steady again. She did not say much. She made him cross out *regret* in the third line ("He knows you regret it. He has a cellar full of people who regret things. Tell him what happened.") and *with respect* in the first ("You're his son. If you have to tell him it's with respect, it isn't."); and she made him put back, after he had crossed it out, the line about the wood.
 
 "It's the line he'll read twice," she said.
 
@@ -18186,7 +17944,7 @@ Near the bottom she came to the lines he had written without stopping, without c
 
 "Those aren't respect. They're what happened." She did not look up from the page. "He's a king. He can read what happened."
 
-Felix came up at the second hour of the night with a jug of hot water, and stood there. In six years Marcus had never once looked up and found him still in the room.
+Felix came up at the second hour of the night, and stood there.
 
 "Pen asks, Highness. He'll fair-copy the report for the King tonight, in the old chancery hand. No clerk on the Old Hill would know it from their own."
 
@@ -18194,33 +17952,29 @@ Marcus looked at his own writing, going up and down the lines like a drunk man w
 
 "No. Tell him thank you." He looked at the page. "He'll want my hand. Even this one."
 
-Felix gave him the long grey look that had always before meant *I will get you home, Highness*. It meant something else tonight.
-
 "Yes, Highness," said Felix, and was gone before the door shut, as he always was.
 
-Alana did not say anything. She leaned on his arm and read.
-
-He wrote it all, to the end. Then he sat for a while looking at the end, with the pen in his hand, while the lamp burned down a finger's breadth. Then he dipped the pen again and wrote one more line, below the others, by itself.
+He wrote it all, to the end. Then he sat for a while looking at the end, with the pen in his hand. Then he dipped the pen again and wrote one more line, below the others, by itself.
 
 Alana read it.
 
-She did not say anything about it. She did not ask. She sat beside him at the table for a long moment with her face very still in the lamplight; and then she put her right hand, the one that had been broken in the Navarch's cabin and was not broken now, over the back of his where it lay on the table by the page; and left it there.
+She did not say anything about it. She did not ask. She sat beside him at the table with her face very still in the lamplight; and then she put her right hand, the one that had been broken in the Navarch's cabin and was not broken now, over the back of his where it lay on the table by the page; and left it there.
 
-He sealed it with the seal of the Prefect of Cyrene, which had been the garrison's and was the leaping dolphin, and which he had never once used for anything but the lists of the dead. He wrote on the outside, *To the King. Into his own hand*, and under it, after a moment, *from Marcus*; and then he folded it into an oilskin, with the brown book, and the carved rail from Kolpos wrapped in its sea-grass, and tied the packet with tarred twine, and put it on the table, and blew out the lamp.
+He sealed it with the seal of the Prefect of Cyrene, which he had never once used for anything but the lists of the dead. He wrote on the outside, *To the King. Into his own hand*, and under it, after a moment, *from Marcus*; and then he folded it into an oilskin, with the brown book, and the carved rail from Kolpos wrapped in its sea-grass, and tied the packet with tarred twine, and put it on the table, and blew out the lamp.
 
 ---
 
 The *Answer* sailed on the morning ebb of the thirty-seventh day.
 
-That was her name now. He had given it to her on the way home from the Teeth, at the *Forward*'s rail, when Felix asked him what the Lanciarii were to call the black ship in their reports, since they could not go on calling her *that one*; and he had looked at her coming along astern on the *Remainder*'s tow, long and low and black, with the white closed hand painted down the length of her rail and the gilt book standing up on her stern, open, and said the first word that came into his head. It had not seemed to him, at the time, to be the first word. It had seemed to have been there for some while, waiting, under a line in a red book: *You can hold a town. Can you hold a sea?*
+That was her name now. He had given it to her on the way home from the Teeth, when Felix asked what the Lanciarii were to call the black ship in their reports; and it had seemed to have been there for some while, waiting, under a line in a red book: *You can hold a town. Can you hold a sea?*
 
-The Lanciarii had painted her rail over in the night, in Aeridor blue. You could see the white hands under it still if you looked, faint, like the marks of fingers on a window. And Pen had painted the name. He had come to Felix about it the afternoon before, and asked, and Marcus had said yes to that. He had done it on a plank hung over her stern on two ropes, in the last of the light, with the gilt book over his head, in letters a hand high, black and plain and clear as a cut: ANSWER. The whole slip quay had come to watch him do it, and gone quiet, as it had for the boards; and when he came up off the plank there had been a little noise from the quay, not a cheer, the sound a crowd makes when a man has done a thing well that it could not have done.
+The Lanciarii had painted her rail over in the night, in Aeridor blue; you could see the white hands under it still, faint, like the marks of fingers on a window. And Pen had painted the name, on a plank hung over her stern in the last of the light, in letters a hand high, black and plain and clear as a cut: ANSWER.
 
-Now she lay at the slip quay with her oars run out, a third of them, all she had men for: the Lanciarii's twenty who were going, and thirty of the town who had asked to see the capital, and ten of the cohort who had been born under the Old Hill and wanted, they said, to see their mothers, and to walk up the hill in daylight once without a turnkey. The wind had come round in the night into the south-west, for the first time in a month, and was coming in over the moles off the Grey, steady and cold. It would carry her. Nerva said so. Nerva had looked at her tiller-ropes at dawn, with the new rope on them and his own splice at the head, and said nothing at all, which was how Nerva said a thing was right.
+Now she lay at the slip quay with a third of her oars run out, all she had men for: the Lanciarii's twenty who were going, thirty of the town who had asked to see the capital, and ten of the cohort who wanted, they said, to walk up the Old Hill in daylight once without a turnkey. The wind had come round in the night into the south-west. Nerva had looked at her tiller-ropes at dawn and said nothing at all, which was how Nerva said a thing was right.
 
 Pell was at her tiller.
 
-He stood there in a clean shirt, very upright, with his hair wetted down and an expression on his face that Marcus had seen before on the faces of thieves who had been made temple-keepers. He had been given the black ship's master's cabin, and had been into it, and come out again and said that it had a carpet.
+He stood there in a clean shirt, very upright, with his hair wetted down. He had been given the black ship's master's cabin, and had been into it, and come out again and said that it had a carpet.
 
 "You'll be washed," said Valeria, from the quay.
 
@@ -18232,9 +17986,9 @@ Pell looked at him, and saw he was not joking, and went a little pale under his 
 
 Rufo came down the hard with the bag.
 
-It was the twin of the one that had gone home on the *Patience* on the twenty-eighth day, out of the same chest in the fort's strongroom: an old leather dispatch bag with the crowned dolphin worked on the flap, gone black with other men's hands. Buckled. Sealed. Full of the cohort's letters again, nine days of them; to mothers who could not read, most of them written by Pen at his bench in the barracks, because half the cohort could not write and the other half could not spell, so it was all one in the end. Rufo had it over his shoulder. He was himself again, or most of himself, though there was a greyness under his eyes that had not been there before the Teeth, and Marcus thought there would always be now.
+It was the twin of the one that had gone home on the *Patience*: the old leather dispatch bag with the crowned dolphin on the flap, full of the cohort's letters again, most of them written by Pen, because half the cohort could not write and the other half could not spell. Rufo was himself again, or most of himself, though there was a greyness under his eyes that had not been there before the Teeth.
 
-Pen walked beside him, with his long white hands in his sleeves and his weight on one hip, looking at the black ship sideways, like a heron, as if he were judging the letters he had painted from a fresh angle and not yet sure.
+Pen walked beside him, looking at the black ship sideways, like a heron, judging the letters he had painted.
 
 "One more, Rufo," he said, as they came to the plank, and took a letter out of his sleeve: a small one, folded square, sealed with a blob of plain wax and no seal in it. "If there's room."
 
@@ -18244,9 +17998,9 @@ Rufo stopped. He looked at the letter, and at Pen.
 
 "She worries." Pen held it out. "I tell her I'm a clerk. On a ship. Copying things." He smiled, his long crooked smile. "It's even true, now. She'll be very pleased."
 
-Rufo grunted, and unbuckled the flap of the bag, and Pen put the letter in himself, at the top, on the others, and Rufo buckled it again; and then Rufo went up the plank and put the bag into Pell's own hands, *into the master's own hand*, as he had been told on the twenty-eighth day and every day since, and came down again.
+Rufo grunted, and unbuckled the flap, and Pen put the letter in himself, at the top; and Rufo went up the plank and put the bag *into the master's own hand*, and came down again.
 
-Valeria gave Pell her report. It was one sheet, folded once, sealed with her own seal, which was a plain leaf-shaped spear-head; and it was addressed on the outside, in her square hard hand, *To the Lord Marshal and the council of war*.
+Valeria gave Pell her report: one sheet, folded once, sealed with her plain spear-head, addressed in her square hard hand *To the Lord Marshal and the council of war*.
 
 Marcus looked at it as it went over the rail into Pell's coat.
 
@@ -18260,21 +18014,19 @@ Marcus looked at it as it went over the rail into Pell's coat.
 
 He gave Pell the packet last.
 
-The oilskin, tied with tarred twine, with *To the King. Into his own hand* on the paper inside it where Pell could not see it, and could not have read it if he had. Pell took it in both hands, as he had taken the bag, and looked at it, and put it inside his clean shirt against his chest, and buttoned his coat over it.
+Pell took it in both hands and put it inside his clean shirt against his chest, and buttoned his coat over it.
 
 Then Marcus put his hand inside his own tunic, and took out the other thing.
 
-It was a small doeskin bag on a cord, gone dark with handling. He opened it and tipped it into his palm, and there it lay: a sliver of stone no longer than his little finger, the color of honey held up to a candle. It turned on his palm, all by itself, a little, the way a sleeping dog turns in its basket, until its blunt end pointed away over his shoulder, past the fort, past the headland, past the Grey. North and east. Toward a hill with steaming canals running down it to the sea, and a hall with a dome on it, and a tower over the hall, and a window.
+It was a small doeskin bag on a cord, gone dark with handling. He opened it and tipped it into his palm, and there it lay: a sliver of stone no longer than his little finger, the color of honey held up to a candle. It turned on his palm, all by itself, the way a sleeping dog turns in its basket, until its blunt end pointed north and east, past the Grey, toward a hill with steaming canals running down it, and a tower, and a window.
 
 He held it out to Pell.
-
-Pell looked at it. He knew it. He had carried it once before, in a fishing smack, alone, through three days of Grey, with a letter and one of Cyrene's shards beside it, and been washed twice for his trouble and kept in a room with a carpet.
 
 "That's the old man's," he said.
 
 "It points to his house," said Marcus. "You'll want it, to find it. There's one of the cave's in the binnacle already for the way home."
 
-"I know where it points, Highness." Pell took the stone, carefully, by its edges, the way you pick up a coal, and put it back in its doeskin bag, and the bag round his neck, inside his shirt, with the packet. "I've been washed there." He hesitated. "Last time, they sent it back."
+"I know where it points, Highness." Pell took the stone by its edges, the way you pick up a coal, and hung the bag round his neck inside his shirt. "I've been washed there." He hesitated. "Last time, they sent it back."
 
 "I know."
 
@@ -18282,19 +18034,17 @@ Pell looked at it. He knew it. He had carried it once before, in a fishing smack
 
 "Bring it back anyway," said Marcus.
 
-Pell looked at him a moment, and then grinned, his old thief's grin, the grin of a boy who has stolen a pie and been handed a second; and turned round to his tiller and roared at his sixty rowers in a voice that Marcus had not known he had, and the *Answer*'s oars came up all together, a third of them, and went in.
+Pell grinned, his old thief's grin, and turned to his tiller and roared at his sixty rowers in a voice Marcus had not known he had, and the *Answer*'s oars came up all together and went in.
 
-She went out slowly between the towers with the wind behind her and her new blue rail and her black hull and the gilt book on her stern, and the town on the moles watching her go in silence; not the silence of the evening she came in, but another kind, the kind a town keeps while a thing it has seen done goes away to be told about somewhere else. Marcus watched her go from the end of the slip quay. The Grey took her at the gap, as it took everything: her stern first, and the gilt book, and the name, until there was nothing but a smudge in the yellow-white, and then not that.
+She went out slowly between the towers with the wind behind her, and the town on the moles watching her go in silence; the kind a town keeps while a thing it has seen done goes away to be told about somewhere else. The Grey took her at the gap, as it took everything, until there was nothing but a smudge in the yellow-white, and then not that.
 
-He found he had put his hand to his ribs, inside his tunic, where the doeskin bag had hung for a month and more. There was nothing there now but his own oilskin, the old one, with the ninety-one in it, and the seven, and a letter with a black bar across it a finger wide where an old man had come to the edge of a sentence and drawn back; and folded small among them, soft at the creases, a paper in a hand pressed so hard that the pen had nearly gone through.
+He found he had put his hand to his ribs, where the doeskin bag had hung for a month and more. There was nothing there now but his own oilskin, with the ninety-one in it, and the seven, and his father's letter with the black bar across it; and folded small among them, a paper in a hand pressed so hard that the pen had nearly gone through.
 
-He took his hand out.
-
-The old man was standing at the head of the slip quay by the bollard, where he had stood since dawn to see her sail, with his cloak open and his thumbs in his belt; and the Captain sat on the bollard beside him with the Farrier across her knees. She had come down without her helmet. The wind off the moles had got into her two long plaits and was working them loose, pale gold going grey at the temples, and the sun was on her face, on the old scar and the hard clean line of the jaw, and she sat in her mail on a lump of harbor stone as if it were a throne she had won and did not much care for; and she knew exactly what the quay thought of her, and let it. Neither of them was looking at Marcus. They were both looking at the Grey, where the ship had gone into it.
+The General was standing at the head of the slip quay by the bollard, where he had stood since dawn to see her sail, big and straight in his cloak with his thumbs in his belt; and the Captain sat on the bollard beside him with the Farrier across her knees. She had come down without her helmet. The wind off the moles had got into her two long plaits and was working them loose, pale gold going grey at the temples, and the sun was on her face, on the old scar and the hard clean line of the jaw, and she sat in her mail on a lump of harbor stone as if it were a throne she had won and did not much care for; and she knew exactly what the quay thought of her, and let it. Neither of them was looking at Marcus. They were both looking at the Grey, where the ship had gone into it.
 
 Marcus went and sat down on the stone of the quay at their feet, with his back against the bollard and his arms on his knees.
 
-Nobody said anything. The gulls went over. Down on the hard the forty had begun the argument about Florus again. The wind came in over the moles, cold and steady, carrying a ship.
+The gulls went over. Down on the hard the forty had begun the argument about Florus again. The wind came in over the moles, cold and steady, carrying a ship.
 
 They sat there a long time, the three of them, watching the Grey; as people sit who have spent a day they could spare, and have nothing left to say about it, and do not need to.
 
@@ -18306,11 +18056,11 @@ They sat there a long time, the three of them, watching the Grey; as people sit 
 
 The harbor bell rang the alarm at the third hour after noon, and the king was at the window before the third stroke.
 
-He did not remember getting up. His knees remembered it for him afterward, on the stair; but at the time he was simply there, at the tall window in the small room forty-four steps above the floor of the Hall of Kings, with one hand flat on the cold stone of the sill, looking down over the terraces and the steaming canals at the royal harbor; and the bell was going below him, fast, the quick hard strokes it had not rung in daylight since the year of Thessa. On the galley quay men were running. He saw the covers come off the bolt-throwers on the two mole-towers, and the arms of them swing round, slowly, toward the harbor mouth, the way a farm dog's head comes round to follow a stranger down a lane.
+He did not remember getting up. His knees remembered it for him afterward; but at the time he was simply there, with one hand flat on the cold stone of the sill, looking down at the royal harbor; and the bell was going below him, fast, as it had not rung in daylight since the year of Thessa. He saw the covers come off the bolt-throwers on the two mole-towers, and the arms of them swing round toward the harbor mouth, the way a farm dog's head comes round to follow a stranger down a lane.
 
 Out of the Grey, at the harbor mouth, came a ship.
 
-She was black. She was long and low and black, with three banks of oars, and a stern that swept up and over her like a scorpion's tail with something gilded on top of it, and an eye painted on her bow, red, that somebody had tried to cover with tar and not quite managed. He had never seen a Tharsian warship. He had read about a great many of them, in dispatches, for four years, by one candle; he had never seen one. He saw one now, coming in under oars between the towers of his own harbor in the middle of the afternoon, slowly, as if she had every right to be there.
+She was black. She was long and low and black, with three banks of oars, and a stern that swept up and over her like a scorpion's tail with something gilded on top of it, and an eye painted on her bow, red, that somebody had tried to cover with tar and not quite managed. He had read about a great many Tharsian warships, for four years, by one candle; he had never seen one. He saw one now, coming in between the towers of his own harbor in the middle of the afternoon, as if she had every right to be there.
 
 Damien was at his shoulder. He had not heard Damien come either.
 
@@ -18320,11 +18070,11 @@ The king did not move.
 
 The black ship came on. And as she came out of the last of the Grey into the clear, he saw what the men on the towers saw, because the arms of the bolt-throwers stopped swinging, and hung there; and the bell missed a stroke, and then another, and stopped.
 
-There was a banner at her masthead. Blue, with a dolphin on it, crowned; his own, his father's, the one on every shield in the kingdom, the one on the boss of every one of the two hundred new shields he had sent to Cyrene on the *Patience* a month ago. Her rail had been painted blue, all down its length, freshly, roughly, as if in a hurry. And in her bow, on the very stem, with one hand on the forestay, there was a man waving. Not a signal. He was waving both arms over his head, wildly, at the towers, at the moles, at the city, the way a man waves to people he knows on a quay when he has been a long time away.
+There was a banner at her masthead. Blue, with a dolphin on it, crowned; his own, his father's. Her rail had been painted blue, roughly, as if in a hurry. And in her bow, with one hand on the forestay, there was a man waving both arms over his head, wildly, the way a man waves to people he knows on a quay when he has been a long time away.
 
 She did not go to the galley quay.
 
-The king watched her not go to it. She came past the end of it, slowly, with her oars rising and falling, a third of them, not all; and the *Patience* lying there at her moorings with her stern lamp unlit, and the other galleys, what there were of them; and she turned. She came round in the inner harbor under the hill, in the still water under the Old Hill where the warm canals came down out of the city and steamed into the sea, and slid in, very slowly, toward the inner quay. Toward the long row of empty berths under the hill, with their old bollards and their old iron rings and the slipways going up behind them into the shadow like the ribs of something that had been eaten.
+The king watched her not go to it. She came past it, and turned in the still water under the Old Hill where the warm canals steamed into the sea, and slid in, very slowly, toward the long row of empty berths under the hill, with their old iron rings and the slipways going up behind them into the shadow like the ribs of something that had been eaten.
 
 She went into the first of them. The one at the foot of the stair, nearest the hill. Her oars came in, all together, and she lay there.
 
@@ -18332,7 +18082,7 @@ He knew that berth. He had counted it every night for four years, first, before 
 
 He stood with his hand on the sill.
 
-Below him, on the moles and the quays and the terraces, he could see people coming out of their doors and stopping, and pointing, and going down toward the water; first a few and then a great many, the way the city had come down to the water to see his father's fleet go out, in the year of Thessa, on a fair morning, with every mast dressed. They would be down there in their hundreds by dark, he thought. With lamps.
+Below him people were coming out of their doors and pointing and going down toward the water, the way the city had come down to see his father's fleet go out, on a fair morning, with every mast dressed.
 
 He did not count the others. He looked at the black ship lying in the *Concord*'s berth, and for the first time in four years he stood at that window and did not count the others.
 
@@ -18354,13 +18104,13 @@ He lowered the paper.
 
 The king looked at his folded hands.
 
-He found that something was happening in his chest that he had not felt in a long time, and did not at first know; and then knew, and was astonished, and put his folded hands a little more firmly on the table so that they would not show it. He had thought, three weeks ago, that it was the best sentence anyone had written him in four years. He had not known that it could be written twice. He had not known that a sentence could get better by being sent again, unchanged, by somebody who knew exactly what she was doing.
+He found that something was happening in his chest that he had not felt in a long time; and he put his folded hands a little more firmly on the table so that it would not show. He had not known that a sentence could get better by being sent again, unchanged, by somebody who knew exactly what she was doing.
 
 "Majesty," said Damien gently, from the end of the table. "The Marshal is upset."
 
 "I can see that he is."
 
-"I am *not* upset." Varro came away from the door and went to the fire, because he could not be in a room with a fire without going to it, and stood with his back to it. "I've had the rest of it from the master on the quay. A thief. A *thief*, Majesty, in a clean shirt, with his hair wetted, who sailed a fishing smack in here a month since with your stone and was put in the Queen's old sitting-room for two days by somebody's order and has not, I am told, stopped talking about the carpet since." He breathed. "He says the Navarch of the Southern Sea came out of the Grey at Cyrene not a fortnight ago with six warships, and the dead walking under him, and was thrown off the slipways; and went for Silverwood instead, with two fire ships and a witch. He says the prince met them at a reef in the Grey that the old charts call the Teeth, with four ships, two of them half-built, and a drum, and some fish-people, and the elves." Varro's finger came up, from habit, and he looked at it and let it fall. "He says the Navarch's ships are burned or taken or on the reef, every one. He says the Navarch is a prisoner at Cyrene. He says the witch has gone. And he says that black thing in the old berths was the Navarch's flagship, and the prince has named her, and he's brought her here because the prince said to bring her here." He stopped. "And he says—"
+"I am *not* upset." Varro came away from the door and went to the fire, because he could not be in a room with a fire without going to it, and stood with his back to it. "I've had the rest of it from the master on the quay. A *thief*, Majesty, in a clean shirt, who has not, I am told, stopped talking about a carpet." He breathed. "He says the prince met the Navarch of the Southern Sea at a reef in the Grey that the old charts call the Teeth, with four ships, two of them half-built, and a drum, and some fish-people, and the elves. He says the Navarch's ships are burned or taken or on the reef, every one. He says the Navarch is a prisoner at Cyrene. He says the witch has gone. And he says that black thing in the old berths was the Navarch's flagship, and the prince has named her, and he's brought her here because the prince said to bring her here." He stopped. "And he says—"
 
 He did not say it at once. The king watched him not say it: watched the big ribboned man by the fire look at the floor, and work his jaw, like a man trying to get a bone out of his teeth without anybody seeing.
 
@@ -18368,7 +18118,7 @@ He did not say it at once. The king watched him not say it: watched the big ribb
 
 The fire settled.
 
-The king did not move. He sat at his table with his hands folded on it, and looked at Varro, and Varro looked at the floor; and he thought of a morning four years ago, a fair morning, with every mast in the harbor dressed, and the city on the moles, and Gnaeus Varro, grey already, standing on the end of the east mole in his ribbons with his helmet under his arm, watching them go out, the way everybody had.
+The king did not move. He thought of a fair morning four years ago, and Gnaeus Varro, grey already, standing on the end of the east mole with his helmet under his arm, watching them go out, the way everybody had.
 
 "Where?" said the king.
 
@@ -18376,7 +18126,7 @@ The king did not move. He sat at his table with his hands folded on it, and look
 
 Nobody said anything for a while.
 
-"The city's seen her," said Varro at last, heavily, the way a man sets down a load. "The whole harbor's seen her. There are people on the inner quay now, Majesty, with lamps, looking at her, and more coming. By dark the whole city will know the king's younger son has taken a Tharsian three-banker in a sea-fight and put her in his grandfather's berths." He breathed out through his nose. "The council will have to thank him. Publicly. In the hall. There's no help for it. It's the first squadron of theirs anybody's taken in four years, and the first good news the city's had since—" He stopped. He did not say *since the ford*. "Since. They'll have to thank him."
+"The city's seen her," said Varro at last, heavily. "By dark the whole city will know the king's younger son has taken a Tharsian three-banker in a sea-fight and put her in his grandfather's berths. The council will have to thank him. Publicly. It's the first good news the city's had since—" He did not say *since the ford*. "Since."
 
 "Yes," said the king.
 
@@ -18426,15 +18176,15 @@ The king sat on at his table with his hands folded on it, until the light began 
 
 He went down at the third hour of the night, alone.
 
-He told the two men on the stair-door that he would walk in the garden of the tombs, and they let him, because he had done it before, on bad nights, and they were used to it; and at the bottom of the garden, where it gave onto the lane that went down the hill to the harbor, he told them to wait, and they let him do that too, though they did not like it. He had a lantern and an old grey cloak of his steward's with a hood, and he went down the lane between the high walls in the frost with his breath going up white in front of him and his knees telling him about every step. Thirty-one steps from the garden gate to the first turn of the lane. He counted them. He could not stop.
+He told the men on the stair-door that he would walk in the garden of the tombs, and at the bottom of the garden he told them to wait, and went down the lane to the harbor in an old grey hooded cloak of his steward's, with a lantern, and his breath going up white in the frost. Thirty-one steps from the garden gate to the first turn of the lane. He counted them. He could not stop.
 
-The inner quay was empty by then. The city had come and looked and gone home to its suppers and its beds, and left the lamps on the bollards burning out, one by one, in the frost. The old berths ran away from him along the foot of the hill into the dark, thirty-one of them, a long row, with their stone bollards and their great iron rings rusted to the color of dried blood and their slipways going up behind into the shadow. He had not walked here in four years. He had looked at it every night, from the window up there; he had not once come down.
+The inner quay was empty by then, the lamps on the bollards burning out one by one. The old berths ran away from him along the foot of the hill into the dark, thirty-one of them, with their iron rings rusted to the color of dried blood. He had looked at them every night for four years, from the window up there; he had not once come down.
 
 The black ship lay in the first of them.
 
-She was bigger close to. They always are. She lay along the quay with her blue rail a man's height above the stone and her black side going down from it into the black water, and her three banks of oar-ports shut, and her great stern standing up over the end of the berth against the stars, if there had been stars; and on top of the stern, so high he had to tilt his head back to see it in the light of the lantern at her taffrail, the gilt thing he had seen from the window. It was a book. A great gilded book carved in wood, as big as a shield, standing open on a post.
+She was bigger close to. They always are. On top of her great stern, so high he had to tilt his head back to see it, was the gilt thing he had seen from the window: a book, carved in wood, as big as a shield, standing open on a post.
 
-Under it, on her stern, in letters a hand high, black, plain, fresh, so fine and clear that he stopped on the quay and looked at them for a long moment as he would have looked at a page of the old chancery masters: ANSWER.
+Under it, on her stern, in letters a hand high, black, plain, fresh, so fine and clear that he stopped on the quay and looked at them as he would have looked at a page of the old chancery masters: ANSWER.
 
 There was a man sitting on the stern rail under the lantern, with his legs hanging over the water and a heel of bread in one hand and a cold sausage in the other. He saw the king's lantern come along the quay, and stopped eating, and watched it come.
 
@@ -18546,7 +18296,7 @@ He sat there a long time. The lantern burned beside him on the stone. On the bla
 
 The boy knew.
 
-He sat with that, as he would have sat with a figure at the bottom of a column that he had added a great many times and always got the same, and now had come out differently. For three years the boy had not known. The king had called that a mercy. He had said so to himself, every night, at the window; it had been the thing he held up between himself and the rest of it, like a hand held up against a fire. *A son can hate a dead centurion and go on living.* And now the boy knew. Roderic had told him. *Majesty*, the old man had said at the fire, which was not the same thing as yes; and he had waited three years for a day they could spare, and found one, and told him all of it. Titus's order, in Titus's hand. Roderic had kept it, then. The king had never seen it. He had watched it being written, at the far end of a long table, and not seen it; and now the boy had it, and knew the hand, as the boy would. And knew the rest. The warrant, signed in anger. The fire, and *Let it stand, Father*, and a king letting it stand. The three years.
+He sat with that, as he would have sat with a figure at the bottom of a column that he had added a great many times and always got the same, and now had come out differently. For three years the boy had not known. The king had called that a mercy. He had said so to himself, every night, at the window; it had been the thing he held up between himself and the rest of it, like a hand held up against a fire. *A son can hate a dead centurion and go on living.* And now the boy knew. Roderic had told him. *Majesty*, the General had said at the fire, which was not the same thing as yes; and he had waited three years for a day they could spare, and found one, and told him all of it. Titus's order, in Titus's hand. Roderic had kept it, then. The king had never seen it. He had watched it being written, at the far end of a long table, and not seen it; and now the boy had it, and knew the hand, as the boy would. And knew the rest. The warrant, signed in anger. The fire, and *Let it stand, Father*, and a king letting it stand. The three years.
 
 And the boy had written him a report.
 

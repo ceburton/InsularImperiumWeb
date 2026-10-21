@@ -120,8 +120,10 @@ test('page turns cross chapter boundaries in both directions and finish at the e
   await page.getByRole('button', { name: 'Next page', exact: true }).click();
   await expect(page.locator('.reader-page-status')).toContainText('Chapter 2');
   await expect(page.locator('.reader-page-status')).toContainText('Pages 1–2');
-  await page.getByLabel('Choose chapter').selectOption('12');
-  await expect(page.locator('.reader-page-status')).toContainText('Chapter 13');
+  // The last chapter, however many the story has grown to.
+  const chapters = await page.getByLabel('Choose chapter').locator('option').count();
+  await page.getByLabel('Choose chapter').selectOption(String(chapters - 1));
+  await expect(page.locator('.reader-page-status')).toContainText(`Chapter ${chapters}`);
   const total = Number((await page.locator('.reader-page-status > span').textContent())!.split('of ')[1]);
   for (let i = 0; i < Math.ceil(total / 2) - 1; i++) await page.getByRole('button', { name: 'Next page', exact: true }).click();
   await expect(page.getByRole('button', { name: 'Next page', exact: true })).toBeDisabled();

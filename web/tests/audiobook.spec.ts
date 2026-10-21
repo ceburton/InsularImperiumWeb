@@ -57,6 +57,47 @@ test('a finished chapter is marked and the next one starts', async ({ page }) =>
   await expect(page.getByRole('button', { name: new RegExp(`^Continue: ${chapters[1].title}`) })).toBeVisible();
 });
 
+test('chapters play on one after another without stopping, through to the last', async ({ page }) => {
+  await page.addInitScript(() => {
+    (window as unknown as { endings: number }).endings = 0;
+    document.addEventListener('ended', () => (window as unknown as { endings: number }).endings++, true);
+  });
+  const from = chapters.length - 3;
+  await page.goto('/media/audiobook');
+  await page.getByRole('button', { name: `Play ${chapters[from].title}` }).click();
+  await bar(page).getByLabel('Speed').selectOption('2');
+  for (const c of chapters.slice(from + 1)) {
+    await expect(bar(page)).toContainText(c.title, { timeout: 10000 });
+    await expect(bar(page).getByRole('button', { name: 'Pause', exact: true })).toBeVisible();
+  }
+  // Each chapter hands over to the next while still playing; only the last one runs to its end.
+  await expect.poll(async () => (await saved(page)).places[chapters.at(-1)!.slug]?.done, { timeout: 10000 }).toBe(true);
+  expect(await page.evaluate(() => (window as unknown as { endings: number }).endings)).toBe(1);
+  await expect(bar(page).getByRole('button', { name: 'Play', exact: true })).toBeVisible();
+  for (const c of chapters.slice(from)) expect((await saved(page)).places[c.slug].done).toBe(true);
+});
+
+test('the screen stays awake while a chapter plays and may sleep once paused', async ({ page }) => {
+  await page.addInitScript(() => {
+    const locks = { active: 0 };
+    (window as unknown as { locks: typeof locks }).locks = locks;
+    Object.defineProperty(navigator, 'wakeLock', { configurable: true, value: { request: async () => {
+      locks.active++;
+      let released = false;
+      return { addEventListener() {}, release: async () => { if (!released) { released = true; locks.active--; } } };
+    } } });
+  });
+  const active = () => page.evaluate(() => (window as unknown as { locks: { active: number } }).locks.active);
+  await page.goto('/media/audiobook');
+  expect(await active()).toBe(0);
+  await page.getByRole('button', { name: `Play ${chapters[0].title}` }).click();
+  await expect.poll(active).toBe(1);
+  await bar(page).getByRole('button', { name: 'Pause', exact: true }).click();
+  await expect.poll(active).toBe(0);
+  await bar(page).getByRole('button', { name: 'Play', exact: true }).click();
+  await expect.poll(active).toBe(1);
+});
+
 test('sleep at end of chapter stops there, and Play then starts the next chapter', async ({ page }) => {
   await page.goto('/media/audiobook');
   await page.getByRole('button', { name: `Play ${chapters[0].title}` }).click();

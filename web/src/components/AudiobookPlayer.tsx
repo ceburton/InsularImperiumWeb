@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 import type { AudiobookChapter, book as bookInfo } from '@/lib/audiobook';
+import { acquireWakeLock, releaseWakeLock } from '@/lib/wakeLock';
 import './AudiobookPlayer.css';
 
 const storageKey = 'insular-audiobook-v1';
@@ -10,6 +11,9 @@ const rates = [0.8, 1, 1.25, 1.5, 1.75, 2];
 const back = 15;
 const ahead = 30;
 const endOfChapter = -1;
+// Seconds of real time before a chapter's end at which the next one starts, while audio is still playing.
+// Waiting for 'ended' let phones suspend the page between chapters, so the next one never started.
+const handoff = 0.5;
 const sleepChoices = [[0, 'Off'], [15, '15 minutes'], [30, '30 minutes'], [60, '1 hour'], [endOfChapter, 'End of chapter']] as const;
 
 // t = seconds heard, d = chapter length and v = file version when saved, so a regenerated chapter can resume proportionally.
@@ -53,6 +57,7 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
   const saved = useRef<Saved>({ places: {} });
   const pendingSeek = useRef<number | null>(null);
   const lastSave = useRef(0);
+  const wakeLock = useRef<WakeLockSentinel | null>(null);
   const [places, setPlaces] = useState<Record<string, Place>>({});
   const [lastSlug, setLastSlug] = useState<string>();
   const [index, setIndex] = useState<number | null>(null);
@@ -95,11 +100,11 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
     lastSave.current = Date.now();
   }
 
-  function start(i: number, play = true) {
+  function start(i: number, play = true, finished = false) {
     const a = audio.current, c = chapters[i];
     if (!a || !c) return;
     if (i !== index) {
-      if (chapter && a.currentTime > 0 && !a.ended) remember(chapter, a.currentTime);
+      if (chapter && !finished && a.currentTime > 0 && !a.ended) remember(chapter, a.currentTime);
       const p = saved.current.places[c.slug];
       const at = resumeAt(c, p);
       pendingSeek.current = at;
@@ -112,13 +117,37 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
       saved.current.current = c.slug;
       store(saved.current);
     }
-    if (play) a.play().catch(() => setPlaying(false));
+    if (play) a.play().catch(blocked);
+  }
+
+  function blocked() {
+    setPlaying(false);
+    setNotice('Tap play to continue.');
+  }
+
+  // Marks the current chapter finished and carries straight on to the next, unless sleeping at the end of the chapter.
+  function finish() {
+    if (!chapter || index === null) return;
+    remember(chapter, 0, true);
+    if (index === chapters.length - 1) return setPlaying(false);
+    // Sleeping loads the next chapter paused, so Play (here or on the lock screen) starts it rather than replaying this one.
+    if (sleep.minutes === endOfChapter) { setSleep({ minutes: 0, until: 0 }); setPlaying(false); start(index + 1, false, true); }
+    else start(index + 1, true, true);
   }
 
   function toggle(play = !playing) {
-    if (index === null) return start(resumeIndex);
-    if (play) audio.current?.play().catch(() => setPlaying(false));
-    else audio.current?.pause();
+    const a = audio.current;
+    if (index === null || !a || !chapter) return start(resumeIndex);
+    if (!play) return a.pause();
+    // Play always gets going again: past the end it moves on, and after a failed load it fetches the chapter afresh.
+    if (a.ended && index < chapters.length - 1) return start(index + 1, true, true);
+    if (a.error || a.networkState === a.NETWORK_NO_SOURCE) {
+      pendingSeek.current = a.ended ? 0 : time;
+      a.src = chapter.url;
+      a.defaultPlaybackRate = a.playbackRate = rate;
+    }
+    setNotice('');
+    a.play().catch(blocked);
   }
 
   function skip(seconds: number) {
@@ -152,6 +181,18 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
     }, 1000);
     return () => clearInterval(timer);
   }, [sleep]);
+
+  // Keep the screen awake while a chapter is playing, so a phone's auto-lock can't stop it; pausing or the sleep timer lets it sleep.
+  useEffect(() => {
+    if (!playing) return releaseWakeLock(wakeLock);
+    let active = true;
+    const hold = () => void acquireWakeLock(wakeLock, () => active);
+    // Browsers drop the wake lock whenever the tab is hidden, so take it again on coming back.
+    const onVisibility = () => { if (document.visibilityState === 'visible') hold(); };
+    hold();
+    document.addEventListener('visibilitychange', onVisibility);
+    return () => { active = false; document.removeEventListener('visibilitychange', onVisibility); releaseWakeLock(wakeLock); };
+  }, [playing]);
 
   useEffect(() => {
     if (!chapter || !('mediaSession' in navigator)) return;
@@ -293,22 +334,19 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
           positionState();
         }}
         onTimeUpdate={e => {
-          setTime(e.currentTarget.currentTime);
-          if (chapter && Date.now() - lastSave.current > 5000) remember(chapter, e.currentTarget.currentTime);
+          const a = e.currentTarget;
+          setTime(a.currentTime);
+          if (!chapter || index === null) return;
+          if (!a.paused && sleep.minutes !== endOfChapter && index < chapters.length - 1 && Number.isFinite(a.duration) && a.currentTime > 0
+            && (a.duration - a.currentTime) / a.playbackRate < handoff) return finish();
+          if (Date.now() - lastSave.current > 5000) remember(chapter, a.currentTime);
         }}
-        onPlay={() => setPlaying(true)}
+        onPlay={() => { setPlaying(true); setNotice(n => (n === 'Tap play to continue.' ? '' : n)); }}
         onPause={e => { setPlaying(false); if (chapter && !e.currentTarget.ended) remember(chapter, e.currentTarget.currentTime); }}
         onSeeked={positionState}
         onRateChange={positionState}
-        onEnded={() => {
-          if (!chapter || index === null) return;
-          remember(chapter, 0, true);
-          const last = index === chapters.length - 1;
-          // Sleeping at the end of a chapter loads the next one paused, so Play (here or on the lock screen) starts it.
-          // Leaving the ended element in place replayed the finished chapter, or did nothing on some phones.
-          if (sleep.minutes === endOfChapter) { setSleep({ minutes: 0, until: 0 }); setPlaying(false); if (!last) start(index + 1, false); }
-          else if (!last) start(index + 1);
-        }}
+        onError={() => { if (chapter) { setPlaying(false); setNotice('This chapter could not load. Tap play to try again.'); } }}
+        onEnded={finish}
       />
     </div>
   );

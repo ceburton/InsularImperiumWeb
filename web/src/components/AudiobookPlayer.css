@@ -1,5 +1,5 @@
 .audiobook { min-height: 100dvh; background: radial-gradient(ellipse at top, #29231c, var(--color-obsidian) 70%); color: var(--color-parchment); }
-.audiobook-has-bar { padding-bottom: 210px; }
+.audiobook-has-bar { padding-bottom: 225px; }
 .audiobook button, .audiobook select { font: inherit; color: inherit; background: #17130e; border: 1px solid color-mix(in srgb, var(--color-bronze) 55%, transparent); border-radius: 8px; padding: .55rem .8rem; min-height: 44px; cursor: pointer; touch-action: manipulation; }
 .audiobook button:hover:not(:disabled), .audiobook select:hover { border-color: var(--color-bronze-light); color: var(--color-bronze-light); }
 .audiobook button:disabled { opacity: .35; cursor: default; }
@@ -44,6 +44,7 @@
 .audiobook-bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 20; display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "title options" "seek seek" "controls controls"; gap: .5rem 1rem; padding: .75rem max(1rem, env(safe-area-inset-right)) max(.75rem, env(safe-area-inset-bottom)) max(1rem, env(safe-area-inset-left)); background: #0d0c0bf2; border-top: 1px solid var(--color-bronze-dark); box-shadow: 0 -10px 40px #0008; backdrop-filter: blur(8px); }
 .audiobook-bar-title { grid-area: title; display: grid; min-width: 0; align-self: center; }
 .audiobook-bar-title span { font-family: 'Cinzel', Georgia, serif; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.audiobook-pov { font-size: .7rem; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: var(--color-bronze-light); }
 .audiobook-bar-title small { font-size: .75rem; color: var(--color-parchment-dark); }
 .audiobook-seek { grid-area: seek; display: flex; align-items: center; gap: .75rem; font-size: .8rem; font-variant-numeric: tabular-nums; }
 .audiobook-seek input { flex: 1; min-width: 0; accent-color: var(--color-bronze-light); height: 28px; }
@@ -59,7 +60,7 @@
 @media (max-width: 700px) {
   .audiobook-hero { grid-template-columns: 1fr; text-align: center; }
   .audiobook-hero img { max-width: 260px; margin: 0 auto; }
-  .audiobook-has-bar { padding-bottom: 250px; }
+  .audiobook-has-bar { padding-bottom: 265px; }
   .audiobook-bar { grid-template-columns: 1fr; grid-template-areas: "title" "seek" "controls" "options"; }
   .audiobook-options { justify-content: center; }
   .audiobook-controls { gap: .4rem; }

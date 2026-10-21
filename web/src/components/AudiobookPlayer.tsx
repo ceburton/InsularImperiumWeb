@@ -194,6 +194,8 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
   const mainLabel = index !== null ? (playing ? 'Pause' : 'Resume')
     : resumePoint > 0 || resumeIndex > 0 ? `Continue: ${resumeChapter.title}${resumePoint > 0 ? ` at ${clock(resumePoint)}` : ''}` : 'Start listening';
   const duration = chapter?.duration || 0;
+  // Whose point of view is being read: the last POV header already spoken, or the first one during the chapter title.
+  const pov = chapter?.pov && (chapter.pov.findLast(([t]) => t <= time) ?? chapter.pov[0])?.[1];
   const directories = [['Apple Podcasts', book.directories.apple], ['Spotify', book.directories.spotify], ['Pocket Casts', book.directories.pocketCasts]].filter(([, url]) => url);
 
   return (
@@ -257,6 +259,7 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
       {chapter && (
         <div className="audiobook-bar" role="region" aria-label="Audio player">
           <div className="audiobook-bar-title">
+            {pov && <strong className="audiobook-pov" title="Point of view">{pov}</strong>}
             <span>{chapter.title}</span>
             {notice && <small>{notice}</small>}
           </div>
@@ -300,8 +303,11 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
         onEnded={() => {
           if (!chapter || index === null) return;
           remember(chapter, 0, true);
-          if (sleep.minutes === endOfChapter) { setSleep({ minutes: 0, until: 0 }); setPlaying(false); }
-          else if (index < chapters.length - 1) start(index + 1);
+          const last = index === chapters.length - 1;
+          // Sleeping at the end of a chapter loads the next one paused, so Play (here or on the lock screen) starts it.
+          // Leaving the ended element in place replayed the finished chapter, or did nothing on some phones.
+          if (sleep.minutes === endOfChapter) { setSleep({ minutes: 0, until: 0 }); setPlaying(false); if (!last) start(index + 1, false); }
+          else if (!last) start(index + 1);
         }}
       />
     </div>

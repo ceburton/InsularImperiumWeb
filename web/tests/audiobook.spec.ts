@@ -2,6 +2,7 @@ import { readFileSync } from 'node:fs';
 import path from 'node:path';
 import { test, expect, type Page } from '@playwright/test';
 import data from '../src/data/audiobook.json';
+import type { AudiobookChapter } from '../src/lib/audiobook';
 
 const { chapters } = data;
 const tone = readFileSync(path.join(__dirname, 'fixtures', 'tone.mp3'));
@@ -54,6 +55,32 @@ test('a finished chapter is marked and the next one starts', async ({ page }) =>
   await expect(bar(page)).toHaveCount(0);
   expect((await saved(page)).rate).toBe(2);
   await expect(page.getByRole('button', { name: new RegExp(`^Continue: ${chapters[1].title}`) })).toBeVisible();
+});
+
+test('sleep at end of chapter stops there, and Play then starts the next chapter', async ({ page }) => {
+  await page.goto('/media/audiobook');
+  await page.getByRole('button', { name: `Play ${chapters[0].title}` }).click();
+  await bar(page).getByLabel('Speed').selectOption('2');
+  await bar(page).getByLabel('Sleep').selectOption('End of chapter');
+  await expect.poll(async () => (await saved(page)).places[chapters[0].slug]?.done, { timeout: 10000 }).toBe(true);
+  await expect(bar(page).getByRole('button', { name: 'Play', exact: true })).toBeVisible();
+  await expect(bar(page).getByLabel('Sleep')).toHaveValue('0');
+  expect(await page.evaluate(() => document.querySelector('audio')!.paused)).toBe(true);
+  // The next chapter is loaded but not playing, rather than the finished one sitting at its end.
+  await expect(bar(page)).toContainText(chapters[1].title);
+  expect(await page.evaluate(() => document.querySelector('audio')!.ended)).toBe(false);
+
+  await bar(page).getByRole('button', { name: 'Play', exact: true }).click();
+  await expect(bar(page).getByRole('button', { name: 'Pause', exact: true })).toBeVisible();
+  await expect.poll(() => page.evaluate(() => document.querySelector('audio')!.currentTime)).toBeGreaterThan(0.5);
+  expect(await page.evaluate(() => document.querySelector('audio')!.src)).toBe(chapters[1].url);
+});
+
+test('the player shows whose point of view is being read', async ({ page }) => {
+  const c = (chapters as AudiobookChapter[]).find(ch => ch.pov?.length)!;
+  await page.goto('/media/audiobook');
+  await page.getByRole('button', { name: `Play ${c.title}` }).click();
+  await expect(bar(page).locator('.audiobook-pov')).toHaveText(c.pov![0][1]);
 });
 
 test('a regenerated chapter resumes at the same proportion and says so', async ({ page }) => {

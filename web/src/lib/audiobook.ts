@@ -1,8 +1,9 @@
 import data from '@/data/audiobook.json';
 
 // src/data/audiobook.json is written by `npm run audio:publish` (web/scripts/publish-audiobook.mjs).
-export type AudiobookChapter = (typeof data.chapters)[number];
-export const chapters: AudiobookChapter[] = data.chapters;
+// pov: [seconds, name] for each point-of-view switch, from the generator's manifest.json cues.
+export type AudiobookChapter = Omit<(typeof data.chapters)[number], 'pov'> & { pov?: [number, string][] };
+export const chapters = data.chapters as AudiobookChapter[];
 
 const site = 'https://www.insularimperium.com';
 

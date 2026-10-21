@@ -45,7 +45,7 @@ async function isUploaded(version, name, size) {
 
 const chapters = [];
 let uploaded = 0;
-for (const [slug, { track }] of Object.entries(manifest).sort((a, b) => a[1].track - b[1].track)) {
+for (const [slug, { track, cues }] of Object.entries(manifest).sort((a, b) => a[1].track - b[1].track)) {
   const name = `${String(track).padStart(2, '0')} - ${slug}.mp3`;
   const file = path.join(dir, name);
   const { size, mtimeMs } = await stat(file).catch(() => fail(`Missing ${file} (listed in manifest.json)`));
@@ -69,7 +69,7 @@ for (const [slug, { track }] of Object.entries(manifest).sort((a, b) => a[1].tra
     console.log(`${Math.round((Date.now() - start) / 1000)}s`);
     uploaded++;
   }
-  chapters.push({ track, slug, title: info.title, duration: info.duration, bytes: size, sha256: info.sha256, url: `${baseUrl}/${key}`, firstPublished: firstPublished.get(slug) || today });
+  chapters.push({ track, slug, title: info.title, duration: info.duration, bytes: size, sha256: info.sha256, url: `${baseUrl}/${key}`, firstPublished: firstPublished.get(slug) || today, pov: cues || [] });
 }
 
 // Written only after every upload succeeded, so the site never points at a missing file.

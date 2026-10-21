@@ -9,7 +9,8 @@
     "lint": "eslint",
     "test:reader": "playwright test",
     "audio:publish": "node --env-file=.env.local scripts/publish-audiobook.mjs",
-    "audio:prune": "node --env-file=.env.local scripts/prune-audiobook.mjs"
+    "audio:prune": "node --env-file=.env.local scripts/prune-audiobook.mjs",
+    "audio:release": "node scripts/release-audiobook.mjs"
   },
   "dependencies": {
     "framer-motion": "^12.35.0",

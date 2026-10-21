@@ -2,6 +2,23 @@
 
 How to regenerate audiobook chapters and put them live on insularimperium.com.
 
+## After editing the story: one command
+
+The generator reads the story-bible chapters in `C:\Users\GameOn\Projects\GridGeneral\documentation\story-bible\chapters\`, **not** the website reader file (`web/public/stories/Insular-Imperium.md`). Once you've finished editing those chapters, run this in `web`:
+
+```
+npm run audio:release
+```
+
+It:
+
+1. Lists the chapters whose narration changed (`make_audiobook.py --check`) and asks `Render and publish? (y/N)`. Answering no changes nothing.
+2. Re-renders only those chapters, and records the POV timings that show the "Marcus" / "Sylara" label in the player. This takes about a minute per chapter on the RTX 4070.
+3. Uploads the new MP3s to Bunny and rewrites `web/src/data/audiobook.json` (`npm run audio:publish`).
+4. Stops before anything goes live, and prints the last steps: listen to a changed chapter, then commit and push `web/src/data/audiobook.json` so Vercel deploys it.
+
+Add `-- --yes` to skip the question. Nothing renders on its own when you save a chapter; it only happens when you run this command. The sections below are the individual steps it runs, if you ever need one on its own.
+
 ## How it fits together
 
 | Piece | Where |
@@ -15,7 +32,9 @@ How to regenerate audiobook chapters and put them live on insularimperium.com.
 
 The website (Vercel) only holds the chapter list. The MP3s live on Bunny.
 
-## Regenerating chapters
+## Regenerating chapters step by step
+
+To see which chapters would be re-rendered without changing anything: `python make_audiobook.py --check`.
 
 1. **Generate the MP3s.** In `C:\insular-imperium-audio`, run:
 
@@ -23,7 +42,7 @@ The website (Vercel) only holds the chapter list. The MP3s live on Bunny.
    python make_audiobook.py
    ```
 
-   Only changed chapters are re-rendered. Wait for it to finish; the publish script refuses to run while `.partial.` files are still in the audiobook folder.
+   Only changed chapters are re-rendered. Each render also records when every `**NAME**` point-of-view header is spoken (`cues` in `manifest.json`); the publish script copies these into the chapter list as `pov`, and the player shows the current name above the chapter title. For MP3s rendered before cues existed, `python make_audiobook.py --cues` times them without re-encoding. Wait for it to finish; the publish script refuses to run while `.partial.` files are still in the audiobook folder.
 
 2. **Upload to Bunny.** In this repo, run:
 

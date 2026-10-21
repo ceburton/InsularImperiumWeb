@@ -5,6 +5,7 @@ import Link from 'next/link';
 import Markdown from 'react-markdown';
 import { offsetForPage, pageForOffset, pageForTextIn } from '@/lib/readerPagination';
 import { englishVoices, narrationBlocks, speechChunks } from '@/lib/readerNarration';
+import { acquireWakeLock, releaseWakeLock } from '@/lib/wakeLock';
 import './StoryReader.css';
 
 type Chapter = { title: string; text: string };
@@ -32,22 +33,6 @@ function savePlace(settings: Settings, chapter: number, offset: number, listen: 
 }
 
 const wakeIdleMs = 15 * 60 * 1000;
-
-async function acquireWakeLock(holder: { current: WakeLockSentinel | null }, wanted: () => boolean) {
-  try {
-    if (!('wakeLock' in navigator) || holder.current || document.visibilityState !== 'visible') return;
-    const lock = await navigator.wakeLock.request('screen');
-    if (!wanted() || holder.current) { void lock.release(); return; }
-    holder.current = lock;
-    lock.addEventListener('release', () => { if (holder.current === lock) holder.current = null; });
-  } catch { /* Wake lock is optional. */ }
-}
-
-function releaseWakeLock(holder: { current: WakeLockSentinel | null }) {
-  const lock = holder.current;
-  holder.current = null;
-  lock?.release().catch(() => { /* Already released. */ });
-}
 
 const icons = {
   prev: <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5h2v14H6zM20 5v14L9 12z" /></svg>,

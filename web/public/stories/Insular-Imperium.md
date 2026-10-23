@@ -4365,233 +4365,93 @@ She looked at him a moment longer, and nodded once.
 
 ---
 
-The chair came up the fort road at sundown on the shoulders of four shipwrights, and Marcus heard it before he saw it.
+Oppius knew who had not come to his pot as a moneylender knows who has not paid. At sundown he fixed Marcus with his one eye, pushed a bowl at him without a word, and jerked his head at the west tower.
 
-A drum had started at the foot of the hill: a slow limping three, struck on a cooking pot. *Dum*, da-da. *Dum*, da-da. The last time he had heard it, a woman had been dancing barefoot on a ship's hatch-cover with the sparks climbing round her, and he had stood in the dark and wanted her until his hands went still.
+So Marcus carried it himself, down the fort road and out along the mole, and up.
 
-His hands went still now. His face went hot to the ears.
+The stair took his breath. The roof of the west tower was a ring of parapet round a bolt-thrower, with old snow in the joints of the stone, the gap on one side, the harbor on the other, and the wind coming in off the Grey. Gaius stood with his ear against one of the bolt-thrower's great twisted skeins, listening to it. The man in the shawl waited at the windlass with two of the crew. And Alana sat in an embrasure on the harbor side, with her back against one cheek of it and her boots against the other and the weather-book open on her knees. The wind was taking her hair down at the nape, a pin at a time. There was ink under her ear, where she had pushed it back with a wet pen.
 
-It came in at the gate on two oars lashed for poles, with the cohort walking backward ahead of it to watch, and Gaius behind it like a man behind a bier he has paid for.
+Gaius took his ear off the skein and looked at the bowl.
 
-It was black oak, every joint pegged, rubbed with linseed and beeswax until it shone like a wet seal, and it smelled of the yards: pitch and shavings and steamed oak. The arms ended in leaping dolphins. Up the high back a spiral of sparks was cut deep into the grain, and at the top of it stood a woman no longer than his hand, her head flung back and her arms up and her skirts flying out in a wheel. Beside her the rail was bare, smooth oak with nothing in it; and she was turning toward it.
+"If that's for me, Highness, I've eaten."
 
-The shipwrights had been at the fire that night. They had even got the space.
+"It isn't."
 
-"That," said Gaius, at his elbow, "was keel stock."
+"No." Gaius looked at the bowl, and at the embrasure, and at the prince, as he looked at a joint some man had sworn to him was sound. Then he slid his rule into his belt. "Supper," he told the crew. "Oppius's pot. Where there's a bowl for everyone."
 
-They set it down by the well. Alana, on the well-curb with the weather-book, looked up at the chair, and at the top rail; and the color went up her from the collar of the scorched violet to the roots of her hair, like wine soaking into a cloth.
+The man in the shawl went down first, and fastest.
 
-"Centurion," said Rufo. "It wants presenting proper. By an officer." He paused. "The lads asked particular."
+Alana had not looked up from the book.
 
-He had made speeches once, at his father's high table, and been good at it the way he had been good at dice: easily, and for nothing. He had done her voice there, with her verses in his hand. He had thought the knack drowned in the Lower Canal. It was only sober. He had never once used it for anyone but himself.
+"Oppius sent it," said Marcus.
 
-He walked to the well.
+"I've eaten."
 
-"Lady—" he said.
+"When?"
 
-"*Not a lady,*" said the cohort, as one man.
+She lifted her pen and considered it. "Yesterday," she said, as if the answer interested her.
 
-"No," Marcus agreed. "A chair. She said so, the night my father sent us here." He turned to her. "Alana of Corvus. That same night you told me you'd like a good seat." He let it sit. "To watch me die."
+He held out the bowl. After a moment she shut the book on the pen and took it: mutton and barley, the fat gone gold on top and rosemary in what was left of the steam, and turnips. She turned one up on the spoon. There was a neat slot through the middle of it, the shape of a spear-head.
 
-The courtyard went quiet. Her hand, flat on the open book, closed on the page.
+"There's a hole in my turnip."
 
-"I've been a poor host. On the *Clemency* the best seat was a cask. The shipwrights of Cyrene have put that right." He nodded to the shipwrights, their caps wrung to rope in their fists. "This is oak Master Gaius was keeping for a keel. He's in mourning.
+"That's the Lanciarii's. It was in the front rank yesterday."
 
-"These men had people on the Kettle Bank. You lit them, every one, and let them go out like lamps at the end of a feast, and lie down at last. Everything these men ever built was made to go to sea and come home. This is made to stay. They've put dolphins on the arms, because in Cyrene the dolphins bring the drowned home. And on the black beach, I'm told, you danced, and the fire got up out of its bed to dance with you." He did not look at the top rail. It cost him. "They've carved what they saw. I'm assured it's faithful."
+"Did it hold?"
 
-He bowed: not the short bow of the court, but the long one that begins the man's figure of the Long Measure, with the hand that should open to her kept shut at his side. He had asked once, on the beach. Nobody in the courtyard would know it but her.
+"Better than the General."
 
-"So take your seat, Chair. It's the best on the island. I only ask your patience. I mean to keep you waiting for the entertainment a very long while."
+She ate it.
 
-In the cave he had watched her face shut like a book.
+He went to the parapet beside her, not close, and looked where she had been looking. From up here the whole bay lay open, and across it the water-gate stair, small and grey, with the black mouth of the gate at the top. Tomorrow night there would be a lamp on the bottom step, and Rufo's shields in the dark of the gate, and himself among them.
 
-He watched it open. Her mouth went at one corner, thin as a paper cut, the smile she had given him in his father's hall over the prospect of his death; and then it would not stay thin. Her eyes were very bright. He saw her throat move.
+"Gaius has found you a good seat," he said.
 
-"How long?" said Alana.
+He heard it as it left him. So did she. The spoon stopped.
 
-She said it plainly, as she would have asked the depth under a keel. The courtyard heard the other meaning first. A low, delighted sound went through the cohort like wind through barley, and he watched her hear it a heartbeat after them, and the color come up her again from the collar.
+He had carried those words about with him since his father's hall. He had not meant to hand them back to her.
 
-*Don't.*
+"The best in the harbor," said Alana. She looked down the length of the water at the stair. "I asked for one once, as I recall."
 
-"As long as the Chair can bear it," said Marcus.
+"So do I."
 
-*Dum*, went Kaeso's pot.
+"To watch you die." She said it as plainly as she read out the wind. Then she was quiet for a while, with the bowl going cold in her lap, looking at the stair and not at him.
 
-Fingers was on his feet. "*Book's open on how long! Evens, and I'll take any man's coppers!*"
+"I find," said Alana, "that I'd rather you disappointed me."
 
-Alana shut the weather-book on her pen and put her chin up over the scarlet.
+He looked at the harbor, because it was safer than looking at her.
 
-"I have read that promise, Highness, in every tongue they taught at Corvus. In most of them it rhymes. It is very old, and the commentaries are not encouraging."
+"I've had a great deal of practice," he said.
 
-The courtyard came apart. Oppius sat down on a water-butt.
+"I know. I was there for some of it."
 
-"With respect to the Chair," said Marcus, "Corvus wrote the commentaries. The capital kept up the practice. I never heard a complaint."
+It went in clean, as her cuts always did, and he found that he was smiling. "Yes," said Marcus. "You were."
 
-"You never stayed long enough to hear one," said Alana.
+She bent over the bowl, but not before he had seen her mouth give her away.
 
-It went in under his guard: a girl in violet at the edge of a floor, and a man who had not stayed. He laughed, because it was true and she had earned it, and Kaeso struck the pot for her twice.
+He did not ask her what she meant. On the beach he had asked her for one thing and been told *not tonight*, and he would not ask again. She would say, or she would not. He knew how to take a gate. He was still learning how to stand on a roof at sundown, two paces from this woman, and ask her for nothing.
 
-She came down off the well-curb and went round behind the chair as a master of Corvus goes round a student's proof, drew the pen out of the book, and laid it along the carved woman's leg from the flying hem to the heel.
+The light went off the water all at once, and the Grey came up blue over the gap. On the headland the bell-arch stood empty against the last of the sky; tomorrow it would have its lamps. She was looking at the gap now, where the ship would come, and he saw her right hand close on the spoon. *No fire on the ship.* He had given that order in the cave and watched it go into her, and there was nothing he could say about it now that would not make it worse.
 
-"A thumb too high," she said.
+"Eat the rest," he said. "It's going cold."
 
-"It isn't," said Marcus.
+"Is that an order, Highness?"
 
-The whole back rank bellowed at him: "*He'd know!*"
+"It's Oppius's."
 
-"He would," Alana agreed. "From the dunes. In the dark."
+She ate the rest.
 
-"Close enough," said Marcus, "to get the knees right."
+He took the empty bowl. At the head of the stair he turned and gave her a bow. Not the court's: the long, low bow a player makes at the end of the play, to the best seat in the house.
 
-Rufo had to take hold of the well-sweep.
+She kept her face, as a sentry keeps his when his centurion goes by in a nightshirt, and at about the same cost.
 
-Alana laid her palm flat on the seat of the chair, as a woman tries the bed at an inn before she pays for it, and pressed.
-
-"And how is it joined?"
-
-"Pegged, Chair," said the oldest shipwright, brightening; this was his own ground. "Glue's for furniture. A peg, you drive it home dry, and the damp swells it, and it holds the tighter the harder she's worked."
-
-Kaeso dropped his stick, and sat down beside it.
-
-"Thank you, master shipwright," said Alana. "That was very clear."
-
-She ran her thumb over the head of the left-hand dolphin, where the oak had been rubbed as smooth as skin, and looked at Marcus over it.
-
-"And will it bear me?"
-
-"It was cut to carry a ship through a winter gale," said Marcus.
-
-"You've not seen me in a gale, Highness."
-
-"I've seen you in a fire."
-
-It came out lower than he meant, and true. Nobody laughed. Kaeso found his stick and struck the pot once, softly, and let it ring.
-
-She looked at the dolphin. For the first time since the drum began, she did not look at him.
-
-"Evens," said Fingers, hoarse. "Evens again, gods help us."
-
-The old shipwright, looking from her face to the chair and back, said, "She's stiff yet, Chair. New joints. She'll want a season's sitting to break her in."
-
-Alana sat down in it.
-
-She did it all at once, chin first, as she had once walked the length of the Lesser Hall. She leaned back into the spiral of sparks until her shoulders found the carving, laid her forearms along the dolphins, and moved once, settling, with the small shift of the hips that a rider makes in a strange saddle. The violet silk drew tight across her thighs and stayed there. Her hair was coming down at the nape, her throat above the scorched collar was scarlet to the jaw, and over her head the little oak woman flung up her arms. The shipwrights had got her exactly. They had not got this.
-
-She looked up at him from the chair.
-
-"I'll break it in myself," she said. "I shall sit on it every night until it learns my shape."
-
-He did not hear what the courtyard did. He saw it. The shipwrights, who had understood at last, shaking hands with one another gravely all round, as men do when the hull has gone down the ways and floated. And Kaeso, unasked, striking up the limping three on his pot, hopefully, *Dum*, da-da; and Rufo, without looking round, laying one broad hand flat on the pot to stop it, and standing there with his face entirely grave and the tears running down into the creases of it.
-
-Marcus's face hurt. He could not remember being so happy. He could remember a good deal, these days.
-
-"The prince loses," he said. "Fair throw."
-
-The roar for that was still going when the iron came across the courtyard.
-
-It was not loud, a chink and a drag; but the noise went out of the courtyard the way the sea goes off a flat. Iason came first, and behind him Nonius in his irons, with Liora's clean linen wound round his ankles under the cuffs and a lamp, unlit, in his chained hands. Iason was taking him down to walk the water-gate stair in the dark, from the bottom step up into the gate, the way he was to walk it tomorrow night.
-
-The boy looked at the chair as he passed, at the little oak woman with her skirts up, and something went across his face that was very nearly a grin. Then it was gone, and he went on into the black mouth of the passage.
-
-Kaeso put his stick away inside his shirt.
-
-Alana was not watching the boy. She was watching the lamp in his hands until the dark took it; and her right hand, on the dolphin's head, closed. *No fire on the ship.* It sat between them on the cobbles, as plain as the chair.
-
-"Mutton," said Rufo, to nobody.
-
-They went down the hill to Oppius's pot, not singing, and took the shipwrights with them. The courtyard went blue with dusk. She was still in the chair.
-
-"That was a good speech," said Alana. She said it to the dolphin.
-
-"It was a good chair."
-
-"It was a good speech, Highness. Don't spoil it."
-
-He did not spoil it. He did not know what this was. With other women there had been a shape to it, a look across a room and a door at the end. This had none he knew. On the beach she had said *not tonight*. She had not said *never*.
-
-*A season's sitting.* They had a night and a day.
-
-She was looking past him, through the gate, at the empty bell-arch on the headland.
-
-"I'll be precise," she said.
-
-"I know."
-
-"And if you're wrong, I'm to write it down."
-
-"Yes."
-
-"Which end of the book?"
-
-He had no answer. The weather went in the front of that book, and the dead in the back; and he carried a page torn from the back of it in his oilskin, with names on it in her hand and his.
-
-She looked at him as if he were a sum she had not finished; and then she put the evening back on her face, deliberately, as a woman pins up her hair.
-
-"Somebody," said Alana, "will have to carry this up to my room. And I am not going to ask any of them."
-
-She went in at the tower door with the book under her arm, and did not shut it behind her.
-
-He carried it up himself. It was very heavy. It was keel stock.
-
-The stair turned on itself like the inside of a whelk. He took it up upside down, the seat across his shoulders and the legs in the air, with the high back hanging down behind him and the little oak woman bumping along at his heels head-down, kicking. Alana went before them with a lamp. He did not look at her ankles on the steps above him. Then he did. Before the top he had skinned his knuckles on the stone, his shirt was stuck to him and his thighs burned, and she was waiting in the doorway at the top. He had watched her dance from the dark; she stood in the light now and watched him carry, and did not pretend to be doing anything else.
-
-It was the room she had taken because it had a door that shut. A cot. Her trunk at the foot of it. A window-slit with a deep sill, where she set the lamp. It smelled of lamp oil and ink. Once the chair was in, there was not much room left for anything, including him.
-
-"By the cot," she said.
-
-He set it down by the cot. She considered it with her head on one side.
-
-"No," she said. "It gives the cot ideas."
-
-He looked at her. She looked at the chair. He picked it up.
-
-"The foot of the cot, then."
-
-There was no way to the foot of the cot but over it. He went with one knee on the blanket and the ropes creaking under him and his face in the carved sparks, and looked up to find her watching his knee on her bed; and he took it off as if the blanket had been a stove. He set the chair down by the trunk.
-
-"No," she said, a shade too quickly. "Then I'd have to climb over it to get into bed."
-
-"You could go round."
-
-"There isn't any round, Highness. You're standing in all of it."
-
-He was. He picked the chair up.
-
-"Face it to the door."
-
-The top rail scraped the vault and brought down a sift of old whitewash into his hair, and she did not laugh, visibly. He set it in the middle of the floor facing the door, where it filled the room like a throne in a cupboard.
-
-"No," she said. "I'd sit all night watching the door."
-
-"For what?"
-
-"Draughts," said Alana.
-
-He picked it up.
-
-"The window."
-
-He set it down under the window-slit and stood with both hands on the top rail, out of breath. The little carved woman was under his right palm: the flung arms, the wheel of skirt, warm from his own hand. She saw where his hand was. He moved it. Through the slit, past the lamp, lay the gap, and the west tower over it, where she would be tomorrow night with Gaius and the bolt-thrower, and no fire.
-
-"There," she said. "It stays there."
-
-She sat down in it, facing the gap, with the weather-book on her knee.
-
-At the door he looked back, and came back. He did not ask. He stepped in between her and the slit, took hold of the two dolphins beside her hands, and tipped the chair back on its hind legs with her in it, so that her breath went out of her and her hands came down hard over his. It was very heavy. She was in it. For the space of it his face was a hand's breadth above hers, close enough to see the pulse going in her throat, and he did not close it. He walked it round on its heels a thumb's width toward the cot, and let it down.
-
-He straightened. He considered it with his head on one side, exactly as she had considered every place he had set it down. He looked at the cot. He looked at her.
-
-She sat bolt upright in the black oak and kept her face: brows drawn down hard, mouth pressed flat, the inside of her cheek between her teeth. But her eyes were watering at the corners, and her throat kept working at something that wanted badly to get out, like a gale leaning on a door.
-
-He gave her the court bow, from the neck, and went out without a word.
-
-He shut the door on her before it went.
+He was three turns down the stair before he heard her laugh. He stood in the dark and listened to it until it stopped. Then he went on down to look at the bottom step, where the lamp would be.
 
 ---
 
 **ALANA**
 
-At dusk Tam rang the bell twice, and the bay of Cyrene went quiet, as a room goes quiet when someone says a name.
+At dusk the next day Tam rang the bell twice, and the bay of Cyrene went quiet, as a room goes quiet when someone says a name.
 
 She was on the roof of the west tower at the end of the mole, with the gap on her left hand and the dark harbor on her right. Then, high on the headland, three lamps came alight in the bell-arch one after another and hung there like three nail-heads of gold driven into the dark.
 
@@ -4909,7 +4769,7 @@ She was without her cloak, with the lamplight on her and the snow coming down be
 
 So she did the second sum. It was shorter.
 
-The day Liora healed that burned hand, Alana had not looked at it in a day, and a woman who will not look at her own hand is not planning to need it long. Something had changed her mind since. Liora could name two things that had, and one of them was sitting on her bucket. The other was two hundred thieves, who called her the Chair and had drummed a real one up the fort road for her, and would carve the face off anyone who made her sorry she had sat in it. And a prince pulled two ways between two women, in a fort, at the start of a war, with nowhere to walk a quarrel off: Liora had seen what that did to a column. She had washed what it did.
+The day Liora healed that burned hand, Alana had not looked at it in a day, and a woman who will not look at her own hand is not planning to need it long. Something had changed her mind since. Liora could name two things that had, and one of them was sitting on her bucket. The other was two hundred thieves, who called her the Chair, and would carve the face off anyone who made her sorry she had come. And a prince pulled two ways between two women, in a fort, at the start of a war, with nowhere to walk a quarrel off: Liora had seen what that did to a column. She had washed what it did.
 
 She could perhaps win. She was not modest about her face; too many people had told her about it. And she would lose more than she won. The cohort. Alana, who had walked down through the town in the dusk to tell her about the vat with her own mouth, and had not softened a word, because she had judged that Liora could bear it; nobody else on the island had paid her that compliment. And the man himself, split down the middle, which was no use to anybody, least of all to a kingdom.
 
@@ -5759,9 +5619,7 @@ The spare hafts could wait.
 
 **ALANA**
 
-The chair took up half the room.
-
-Marcus had set it down by the window-slit two nights ago, out of breath, and gone down the stair again without a word. It was keel stock. Tonight she sat in it with the weather-book on her knee and the lamp on the sill, and the trunk at the foot of the cot, and the little carved woman on the top rail flinging up her arms over her head; and she could not write the weather. *Wind, none. The Grey thick to the gap, yellow at the*—and there it stopped.
+She sat on the cot with the weather-book on her knee and the lamp on the sill, in the room she had taken because it had a door that shut; and she could not write the weather. *Wind, none. The Grey thick to the gap, yellow at the*—and there it stopped.
 
 She turned to the back instead.
 
@@ -5769,7 +5627,7 @@ She had done it every night for two years, in the lodging-house and in the stern
 
 She tried to remember when she had last done it.
 
-Not last night; last night she had not slept. Not the night before, when she had sat in this chair scarlet to the hair and thought of nothing in the world but how the joints were pegged. Not the night of the drill, when she had laughed herself sick at the General in the surf. Not since the still-room.
+Not last night; last night she had not slept. Not the night before, when she had sat on her cot until the lamp guttered, thinking of nothing in the world but a prince bowing like a player at the head of a stair. Not the night of the drill, when she had laughed herself sick at the General in the surf. Not since the still-room.
 
 She waited for the old weight to come down. It did not come. She read them down again from the top, slowly, and it still did not come; and through the window-slit, far off, the cohort on the black beach was murdering a song.
 

@@ -256,10 +256,10 @@
       "track": 12,
       "slug": "ch11-the-tally",
       "title": "Chapter Eleven: The Tally",
-      "duration": 4441,
-      "bytes": 35615698,
-      "sha256": "25a2572a3d0bbe78278093e71ed875febf261623b995f787a9a94331ec5588c7",
-      "url": "https://audio.insularimperium.com/v/25a2572a/ch11-the-tally.mp3",
+      "duration": 3815,
+      "bytes": 30606226,
+      "sha256": "d509d5f5fc8a942fa827268e61fb569bda6e056b16baa0fe84d7aa3c0698f7f1",
+      "url": "https://audio.insularimperium.com/v/d509d5f5/ch11-the-tally.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -271,15 +271,15 @@
           "Marcus"
         ],
         [
-          2146.1,
+          1521.3,
           "Alana"
         ],
         [
-          3380.2,
+          2756.2,
           "Liora"
         ],
         [
-          4164.2,
+          3538,
           "Marcus"
         ]
       ]
@@ -288,10 +288,10 @@
       "track": 13,
       "slug": "ch12-four-in-five",
       "title": "Chapter Twelve: Four in Five",
-      "duration": 5339,
-      "bytes": 42801877,
-      "sha256": "dce3db70ada119ca26abe49c6d62266f4a117cd20df080d30b6f04ce377518c5",
-      "url": "https://audio.insularimperium.com/v/dce3db70/ch12-four-in-five.mp3",
+      "duration": 5328,
+      "bytes": 42715477,
+      "sha256": "5df8c4cbd6457d10fddecb22042245f8140b57339fb0a04f208dcc6c1a325b84",
+      "url": "https://audio.insularimperium.com/v/5df8c4cb/ch12-four-in-five.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [

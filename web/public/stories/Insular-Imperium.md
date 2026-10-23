@@ -6,31 +6,30 @@
 
 1. [Chapter One: The Drowned Lantern](#chapter-one-the-drowned-lantern)
 2. [Chapter Two: The Eulogy](#chapter-two-the-eulogy)
-3. [Chapter Two, continued: The Good Seat](#chapter-two-continued-the-good-seat)
-4. [Chapter Three: The Clemency](#chapter-three-the-clemency)
-5. [Chapter Four: The Grey](#chapter-four-the-grey)
-6. [Chapter Five: The Kettle Bank](#chapter-five-the-kettle-bank)
-7. [Chapter Six: The Black Beach](#chapter-six-the-black-beach)
-8. [Chapter Seven: The Heart-Stone](#chapter-seven-the-heart-stone)
-9. [Chapter Eight: Not a Lady](#chapter-eight-not-a-lady)
-10. [Chapter Nine: Page Two](#chapter-nine-page-two)
-11. [Chapter Ten: The Writ](#chapter-ten-the-writ)
-12. [Chapter Eleven: The Tally](#chapter-eleven-the-tally)
-13. [Chapter Twelve: Four in Five](#chapter-twelve-four-in-five)
-14. [Chapter Thirteen: Two Wounds](#chapter-thirteen-two-wounds)
-15. [Chapter Fourteen: The Boundary](#chapter-fourteen-the-boundary)
-16. [Chapter Fifteen: One Voice](#chapter-fifteen-one-voice)
-17. [Chapter Sixteen: The Measure](#chapter-sixteen-the-measure)
-18. [Chapter Seventeen: The Heart-Grove](#chapter-seventeen-the-heart-grove)
-19. [Chapter Eighteen: The Song Closes](#chapter-eighteen-the-song-closes)
-20. [Chapter Nineteen: Not an Angel](#chapter-nineteen-not-an-angel)
-21. [Chapter Twenty: The Roof of the Sea](#chapter-twenty-the-roof-of-the-sea)
-22. [Chapter Twenty-One: Two Runners](#chapter-twenty-one-two-runners)
-23. [Chapter Twenty-Two: Slack Water](#chapter-twenty-two-slack-water)
-24. [Chapter Twenty-Three: The Wakening](#chapter-twenty-three-the-wakening)
-25. [Chapter Twenty-Four: The Warm Roads](#chapter-twenty-four-the-warm-roads)
-26. [Chapter Twenty-Five: Every Hull I Touched](#chapter-twenty-five-every-hull-i-touched)
-27. [Chapter Twenty-Six: A Day We Can Spare](#chapter-twenty-six-a-day-we-can-spare)
+3. [Chapter Three: The Clemency](#chapter-three-the-clemency)
+4. [Chapter Four: The Grey](#chapter-four-the-grey)
+5. [Chapter Five: The Kettle Bank](#chapter-five-the-kettle-bank)
+6. [Chapter Six: The Black Beach](#chapter-six-the-black-beach)
+7. [Chapter Seven: The Heart-Stone](#chapter-seven-the-heart-stone)
+8. [Chapter Eight: Not a Lady](#chapter-eight-not-a-lady)
+9. [Chapter Nine: Page Two](#chapter-nine-page-two)
+10. [Chapter Ten: The Writ](#chapter-ten-the-writ)
+11. [Chapter Eleven: The Tally](#chapter-eleven-the-tally)
+12. [Chapter Twelve: Four in Five](#chapter-twelve-four-in-five)
+13. [Chapter Thirteen: Two Wounds](#chapter-thirteen-two-wounds)
+14. [Chapter Fourteen: The Boundary](#chapter-fourteen-the-boundary)
+15. [Chapter Fifteen: One Voice](#chapter-fifteen-one-voice)
+16. [Chapter Sixteen: The Measure](#chapter-sixteen-the-measure)
+17. [Chapter Seventeen: The Heart-Grove](#chapter-seventeen-the-heart-grove)
+18. [Chapter Eighteen: The Song Closes](#chapter-eighteen-the-song-closes)
+19. [Chapter Nineteen: Not an Angel](#chapter-nineteen-not-an-angel)
+20. [Chapter Twenty: The Roof of the Sea](#chapter-twenty-the-roof-of-the-sea)
+21. [Chapter Twenty-One: Two Runners](#chapter-twenty-one-two-runners)
+22. [Chapter Twenty-Two: Slack Water](#chapter-twenty-two-slack-water)
+23. [Chapter Twenty-Three: The Wakening](#chapter-twenty-three-the-wakening)
+24. [Chapter Twenty-Four: The Warm Roads](#chapter-twenty-four-the-warm-roads)
+25. [Chapter Twenty-Five: Every Hull I Touched](#chapter-twenty-five-every-hull-i-touched)
+26. [Chapter Twenty-Six: A Day We Can Spare](#chapter-twenty-six-a-day-we-can-spare)
 
 ---
 
@@ -345,8 +344,6 @@ The prince of Aeridor stood among the rushes with goose grease on his boots and 
 *Aye, lad,* Roderic thought. *You do. That's the first useful thing you've said all day.*
 
 ---
-
-# Chapter Two, continued: The Good Seat
 
 **ALANA**
 

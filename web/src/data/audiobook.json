@@ -6,8 +6,8 @@
       "title": "Chapter One: The Drowned Lantern",
       "duration": 417,
       "bytes": 3426904,
-      "sha256": "1a7670dc58ba08f8038e94eaec0340d5f5740c950a5632ebc78d1998a182402e",
-      "url": "https://audio.insularimperium.com/v/1a7670dc/ch01-the-drowned-lantern.mp3",
+      "sha256": "8f36036cce10aa0fa04bfbd02a56282b434664463f0f6c35381b726e62e76d83",
+      "url": "https://audio.insularimperium.com/v/8f36036c/ch01-the-drowned-lantern.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -20,10 +20,10 @@
       "track": 2,
       "slug": "ch02-the-eulogy",
       "title": "Chapter Two: The Eulogy",
-      "duration": 1273,
-      "bytes": 10273231,
-      "sha256": "65cb6f76d8cd121928072f0ca0b4af2462e875e722c3054d31a746d726681c22",
-      "url": "https://audio.insularimperium.com/v/65cb6f76/ch02-the-eulogy.mp3",
+      "duration": 2076,
+      "bytes": 16700623,
+      "sha256": "1cb619147a22e4e9ada786eaa68ed5d6bdfc556bbe6b240f3c3c8c968a1aeab0",
+      "url": "https://audio.insularimperium.com/v/1cb61914/ch02-the-eulogy.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -33,33 +33,21 @@
         [
           288.2,
           "Roderic"
-        ]
-      ]
-    },
-    {
-      "track": 3,
-      "slug": "ch02b-the-good-seat",
-      "title": "Chapter Two, continued: The Good Seat",
-      "duration": 807,
-      "bytes": 6547677,
-      "sha256": "f58c3e39fbeb3be8bb211312b8c7eaf96a199a79673a6153acac4b89e3a27e25",
-      "url": "https://audio.insularimperium.com/v/f58c3e39/ch02b-the-good-seat.mp3",
-      "firstPublished": "2026-10-17",
-      "pov": [
+        ],
         [
-          6.6,
+          1275.7,
           "Alana"
         ]
       ]
     },
     {
-      "track": 4,
+      "track": 3,
       "slug": "ch03-the-clemency",
       "title": "Chapter Three: The Clemency",
       "duration": 2339,
       "bytes": 18799955,
-      "sha256": "1512a943b819b212274871a179a6d5b6405d709d40cb761406a4fdaca14fdc9b",
-      "url": "https://audio.insularimperium.com/v/1512a943/ch03-the-clemency.mp3",
+      "sha256": "7e4434d585b20f1fcae478556ec80527b1880d9b481fdd541c8c6e67d9f4b2fc",
+      "url": "https://audio.insularimperium.com/v/7e4434d5/ch03-the-clemency.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -89,13 +77,13 @@
       ]
     },
     {
-      "track": 5,
+      "track": 4,
       "slug": "ch04-the-grey",
       "title": "Chapter Four: The Grey",
       "duration": 2155,
       "bytes": 17326350,
-      "sha256": "e37da71ff6685d5f01df351c8f0cd3b0789d2d022ca9a52dea626626427be1b6",
-      "url": "https://audio.insularimperium.com/v/e37da71f/ch04-the-grey.mp3",
+      "sha256": "9f7855379bc1aeaf566cdb58ceb60dc658ed2d8d0a197d1da6559dde1c0ed5c1",
+      "url": "https://audio.insularimperium.com/v/9f785537/ch04-the-grey.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -113,13 +101,13 @@
       ]
     },
     {
-      "track": 6,
+      "track": 5,
       "slug": "ch05-the-kettle-bank",
       "title": "Chapter Five: The Kettle Bank",
       "duration": 2723,
       "bytes": 21873685,
-      "sha256": "d83ad9fa1bdb54a209c6d8a3dbc85382c77e23cbe008e4aab7fcd5d7eb0bd584",
-      "url": "https://audio.insularimperium.com/v/d83ad9fa/ch05-the-kettle-bank.mp3",
+      "sha256": "5e5f0fbc5f5d761d725dc3da22c123017d308ebd5f963b5fa7b4bab8faa26904",
+      "url": "https://audio.insularimperium.com/v/5e5f0fbc/ch05-the-kettle-bank.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -137,13 +125,13 @@
       ]
     },
     {
-      "track": 7,
+      "track": 6,
       "slug": "ch06-the-black-beach",
       "title": "Chapter Six: The Black Beach",
       "duration": 2537,
       "bytes": 20386836,
-      "sha256": "4f8a9dac6b1d88351479ce495f5020d1e52d81d94f64935e093cfb2d218cdf7a",
-      "url": "https://audio.insularimperium.com/v/4f8a9dac/ch06-the-black-beach.mp3",
+      "sha256": "b5b9a447db5e8d3d2496dde1bfb27ea5e30a3c87ff72d3dc620b21386bf1a559",
+      "url": "https://audio.insularimperium.com/v/b5b9a447/ch06-the-black-beach.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -157,13 +145,13 @@
       ]
     },
     {
-      "track": 8,
+      "track": 7,
       "slug": "ch07-the-heart-stone",
       "title": "Chapter Seven: The Heart-Stone",
       "duration": 3190,
       "bytes": 25608854,
-      "sha256": "901b85a62a2d1c26d0a033d23ed8200a329e1578b4c0572d1fd773e41a268ef0",
-      "url": "https://audio.insularimperium.com/v/901b85a6/ch07-the-heart-stone.mp3",
+      "sha256": "3dc3254eef13d2a149bf91750af6443f348102717620bb2c88d977c5f5b7cbd7",
+      "url": "https://audio.insularimperium.com/v/3dc3254e/ch07-the-heart-stone.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -177,13 +165,13 @@
       ]
     },
     {
-      "track": 9,
+      "track": 8,
       "slug": "ch08-not-a-lady",
       "title": "Chapter Eight: Not a Lady",
       "duration": 3604,
       "bytes": 28924689,
-      "sha256": "db22e51637eab7180abee4bb783c43c9c21e660691a6f1048416ff385fa9af47",
-      "url": "https://audio.insularimperium.com/v/db22e516/ch08-not-a-lady.mp3",
+      "sha256": "5e39d8c92307a43a83d03881f4ff898fa4f793cd5ffbffcbd86c3e79e71e9a81",
+      "url": "https://audio.insularimperium.com/v/5e39d8c9/ch08-not-a-lady.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -213,13 +201,13 @@
       ]
     },
     {
-      "track": 10,
+      "track": 9,
       "slug": "ch09-page-two",
       "title": "Chapter Nine: Page Two",
       "duration": 2218,
-      "bytes": 17836879,
-      "sha256": "d89420587764033b242353611fedab18b63a9d1be20d7ad8a3316144eaaeafcb",
-      "url": "https://audio.insularimperium.com/v/d8942058/ch09-page-two.mp3",
+      "bytes": 17836878,
+      "sha256": "3f1d50d99eccd2c76c1c20fcef3c012df69f7ed6bffed80c600a17ce0be05fb2",
+      "url": "https://audio.insularimperium.com/v/3f1d50d9/ch09-page-two.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -229,13 +217,13 @@
       ]
     },
     {
-      "track": 11,
+      "track": 10,
       "slug": "ch10-the-writ",
       "title": "Chapter Ten: The Writ",
       "duration": 2939,
       "bytes": 23598798,
-      "sha256": "9c017a71c9289942934f43cf79e37b34b068efe2a5b07a21096e45a8721c14a5",
-      "url": "https://audio.insularimperium.com/v/9c017a71/ch10-the-writ.mp3",
+      "sha256": "07e3b55c7eaf6f82dc3ecd2974e5442a0f0729e010431df33a7472717ff6dfd7",
+      "url": "https://audio.insularimperium.com/v/07e3b55c/ch10-the-writ.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -253,13 +241,13 @@
       ]
     },
     {
-      "track": 12,
+      "track": 11,
       "slug": "ch11-the-tally",
       "title": "Chapter Eleven: The Tally",
       "duration": 3815,
       "bytes": 30606226,
-      "sha256": "d509d5f5fc8a942fa827268e61fb569bda6e056b16baa0fe84d7aa3c0698f7f1",
-      "url": "https://audio.insularimperium.com/v/d509d5f5/ch11-the-tally.mp3",
+      "sha256": "9f6e99cd759fc29257dbe8e4caa87ebdf4c443a866a8f3ebda733295a14bbbcc",
+      "url": "https://audio.insularimperium.com/v/9f6e99cd/ch11-the-tally.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -285,13 +273,13 @@
       ]
     },
     {
-      "track": 13,
+      "track": 12,
       "slug": "ch12-four-in-five",
       "title": "Chapter Twelve: Four in Five",
       "duration": 5328,
       "bytes": 42715477,
-      "sha256": "5df8c4cbd6457d10fddecb22042245f8140b57339fb0a04f208dcc6c1a325b84",
-      "url": "https://audio.insularimperium.com/v/5df8c4cb/ch12-four-in-five.mp3",
+      "sha256": "16114a69af9e6c8924a5681c52f41049965cc6dfdbacffb7c311299754967ef6",
+      "url": "https://audio.insularimperium.com/v/16114a69/ch12-four-in-five.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -313,13 +301,13 @@
       ]
     },
     {
-      "track": 14,
+      "track": 13,
       "slug": "ch13-two-wounds",
       "title": "Chapter Thirteen: Two Wounds",
       "duration": 3358,
       "bytes": 26955157,
-      "sha256": "c8e6104004156fdff6f245a44e925856425076fb041ca773e47721510f0b9623",
-      "url": "https://audio.insularimperium.com/v/c8e61040/ch13-two-wounds.mp3",
+      "sha256": "aa70ccdb7e57d53f1e43235ff514793b5051404be8d990072754b0c6f64001ef",
+      "url": "https://audio.insularimperium.com/v/aa70ccdb/ch13-two-wounds.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -345,13 +333,13 @@
       ]
     },
     {
-      "track": 15,
+      "track": 14,
       "slug": "ch14-the-boundary",
       "title": "Chapter Fourteen: The Boundary",
       "duration": 2735,
       "bytes": 21968151,
-      "sha256": "21cfe7d5c97e58d0cd0f200f060a7bc1620f0621daedff93fd52b063368ebc67",
-      "url": "https://audio.insularimperium.com/v/21cfe7d5/ch14-the-boundary.mp3",
+      "sha256": "c8f185573bc786fe9f8fa7b64296e4aef5f7d87bbb3428353a08dd4b1ece33cb",
+      "url": "https://audio.insularimperium.com/v/c8f18557/ch14-the-boundary.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -361,13 +349,13 @@
       ]
     },
     {
-      "track": 16,
+      "track": 15,
       "slug": "ch15-one-voice",
       "title": "Chapter Fifteen: One Voice",
       "duration": 2762,
       "bytes": 22182803,
-      "sha256": "055ee4e660100174e555de3e1af66d80387ab8f04c5f832bcb814edb0ddbdf1c",
-      "url": "https://audio.insularimperium.com/v/055ee4e6/ch15-one-voice.mp3",
+      "sha256": "173b51408b192cdb45a76d8b0e52907a1936107a6df04a5e8180ce767874c932",
+      "url": "https://audio.insularimperium.com/v/173b5140/ch15-one-voice.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -381,13 +369,13 @@
       ]
     },
     {
-      "track": 17,
+      "track": 16,
       "slug": "ch16-the-measure",
       "title": "Chapter Sixteen: The Measure",
       "duration": 3300,
       "bytes": 26490517,
-      "sha256": "03459c3e78b9799eac916fd7e33d121d64d0772bd27253d43d141c740dd7bf18",
-      "url": "https://audio.insularimperium.com/v/03459c3e/ch16-the-measure.mp3",
+      "sha256": "0a9010cc7f4c300f01833485fa9432a4e54b9b71ff959e5beacab5ae7d3b7048",
+      "url": "https://audio.insularimperium.com/v/0a9010cc/ch16-the-measure.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -405,13 +393,13 @@
       ]
     },
     {
-      "track": 18,
+      "track": 17,
       "slug": "ch17-the-heart-grove",
       "title": "Chapter Seventeen: The Heart-Grove",
       "duration": 3456,
       "bytes": 27738139,
-      "sha256": "8ca01e289915fd028ec407a0122d96175100af5f5946899809bf77f48bb2749d",
-      "url": "https://audio.insularimperium.com/v/8ca01e28/ch17-the-heart-grove.mp3",
+      "sha256": "58abe6c7cc3f125afb47b208a54a765b8f72da02283e241b1e6f473532bd1236",
+      "url": "https://audio.insularimperium.com/v/58abe6c7/ch17-the-heart-grove.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -425,13 +413,13 @@
       ]
     },
     {
-      "track": 19,
+      "track": 18,
       "slug": "ch18-the-song-closes",
       "title": "Chapter Eighteen: The Song Closes",
       "duration": 4492,
       "bytes": 36022938,
-      "sha256": "7ad56fd87bc12761ca68652ff85489454af6c5379ade30d45db9d8eedb9e9231",
-      "url": "https://audio.insularimperium.com/v/7ad56fd8/ch18-the-song-closes.mp3",
+      "sha256": "04c25947b63b62a7b21bf873c54d81872790615f1fd06c0dba513137a65defcf",
+      "url": "https://audio.insularimperium.com/v/04c25947/ch18-the-song-closes.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -453,13 +441,13 @@
       ]
     },
     {
-      "track": 20,
+      "track": 19,
       "slug": "ch19-not-an-angel",
       "title": "Chapter Nineteen: Not an Angel",
       "duration": 4210,
       "bytes": 33766359,
-      "sha256": "c8429153f5a6052cd260354cb7573d6d7c55ee3fdeaba10842f85fce5ffb3386",
-      "url": "https://audio.insularimperium.com/v/c8429153/ch19-not-an-angel.mp3",
+      "sha256": "4e5091649376bb41beb80095d035a922f00923c78ec03e371721e9c725de058c",
+      "url": "https://audio.insularimperium.com/v/4e509164/ch19-not-an-angel.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -485,13 +473,13 @@
       ]
     },
     {
-      "track": 21,
+      "track": 20,
       "slug": "ch20-the-roof-of-the-sea",
       "title": "Chapter Twenty: The Roof of the Sea",
       "duration": 4060,
       "bytes": 32565404,
-      "sha256": "5d2f007186728eeaaf739e88292bd2bcb4b5e090808675f7ccc1210ba38ba383",
-      "url": "https://audio.insularimperium.com/v/5d2f0071/ch20-the-roof-of-the-sea.mp3",
+      "sha256": "c1ceebc94cb0b5b8d983be1f5cafa2db12909e27f665ff7b3e63377e2613bcb4",
+      "url": "https://audio.insularimperium.com/v/c1ceebc9/ch20-the-roof-of-the-sea.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -509,13 +497,13 @@
       ]
     },
     {
-      "track": 22,
+      "track": 21,
       "slug": "ch21-two-runners",
       "title": "Chapter Twenty-One: Two Runners",
       "duration": 7887,
       "bytes": 63184408,
-      "sha256": "6f47c0ca22145dbf965d6617a569c5bbc535d2ab05aba9abe3370bdcec010912",
-      "url": "https://audio.insularimperium.com/v/6f47c0ca/ch21-two-runners.mp3",
+      "sha256": "4c71c679cdc778a6234d9ab5b2556a9203547ee28cae2632e42c4d917277b750",
+      "url": "https://audio.insularimperium.com/v/4c71c679/ch21-two-runners.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -549,13 +537,13 @@
       ]
     },
     {
-      "track": 23,
+      "track": 22,
       "slug": "ch22-slack-water",
       "title": "Chapter Twenty-Two: Slack Water",
       "duration": 7092,
       "bytes": 56828056,
-      "sha256": "b917d68d81bbd9db6087780008afaa3b79c88ba9823b1f23d0d209c2467e35e0",
-      "url": "https://audio.insularimperium.com/v/b917d68d/ch22-slack-water.mp3",
+      "sha256": "27b920ded4af24d7b60e37324d9c5a6afce7f22c0f649721a4f9c1e02f188603",
+      "url": "https://audio.insularimperium.com/v/27b920de/ch22-slack-water.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -585,13 +573,13 @@
       ]
     },
     {
-      "track": 24,
+      "track": 23,
       "slug": "ch23-the-wakening",
       "title": "Chapter Twenty-Three: The Wakening",
       "duration": 8435,
       "bytes": 67571995,
-      "sha256": "f2864e8961791709c3b5b484a3941ec2ac50c7c313898c35c9e190f98c09e9b9",
-      "url": "https://audio.insularimperium.com/v/f2864e89/ch23-the-wakening.mp3",
+      "sha256": "f32efcecc694998aad245f1fc394ca2f880e4acb020b337a55c4ebb54700cc41",
+      "url": "https://audio.insularimperium.com/v/f32efcec/ch23-the-wakening.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -625,13 +613,13 @@
       ]
     },
     {
-      "track": 25,
+      "track": 24,
       "slug": "ch24-the-warm-roads",
       "title": "Chapter Twenty-Four: The Warm Roads",
       "duration": 7134,
       "bytes": 57162908,
-      "sha256": "839cb1015f7530696945598b8f0c72416e3adf531ac3f346d6c4196d5a0c7ab0",
-      "url": "https://audio.insularimperium.com/v/839cb101/ch24-the-warm-roads.mp3",
+      "sha256": "1c472b7e9c3b17fc668515e83767034412d0033756eea48aa92eb3e975602cd1",
+      "url": "https://audio.insularimperium.com/v/1c472b7e/ch24-the-warm-roads.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -661,13 +649,13 @@
       ]
     },
     {
-      "track": 26,
+      "track": 25,
       "slug": "ch25-every-hull-i-touched",
       "title": "Chapter Twenty-Five: Every Hull I Touched",
       "duration": 10620,
       "bytes": 85048034,
-      "sha256": "7b729ccbddfd934455e2fb9d8f09db9fb58cc49ae3b2efbb14f86f4bce0608df",
-      "url": "https://audio.insularimperium.com/v/7b729ccb/ch25-every-hull-i-touched.mp3",
+      "sha256": "3c6910d3687275cb6d9052ca223bac3b581672318b60ad0f2649b46c44355e40",
+      "url": "https://audio.insularimperium.com/v/3c6910d3/ch25-every-hull-i-touched.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -693,13 +681,13 @@
       ]
     },
     {
-      "track": 27,
+      "track": 26,
       "slug": "ch26-a-day-we-can-spare",
       "title": "Chapter Twenty-Six: A Day We Can Spare",
       "duration": 8850,
       "bytes": 70885343,
-      "sha256": "d4e5768586d66fcea3d5c82439407f340cd07ced07b263b6e11bc3625bae7577",
-      "url": "https://audio.insularimperium.com/v/d4e57685/ch26-a-day-we-can-spare.mp3",
+      "sha256": "36cf9197e5bd76ecc47fe14428800718537d2886f0c0aebdf408cf27efb76509",
+      "url": "https://audio.insularimperium.com/v/36cf9197/ch26-a-day-we-can-spare.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [

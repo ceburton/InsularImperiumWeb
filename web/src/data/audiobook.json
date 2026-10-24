@@ -352,10 +352,10 @@
       "track": 15,
       "slug": "ch15-one-voice",
       "title": "Chapter Fifteen: One Voice",
-      "duration": 2752,
-      "bytes": 22107155,
-      "sha256": "503d45222e2d67e0358e4fcb5d2c6d9924f433d6f7ba12868f6ef40afebdbe1d",
-      "url": "https://audio.insularimperium.com/v/503d4522/ch15-one-voice.mp3",
+      "duration": 2756,
+      "bytes": 22137299,
+      "sha256": "9cb4fdfa07b4d112c5bbfa9ae021add6229acbe56eeb79245a59ba048777ec82",
+      "url": "https://audio.insularimperium.com/v/9cb4fdfa/ch15-one-voice.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -363,7 +363,7 @@
           "Marcus"
         ],
         [
-          2019.8,
+          2023.6,
           "Sylara"
         ]
       ]

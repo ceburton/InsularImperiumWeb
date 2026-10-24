@@ -304,10 +304,10 @@
       "track": 13,
       "slug": "ch13-two-wounds",
       "title": "Chapter Thirteen: Two Wounds",
-      "duration": 3348,
-      "bytes": 26875285,
-      "sha256": "d5d10d30b4d854acf36fb86da04bacd12bfc0e82786823eefb5ea033ed5f8398",
-      "url": "https://audio.insularimperium.com/v/d5d10d30/ch13-two-wounds.mp3",
+      "duration": 3247,
+      "bytes": 26062357,
+      "sha256": "de19afb8b9ae0233f5526d0e1bf99a0cdff1ded172e1cfbbf3b8ea1cba66e41c",
+      "url": "https://audio.insularimperium.com/v/de19afb8/ch13-two-wounds.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -323,11 +323,11 @@
           "Liora"
         ],
         [
-          2589.2,
+          2487.6,
           "Alana"
         ],
         [
-          3130,
+          3028.4,
           "Sylara"
         ]
       ]

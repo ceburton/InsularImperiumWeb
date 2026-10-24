@@ -6885,7 +6885,7 @@ Marcus had thought about this all night, on a stump, in the cutting.
 
 He had made speeches in his head. He had made them as he had made them for the King's council, on the *Clemency*, in the cave: careful, building, with the last line saved back like a reserve. He found, standing on the moss in front of the old elf with his grandfather's stumps in his head, that he had none of them left. They had gone out of him at the rail with the other thing.
 
-"Because I'm not asking for your forest," he said. "I'm asking for your grudge."
+"Because I'm not asking for your forest," he said. "I've come to fight for it. My sword, and the swords of my men. Our lives, if it takes them."
 
 The old elf's eyes did not change.
 

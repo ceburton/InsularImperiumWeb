@@ -442,32 +442,32 @@
     },
     {
       "track": 19,
-      "slug": "ch19-not-an-angel",
-      "title": "Chapter Nineteen: Not an Angel",
-      "duration": 4196,
-      "bytes": 33657687,
-      "sha256": "6621efef0b0f2fe9d554e70785068aa96588b59c5aca8e8f1a4f604b43203fc6",
-      "url": "https://audio.insularimperium.com/v/6621efef/ch19-not-an-angel.mp3",
-      "firstPublished": "2026-10-17",
+      "slug": "ch19-the-angel-of-the-baths",
+      "title": "Chapter Nineteen: The Angel of the Baths",
+      "duration": 4705,
+      "bytes": 37727521,
+      "sha256": "dce8a4f8f9f3b8074bd0a856ec97c1c383eb9b4df4c0e3e4d8a5c10e2dc3071d",
+      "url": "https://audio.insularimperium.com/v/dce8a4f8/ch19-the-angel-of-the-baths.mp3",
+      "firstPublished": "2026-10-25",
       "pov": [
         [
-          6.2,
+          6.8,
           "Gaius"
         ],
         [
-          694.5,
+          695.1,
           "Marcus"
         ],
         [
-          1338.9,
+          1339.5,
           "Sylara"
         ],
         [
-          3233,
+          3741.7,
           "Alana"
         ],
         [
-          3880.5,
+          4389.2,
           "Sylara"
         ]
       ]
@@ -476,10 +476,10 @@
       "track": 20,
       "slug": "ch20-the-roof-of-the-sea",
       "title": "Chapter Twenty: The Roof of the Sea",
-      "duration": 4044,
-      "bytes": 32442140,
-      "sha256": "c209b18d51cf3b8efd68005e8b58a6e59160fe1fdb2b9d5fe59e37368e13e880",
-      "url": "https://audio.insularimperium.com/v/c209b18d/ch20-the-roof-of-the-sea.mp3",
+      "duration": 4075,
+      "bytes": 32688860,
+      "sha256": "96c1e736083feb52c5892f644efc380520af619b15af809dbf9e65b692b22efe",
+      "url": "https://audio.insularimperium.com/v/96c1e736/ch20-the-roof-of-the-sea.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -540,10 +540,10 @@
       "track": 22,
       "slug": "ch22-slack-water",
       "title": "Chapter Twenty-Two: Slack Water",
-      "duration": 7068,
-      "bytes": 56635864,
-      "sha256": "40fa4e91ca9b98c19094650b7e3ab705e1f20215ae1be1a98d2bb244fba6dcbf",
-      "url": "https://audio.insularimperium.com/v/40fa4e91/ch22-slack-water.mp3",
+      "duration": 7078,
+      "bytes": 56712088,
+      "sha256": "309f77e9095c634c30616888ae90f6610980db82b59647c83a996ca5447859b5",
+      "url": "https://audio.insularimperium.com/v/309f77e9/ch22-slack-water.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -563,11 +563,11 @@
           "Ear"
         ],
         [
-          5572.2,
+          5575.5,
           "Gaius"
         ],
         [
-          6733.6,
+          6736.9,
           "Liora"
         ]
       ]
@@ -576,10 +576,10 @@
       "track": 23,
       "slug": "ch23-the-wakening",
       "title": "Chapter Twenty-Three: The Wakening",
-      "duration": 8408,
-      "bytes": 67351195,
-      "sha256": "ee641ccddbf84f1c1010cb4fd68aec97749ee8e4b2ab522e412e67cd2436efda",
-      "url": "https://audio.insularimperium.com/v/ee641ccd/ch23-the-wakening.mp3",
+      "duration": 8409,
+      "bytes": 67359067,
+      "sha256": "f0e5888f3d7e918134ae8df8c4b49b8e385dd68af4089e324075fb92bd62cbe1",
+      "url": "https://audio.insularimperium.com/v/f0e5888f/ch23-the-wakening.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -587,27 +587,27 @@
           "Liora"
         ],
         [
-          1069.2,
+          1070.2,
           "Valeria"
         ],
         [
-          2644.4,
+          2645.4,
           "Sylara"
         ],
         [
-          3648.4,
+          3649.4,
           "Rufo"
         ],
         [
-          4497.4,
+          4498.4,
           "Marcus"
         ],
         [
-          6355,
+          6355.9,
           "Liora"
         ],
         [
-          8197.9,
+          8198.9,
           "Sylara"
         ]
       ]

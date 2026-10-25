@@ -416,10 +416,10 @@
       "track": 18,
       "slug": "ch18-the-song-closes",
       "title": "Chapter Eighteen: The Song Closes",
-      "duration": 4474,
-      "bytes": 35883354,
-      "sha256": "a97e7feb6d74934a5f8cb4602375cae79f6e06bd2b041143c694d20319364f1e",
-      "url": "https://audio.insularimperium.com/v/a97e7feb/ch18-the-song-closes.mp3",
+      "duration": 4482,
+      "bytes": 35941722,
+      "sha256": "dff289fc800e14cf9eb6cbbd41b05fe49c4d5e15fec882dff1424260127f52d5",
+      "url": "https://audio.insularimperium.com/v/dff289fc/ch18-the-song-closes.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -435,7 +435,7 @@
           "Marcus"
         ],
         [
-          4207.8,
+          4215.1,
           "Sylara"
         ]
       ]

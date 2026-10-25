@@ -8927,117 +8927,149 @@ Valeria watched it go. Then she lowered her shield, at last, and her arm came do
 
 He went into the heart at the twelfth glass, with Lyrielle.
 
-Nobody told him to. He had thought someone would, the old elf or the white-haired soldier or the warden with her book, and he had been waiting for it on the cart's tail beside Liora, who was eating smoked venison an elf had brought her, steadily, with her eyes shut, and the elves going about the clearing as quietly as they had stood up out of the wood, lifting the dead, the Tharsians' dead, the grey folded ones, and carrying them away somewhere he did not ask about. And then he had looked up and seen Lyrielle standing in front of him, in the middle of the clearing at the foot of the heart-tree, with her arrow back on the string and her braid hanging dull down her back, waiting.
+Until then he had sat on the cart's tail between Liora, who was eating smoked venison an elf had brought her, steadily, with her eyes shut, and Alana, who was writing left-handed in the weather-book because Liora had forbidden her the right hand until evening. Then Lyrielle was standing in front of him, with her braid hanging dull down her back.
 
 "It must be you," she said.
 
 "Why?"
 
-"Because it wears our defenses like a stolen coat. Everything we are, it has put on. Our song. Our grief. Our long memory." She looked at the black-veined fountain of trunks behind her. "It cannot put on yours. It does not know the shape of them. It has to ask. And then you can refuse it." She paused. "And because you came with the iron. It knows you. It has been waiting for you to come."
+"Because it wears our defenses like a stolen coat. Our song. Our grief. Our long memory. It cannot put on yours." She looked back at the black-veined fountain of trunks. "And because the heart has a lock that is not only ours. It was made before the boundary-stones, before your grandfather's ships, by a king of your people and by us. It opens only to a king's blood."
 
-"How do you know that?"
+"Then you want my father," said Marcus. "I'm the spare, Warden. I've a cousin at court who'd tell you I'll never be king, and my father has never yet told him he's wrong." He had been bleeding since the third glass. "And I'd hoped to keep what blood I have left. I'm told a man needs some."
 
-"Because it told me," said Lyrielle. "Every night. For three months. In my sleep. *Bring me the last soldier.*"
+Lyrielle smiled.
 
-So he went.
+He had never seen an elf do it. It took a century off her.
 
-The hollow in the middle of the heart-tree was a cave. He had to stoop to go into it, between two of the great twisted trunks, where they came down into the ground and left a gap like a doorway; and inside, it was not dark. The silver light came and went in it, slowly, the way breath comes and goes. In. Out. In. He could see by it. He could see that the inside of the hollow was the inside of the tree: walls of grey-silver wood, twisting upward round him, going up into a darkness he could not see the top of. And the floor was roots. All the roots of the heart-tree, coming together at the bottom of the hollow from every side and going down into the ground in one great knot, like the strands of a rope at the place where it is spliced.
+"A small cut," she said. "And if it works, human, we will both know something about your future."
 
-And at the bottom of the knot, between the roots, half sunk in them, as a stone is sunk in a river-bed: water. A pool no wider than a shield, steaming faintly, green and clear. And in the pool, under the water, a stone.
+She held out her hand. He gave her his left. The right had had enough for one day.
 
-He knew it at once, because he had held its shard in Alana's hand at the binnacle. Gold with green in it. Cut in long narrow planes like the old work in the Corvus drawings, but not cut; grown that way, or found that way, he could not tell. It lay in the warm green water among the roots of the heart-tree as a heart lies among the ribs, and the silver light came out of it, and went back into it. In. Out.
+Alana's pen stopped.
 
-The Heart-Stone of Silverwood.
+"How small?" She had shut the book on her finger. "Define *small*."
 
-It was veined black too.
+Lyrielle looked at the Chair of Corvus over his hand, and the smile came back.
 
-The black came down the roots from every side, out of the walls of the hollow, along the great knot, and went into the pool in long fine threads like ink dropped in water, and lay on the stone, on its green-gold planes, in a web. Not all of it. Not yet. There were places on the stone where the light still came clean. But the web was thickening while he watched. He could see it. Thread by thread.
+"Peace, scholar," she said. "I need only a little of a king. The rest of him I leave to his queen."
 
-He knelt down by the pool, because there was nothing else to do, and because his legs would not hold him up much longer anyway.
-
-And the tree spoke.
+Alana opened the weather-book and wrote something in it, very small. Whatever it was, she underlined it.
 
 ---
 
-It did not speak with a mouth. There was no mouth. It spoke out of the bark, out of the walls of the hollow round him, out of the roots under his knees, the way the song of the council roots had come out of the whole tree; but it was not the song. It was the cracked note. The bottle blown across by a mouth that had forgotten how. And in the cracked note, words. Isles' speech. Soft. Very kind.
+Inside, the heart-tree was a cave of twisting grey-silver wood, and the light came and went in it like breath. Its roots knotted together at the bottom round a pool no wider than a shield, green and steaming, and in the pool lay the Heart-Stone of Silverwood, gold with green in it. He had held its shard in Alana's hand at the binnacle. A web of black lay over it, and thickened while he watched.
 
-*Little last soldier.*
+They knelt on either side of the water, and Lyrielle laid a leaf-blade across her knees.
 
-He did not answer.
+"It will want your blood too," she said. "It has asked me for you every night for three months, in my sleep. *Bring me the last soldier.*" She took his hand across the pool. "The heart, or the black. Whichever drinks first will have the wood."
 
-*We are offered things in this dark. The iron offers. The king who counts offers. Such things. And we can offer too.*
+The cut was small, as she had promised: a briar's worth, across the heel of the hand. She turned his palm down over the pool, shut her eyes, and began to sing. It was lower and slower than the song of the council roots, and it went down into the roots as a voice goes down a well, calling.
 
-The light in the stone came and went. In. Out.
+His blood fell into the pool, drop after drop, and never reached the stone. The web caught it, and drank, and the red went into the black like wine into water.
 
-*The stair, Centurion.*
-
-He had known it would. He had known it since Lyrielle said *Bring me the last soldier*. He had known it, he thought, since the cave at Cyrene, since before, since the mole and the *Tally* and the boy on the bottom step with the lamp. Some part of him had been waiting three years to kneel somewhere in the dark and hear that word said back to him by something that was not a man.
-
-*We hold so many voices from the stair. They went into the sea, you know. All of them. Ninety-one. The king who counts did not raise them. Did you know that? He could not. The sea keeps its own. But the sea talks to the roots, little soldier, and the roots talk to us, and we have them. We have every word. Ninety-one of them had so very much left to say.*
-
-The voice went soft. Softer.
-
-*To you, runner. Especially to you.*
-
-And under the cracked note, very faint, a long way down, the way the true note had come up for one breath through the great singer's scream at the south gap: something else. Voices. Not one. Many. A murmur, like a crowd in another room, like men on a stair talking low to each other in the dark while they wait for something to come up from the water. He knew it. He knew every one of them. He had copied their names by candlelight in a tavern on the Lower Canal and guessed at the spellings. He had read them down every night for three years.
-
-And one, coming up out of the murmur, nearer than the rest. A voice he had not heard in three years except in his sleep. Deep. Steady. Decent. The voice of the most decorated centurion in the First Legion, ordering a boy off a stair.
-
-*You're the runner now—*
-
-He could hear it. He could have heard the rest. He knew the rest. *The household sails within the hour. Go, Centurion. That's the order.* And then whatever the tree had done to it, in the dark, in three months, with the black in its roots. He could have heard that too. It would have been something he deserved. It would have been something he had told himself every night on the *Clemency* and at the mast and on the black beach, in that voice, in the dark.
-
-He found that he did not want to hear it.
-
-Not because it would hurt. It would. He had been hurt by that stair every night for three years and he was still kneeling here, and he would kneel here tomorrow, and the day after. But because he had heard something else, since the stair. In the last month. He had not known, until this moment, kneeling by the warm green water with the black threads going into it, how much.
-
-A boy kneeling in the ash at the head of a slip with a sword at his neck, saying the days of the week in Tharsian over and over, because it was the only thing he could think of that was his. A heel of barley bread set down on the stone beside a man who had come to kill him. A long thin lad on a quay at Cyrene in his irons, lifting his eyes off the ground for the first time, to look at a mast. A grey captain with lenses on a cord saying *Shipwright, he's fourteen.* Two hundred thieves coming down a cave stair because they were asked. A healer laying her palm flat on a crate and saying eighty names. An elf on his knees on black moss with his daughter's hair against his chest. And Valeria, at the south gap, lifting the broad head of the Farrier an inch toward a tendon, and setting it down.
-
-*Pin it. Not the legs.*
-
-"No," he said.
-
-The voice from the stair stopped.
-
-"I've heard what mercy sounds like," said Marcus. His own voice was hoarse; he had been shouting under shields since the third glass. "In the living. This month. More than I'd heard it in the whole of my life before. I know what it sounds like now." He put his hand flat on the root beside the pool, as Liora put hers on the crates. "Keep your echoes."
-
-The tree was silent.
-
-Then the cracked note came again, and it was not kind any more.
-
-*They had so much to SAY, runner—*
-
-"Then they'll say it to me themselves," said Marcus, "when I get there. On the stair. I'll wait for them at the top." He looked down into the pool, at the Heart-Stone of Silverwood lying among the roots with the black web on it. "They don't need you to carry it. Nobody does. Get out of this tree."
+And the black stood up.
 
 ---
 
-He did not know what he had expected. Fire. A scream. He had none of Alana's runes and none of Liora's hands and none of the song of the council roots. He was a soldier on his knees by a puddle, with a hand a healer had given back to him that morning.
+It came up out of the pool: a back, shoulders, a head. It stood between him and the singing elf with the green water to its shins, a man made of black sap with pine-needles in it and Marcus's own blood running through it in red threads. It wore First Legion pattern, every strap and buckle. It had a short dark crop and a long straight nose. It stood as a centurion stands at the head of a stair, where the line can see him.
 
-What happened was that the stone breathed out.
+*They raised him inside the week,* Nerva had said, on the quay. *You'll have heard.*
 
-It had been breathing all along, in, out, slow, faint, the silver light coming and going. Now it breathed out once, long, the way a man breathes out who has been holding his breath under water and comes up; and the light came out of it, all of it, at once, not silver but white, so bright that Marcus put his hand over his eyes and still saw it through the bones of his fingers, red and white. It filled the pool. It filled the hollow. It went up the twisting walls of the tree round him like water going up a wick, and he heard the wood creak and crack all round him in the light, the whole fountain of it, a hundred trunks.
+"Look at you," it said, in Tiberius's voice: deep, steady, decent. "A month sober. I'd not have bet a copper on it. I owe you a cup." One corner of the black mouth went up, as Tiberius's always had. "The last one I sent you was bad."
 
-And the black came out.
+Something came up Marcus's throat that was half a laugh and half bile.
 
-He saw it with his hand over his eyes. It came out of the walls of the hollow, out of the bark, out of the great knot of roots under his knees; not as threads now but in drops, in runnels, the way pitch weeps out of pine on a hot day; and it ran down the roots into the pool, all of it, from every side, and the pool took it, and boiled. White. It boiled up white round the Heart-Stone and the black went into it and did not come out. It went into the warm green water of the island's spring and was gone, as Alana's fire had made the black on the mole at Cyrene go into the stone and run like glass; and the steam came up off the pool in a long white column into the darkness at the top of the hollow, and smelled, for one breath, of the sweet black, the hive gone bad.
+"She can't see you." It turned its head toward Lyrielle, who sang on with her eyes shut and the leaf-blade across her knees. "One stroke, under the jaw. Her own blade, if you're particular. The song stops, the lock shuts, and you come down to us." The voice went gentle. "We're all down here, runner. The whole stair. There's a cup for every man, and the girls from the Lantern, who never tire and never go home. No crown. No war. No more stairs. You and me and the lads, as long as you like. There's no end of days, down here."
 
-And then of nothing. And then of water.
+Behind it, a long way down, men were laughing on a stair.
 
-The light went back into the stone. Slowly. In. Out. Silver again.
+It was what he had asked for every night for three years, at the bottom of a cup. Not to be forgiven. To be back. Never to have been carried off.
 
-He took his hand away from his eyes.
+But Nerva had given him other words on that quay. *Get the boy off this rock, Aulus. However you have to.*
 
-The Heart-Stone lay in its pool among the roots, gold with green in it, clean, every plane of it, as the shard had been clean in Alana's palm. The water round it was green and clear and steaming faintly. The walls of the hollow were grey-silver, twisting up into the dark.
+"You meant that," said Marcus. He had not known it until he said it. "And I've heard what mercy sounds like, this month. In the living. Keep your echoes."
 
-No black. Anywhere.
+The face did not change. The voice did: the cracked note came up through it, the bottle blown across by a mouth that had forgotten how.
 
-He knelt there a long time. His legs were not going to get him up again for a while, he thought, and he did not want them to. He sat back on his heels with his hands on his knees in the silver light coming and going, in, out, slow, like breath.
+*Then cut her THROAT—*
 
-From outside, through the doorway between the trunks, there came a sound.
+It turned, and reached for Lyrielle.
 
-He did not know it at first. He had never heard it. Nobody of his house had heard it in sixty years, or perhaps ever. It came from the clearing, from the wood, from the south where the Fold was: a low hollow note, like wind across the mouth of a bottle. Long. Clean. Not cracked.
+"I'll come for you," said Marcus. "Wherever they keep you, whatever they've made of you. I'll get you off their rock, however I have to, and you'll stand at the top of your stair and watch the sun come up." He closed his fist on the cut until the blood ran out between his fingers. "But I'll not drink with you, Centurion. I've given it up. From the sound of it, I have much work to do."
 
-And then another, answering it, from further off. And then a third.
+He put his hand down into the pool, through the black man as through cold tar, and laid it flat on the Heart-Stone of Silverwood.
+
+---
+
+The stone drank.
+
+He felt it go out of him: a cup, perhaps, and then a little more. He had meant to keep that. The stone took it as dry ground takes the first rain, and the light in it stopped breathing, and held. Then it came up out of the stone, gold and then green, through the water and the black arm reaching for Lyrielle's throat, and the web parted under his palm like rotten cloth.
+
+And the wood's dead came up out of the heart.
+
+They rose out of the pool and the roots and the twisting walls, shapes of the stone's own light. Singers, with their antlers straight and their shadows keeping pace. Elves grown long, dead a hundred years or a thousand, with bows of light already drawn. More of them than the hollow could hold, so that they went through its walls as mist goes through a hedge. Lyrielle sang them up. Her face was wet, and she did not open her eyes.
+
+The singers went through the black man first.
+
+He came apart. The straps went, and the buckles, and the dark crop of hair, into runnels of sap. The face went last, and as it went Marcus thought, though he was never sure of it afterward, that it had stopped being angry. Then it was sap on the water, and the pool boiled white round his wrist, and it was gone.
+
+One of the dead was not an elf.
+
+He stood in the gap between the trunks while the others went out past him: a man a head shorter than the elves and twice as broad, bearded, in a coat of old scale, with a plain iron band on his brows and a round shield on his arm. There was a dolphin on the shield, worn almost to nothing. It wore no crown.
+
+He looked Marcus over once, as Roderic looked over a new man on a quay, from the boots to the face, and gave nothing away. Then he went out after the rest.
+
+Marcus got up off his knees, found that his legs would do it, and followed.
+
+---
+
+The heart-tree was weeping.
+
+All its trunks ran black from the leaves down, and every pine round the clearing with them, as resin weeps out of a cut log in summer. The black came down onto the leaf-mould and ran west, downhill, all of it, in runnels and then in streams. The smell came up off it, sweet and black, the hive gone bad.
+
+The dead went with it. The singers ran beside it with their heads down, driving it as beaters drive a boar from cover, and the archers of light went along the Girdle and through the trees and loosed into it wherever it pooled. Where a shaft went in, the black smoked and ran faster.
+
+The clearing had stopped. Thieves, Lanciarii and elves stood where they were and watched the light go by. Liora had opened her eyes. An elf woman by the cart put out her hand as the light went past her, as if to catch someone by the sleeve, and let it fall.
+
+The man with the dolphin shield walked the top of the Girdle among Gaius's blue shields, with one hand on the old grey blocks, as a man touches the wall of a house he built. At the north gate he stopped and looked down the Ring Walk, and was not there.
+
+Far off over the roof of the wood, where the western glade was, a column of black smoke stood up against the Grey. It leaned. The wind off the sea took it.
+
+Then the trunks of the heart-tree were grey-silver to the leaves, and there was no black anywhere, and the clearing smelled of water.
+
+He did not hear Lyrielle come out of the hollow. She was beside him, and her braid was silver.
+
+Round the clearing, the elves of Silverwood were laying down their bows.
+
+They did not drop them. They laid them down strung in the leaf-mould at their feet, with care, as he had laid his helmet down at the forest edge when he came to them with nothing in his hands: one, and another, and then hundreds, across the clearing and the slope and the top of the Girdle.
+
+Marcus knew what it meant. He found he could not see very well.
+
+"Prince of the old house," said Lyrielle. She said it in the isles' speech, so that his people would hear. "You held the Girdle all morning with men who owe us nothing, and you spared our singer. You came into our heart when it meant to eat you, and you bled for it." She took his cut hand, drew a single silver hair out of her braid, wound it round his wrist, and tied it off as a warden ties off a braid. "We keep a grudge a thousand years, human. Hear what we will keep for you."
+
+And the wood sang.
+
+One low note out of hundreds of mouths, rising; and at the end of it a name, said the elven way, long and soft. It took him a moment to hear that it was his own.
+
+He stood in it until it was done.
+
+"Did it work?" he said, when he could. "You said we would know something."
+
+"It opened to you," said Lyrielle.
+
+"Then I'm to be king."
+
+"It opened to a king's blood." She looked at the north gate, where the man with the dolphin shield had gone. "Past or future, I do not know."
+
+"Who was he?"
+
+"The first name we sing at Midwinter."
+
+"He was a man."
+
+"Yes," said Lyrielle, and said nothing else.
+
+He sat down on a root with his back against the heart-tree and his helmet beside him in the leaf-mould, and did not get up. He had made a vow in the dark, to a thing of sap and his own blood. He meant to keep it to the man.
 
 ---
 

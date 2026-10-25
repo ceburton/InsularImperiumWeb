@@ -22,7 +22,7 @@
 16. [Chapter Sixteen: The Measure](#chapter-sixteen-the-measure)
 17. [Chapter Seventeen: The Heart-Grove](#chapter-seventeen-the-heart-grove)
 18. [Chapter Eighteen: The Song Closes](#chapter-eighteen-the-song-closes)
-19. [Chapter Nineteen: Not an Angel](#chapter-nineteen-not-an-angel)
+19. [Chapter Nineteen: The Angel of the Baths](#chapter-nineteen-the-angel-of-the-baths)
 20. [Chapter Twenty: The Roof of the Sea](#chapter-twenty-the-roof-of-the-sea)
 21. [Chapter Twenty-One: Two Runners](#chapter-twenty-one-two-runners)
 22. [Chapter Twenty-Two: Slack Water](#chapter-twenty-two-slack-water)
@@ -9121,7 +9121,7 @@ She did not cross it out. You did not cross out a report; the wood needed to kno
 
 ---
 
-# Chapter Nineteen: Not an Angel
+# Chapter Nineteen: The Angel of the Baths
 
 **GAIUS**
 
@@ -9525,47 +9525,97 @@ They went round each other in the middle of the wardens' house at the Boundary, 
 
 Then somebody started to sing.
 
-Sylara did not see who. One of the thieves at the back. A song she did not know, to a marching tune that did not fit the Long Measure at all, a rough sweet tune that soldiers sing on wards with their bellies opened, and the words came through the drum and the reed in a cracked baritone, half-drunk, half-weeping:
+Sylara did not see who, at first. One of the thieves at the back. A song she did not know, to a marching tune that did not fit the Long Measure at all, a rough sweet tune that soldiers sing on wards with their bellies opened, and the words came through the drum and the reed in a cracked baritone, half-drunk, half-weeping:
 
 *Oh, the Angel of the Baths, she has hair like the morning—*
 
 The healer stopped.
 
-In the middle of a turn. With her skirts lifted between finger and thumb and her left foot turned out on the flagstones. She stopped as a clock stops, and stood, and the song stopped too, at once, in the middle of a word, as if a hand had been put over the singer's mouth; and the drum faltered and went on and faltered; and the whole of the long room went still, and cold, and Sylara felt it go, the fear, coming back into it like the Grey coming back over a ship.
+In the middle of a turn. With her skirts lifted between finger and thumb and her left foot turned out on the flagstones. She stopped as a clock stops, and stood, and the song stopped too, at once, in the middle of a word, as if a hand had been put over the singer's mouth; and the drum faltered and went on and faltered and died; and the reed in the yard door trailed off into nothing. The whole of the long room went still. Sylara felt it go cold, the fear coming back into it like the Grey coming back over a ship.
 
-The healer turned her head and looked at the man who had sung. Sylara could not see who it was. She could see the healer's face.
+The healer turned her head and looked at the man who had sung.
 
-It was not angry. It was very calm. And then it was something else.
+Sylara saw him then. He was standing at the end of the far bench with his cup halfway to his mouth: a thin dark thief with a long neck and a big nose and ears that stood out from his head like the handles on a jug. Tappo. She knew him from the report. He sang at the oars and at the water-cask and in his sleep, and the cohort threw boots at him for it, and in the cutting at Silverwood a crossbow bolt had gone through the back of his right hand and pinned it to a stump, and the healer had put it back together at the aid station with the battle still going on twenty paces off. Sylara had watched her do it. She had not written down what his face did.
 
-"*Not an angel,*" said Liora.
+His face was doing something else now. The wine went out of it all at once, and what was left was the colour of tallow.
 
-She did not say it loudly. She said it in the ward voice, the one that carried down the length of the steam-box house without being raised. It went to the end of the long room and into the rafters and out of the open door into the yard and the bracken and the stumps, and the elf with the reed in the yard door heard it, and lowered the reed.
+The healer's face was very calm. And then it was not.
 
-Nobody moved.
+Sylara could not read it. That was the strange thing; she could read anyone. She had read the Tharsians in the camp for three months and the elders under the roots for ten years, and she had read the healer, she thought, as well as anyone had: in the hold, on the moss, on the spit with her hand on the last stopper. But something was happening behind that still face now that was not in any book she had, and it was happening a long way down. The healer's lips parted. Her breath went in and did not come out. And then, at the corners of her eyes, in the firelight, there was a shine, and the shine gathered, and spilled, and ran down her cheeks one on each side, and she did not lift a hand to it.
 
-Then, from the middle of the bench, white-faced, with his hand coming up off the table as if it did not belong to him, Lucius called Ear said it back.
+Nobody in the room breathed.
 
-"*Not an angel.*"
+The healer let go of her skirts. They fell to the flagstones. She began to walk.
 
-His voice cracked on it. He did not seem to care.
+Slowly, as healers walk. Down the long room between the benches, in her white and gold with the high collar, with the tears still running and her face still perfectly calm above them, toward the far end of the table where Tappo stood. The thieves along the benches leaned back from her as she passed, the way grass leans back from a wind. The slinger in the chimney corner stopped chewing. Pen, who had got as far as standing up, sat down again without meaning to. Somebody's cup tipped over, and the wine ran along the silver-grey board and dripped off the end, and nobody moved to right it, and in the silence Sylara could hear every drop hit the stone.
 
-And the long room, thieves and Lanciarii and wardens and an elf in the door, took it up. Not all at once. One, and another, and then the whole table, banging their cups on the silver-grey board, as the cohort had banged its shields on the deck of the *Clemency* off the Kettle Bank; not a roar, not like *not a lady*, which was a joke and a cheer. Something lower. Something they meant.
+Tappo did not run. Sylara gave him that, and gave it him gladly, because she could see he wanted to. He put his cup down on the board very carefully, as the old red cloak had laid his crossbow down on the sand, as if it might break. He swallowed. His great ears had gone red and the rest of him had gone white. He looked at the door, and at the healer, and at the door, and she was between him and it, and he stood where he was and waited for her with his long throat working, the way a man waits on a scaffold for the trap.
 
-"*NOT AN ANGEL. NOT AN ANGEL. NOT AN ANGEL.*"
+*Weed,* Sylara thought, from nowhere. *Frost. Heart.*
 
-The healer stood in the middle of it with her skirts in her fingers.
+Her hand had gone to her knife. She took it away again.
 
-Then she lifted her chin, a quarter of an inch, as she had to Vael-Anar under the roots; and turned out her left foot again; and Kaeso, who had stopped drumming altogether, found the beat again at the hitch in the bar, and the elf in the door put the reed back to her lips, and the healer went on with the turn exactly where she had left it, as if nothing whatever had happened, with her face perfectly calm and her gold hair not moving under its net. And the witch, who had stopped too, barefoot on the stones a yard off, looked at her across the measured yard of floor, and laughed out loud, and went on.
+The healer stopped in front of him. He was taller than she was, by a head, and he seemed to be trying to make himself shorter. She looked up at him for a long moment, with the wet on her face shining in the firelight; and then she put one hand on his arm, and rose a little on her toes, and leaned close to his ear, the big red ear that stood out from his head, and said something.
 
-Sylara put down her empty cup on the hearth.
+Sylara was a warden. She had spent ten years in trees listening to people who did not know she was there. She heard it.
 
-She found that her hands were not quite steady. It was the wine.
+"The angel heard your song," said the healer, very low. "She's been ill. She heard it, and she loves it very much." A breath. "It helps."
+
+Tappo's mouth opened. Nothing came out of it.
+
+"Thank you," said Liora.
+
+And another tear went down, the left side, and caught at the corner of her mouth, and she smiled through it; not the small smile, the one that came and went at the edge of her face like a fish under dark water, but a real one, wide and wet and a little crooked; and she put her arms round his neck and held him.
+
+Tappo stood in her arms like a post.
+
+He did not put his arms round her. He did not dare. He held his two hands out from his sides, wide, palms open and fingers spread, at the height of his shoulders, where every man in the room could see them and see that they were nowhere near her, the right one with its pink new scar across the back still shining in the firelight; and he stood like that, with the healer's arms round his neck and her wet cheek against his collar, and his hands out like a man showing a magistrate he has nothing in them, and his eyes rolling round the room to the Lanciarii and the thieves and Rufo on his bench, white all round, begging every one of them to bear witness.
+
+Sylara felt something come up in her throat that she had no name for. It might have been laughter. It might not.
+
+The healer let go of him. She stepped back, and wiped her cheeks at last with the heel of each hand, one and then the other, like a girl; and looked up at him a moment more; and turned, and went back down the room toward the hearth with her skirts in her fingers again, as if she had only crossed it to fetch something.
+
+Tappo stood where she had left him.
+
+He brought his hands down, slowly. He looked at the right one, the one with the scar across the back of it. Then he laid it flat on his chest, on the left side, over the heart, and held it there. Sylara watched him feel for it. Watched him wait, the way a man waits at a door he has knocked on. She saw the moment he found it going, under his palm, as it had always gone; and she saw his face change.
+
+The grin came up through it from somewhere very deep, slowly at first and then all at once, enormous, splitting his long face from one jug-handle ear to the other.
+
+He threw back his head.
+
+"*I'M ALIVE!*"
+
+It went up into the rafters and shook the smoke there, and the room came apart.
+
+It came apart the way a dam goes. One roar, from every throat at once, thieves and Lanciarii and the slinger among the hams, and the young wardens shrieking in the elvish way that is half a laugh and half a hawk's call, and Rufo on his bench with his head in his hands and his shoulders going, and Pen under the table again, but laughing this time, flat on his back among the boots and beating the floor with both fists. Lucius called Ear was on his feet on the bench, with his arms in the air, howling. The square grey lanciarius with the broken nose had sat down on the floor.
+
+And Tappo danced.
+
+He could not dance. Sylara had seen bears at the trade-fair that could dance better, and the bears had been chained. He danced the way a man dances who learned it in a gaol yard, with the irons still on his ankles in his head if not on his legs: a jig, if it was anything, all knees and elbows and flapping boots, his long arms going like the sails of a mill and his feet coming down on the flagstones nowhere near the beat, any beat, any beat there had ever been. He kicked over a bench. He stamped on his own foot and kept going. He spun, and lost his balance, and caught it on the edge of the table with his scarred hand, and pushed off again, grinning, red to the collar, shouting *alive!* every time he came round, as if he had only just found out and had to keep checking.
+
+Kaeso found the drum. He did not try to match the jig, because nobody could have. He went back to the Long Measure, ONE two three, and the elf in the yard door put her reed to her lips again, laughing round it so that the first notes came out in squeaks.
+
+And the healer came back.
+
+She came out of the crowd by the hearth with her skirts lifted between finger and thumb and her left foot turned out, and went into the dance where she had left it: the court way, every step placed, her back as straight as a spear, her gold hair not moving under its net. Only now she danced it round him. Round Tappo, who was going like a scarecrow in a gale in the middle of the floor; a slow circle of measured steps, exactly the width of the turn before, the white moving close at her waist and hip as she turned, her face wet still and lit from the side by the fire and quite serene. He flung his arms out and she passed under one of them without breaking her step. He stamped and she turned. He went the wrong way round and she was there anyway, on the far side of him, as if she had known before he did. It was like watching a heron step round a dog that is chasing its own tail.
+
+The room could not stand it. Sylara heard the noise it made, and could not have said whether it was laughing or weeping, and thought it was both.
+
+Then the witch came back in, barefoot, with her hair flying, from the other side, and stamped on the hitch in the bar; and Lucius called Ear jumped down off the bench into the middle of it, and then a thief, and then two of the Lanciarii together with their arms linked, and then the young wardens, who did not know the Long Measure and did not care; and the floor of the wardens' house at the Boundary was full from the hearth to the door, and the drum went faster, and the reed went higher, and somebody started *The Angel of the Baths* again from the beginning, properly this time, and the whole room sang it, in every key there was. The healer did not stop. She danced through the whole of it with her chin up, and Sylara saw her mouth move at the chorus. She was singing it too.
+
+It was better than before. Before, it had been a good night. Now it was something else, something the long room would keep, the way the old wood keeps a wind that once went through it.
+
+Sylara sat on her stool by the hearth with her cup in her lap and watched, because it was what she did. She found she was smiling, and did not stop.
+
+Later, when she came to write it, she wrote only one line, because it was the only one that was hers to write. Through the whole of the dance, at the edge of the floor, she had watched the space round the healer: the pace of empty flagstone that had walked with her everywhere since the ship, round which every man in the cohort steered as round a hole in a deck. It was still there. But the thieves going past her in the jig came closer than they had, and stayed closer; and twice Sylara saw a man touch the healer's sleeve as he went by, for luck, the way a fisherman touches the prow.
+
+*Twenty-third night. The space round her was smaller.*
 
 ---
 
 The Captain was not impressed.
 
-Sylara watched her the whole time. It was what she did. Through the vote, through the starlings, through the drum and the dance and the song and *not an angel*, the Captain had stood inside the door with her fur cloak over her mail and her arms folded and her face like the face of a woman watching a drill on a wet morning; and at the end of it, when the thieves were roaring and the two women were going round each other in the middle of the room for the fourth time and the prince had come in behind her at last with the General and Nerva and a cask, and stopped dead in the doorway with his mouth open like everyone else's, the Captain had leaned her head an inch toward the General's shoulder and said, quite distinctly, in the voice she used for reporting the dead:
+Sylara watched her the whole time. It was what she did. Through the vote, through the starlings, through the drum and the dance and the song and *I'm alive*, the Captain had stood inside the door with her fur cloak over her mail and her arms folded and her face like the face of a woman watching a drill on a wet morning; and at the end of it, when the thieves were roaring and the two women were going round each other in the middle of the room for the fourth time and the prince had come in behind her at last with the General and Nerva and a cask, and stopped dead in the doorway with his mouth open like everyone else's, the Captain had leaned her head an inch toward the General's shoulder and said, quite distinctly, in the voice she used for reporting the dead:
 
 "Neither of them can hold a line."
 
@@ -10167,6 +10217,8 @@ Not since she had stood at the pyre on the fifteenth day with her hands folded a
 
 She was not sorry. She had looked, carefully, at that too. She was not sorry. She was only awake.
 
+The angel was sorry. That was the trouble. Liora had found her again on the floor of the Boundary House, with a thief's song in her ears, and found the prince had been right: not dead. Ill. And it was the angel who lay awake with the knot behind her eyes, night after night, and would not be told it was done. Liora sat with her as she would have sat with any patient who would not sleep. Some nights that helped. Not tonight.
+
 When the bell on the fort rang the middle watch she got up, and put on her cloak, and her shoes, and went out.
 
 ---
@@ -10181,7 +10233,7 @@ He did not come tonight. She had not thought he would. He was up at the fort, in
 
 She took off her shoes and went down the steep black sand to the edge of the surf, and stood in it to the ankles, and then, because there was nobody to see, to the knees, with her skirts gathered up in one hand; and the warm sea came in round her legs and went out again, sucking the sand from under her heels, and the steam went up round her into the dark.
 
-She looked down at herself. Her legs were long and very white in the black water, and the surf ran up them to the knee and fell back, and the steam beaded on her skin; and she found she liked the look of them, plainly, as she had not let herself like anything of her own for a long while. She knew what she looked like. She had always known. Men went quiet when she came into a room, and the cohort kept its pace off her for more reasons than one, and she had stopped, somewhere on the road to Silverwood, being sorry for either. If anyone had come down the black beach now she would not have let her skirts fall for him. She would have let him look, and gone on with what she had come to do.
+She looked down at herself. Her legs were long and very white in the black water, and the surf ran up them to the knee and fell back, and the steam beaded on her skin; and she found she liked the look of them, plainly, as she had not let herself like anything of her own for a long while. She knew what she looked like. She had always known. Men went quiet when she came into a room, and the cohort kept a pace off her still, a smaller one since the Boundary House, for more reasons than one, and she had stopped, somewhere on the road to Silverwood, being sorry for either. If anyone had come down the black beach now she would not have let her skirts fall for him. She would have let him look, and gone on with what she had come to do.
 
 She began to say the names aloud.
 
@@ -10323,7 +10375,7 @@ The surf went out round Liora's knees, sucking at the sand under her heels, and 
 
 "Because you were the one saying names," said Thalassa simply. "The others were asleep or drinking or in bed with each other. I was going to wait for one of them in the morning. I'm glad I didn't." She considered. "And because you're a healer, and you'll go and tell somebody, and they'll listen to you, because you'll say it the way you say everything, and they'll be afraid of you. I watched them on the quay today, your soldiers. They walk round you."
 
-"They do," said Liora.
+"They do," said Liora. "Less than they did."
 
 "Why?"
 
@@ -10369,7 +10421,7 @@ She had not asked the husband's name. She had not asked the children's.
 
 She stood at the top of the black beach with her shoes in her hand and thought: *Tomorrow. I'll ask them tomorrow.* And then, because she had found out at the water-gate stair that there were things about herself she had not known, and had resolved to look at everything, she looked at that thought, carefully; and found, under it, the thing she had not let herself think since the pyre.
 
-She was looking forward to it.
+She was looking forward to it. Somewhere inside her, the angel had sat up in bed.
 
 She turned and went up the beach and into the town, toward the light in the tower.
 
@@ -12507,7 +12559,7 @@ The fire considered this in silence.
 
 "And then there's the Angel."
 
-Nobody said anything about the Angel. Nobody ever did. There was a little silence round the fire whenever she came into it, even by name, the way there was a little space round her wherever she walked; and Ear, who had voted for her at the Boundary House and told the whole table why, sat very still with his hands full of hazelnuts and looked at the fire. He had thought, the first time he saw her, with her hair down and the lamp behind her, that she was the most beautiful thing he had ever seen; he thought so still. He would no more have said it at a fire than he would have spat in a shrine.
+Nobody said much about the Angel. There was a little quiet round the fire whenever she came into it, even by name; not the old silence of the *Forward*, but the kind men keep in a chapel, and it was a smaller quiet than it had been. Tappo had seen to that, with one shout. And Ear, who had voted for her at the Boundary House and told the whole table why, sat very still with his hands full of hazelnuts and looked at the fire. He had thought, the first time he saw her, with her hair down and the lamp behind her, that she was the most beautiful thing he had ever seen; he thought so still. He would no more have said it at a fire than he would have spat in a shrine.
 
 "And then there's the elf," said Vatinius, moving on, a little quickly. "Who isn't an elf. Who'll put an arrow through your eye from a roof you didn't know was there."
 
@@ -12755,7 +12807,7 @@ This was coming back. It asked nothing. It did not want anything of her, it did 
 
 She did not fight it. She did not know how she would have fought it. She lay and let it come; and then, without deciding to, she leaned into it a little, the way you lean into a wind on a hillside. And it flowed over her, and through her, from her back to the ends of her fingers, and she felt it go, like some new form of magic: nothing the Vigil had ever taught her, nothing perhaps the Vigil had ever known, a thing she had no name for and did not, for once, want to name.
 
-The knot was there when she shut her eyes. It was always there, small and dark and tight, behind her eyes, where she had tied it. She looked at it, as she looked at it every night. It did not go away. She did not ask it to. She was warm.
+The knot was there when she shut her eyes. It was always there, small and dark and tight, behind her eyes, where she had tied it. She looked at it, as she looked at it every night. It did not go away. She did not ask it to. But the angel, who had lain awake beside it every night since the pyre, was quiet for once, and Liora let her be quiet. She was warm.
 
 She had said the new ones at dusk, at the foot of the slip, with the sea-man bleeding beside her: *Nerites, of Kolpos. Gavius, of the cohort.* Now she began the eighty, from the beginning, as she always began, because they had been hers before anyone.
 
@@ -12859,7 +12911,7 @@ It was the most that anyone had ever put into her hands. She understood that at 
 
 She put her mat down against the timbers of the pen and went along the line.
 
-She did not hurry. She looked at each of them as she came to him, the way she looked at a man on a pallet: all of him, the hands and the eyes and the way he stood. They knew what she was. She saw them know it. The space came round her as it always did, a little room of air that walked with her, and the men in the pen leaned back out of it on their chains without seeming to.
+She did not hurry. She looked at each of them as she came to him, the way she looked at a man on a pallet: all of him, the hands and the eyes and the way he stood. They knew what she was. She saw them know it. The space came round her, as it still did among strangers, a little room of air that walked with her, and the men in the pen leaned back out of it on their chains without seeming to.
 
 Merula first. He stood in it and did not lean.
 

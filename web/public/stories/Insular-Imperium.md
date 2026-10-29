@@ -16385,21 +16385,21 @@ He went.
 
 And as he went up the bridge, at the run, the first time Marcus had ever seen him go into a fight on his own two feet, with his sword up and the planking going up and down under him and his boots finding every cleat as if he had been born on a gangway, he began to shout.
 
-"*VATINIUS!*"
+"*Vatinius!*"
 
 It went down the *Audit*'s deck like a gate going in under a ram. Marcus had heard Roderic shout before, on the beach, at the drill, at the eulogy feast with a table going over; he had never heard this. It came up out of the General from somewhere under the scars, from the bottom of nineteen years and forty verses, and it filled the fog.
 
-"*VATINIUS! CARTER! PRAYS!*"
+"*Vatinius! Carter! Prays!*"
 
 Beside Marcus in the line the big slow man jerked as if he had been struck, and turned his head, and his mouth fell open; and then he roared. Not a word. Only the sound, from the belly, the sound of a man hearing his own name said by somebody who had no need to know it; and he put his shoulder into the oval shield in front of him, and it went back a pace.
 
-"*LUCIUS! CALLED EAR!*"
+"*Lucius! Called Ear!*"
 
-"*HERE!*" screamed Ear, like a boy at a roll-call, and went forward.
+"*Here!*" screamed Ear, like a boy at a roll-call, and went forward.
 
-"*RUSTICUS! SALVIUS! DENTO!*" He was over the rail and on the *Audit*'s deck, coming down it at the back of the forty, through the Lanciarii, who opened for him; and he did not slow, and he did not go to the back of the line, where a charge comes off. He went for the mast. There was a water-cask lashed at the foot of it, chest-high, beside the place where the wall met the forty; and the General put one boot on the grating's edge and the other on the cask's head, and Marcus saw the whole great weight of the man go up into the air above the line of locked shields, with the fog behind him and the sword going back over his shoulder, the way a horse goes up at a wall; and come down on the other side. "*FLORUS! WHO CAN'T SWIM!*"
+"*Rusticus! Salvius! Dento!*" He was over the rail and on the *Audit*'s deck, coming down it at the back of the forty, through the Lanciarii, who opened for him; and he did not slow, and he did not go to the back of the line, where a charge comes off. He went for the mast. There was a water-cask lashed at the foot of it, chest-high, beside the place where the wall met the forty; and the General put one boot on the grating's edge and the other on the cask's head, and Marcus saw the whole great weight of the man go up into the air above the line of locked shields, with the fog behind him and the sword going back over his shoulder, the way a horse goes up at a wall; and come down on the other side. "*Florus! Who can't swim!*"
 
-And from the sea between the hulls, very faint and very indignant: "*I'M HERE!*"
+And from the sea between the hulls, very faint and very indignant: "*I'm here!*"
 
 The forty laughed. In the middle of it, with their shoulders in their shields and the wall in front of them, the whole line laughed, one great bark of it, like a dog's; and went forward.
 
@@ -16409,13 +16409,13 @@ The wall was three deep, and the back rank of it was the place where nobody in t
 
 He did not fight like Rufo. Nobody would ever mistake the one for the other, afterward, who had seen both. There was no stillness in it and no far-off look. It was a big man, bigger than any of them and heavier by a stone or two, in better mail than any of them had ever worn, with thirty years of the tiltyard and the drill-field and the long war in his wrists, going among men half his age who had been taught to stand in a line and push and had never been taught anything else. He took a short sword on the iron of his sleeve and broke the arm that held it with his pommel. He cut a man's spear in two and the hand that held it, and the hand went over the side. He put his boot into the back of a marine's knee and his sword into the back of his neck as he went down, and turned before the man had finished falling and took the next one across the face. He did not stand in one place. He went along the back of the wall from grating to grating, the way a man goes along a hedge with a billhook, cutting and moving on, cutting and moving on; and the wall had no back to it, and did not know which way to face.
 
-"*MACRO! STRABO! NAEVIUS AND LOLLIUS!*" Roaring, all the while, the names coming out of him on every stroke. "*APER! BALBUS! LURCO!*"
+"*Macro! Strabo! Naevius and Lollius!*" Roaring, all the while, the names coming out of him on every stroke. "*Aper! Balbus! Lurco!*"
 
 Nobody answered for Lurco.
 
 Marcus had seen him go down, and not known who it was. He knew now. The man on Ear's right, beyond Ear, who had gone down and not got up, and lay on the black deck by the grating with the line stepping over him. Roderic saw it too. Marcus saw him see it: saw the General's eyes go, over the heads of the wall, to the place in the line where an answer should have come from, and find the gap, and the shape on the deck under it. He did not stop.
 
-"*LURCO!*" he roared again, at the gap, at the shape on the deck, louder than before, as if the man had only not heard; and the marine who stood nearest that gap turned round to see what was coming, and it was the last thing he saw. "*SCAEVA! TAPPO! NASICA!*"
+"*Lurco!*" he roared again, at the gap, at the shape on the deck, louder than before, as if the man had only not heard; and the marine who stood nearest that gap turned round to see what was coming, and it was the last thing he saw. "*Scaeva! Tappo! Nasica!*"
 
 The wall broke.
 
@@ -16427,7 +16427,7 @@ Marcus saw it open. Nobody had told the marines to give him room. They simply di
 
 Marcus looked back, once, toward the bridge-head. The Captain was standing in the ring of the Lanciarii with the Farrier grounded, watching the General; and her face under the cheek-pieces of her helmet had gone pink to the ears, and her lips were apart, and she had the look a woman has at a summer fair when she has watched a big horse go clean over the high jump and has made up her mind to buy it. She saw Marcus looking. It went, at once, and was the Captain's face again, and she said something short to the man beside her about his shield. But Marcus had seen it.
 
-"*POMPONIUS! MURCUS!*" His face was red as a forge, and he was grinning. "*PLANCUS!*" He turned to find the next man, and there was no next man. "*WHO CAN SMELL*—"
+"*Pomponius! Murcus!*" His face was red as a forge, and he was grinning. "*Plancus!*" He turned to find the next man, and there was no next man. "*Who can smell*—"
 
 He stopped.
 

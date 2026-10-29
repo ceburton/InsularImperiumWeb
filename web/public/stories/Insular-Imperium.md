@@ -17359,21 +17359,37 @@ She was quiet so long that he thought she would not answer.
 
 He nodded. He found that he had known it.
 
-"Nowhere," she said again, "because I couldn't find the place. I sat on the top step with the pen till the courtyard went grey, and turned the book over front to back and back to front, and there wasn't one. There's a column for the wind. There's the loading, and the bearings, and the stores, and the dead. I've kept that book since Corvus burned, and there was never a column in it for a man who was alive, and who I—" She stopped. Her hands moved on the blanket, a very little, as though they wanted a pen; and lay still again, palm-up, shaking. "So I've had you loose. Ever since. Like a figure on a scrap of paper in my sleeve. I keep feeling for you, to be sure you're still there."
+"Nowhere," she said again, "because I couldn't find the place. I sat on the top step with the pen till the courtyard went grey, and there wasn't one. There's a column for the wind. There's the loading, and the bearings, and the stores, and the dead. I've kept that book since Corvus burned, and there was never a column in it for a man who was alive, and who I—" She stopped. Her hands moved on the blanket, a very little, as though they wanted a pen; and lay still again, palm-up, shaking. "So I've had you loose. Ever since. Like a figure on a scrap of paper in my sleeve. I keep feeling for you, to be sure you're still there."
 
-There was nothing in any of the languages he knew that would have been the right thing to say to that. There was only the true thing, in the plainest of them, which he had not said on the black beach, or on the dune with her hand flat on his chest, or at the binnacle with a hand's breadth of brass between them; and he found that he was tired of not saying it.
+There was nothing in any of the languages he knew that would have been the right thing to say to that. There was only the true thing, which he had not said on the black beach, or on the dune with her hand flat on his chest, or at the binnacle in the middle watch; and he found that he was tired of not saying it, and that he did not trust his voice to carry it.
 
-He closed the weather-book on the pen, to keep the place, and set it on the floor by the bed. Then he got up off the end of the bed and came round and sat down again by her head, on the edge of the mattress, where he could see her face. The lamp lay on her: the dark heavy hair come down out of its pins all over the pillow, the long pale throat, the brows drawn together the way they drew together over a sum, and no ink on her anywhere, for the first time since he had known her. She had on a shirt of his, too big, open at the neck, and the lamp lay in the hollow of her collarbone like water in a cup. He had not seen her like this, with nothing held up in front of her at all.
+So he did not say it.
 
-"The last time I said anything of yours out loud," he said, "I did it in a voice. For a table."
+He put the hairpin away inside his tunic, against his ribs, where it lived. He took the pen out of the fold of the book and dipped it, and below *Sextus*, below the last of her ruled lines, down in the margin where there was no column at all, he wrote.
 
-Her eyes opened.
+*Marcus tells me he loves me. Finally.*
 
-"This isn't yours. It's mine. And there's no table." He looked down at his hand, with her hairpin in it, and it was as steady as Nerva's on the tiller. "I love you, Alana."
+He blotted it on his sleeve. Then he got up off the end of the bed and came round and sat by her head, on the edge of the mattress, and held the book open in the lamplight where she could see it.
+
+The lamp lay on her: the dark hair come down out of its pins all over the pillow, the brows drawn together the way they drew together over a sum, and no ink on her anywhere, for the first time since he had known her. She had on a shirt of his, too big, open at the neck, and the light lay in the hollow of her collarbone like water in a cup.
+
+She read it. He watched her do it: the eyes going along the line, and back to the start, and along it again, and her lips moving very slightly, as they had moved over the spines.
+
+"I didn't dictate that," she said.
+
+"No."
+
+"*Finally*." Her voice was not quite steady. "In my book. In my voice."
+
+"Late's what there is."
+
+He laid the book open on the blanket between them, and kept the pen.
+
+"The last time I said anything of yours out loud," he said, "I did it in a voice. For a table. So I wrote that one in yours, and nobody will ever read it out." He looked down at his hand, with the pen in it, and it was as steady as Nerva's on the tiller. "This one's mine. I love you, Alana."
 
 She lay quite still.
 
-"I don't know since when," said Marcus. "Since the beach, when you left out the man's figure and I knew whose it was. Before that. On the *Clemency*, when you wouldn't look at me and saw to the lamp-oil instead. I didn't let myself know it, because a man sent to die has no business asking anybody to keep him a place. And then I didn't die, and I still didn't say it, because I'm a coward about everything but fighting." He stopped, and started again. "I'm saying it now. You needn't do anything with it. I only wanted it said out loud, the once, in a quiet room, with nobody laughing."
+"I don't know since when," said Marcus. "Since the beach, when you left out the man's figure and I knew whose it was. Before that. A man sent to die has no business asking anybody to keep him a place, so I didn't let myself know it. And then I didn't die, and still didn't say it, because I'm a coward about everything but fighting." He stopped. "I wanted it said out loud. The once, in a quiet room, with nobody laughing."
 
 She looked at him for a long time. In the lamplight her eyes were very bright, and then they were wet, and she did nothing about it, because she did not trust her hands near her face.
 
@@ -17381,11 +17397,11 @@ She looked at him for a long time. In the lamplight her eyes were very bright, a
 
 "I love you," said Marcus.
 
-"On a deck," said Alana, "when the pilot calls a bearing, the helmsman says it back to him. Every time. Out loud, so the whole watch hears it, and there's no mistake on the night." She turned her head on the pillow toward him, and her voice went small and quite steady, the voice she kept for figures. "So I'm saying it back."
+"On a deck," said Alana, "when the pilot calls a bearing, the helmsman says it back. Out loud, so the whole watch hears it, and there's no mistake on the night." Her voice went small and quite steady, the voice she kept for figures. "So I'm saying it back."
 
 He waited.
 
-"I love you," said Alana of Corvus, precisely, the way a bearing is called across a deck in a wind. "I've loved you since I was fifteen, and followed you round your father's gardens with a book under my arm I never read a page of. I loved you at the high table while you read it out in my voice, and hated you, and went on loving you, which was worse. I loved you the whole length of the Lesser Hall, and the whole length of it back, at an ordinary pace." Her mouth shook, and she steadied it. "I tried to stop. I had five years and a library, and I couldn't find how in any of it. When I was fifteen I built you a house in my head, on the cliffs at Corvus, with the sea on three sides. I furnished it. I chose the curtains."
+"I love you," said Alana of Corvus, precisely. "I've loved you since I was fifteen. I loved you at the high table while you read it out in my voice, and hated you, and went on loving you, which was worse. I loved you the whole length of the Lesser Hall, and the whole length of it back, at an ordinary pace." Her mouth shook, and she steadied it. "When I was fifteen I built you a house in my head, on the cliffs at Corvus, with the sea on three sides. I furnished it. I chose the curtains."
 
 He could not speak.
 
@@ -17395,13 +17411,13 @@ He could not speak.
 
 "You know perfectly well what color."
 
-He laughed. It came up out of him like something breaking, and hurt on the way, and he did not care. She laughed too, and put a shaking hand over her mouth, and laughed through it anyway, lying on her back with the tears running sideways into her hair for the second time that night, and for a better reason.
+He laughed. It came up out of him like something breaking, and hurt on the way, and he did not care. She laughed too, and put a shaking hand over her mouth, and laughed through it anyway, with the tears running sideways into her hair for the second time that night, and for a better reason.
 
 "The Lesser Hall," he said, when he could.
 
 She waited.
 
-"When we're home. At Midwinter, with the whole court in it, and the herald's daughter, whatever her name was." He put the hairpin away inside his tunic, against his ribs, where it lived. "I'll walk it. The whole length of the hall, in front of all of them. Toward you."
+"When we're home. At Midwinter, with the whole court in it, and the herald's daughter, whatever her name was." He closed the weather-book on the pen, to keep the place, and set it on the floor by the bed. "I'll walk it. The whole length of the hall, in front of all of them. Toward you."
 
 "And back?" said Alana. "At an ordinary pace?"
 
@@ -17446,6 +17462,10 @@ She was not precise after that. Neither of them was. She moved on him, slow and 
 Afterward they lay in the wreck of the blanket with the sea breathing at the shutter and the lamp guttering, and her head in the hollow of his shoulder. Her hair was across his mouth. He did not move it.
 
 "That," said Alana against his neck, after a long time, "is going in the book."
+
+"It's in," he said. "I wrote it."
+
+"Not that." Her mouth moved against his skin. "*That*."
 
 "Which column?"
 

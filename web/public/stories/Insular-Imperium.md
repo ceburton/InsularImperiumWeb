@@ -3833,7 +3833,7 @@ But it was turned. She never found a better word. Every stroke went the wrong wa
 
 The flasks stood at the top of the sea-door steps in two straw-packed crates of six. Iron, forearm-long and squat, each stoppered with lead and a rune pressed into the lead like a seal into wax. On each shoulder, stamped into the iron, the white closed hand of Tharsis, and beside it a little sprig of three leaves on a stem. On each crate, in square white clerk's letters:
 
-*SILVA.*
+*Silva.*
 
 She counted them twice, though she could see there were twelve, because counting was what her hands did when the rest of her had stopped.
 
@@ -6343,7 +6343,7 @@ The healer came down the hatch at the change of the middle watch with a horn lan
 
 The men came down it as men come down into a cellar where something has died. Fast, with their eyes on the rungs, and up again faster, with whatever they had been sent for clutched to their chests. They did not look at the crates. They did not look aft at the straw. Twice in two days Sylara had lain with her cheek on the boards and watched a pair of boots come within a long stride of her face and turn round and go up again, and both times she had heard the man let his breath out at the top of the ladder as if he had been holding it the whole way down.
 
-The healer did not hurry. She set her feet on each rung, and stood at the bottom with the lantern held low, and let her eyes go round the hold as a woman's eyes go round a ward at night: the mare in her stall, the casks in their chocks, the two crates with SILVA painted on their lids in Tharsian red. Then she knelt on the boards beside the crates and set the lantern down and folded her hands, and began.
+The healer did not hurry. She set her feet on each rung, and stood at the bottom with the lantern held low, and let her eyes go round the hold as a woman's eyes go round a ward at night: the mare in her stall, the casks in their chocks, the two crates with *Silva* painted on their lids in Tharsian red. Then she knelt on the boards beside the crates and set the lantern down and folded her hands, and began.
 
 Sylara had heard it every dusk through the planking from the mainmast. She had not heard it from an arm's length.
 
@@ -6903,7 +6903,7 @@ She came forward with the cart, and the space that went everywhere with her now 
 
 Marcus had stopped pretending not to see it. On the ship it had been a pace. On the march up from the bay it had been two. Now, as Liora came out into the middle of the moss with the two blindfolded thieves pushing the handcart behind her, the thieves let go of the handles, and backed, not looking, until they had found a root to stand behind; and when Liora took hold of the sailcloth herself and drew it off the crates, the space around her was the whole floor of the council roots, and she stood in the middle of it alone with the red word painted on the lids.
 
-SILVA.
+Silva.
 
 A sound went round the tiers. It was not a word. It was the sound a crowd makes when a thing it has dreaded is carried in front of it.
 
@@ -8699,7 +8699,7 @@ He pulled the mare up on the Ring Walk outside the north gate, with the riders d
 
 Alana could not see his face. She could see Valeria's: the white scar from eye to jaw, and the eyes above it under the helmet-rim, and something in them just then that made Alana think of a bow at full draw, which is the most beautiful a bow ever is. Valeria had not left the gap. She had the singer's antlers still against her shield. But she had turned her head, and she was looking back at him, across the clearing.
 
-"*VALERIA!*" Roderic roared. "*Did that one COUNT?*"
+"*Valeria!*" Roderic roared. "*Did that one COUNT?*"
 
 And Valeria, at the south gap, with a broken-antlered god of the forest leaning its whole weight on her dead arm, said nothing at all, but lifted the broad head of the Farrier off the ground, once, an inch, and set it down again.
 

@@ -220,10 +220,10 @@
       "track": 10,
       "slug": "ch10-the-writ",
       "title": "Chapter Ten: The Writ",
-      "duration": 2927,
-      "bytes": 23503758,
-      "sha256": "81972b3e10b9ccc6c8b484224971aa473b663485a1ea16278adcdd316b95656e",
-      "url": "https://audio.insularimperium.com/v/81972b3e/ch10-the-writ.mp3",
+      "duration": 2926,
+      "bytes": 23499342,
+      "sha256": "7e6336d24636e84b775de7554a1a9d29b87995efa5c1b1fcea1ede1a6cd8a1bb",
+      "url": "https://audio.insularimperium.com/v/7e6336d2/ch10-the-writ.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -235,7 +235,7 @@
           "Alana"
         ],
         [
-          2354.8,
+          2354.3,
           "Marcus"
         ]
       ]
@@ -337,9 +337,9 @@
       "slug": "ch14-the-boundary",
       "title": "Chapter Fourteen: The Boundary",
       "duration": 2724,
-      "bytes": 21881943,
-      "sha256": "e7014e2bfc547ce278b5c1c40210964c0e1592ef94c14c998a8ee4dce03ce8de",
-      "url": "https://audio.insularimperium.com/v/e7014e2b/ch14-the-boundary.mp3",
+      "bytes": 21879639,
+      "sha256": "4e6472cc16e4faeb2c35be03f1e12f651c934937088fc97e55e65d0dc2152140",
+      "url": "https://audio.insularimperium.com/v/4e6472cc/ch14-the-boundary.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -352,10 +352,10 @@
       "track": 15,
       "slug": "ch15-one-voice",
       "title": "Chapter Fifteen: One Voice",
-      "duration": 2756,
-      "bytes": 22137299,
-      "sha256": "9cb4fdfa07b4d112c5bbfa9ae021add6229acbe56eeb79245a59ba048777ec82",
-      "url": "https://audio.insularimperium.com/v/9cb4fdfa/ch15-one-voice.mp3",
+      "duration": 2755,
+      "bytes": 22132883,
+      "sha256": "481cda25c3c08815a8cf7fe7da5f5b8b106bbd27b24a2fee39a814d35e1e3c82",
+      "url": "https://audio.insularimperium.com/v/481cda25/ch15-one-voice.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -363,7 +363,7 @@
           "Marcus"
         ],
         [
-          2023.6,
+          2023.1,
           "Sylara"
         ]
       ]
@@ -416,10 +416,10 @@
       "track": 18,
       "slug": "ch18-the-song-closes",
       "title": "Chapter Eighteen: The Song Closes",
-      "duration": 4482,
-      "bytes": 35941722,
-      "sha256": "dff289fc800e14cf9eb6cbbd41b05fe49c4d5e15fec882dff1424260127f52d5",
-      "url": "https://audio.insularimperium.com/v/dff289fc/ch18-the-song-closes.mp3",
+      "duration": 4481,
+      "bytes": 35939802,
+      "sha256": "498e7c6119c0e899e6b5b4dc94fbecf9b2aec19fee6260bbf846f7baaf44ec01",
+      "url": "https://audio.insularimperium.com/v/498e7c61/ch18-the-song-closes.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -431,11 +431,11 @@
           "Alana"
         ],
         [
-          2498.6,
+          2498.4,
           "Marcus"
         ],
         [
-          4215.1,
+          4214.9,
           "Sylara"
         ]
       ]

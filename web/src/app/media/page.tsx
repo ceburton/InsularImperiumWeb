@@ -44,21 +44,6 @@ const GALLERY_ENTRIES = [
   },
 ];
 
-const VIDEO_ENTRIES = [
-  {
-    videoSrc: '/assets/Now-you-will-burn.mp4',
-    title: 'Now You Will Burn',
-    caption: 'Witness the fiery wrath of the Empire\'s mages as they rain destruction upon the archipelago.',
-    poster: '/assets/Now-you-will-burn-poster.png',
-  },
-  {
-    videoSrc: '/assets/It is a hit.mp4',
-    title: 'It is a Hit',
-    caption: 'A hail of arrows from above proves that the long-range strikes of veteran archers are as deadly as they are precise.',
-    poster: '/assets/It-is-a-hit-poster.png',
-  },
-];
-
 function ScreenshotPlaceholder({ title, caption, imageSrc, onClick }: { title: string; caption: string; imageSrc: string; onClick: () => void }) {
   const [imgError, setImgError] = useState(false);
 
@@ -84,47 +69,6 @@ function ScreenshotPlaceholder({ title, caption, imageSrc, onClick }: { title: s
         ) : (
           <div className="text-bronze-dark opacity-50 text-4xl">⚔</div>
         )}
-        <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-colors duration-300" />
-      </div>
-      <div className="p-4 flex-1 flex flex-col justify-center border-t border-bronze-dark/30 bg-[#1a1814]/80">
-        <div className="text-bronze font-bold uppercase tracking-wider text-xs mb-1" style={{ fontFamily: "'Cinzel', serif" }}>
-          {title}
-        </div>
-        <p className="text-parchment-dark/80 text-xs leading-relaxed" style={{ fontFamily: "'EB Garamond', serif" }}>
-          {caption}
-        </p>
-      </div>
-    </div>
-  );
-}
-
-function VideoPlaceholder({ title, caption, videoSrc, poster, onClick }: { title: string; caption: string; videoSrc: string; poster?: string; onClick: () => void }) {
-  return (
-    <div
-      onClick={onClick}
-      className="group relative w-full rounded-lg border-2 overflow-hidden flex flex-col transition-all duration-300 cursor-zoom-in hover:scale-[1.02] hover:shadow-xl"
-      style={{
-        borderColor: 'var(--color-bronze-dark)',
-        background: 'linear-gradient(135deg, rgba(26,24,20,0.6), rgba(42,38,30,0.5))',
-      }}
-    >
-      <div className="relative w-full aspect-video flex items-center justify-center bg-black/60 overflow-hidden">
-        {poster ? (
-          <Image
-            src={poster}
-            alt={title}
-            fill
-            className="object-cover opacity-60 group-hover:opacity-100 transition-opacity duration-500"
-            unoptimized
-          />
-        ) : (
-          <div className="absolute inset-0 bg-black/80" />
-        )}
-        <div className="absolute inset-0 flex items-center justify-center z-10 pointer-events-none">
-          <div className="w-16 h-16 rounded-full bg-bronze/20 border-2 border-bronze flex items-center justify-center transition-all duration-300 group-hover:scale-110 group-hover:bg-bronze/40 shadow-[0_0_20px_rgba(176,141,87,0.4)]">
-             <span className="ml-1 text-bronze-light text-2xl drop-shadow-lg group-hover:text-white">▶</span>
-          </div>
-        </div>
         <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-colors duration-300" />
       </div>
       <div className="p-4 flex-1 flex flex-col justify-center border-t border-bronze-dark/30 bg-[#1a1814]/80">
@@ -201,66 +145,8 @@ function ImageModal({ src, alt, caption, onClose }: { src: string; alt: string; 
   );
 }
 
-function VideoModal({ src, title, caption, onClose }: { src: string; title: string; caption: string; onClose: () => void }) {
-  return (
-    <motion.div
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      exit={{ opacity: 0 }}
-      onClick={onClose}
-      className="fixed inset-0 z-50 flex items-center justify-center p-4 md:p-8 bg-black/95 backdrop-blur-md cursor-zoom-out"
-    >
-      <motion.div
-        initial={{ scale: 0.9, opacity: 0 }}
-        animate={{ scale: 1, opacity: 1 }}
-        exit={{ scale: 0.9, opacity: 0 }}
-        onClick={(e) => e.stopPropagation()}
-        className="relative max-w-[90vw] max-h-[90vh] bronze-frame p-1 bg-[#1a1814] overflow-hidden rounded-sm shadow-[0_0_80px_rgba(0,0,0,1)] flex flex-col items-center justify-center"
-      >
-        <div className="relative w-full h-full flex items-center justify-center bg-black p-1">
-          <video 
-            src={src} 
-            controls 
-            autoPlay 
-            className="max-w-full max-h-[75vh] object-contain shadow-2xl"
-            controlsList="nodownload"
-          />
-        </div>
-
-        {/* Caption Overlay */}
-        <div 
-          className="w-full p-6 text-center border-t border-bronze-dark/30 bg-black/60"
-        >
-          <div className="text-bronze font-bold uppercase tracking-[0.2em] text-sm md:text-base mb-1" style={{ fontFamily: "'Cinzel', serif" }}>
-            {title}
-          </div>
-          <p className="text-parchment/90 text-sm md:text-base max-w-3xl mx-auto leading-relaxed" style={{ fontFamily: "'EB Garamond', serif" }}>
-            {caption}
-          </p>
-        </div>
-        
-        <button
-          onClick={onClose}
-          className="absolute -top-2 -right-2 w-10 h-10 z-50 flex items-center justify-center text-xl font-bold cursor-pointer transition-all hover:scale-110 active:scale-95 shadow-lg border-2"
-          style={{
-            background: 'linear-gradient(135deg, #4a4a52 0%, #2a2a32 100%)',
-            borderColor: '#8a6a30',
-            color: '#c4a87a',
-            clipPath: 'polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)',
-            fontFamily: "'Cinzel', serif",
-          }}
-          aria-label="Close"
-        >
-          ✕
-        </button>
-      </motion.div>
-    </motion.div>
-  );
-}
-
 export default function MediaPage() {
   const [selectedImage, setSelectedImage] = useState<{ src: string; alt: string; caption: string } | null>(null);
-  const [selectedVideo, setSelectedVideo] = useState<{ src: string; title: string; caption: string } | null>(null);
 
   return (
     <div className="marble-bg min-h-screen pb-20">
@@ -357,31 +243,6 @@ export default function MediaPage() {
             </motion.div>
           ))}
         </div>
-
-        {/* Cinematic Archives Section */}
-        <section className="mt-24 pt-12 border-t border-bronze/20 text-center">
-          <h2 className="text-2xl font-bold mb-8 uppercase tracking-[0.2em]" style={{ fontFamily: "'Cinzel', serif", color: 'var(--color-bronze-dark)' }}>
-            Cinematic Archives
-          </h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 max-w-5xl mx-auto">
-            {VIDEO_ENTRIES.map((entry, index) => (
-              <motion.div
-                key={index}
-                initial={{ opacity: 0, scale: 0.95 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ delay: 0.2 + (index * 0.1) }}
-              >
-                <VideoPlaceholder
-                  title={entry.title}
-                  caption={entry.caption}
-                  videoSrc={entry.videoSrc}
-                  poster={entry.poster}
-                  onClick={() => setSelectedVideo({ src: entry.videoSrc, title: entry.title, caption: entry.caption })}
-                />
-              </motion.div>
-            ))}
-          </div>
-        </section>
       </main>
 
       {/* Lightboxes */}
@@ -392,14 +253,6 @@ export default function MediaPage() {
             alt={selectedImage.alt}
             caption={selectedImage.caption}
             onClose={() => setSelectedImage(null)}
-          />
-        )}
-        {selectedVideo && (
-          <VideoModal
-            src={selectedVideo.src}
-            title={selectedVideo.title}
-            caption={selectedVideo.caption}
-            onClose={() => setSelectedVideo(null)}
           />
         )}
       </AnimatePresence>

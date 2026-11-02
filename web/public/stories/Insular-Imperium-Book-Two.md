@@ -1,4 +1,4 @@
-# Insular Imperium: Book Two
+# Insular Imperium: The King's Table
 
 *All finished chapters, in reading order.*
 

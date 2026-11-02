@@ -52,7 +52,7 @@ function resumeAt(c: AudiobookChapter, p?: Place) {
   return p.d > 0 ? Math.min(c.duration - 5, (p.t / p.d) * c.duration) : 0;
 }
 
-export default function AudiobookPlayer({ chapters, book, other }: { chapters: AudiobookChapter[]; book: AudiobookInfo; other: { label: string; audioPath: string } }) {
+export default function AudiobookPlayer({ chapters, book, other }: { chapters: AudiobookChapter[]; book: AudiobookInfo; other: { subtitle: string; audioPath: string } }) {
   const audio = useRef<HTMLAudioElement>(null);
   const saved = useRef<Saved>({ places: {} });
   const pendingSeek = useRef<number | null>(null);
@@ -244,8 +244,8 @@ export default function AudiobookPlayer({ chapters, book, other }: { chapters: A
       <header className="audiobook-top">
         <Link href="/media">← Media</Link>
         <nav className="audiobook-top-links">
-          <Link href={other.audioPath}>{other.label} audiobook</Link>
-          <Link href={book.readerPath}>Read {book.number === 1 ? 'the story' : book.label}</Link>
+          <Link href={other.audioPath}>{other.subtitle} audiobook</Link>
+          <Link href={book.readerPath}>Read {book.subtitle}</Link>
         </nav>
       </header>
 
@@ -254,7 +254,7 @@ export default function AudiobookPlayer({ chapters, book, other }: { chapters: A
           {/* eslint-disable-next-line @next/next/no-img-element -- small static cover, no optimisation needed */}
           <img src={book.coverSmall} alt={`${book.title}: The Audiobook cover`} width={600} height={600} />
           <div>
-            <p className="audiobook-eyebrow">{book.number === 1 ? 'The Audiobook' : `${book.label} · The Audiobook`}</p>
+            <p className="audiobook-eyebrow">{`${book.label} · The Audiobook`}</p>
             <h1>{book.title}</h1>
             <p className="audiobook-summary">{book.summary}</p>
             {chapters.length ? <>

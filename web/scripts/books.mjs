@@ -6,10 +6,10 @@ export const storyBible = process.env.STORY_BIBLE || 'C:\\Users\\GameOn\\Project
 export const generator = process.env.AUDIOBOOK_GENERATOR || 'C:\\insular-imperium-audio';
 
 export const books = [
-  { number: 1, label: 'Book One', title: 'Insular Imperium', chapters: path.join(storyBible, 'chapters'),
+  { number: 1, label: 'Book One', title: "Insular Imperium: The Coward's Answer", chapters: path.join(storyBible, 'chapters'),
     audioDir: process.env.AUDIOBOOK_DIR || path.join(generator, 'audiobook'), dataFile: 'src/data/audiobook.json',
     bunnyPrefix: 'v/', storyFile: 'public/stories/Insular-Imperium.md' },
-  { number: 2, label: 'Book Two', title: 'Insular Imperium: Book Two', chapters: path.join(storyBible, 'chapters', 'book2'),
+  { number: 2, label: 'Book Two', title: "Insular Imperium: The King's Table", chapters: path.join(storyBible, 'chapters', 'book2'),
     audioDir: process.env.AUDIOBOOK_BOOK2_DIR || path.join(generator, 'audiobook-book2'), dataFile: 'src/data/audiobook-book2.json',
     bunnyPrefix: 'book2/v/', storyFile: 'public/stories/Insular-Imperium-Book-Two.md' },
 ];

@@ -1,4 +1,4 @@
-# Insular Imperium
+# Insular Imperium: The Coward's Answer
 
 *All finished chapters, in reading order.*
 

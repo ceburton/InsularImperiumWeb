@@ -1,3 +1,20 @@
 {
-  "chapters": []
+  "chapters": [
+    {
+      "track": 1,
+      "slug": "ch01-the-dullest-day",
+      "title": "Chapter One: The Dullest Day",
+      "duration": 2567,
+      "bytes": 20628765,
+      "sha256": "9e755718a7b6bd152ddefaee1ea86e288b64fbd911da401de555bbb60d52bea3",
+      "url": "https://audio.insularimperium.com/book2/v/9e755718/ch01-the-dullest-day.mp3",
+      "firstPublished": "2026-11-02",
+      "pov": [
+        [
+          5.9,
+          "Lucan"
+        ]
+      ]
+    }
+  ]
 }

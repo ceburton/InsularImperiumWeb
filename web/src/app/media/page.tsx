@@ -321,18 +321,20 @@ export default function MediaPage() {
           <div className="text-bronze-light text-xs uppercase tracking-[0.3em] mb-4">Stories of the archipelago</div>
           <h2 id="story-title" className="text-3xl md:text-4xl text-parchment mb-4" style={{ fontFamily: "'Cinzel', serif" }}>Insular Imperium</h2>
           <p className="text-parchment-dark text-xl max-w-2xl mb-6">The bells ring across Aeridor. A prince wakes in the Drowned Lantern, and his story begins. Step into the world behind Insular Imperium.</p>
+          <div className="text-bronze-light text-xs uppercase tracking-[0.3em] mb-3">Book One</div>
+          <h3 id="book-one-title" className="text-2xl md:text-3xl text-parchment mb-4" style={{ fontFamily: "'Cinzel', serif" }}>The Coward&apos;s Answer</h3>
           <div className="flex flex-wrap gap-4">
-            <Link href="/media/story" className="inline-block rounded border border-bronze-light bg-bronze-light px-6 py-3 text-[#17130e] font-bold hover:bg-parchment transition-colors">Read Book One →</Link>
-            <Link href="/media/audiobook" className="inline-block rounded border border-bronze-light px-6 py-3 text-bronze-light font-bold hover:bg-bronze-light hover:text-[#17130e] transition-colors">Listen to Book One →</Link>
+            <Link href="/media/story" className="inline-block rounded border border-bronze-light bg-bronze-light px-6 py-3 text-[#17130e] font-bold hover:bg-parchment transition-colors">Read The Coward&apos;s Answer →</Link>
+            <Link href="/media/audiobook" className="inline-block rounded border border-bronze-light px-6 py-3 text-bronze-light font-bold hover:bg-bronze-light hover:text-[#17130e] transition-colors">Listen to The Coward&apos;s Answer →</Link>
           </div>
           <p className="text-parchment-dark text-sm mt-4">Adjustable fonts · Dark and high contrast themes · Saved reading position · Full audiobook, also as a podcast</p>
           <div className="mt-8 border-t border-bronze/40 pt-8" aria-labelledby="book-two-title">
             <div className="text-bronze-light text-xs uppercase tracking-[0.3em] mb-3">New · Book Two</div>
-            <h3 id="book-two-title" className="text-2xl md:text-3xl text-parchment mb-3" style={{ fontFamily: "'Cinzel', serif" }}>Insular Imperium: Book Two</h3>
+            <h3 id="book-two-title" className="text-2xl md:text-3xl text-parchment mb-3" style={{ fontFamily: "'Cinzel', serif" }}>The King&apos;s Table</h3>
             <p className="text-parchment-dark text-lg max-w-2xl mb-6">After the Teeth, the quarter’s accounts come due at the Obsidian Spire. The story goes on, a chapter at a time.</p>
             <div className="flex flex-wrap gap-4">
-              <Link href="/media/story/book-two" className="inline-block rounded border border-bronze-light bg-bronze-light px-6 py-3 text-[#17130e] font-bold hover:bg-parchment transition-colors">Read Book Two →</Link>
-              <Link href="/media/audiobook/book-two" className="inline-block rounded border border-bronze-light px-6 py-3 text-bronze-light font-bold hover:bg-bronze-light hover:text-[#17130e] transition-colors">Listen to Book Two →</Link>
+              <Link href="/media/story/book-two" className="inline-block rounded border border-bronze-light bg-bronze-light px-6 py-3 text-[#17130e] font-bold hover:bg-parchment transition-colors">Read The King&apos;s Table →</Link>
+              <Link href="/media/audiobook/book-two" className="inline-block rounded border border-bronze-light px-6 py-3 text-bronze-light font-bold hover:bg-bronze-light hover:text-[#17130e] transition-colors">Listen to The King&apos;s Table →</Link>
             </div>
           </div>
         </section>

@@ -6,8 +6,8 @@ import { books, readerBook } from '@/lib/books';
 import { splitChapters } from '@/lib/story';
 
 export const metadata: Metadata = {
-  title: 'Read Book Two | Insular Imperium',
-  description: 'Read Book Two of Insular Imperium with adjustable fonts, comfortable themes, and saved reading progress.',
+  title: 'Read The King\'s Table | Insular Imperium',
+  description: 'Read Insular Imperium: The King\'s Table, Book Two, with adjustable fonts, comfortable themes, and saved reading progress.',
 };
 
 export default async function BookTwoStoryPage() {

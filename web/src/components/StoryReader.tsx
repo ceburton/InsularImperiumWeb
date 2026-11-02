@@ -445,9 +445,9 @@ export default function StoryReader({ chapters, book }: { chapters: Chapter[]; b
       <header className="reader-toolbar">
         <div className="reader-toolbar-links">
           <Link href="/media">← Media</Link>
-          <Link className="reader-other-book" href={book.other.readerPath}>{book.other.label}</Link>
+          <Link className="reader-other-book" href={book.other.readerPath}>{book.other.subtitle}</Link>
         </div>
-        <span className="reader-brand">Insular Imperium{book.id !== 'book-one' && ` · ${book.label}`}</span>
+        <span className="reader-brand">Insular Imperium · {book.subtitle}</span>
         <div className="reader-toolbar-actions">
           {canSpeak && <button className="reader-listen" disabled={!pagination.stride} onClick={toggleListening} aria-label={listening ? 'Pause listening' : 'Listen'}>{listening ? '⏸︎' : '▶︎'} <span>{listening ? 'Pause' : 'Listen'}</span></button>}
           {listening && <button onClick={() => setDim(true)} aria-label="Dim mode" title="Dim the screen while listening">◐ <span>Dim</span></button>}
@@ -463,7 +463,7 @@ export default function StoryReader({ chapters, book }: { chapters: Chapter[]; b
         <div ref={pageArea} className="reader-page-area" style={{ maxWidth: settings.width * (settings.layout === 'single' ? 1 : 2) + (settings.layout === 'single' ? 0 : gap) }}>
         <div ref={viewport} className={`reader-book ${pagination.columns === 2 ? 'reader-spread' : ''}`}>
           <article ref={article} className="reader-prose" aria-label={chapters[chapter]?.title} style={{ fontFamily: fonts[settings.font as keyof typeof fonts], fontSize: settings.size, lineHeight: settings.spacing, transform: `translateX(-${pagination.page * pagination.stride}px)`, visibility: ready && pagination.stride ? 'visible' : 'hidden' }}>
-            <p className="reader-eyebrow">{book.id === 'book-one' ? 'INSULAR IMPERIUM' : `INSULAR IMPERIUM · ${book.label.toUpperCase()}`}</p>
+            <p className="reader-eyebrow">{`INSULAR IMPERIUM · ${book.subtitle.toUpperCase()}`}</p>
             <h1>{chapters[chapter]?.title}</h1>
             {markdown}
           </article>
@@ -502,7 +502,7 @@ export default function StoryReader({ chapters, book }: { chapters: Chapter[]; b
             {canSpeak && <label>Voice<select value={voicePrefs.voice} onChange={e => changeVoice('voice', e.target.value)}><option value="">Automatic</option>{voices.map(v => <option key={v.voiceURI} value={v.voiceURI}>{v.name} ({v.lang})</option>)}</select></label>}
           </div>
           <p className="reader-note">Next page: PgDn, Right arrow, or Down arrow. Previous page: PgUp, Left arrow, or Up arrow. Space also advances; Shift+Space goes back. Your place follows you when you change the font or resize the window.{canSpeak && ' Listen reads aloud from the top of the page and remembers the paragraph where you paused.'}</p>
-          <p className="reader-note"><Link href={book.other.readerPath}>Read {book.other.label} →</Link></p>
+          <p className="reader-note"><Link href={book.other.readerPath}>Read {book.other.label}, {book.other.subtitle} →</Link></p>
           <button className="reader-done" onClick={() => { setControls(false); menuButton.current?.focus(); }}>Back to the book</button>
         </div>
       </div>}

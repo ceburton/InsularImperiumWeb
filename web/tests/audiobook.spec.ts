@@ -17,7 +17,7 @@ const bar = (page: Page) => page.getByRole('region', { name: 'Audio player' });
 
 test('lists every chapter with downloads and the podcast feed', async ({ page }) => {
   await page.goto('/media/audiobook');
-  await expect(page.getByRole('heading', { level: 1, name: 'Insular Imperium' })).toBeVisible();
+  await expect(page.getByRole('heading', { level: 1, name: "Insular Imperium: The Coward's Answer" })).toBeVisible();
   await expect(page.locator('.audiobook-chapters li')).toHaveCount(chapters.length);
   await expect(page.getByRole('link', { name: new RegExp(`Download ${chapters[0].title}`) })).toHaveAttribute('href', `${chapters[0].url}?download=1`);
   await expect(page.getByRole('link', { name: 'https://www.insularimperium.com/media/audiobook/feed.xml' })).toBeVisible();

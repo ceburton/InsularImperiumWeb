@@ -6,6 +6,7 @@
 
 1. [Chapter One: The Dullest Day](#chapter-one-the-dullest-day)
 2. [Chapter Two: The Cold Grounds](#chapter-two-the-cold-grounds)
+3. [Chapter Three: Who Gave Him Leave](#chapter-three-who-gave-him-leave)
 
 ---
 
@@ -992,3 +993,519 @@ Nerva went on looking at the rope.
 "Gaius."
 
 "That's what I'm afraid of," said Nerva; and he stood at her bow with his back to the harbor and the galley in it, and did not turn round.
+
+---
+
+# Chapter Three: Who Gave Him Leave
+
+**VALERIA**
+
+Valeria was sick before the *Patience* had cleared the moles, which was early, even for her.
+
+She was sick again where the warm water ended and the cold began, at a line so sharp you could have laid a rule along it. Again when the Grey came down over the bow and shut Cyrene away behind them, the black headland and the bell-tower and the smoke of the town, and the General on his grey mare at the end of the long quay, who had not waved, because she had told him not to. After that she gave up marking them. A ship was the baggage cart again. You sat in it, and it took you where it was going, and other people did the work. There was nothing for you to do but hold on, and listen to the noises it made, and guess from them what was coming.
+
+The Grey was thick that winter. It was less a fog than a country, yellow-grey and close and without a sky, and it stank of brimstone, the bad-egg reek of the fires under the sea, so that the smell got into her plaits and her cloak and the back of her throat and lived there. Frost furred the stays in the night. The oars came up out of the Grey with ice on the blades, and went down into it, and came up. The drum in the waist kept them at it with a dull thud she could feel in her back teeth. Forward, the copper was on. The smell of salt pork boiling came aft along the deck and met her at the rail.
+
+She had come south in the *Patience* in the autumn with a writ in a bag, sick the length of the sea. She had told herself that a body which had carried a lancea up and down the isles since the Long Field would learn the trick of a deck in the end. It had not. It did everything else she asked of it. It would march all day and stand all night and get up in the morning and do both again; it was square and hard and quick under the mail still, and in private she was vain of it. And it would not stand on a deck in the Grey for the length of a hymn without sending back whatever she had last put into it.
+
+Avitus was sorry about that. Avitus was sorry about most things. He was a short grey man with a cold that had gone south with him in the autumn, and come north with him, and gone south again, and was going north now in the best of health. He blew his nose into a rag and begged her pardon for it, and on the evening they sailed he came aft with a raw onion on a board and a twist of salt.
+
+"For the stomach, Captain. Saving your presence." He sniffed. "Bite and salt. Bite and salt. It settles some."
+
+She bit, and salted, and bit. The onion went down like a coal off a hearth and came back up the same way, with company.
+
+"Ah," said Avitus, and put the board under his arm. "Some it doesn't take."
+
+It was Avitus who had carried the Marshal's letter to her in the autumn.
+
+She kept the letter inside the neck of her mail, where it had been since that day, and she had no need to take it out to read it. *You will not sail with him again. If you cannot hold him, say so, and I will send a captain who can.* She had not said so. She had sailed with him to the elves' wood and back, and out to the Teeth. Twice she had written the Marshal the same sentence, in her own square hand under her own plain seal, and sent it north to be read by his fire.
+
+The summons she had read over the prince's arm on the slip quay, and once since, in Avitus's cabin by the lamp, while Alana slept. *The Prefect will bring with him such of his officers as he shall think fit.* She read orders the way she read ground, for the dead places and the ways out. The recall in the king's drawer named *the Prefect of Cyrene, and such of his officers as sailed with him*. Different clerks had drawn the two papers, a season apart, and they were not the same. They were two fields with one hedge between them, and she was standing in the hedge, where the thorn grew thickest.
+
+The list was older than the Marshal's letter, and older than the Grey. *Things that might kill me* at the top; and beside it, in its own column, *Things to deal with later*. On the *Patience* it ran: *The Grey. This rail. Avitus's onion.* The council was not on it. A council could not kill her. It could break her, which was another thing, and there had never been a heading for that; so the council went under *later*, where it had stood since the autumn. There was a third column now, with no heading and only the elf in it. She left that one alone. Later lay at the far end of the Grey. It came nearer at every stroke of the drum.
+
+Her hand had gone flat to her breastbone, over the letter. She took it away.
+
+Nerva would not go below.
+
+Avitus offered him his own cot, as one master to another, and Nerva thanked him, and took a blanket instead and the bare deck by the steering oar. He slept there sitting up, with his back to the sternpost and his long legs out before him, and in the mornings there was frost in his beard. He did not say why. Nobody on the *Patience* asked. A man who had last come home to the capital with the war council waiting for him on the quay might want to come in the next time on deck, awake, and on his own feet. The writ she had read on the quay at Cyrene had pardoned the prince and the General by name. It had not named him.
+
+He watched the helmsman. He watched him by the hour, the sea-pale eyes going from the man's hands on the loom to the bow and back to the hands, and said nothing whatever about it, which in Nerva was a kind of fast.
+
+The Chair sat under the stern awning on a coil of cable, in a blanket, with her weather-book open on her knees, and wrote down whatever there was to write. The wind, which was none. The bearing, which was Avitus's guess, sneezed at her from the steering oar. The stores: Avitus had asked her to keep the stores for him, since she was keeping everything else. Every evening she wrote them up in her small neat hand with her lips moving, so much biscuit, so much pork, so many onions, one fewer. Valeria had never seen anybody so pleased to be handed a list of onions. A woman had a right to her own book.
+
+Felix was sick too, though not, he wished it understood, from the sea.
+
+"I was in boats before I could walk, Captain," he said, coming up off the rail beside her with his face the color of tallow. "On the Steps you're in a boat before you're named. It isn't the sea."
+
+"Understood."
+
+"It's the pork." He looked forward at the copper with real hatred. "Strictly, it's the pork."
+
+Then he wiped his mouth, and went and filled the prince's cup at the water-cask, and stood by while the prince drank it.
+
+The prince was not sick. He stood at the rail forward for long stretches of every day, with the Grey going by on either hand, and looked into it. Whatever he was thinking about there, it was not the council. Valeria had seen his council face, on the gatehouse roof at Cyrene, and this was another one. She had never yet asked a prince what he was thinking, and she did not mean to begin with this one.
+
+Avitus had given up his cabin to the Chair and herself; it was the size of a clothes-press, and smelled of his cold. One evening she opened her kit there for a dry shirt, and there was a crock in it she had not packed.
+
+It was a squat brown crock with a wooden stopper, and the stopper was tied down with a twist of coarse grey hair from a horse's tail. She knew the tail. She knew what was in the crock before she had the stopper out, and when she had it out the cabin knew too. Old Baebius's liniment. It smelled as it always had, like a chandler's yard on fire.
+
+She had rubbed it into the General's back in the cutting at Silverwood, on her knees over him in the cold, with her thumbs under his left shoulder-blade, where he liked them. The healer had mended that back since, at the Baths, and he had no more use for the stuff. And her own shoulders were galled where her mail had sat on them since the Long Field, and he had seen them, and never said a word. There was no letter with the crock. He was no man for letters. He had said what he had to say with a twist of his mare's tail, and he was the only man she knew who could.
+
+If he had been there she would have told him it stank. He would have agreed with her, and been pleased with himself till spring.
+
+The Chair looked up from her book and sniffed.
+
+"Goose-grease," she said. "Mustard. Turpentine. And something I can't place." She laid her pen down. "I have a theory about the something."
+
+"Keep it."
+
+"I'll write it down, then." She held out a hand with ink in the creases of the knuckles. "Give it here. You can't reach your own shoulders, and if you try you'll put something out, and then I'll have to write that down as well."
+
+Valeria considered refusing. Then she got out of her mail, which in that cabin was a question of tactics. She sat on the edge of Avitus's cot with her shirt down round her waist and her plaits pulled forward over one shoulder, out of the way.
+
+She had a good back, and knew it: broad across the shoulders and narrow at the waist, with the long muscles standing hard on either side of the spine. There were the old knife-seams along her ribs on the left, white. Across the tops of both shoulders the skin was galled red and rough where the rings bore. The rest of it was hers. She had made it herself, out of drill and long roads and bad weather, and nobody had helped.
+
+The Chair's fingers were cold, and then were not. The liniment went on cold and lay there; then it began to burn, slowly, a deep dull heat that sank into the shoulders and found the knots in them one by one and sat on each like a hen. Valeria shut her eyes.
+
+"Hold still," said the Chair.
+
+"I am holding still."
+
+"You're holding still *at* me. It's different." Her thumbs kept working. After a time she said, in the voice she kept for the wind and the bearings, "You have a remarkable back. Structurally, I mean." And then, being fair: "No. I mean it the other way as well."
+
+"I know," said Valeria.
+
+She slept that night for the first time since the moles, with her shoulders on fire and the cabin reeking of Old Baebius, and dreamed of nothing at all.
+
+On the last night out the Grey was so thick that the stern lantern made a yellow room in it, with walls. She was at the lee rail beyond the light with her forehead on her wrist, giving the sea the last of her supper. Someone came up beside her and gathered her plaits in one hand and held them back off her face.
+
+She knew the hand. She finished what she was doing.
+
+"Let go of my hair, Highness."
+
+"In a moment."
+
+She spat, and straightened, and wiped her mouth on the back of her wrist, and he let the plaits go. He leaned on the rail beside her.
+
+"I'll tell them I ordered you aboard," he said.
+
+"You didn't."
+
+"They won't know that."
+
+"I will."
+
+Below them in the waist the drum went on. The oars came up, and dripped, and went down.
+
+"You were on the wall at Cyrene," said Valeria, "my second night there. You heard what I said."
+
+"I heard."
+
+"Then don't take it off me."
+
+He did not answer that. He stood by her at the rail with the Grey going past; and after a time he said, "You're frozen to the rail."
+
+She was. The end of one plait had gone down onto the iced wood while she was busy, and stuck there. She had to work it loose a little at a time with her fingers, while the prince of the isles looked on with great politeness and did not help.
+
+From the dark by the steering oar, where she had thought him asleep, Nerva said: "Your man's been carrying a point of larboard helm since the moles."
+
+The prince turned his head. "Tell Avitus."
+
+"Not my ship," said Nerva.
+
+It was the first thing he had said about anybody's steering since Cyrene. Valeria worked the last of her plait free of the rail, and thought that it had cost him more to keep that in so long than the Grey had cost her.
+
+---
+
+The Grey let go of them in the forenoon. It thinned to a haze, and the haze to a pale yellow light lying on the water, and then they were out of it, and the cold came at them clean, with no smell in it at all; and Valeria lifted her head off her arms and saw the capital.
+
+Black sea, white sky, and snow on all of it. The Old Hill came first, as it always had: the terraces of the tombs going up it one above another in white steps, and above them the dome of the Hall of Kings and the long wall of the palace, and high in the wall the one tall window that looked down over the tombs and the canals and the harbor at everything there was. Below the hill the city ran down on every side to the water, roof beyond roof under the snow; and through it, from the springs under the hill, the warm canals came down to the sea, each one smoking, so that from the water the city was ruled in grey from the hill to the harbor, like a drill-field marked out for a muster.
+
+The moles reached out to take them in, black stone arms with the snow along their tops. On the tower at the end of each a bolt-thrower sat under a hood of sailcloth with the snow on it. Its layer stood beside it in a fur hat, stamping, and did not trouble to lay it on a royal galley. Between the moles the royal harbor lay black and steaming. As the *Patience* came in under the towers the warmth of it rose round her, and the smell with it, sulphur and weed and tar; and somewhere up in the city the bells began to ring the noon.
+
+They rang it louder than she remembered. The Hall of Kings first, from the top of the hill; then the Fishmarket bell and the harbor bell, answering; and last, a beat behind the rest, the cracked bell on the Gaol Stair.
+
+Nerva was standing at the rail. She had not seen him get up.
+
+"They never mended it," he said.
+
+They passed the mouth of the Lower Canal under the hill, where it came out between its stone banks into the harbor, smoking. You could see a long way up it from the water: the steam lying along it, and on the left bank a little way up, under its sign, the Drowned Lantern, with its canal window that had no glass in it and a sack nailed over the lower half. The prince looked up the canal once, at the window. Then he looked at the berths. Half the capital had heard how that glass went.
+
+Along the inner quay under the hill the old berths ran away from them, empty, with their great iron rings rusted red on the bollards and their slipways climbing behind them into the shadow of the hill under the snow. The prince's grandfather had kept his fleet there. Valeria had marched past them half her life on her way to somewhere else, and had long since stopped seeing them. They were not empty now. In the first of them, nearest the hill, lay the *Answer*.
+
+She was long and low and black, with her oar-ports shut, and her high stern swept up over her to the gilt book on its post. On her bow the red eye of Tharsis looked out through its tar. The Lanciarii had painted her rail Aeridor blue at Cyrene, roughly, in a hurry; and all along it the white closed hands of Tharsis showed through the blue, as the brand on the General's mare showed through her winter coat. Somebody from the city had climbed up and hung a bough of pine on her stem-head, as on a door.
+
+Her people were at her rail. Valeria saw the blue cloaks of her own Lanciarii, the ones she had sent north in her with Pell, and the men of Cyrene in their sea-coats. Apart from them, in the bow, the men of the cohort who had been born under the Old Hill, standing together and looking up at it. Not at the quay. At the hill. Out of the waters of Cyrene a man of the cohort was a convict again; the writ said so, and she had read it aloud. They had not set foot on the quay since she berthed, Pell told her later. They walked her deck instead, from the stem to the gilt book and back, and looked at the hill.
+
+Pell was in the bow too, waving his knitted cap over his head with both arms.
+
+"Captain!" His voice came over the water thin and cracked with cold. "*Highness!* I've kept her dry!"
+
+"I see it," the prince called back.
+
+"I'm not going up the hill, mind!" He had a clean shirt on, and his hair had dried in tufts. At his neck on a cord hung the doeskin bag with the prince's stone in it, and he put his hand on it while he shouted, to show it had not gone anywhere. "Not for thanks nor nothing! It's carpets, up the hill. They wash your *ears*."
+
+"Bring the stone back," said the prince, not loudly; but Pell heard him, and grinned, and put his cap on.
+
+Felix, at her elbow, pointed with his chin across the harbor at the Fishmarket Steps, where the houses went up from the water one on another's shoulders.
+
+"My mother's," he said. "The one smoking."
+
+Every chimney on the Steps was smoking.
+
+"The one smoking most," said Felix.
+
+The *Patience* rowed on past the berths to the galley quay beyond, where the galleys lay in their row, and the warm water slopped between her side and the stone. Above the long quay the Gaol Stair came down from the harbor prison in its crooked flights, black with wet, to the quays of the Lower Harbor. Nerva looked at it, and at the quay at its foot, and did not move. Valeria knew the story. Everybody in the capital did. This was the quay.
+
+She put Galba and Pacuvius at his back, without a word.
+
+The quays were full. The city had heard the *Patience* was in, and had come down to see the prince for itself: men from the yards with their adzes still in their belts, women with baskets, boys on the bollards, a priest. The bakehouses along the waterfront smelled of cloves. Somebody shouted the prince's name. Then a good many people did; and somebody else shouted *Answer!*, and the boys on the bollards took it up, *Answer, Answer*, and pointed at the black ship in the first berth, in case he had not noticed her.
+
+Valeria went down the plank with her knees still full of the deck, so that the quay came up to meet her wrong. She looked at the faces, as at any crowd, for the hands that were not where they should be. They were all where they should be. Most of them were waving.
+
+The Chair would not go aboard the *Answer*. She stood at the foot of the black ship's plank with her bag and looked up once at her stern, at the row of small square windows of green glass across it; then she turned for the Steps. Valeria had been on that deck at the Teeth, and did not ask. The prince saw the Chair to her door, and came back down, and walked the *Answer*'s deck with the cohort men for an hour, from the stem to the gilt book and back. He did not lodge in her.
+
+They lodged at the foot of the Fishmarket Steps, in the Corvus lodging-house, in the room the Chair had had before Cyrene. Nobody in the house had wanted it since, it being under the roof in winter. Nobody had asked the prince up the hill, and he did not go up it. Felix went home to his mother's, halfway up the Steps. Nerva stayed on the *Patience*, by the steering oar. And Valeria walked the house from the street door to the eaves, and looked: floor on floor of other people's lives, the smell of fish oil and mutton-bone broth and cabbage, a stair with a rotten tread near the top, one stove that worked for all of it, and a window under the eaves with a long drop beneath it to the water. It was the worst ground in the capital. Nobody had asked her either.
+
+She put Galba and the file on the street door, and slept on the top landing across the prince's door, with the Farrier along the wall beside her. Going up, on the second landing, the Chair had passed a shut door, and gone by it very quietly.
+
+At dusk a boy in the Marshal's livery came down the Steps with a lantern and a folded paper, sealed with a bull's head in red wax. The Lord Marshal's compliments to the shield-captain, and would she sup with him that night.
+
+She read it twice. It was an order. It had only put on its good coat.
+
+---
+
+She went up the hill alone, in the dark, with the Farrier on her shoulder, and left Galba the door.
+
+The lanes of the Old Hill were steep and narrow, and the snow on them had been trodden to grey ice and then sanded, and her boots knew the way without her. Lamps in the windows, and through the shutters the smell of the kitchens, cloves and frying onions and somewhere a goose. The wall of the garden of the tombs rose beside her with the snow along its top, and over it the little roofs of the tombs climbed away into the dark toward the palace. She did not look at them. The Marshal's house stood under the palace wall where the lane turned, tall and grey and narrow, with a bough of pine over its door the size of a young tree.
+
+Ursus opened it. She knew him by his red beard, as broad as a spade, and by his nose, which had sat a little to one side since the funeral feast, when the prince had put his own head into it. He looked at her, and then for some time at the Farrier, and plainly decided that if the Marshal wanted it off her the Marshal could ask for it himself, and stood aside.
+
+On a peg inside the door hung a white cloak of good wool with a steel clasp, the snow still melting off its hem onto the flags. It was not the Marshal's color, or his size.
+
+Gnaeus Varro was standing at his fire, warming the backs of his legs.
+
+He was broader than she remembered, and greyer, the grey cropped close to his skull like a soldier's, and his ribbons sat in their rows on his breast, the colors of every war since the old king's, with the firelight going over them. Over the chimney-piece a bull's head was carved in the stone, with a garland on its horns for Midwinter. In any other house it would have been a joke.
+
+"Captain," he said. "Sit. Eat. You've been sick the length of the sea; it's on your face."
+
+There was a table drawn up to the fire, and on it cold beef, roasted and cut thick with the fat left on, and a pot of mustard, and a brown loaf with the crust split, and a jug of wine, and cups. She sat. Nothing she had eaten since Cyrene had stayed with her, and she was not too proud to eat the Marshal's beef. It was good beef. The mustard went up behind her eyes, and she went on eating, and was angry about it, and ate.
+
+He poured for her himself. "From my own vines," he said. "On Vessa."
+
+She knew Vessa. The south face of it was all vines, terraced up from the sea in long steps that went gold in the autumn, the Marshal's and his neighbors', with the warm wind coming off the water onto them all summer; and behind the vines the island climbed into the hills, where nothing grew but sheep and thorn, and the villages sat in the folds with their backs to the weather, and one of them was Callow, where her father had cut thorn for other men's hedges every winter of his life, and gone down with the levy every summer there was a war, until the Long Field. In the summer Titus held the ford at Hollowmere, the Ninth had lain on Vessa, in camp below those vines, guarding them. Titus had written for the Ninth. The council had sent it to Vessa.
+
+She held the cup. The wine smelled of sun. She held it level, and did not drink.
+
+The Marshal seemed not to notice. He had gone back to the fire, and stood with his hands behind him.
+
+"You'll have read the summons," he said.
+
+"I've read it, my lord."
+
+"*Such of his officers as he shall think fit.*" He took one hand from behind his back and looked at it, and pressed the bull's head of his seal ring into the ball of his thumb, hard, and took it away; and there was a small white bull on his thumb, which slowly filled in red. "He thought you fit."
+
+"I was ordered, my lord."
+
+"So you were. By me." The hand went behind him again. "Do you know what holds this kingdom together, Captain?"
+
+She waited. She had sat through enough of the Marshal's councils to know the answer was already on its way.
+
+"Not the Grey," he said. "Not the fleet; there is no fleet. *Leave.* A lord holds his island by the king's leave, and his levy by the council's. A captain holds her company by mine. Every man in the isles knows whose leave he stands under, and that is all the kingdom there is. Your prince sailed without it, and won. Good. I'll drink to the ship." He did not drink. "But the next prince who sails without leave will have learned it from this one, and he'll lose. And if Tharsis had taken that ship off him at the Teeth, the council would have asked me what I did on the day I had your report."
+
+"You'd have done nothing, my lord. His Majesty keeps it."
+
+The Marshal looked at her.
+
+"His Majesty keeps a great many things," he said.
+
+He came and sat across the table from her, which she had not expected, and put his heavy forearms down among the beef and the bread.
+
+"I can't touch him," he said. "You've seen the quays. This city had him face down in the Lower Canal till the autumn. Now he's put a Tharsian three-banker in his grandfather's berth, and they've hung pine on her. Before that ship came in I could have had him home in chains, and the city would have lent me the chain. Now I couldn't have him home in a cloak." He said it without heat, as a quartermaster reads out what is left in the store. "And he'll do it again. He'll go beyond the waters of Cyrene the next time it suits him, and the time after that; and one day it'll be a fleet he takes and not a ship, and he'll lose it, because he's a drunk who has had one good autumn. Somebody has to say so before that day. Not after."
+
+He could not touch the prince. He could touch her. She sat with the cup level in her hand and waited for him to come to it.
+
+"Say it tomorrow," said the Marshal. "What my letter asked you to say. That you couldn't hold him. It's no crime in a captain that she couldn't hold a king's son against his will; there isn't a captain in the isles who could. I'll not hold it against you. You'll keep your rank and your company, and that medal I pinned on you, and I'll find you something better to keep than a rock in the south." He let that lie on the table between them. "And the council will have it from his own shield-captain that the Prefect of Cyrene cannot be held."
+
+There it was. She looked at it. It was well made. It would save her, and it would put the prince into the Marshal's hand out of her own mouth, and the Marshal would never have to sign a thing.
+
+"And then you'd send a captain who could," she said.
+
+"I'd send a captain who could."
+
+"I could have held him, my lord."
+
+The ring went into his thumb again. "Then why didn't you?"
+
+"You've had my answer, my lord. Twice."
+
+For a moment the Marshal's face had nothing in it at all. Then, unexpectedly, something that was nearly a smile.
+
+"You write a good report, Captain," he said. "That was always what was wrong with you."
+
+She had written him a good report once before. In the first summer of this war, on a beach she had no wish to remember the name of, a lord's levy had broken before a blow was struck and taken the flank with it; and she had set that down in her report, plain, with the name of the levy and the name of the young lord at the front of it, going the other way. He had been the Marshal's sister's son. The Marshal had asked the council to break her for insolence to a lord. And Titus, who had been at the table that day, had read her report aloud to the council from the first line to the last in his flat voice, and then asked the Marshal which word of it was untrue. The Marshal had not found one. He had been looking ever since.
+
+She had wondered at Cyrene why he had sent her there: her, out of every captain on the rolls, the one he had once tried to have broken. She had thought it might be so that if it went wrong he could break them both together, the drunk and the woman who had written him up. Or it might be because she wrote plain reports, and the Marshal, whatever else he was, liked to know what had happened. She had never settled which. Tonight, across his table, she thought it was the first.
+
+"Wear your medal tomorrow," said the Marshal, getting up. "The city will want to see it."
+
+"It's at Cyrene, my lord. In a drawer."
+
+He looked down at her from beside the fire.
+
+"Everything is," he said.
+
+She set the cup down on his table, full, as level as she had carried it, and got up, and took the Farrier from where it leaned against her chair. Ursus let her out past the white cloak into the snow. The cold had come down hard on the hill while she ate. The snow creaked under her boots, and the pine over the Marshal's door let fall a little of its load on her as she went out under it.
+
+Halfway down the lane she put the Marshal at the top of the first column, above the Grey. Then she thought about the Grey, and put it back.
+
+---
+
+The Chair did not go up the hill.
+
+"I'm not one of his officers," she said on the top landing in the morning, with a basket on her arm and her hair pinned up tighter than usual. "I looked. The summons hasn't a word for what I am. I could be *such*, at a stretch, but I doubt I'm *fit*." She said it lightly. She was looking down the stairwell. "There are some women on the second landing that I owe a letter. I wrote it once. I'd sooner say it."
+
+The prince looked at her, and she at him, and that was all of it. She went down ahead of them with her basket, over the rotten tread; and on the second landing, as Valeria came down behind the prince, the Chair stopped at the shut door, and knocked.
+
+They went up the Old Hill in the middle of the morning: the prince, and Valeria a step behind him, and Felix, and Nerva between Galba and Pacuvius, who had fetched him up from the *Patience*, and the rest of the file behind. The city came with them. It came out of its doors and walked beside them up the lanes, and leaned out of its windows, and held its children up. The bells rang for no reason she could find except that it was nearly Midwinter and the bells liked it. The prince walked up through it as through weather. Once a woman put a sprig of pine into his hand, and he carried it the rest of the way up the hill without seeming to know he had it.
+
+At the doors of the Hall of Kings the porters were taking steel. No blade passed the doors while the council sat there. It was an old law, older than the dome. The porters kept the blades in a long rack inside the door, with a chalk mark on the wall over each for its owner. Valeria gave up her knife without a thought. Then she held out the Farrier.
+
+The porter was a heavy young man in a leather apron, with tallow on his fingers from the hall's lamps. He took the Farrier by the middle of the haft, as a man takes a broom, and looked at the head, ground back thin as a leaf, and then at the iron spike on the butt, and then at her.
+
+"Which end goes up, Captain?"
+
+"The sharp one."
+
+He looked at both ends again, and then at her again. Then he stood it in the rack head down, between a lord's dress sword and somebody's walking-stick, and chalked a mark over it, and turned to Nerva, who gave him a seaman's knife with a broken point.
+
+She left it there. It was harder than she would have thought. Going in through the doors her right thumb went looking for the ash, for the place below the head where her father's thumb had worn it smooth, and met nothing. She shut her hand on the nothing, and went in.
+
+The cold of the Hall of Kings came up through the soles of her boots. It always had. It was the cold of a place built for the dead, deep and old and marble, and it did not put itself out for the living. The hall smelled of wet fur and lamp-smoke and old incense. Under the dome it was full. The lords sat at the front on their benches, in furs, with their chains on. Behind them, in among the pillars where the refugees from the lost islands had been put at the funeral, stood the city, as much of it as the porters had let in, in sea-coats and aprons, with the snow melting off its shoulders onto the floor. At the head of the hall the king's chair stood on its step with a cloth over its arms, and the lamp beside it unlit. It was empty. Below it, at the foot of the king's stair, the council sat at its long table, with the clerks at either end and the Marshal in the middle in his ribbons. Behind them the door to the stair was shut, and the men of the guard stood on it.
+
+Under the dome, where the floor rose in steps to the place the biers lay, there was nothing now but the marble and a draught. She had not been in the hall since the day she came home in the boats. It had been swept by then.
+
+The prince looked at the empty chair when they came in, and again when they stopped below the table, and after that she saw his eyes go back to it every time the herald drew breath.
+
+The herald was a little old man with a voice too big for him. He stood out from the end of the table with a paper and read the thanks in the old chancery form, every word of it.
+
+*The Council of the Realm, sitting in the King's name, gives the thanks of the Realm to Marcus, the King's son, Prefect of Cyrene: for the King's town of Cyrene, taken again out of the hand of Tharsis, and held; for the squadron of Tharsis broken at the Teeth, and her Navarch taken; for a ship of three banks brought into the King's harbor and laid in the King's berth; and for tidings of the King's father's fleet.*
+
+The city roared.
+
+*And the Council,* read the herald, when he could be heard, *by the old law of the King's fleet, gives the crown of beaks to the first man over the enemy's rail.*
+
+The Marshal got up and came round the end of the table with it in his two hands. It was a circlet of gilt bronze with the beaks of little ships standing up all round it, worn soft at the points by other men's thumbs, and it had not been given, Valeria had heard, since the old king's fleet was afloat. He carried it at arm's length, as he had once carried her medal. He stopped in front of the prince, and held it out.
+
+The prince did not take it.
+
+"I wasn't first over her rail, my lord," he said. "The Lanciarii were, and they went over a man's back to do it. Tuccius of the Lanciarii held the head of the bridge on one knee, with a spear in his thigh, and the rest went over him. Herennius of the Lanciarii died on the bridge. Lurco of Rufo's forty died on her deck. The General broke her marines from behind. Captain Nerva held his course at her ram and broke her oars, and the elves of Silverwood cleared her stern, and the town of Cyrene rowed." He stopped. "And some others, who'd sooner I didn't name them in this hall."
+
+He held out his hands, and after a moment the Marshal put the crown into them.
+
+"It's Tuccius's," said the prince. "I'll take it to him."
+
+The lords did not like it. She saw them not like it, all down the front benches: a convict's name and a deserter's in the Hall of Kings, and an elf's wood, and a crown going south to a common lanciarius with a broken nose. Then from somewhere at the back, among the pillars, one of the men of Cyrene off the *Answer* bawled "*Rope Street!*" at the top of his lungs. The city, which had no notion what it meant, cheered it anyway, and went on cheering it.
+
+Valeria would have given a good deal to see Tuccius's face. The prince had not named her. She had heard him not do it, and knew he had done it on purpose.
+
+The herald had not finished.
+
+*The Council thanks also the officers of the Prefect,* he read, *and among them Valeria, shield-captain of the Lanciarii, whom the Realm has honored before, for the causeway at Hollowmere.*
+
+Somebody behind the pillars shouted *Hollowmere!* Then a great many people did, and the lords turned on their benches to look at her. She stood with her chin up and her hands at her sides, because that was how they liked her to stand; and thought of the wounded she had held the causeway for, who had got out, and had been taken out of their beds at the Baths at Cyrene on the night the fort fell, and walked into the sea. The city did not know that. The city was cheering the carts.
+
+Her thumb went looking for the ash again, and did not find it.
+
+Then the herald rolled up his paper, and the porters opened the doors, and the city was sent out into the snow, still shouting. The lords who were not of the council went out after it in their furs. The doors were shut.
+
+They were shut quietly. Somebody had oiled them.
+
+---
+
+The hall was another place with the doors shut. The noise went out of it, and the cold came in to take the room the city had left. The clerks' pens were wet, and the empty chair stood above the table on its step. The prince stood below the table with the crown of beaks in his hands, and the sprig of pine still in one of them, as if he had forgotten both. Valeria stood a step behind him, where she had stood for his brother. Felix had gone out with the city. Nerva had not been sent out with it. He waited alone by a pillar where the city had been, with his cap in his hands and his long back against the cold stone, and the lords at the table looked at him from time to time as men look at a dog that has walked into a temple.
+
+Her mouth had gone dry. She had stood in front of cavalry with a wetter one.
+
+The Marshal let the quiet stand. Then he put the question; and he did not raise his voice for it, because the dome did not need him to.
+
+"Who gave you leave, Prefect," he said, "to take the king's ships beyond the waters of Cyrene?"
+
+The prince had been looking at the empty chair. He looked at the Marshal instead.
+
+"Nobody, my lord."
+
+The town of Cyrene had said go, on its gatehouse roof, in the wind: Orso Netmender first, and then Prisca, and Vindex the cooper, and old Father Annius once Vindex had said it into his good ear. Only Old Baebius had said no, from the crown's seat, on principle. The town had given the prince its leave, for whatever a town's leave was worth, on a roof. He did not say so. Valeria watched him not say it, and thought she saw why. Say it here, and a clerk at the end of that table would write a netmender's name into the council's book, and a fisher-widow's, under a charge; and there the names would stay for as long as there was a council to read them.
+
+"Nobody," the Marshal said back, flat; and at the end of the table a clerk wrote it down.
+
+Down the table a lord leaned forward. Sestius: he sat for an island that Tharsis had taken from him, and still wore its badge on his collar, as if it might come back.
+
+"The council has heard of help at the Teeth," said Lord Sestius. "From the sea. And of the old king's fleet, found. Where, precisely? There's bronze in those hulls. There are masts. The council will want the place."
+
+"It's their water, my lord," said the prince. "Not mine. If the council wants the place, it can ask them."
+
+"Ask," said Sestius.
+
+"Ask them."
+
+This council had broken up Nerva's *Swift Heron* for her bronze, after his trial. Valeria thought of it, and kept her face as it was. By his pillar Nerva gave no sign that he had heard the word.
+
+At the far end a younger lord with a new fur collar and an old name, Opimius, wanted the Navarch.
+
+"A Navarch of Tharsis, Marshal," he said. "Alive. He ought to be brought north and questioned. By people who know how."
+
+Valeria took him for a man who wanted a Tharsian in chains on the Gaol Stair for Midwinter, and the city brought down to look at him.
+
+The Marshal did not turn his head. "The Navarch is not the matter before the council, my lord."
+
+His eyes went past the prince instead, to the pillar.
+
+"And that man," he said. "Why is that man in this hall?"
+
+The clerk at the near end had the summons by him. He put his finger on the line. "At the King's particular wish, my lord Marshal."
+
+"I can read," said the Marshal.
+
+He looked up past the table at the shut door of the king's stair, and the men on it, and the empty chair, as if one of them might tell him; and none did. Valeria watched him look. He did not know either. Whatever the king wanted with an old sea-captain out of the harbor prison, the king had not told his Marshal. It was the first thing she had learned in the capital that she liked.
+
+She followed his eyes to the door and the stair behind it and the table at its foot; and the thing she had kept off the length of the Grey would not be kept off any longer. Titus had written up this stair. She had watched him do it, in the tent on the near bank above the ford, with the river loud beyond the canvas all night and the lamp smoking, and Titus at the camp table in his shirt with his head down, writing to his father for leave to fall back, in the short hard lines he wrote everything in, the pen nearly through the paper; and she at the tent-pole with her spear, because that was where she stood. He had sanded it and left it lying. Late, with the lamp burned low, he had come back to it and written one line more at the foot, with his back to her, and sealed it; and she had never read it. In the morning a rider had carried it off up the causeway to the boats. It had gone up this stair, and come down it again to this table; and in the end the boats had brought back the table's answer: hold. He had held. They had brought him home and laid him here under this dome, with his hair combed, she supposed, which he never could abide, while she was still on her way home. And now the same council, at the foot of the same stair, had thanked his brother loudly for a ship, and shut the doors on the city, quietly, and asked him who gave him leave.
+
+None of it was for saying. Not here. Not to them.
+
+The Marshal turned to the thing he could touch.
+
+"Captain," he said. "You had my letter."
+
+"I had it, my lord."
+
+"It ordered you to hold the Prefect within the waters of Cyrene, and, if you could not, to say so." The ring went into his thumb, and came away. "The council will hear what you say now."
+
+She had given it to them twice, in ink. She had never yet given it to their faces.
+
+She gave it in the voice she had read the writ in on the quay at Cyrene, in front of the town and the cohort: the drill-field voice, flat and slow and loud, each word set down by itself and left where it lay. It was the only voice she had for things that mattered.
+
+"He sailed without leave," said Valeria. "I went with him."
+
+The dome took it. It carried it up into the windows of the drum where the light was, and brought it down again off the curve of the stone onto the table and the clerks and the lords, word by word, as if somebody up there were saying it after her; and then it went away among the pillars, and the hall was quiet.
+
+Somebody at the table laughed, once, short, and stopped. Lord Opimius said "*Insolence*," to nobody. At the end of the table a clerk's pen scratched, and halted, and scratched again.
+
+The Marshal did not look surprised. He looked like a man who had been sent the same sentence twice and been right both times about what it meant.
+
+"Enter it," he said to the clerk. "As the captain gave it."
+
+Then he tried the table, one face after another, and none of them offered him anything. Last of all he looked up at the empty chair.
+
+"The council will lay the matter before His Majesty," said the Marshal, "with the Prefect's answer and the captain's, in their own words. Until His Majesty is pleased to speak to it, the Prefect and his captain will hold themselves at the council's disposal." He sat back. "The council thanks the Prefect."
+
+The clerk wrote it. He sanded it, and tipped the sand off into a crack between the flags, and laid the sheet on his pile. Nobody put a seal to it. The summons had come south with a column of seals under it, the Marshal's at the top; this had none. It was not that kind of paper. Not yet.
+
+The doors opened as quietly as they had shut. Outside on the steps, in the snow, the file of the Lanciarii waited with the porters where she had left them, and turned as she came out; and she knew by their faces that the oak had not been thick enough. The dome had carried it.
+
+"They'll have heard that on Vessa, Captain," said Galba.
+
+Behind him the porter held out the Farrier to her, head down, by the middle, like a broom.
+
+---
+
+By dark it had gone down the hill.
+
+Her own men had carried it from the doors, because it was theirs as much as hers; the clerks had carried it home to their suppers; and by the time the lamps were lit along the Lower Canal it had got down to the waterfront and was going from mouth to mouth in the cookshops and on the boats, a little different in every mouth that had it.
+
+Felix came for her at dark.
+
+"You've had nothing since the Marshal's beef, Captain," he said, on the top landing, with his hat on.
+
+"I'm on duty."
+
+"So's my mother." He waited. "Galba has the street door. And the Chair has His Highness."
+
+The Chair had been on the second landing when they came down off the hill, with the door open and the women round her in their black, and had come up after with an empty basket and her eyes red at the rims; and the prince had taken one look at her and shut the door of the room under the roof.
+
+"Strictly," said Felix, "there's nobody up here to keep him alive from but her."
+
+His mother's house was halfway up the Fishmarket Steps, narrow, with a smell of eels about it, which she sold off a board on the bottom step every morning and had sold there, Felix said, since before he could walk. Inside it was one low room with a fire, and a great many children who were none of them Felix's, and it smelled of frying fat and pine smoke. His mother was small and broad, with forearms like a cooper's and a voice that could have called the hours from the top of the Old Hill. Her name was Gemella. She looked Valeria up and down once, the mail and the plaits and the scar and the spear, and sat her by the fire without asking who she was, and put a plate in her hands.
+
+Blood sausage, fried with onions till the skins split. A wedge of pie, eel and pork together under a lid of crust gone black at the edges. A heel of the Midwinter loaf, dark and heavy, with figs in it, and a cup of small beer. Valeria ate all of it. The sausage was the best thing she had eaten since the autumn, and she said so, and Gemella said she knew.
+
+They were talking about it on the Steps, naturally. Gemella had had it from the woman at the next board, who had had it from her son, who rowed for the harbor watch, who had had it from a clerk.
+
+"And this Marshal says to her," said Gemella, with her fork, "in front of all them lords, *Captain, what have you to say for yourself?* And she draws herself up"—Gemella drew herself up, and dropped her voice into her boots—"and she says, *He sailed without leave. I went after him.*"
+
+Felix put his cup down. "*With*, Mother."
+
+"What?"
+
+"*With.* Not after." He looked at the fire.
+
+"With, after." Gemella waved the fork. "What's the odds? She went."
+
+"There's odds," said Valeria.
+
+Gemella looked across the fire at her for the first time.
+
+"And who asked you, my girl?"
+
+Felix made a noise into his beer.
+
+In Gemella's telling the captain was a head taller than the prince, and had looked the Marshal in the eye until he sat down, and there had been a crown in it somewhere, and a fish; and the Steps were glad of her. Valeria sat with the last of the pie warm in her hands and waited for it: the thing that had come up in her every time this city admired her for Hollowmere, the thing like a hand at her collar. It did not come. They had got one word of it wrong, and it was the only word she would have minded, and Felix had put it right.
+
+She tried it on there by the fire, as she would have tried on a new mail-shirt, for the places where it would gall. It did not gall anywhere.
+
+---
+
+Word came up the Steps in the morning, by one of the Lanciarii off the *Answer*, that a clerk had been down to the *Patience* with a paper: Captain Aulus Nerva to attend at the Hall of Kings at the third hour.
+
+The prince was already up. Valeria had heard the boards of the room under the roof go before the light, and cross to the window, and stop there, and not come back; he had not slept. He was dressed when the word came. He heard it and did not look surprised. Whatever it was, he had been waiting for it since the Grey. Valeria did not know what it was. She knew the look.
+
+She sent Galba and Laenas down to the *Patience* for Nerva, so that the harbor watch, which had a long memory and a warrant in its books, should not trouble itself about an unpardoned man walking up the hill on his own. He came between them with his coat brushed and his white-tipped beard combed down his chest, and was silent all the way up the Old Hill.
+
+At the doors the same porter was on. He took the Farrier from her in both hands, the right way up, and said, "The Farrier, Captain," and stood it in the rack by itself, head up, and chalked no mark over it, there being no need. She did not ask him where he had got its name. She could guess.
+
+The hall was empty. The council's table had been carried out, and the benches, and the floor swept, and the cold had the place to itself. It smelled of cold stone and old incense, and of nothing else. Light came down grey from the windows of the drum and lay on the marble under the dome. At the head of the hall the king's chair stood on its step with the cloth over its arms, and the men stood on the stair-door, looking at the far wall, and high up on a ledge in the dome a pigeon walked about and complained of the cold to nobody.
+
+They had not waited long when the door of the stair opened, and the king's steward came down out of it.
+
+He was an old man in black, with a lamp he did not need, smaller than she remembered him. She had seen him come down that stair a great many times, for Titus. He looked at them without anything at all in his face.
+
+"Captain Nerva," he said.
+
+Nerva took his cap off. He looked at the stair, and then at the prince. Then he went up it after the steward, and the door shut behind them.
+
+Valeria had waited at the foot of this stair before. For Titus, more often than she could tell: Titus going up it at a run with a dispatch in his hand, and coming down it a step at a time; and she at the foot, reading his answer off the way he came down before ever he opened his mouth. She stood where she had stood then. The prince stood where his brother used to come down.
+
+The cold came up through her boots and settled in her knees. The prince would not sit, though there was a step to sit on, and he would not walk about. He kept his hands behind him and his eyes on the door, and waited for whatever was coming down it; and she asked him nothing. Her orders were to keep him alive, and the stair was the one place in the isles she could not follow him; so she stood at the foot of it and kept him alive there.
+
+It was a long time. The grey light moved on the marble under the dome. The pigeon gave up and went to sleep.
+
+Then the door opened, and Nerva came down.
+
+He came down slowly, with one hand flat on the wall, as a man comes down a ladder he does not trust. At the foot he stopped, and looked at the prince. His face was wet. There was no weather on the stair. His mouth was shut hard in the white of his beard, and his long sea-pale eyes had gone somewhere a long way off and not come back. His other hand was flat on his breast under his coat, over nothing that she could see.
+
+She knew that hand. She wore one like it, over a letter. So the king had given him a paper, then; and by his face it was a bad one. She had seen that face on men coming out of a tent where a court had sat on them, and had expected to wear it herself before Midwinter.
+
+"He told me," said Nerva, to the prince.
+
+That was all. He put his cap on, and went past them down the hall, and out through the doors into the snow, and down the hill toward the harbor.
+
+The prince did not ask him what, or go after him. He stood at the foot of the stair. Valeria could not read his face, and she could read most faces. It was not surprise. Whatever the king had told Nerva at the top of that stair, the prince had known it was coming down.
+
+The steward had come down behind Nerva as far as the bottom step, with his lamp.
+
+"His Majesty will see the Prefect tomorrow," he said. "Alone."
+
+"Tell him yes," said the prince.
+
+The steward inclined his head, and went back up, and the door shut on the stair.
+
+*Alone.* Valeria looked at the shut door, and thought of the right-hand drawer at the top of the stair, where a paper lay with a blank at its foot for a king's name. The king had kept it there since the autumn and never signed it, with the Marshal standing over him. He had not come down for her sentence. He had sent for an old sea-captain instead, and now for his son.
+
+She did not know what to make of him. She had never had to know what to make of a king. There had always been Titus in between.
+
+She went down her list with him. He was not a thing that might kill her, though he could. He was not a thing for later; later had come north with her, and was standing at the top of his stair. In the end she put him where she had put the elf, in the third column, the one with no heading.
+
+Then she took her place at the prince's left shoulder, at the foot of his father's stair, where she had stood for his brother, and stood to it.
+
+Nobody had given her leave for that, either.

@@ -4,15 +4,67 @@
       "track": 1,
       "slug": "ch01-the-dullest-day",
       "title": "Chapter One: The Dullest Day",
-      "duration": 2567,
-      "bytes": 20628773,
-      "sha256": "c6a1ef56ea9399508a124e86836bb5b60062c715778c7670e58745f853f028e6",
-      "url": "https://audio.insularimperium.com/book2/v/c6a1ef56/ch01-the-dullest-day.mp3",
+      "duration": 2568,
+      "bytes": 20635301,
+      "sha256": "7509d12dc4c63189d6ce359f7b9899abf4a7f041fac2b7e96110c833b14679ca",
+      "url": "https://audio.insularimperium.com/book2/v/7509d12d/ch01-the-dullest-day.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
           5.9,
           "Lucan"
+        ]
+      ]
+    },
+    {
+      "track": 2,
+      "slug": "ch02-the-cold-grounds",
+      "title": "Chapter Two: The Cold Grounds",
+      "duration": 3504,
+      "bytes": 28119462,
+      "sha256": "0fce96366252b4308b688722fbb220a88346f3e361985819e8a675edb84523d6",
+      "url": "https://audio.insularimperium.com/book2/v/0fce9636/ch02-the-cold-grounds.mp3",
+      "firstPublished": "2026-11-02",
+      "pov": [
+        [
+          6,
+          "Marcus"
+        ]
+      ]
+    },
+    {
+      "track": 3,
+      "slug": "ch03-who-gave-him-leave",
+      "title": "Chapter Three: Who Gave Him Leave",
+      "duration": 3264,
+      "bytes": 26201386,
+      "sha256": "ccec67f5bc39ce5dbd65af43193aebb6d730d00652ba3ac6804e2b691825d18c",
+      "url": "https://audio.insularimperium.com/book2/v/ccec67f5/ch03-who-gave-him-leave.mp3",
+      "firstPublished": "2026-11-02",
+      "pov": [
+        [
+          6.2,
+          "Valeria"
+        ]
+      ]
+    },
+    {
+      "track": 4,
+      "slug": "ch04-eat-what-i-eat",
+      "title": "Chapter Four: Eat What I Eat",
+      "duration": 3071,
+      "bytes": 24654053,
+      "sha256": "bbf5e9d8a6c00d3d3dcf951a40c085c22663df087a0bd8b55c8df7cdbaa9dbd3",
+      "url": "https://audio.insularimperium.com/book2/v/bbf5e9d8/ch04-eat-what-i-eat.mp3",
+      "firstPublished": "2026-11-02",
+      "pov": [
+        [
+          5.9,
+          "Marcus"
+        ],
+        [
+          2525.7,
+          "Damien"
         ]
       ]
     }

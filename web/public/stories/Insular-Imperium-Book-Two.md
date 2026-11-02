@@ -5,6 +5,7 @@
 ## Contents
 
 1. [Chapter One: The Dullest Day](#chapter-one-the-dullest-day)
+2. [Chapter Two: The Cold Grounds](#chapter-two-the-cold-grounds)
 
 ---
 
@@ -192,7 +193,7 @@ They sat down to it in their order: Vopiscus at the king's left, and below him t
 
 The steward and two boys brought the dishes in. A saddle of mutton roasted with garlic and rosemary, the fat crackled brown and running into the dish; an eel pie with pepper in the crust; a coil of black sausage, split and fried; and the white bread of the home granaries, warm, in baskets. The smell went down the table ahead of the dishes, meat and garlic and hot fat and the sharp green of the rosemary, and got into the room's own smell of oil and ink and wet wool and sat on top of it; and when the pie was cut, pepper, and the brown smell of the river the eels had come out of. The officers' faces changed when it reached them. They had been at their books since the first hour.
 
-The wine was the red of the home vineyards, so dark in the cups that it looked black, and there was a jug of it at every second elbow. At Lucan's elbow the steward poured from another jug, and nobody remarked on it. The steward was an old soldier with one ear, who had poured for him since the old palace. Once, in the Spire's first winter, a young deputy had looked from the king's cup to his own and opened his mouth, and Vopiscus had trodden on his foot. The young man had been posted to Bastion the next quarter, which was preferment, and had nothing to do with it, though the Survey had never believed so.
+The wine was the red of the home vineyards, so dark in the cups that it looked black, and there was a jug of it at every second elbow. At Lucan's elbow the steward poured from another jug, and nobody remarked on it. The steward was an old soldier who had to turn his whole body to look at anything, and had poured for him since the old palace. Once, in the Spire's first winter, a young deputy had looked from the king's cup to his own and opened his mouth, and Vopiscus had trodden on his foot. The young man had been posted to Bastion the next quarter, which was preferment, and had nothing to do with it, though the Survey had never believed so.
 
 Lucan ate two slices of the mutton, cut thin, and some bread. He tasted all of it: the garlic, and the resin of the rosemary, and the faint tallow at the edge of the fat where it had caught; and he stopped when he had had enough. The water came up from the cistern in a stone jug. It tasted of the stone it was kept in, and it was very cold, and it found the bad tooth on the left side of his jaw; he drank it all the same.
 
@@ -345,3 +346,649 @@ His brother's hands lay on the arms of the chair, where Tullus had put them. Bel
 Lucan drank his water. He did not enter it.
 
 He read him the rest.
+
+---
+
+# Chapter Two: The Cold Grounds
+
+**MARCUS**
+
+Old Baebius voted against the ham.
+
+He did it on his feet, with the snow still melting on the shoulders of his cloak and his hand in the air, exactly as he did it on the sea-gate roof whenever the council sat. The length of the table, which had been smelling the ham since the snow began, groaned at him.
+
+"It's the last one," he said. "Out of the smokehouse. You don't eat the last one."
+
+"Then what do you do with it?" said Vindex the cooper.
+
+"Keep it."
+
+"Till when?"
+
+Old Baebius gave him the look his Lanciarii got when they asked what a drill was for. "Till it's wanted."
+
+"It's wanted," said Rufo.
+
+"The town," said Orso Netmender from the far end, with his mouth already full of bread, "says eat it."
+
+"Crown's seat says no," said Old Baebius. "On principle."
+
+Half the table said *on principle* with him, which he ignored. Rufo counted the hands, from habit, and did not trouble to give the total. Baebius sat down. Then, since he had been outvoted, and since a thing that was going to be eaten might at least be cut properly, he drew his knife and pulled the board to him and carved it himself.
+
+They ate in the garrison's old mess under the north wall, a long low vaulted room next to the stable, where the spring came up under that side of the hill and kept the flagstones warm enough to stand on in stockings. The council had sat on the sea-gate roof that afternoon while the first snow of the winter came down on the hill. It had come up to eat afterward, as it did now on council days, because Marcus had asked it to once and no one had thought to stop. Through the wall Thistle kicked a board, which she did whenever Roderic was near and had not come to see her. Tam the stable-boy, who was Orso's son, whistled at her through his teeth, and she kicked it again.
+
+The table was the garrison's, black oak polished by Tharsian elbows, with the white closed hand of Tharsis burned into the middle of it as big as a shield. Out of the hand, since the first night, one finger stood up. Fingers had improved it with his knife, and it had never been planed off, and Gaius had looked at it once through his lenses and said that the cut was very clean.
+
+Baebius carved thin, against the grain. The slices came off the blade in leaves the lamplight showed through, rose at the heart and gold at the rind, with a rim of white fat that tasted of salt and oak smoke and the cold of the garrison's cellar. He laid the first slice on Marcus's trencher without a word, and the table forgave him.
+
+After the ham there was ling, the first out of the cold grounds, stewed in the big copper with leeks and barley until it fell apart in white flakes and the room smelled of the sea and of onion; and Fausta's dark bread, which came up the hill every afternoon in a basket on a boy's back and was still warm when it reached the gate. There was the Tharsian red out of the *Levy*'s stores, thin and sour and tasting faintly of its cask, and the council drank it as men drink a thing they have taken off an enemy: with satisfaction, and no pleasure.
+
+Marcus's cup had water in it. It always did now. Felix saw to it before the benches filled, so that there was nothing to watch.
+
+It was the spring's water, and it tasted, as it always had, of iron and of eggs a day too old. *The water is foul,* he had written once to his father, on a scrap folded into a report. *I am drinking it.* He was still drinking it.
+
+When they first came home from the Teeth the table had gone quiet whenever the water came round, for the length of a breath, while men looked at his cup and then took care to look at something else. He had minded that. Tonight Orso reached across him with the red for Vindex, talking about ling, and poured it past his elbow without a check, and went on talking. Marcus had been waiting for the check. It had not come. He minded that too.
+
+He drank his water. The door he had bricked up was where he had left it. He did not go and lean on it to see.
+
+Across the table Sylara had watched him wait. She said nothing. She reached over and took his bread, since he was not eating it, and he let her.
+
+"Thick out there," Orso was saying. "The ling. Proteas says you could walk to the Grey on their backs." He wiped his beard. "My grandfather wouldn't go past the Kettle after the leaves came down, not for ling, not for anything. The water stops a man's heart, he used to say, and the weather comes off the Grey with no more warning than a slap."
+
+"He went past it every winter of his life," said Prisca the fisher-wife, without looking up from her bowl. "He just never told your grandmother."
+
+"Just as well they're thick," said Vindex. "Four hundred of them down there on the quay, and every one of them eats like a cooper."
+
+"Half the boys in the town," said Valeria, "are behind the net-lofts with broom handles, drilling at each other." She tore her bread in two. "Badly."
+
+"So was I, at their age," said Roderic.
+
+"You had a horse."
+
+"I had a broom handle and a goat, my dear. The goat was the better soldier."
+
+Marcus listened to that and thought about spears. Four in five of them on this island were the town's, by his own word. Sooner or later somebody would have to show the town which end went forward.
+
+Gaius came in when the ham was half gone, with sawdust in his hair and his lenses pushed up into it. He sat down in the place that had been kept for him and began to eat as if he had that moment remembered how. Liora, beside him, picked a long curl of oak shaving out of his hair and laid it by his plate.
+
+"She's had the last of the iron," said Gaius, to the ling.
+
+Marcus waited.
+
+"The bloom the garrison left in the undercroft. The smith drew the last of it this afternoon. Her rudder-irons, and the nails I can't do with treenails, and that's the end of it." He ate. "After her, everything waits on iron."
+
+"Then we'll find iron."
+
+Gaius looked at him over the lenses, which had come down onto his nose of their own accord, with the face he kept for a joint that looked sound and might not be. Then he went back to his stew.
+
+Beside Marcus, Alana had the weather-book open by her plate and was writing the snow into it, with the hour, as if the snow might want to dispute it later. From the first of next week she was to have a room at the Baths for the town's children, to teach them their letters. She had told him so in bed three nights ago, in the voice she used for a bearing she had already checked twice, as though he might argue. He had not argued. He had not been sure, at the time, that she was asking.
+
+After supper he went up on the wall.
+
+The snow was coming down thick and slow out of the dark, and the wall-walk was white with it and squeaked under his boots, and the cold took hold of his face the moment he stepped out of the stair. Below him the town went down the hill in steps of white roofs to the harbor, and at the bottom of it the long quay ran out under its torches. The prisoners were at their supper there. They sat on the warm stones along the steam-box wall in a line that went the length of the quay, with their bowls in their laps, while Ancus the garrison's old cook stood over the town's pots with a ladle and the town's women stood over Ancus, and complained, and filled the bowls. A boy came down Netmakers' Row with a basket on his back and set it down at the end of the line and ran back up the hill. The bread went up the line from hand to hand.
+
+Between the roofs the gutters steamed. Even now, with the snow on them, there were children sitting along the curbs with their feet in the warm water, and somewhere a mother was calling one of them in, and the child was not coming.
+
+The snow came down over all of it. Where it met the steam it went out; and in the whole of the lower town not one flake of it reached the street.
+
+---
+
+There was ice in the bilges of the boats on the hard that morning, and none on the slips.
+
+The slips never froze. The culvert ran down to them from the fort through the rock, under the town, and broke out hot into the two steam-boxes at the head of the yard, and in cold weather the whole yard smoked like a cookhouse. Men worked there in their shirts. The prisoners worked there in less.
+
+When Marcus came down, a strake was coming out of the first steam-box: a plank of oak as long as a house, limp as a wet hide, with the steam pouring off it. A gang of Tharsians under it in a line ran it up the slip to the hull before it could cool and set. Their own man called it for them in Tharsian, *and one, and two, and one*, and they ran to the count with their bare feet slapping on the warm stone. Gaius was waiting at the hull on the staging with a maul, and Arruns and Velthur with the clamps. The plank went up against the frames and was clamped and wedged and pinned while it still smoked.
+
+They did everything to a count, the Tharsians. They hauled to it and rowed to it and, as far as Marcus could tell, ate to it. Orso said it put him off his food. Gaius said it was the best thing about them.
+
+The yard smelled of hot wet oak, somewhere between new bread and vinegar; and of pitch from the kettle by the second slip; and under both, as everywhere in Cyrene, of the spring. The steam off the box-door wet his face as he passed, and was cold on his skin a little way on.
+
+She stood on Slip One in her frames and half her planking. Her frames were doubled and staggered, each pair set a little off its neighbor, so that wherever one had a joint the next had sound timber. Gaius had read that off the *Concord* on the reef, by the light of the sea-people's jars, in the little time the *Forward* had going over her. From the head of the slip she looked like a file of the Lanciarii closed up two deep, every man covering the gap in the man in front. *She'll last a hundred years,* Gaius had said, the night he laid her keel. *If nobody burns her.*
+
+He came down the staging ladder when he saw Marcus, rung by rung, with his lenses down and his boxwood rule in his belt and pitch to the elbows.
+
+"Nerva's been," he said.
+
+"What did he say?"
+
+"Nothing. He comes down every morning at first light and stands at the foot of the slip and looks at her mast-step, and then he goes away." Gaius took his lenses off and rubbed them on his shirt, which made them worse. "Every morning."
+
+"He thinks it's a hand too far forward."
+
+"I know what he thinks. You told me." Gaius put the lenses back on. "He can tell me."
+
+"I had a letter from the clerks," said Gaius, as they walked along under her.
+
+"Which clerks?"
+
+"The Navarch's. In the west port's tower." He sounded aggrieved. "They wrote on the back of one of Orso's fish tallies, offering to keep the yard's books. They say mine are the worst they have seen in the southern sea, and they have seen all of the southern sea's."
+
+"Are they?"
+
+"Yes." Gaius laid his palm flat on a new strake under the turn of her bilge, as if it had a pulse. "I said no. Orso would hang me. *Especially the clerks.*"
+
+Arruns and Velthur had gone back to a strake on the trestles at the slip-foot, planing it, one from each end, and Marcus stood to watch. They worked toward each other with long even strokes, heads down, and the oak came off the two planes in curls that fell to the same beat. They met in the middle so exactly that the plane-irons all but touched. Then they turned the plank over between them and began again from the ends. They talked while they did it, low and unhurried, in half-sentences that nobody else in the yard could follow.
+
+On the day of the slip gate they had put their spears into the same marine at the same moment. The cohort had not stopped talking about it since. The brothers never talked about it at all.
+
+At noon the pot came down from the town, a stew of cod heads and barley with the fat lying on it in gold coins, and the yard knocked off to eat. The prisoners ate along the steam-box wall, where the heat came through into a man's back. Among them was a boy Marcus had watched come off the ships on the night they came home, in a rower's shirt and nothing else, with his arms wrapped round himself and his teeth going. He was warm now. He was complaining in Tharsian about the barley.
+
+The marines ate apart from the rowers, on the steps at the head of the slip, in what was left of their red cloaks. They sat straight and complained about nothing; and one of them, a lean grey corporal, watched Marcus all the way down the slip and did not look away when Marcus looked back.
+
+At the end of the line a man was asleep.
+
+He sat with his back to the wall and his legs out in front of him and his bowl upright in his lap, full, with the spoon standing up in it. His chin was on his chest. He was asleep wholly, with his mouth a little open, at peace. A short thick man, with a rower's shoulders and a rower's cracked bare feet and a round mild face, a week unshaven.
+
+Pacuvius, who had the yard that day with two of the Lanciarii, came along the wall and stood over him and reversed his lancea to stir him with the butt; and then saw Marcus, and did not.
+
+"That's Tithe, Highness," he said.
+
+Marcus looked at him.
+
+"The one we found. The night you came in." The long hill-man's face did something that in another man would have been fond. "We come up one short, and went back down, and there he was, under a bench in the *Tithe*'s bilge. Been there since the morning. Slept through the end of the Teeth, near enough, and all the way home." He considered the sleeper. "He's been Tithe since. He doesn't mind."
+
+As if he had heard his name, the man opened his eyes. He looked up at the two of them without alarm, and then down at his bowl, and seemed pleased to find it still there. He took the spoon out of it and began to eat.
+
+"Highness," he said, through barley.
+
+"You were asleep."
+
+"Yes, Highness." He swallowed. "I'm a rower. You sleep when the drum stops."
+
+"There's no drum here."
+
+"No, Highness," said Tithe. He thought about that without resentment, and ate another spoonful. "So it's always stopped."
+
+Pacuvius made a noise in his nose.
+
+"At home I'm a cod man," said Tithe. "Ostra, on the south shore. My father had a boat." He looked past them down the yard to the harbor, and the gap, and the Grey beyond the gap, and his round face went thoughtful. "Put me in a boat, Highness. I never slept in a boat in my life."
+
+"He sleeps in everything else," said Pacuvius.
+
+"Not a boat. Not my own." Tithe scraped the bowl. "You'd be surprised."
+
+Marcus said he would ask Orso. Tithe said thank you, Highness, as if that settled it. When Marcus had gone back up the slip and turned at the top to look at the hull, Tithe was asleep again against the warm wall, with the bowl empty and upright in his lap and the spoon in it.
+
+---
+
+"Push," said Tuccius. "Step. Push."
+
+The boys pushed, and stepped, and pushed. There were two ranks of them at the seaward end of the long quay, where the stones were broad and flat and too far out for the steam from the gutters, so that the frost lay on them grey all morning. They were fishermen's sons and net-makers' sons and a cooper's grandson, the eldest perhaps sixteen and the youngest certainly not, with ash poles and boathooks for spears and hatch-covers and fish-baskets for shields. Kaeso stood at the end of the line with the crown's drum and beat it for them, slowly and gravely, because he was fourteen and had beaten it at the Teeth, and these were children.
+
+The quay smelled of frost and fish-scales and the tar on the bollards, and the town came to watch every morning now, in order to say what it thought. The women at the net-loft windows called the step a beat ahead of the drum, so that the rear rank never knew which to follow. A grandmother with a basket of wet nets on her hip fell in behind the rear rank and marched there, upright, all the way to the end of the quay and back, to applause. Old Baebius stood at the head of the sea-gate steps with his arms folded and did not laugh at any of it. When the rear rank lost the step he called it for them once, on the drum, in the voice he used for the Lanciarii, and they found it.
+
+"Push what?" somebody called from a window. "Push *who*?"
+
+"Push," said Tuccius, who had been thirty years at sea before he was ever a lanciarius, and had been shouted at by better than net-wives. "Step. Push."
+
+He walked behind the line as he said it, with his lancea for a stick. He walked well now. The spear the marine had put through his thigh on the *Audit*'s bridge had left nothing behind but a white mark and a stiffness on cold mornings, which Liora said would go and Tuccius said was weather. He had a square grey face like a split log, and a nose that had been broken so long ago it had healed into a shape of its own. When he was thinking he rubbed it with his thumb.
+
+At the end of the quay, where the frost was thickest, a boy in the front rank went down.
+
+His feet went from under him both together and he came down flat on his back with his hatch-cover on top of him, so hard that Marcus heard the breath go out of him from the sea-gate steps. The town laughed. Then it stopped laughing, because the boy stayed down, and because Tuccius had crossed the quay in a few strides, stiff leg and all, and was standing over him.
+
+He did not help him up. He took him by the back of the collar and stood him on his feet in one movement, hatch-cover and all, and held him there until his feet were under him.
+
+"I knew a lad went down on frost," he said. Not loudly. "Feet wider. Under your shoulders. Like that." He let go, and walked back to his place behind the line. "Push."
+
+Marcus knew which lad. So did half the quay. Caelius had got up off the frost at the slip gate and died all the same, an hour later, on the long stepped lane, of a cut behind the knee he had shown nobody. Tuccius had carried the front end of the door. He had sat with him on the steps until it was done.
+
+When the drill broke Marcus went down onto the quay. Tuccius saw him coming and straightened. He did not salute, because Marcus had asked the Lanciarii not to on the quay where the town could see it and make remarks.
+
+"They're terrible," said Tuccius, before he could be asked.
+
+"They're better than last week."
+
+"They were terrible last week, Highness. Now they're terrible in step." He watched the boys go off up Netmakers' Row in a crowd, poking at one another with the ash poles. "They'll do. The big one with the boathook'll do. He doesn't like being laughed at."
+
+"Good."
+
+They stood and watched the boys go. Then Marcus looked up, past them, at the ridge of the biggest net-loft on the Row.
+
+Someone had sat on it every morning that week: an elf, cross-legged on the ridge-tiles in a grey cloak, with an unstrung bow across her knees, looking out through the gap at the sea. She was old, the first old one of Faelar's hundred Marcus had seen close to, with a face all seams and weather, brown as an oar-loom a lifetime in use, and a white braid that had never been cut lying down her back and along the tiles. She had come down from the pines on the first morning of the snow and climbed onto Sylara's old roof. She had not said why, and had not been asked. Faelar had told Marcus her name, and that she had been a warden a long time, and that she had seen enough ships leave. He had said it as if it were a great deal.
+
+"Maelis," said Marcus.
+
+Tuccius looked up at the roof. His face did not change. It was not a face that went in much for changing.
+
+"She's nothing to do all day but watch the sea," said Marcus. "Your boys could learn to watch it with her."
+
+He had heard Tuccius on the *Forward*'s deck, with the fog down and Alana gone. *Who's to say who reads the elf's report?* He had seen what Rufo's face did then, and heard what Valeria said after. He had forgotten none of it. He said none of it now.
+
+Tuccius rubbed his nose with his thumb.
+
+"On purpose, Highness?" he said.
+
+"Yes."
+
+Tuccius went on looking at the roof. Then he nodded once, the way a pilot nods at a sounding he does not like and means to steer by anyway. He turned and went off along the quay after his boys, roaring for the big one with the boathook to come back here and bring the hatch-cover with him, it was the town's.
+
+When Marcus looked up again, the ridge was empty.
+
+He found her a little later at the end of the quay, standing beside Tuccius at the head of the steps. She had come down without being asked. Neither of them was looking at the other. They were both looking out through the gap at the Grey. Presently Tuccius pointed at something out there with his chin, and the old elf looked where he pointed, and said a word, and Tuccius grunted.
+
+He went up to the Baths by the long stepped lane.
+
+It was steep and narrow and walled on both sides, and climbed from the harbor in flights of worn steps with a turn at every landing, so that a few shields could have held it all day against a crowd; and the steam from the gutter that ran down beside it hung in the turns and wet the walls. Halfway up there was a step the town walked round. It had not been told to. It walked round it anyway, and Marcus, who knew why, walked round it too.
+
+He heard the class from the foot of the last flight: a roomful of children talking over one another, in stone, which carries.
+
+Liora had given Alana the long room at the back of the Baths, with the high windows and the channel running round the foot of its walls. The beds were gone from it now and the floor scrubbed, and on the warm flags in rows sat the children of Cyrene with trays of black sand from the beach across their knees, writing in it with sticks. After the lane the room was as warm as a bakehouse, and smelled of children and the spring.
+
+"It was the long ward," said Liora. She had come to the door beside him with her sleeves rolled and her hair bound up in its cloth, smelling of the Baths' soap and of warm stone. She watched the children. "I wanted a noise in it."
+
+Then she went back to her work, and Sennius went after her with her basin, and Marcus stood in the doorway and watched.
+
+Alana went up and down the rows with her skirt gathered in one hand out of the sand and her violet sleeves pushed to the elbow, and ink on her cheek, though there was no ink in the room. She bent to every tray. *Again, Lucia. Better. Servius, your* s *is looking at the sea; turn it round to look at the hill. Septima, that is a very good* a. *Make another exactly like it. No. Exactly.* She knew every name. Marcus thought of a name he had written for her by itself at the bottom of a page of her weather-book, *Sextus*, the porter's boy at Corvus who had carried her books up a tower stair for four years; and of her telling him, with her eyes shut, that she had never once asked.
+
+Septima wanted to know whether there had been as many books at Corvus as there were fish in the cold grounds.
+
+"More," said Alana. "On shelves, up to the roof."
+
+She said it lightly. Then, in the time it took Septima to pick up her stick, her face went somewhere Marcus could not follow and came back again; and she told Septima to make another *a*.
+
+Tertulla was in the front row: the goatherd's girl from the hill, ten or so, with straw in her hair and a smell of goat about her that the warm room brought out. She was writing her own name in the sand with her tongue between her teeth and such ferocity that the boy beside her moved his tray away. She wrote it, and looked at it, and wiped it out with the flat of her hand, and wrote it again, harder.
+
+"Why does she wipe it out?" said Marcus, when Alana came by the door at last.
+
+"Because she can write it again." Alana pushed a strand of hair back with her wrist. "She's quicker than my students at Corvus were. Not quicker. Less frightened of being wrong; no one has ever told her it matters."
+
+"Does it?"
+
+"Not in sand," said Alana.
+
+Then Vindex the cooper came in past him, small and bald and quick and pink from the climb, and looked round the rows.
+
+"I've come about the x," he said.
+
+Alana looked at him.
+
+"With an x," said Vindex. "My name. I've told every herald in the southern sea to write it down, and never done it myself, and I'm not having that said of me." He looked at the trays. "Is there one going?"
+
+There was. He sat down on his heels at the back among the children with a tray of black sand across his knees, and Alana knelt and showed him; and he made the two strokes, and looked at them.
+
+"That's an x," said Alana.
+
+"That's two sticks."
+
+"That is what an x is."
+
+The cooper considered it. Then he made another beside it, carefully, and another; and the boy next to him leaned across to look and said it was good, and Vindex told him to mind his own tray.
+
+When the children had gone shouting down the long stepped lane into the dusk, Marcus helped her smooth the trays. You did it with the edge of a board, drawn across, and the black sand came level and fine and blank, ready for morning. Some of the letters were deep. Tertulla's had gone almost to the wood.
+
+"It costs nothing," said Alana, beside him, smoothing. "Sand, and sticks, and a room Liora didn't want." She drew the board across. "Corvus had towers and an endowment and a porter on every stair. This does the same work." She laid the tray on the pile. "I keep waiting to find out what it costs."
+
+He took a stick and wrote in the last tray before she could get to it.
+
+She came round to his side to read it, because he had written it facing himself; and read it; and looked at him.
+
+"Spelling," said Alana.
+
+She smoothed it out with the edge of the board. But she did it slowly, and afterward she looked at the place a while, when it was only sand.
+
+---
+
+They went out to the cold grounds before dawn, with the hot water.
+
+The town filled the skins at the culvert's mouth under the yards, where the spring came out of the rock too hot to hold a hand in: goatskins and old wineskins, stoppered and wrapped in fleece and stowed under the thwarts. They were for the sea-people's hands. Marcus carried two of them down to the hard himself, one under each arm, and felt them through the fleece against his ribs, heavy and live with heat.
+
+He went because he had asked.
+
+He had gone down to the foot of the water-gate stair the morning after the council said the prisoners would work, and stood on Nonius's bottom step, and asked. Old Pherusa had come up out of the dark water and listened to him with her face giving nothing away, and said what she always said.
+
+*It is not our war.*
+
+*It isn't a war,* he had said. *It's fish.*
+
+She had looked at him as if he were a very young seal that had said something clever. Then Proteas had come up the steps beside her, a grey-haired hunter, broad and scarred and unhurried, whose son had gone down on the Kettle Bank in the autumn; and he had said that he would go. The others had come after him.
+
+"If you drown," Valeria had said on the hard, in the dark, "I'm the one who has to write it up." Then she had held the bow of Orso's boat for him while he got in.
+
+Orso's boat and the *Prisca* were to shoot the ring-net between them, and the town's other boats would work lines along the edge of the grounds. Orso had his own steering oar. Marcus had the third thwart on the larboard side, between a Tharsian off the *Levy* and a net-maker's son who kept apologizing for his elbows. Florus had the bow oar. Florus could not swim, and had asked to come anyway, and Marcus had not asked him why.
+
+The *Prisca* lay alongside: Prisca's dead husband's boat, named for her, broad and old and patched in three colors, which Prisca had lent to the prisoners without anybody asking her to. Tithe had her steering oar. Orso had put him in a boat, as asked, and then in a better one, and then in this one. He had given him the oar on the fourth day and said nothing about it, which was as near as Orso came to praise. Tithe stood at it now in the dark with the loom under his arm, wide awake and grinning, the first man in the harbor ready to go.
+
+"Look at him," said Orso. "He'll sleep tonight. Not before."
+
+They pulled out through the gap in the first grey of the light. The harbor steamed behind them. Outside the moles the sea smoked too, in long slow drifts that came apart round the blades, and over the Kettle it smoked so thick that they rowed through it blind for a while, with the warm wet in their faces and the smell of eggs, and came out on the other side into the cold.
+
+The smoke simply stopped. One stroke the water was steaming round the blades, and the next it lay black and flat without a breath on it, and the cold came up off it into their faces and up through the boards into their feet. Ahead, a mile off or less, lay the Grey, yellow-grey and still, and it smelled, even at that distance, of brimstone.
+
+"Cold grounds," said Orso, and spat over the side, for luck or against it.
+
+They shot the net in the full light, between the two boats, in a long curve of corks. The sea-people came up round them out of nowhere: Proteas first, and Halia, who was not yet seventeen and had towed a drowning Tharsian to the *Rope Street* at the Teeth, and Actaea, who had pulled Florus out from between two hulls there, and a few of the young ones. They hung in the water by the boats with only their heads out, sleek and dark and silent. Then Proteas lifted one webbed hand, and they went down, all of them, without a splash.
+
+Marcus felt it before he heard it, if he heard it at all: a note in the planking, low and long, that came up through the thwart into his bones. A song. The Tharsians did everything to a count; the sea-people went down on the song and came up on it, and the song told them when. Orso had once asked Proteas how long they could stay down, and been sung at.
+
+The water inside the curve of corks began to shiver. Then it began to boil, silver and grey-green, and the fish came up out of the dark ahead of the sea-people, cod and ling packed so thick that the net bellied and the corks went under. The boats leaned to it, and every man in them hauled. The cod came in over the gunwales slapping, gold-bellied, cold and heavy in the hand, and filled the bilges to the thwarts.
+
+The sea-people came up after the fish. They came up grey.
+
+He had seen them at the Teeth and on the water-gate stair, dark and sleek and at home in water that would have killed a man. He had not seen them come up out of the cold. Their lips were the color of slate, and the webs between their fingers had gone white as candle-wax, and they reached up over the gunwales for the skins of hot water without a word and held them to their chests in both arms. The steam went up off the fleece into their faces, and their teeth chattered so hard he could hear it over the fish.
+
+Actaea came up by Florus's oar. She hung there with a skin held to her breast and her eyes shut and the steam going up round her face. Florus looked at her. His lips moved. Nothing came out of them. Her eyes stayed shut. He looked away and took a fresh grip on his oar; and Marcus, who had seen men rehearse things before, did not ask what.
+
+They shot the net again, and again. By the third shot the sun was up, a white smear behind high cloud, and the boats were low in the water with fish.
+
+Orso stopped talking.
+
+Marcus saw his face, and turned on the thwart to look where Orso was looking.
+
+The Grey had gone dark.
+
+Not all of it. A stretch of it, low down off the larboard bow, had gone the color of a bruise and was coming toward them, and along the water in front of it ran a thin white line, and the line was moving.
+
+"Net in," said Orso. He did not raise his voice. "Net in, net in, *net in*—"
+
+Then he raised it.
+
+The wind came first. It came across the flat water with nothing in front of it and struck the boat on the bow like a thrown bench, and every man in her lurched; and behind the wind came the snow, not falling but flying, sideways, so thick that the *Prisca* went grey, and then went out.
+
+"Heads to it!" Orso had the steering oar in both arms and his whole weight on it. "Pull, starboard! *Pull!* Bring her round!"
+
+They pulled. The sea got up out of nothing. A moment ago it had been flat as a floor, and now it was short and steep and white on top and coming at them in rows. The boat climbed the first and fell off the back of it with a crack that went up Marcus's spine, and the next came green over the bow and took his breath and his sight together.
+
+He rowed with his back to it, the snow driving into his neck and the loom bucking against him. The skin came off his palms on it in the first strokes. He felt it go, and pulled.
+
+The snow tore open, and he saw the *Prisca*.
+
+She was broadside to the sea, beam-on, with half the net in over her gunwale and all the weight of the fish in it down on her lee side. Tithe was at her steering oar with his whole body on it, trying to bring her head round, and her men were pulling, and she would not come. A sea came along under her and lifted her, and went on lifting. The net slid across her, fish and all, and she went over.
+
+She hung on the face of the sea with her keel showing and her men going off her into the water; and then the sea broke on her and she was bottom up, and the snow closed.
+
+"*Pull!*" Orso was roaring. "Pull, or we're next! You can't do anything for them, *pull*, damn you, *pull*—"
+
+Marcus pulled.
+
+The sea-people came. He saw it in pieces, through the snow: a head in the water off their quarter, and an arm, and then another head beside it, dark and sleek, and a webbed hand taking a drowning man by the hair and turning him on his back and bringing him on. A sea-woman came up under a man's shoulders as he went down and held him up by the belt. A girl towed a boy by the collar with his face out of the water and her own under it. They brought them to the boat. The men on the lee side shipped their oars and leaned out and took them by the collar and the belt and the hair, whatever they could get, and dragged them in over the gunwale and let them lie among the fish, and went back to their oars.
+
+A big bearded Tharsian came in over the side by Marcus's own oar, hauled by the net-maker's son and the man off the *Levy*, and lay on his back in the cod and coughed up the sea, and said something in Tharsian over and over that might have been a name and might have been a prayer. Then the boy came in over the bow, the one whose teeth had been going on the night they came home, grey-faced and limp, and it was Florus who had him, Florus who could not swim, leaning out over the stem with both arms locked round the boy's chest and his own eyes shut. The girl who had brought him, who was Halia, did not wait to see him in. She turned in the water and was gone.
+
+Marcus could not leave the oar. He knew it as he knew his own name: if he let go of it the boat would fall off broadside as the *Prisca* had, and go over, and the sea-people would have twice as many to find. So he did not let go. He sat on his thwart with the snow at his back and rowed, and watched them do it, and could do nothing else.
+
+It went as fast as it had come.
+
+The wind dropped between one stroke and the next. The snow stopped flying and began to fall, straight down, large and soft and silent, and the sea was a long grey heave with the tops blown off it, and the light came back. A little way off the *Prisca* floated bottom up, with the net trailing from her into the deep. Round her in the water were the sea-people's heads. The other boats were coming up, rowing hard. In Orso's bilge, among the fish, men coughed and shook under the fleeces, and somebody was being sick.
+
+"Where's Tithe?"
+
+Somebody said it; then everybody was saying it, in two languages.
+
+Halia came up beside the *Prisca*'s hull with a fistful of torn net in her hand and her eyes wide, and took one breath, and went down again before anyone could speak to her.
+
+Proteas went down after her.
+
+They waited. The snow fell. It was a long time.
+
+Proteas came up with her across his chest. Her eyes were shut and her lips were blue-black and the webs of her hands were white to the wrist; and he lay on his back in the sea with her on him, holding her face up out of the water with one hand under her jaw and the other flat over her heart, and did not move.
+
+"Is she—" said Marcus.
+
+"She'll live." Proteas did not open his eyes. "He was in the net. It went down with the fish, all of it, and him in it, tangled, and she went down after him. She got her hand to him." His voice was flat. "It's too cold down there. Too cold to follow."
+
+He lay in the water with the girl on his chest and the snow coming down on them both, and the sea lifting them and setting them down.
+
+They had a boat full of cod. They had more cod than the town had seen out of the cold grounds in a generation, and every man in the bilges under the fleeces had been in that sea and been brought out of it alive; and somewhere under them, too far down for the light and too cold for the sea-people, a net full of fish was going down slowly into the dark with a cod man from Ostra in it who had never slept in a boat in his life.
+
+They rowed home with the *Prisca* on a line astern, bottom up. Halfway to the Kettle the sea began to smoke again round the blades, faintly and then thick, and the warm wet came into their faces; and some of the men in the bilges began to cry, quietly, as the warmth got into them.
+
+Pacuvius was on the hard with the Lanciarii when they came in. He helped hand the men out of the bilges in their fleeces, one at a time, and looked along them, and grinned.
+
+"Where's Tithe?" he said. "Asleep?"
+
+He got no answer, and did not notice. He was looking at the *Prisca* coming in on her line, bottom up.
+
+"He'll be asleep somewhere," said Pacuvius. "Under a thwart."
+
+---
+
+At dusk the sea-people lay in the warm surf off the black beach to drink Ione's broth.
+
+They lay where the spring ran out under the sand and the surf came in steaming, in a long dark row along the tide-line with only their heads and shoulders out of it. Old Ione, their healer, went along the row with her pot. It was seal-fat broth. It smelled of hot fat and fish oil and of something green and bitter out of the deep, and they drank it out of shells with both hands. Pherusa had stood at the north passage and touched them home, every one; Ione said so as she passed, to nobody in particular.
+
+Halia lay nearest the spring, in the warmest of the water, wrapped to the chin in a fleece that some woman of the town had brought down to the beach and left. Her color had come back. Proteas lay beside her, a little to seaward, between her and the open water, and watched the Grey.
+
+Marcus sat down on the sand above the tide-line. It was warm through his breeches, and black, and it gritted in the seams of his boots.
+
+"You needn't go out there again," he said. "Any of you. The town knows what it owes."
+
+Proteas did not look round. He watched the Grey with the broth steaming in the shell between his hands.
+
+"It's fish," he said.
+
+Up the hill, the men were at the Baths.
+
+Liora had them in the warm room, on pallets along the channel at the foot of the walls, under the painted fish, where the steam went up into the old vault and hung there. She went from pallet to pallet with her sleeves rolled to the shoulder. Before each man she warmed her hands in the steam over the channel, and then laid them on him, on his chest and on the back of his neck, and kept them there. When she took them away he had stopped shaking. Sennius went behind her with the lamp. Hostus came after them, thin and stooped and particular, with a kettle of mutton broth and a ladle and his clean hands, and made every man drink a bowl of it whether he wanted it or not. The room smelled of mutton fat and barley and the spring.
+
+Marcus went along the pallets after Hostus and asked them their names.
+
+He knew the cohort by name, every man of it, and the dead of it, and the ninety-one before them. He had had these men since the Teeth.
+
+The big bearded one sat up on his pallet to answer. "Calenus, Highness. Of the *Levy*. Fourth bench, larboard." They all gave their benches. It was how a Tharsian rower said who he was: his name, and his ship, and the place he sat in her. The boy Florus had pulled in over the bow was asleep with his mouth open, and Marcus let him sleep. Hostus gave him the name from the next pallet. "Crescens. Of the *Arrears*. He'll do."
+
+At the end of the row Liora was washing her hands in the channel. She looked up.
+
+"The one they didn't bring up," she said. "What was his name?"
+
+He knew why she asked. She would say it tonight with the rest, on the beach or on the floor of the still-room or wherever she said them now: the eighty, and the cohort's dead, and her own, and this one, in his place among them.
+
+"Tithe," said Marcus.
+
+Liora looked at him.
+
+"That's a ship," she said.
+
+He turned to Calenus. The big man looked at him from the pallet, and then down at his bowl, and then along the row at the others, who looked back at him.
+
+"He wasn't ours, Highness," said Calenus. "He was *Tithe*'s." He turned the bowl in his hands. "We called him what you called him."
+
+He had fed them and worked them and watched them asleep against a wall, and he had never once asked.
+
+They had kept the Navarch in the old harbor-master's room over the slip gate since the autumn, with a window onto the harbor and two of the Lanciarii outside his door. The stair up to it was cold, and Marcus's shoulders had begun to stiffen from the oar before he reached the top.
+
+The Navarch was awake. He was always awake, whatever the hour. He sat at the table under the lamp in his long plain black coat, with the red book open in front of him. The room smelled of lamp oil and ink and of the cold that came in round the shutter. He stood when Marcus came in, tall and stooped under the beams, and inclined his head.
+
+"Prefect."
+
+"Navarch."
+
+His right hand went toward his ear for the stylus that was not there, and came down.
+
+"I saw the boats come in, one under tow, keel up, and I have written it," he said. "I have not got the man."
+
+"A rower," said Marcus. "The Lanciarii found him asleep in the *Tithe*'s bilge the night we brought you in: a short man, round in the face, from Ostra."
+
+He had brought the rest of it up the stair with him, everything he had: the shoulders, the bowl upright in the lap, *so it's always stopped*. He did not need it. The Navarch's pale heavy-lidded eyes had already gone still.
+
+"Volusius," said the Navarch. "Of Ostra, on the south shore; rower, the *Tithe*, eleventh bench, larboard." He paused. "Entered twice for sleeping at the oar in his first year, and not since."
+
+"You remember him."
+
+"I signed the entries."
+
+He sat down again and turned the red book to the place, and squared it against the edge of the table with one finger, and dipped the pen. As he wrote he spoke, quietly, in his Tharsian vowels, as he always did.
+
+"*Day sixty-eight. Cyrene. Volusius of Ostra, rower, the* Tithe. *Drowned on the cold grounds, fishing.*" The pen stopped. He looked up. "Was he brought up?"
+
+"No."
+
+"*Not recovered,*" said the Navarch, and wrote it.
+
+Marcus watched the pen. He knew what that column was for. In Tharsis a man who was brought up was not finished with. This one would be let alone; the sea had him. He was glad of it, and did not like being glad.
+
+The Navarch blotted the line.
+
+"Why do the sea-people go into the cold for your boats?" he said. "It is not their water."
+
+"I asked them."
+
+The Navarch considered this.
+
+"That is not a reason," he said.
+
+"It's the one I have."
+
+The Navarch looked at him with his pale eyes, courteously, as he might have looked at a figure he could neither strike out nor carry forward. Then he dipped the pen again and wrote something more, short, at the end of the line, this time without a word. Marcus did not ask him what.
+
+Alana was awake when he came up to the tower room, which was not usual any more. For a while after the Teeth she had lain awake most nights with her hands palm-up on the cover, as the healer had told her; he could not have said when she stopped, only that most nights now she slept. She was sitting up in the narrow bed with the weather-book on her knees, and the squall was in it already, the hour and the bearing it had come from, which she had got from Orso on the hard.
+
+He sat down on the end of the bed and took the oilskin out of his shirt. It was cold from the stair and stiff with old salt. The roll of the ninety-one was in it, and his father's letter with the line blacked out, and Titus's order, and the page from the back of her book with the cohort's dead on it. He unfolded the page. At the bottom of it, apart from the others, was the boy. *Nonius.*
+
+Alana held out her pen without being asked.
+
+He wrote *Volusius, of Ostra* under the boy's name; and Alana reached over and moved the lamp closer, so that he could see to blot it.
+
+---
+
+They asked for the lamp the next evening, at the pots.
+
+Marcus had come down to the long quay, as he did most evenings now. The snow had given over in the afternoon. The stones of the quay were black and wet and warm underfoot. The pots steamed, and the quay smelled of cod stewed with leeks out of the cold grounds' catch, and of the bread from Fausta's basket, and of wet wool drying on the men along the steam-box wall.
+
+Calenus got up from the line when he saw him, and came with his bowl in his hand. Behind him, all along the wall, the spoons had gone still.
+
+"Highness," said Calenus. "We'd ask a thing."
+
+Marcus waited.
+
+"A lamp," said Calenus. "And a window to put it in. That looks on the sea."
+
+Marcus did not understand him, and his face must have said so. Sennius had come down from the Baths with Hostus's empty kettle to be filled, and stood by the second pot with it. He set it down.
+
+"At home, Highness," he said, "when a man dies, his people keep a lamp for a year in the window that looks on the quay. So that when—"
+
+He did not finish it, and none of the men along the wall finished it for him.
+
+"This one wants the sea," said Calenus. "The sea's got him."
+
+"The sea keeps them," said Sennius. He looked down at the kettle. "My mother keeps one for me. She'll have had the letter by now, and lit it."
+
+Marcus looked at him: nineteen, a smith's son from Lessa on the north shore of Tharsis, alive and fed on the long quay of Cyrene, with a lamp burning for him in a window across the sea.
+
+He could have given them a window in one of the port towers, which were the crown's. He did not want to. It was the town's sea the man had drowned in, fishing for the town.
+
+"The windows are the town's," he said, and waited to see who along the pots would answer.
+
+Orso was at the end of the pots with his arms folded, where he stood every evening to see that the town's fish went into the right bowls, and he had heard all of it. His face did not move.
+
+"Mine," said Prisca.
+
+She was at the second pot with the ladle, and did not look up from it. Orso turned his head.
+
+"Prisca—"
+
+"It was my boat," said Prisca.
+
+Her house was the last on Netmakers' Row, on the hard, with an upper window that looked out over the harbor and through the gap to the sea. Calenus brought the lamp. It was a garrison lamp, red Tharsian clay with the closed hand on its shoulder. Prisca took it from him at her door without looking at the hand, and filled it from her own oil jar, and went up her stair with it; and after a little the window lit.
+
+It was a small light, a fishing-town light, and it smoked. All along the long quay the prisoners had stopped eating and sat looking up at it, with their bowls going cold in their laps; and the town stood at its pots with its ladles in its hands and looked at them looking. The town had never seen a Tharsian lamp before. It had only ever seen Tharsians.
+
+It was still burning at midnight, when Marcus looked down from the tower stair: one small light over the black harbor, in a window that looked on the sea.
+
+---
+
+Nerva came down to the slip on the morning the *Patience* came in, with the coil over his shoulder.
+
+It was the rope he had been splicing on the long rock every night since the autumn: new hemp, tarred, laid up right-handed and coiled sunwise, with an eye in one end so neat it might have grown there. Away from the steam-boxes there was frost on the slip-yard, and the yard smelled of tar and hot oak and the cold. Nerva walked up the slip under the hull, past Gaius on the staging and the brothers at their trestles. He climbed the ladder at her bow and hung the coil on her stem-head by its eye. Then he came down again, and stood back, and looked at her.
+
+"What's that?" said Gaius from the staging.
+
+"Her forestay."
+
+"She hasn't got a mast."
+
+"She's got a place for one," said Nerva. "A hand too far forward."
+
+Gaius took his lenses off.
+
+"I took that step off the *Concord*," he said. "In proportion. To the finger."
+
+"The *Concord*'s on a reef."
+
+"Not because of her mast."
+
+"No." Nerva did not look away from the hull. "The *Concord* had a stern on her like a barn door, and you've given this one a run aft like a knife. Step the *Concord*'s mast in her and the first following sea she meets, she'll put her nose in and root."
+
+Gaius said nothing. He put his lenses back on and looked down at the keelson, at the step, for some time. Then he looked along the run of her aft, strake by strake, to the sternpost, and back.
+
+"You scaled her frames," said Nerva. "You never scaled her run."
+
+The brothers had stopped planing. Arruns looked at Velthur across the plank, and Velthur looked back at him. Then they both looked at the floor of the yard, which Marcus had never seen either of them do.
+
+"That's a good splice," said Gaius at last.
+
+Nerva grunted. "It's an eye-splice. Any boy on a quay can do an eye-splice."
+
+"Not like that one."
+
+Gaius took his boxwood rule out of his belt, and a stub of chalk, and went aft along the staging to her sternpost, and began to measure her run, strake by strake, chalking the figures on the oak as he went. Nerva stood at the foot of the slip with his hands behind his back and watched him at it, as he had watched the step every morning since the keel was laid, and said nothing; and this time he did not go away.
+
+The bell went at noon: two strokes and two, for a ship and a friend.
+
+She came in out of the Grey under oars, long and low, with the blue banner of Aeridor at her stern and the silver dolphin pennant at her masthead and her name in old gilt on her bow. She had brought Valeria to Cyrene in the autumn, with a writ in a bag. Marcus watched her come in now from the slip-head, and his heart was going.
+
+Her master was ashore first, a short grey man named Avitus with a streaming cold, who blew his nose into a rag on the slip quay, apologized for it, and gave Marcus a packet sealed in the council's wax.
+
+"From the Old Hill, Highness. Into your hand." He sniffed. "We sail for home tomorrow on the morning ebb, if you're to be there for Midwinter. The Grey's been thick." He put the rag away. "Your thief sends his duty, Highness. Pell. From the black ship. He won't go up the hill. They washed him, last time."
+
+Pen was there before the mail-bag was off the plank, as Pen always was, with his weight on one hip and his long white hands out for it.
+
+"I'll take it up, Highness. Save your legs." He hefted it, and began to sort the letters through the canvas by feel, as a man sorts coins in a purse he cannot see into, and looked up with his long crooked smile. "Who's for the capital? So I don't go putting a man's letter in the bag with him."
+
+"I'll tell you tonight," said Marcus, and broke the seal.
+
+It was in a clerk's hand, the old chancery hand of the Old Hill, so fine and so even it might have been cut in stone.
+
+*To the Prefect of Cyrene, greeting.*
+
+*The Council of the Realm, sitting in the King's name, desires the attendance of the Prefect at the Old Hill before Midwinter, there to receive the thanks of the Council for the late service at the Teeth, and to give the Council such account of that service as the Council shall require.*
+
+*The Prefect will bring with him such of his officers as he shall think fit.*
+
+*Captain Aulus Nerva, master mariner, will attend, at the King's particular wish.*
+
+Under it were the councillors' names in a column, the Marshal's first, and their seals.
+
+He read it twice. The thanks took him no time. The account took longer; it was the longest line in the letter, and he had been a prince long enough to know which line in a letter is the one it was written for.
+
+Alana read it over his arm. "You owe me a hall," she said.
+
+Valeria read it over the other one. "You needn't choose me," she said. "I'm ordered."
+
+Roderic had come down to the slip quay at the bell on the grey mare, as he came down to every ship, with his beard combed. Marcus went to his stirrup.
+
+"Will you hold it for me? The town, I mean. Till we're home."
+
+"Ask me something hard, my boy," said Roderic. His eyes went over Marcus's head to Valeria, and hers came up to meet them, and Marcus did not try to read what passed. Gaius had a hull and Liora had the Baths, and he did not insult either of them by asking. Felix would come whether he was asked or not.
+
+He folded the letter and stood with it at the slip-head in the cold, with the *Patience*'s people coming ashore round him and blowing on their fingers.
+
+There was nothing of his father in it. Every line was the council's, in a clerk's hand and the old formula, *greeting* and *desires* and *shall require*. He had been waiting for something else, as he had waited for the check at the table, and it had not come either. Except in the one line. Nobody on the council had any particular wish for an old sea-captain out of the harbor prison. That line was the king's.
+
+So was the warrant that had put Nerva in a cell. Marcus had gone down to the long rock in the autumn meaning to tell the old man whose order it had been, and had not: the warrant was the king's, and so was the telling. Now his father had written Nerva's name, through a clerk, at his particular wish. Marcus did not know what he meant by it. For three years he had been sure he knew what his father meant by everything, and he had been wrong every time.
+
+He went down the slip to tell Nerva.
+
+Nerva was up on the staging at her bow, with his back to the harbor and the *Patience*, looking at the coil on her stem-head.
+
+"I heard the bell," he said, without turning.
+
+"You're asked for," said Marcus. "At the Old Hill. For Midwinter." He held up the letter, and since the old man had not turned, he read the line out to his back.
+
+The old man's back did not move.
+
+"Last time the crown wanted me particular," said Nerva, "it sent four men and a chain."
+
+"This time it sent a galley."
+
+"Galleys have holds."
+
+Marcus said nothing. There was nothing he could have said to that which was his to say.
+
+Nerva went on looking at the rope.
+
+"Who's to mind my mast?"
+
+"Gaius."
+
+"That's what I'm afraid of," said Nerva; and he stood at her bow with his back to the harbor and the galley in it, and did not turn round.

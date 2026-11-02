@@ -1,7 +1,9 @@
+import { readFile } from 'node:fs/promises';
+import path from 'node:path';
 import type { Metadata } from 'next';
 import StoryReader from '@/components/StoryReader';
 import { books, readerBook } from '@/lib/books';
-import { loadChapters } from '@/lib/story';
+import { splitChapters } from '@/lib/story';
 
 export const metadata: Metadata = {
   title: 'Read Book Two | Insular Imperium',
@@ -9,5 +11,5 @@ export const metadata: Metadata = {
 };
 
 export default async function BookTwoStoryPage() {
-  return <StoryReader chapters={await loadChapters(books[1].storyFile)} book={readerBook(books[1])} />;
+  return <StoryReader chapters={splitChapters(await readFile(path.join(process.cwd(), 'public/stories/Insular-Imperium-Book-Two.md'), 'utf8'))} book={readerBook(books[1])} />;
 }

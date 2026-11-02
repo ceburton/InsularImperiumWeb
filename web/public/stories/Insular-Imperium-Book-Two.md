@@ -1,4 +1,4 @@
-# Insular Imperium: The King's Table
+# Insular Imperium: The Road to Defeat
 
 *All finished chapters, in reading order.*
 

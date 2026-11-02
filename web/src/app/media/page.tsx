@@ -216,11 +216,11 @@ export default function MediaPage() {
           <p className="text-parchment-dark text-sm mt-4">Adjustable fonts · Dark and high contrast themes · Saved reading position · Full audiobook, also as a podcast</p>
           <div className="mt-8 border-t border-bronze/40 pt-8" aria-labelledby="book-two-title">
             <div className="text-bronze-light text-xs uppercase tracking-[0.3em] mb-3">New · Book Two</div>
-            <h3 id="book-two-title" className="text-2xl md:text-3xl text-parchment mb-3" style={{ fontFamily: "'Cinzel', serif" }}>The King&apos;s Table</h3>
+            <h3 id="book-two-title" className="text-2xl md:text-3xl text-parchment mb-3" style={{ fontFamily: "'Cinzel', serif" }}>The Road to Defeat</h3>
             <p className="text-parchment-dark text-lg max-w-2xl mb-6">After the Teeth, the quarter’s accounts come due at the Obsidian Spire. The story goes on, a chapter at a time.</p>
             <div className="flex flex-wrap gap-4">
-              <Link href="/media/story/book-two" className="inline-block rounded border border-bronze-light bg-bronze-light px-6 py-3 text-[#17130e] font-bold hover:bg-parchment transition-colors">Read The King&apos;s Table →</Link>
-              <Link href="/media/audiobook/book-two" className="inline-block rounded border border-bronze-light px-6 py-3 text-bronze-light font-bold hover:bg-bronze-light hover:text-[#17130e] transition-colors">Listen to The King&apos;s Table →</Link>
+              <Link href="/media/story/book-two" className="inline-block rounded border border-bronze-light bg-bronze-light px-6 py-3 text-[#17130e] font-bold hover:bg-parchment transition-colors">Read The Road to Defeat →</Link>
+              <Link href="/media/audiobook/book-two" className="inline-block rounded border border-bronze-light px-6 py-3 text-bronze-light font-bold hover:bg-bronze-light hover:text-[#17130e] transition-colors">Listen to The Road to Defeat →</Link>
             </div>
           </div>
         </section>

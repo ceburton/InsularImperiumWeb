@@ -7,6 +7,7 @@
 1. [Chapter One: The Dullest Day](#chapter-one-the-dullest-day)
 2. [Chapter Two: The Cold Grounds](#chapter-two-the-cold-grounds)
 3. [Chapter Three: Who Gave Him Leave](#chapter-three-who-gave-him-leave)
+4. [Chapter Four: Eat What I Eat](#chapter-four-eat-what-i-eat)
 
 ---
 
@@ -1509,3 +1510,535 @@ She went down her list with him. He was not a thing that might kill her, though 
 Then she took her place at the prince's left shoulder, at the foot of his father's stair, where she had stood for his brother, and stood to it.
 
 Nobody had given her leave for that, either.
+
+---
+
+# Chapter Four: Eat What I Eat
+
+**MARCUS**
+
+He smelled the herring halfway up his father's stair, and stopped.
+
+It came down to him round the turn of the tower with the cold, past the slit windows and the frost on their sills: herring done on a brazier, the skins gone black and the fat spitting in the coals, and under it something greener, fennel and brine and the wet-rock smell of shellfish in a pot. He knew it better than any smell in his father's house. It was the galley quay at the end of a night, when the Lantern had put him out into the dark and the braziers were being lit for the rowers, and a man with nothing left in his purse could still get a split herring and a heel of bread on the strength of a face the watch would vouch for. He had eaten it more mornings than he could have said, standing up, with his back to a bollard and the canal still in his boots.
+
+It had no business here. The palace smelled of beeswax and cold stone, and in winter of cloves from the kitchens.
+
+He stood still on the step and breathed it, and could make nothing of it. Valeria was at the foot of the stair, where she had waited for his brother. He went on up, fast, as he took every stair now, to have it behind him.
+
+The steward was waiting at the top with a lamp. He was the same old man who had allowed the king one candle after midnight for as long as Marcus could remember, and the king's sons none, though Titus had generally got one out of him by asking; older now, and smaller. He looked Marcus over in the lamplight from his boots to his hair, and seemed to find nothing in particular to forbid, and said, "Highness," and opened the door.
+
+The room was smaller than he remembered it. He had stood inside that door often enough as a boy, always to be told something, and had never been asked further in; and it had seemed bigger every time. The writing table stood where it had always stood, with its candle and its plain paper squared to the edge. The fire was low. And by the window, where Marcus had never in his life seen anybody eat, somebody had set a small table for two, with a board on it under a cloth, and an iron pot, and jugs, and a cup at either place.
+
+His father stood at the window with his back to the room.
+
+He was thinner. He had been thin at the funeral, in his black, in the doorway of a wrecked hall. He was thinner now, in plain dark wool without a thread of gold on it, and his hair had gone white at the back of his head, where Marcus had not been near enough to see it that night. He had one hand flat on the stone of the sill.
+
+"You came up faster than the Marshal," said the king, to the glass.
+
+"The Marshal carries more ribbon."
+
+His father made a sound. It might have been a breath let out through the nose, or it might have been his knees as he turned, because he turned slowly. His face in the lamplight was the face Marcus had carried to Cyrene and back, long and grey and shut; but at the funeral it had been empty, and there was something in it now. He had not come up the stair to read it.
+
+"Sit," said the king.
+
+Marcus sat. It was further into that room than he had ever been.
+
+The steward took the cloth off the board, and there was the herring, split and laid open on the bare wood with the skins blistered black. He lifted the lid of the pot, and the steam rose between them, and in it the mussels, gaping in their own grey water with onion and fennel. A barley loaf from the quay ovens, with the ash of the oven floor still on its bottom. A dish of coarse salt. No silver, no saffron. Nothing from the kitchens at all.
+
+Marcus thought he understood. He had eaten off that quay for three years, and his father knew it, as the city knew it; and this was how a king said so at his own table. The heat came up under his skin, and the old scar along his jaw pulled tight with it, as it did in frost.
+
+His father let himself down into the other chair with a hand on the table's edge for his knees, and drew the pot to him. He served Marcus himself before the steward could move: mussels in the bowl with the broth over them, a herring on the board, half the loaf, torn and not cut.
+
+"Eat what I eat," said the king.
+
+Marcus had last seen that word in his father's own hand, on a sheet wrapped round a stone and read on a wall at Cyrene by the light of the Grey. *Keep warm. Eat.* It had come under a line blacked out until the pen went through. He had not thought to hear it said aloud, across a pot of mussels, as if it were an ordinary thing to say.
+
+The king ate the first mussel off his fingers and kept the shell. His fingers were stiff with the cold and the knuckles big; they did it anyway. With the empty shell he pinched the meat out of the next, neatly, in one movement, and ate that, and laid the emptied one down by his bowl, square to the edge of the table. The next went into it when it was empty, and the next into that.
+
+It was the quay way. Marcus had learned it drunk, at Felix's mother's eel-board on the bottom step of the Fishmarket Steps, on a morning when Felix could not get him home without feeding him first. She had laughed at him for using his fingers like a lord. He had not known his father knew it. He watched the black shells go down one inside another along the table's edge, and the thing he had thought he understood would not stand up, and he had nothing to put in its place.
+
+He ate. It was good: the herring salt and bitter at the skin and sweet underneath, the broth tasting of low tide and green fennel. He did not know why the king of Aeridor was eating off the galley quay at the top of his own tower, and he did not ask. He had brought a good many questions up the stair with him, to leave unasked. This one had not been among them. He left it with the rest.
+
+The steward came round with the wine.
+
+It was the black Vessan the high table kept for winter. Marcus knew it before it reached the cup, by the smell off the jug as it tipped: plums, and pitch, and under them something like a cellar floor. He had drunk it watered at the high table as a boy, and unwatered in the Lantern on the nights the Lantern had it. His mouth remembered it before the rest of him did, and went wet.
+
+The steward poured the king's measure, and the water after it, as it had always been done in that house, and turned with both jugs to Marcus.
+
+Marcus took the water jug out of his hand. He filled his own cup to the brim, and set the jug down, and drank.
+
+He did not look across the table. He knew where his father's eyes were.
+
+His father lifted two fingers off the wood: the smallest signal there is, the one a centurion gives a file that is to halt without a word.
+
+The steward took the wine away. He took the jug, and then, after a look at the king, the king's cup with it, mixed and untouched, and carried them both out; and the door shut behind him. The king reached for the water and filled his own cup, and drank.
+
+Marcus had nothing to say about it, and neither had his father. It was the first thing they had agreed on since the funeral.
+
+The smell of the wine hung in the room after the jug had gone, and then the fire had it. The water was cold from the cistern, with a taste of stone. After Cyrene's eggs and iron it hardly tasted of anything.
+
+"Four hundred and twelve," said the king.
+
+For a moment Marcus did not follow. Then he saw that they had come to the part he could do; and that the figure was wrong.
+
+"Eleven," he said.
+
+His father looked up from the pot.
+
+"A boat went over in a squall on the cold grounds. The sea-people went down after them and brought every man of her back but one." The name was against his ribs, in his own hand, under a dead boy's. He had not had it himself until the man was in the net. "Volusius. Of Ostra. The *Tithe*, eleventh bench, larboard."
+
+The king was silent a moment. Then he said, "Four hundred and eleven," flat, as he said all his figures, to be sure of it; and after it, not as a figure, "Volusius."
+
+He went back to the mussels.
+
+"Your shield-captain writes that the town feeds them."
+
+"The town makes them earn it." Marcus broke his bread. "They pull oars in the fishing boats, a Tharsian on every bench beside a man of the town, and the sea-people take the boats out to the cold grounds, where the town never dared go. The rest carry for Gaius at the slips."
+
+"And the clerks."
+
+Marcus looked up.
+
+"There were clerks," said his father. "Off the Navarch's ship. She lists them apart."
+
+"In the west port's tower, under lock. Orso Netmender said the town would feed the rowers if they worked, and lock up the clerks." He had Orso's sniff in his ear as he said it. "*Especially the clerks.*"
+
+"The town is right." The king fitted a shell into the row. "A rower only pulls. A clerk knows where everything is kept."
+
+"They wrote to Gaius, offering to keep the yard's books. He said no. They'd told him his were the worst they had seen in the southern sea."
+
+"Then they've seen them," said the king.
+
+Marcus had not thought of that.
+
+His father had the figures. He had all of them: the barley, which was short, and the cod, which since the cold grounds was not, and the boats by their names, and how the benches were shared, and how many sat down at the pots on the long quay of an evening. Marcus had written most of them himself, in his own bad hand, and had supposed they went up the hill into the council's books, which was much the same thing as the fire. The king had them by heart. He laid them out across the table one at a time, and waited, and Marcus answered; and it was easier than anything had a right to be in that room. A barley ration had an answer. So did a bench.
+
+"And the hull," said the king.
+
+"Frames, and half her planking." He had left her so on Slip One, with the steam off the boxes going up round her, and Nerva's forestay hanging on her stem-head before she had a mast for it, and Gaius up the staging with a stub of chalk, writing the figures of her run on her strakes. "The Tharsians carry for her from first light. Gaius says they're the best yard-hands he ever had: they do exactly what they're told, and nothing else." He hesitated over the next part, then said it. "Doubled frames, staggered, so a ram that breaks one breaks only the one. He had them off the *Concord*."
+
+His father's hand stopped, with a shell in it.
+
+"At the Teeth," said Marcus. "He saw how she was built, where she lies, and drew it that night. He says the new one will last a hundred years."
+
+He did not say the rest of what Gaius had said. *If nobody burns her.*
+
+The king laid the shell in its place in the row.
+
+"Has she a name?"
+
+"Not yet." Marcus looked at the shells, and not at him. "She's the crown's. The crown names its own."
+
+His father turned his head to the window, and did not say anything; and Marcus looked with him.
+
+The royal harbor lay below them black between its moles, with the warm canals coming down out of the city through the frost and smoking where they met the sea, and a rim of ice along the quays where they did not. Past the galleys at their moorings, along the foot of the hill, the old berths ran away into the dark with their rusted rings, and their slipways climbing behind them under a skin of snow. In the first of them, nearest the hill, a lantern burned at the taffrail of a black ship. Out beyond the moles the Grey lay across the sea where the world stopped, pale in the dark.
+
+On the sill, where his father could reach it from his chair, lay a length of carved stern-rail off one of his grandfather's lost ships, with the crowned dolphin cut deep in its face. Marcus had last seen it at Cyrene, going into an oilskin in its sea-grass with a brown book and a letter in his own hand. There was no dust on it.
+
+"She's had the last of the fort's iron," he said. "The bloom the garrison left in the undercroft. The smith drew it for her rudder-irons, and for the nails Gaius can't do with treenails, and that was the end of it. After her, Gaius says, everything waits on iron."
+
+"And the next."
+
+"Waits. He wants more iron for every hull after her than Cyrene has seen since the war began. Tough iron, not hard. The kind that forgives you, he says."
+
+"How many hulls?"
+
+"As many as you've berths for."
+
+His father looked down at the dark row under the hill.
+
+"Thirty," he said.
+
+Marcus knew what his father counted from this window. He had known it since he was a boy, without ever being told, and had never heard him say the figure aloud. It was not this one. Then he looked where his father was looking, at the first berth under the hill and the lantern burning in it, and saw which berth had been counted out.
+
+"Where does iron come from, Prefect?"
+
+"Out of a mountain. Not one of ours."
+
+"Whose?"
+
+"Stoneheart's. Gaius says there's no other iron in the isles worth the name, and he's tried most of it."
+
+"Stoneheart," said the king, "asked this house for bread twice, in famine winters. Both times this house sent it a letter." He took up the next mussel. "On excellent paper."
+
+"Then they'll want more than paper."
+
+"Yes."
+
+Stoneheart lay a long way beyond Cyrene's waters. The council's question had come up the stair behind him, and it was sitting at this table now between the pot and the bread, and his father was eating round it.
+
+"The council would like to know who gave me leave," he said.
+
+"I heard them."
+
+"You weren't there."
+
+"No."
+
+Marcus waited. Across the room the writing table stood where the candlelight ended, with its papers squared, and its right-hand drawer shut. Valeria had told him at Cyrene what lay in that drawer, with a space at its foot for a name. He looked at the drawer, and back at the pot. His father pinched a mussel out of its shell, and ate it, and laid the shell in the row.
+
+"Eat your herring," said the king.
+
+Marcus ate his herring. It had gone cold, and was better cold; the salt had come up through it. The frost had grown on the inside of the glass while they talked, in long white ferns, and somewhere down in the city a bell rang the change of the watch, and stopped.
+
+"I had the captain up yesterday," said his father.
+
+"I know."
+
+"What did he tell you?"
+
+"'He told me.'" Marcus put the bread down. "Then he went down the hill to the harbor."
+
+The king considered that. "He said a good deal more to me."
+
+Marcus did not ask what. It had been the right order, the captain first. He had known that on the black beach at Cyrene, holding the standing part of a rope while an old man spliced it in the dark. He had left the telling to the king, because the warrant had been the king's. He minded the order anyway, and was ashamed of minding, and minded.
+
+His father laid down the shell he was holding. Not in the row: by itself, on the bare wood.
+
+"You wrote," he said, "that I sent you there to die."
+
+At the rail, with the Grey going by, Marcus had decided only that he would not be the one to speak of the letter first. He had not decided anything about the other way round.
+
+Under his shirt the oilskin lay where it always lay, against his ribs, and in it, under the rest, a paper in his brother's hand, written at the far end of his father's own council table, that his father had never read. He did not take it out.
+
+"Yes," he said.
+
+The king looked at him across the table. The candle was at his shoulder and the fire behind him, and his face was in shadow; and his voice, when it came, was the one he had used for the barley.
+
+"When I said it," said the king, "I meant it."
+
+Marcus had braced on the stair for a great many things. Not for that.
+
+Down in the harbor a loose block knocked against a mast in the frost, and went on knocking.
+
+He looked at the black shells along the edge of the table, each one sitting in the one before it, square.
+
+"So did I," he said.
+
+His father's hand had been going out toward the pot. It stopped above it, and stayed there.
+
+He looked at Marcus for a long time. Then his eyes moved: up, and a little to one side, and stayed. Marcus thought at first it was the scar, the old bad stitching from behind his left ear to the hinge of his jaw, that his father had never once asked about. It was not the scar. It was higher. It was his temple, where Alana had found the grey that morning in the first of the light: one thread of it among the dark, which she had drawn out from the rest between finger and thumb and held up to the window, and looked at hard, and let go again where it grew.
+
+His father looked at it, and went on looking; and then he saw Marcus see him, and turned his face away to the window, and the berths, and the one lantern burning in the first of them.
+
+Marcus did not know why. He put his hand up to his temple, as if there might be something there a man could feel. There was nothing. Only his hair.
+
+---
+
+The bells began before it was light: the Hall of Kings first, up on the hill, and then every other bell in the city after it. Nobody had died. Nothing had been won. It was the day before Midwinter, and the city rang its bells for the season, and because it could.
+
+Marcus lay under the roof and listened to them. The room was cold enough to make his teeth ache. The only stove in the house that worked was at the bottom of it. The warmth of it came up the stairwell with the smell of fish oil and mutton-bone broth, and gave out somewhere about the second landing. The window under the eaves had iced over on the inside in the night, and the light through it was white and thick.
+
+Alana was sitting up beside him with the blanket round her shoulders and the weather-book on her knees, writing the frost into it.
+
+She had not asked him last night. He had come down off the hill late, and up through the house past Valeria on the landing and over the rotten tread, and she had been awake, and had not asked. She had moved over in the narrow bed to give him the warm place, and that was all.
+
+"What did he say?" she said now.
+
+There had been a great deal said at that table, most of it about barley. Marcus thought about it.
+
+"He said eat your herring."
+
+Her pen stopped. She looked at him over the top of the book for some time, as if he were a sum that had come out right by a method she did not trust.
+
+"And did you?"
+
+"Yes."
+
+"Then I approve of him," said Alana, and went back to the frost.
+
+He lay and watched her at it. She had scraped a hole in the ice on the glass with her thumbnail before he woke, to see the harbor through, and she was setting it all down: the ice on the glass and how thick, and the wind, which was none, and the smoke off the canals, which went straight up.
+
+"There was wine," he said. "He had it taken out."
+
+"Mm," said Alana. She blotted the line. "Your feet have been on the cold grounds. Keep them on your side."
+
+He kept them on his side.
+
+When he got up, the boards took the warmth out of the soles of his feet. He got into his shirt, and the oilskin went in under it against his ribs, stiff with the night's cold, and he stood at the window and put his eye to her hole in the ice.
+
+"Does it show?" he said.
+
+She did not ask what. She looked up from the book at his temple, and took her time over it.
+
+"If you know where to look."
+
+"He knew where to look."
+
+Alana said nothing to that. She reached up from the bed and put his hair straight over it with her fingers, as if it had only been out of its place, and went back to the book.
+
+Through the hole in the ice the harbor lay grey and still, with a rim of new ice along the quays and the canals coming down into it all along the waterfront under their own smoke. Across the water the Old Hill went up white: the terraces of the tombs, and the dome, and the long wall of the palace along the top, and in it the king's tall window, dark. From here it was a chip of glass in a long wall. He had sat behind it last night and eaten herring.
+
+Below him the Fishmarket Steps went down to the water, house on house, with a bough of pine nailed over every door and smoke going up from every chimney; and at the foot of them Felix's mother was already at her board on the bottom step, in a shawl, among the eels, shouting at somebody about a fish.
+
+Valeria knocked and opened the door in the same movement, which was how she knocked, and let Felix in past her with a loaf in a cloth, after she had looked at the loaf.
+
+"From my mother, Highness," said Felix. He unwrapped it on the end of the bed: the Midwinter loaf, dark and heavy, the crust split, and the figs showing in the splits. "She says it's to be eaten hot."
+
+Alana put the back of her hand to it. It was not hot.
+
+"Strictly," said Felix, "it was hot on the Steps."
+
+Alana broke it and gave Marcus the larger part. It was still warm at the heart, sour and sweet at once, and the figs in it were hot enough to burn his tongue; he burned it, and ate the rest anyway, standing at the window in his shirt.
+
+"Mother says the second landing's going up the hill tomorrow night," said Felix. "The lost islands always go, at Midwinter. They give them the bottom table by the doors, and they eat the king's geese, and they come home with the ends in their aprons." He considered it. "Nobody's supposed to take the ends."
+
+"I'm going up with them," said Alana. "They asked me."
+
+She said it lightly, writing. Marcus looked at her. On the night they came in she had gone past the door on the second landing as quietly as she could go; in the morning she had knocked on it with a basket on her arm, and come back up at dark with her eyes red at the rims, and he had shut the door of this room and asked her nothing. Now the women behind that door had asked her up the hill with them, to sit among them in their black.
+
+He did not say anything about that. It was not his to say.
+
+"Then I'll know where you are," he said.
+
+"You'll know where I am." She dipped the pen. "Not the nailed boots, Marcus. Not on that floor."
+
+Felix found something to look at out of the window. Below them on the second landing a door opened, and somebody laughed, and somebody else told her to hush, and laughed too; and the bells, which had stopped, began again.
+
+---
+
+The snow had come on at dusk. The lanes of the Old Hill were white under it, and squeaked, and the cold had got in under Marcus's coat on the way up. Then the porters opened the doors of the Lesser Hall, and the heat came out to meet him.
+
+It was the heat of a hall packed to its walls with people in their best wool and their furs, with the snow going to water on their shoulders; of lamps in every bracket; of the fires built up roaring at either side. It smelled of goose fat and lamp-oil and pine smoke, and of a great many cloaks steaming. His face, which had been numb since the palace gate, began to burn.
+
+At Midwinter, as at a funeral, nobody went armed in the Lesser Hall but the king's guard, and the porters took steel at the door. Marcus gave up his sword. Valeria gave up her knife and then the Farrier, and she came in at Marcus's shoulder in her mail with her right hand empty. He saw her thumb go along the side of her finger, looking for the haft, and stop.
+
+They had mended the hall.
+
+He had not been in it since the night of the funeral, and he had not been in a state, that night, to see much of it. He saw it now. The high table stood across the top of the hall on its dais with a new top to it, pale oak, planed and waxed, among the old dark wood; he had run a knight down the length of the old one, through the salt and the bread and off the end. The screen over the servants' passage, which the knight had gone into, hung on new hinges. Down by the great doors the lowest table was new from end to end. He had gone through the old one. And on the high table, at the king's end, stood the iron candlestick that Roderic had blown out and taken up that night and bent on a fire iron, straightened since by some smith, with a kink in its stem the smith had not been able to get out. Its candles were lit. That night they had been lit for Titus.
+
+They had swept the rushes back from the middle of the floor, for the dance, and the boards between the tables shone.
+
+The king's old steward met him at the foot of the dais and took him up to the heir's place, at the right hand of the king's empty chair. It had been Titus's. Marcus had always sat below it, among the lords' sons. He sat in it now.
+
+There was water in his cup.
+
+Nobody had poured it while he watched. Felix stood behind his chair in a clean shirt with a napkin over his arm, as he had at palace feasts for years, and was looking at the ceiling.
+
+"Cousin," said Damien.
+
+He had come along behind the high table from the king's chair: slender, in good grey wool, with his hands open and his face glad, the king's nephew and the last of the Vaels, the man in the palace whom people trusted at once. He bent his head to Marcus's so as not to be heard down the table.
+
+"I've put the lady of Corvus with her own people," he said. "Down by the doors, with the lost islands. I thought she'd rather." He smiled. "If I've got it wrong, say so, and I'll move half the hall."
+
+It was a kindness. Marcus thanked him for it, and meant it; and Damien moved back along the table to wait by the king's chair.
+
+Marcus looked down the hall for her.
+
+She was at the lowest table, by the doors, at the end nearest the wall, among the women of the second landing in their black; and she was in violet. Not the gown she had walked this hall in as a girl; that had burned with Corvus. It was the good violet she had brought north from Cyrene, laced close, and among all that black it was the only color at the table.
+
+The court was looking at her. He watched it from the top of the hall: heads going round on the lords' benches, a woman in white fox leaning to the woman beside her, a man at the Marshal's table saying something into his cup. They knew who she was. She was the Corvus girl who had walked the length of this hall in violet and been looked through; who had sailed south with the drunk prince to watch him die, and been taken by Tharsis at the Teeth, and brought home again. The quays had a song about her, Felix said, and it was wrong in every verse.
+
+She looked back at them. She did it a face at a time, without hurry: the lords' benches, and the Marshal's table, and the woman in white fox, moving on from each when she had done with it. As a girl she had walked this hall with her chin up over her gown like a banner over a wall. When she had done with the court of Aeridor she turned back to the woman beside her, and went on talking.
+
+Then the porters threw the great doors open, and the cold came in, and the king.
+
+The hall got up. It got up all at once, benches going back across the boards and a cup going over somewhere, and stood. Marcus stood with it at the high table and looked down the length of the hall at his father in the doorway.
+
+The last time he had seen him in that doorway the hall had been wrecked round them both, and Marcus had been standing in the middle of it with his own blood in his mouth; and his father had looked at him across it and sentenced him, in the voice of the throne and not of a father. Marcus had not seen him in a hall since. The king had not come down even for the council.
+
+He came up the hall now between the tables, slowly, with his guard behind him and the hall on its feet on either side, and the snow still on the shoulders of his coat. There was nothing on him but plain dark wool, the thin gold circlet, and his white hair under it. He climbed onto the dais by the steps at the end, with a hand on the rail, and stood at his chair.
+
+The herald came out from the end of the high table, a little old man in a tabard with a paper in his hand and a voice too big for him.
+
+"*Midwinter!*" he cried.
+
+The matters laid before the king in the year were read in the Lesser Hall on Midwinter night, before the meat, to be answered there or left; it was the old way. In Marcus's time his father had always left them, and answered through clerks in the new year, or not at all. The herald unrolled his paper and read the council's matter in the chancery form.
+
+*The Council of the Realm, sitting in the King's name, lays before the King the matter of the Prefect of Cyrene: that he took the King's ships beyond the waters of Cyrene; that, being asked by the Council who gave him leave, he answered,* Nobody; *and that his captain answered,* He sailed without leave. I went with him. *The Council awaits the King's pleasure.*
+
+He rolled the paper up. The hall stood and waited for the king to sit and the meat to come in, as it always had.
+
+The king put his hand inside his coat and took out a folded paper.
+
+For a heartbeat Marcus was back in the small room at the top of the stair, looking at the right-hand drawer of the writing table, and the paper in it with a space at its foot for a name. At the end of the dais, where she stood against the wall, Valeria's hand went flat to her breastbone, over the Marshal's letter, and stayed there.
+
+The king unfolded the paper on the new oak in front of him, and held out his hand without looking, and the steward put his own pen into it, wet.
+
+There were words on the paper already. Marcus, at his right hand, could see them: two words, in his father's own hand, cramped and slow and old, the letters leaning on one another, and the ink of them long dry. He knew that hand. He had a letter in it against his ribs.
+
+His father bent and wrote his name under them, and the day under that. The name went on black and wet under them, and shone in the candlelight. The two words did not.
+
+Whenever they had been written, it had not been tonight. Marcus did not know when.
+
+The king gave the paper to the herald. The herald looked at it, and turned it over to look at the back, where there was nothing, and turned it to the front again and held it nearer the candles, as if the rest of it might come up in the heat. Then he drew breath and gave it to the hall in his great voice.
+
+"*Leave granted.*"
+
+For a moment nothing happened in the hall. Then a sound went down it that was not quite a cheer, from the top to the bottom, and stopped at the doors.
+
+The king did not sit. He stood at his place with his fingers on the table, and spoke to the hall in the voice he had used at the top of his stair for the barley, which was no voice for a hall. The hall went quiet to hear it.
+
+"The Prefect of Cyrene has my leave to take my ships beyond the waters of Cyrene," said the king, "he and such of his officers as sail with him. The war wants iron. Stoneheart has it."
+
+He sat. The hall sat after him, in a long scrape of benches, and nobody in it said anything.
+
+Down the high table the Marshal got to his feet, broad and grey in his ribbons. He looked at the king, and at Marcus, and then at nothing; and he pressed the bull's head of his ring into the ball of his thumb, hard, and took it away.
+
+"The council has His Majesty's answer," said the Lord Marshal. "It will be entered as His Majesty gave it."
+
+He sat down.
+
+At the edge of Marcus's eye Valeria's hand came down from her breastbone, and did not go back.
+
+The herald laid the paper in front of the king, and the king moved it along the new oak until it lay in front of Marcus.
+
+"Majesty," said Marcus.
+
+It was all he said. It was a form, and he was glad to have it.
+
+Then the screen opened and the meat came in. Geese to the high table on boards, the skins crackling and the fat running off them into the wood; and after the geese a boar's shoulder, carried up on a plank between the boys. Down the low tables went the mutton, swimming in its fat. The Midwinter loaf was on every board, and the black Vessan went round in its jugs.
+
+Marcus ate goose. The skin broke under his teeth, and the fat ran out of it hot and salt, and he wiped it up with the loaf. The jug of Vessan came down the high table toward him, and he smelled it come, plums and pitch. The boy with it saw the water in his cup, and passed him to the next place without a check.
+
+All down the hall the court watched his cup. He could feel it watching, from the lords' benches and the Marshal's table and the daughters near the dais, to see whether it would change.
+
+He let it watch.
+
+---
+
+They cleared the boards of the geese, and the boys came round with the loaf and the last of the Vessan, and up in the gallery over the screen the musicians began to tune. Then they stopped tuning, and the hall fell quiet. It knew what came next.
+
+By custom the king's house opened the Midwinter dance. The heir led out the Long Measure, which had been Corvus's before it was the court's, and danced its opening figure with whoever he chose while the hall watched; and after that the hall took the floor. Titus had always led it out. He had danced it as he did everything, well and without seeming to try, with whichever lord's daughter the seating had put nearest the dais, and handed her back to her father at the end with a bow that made the father glad he had come.
+
+There was no Titus this Midwinter. The hall sat with its cups in its hands and waited to see what the heir would do instead.
+
+The seating had seen to that too. The daughters of the great houses sat along the tables nearest the dais in a bright row, in blue and green and russet, with their hair dressed high and their mothers beside them, where the heir could not miss them. A good many of them were looking at him now.
+
+Marcus put down his cup and stood up.
+
+"The tables are new," said his father, beside him, without turning his head.
+
+Marcus turned to him. The king was looking out over the hall with his face as it always was, and there was no telling from it whether that had been a joke, or a warning, or only a thing about tables.
+
+"Yes, Majesty," said Marcus.
+
+He stepped down off the dais. Behind him he heard Valeria's mail as she left the wall to follow.
+
+"Stand easy, Captain," he said, without turning round.
+
+The mail stopped.
+
+He went down the hall.
+
+The daughters' tables were nearest, and he passed them close enough to smell the orris-root in their hair. He felt the bright row of them watch him come and go by, and the mothers see it a moment after the daughters did. The herald's daughters sat together at the end of a bench beside their little old father, fair, and much alike. Somewhere among them was the girl he had turned to on a Midwinter night in this hall, when a girl in violet had walked its length toward him in a gown she had saved for, and he had looked straight through her and smiled past her at the herald's daughter, because the eyes of his friends were on him and he had wanted to be the sort of man who did not need to be walked to. He looked at their faces in passing. He could not have said which of them she was. They were all looking at him.
+
+Now he walked it. The whole length of the hall, in front of all of them.
+
+He went down between the long tables in the heat of the fires. Lord Sestius turned on his bench to watch him go, with the badge of his lost island on his collar; young Opimius said something into his new fur and was not answered. At the Marshal's table Ursus sat at the end of the bench with his red beard on his chest and his nose to one side. He drew his great boots in under the board as the prince went by, which Marcus had not looked for. Then the guild-masters of the city in their chains, and the masters of the galleys, and a table of priests who had stopped eating. The fire on the left put its heat on that side of his face, and then the fire on the right on the other. A dog came out from under a bench to look at him, and thought better of it.
+
+He did not hurry, and he did not count. The floor was as long as it was.
+
+Behind him the hall had gone quiet. He could hear it being quiet: the fires, and a lamp spitting in its bracket, and the rustle of a great many people turning round on their benches to see where he was going, and, small and distinct, somebody setting down a cup.
+
+The lowest table stood across the foot of the hall by the great doors, where the draught came in under them, and the lost islands sat at it: old men from Thessa with their caps on the board beside them; a family from somewhere further west in their good clothes, with a baby asleep on the bench; and at the end by the wall the Corvus women from the lodging-house in their black, with their heads together, and among them, with her back to him, in violet, Alana, talking.
+
+She did not turn round. She had seen him coming. He knew it by the back of her neck, under the pinned hair. She was telling the woman beside her something, a small grey woman in black, and she finished telling it, while the prince of Aeridor stood at her shoulder before the court with nothing to do but wait. The woman heard her out, and nodded, and raised her eyes to him.
+
+Then Alana got up, and turned on her heel toward the floor, and lifted her right hand, palm down, to the height of her shoulder, and held it out into the place where the man should stand.
+
+He laid the back of his wrist under her fingers, as the court does it.
+
+They went out onto the floor between the tables, and up in the gallery the musicians found the measure, and the hall watched them.
+
+He did not see much of the hall after that. He saw her. The Corvus women had put up her hair for the court, pinned high and close, with a comb of horn in it at the back; the good violet was laced close, and she held her skirts down in her free hand, so that nothing showed of her below the hem but the toes of her shoes on the turns. It was the slowest dance the court had. The walk round, her fingers on his wrist, her eyes on his face. The great turn under his lifted arm, slow, the violet going round her heavy and settling again. The passing, back to back, near enough to feel the warmth of her through his coat, and not touching. He had danced it every Midwinter since he was a boy, with a great many daughters, and had never once looked at any of them while he did it. He did not look at anything else.
+
+Her face was grave through all of it. On the passing he saw the corner of her mouth go, and come back.
+
+Then the last figure; and at the end of it the yard of polished floor that the court keeps between the man and the woman for the bow and the curtsy. He bowed. She sank into her curtsy with her skirts held, and rose out of it, and they stood on either side of the yard with the hall looking at it.
+
+The yard said what it said. Neither of them closed it.
+
+Behind them the music went round again, and the hall came down onto the floor, the lords' sons for the lords' daughters and the guild-masters for their wives, a little late, and talking. Marcus gave Alana his wrist and took her back to her place at the lowest table, at the end by the wall.
+
+She sat. She looked up at him; then past him, up the hall, to the high table, where the heir's place stood empty at the king's right hand; and back at him.
+
+"Back?" said Alana.
+
+He sat down beside her on the end of the bench, with his back to the wall.
+
+The bench was new. The wall was not. It was cold through his coat, and the draught from the great doors came along the floor round his ankles. Under the board, where the court could not see, her knee came against his, and stayed there. On the board in front of him was mutton swimming in its fat, and the end of a goose, and the dark loaf. After a little Felix came down the hall from the high table with the prince's cup of water in his hand, and the court turned on its benches to watch a cup of water go by. He set it down in front of Marcus and went and stood against the wall. Valeria came down after him, along the wall, in no hurry, and took her place where she could see the doors.
+
+"Good ground, Highness," she said.
+
+The small grey woman in black, whose sentence he had waited for, pushed the mutton down the board to him through its fat.
+
+"Eat," she said.
+
+---
+
+**DAMIEN**
+
+The dish came down from the top of the king's stair at the turn of the night, as it had come down every night since the autumn, and Damien was in the king's kitchen when the steward brought it in.
+
+It was a small vaulted room under the palace, apart from the great kitchens below the Lesser Hall. Tonight it was cold. The feast had been cooked below, and the fire here had been let down under its ash; the boys who turned the spits were asleep on the flour sacks in the corner with their mouths open. The room smelled of wet stone and old fat.
+
+Albia sat by the fire with her hands rolled in her apron. She had cooked the king's suppers since before either of the princes was born. She did not get up when the steward came in, because they had been old together too long for that, and she did not get up for Damien, because she never had; he had liked that in her since he was a boy.
+
+The steward set the dish on the board, with the cup beside it, and climbed back up with his lamp without a word.
+
+Damien lifted the cover himself.
+
+The mutton lay as it had gone up, cut thick on its bed of barley, and the fat had set over it white and hard. The cup beside it had grown a skin. It smelled of cloves, and of nothing else.
+
+"He's not touched it," said Albia.
+
+"No," said Damien.
+
+It had been so since the autumn night the black ship came into the first berth. For the first nights Damien had carried them up himself and stood by the writing table, smiling, until his uncle ate; and his uncle had thanked him, and said that he would eat presently, and sent him to bed. Two nights ago the steward had gone down to the galley quay before dark with a basket on his arm, like a cook's boy, and come back up the hill with herring. The kitchens had had it before the herring was cold.
+
+And tonight at the high table Damien had laid the best of the goose on his uncle's plate with his own hands, the breast and the crackling, as he laid it every Midwinter; and his uncle had let it stand, and broken the loaf, and eaten the bread.
+
+Nobody in the hall had seen it; the hall had been watching the prince's cup. But the plates came down to the kitchens, and talk went down a palace as the wine went down a table, from the top, a little thinner at every place, and reached the foot all the same. Before the feast-days were out the scullions would have it, and the lords' cooks, and then the lords. *The king won't eat what his nephew sends up.*
+
+He could not have said why. He had asked, lightly, whether the mutton was not as his uncle liked it; and his uncle had regarded him for a moment as though there were something he was trying to remember and could not reach, and said that it was good mutton, and not eaten it. Damien did not think his uncle could have said why either. That was the part he liked least.
+
+He was fond of the old man. He had come up this hill at seven, the last of the Vaels, in a black coat too big for him, and his uncle had looked down at him from a great height and given him a room with a window over the garden, and a chancery master, and a corner of his own table; and Damien had been sorry about everything ever since, politely, and grateful for all of it. And the old man was thinner. Damien saw it every day, at the wrists and in the cords of the neck. Somebody had to see that he ate.
+
+And in the south, in a fishing town at the edge of the Grey, the Navarch of Tharsis sat in a room over a slip gate and wrote everything down. His books were in the hands of the girl from Corvus, who read everything, and who tonight had danced the Long Measure with the heir of Aeridor, fetched for it from the foot of the hall, where Damien had put her. Somewhere in all that ink there might be a line that concerned a man in Aeridor. There might not.
+
+He had asked his uncle in the autumn, at the right moment and in the right words, to have the Navarch brought north; and his uncle had said, *If the council wants him, the council may ask.* So Damien had given the council its words. He had sat beside young Lord Opimius at Lord Sestius's table in the frosts, and talked to him of horses until the meat, and let fall over the second-best wine that a Navarch of Tharsis ought surely to be questioned by people who knew how. Opimius had said it under the dome as his own. The council had not asked.
+
+The man across the water who bought his hand paid for what it brought him, and a nephew the king had begun to refuse would bring less. Yet that man was the only one since the war began who had looked at the last of the Vaels and asked his price, instead of assuming his answer. Everybody else assumed it: his uncle fondly, and the court without ever thinking about it at all. Tonight the court had watched the king's younger son walk the length of the Lesser Hall to its lowest table, past every daughter Damien had seated for him, and had loved him for it. They had loved Titus for the sword, and they would love this one for the canal and the coming back; and nobody had ever loved a man for a seating chart, though there was not a hall in the isles that could sit down to its meat without one.
+
+If the Navarch could not be brought north, then let Tharsis come south for him.
+
+He saw it all at once, standing over the cold mutton. *Such of his officers as sail with him.* Not *sailed*. Damien had written *sailed* himself, in the autumn, at the corner of the king's table; he had heard the word change tonight, as he heard every word that changed in a form, and admired it. He had been glad for his cousin, and said so, and meant it as far as it went. The Prefect would go west for his iron with his ships and his officers and his famous cohort, and Cyrene would be empty behind him. It wanted only the day; and the letters that came up from the south by every ship would give him the day.
+
+He put the cover back on the mutton, and set it straight, and went up.
+
+His rooms were warm; he had had the fire kept in. In the press by the window lay every seating he had drawn since he was a boy, folded in order, and tonight's on the top of them. It had come out right at every place but the one at the king's right hand. He sat down at his table, and trimmed a pen, and wrote.
+
+He wrote four sheets, close, in the most beautiful hand in the palace, without a blot, every letter leaning the same way. He put the king's words first, because a king's words go first. He wrote, as the packets were always written, of the nephew, in the third person all the way through, as of a man he knew and thought well of.
+
+*Before the court, at Midwinter, the king gave the Prefect of Cyrene leave to take his ships beyond the waters of Cyrene, with such of his officers as sail with him, to Stoneheart, for iron.*
+
+And near the end, where it would be read twice:
+
+*The army will be away. The nephew will send the day.*
+
+He sanded the sheets and folded them, and drew his thumbnail down the fold to set it, as the chancery masters had taught him. The oilskin was in the drawer where it lived. Before the bells it would go down the hill by the hand that always took it, to the salt-boat, which sailed on the night tide in any weather.
+
+Then he took a clean sheet and wrote a character for a cook.
+
+*Albia has cooked for the King's household since before the princes were born, and has given entire satisfaction. She is honest, clean and sober, and her mutton is the best on the Old Hill. She leaves the household at its own wish, and with its thanks.*
+
+He signed it, and folded it, and drew his thumbnail down the fold. He took a purse from his own pocket, and weighed it in his palm, and put another coin into it, and went down.
+
+She was where he had left her, by the fire, with the dish on the board under its cover. The boys had not stirred.
+
+He drew up a stool and sat down across the hearth from her, which nobody from upstairs had ever done, and told her. He told her that His Majesty's tastes had changed with the winter, as the kitchen had seen by the steward's basket, and that the household must make a change in the kitchen to answer them, and that it was nobody's fault, and least of all hers. He gave her the purse, and the paper. He was sorry about this, and he said so in the right words.
+
+Albia looked at the purse in her lap, and at the paper. She turned it over, and studied the hand on it for some time, as people did.
+
+"It's not the mutton, my lord," she said.
+
+"I know," said Damien.
+
+She put the paper into her apron with the purse, and got up, and took her shawl down from the peg by the yard door.
+
+Tomorrow the court would talk of nothing but the prince at the lowest table with the girl from Corvus. Nobody would talk about a cook.
+
+He did not ask her where she would go.
+
+He held the yard door for her himself. It was snowing in the yard, and the lamp over the door lit the snow for a few steps and no further. She put her shawl over her head, and went out of the light.

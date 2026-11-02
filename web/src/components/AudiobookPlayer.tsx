@@ -2,11 +2,10 @@
 
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
-import type { AudiobookChapter, book as bookInfo } from '@/lib/audiobook';
+import type { AudiobookChapter, AudiobookInfo } from '@/lib/audiobook';
 import { acquireWakeLock, releaseWakeLock } from '@/lib/wakeLock';
 import './AudiobookPlayer.css';
 
-const storageKey = 'insular-audiobook-v1';
 const rates = [0.8, 1, 1.25, 1.5, 1.75, 2];
 const back = 15;
 const ahead = 30;
@@ -41,8 +40,9 @@ function runtime(seconds: number) {
   return h ? `${h} h ${m} min` : `${m} min`;
 }
 
-function store(saved: Saved) {
-  try { localStorage.setItem(storageKey, JSON.stringify(saved)); } catch { /* Storage is optional. */ }
+// Each book keeps its places under its own key (books.ts audioKey).
+function store(key: string, saved: Saved) {
+  try { localStorage.setItem(key, JSON.stringify(saved)); } catch { /* Storage is optional. */ }
 }
 
 // Where a chapter starts: the saved second, scaled to the new length if the chapter was regenerated since.
@@ -52,7 +52,7 @@ function resumeAt(c: AudiobookChapter, p?: Place) {
   return p.d > 0 ? Math.min(c.duration - 5, (p.t / p.d) * c.duration) : 0;
 }
 
-export default function AudiobookPlayer({ chapters, book }: { chapters: AudiobookChapter[]; book: typeof bookInfo }) {
+export default function AudiobookPlayer({ chapters, book, other }: { chapters: AudiobookChapter[]; book: AudiobookInfo; other: { label: string; audioPath: string } }) {
   const audio = useRef<HTMLAudioElement>(null);
   const saved = useRef<Saved>({ places: {} });
   const pendingSeek = useRef<number | null>(null);
@@ -81,7 +81,7 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
   useEffect(() => {
     const frame = requestAnimationFrame(() => {
       try {
-        const s = JSON.parse(localStorage.getItem(storageKey) || 'null');
+        const s = JSON.parse(localStorage.getItem(book.audioKey) || 'null');
         if (s && typeof s.places === 'object') saved.current = { current: s.current, rate: s.rate, places: s.places };
       } catch { /* Storage is optional. */ }
       setPlaces(saved.current.places);
@@ -89,13 +89,13 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
       if (rates.includes(saved.current.rate!)) setRate(saved.current.rate!);
     });
     return () => cancelAnimationFrame(frame);
-  }, []);
+  }, [book.audioKey]);
 
   function remember(c: AudiobookChapter, t: number, done = false) {
     const s = saved.current;
     s.places = { ...s.places, [c.slug]: { t: Math.floor(t), d: c.duration, v: version(c), ...(done && { done }) } };
     s.current = c.slug;
-    store(s);
+    store(book.audioKey, s);
     setPlaces(s.places);
     lastSave.current = Date.now();
   }
@@ -115,7 +115,7 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
       setLastSlug(c.slug);
       setNotice(p && !p.done && p.t > 0 && p.v !== version(c) ? 'This chapter was updated since you last listened, so it resumes at about the same point.' : '');
       saved.current.current = c.slug;
-      store(saved.current);
+      store(book.audioKey, saved.current);
     }
     if (play) a.play().catch(blocked);
   }
@@ -159,7 +159,7 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
     setRate(r);
     if (audio.current) audio.current.defaultPlaybackRate = audio.current.playbackRate = r;
     saved.current.rate = r;
-    store(saved.current);
+    store(book.audioKey, saved.current);
   }
 
   function changeSleep(minutes: number) {
@@ -243,19 +243,24 @@ export default function AudiobookPlayer({ chapters, book }: { chapters: Audioboo
     <div className={`audiobook ${chapter ? 'audiobook-has-bar' : ''}`}>
       <header className="audiobook-top">
         <Link href="/media">← Media</Link>
-        <Link href="/media/story">Read the story</Link>
+        <nav className="audiobook-top-links">
+          <Link href={other.audioPath}>{other.label} audiobook</Link>
+          <Link href={book.readerPath}>Read {book.number === 1 ? 'the story' : book.label}</Link>
+        </nav>
       </header>
 
       <main className="audiobook-main">
         <section className="audiobook-hero">
           {/* eslint-disable-next-line @next/next/no-img-element -- small static cover, no optimisation needed */}
-          <img src={book.coverSmall} alt="Insular Imperium: The Audiobook cover" width={600} height={600} />
+          <img src={book.coverSmall} alt={`${book.title}: The Audiobook cover`} width={600} height={600} />
           <div>
-            <p className="audiobook-eyebrow">The Audiobook</p>
+            <p className="audiobook-eyebrow">{book.number === 1 ? 'The Audiobook' : `${book.label} · The Audiobook`}</p>
             <h1>{book.title}</h1>
             <p className="audiobook-summary">{book.summary}</p>
-            <p className="audiobook-facts">{chapters.length} chapters · {runtime(total)} · {book.narration}</p>
-            <button className="audiobook-primary" onClick={() => toggle()}>{index === null || !playing ? icons.play : icons.pause}<span>{mainLabel}</span></button>
+            {chapters.length ? <>
+              <p className="audiobook-facts">{chapters.length} chapter{chapters.length === 1 ? '' : 's'} · {runtime(total)} · {book.narration}</p>
+              <button className="audiobook-primary" onClick={() => toggle()}>{index === null || !playing ? icons.play : icons.pause}<span>{mainLabel}</span></button>
+            </> : <p className="audiobook-facts">The first chapters are being recorded. Check back soon, or subscribe to the podcast feed below.</p>}
           </div>
         </section>
 

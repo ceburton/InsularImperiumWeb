@@ -49,3 +49,5 @@
 .reader-dim-controls svg { width: 40%; height: 40%; fill: currentColor; }
 .reader-dim-exit { font-size: .85rem; }
 @media (max-width: 380px) { .reader-toolbar { gap: .5rem; } .reader-toolbar-actions button span { display: none; } }
+.reader-toolbar-links { display: flex; align-items: center; gap: 1rem; white-space: nowrap; }
+@media (max-width: 600px) { .reader-other-book { display: none; } }

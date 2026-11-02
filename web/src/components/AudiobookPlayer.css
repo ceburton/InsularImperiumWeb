@@ -9,6 +9,7 @@
 
 .audiobook-top { display: flex; justify-content: space-between; gap: 1rem; max-width: 960px; margin: 0 auto; padding: max(1rem, env(safe-area-inset-top)) 1rem 1rem; font-family: 'Cinzel', Georgia, serif; font-size: .85rem; letter-spacing: .08em; }
 .audiobook-top a { text-decoration: none; }
+.audiobook-top-links { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: .5rem 1.25rem; }
 .audiobook-main { max-width: 960px; margin: 0 auto; padding: 0 1rem 3rem; }
 .audiobook-heading { font-family: 'Cinzel', Georgia, serif; color: var(--color-bronze); font-size: 1.35rem; margin: 2.5rem 0 1rem; }
 

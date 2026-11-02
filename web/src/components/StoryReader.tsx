@@ -6,6 +6,7 @@ import Markdown from 'react-markdown';
 import { offsetForPage, pageForOffset, pageForTextIn } from '@/lib/readerPagination';
 import { englishVoices, narrationBlocks, speechChunks } from '@/lib/readerNarration';
 import { acquireWakeLock, releaseWakeLock } from '@/lib/wakeLock';
+import type { readerBook } from '@/lib/books';
 import './StoryReader.css';
 
 type Chapter = { title: string; text: string };
@@ -17,10 +18,8 @@ const themes = {
 };
 const fonts = { serif: 'Georgia, serif', garamond: "'EB Garamond', Georgia, serif", sans: 'Arial, sans-serif', mono: "'Courier New', monospace" };
 const defaults = { theme: 'charcoal', font: 'serif', size: 21, spacing: 1.8, width: 700, layout: 'auto' };
-const storageKey = 'insular-reader-v2';
+// Each book saves its place under its own key (books.ts); the listening voice and speed are shared.
 const voiceKey = 'insular-reader-voice';
-// Keys used before the story was renamed from The Sunstone Saga; read once so saved progress carries over.
-const legacyStorageKeys = ['sunstone-reader-v2', 'sunstone-reader-v1'];
 const legacyVoiceKey = 'sunstone-reader-voice';
 const rates = [0.75, 1, 1.25, 1.5, 1.75, 2];
 const gap = 64;
@@ -28,8 +27,10 @@ type Pagination = { page: number; total: number; columns: number; stride: number
 type ListenPlace = { chapter: number; paragraph: number } | null;
 type Settings = typeof defaults;
 
-function savePlace(settings: Settings, chapter: number, offset: number, listen: ListenPlace) {
-  try { localStorage.setItem(storageKey, JSON.stringify({ settings, chapter, offset, listen })); } catch { /* Storage is optional. */ }
+type BookInfo = ReturnType<typeof readerBook>;
+
+function savePlace(key: string, settings: Settings, chapter: number, offset: number, listen: ListenPlace) {
+  try { localStorage.setItem(key, JSON.stringify({ settings, chapter, offset, listen })); } catch { /* Storage is optional. */ }
 }
 
 const wakeIdleMs = 15 * 60 * 1000;
@@ -41,7 +42,7 @@ const icons = {
   pause: <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h4v16H6zM14 4h4v16h-4z" /></svg>,
 };
 
-export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
+export default function StoryReader({ chapters, book }: { chapters: Chapter[]; book: BookInfo }) {
   const [settings, setSettings] = useState(defaults);
   const [chapter, setChapter] = useState(0);
   const [ready, setReady] = useState(false);
@@ -70,9 +71,11 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
   useEffect(() => {
     const frame = requestAnimationFrame(() => {
       try {
-        const saved = JSON.parse([storageKey, ...legacyStorageKeys].map(k => localStorage.getItem(k)).find(Boolean) || 'null');
-        if (saved) {
-          const s = saved.settings || {};
+        const saved = JSON.parse([book.readerKey, ...book.legacyReaderKeys].map(k => localStorage.getItem(k)).find(Boolean) || 'null');
+        // A book opened for the first time starts at its beginning, in the look chosen for the other book.
+        const fallback = !saved && book.settingsFallbackKey ? JSON.parse(localStorage.getItem(book.settingsFallbackKey) || 'null') : null;
+        if (saved?.settings || fallback?.settings) {
+          const s = (saved || fallback).settings || {};
           setSettings({
             theme: Object.hasOwn(themes, s.theme) ? s.theme : defaults.theme,
             font: Object.hasOwn(fonts, s.font) ? s.font : defaults.font,
@@ -81,6 +84,8 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
             width: [560, 700, 860].includes(s.width) ? s.width : defaults.width,
             layout: s.layout === 'single' ? 'single' : 'auto',
           });
+        }
+        if (saved) {
           setChapter(Number.isInteger(saved.chapter) ? Math.max(0, Math.min(chapters.length - 1, saved.chapter)) : 0);
           anchor.current = Number.isInteger(saved.offset) ? Math.max(0, saved.offset) : 0;
           legacyProgress.current = typeof saved.progress === 'number' ? Math.max(0, Math.min(1, saved.progress)) : 0;
@@ -98,7 +103,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
       setReady(true);
     });
     return () => cancelAnimationFrame(frame);
-  }, [chapters.length]);
+  }, [chapters.length, book]);
 
   useEffect(() => {
     if (!window.speechSynthesis || typeof SpeechSynthesisUtterance === 'undefined') return;
@@ -140,7 +145,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
         page = Math.floor(Math.min(page, total - 1) / columns) * columns;
         if (needsBookmark) anchor.current = offsetForPage(content, page, stride);
         setPagination({ page, total, columns, stride });
-        savePlace(settings, chapter, anchor.current, listenPlace.current);
+        savePlace(book.readerKey, settings, chapter, anchor.current, listenPlace.current);
       });
     };
     const observer = new ResizeObserver(measure);
@@ -149,7 +154,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
     void document.fonts.ready.then(() => { if (!disposed) measure(); });
     measure();
     return () => { disposed = true; cancelAnimationFrame(frame); observer.disconnect(); document.fonts.removeEventListener('loadingdone', measure); };
-  }, [ready, chapter, settings]);
+  }, [ready, chapter, settings, book.readerKey]);
 
   useEffect(() => {
     if (!controls) return;
@@ -172,7 +177,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
     anchor.current = 0;
     if (next === chapter) {
       setPagination(current => ({ ...current, page: 0 }));
-      savePlace(settings, chapter, 0, listenPlace.current);
+      savePlace(book.readerKey, settings, chapter, 0, listenPlace.current);
       return;
     }
     openLastPage.current = last;
@@ -183,7 +188,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
   function showPage(next: number) {
     if (article.current) anchor.current = offsetForPage(article.current, next, pagination.stride);
     setPagination(current => ({ ...current, page: next }));
-    savePlace(settings, chapter, anchor.current, listenPlace.current);
+    savePlace(book.readerKey, settings, chapter, anchor.current, listenPlace.current);
   }
 
   function turn(direction: number) {
@@ -239,7 +244,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
     if (page >= 0 && spread !== pagination.page) showPage(spread);
     if (listenPlace.current?.chapter !== chapter || listenPlace.current.paragraph !== paragraph) {
       listenPlace.current = { chapter, paragraph };
-      savePlace(settings, chapter, anchor.current, listenPlace.current);
+      savePlace(book.readerKey, settings, chapter, anchor.current, listenPlace.current);
     }
   }
 
@@ -310,7 +315,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
     window.clearTimeout(n.watchdog);
     window.speechSynthesis.cancel();
     setListening(false);
-    savePlace(settings, chapter, anchor.current, listenPlace.current);
+    savePlace(book.readerKey, settings, chapter, anchor.current, listenPlace.current);
   }
 
   function skipParagraph(delta: number) {
@@ -397,12 +402,12 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
     if (!('mediaSession' in navigator)) return;
     const session = navigator.mediaSession;
     try {
-      if (listening) session.metadata = new MediaMetadata({ title: chapters[chapter]?.title, artist: 'Insular Imperium', album: 'Insular Imperium' });
+      if (listening) session.metadata = new MediaMetadata({ title: chapters[chapter]?.title, artist: 'Insular Imperium', album: book.title });
       session.playbackState = listening ? 'playing' : 'paused';
       session.setActionHandler('play', () => { if (!narration.current.playing) latest.current.startListening(); });
       session.setActionHandler('pause', () => { if (narration.current.playing) latest.current.stopListening(); });
     } catch { /* Media Session is optional. */ }
-  }, [listening, chapter, chapters]);
+  }, [listening, chapter, chapters, book]);
 
   useEffect(() => () => {
     if (!('mediaSession' in navigator)) return;
@@ -438,8 +443,11 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
   return (
     <div className="story-reader" style={{ '--reader-bg': theme.background, '--reader-fg': theme.color, '--reader-accent': theme.accent, colorScheme: ['light', 'sepia'].includes(settings.theme) ? 'light' : 'dark' } as CSSProperties}>
       <header className="reader-toolbar">
-        <Link href="/media">← Media</Link>
-        <span className="reader-brand">Insular Imperium</span>
+        <div className="reader-toolbar-links">
+          <Link href="/media">← Media</Link>
+          <Link className="reader-other-book" href={book.other.readerPath}>{book.other.label}</Link>
+        </div>
+        <span className="reader-brand">Insular Imperium{book.id !== 'book-one' && ` · ${book.label}`}</span>
         <div className="reader-toolbar-actions">
           {canSpeak && <button className="reader-listen" disabled={!pagination.stride} onClick={toggleListening} aria-label={listening ? 'Pause listening' : 'Listen'}>{listening ? '⏸︎' : '▶︎'} <span>{listening ? 'Pause' : 'Listen'}</span></button>}
           {listening && <button onClick={() => setDim(true)} aria-label="Dim mode" title="Dim the screen while listening">◐ <span>Dim</span></button>}
@@ -455,7 +463,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
         <div ref={pageArea} className="reader-page-area" style={{ maxWidth: settings.width * (settings.layout === 'single' ? 1 : 2) + (settings.layout === 'single' ? 0 : gap) }}>
         <div ref={viewport} className={`reader-book ${pagination.columns === 2 ? 'reader-spread' : ''}`}>
           <article ref={article} className="reader-prose" aria-label={chapters[chapter]?.title} style={{ fontFamily: fonts[settings.font as keyof typeof fonts], fontSize: settings.size, lineHeight: settings.spacing, transform: `translateX(-${pagination.page * pagination.stride}px)`, visibility: ready && pagination.stride ? 'visible' : 'hidden' }}>
-            <p className="reader-eyebrow">INSULAR IMPERIUM</p>
+            <p className="reader-eyebrow">{book.id === 'book-one' ? 'INSULAR IMPERIUM' : `INSULAR IMPERIUM · ${book.label.toUpperCase()}`}</p>
             <h1>{chapters[chapter]?.title}</h1>
             {markdown}
           </article>
@@ -494,6 +502,7 @@ export default function StoryReader({ chapters }: { chapters: Chapter[] }) {
             {canSpeak && <label>Voice<select value={voicePrefs.voice} onChange={e => changeVoice('voice', e.target.value)}><option value="">Automatic</option>{voices.map(v => <option key={v.voiceURI} value={v.voiceURI}>{v.name} ({v.lang})</option>)}</select></label>}
           </div>
           <p className="reader-note">Next page: PgDn, Right arrow, or Down arrow. Previous page: PgUp, Left arrow, or Up arrow. Space also advances; Shift+Space goes back. Your place follows you when you change the font or resize the window.{canSpeak && ' Listen reads aloud from the top of the page and remembers the paragraph where you paused.'}</p>
+          <p className="reader-note"><Link href={book.other.readerPath}>Read {book.other.label} →</Link></p>
           <button className="reader-done" onClick={() => { setControls(false); menuButton.current?.focus(); }}>Back to the book</button>
         </div>
       </div>}

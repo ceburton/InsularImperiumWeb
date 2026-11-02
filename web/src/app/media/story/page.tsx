@@ -1,7 +1,7 @@
-import { readFile } from 'node:fs/promises';
-import path from 'node:path';
 import type { Metadata } from 'next';
 import StoryReader from '@/components/StoryReader';
+import { books, readerBook } from '@/lib/books';
+import { loadChapters } from '@/lib/story';
 
 export const metadata: Metadata = {
   title: 'Read the Story | Insular Imperium',
@@ -9,10 +9,5 @@ export const metadata: Metadata = {
 };
 
 export default async function StoryPage() {
-  const story = await readFile(path.join(process.cwd(), 'public/stories/Insular-Imperium.md'), 'utf8');
-  const chapters = Array.from(story.matchAll(/^# (Chapter[^\r\n]+)\r?\n([\s\S]*?)(?=^# Chapter|$(?![\s\S]))/gm), (match) => ({
-    title: match[1],
-    text: match[2].trim().replace(/\n---\s*$/, ''),
-  }));
-  return <StoryReader chapters={chapters} />;
+  return <StoryReader chapters={await loadChapters(books[0].storyFile)} book={readerBook(books[0])} />;
 }

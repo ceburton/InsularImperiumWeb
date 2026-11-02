@@ -8,6 +8,7 @@
 2. [Chapter Two: The Cold Grounds](#chapter-two-the-cold-grounds)
 3. [Chapter Three: Who Gave Him Leave](#chapter-three-who-gave-him-leave)
 4. [Chapter Four: Eat What I Eat](#chapter-four-eat-what-i-eat)
+5. [Chapter Five: Pressure, Applied](#chapter-five-pressure-applied)
 
 ---
 
@@ -2042,3 +2043,225 @@ Tomorrow the court would talk of nothing but the prince at the lowest table with
 He did not ask her where she would go.
 
 He held the yard door for her himself. It was snowing in the yard, and the lamp over the door lit the snow for a few steps and no further. She put her shawl over her head, and went out of the light.
+
+---
+
+# Chapter Five: Pressure, Applied
+
+**RUSCA**
+
+The flock came off the mountain at first light, one beast at a time, and Rusca counted it.
+
+She counted from the flat rock on the headland above the Shambles, as she had every dawn and dusk since she came, with her back to a boulder and the book open on her knee. The rock was wet, and its cold came up through the Survey's black. The sleet drove in off the sea in ruled lines. Above the cliffs the snow began, and above the snow the high vents breathed their smoke into the morning, yellow-grey and slow; when the wind laid it over the headland she tasted sulphur on her teeth. She had eaten first, barley porridge boiled thick with salt and goat fat, and a cup of hot water with nothing in it; the Survey did not drink in the field. Her mitts left her fingers bare for the pen. She wet her thumb to turn to the day's page, and dried it on the square of linen in her cuff, so that the page would not cockle.
+
+They were not large. That had been her first correction to the Survey's file on Stoneheart. The file was copied out of old Aeridor books, and the old books gave the mountain one dragon the size of a granary, with a grievance. She had found a flock. No beast in it was bigger than a horse, if a horse were mostly neck and tail and opened on either side into sails of skin wider than a hunting boat was long. They roosted in the warmth of the high vents, where the rock never froze, and they were the colors of the mountain: slate and rust, ash and soot, and the grey-green of the lichen on the lower rocks. A beast that held still against the cliff on a wet morning was not there at all until it moved. She had entered forty-three, by their marks.
+
+Each had two lines in her book, because the light was different at either end of the day, and so were the marks. In the morning they came off the vents against the grey, and she knew them by their colors: the soot with the white throat, the rust with the dark saddle, the old slate gone pale along the spine. At dusk they came home against the red of the vents, flat as cut paper, and she knew them by their sails: a notch, a tear, a finger short, the pucker where an old bolt had gone through and healed. The Thessa men had names for a few of them. Hers were figures, Slate One and Rust Four and Lichen Two, and hers were better, because they could be added.
+
+Slate One came off first, as it did most mornings, dropping off the lip of the vent into the smoke and opening there, so that the smoke went round its sails in two long wheels. She ticked it. Then the two soots together, and a rust, and Ash Three with the hitch in its left sail. Each beast dropped, and opened, and turned, and the turn was the figure: a turn down over the headland toward the sea went in the column for the coast, and a turn over the shoulder of the mountain, toward the high pastures where the clans grazed their herds, in the other.
+
+In her first week each tick had gone in the first column. The coast had fed them all then, a short drop from a warm bed: goats on the Shelves, seals on the Skerries, deer in the Hangers. The Shelves were bare now. The Hangers were nearly so, and the Skerries were going. The coast column was falling, and the inland column was rising.
+
+When the last was off she read down the list for the ones without a tick, and there were none; and she read it again, because the first time was a reading, and the second was a count.
+
+*Over the coast: twelve.* She wrote it, and the inland figure beside it, and added the two, and they came to the whole flock, as they ought.
+
+Down on the Skerries the boats were in on the last of the ebb, and the stock had gone over their sides to stand in the wash along the seaward rocks, a dark line with its back to the sea, as she had written it the night before: *Stand in the wash. Let nothing by.* Rust Four had turned for the coast. It came down on the Skerries out of the sleet with its sails half shut, at the far rock the hunters had not reached. The Thessa men ran at it shouting with their clubs up; and one of the stock stood in the wash beside the seal it wanted, as written.
+
+It coughed.
+
+Rusca counted. *Stock in hand, raised—*
+
+It was out before *lost*. A short gout of fire, dull orange in the grey, went out of the beast's jaws and fell on the rock and on the shoulder of the stock, and stopped, as a pen stops that has run dry in the middle of a stroke. The stock's oilskin smoked. It stood. Rust Four took the seal off the rock in its hind feet and went away low over the water toward the cliffs, laboring, and dropped it once, and went down after it, and had it again.
+
+Half a carry.
+
+The carry was hers. At first the hunters had brought her flames that were long, and short, and *a good while*, none of which was a figure; so she had made one. A carry was the time it took to say the heads of a return, *stock in hand, raised, lost, carried*, at the pace the audit was read, with no hurry in it and no weight on the last. Every clerk had that pace in his ear, and neither cold nor fright quickened it. In her first week the same beast had burned four carries over the Skerries, a flame that lay along the water and went on lying there, and would have cost her the stock and very likely the boat. She had a month of figures now, and they went one way. A beast that had eaten burned long. A beast that had not, coughed.
+
+She entered it on Rust Four's line, with the stock beside it: *one, scorched; held.*
+
+The wind brought the smoke down over the headland, and a strand worked loose from the heavy braid wound into a knot at her nape and blew across the page. She tucked it back with the end of her pen. Her hair was the color of a new bronze coin, and on this coast it came loose every day; everything here did that was not tied down twice.
+
+The one on the high vent was not in the count.
+
+It was there this morning, as every morning, on the highest of the vents where the smoke came out thickest: twice the size of Slate One, lying along the rock with its head up, the color of the cliff itself, so that she had looked straight at it for days before she saw it. She had not once seen it come down. It did not hunt the coast, and it did not go over the ridge. It lay in the warmth and watched the flock go; and the coast, and the boats, and whoever sat on the headland with a book.
+
+It was in no column. She had looked for one.
+
+---
+
+The boats came into the Shambles on the young flood, low in the water with the morning's seals, and the stock pulled them in on the count of a clerk in each stern. The Navarchy rowed with the living and was proud of it. The Survey was proud of other things.
+
+The Shambles was a beach of black shingle at the head of a cove below the Chimneys. That was the Thessa men's name for the cliffs below the vents, and it had gone into her book because it was shorter than hers. Under a roof of tarred sailcloth stood the trestles and the brine tubs. The try-pots sat on hearths of loose stone at the top of the beach. By the waterline the casks stood in squared ranks, each with the closed hand burned into its head and a tally beneath it in her writing. The hunters gutted and flensed on the trestles. The meat went into the casks between layers of salt, and the blubber into the try-pots to come out as oil. The stock carried all of it from one place to the next, and set it down, and went back. The smell was brine and blood with the try-pots under both, a sweet rancid smell that got into wool and stayed, so that the boats smelled of it, and Rusca's own cloak.
+
+Not a scrap was left on the shingle that a dragon could use; the offal went out past the Skerries in weighted sacks on each ebb. In the first days the flock had come over to look, and troubled them no more.
+
+She went down to the boats, and the hunters stopped talking when she started walking, which they had learned to do. She did not raise her voice, on a beach or anywhere; she walked to whoever she wanted, and spoke low.
+
+Mastarna was standing in the wash with his boots off and his trousers rolled, counting seals out of the bilges onto the shingle. He was headman of the Thessa men, a grey-bearded cragsman with an old rope-scar round his left wrist as neat as a bracelet, and no use for letters. He gave her the count his way, by the head, bulls and cows apart. She entered it hers.
+
+"There was a cow in that lot heavy with pup," he said. "We're into the breeders. There'll be nothing on the Skerries in the spring."
+
+"There'll be grain in the spring."
+
+He looked up at the cliffs and spat over his left shoulder, which the Thessa men did when they spoke of the flock, and when a row of stock passed them.
+
+"Where I come from," he said, "we leave the breeders."
+
+"Where you come from," said Rusca, "they eat now."
+
+He considered that, standing in the cold water.
+
+"They do," he said. "My grandsons are fat as seals." And he went back to his count.
+
+Laelius brought up the tally from the last stern. He was eighteen and on his first posting, a long-wristed boy from the south shore with a good plain hand. He had come west in the Survey's issue cloak, good wool, unoiled, and not dry since the voyage out. He coughed while he gave her the tally, and turned his face away to do it, as if a cough were a thing the Survey might enter against him. She took the tally, and looked at the cloak, and said nothing about either.
+
+At noon they ate in the lee of the try-pots, with the heat on their faces and the sleet at their backs, the Survey on one side of the fire and the Thessa men on the other. The hunters fried the morning's seal hearts in slices on the lip of a try-pot, in the seals' own fat. They ate them with barley bread baked flat on the hearthstones and their ration of Thessa ale, which the Survey paid for, entered under stores, and did not drink. They had kept Midwinter on a double ration and a song with more verses in it than the ration would bear. The clerks ate the same hearts and bread, and drank hot water. Seal heart was dark and close-grained and tasted of iron and the sea. She had not cared for it the first week and had stopped noticing it by the second; that was as much as could be said for most things in the field.
+
+The Thessa men had been quick to take up the custom of not looking at the stock, and kept their spitting besides. She had asked for stock from the south-shore quarries, not from Thessa, so that no man of Mastarna's need spend a day not looking at a cousin. It had cost her a letter and a week.
+
+Sethre, who was the talker among them, had a figure of his own for the kites. "Not one. All the time we've been here, and they've not touched one of the cold lads."
+
+"A kite knows meat," said Mastarna.
+
+It was in her book already: *The flock does not take stock.* It was one reason the stock could work under the cliffs at all. The other was the half carry she had entered on the headland at first light.
+
+Larth brought the bread round. He was the youngest of the Thessa men and the best of them on a line; the last goat off the Shelves had come down on his rope. He looked at her a moment longer than the bread needed, then at his own hands, and moved on round the fire.
+
+She entered him where he belonged: Larth, cragsman, paid at a man and a quarter; worth, for that look, an hour's harder work in the afternoon if she smiled at him, and nothing if she did not. She did not. The afternoon had work enough in it.
+
+She knew to the ounce what her face was worth. Her father weighed casks on the quay at Lessa, and she had learned at his beam that everything was worth something exactly, and that most people guessed. At home the face had been worth a second audit: every auditor who had her returns added them twice, because a face like hers was taken to have had help with its figures; and they had agreed the first time, every time, and that was the whole of her pride. Her mother called her eyes amber, and the Survey's roll gave them as yellow, which was the Survey all over. The sea had brought out the freckles across her nose and on the backs of her pale hands, which she disliked. The black was another matter. The best tailor in Lessa had cut it high at the collar, for the length of her neck, and long in the line, to show a good figure without breaking one rule of the Survey's dress. It was her one vanity, and she knew it for a weapon as well; so was a pen. She had not used the face to rise. The Survey's books could not be seduced, and that was what she loved best about them.
+
+After the meal Rusca stood by the brine tubs with the book open along her arm and let herself be pleased with the column.
+
+It balanced. It had balanced every week. The salt came out from Tharsis in the casks it went home in. The oil went to the Guild of the Lamps at the guild's price, and there was never enough of that on the north coast; the hides went to the tanners at Lessa, and the meat to the Survey's own stores. The hunters' pay and the salt and the freight came to less than all of it, by a margin she had entered under *carried*, where the Spire would see it. Nothing was killed on this coast that was not eaten. It was only eaten in Tharsis.
+
+At the long table in the Spire, on the morning the Teeth were read, she had known without looking up that the king had added the foot of his page and left it open. Then he had given the Survey its line for the west, *Stoneheart: the stone, by the spring audit*, and had not asked how. A stone by the spring audit would close that page, and she meant the figure that closed it to be hers.
+
+The clans would not sell their stone. They had been asked, and had answered in their own tongue, and then, so that there should be no mistake, in the common one. A mountain full of dwarves with a catapult in every gallery was no place for a war; the clans did not come out to fight in the open, which was the only place a war came cheap; and Tharsis did not pay for a war where a sum would do. Silverwood had been poison and fire, and had failed. Poison could be found, and fire put out. Hunger could not be found anywhere. Hunger was weather.
+
+The mountain had had two hungry winters in living memory, both of them the flock's, and both times the clans had asked the crown of Aeridor for bread and been sent a letter. They had kept both letters, and eaten neither. This would be the third, and the difference was who answered. Thessa had had the same letter once, and had sold a shard of its stone instead, and had eaten every winter since. It was not a new thing she was doing to the mountain. It was an old one, done in good order, with the answer already in the Survey's granaries, docketed for Stoneheart and waiting on her word.
+
+She had put it in two words at the head of every return she sent home, in the place where the form asked for the method.
+
+*Pressure, applied.*
+
+On the evening tide the *Docket* went out past the Skerries, round-bellied, with the week's casks in her hold. She had come in from Tharsis with salt and letters. She went home full of the coast.
+
+---
+
+She ate with the clerks in the *Footing*'s waist that night, goat boiled soft with barley, the last of the Shelves; and afterward, at the table in her cabin, with the tender lifting and settling under her on the swell in the cave mouth, she read her mother's letter.
+
+One came in every hull, and there was a man in every one. This hull's was a deputy of the weigh-house at Lessa, a widower with a good hand and a south window, and inside her column, which was the whole of her mother's case. In Tharsis a marriage was entered with the Survey like a lease, and respectable people married inside their own column. A posting west was a wife's pride, the street said, and she was the youngest quaestor posted west that year. It had been her father's pride, who had told the weigh-house, and her mother's, who had told the street and had wished in each letter since that there were a husband to be proud of it as well. At thirty-two the street had begun to notice that there was not.
+
+She had not gone without. She had only gone quietly, and under one rule: never anyone whose returns she signed, or who signed hers. In Tharsis the bed was nobody's business. The sin was a lover in the ledger.
+
+She had been promised once, at twenty-two, inside her column: a young surveyor of the north shore; a winter cough at his first post; a letter. A month after the letter, the quay at Lessa by night, a file hauling stone, and a walk in it that she knew; and she had not looked at his face, because one did not. A lamp in her window for her year, put out on the day.
+
+Her mother had not written his name since. Rusca answered the letter in three lines, as she answered all of them, the weather and the food and no, and put it at the back of the book, where letters went. On its peg by the door her cloak smelled of the try-pots.
+
+In the morning she wrote the drive.
+
+The stock for the Hangers stood on the shingle at first light in a file, and she walked down the file with her pen turned round in her fingers. The Survey's pen had two ends: a split bronze nib for ink, and a blunt bronze point the size of a barleycorn for the other kind of writing. She did each one the same. The flat of the point once across the brow below the hairline, to smooth out yesterday's sentence; then the new one, in her own neat hand, without hurrying.
+
+*Walk the line. Stop at the water.*
+
+The letters went in under the point, and the skin closed over them as wax closes on a tablet held near a warm hand, and she moved to the next. Close to, the stock smelled of nothing at all. That was the cold. A quaestor wrote on the brow and looked at the letters; it was the first thing the Survey's school taught, and the thing its pupils were slowest to learn, and she had not been slow at it. Some quaestors wrote paragraphs, and wondered why their stock wore through by the spring. The wax only took so much.
+
+The Hangers were the last of the shore woods with anything in them: stunted oak and birch on a slope too steep to stand on, with snow in the hollows and the deer lying up in the thick of it. She put the stock in a line along the top of the wood, a body's length apart, with a clerk behind each half; at the foot the Thessa men strung their nets between the last trees and waited with their short spears. Each half of the line walked on its clerk's count: a figure said, a bead moved, a step taken. She walked behind the middle, where she could see both ends.
+
+The line went straight down into the wood, over the fallen trunks and through the brush, in a smell of wet bark, with the sleet rattling in the dead oak leaves. The stock did not need to see the deer. It did not need to see anything. Ahead of it things began to move: a crack, a brown back going away between the birches, a white rump bounding, then more of them, all going one way, down, toward the water. That was all a drive was: a line that did not stop, and a place where it would.
+
+On the left the count stopped.
+
+She heard it go: Laelius's voice behind the left half, giving a figure and then not giving the next; and then the cough, deep and wet, with a rattle at the bottom of it, that bent him double over his frame. The left half of the line stopped where it stood. It did not fall. It stood among the trees, each one where the last figure had left it, with the sleet settling on its shoulders: a sentence with no one to read it, as the Survey said. The deer found the gap at once. Hinds broke back up through it at a scrambling run, close enough to touch the stock, and went away up the slope toward the cliff.
+
+She was there before they were out of sight. Laelius was down on one knee in the snow with the frame clutched to his chest, trying to give the count between coughs and getting no further than the first sound of it. She took the frame out of his hands, and the count out of the air where he had dropped it, and said the next figure, and moved the bead.
+
+The left half of the line walked.
+
+She kept it walking, and brought the whole line down through the last of the brush and stopped it at the water, as written, with the deer in front of it in the nets. The Thessa men did their work there with the short spear, behind the shoulder. They were quick about it; they were paid by the head.
+
+Then she climbed the slope to Laelius. He was on his feet, grey to the lips and wet through, and shaking with the cold that followed a cough. He began to tell her that he was sorry, Quaestor, that it was the cold, that it would not happen again. The issue cloak hung on him heavy and dark with water.
+
+She unpinned her own. It was a grey sea-cloak of oiled wool, close-woven, from the best sail-loft on the north shore; it had cost her a month's stipend, and the sleet ran off it. She put it round him over his wet one and pinned it at his throat herself.
+
+"Quaestor, I can't take the—"
+
+"You're not taking it. I'm issuing it. You'll sign for it tonight."
+
+He stared at her.
+
+So she smiled at him. It was a good smile, wide, with one eye-tooth that stood a little crooked, and she did not spend it on nothing. She spent it now, because a boy who would not take a cloak from a quaestor might take one from a woman who was smiling at him. He took it. She sent him down to stand by the try-pots until he was warm, with orders to keep the cough on the downwind side of the meat, and she took his half of the line herself through the afternoon's carrying.
+
+She was cold the rest of the day. The black was good cloth, close-cut and lined, and it was not a cloak. The wind off the sea blew through it, and the sleet found the back of her neck below the knot, and her hands went white and then red under the freckles. She kept it out of her shoulders and out of her voice, which were where a beach would have looked for it, and she entered the hinds herself, against the line and not the clerk.
+
+That night Laelius signed for the cloak in the stores book, in a good plain hand that shook, and she countersigned under him in one that did not.
+
+---
+
+Two days after the drive she was back in the Gullet for the afternoon flood.
+
+The *Footing* lay in the mouth of the cave with her masts struck and her bow to the dark, as she had lain since they came, a lean two-masted tender of the Survey. The sea came in under her on the flood and went out on the ebb, and the cave boomed with it day and night, so that in her cabin Rusca felt it through the soles of her boots before she heard it. It smelled of weed and wet stone and tar, and the cold came out of the back of the cave, where the light never reached.
+
+On every flood a file of stock went down the tender's side by the ladder into the black water, one after another, without a sound, and walked away under it toward the back of the cave, where the roof came down to meet the sea; and when the water had closed over the last of them, Blaesus read them on. He kept the deep rows in chalk on a slate, because the damp swelled the wires of any frame he brought into the cave. He was the oldest clerk she had, as bald as a beach stone and about as easy to argue with, and she had not once heard his count stop.
+
+"How are they going?" she said.
+
+"Slowly, Quaestor."
+
+"How slowly?"
+
+"As slowly as yesterday." He made a mark on the slate without looking up. "It's a mountain."
+
+It was. She entered the deep works in their column, *on the flood; slow*, as she entered them every tide. Hunger came down on the mountain out of the air, and was quick, and could be counted from a rock. The deep works were slow, and showed nothing yet, and she had not come west to hurry them. The sea was cold, and the cold kept the stock.
+
+She ate early, in her cabin: the last of the deer livers, fried in the galley with onions until the edges caught, and barley bread, and hot water, which she held in both hands until it was gone. Laelius came aft in her cloak, his cough gone down to a rumor of itself, to ask whether she would have it back. She would not. It was signed for.
+
+The offer lay under the book in its oilskin. She took it out and read it twice.
+
+*To the Forge-Mother of Stoneheart, and to the clans in their halls, from the Survey of the King of Tharsis. The Survey has learned that the clans are in want this winter. It has grain. It will deliver at the mountain gate, on the ——— day of ———, barley and wheat to the weight of the clans' want for the winter, as the clans shall reckon it, weighed on the clans' own scales; against the Heart-Stone of Stoneheart, to be carried home by the Survey's officers with the clans' consent.*
+
+It was in her best hand, on the Survey's good paper. She had the clans' own figures, copied into the Survey's file from the petitions they had sent the crown, and they were very good figures; she would take their reckoning, on their own scales, and no clansman at the gate would have to watch a Tharsian thumb on a beam. The clans measured a grudge in generations. Theirs was with Aeridor, and she meant to leave it there.
+
+Where the date should go she had ruled a space the length of a date, and left it. A clerk did not date a paper before the thing in it was due. The figures would fill it when they were ready.
+
+She put it away, and took up the book, and climbed the headland to count them home.
+
+The wind had gone into the north. There was ice in the rock pools along the path, and it broke under her boots, and the air smelled of snow. She sat on the rock in the black, with her back to the boulder, and kept her fingers moving on the page between figures so that they would go on moving when she needed them. Above the cliffs the vents had begun to glow, a dull red down in the smoke, and against the red the flock came home.
+
+They came in flat and black, and she knew them by their sails. The first came in from the sea, low over the headland, and went up the face of the cliff on the warm air in one long slant: Soot Two, by the tear. She ticked it. Then another from the sea, and two after it. Then none came from the sea for a long while, as the light went; and then they began to come over the ridge.
+
+They came in ones and twos, and one of them came lower than the rest, laboring, with something in its hind feet that was not a seal and was not a goat. It went down on the high vent with it, and the others came down round it. She looked until she was sure. A calf: red, with a white face, off the clans' high pastures. It was the first she had seen with her own eyes.
+
+*Inland: one head of the clans' cattle, taken; seen.*
+
+Once, far off beyond the ridge, she heard the clans' catapults: a knock, and a long while after it another, like a book shut at the far end of a long table. Then nothing.
+
+When the last had come in she read down the dusk lines for the gaps. She read them twice, and then once more, with the end of her pen on each line.
+
+Rust Three had not come home: the dark saddle, the pucker in the right sail. It had gone over the ridge at first light; she had ticked it going. Lichen Two had not come home either, the smallest of them, which had gone over behind it. She watched the glow over the high vent a long while, and no shape crossed it, and the snow came down onto the headland after all, and lay on the page.
+
+Then she entered them.
+
+*Not seen: two.*
+
+The clans had catapults that could reach a beast in the air, and crews who knew how to lay them. The file said so, and the file was right.
+
+On the highest vent the one that was in no column lifted its head as the last of them settled, and looked down the mountain at the headland for a while, and laid its head down again.
+
+*Over the coast: four.*
+
+It was the figure the method had been for since the first day. It had come down in good time, and steadily, with weeks in hand before the spring audit; and she sat with it a moment in the snow, because it was a good figure, and she had made it.
+
+She wrote up the day where she sat, by the red of the vents, with fingers gone slow in the cold; the hand they wrote was the same. The pen sat in the callus on her second finger, and there was no ink on her hands; there never was. Each figure went in its column, and each column was added, and the foot added twice. Under *Remarks* she wrote what the day's figures came to.
+
+*The flock is on the herds. The herds will bear the pressure.*
+
+It was true, and it was the length of the line.
+
+She knew where a flock went when the herds were done. It was in the same petitions. In winter the clans kept their beasts in byres cut into the rock beside the halls, where the vents kept the stone warm, and a flock that had cleared the high pastures would follow the smell of the beasts down into the rock. The petition for the second winter had a column for the byres, and after it a column for the halls, by name and age. She had read it on the voyage out, once, to the foot.
+
+The grain would be at the gate before anyone needed that column again. That was what the space was for.
+
+There was room on the page under *Remarks* for another line. She sanded the one she had written, and wet her thumb, and dried it on the linen in her cuff so that the page would not cockle; and turned it.

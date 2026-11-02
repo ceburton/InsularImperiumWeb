@@ -1,6 +1,9 @@
 import type { Metadata } from 'next';
 import AudiobookPlayer from '@/components/AudiobookPlayer';
-import { book, chapters } from '@/lib/audiobook';
+import { audiobook } from '@/lib/audiobook';
+import { books } from '@/lib/books';
+
+const { book, chapters, other } = audiobook(books[0]);
 
 export const metadata: Metadata = {
   title: 'Audiobook | Insular Imperium',
@@ -10,5 +13,5 @@ export const metadata: Metadata = {
 };
 
 export default function AudiobookPage() {
-  return <AudiobookPlayer chapters={chapters} book={book} />;
+  return <AudiobookPlayer chapters={chapters} book={book} other={{ label: other.label, audioPath: other.audioPath }} />;
 }

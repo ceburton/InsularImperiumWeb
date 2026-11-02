@@ -65,7 +65,7 @@ Root scripts proxy into `web/`:
 
 ## Build and deploy
 
-The app is deployed on **Vercel**. Push to the `main` branch to trigger automatic deployment.
+The app is deployed on **Vercel**. Push to the `main` branch to trigger automatic deployment. Preview deployments are off: `web/vercel.json` skips every build that is not production, so test a branch locally (`npm run build && npm run start` in `web`) before merging.
 
 To build locally:
 

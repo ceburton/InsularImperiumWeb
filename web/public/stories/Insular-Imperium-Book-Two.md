@@ -12,6 +12,7 @@
 6. [Chapter Six: Late Midwinter](#chapter-six-late-midwinter)
 7. [Chapter Seven: The Court Way](#chapter-seven-the-court-way)
 8. [Chapter Eight: A Body of Evidence](#chapter-eight-a-body-of-evidence)
+9. [Chapter Nine: Here](#chapter-nine-here)
 
 ---
 
@@ -4332,3 +4333,591 @@ What was left was the rest of it. A stair and a ladder and a fire, one course on
 His arm had gone dead under him a long time since. He left it. She was asleep, and he would not wake her for this. Toward morning the spring went on under the floor, and her back stayed warm against his.
 
 He did not turn over.
+
+---
+
+# Chapter Nine: Here
+
+**GAIUS**
+
+He came down the stepped lane at first light with his two books under his arm, sideways, the bad leg first. The steam off the gutters had frozen on the treads in the night. Every step gave under his boot with a small dry crack, and the cold climbed through his soles into the bad leg, where it always settled first, and the warmth of the Baths left him a step at a time.
+
+At the foot of the lane he stopped.
+
+The house was up to his chest.
+
+The torches had burned down in the night to black stubs where they stood in the spoil along the footing, and two or three of them were smoking yet. The yard smelled of pitch-smoke and wet stone and men who had worked until they dropped. They had dropped where they worked. Ear was asleep in the barrow with his knees hooked over the front of it and his mouth open. Rusticus and Salvius lay against the shed wall under one cloak, back to back, as alike asleep as they were awake. A long-shanked lanciarius with a capital haircut sat on the offcut stack with his chin on his chest and a stone in his lap, and both arms round it, in case anybody wanted it back. Sennius was asleep sitting up inside the second square, against its north wall, with his hands in his armpits.
+
+There was frost on everything. It lay white on the offcuts and the spoil and the handles of the barrow, on Ear's boots, on the coil of rope that nobody owned, all the way to the sea-wall.
+
+It was not on the walls.
+
+The spring ran deep under the yard and kept the clay warm, and in the night the stones had drawn the warmth up into themselves. They stood dark and dry in the white yard, with a thread of steam going up off the top course into the cold, as if they had been built somewhere warmer and carried down before light.
+
+He put his hand flat on the top course. It was warm, and gritty, and the grit came away on his palm. He laid his rule against the face, and the face came to his breastbone.
+
+He walked along it slowly, as he would have walked a wall another man had built and wanted paying for. He looked for a shiner, a split stone stood on its edge with its best face out, to look like more wall than it was. There was not one. Every stone lay long side in, in the first square and in the second. He had said *long side in* once, to one boy, on the second day. The yard had it now.
+
+The second square was the one nobody had drawn. Somebody had walled it. Between the two, where he would have built an end wall, the courses stopped at a doorway with its jambs set plumb, and nothing over it yet but sky.
+
+It was a room. He had drawn one room.
+
+There was nobody awake to say it to.
+
+Fingers was awake.
+
+He sat on the hearth-stone in the first square, where it was warmest, with his back against the inside of the wall and his knees drawn up. Across his knees lay the key of the sea-gate: black iron the length of his forearm, with a bow a man could put his hand through. He did not get up. He did not look at the walls round him. He looked at the key.
+
+"Sea-gate's sticking," said Fingers.
+
+Gaius said nothing.
+
+"The lock. In the wet." Fingers turned the key over. "Old Baebius's lads had it open at the change of the watch and can't get it shut again, and there's a fret in, and the council at the third hour. They'll want it shut for the council." He turned it back. "It's not a thing to leave."
+
+Yesterday it had been Nerva and the mast-step, all morning, and he had come down off the staging to a hearth-stone. He knew what this was. He had known it, he thought, since the top of the lane. He looked at the walls, and at the room he had not drawn, and at the doorway with the sky over it; and at Fingers on the warm flag, not looking at any of it.
+
+"I'll want my bag," he said.
+
+The fret had come in off the Grey in the night and lay on the harbor, thick and white and smelling of weed, so that the masts at the long quay went up into it and stopped. The sea-gate stood at the head of the water-gate stair with the fret round its feet. He had drawn it once on the back of a Tharsian dispatch, and the town's masons had built it while he was at Silverwood, and he had taken one course of it out since and laid it again. He knew which course.
+
+The passage under the vault was dark and dripping and as cold as a cistern. Both its doors stood open, the landward and the seaward, and the fret came through between them and beaded on everything: on the iron straps of the doors, on the lips of the murder-holes overhead, on Gaius's lenses. He took them off and wiped them on his shirt and put them on again, and they beaded again.
+
+Fingers set the key in the seaward door and turned it. It went a quarter of the way round and stopped.
+
+"There," said Fingers. "See."
+
+Gaius did not touch the key. He looked at the edge of the door where it met the jamb, at the gap there, a little wider at the head than at the foot. Then he set his shoulder under the nose of the door, by the lock, and lifted. The door came up the thickness of a barleycorn. Fingers's hand was still on the key, and the key went round under it and the bolt shot.
+
+Gaius let the door down.
+
+"It's not the lock," he said.
+
+"It's the lock."
+
+"It's the door. The oak's drunk the fret, and she's dropped at the nose on her bottom hinge, and the bolt's riding on the keeper."
+
+Fingers looked at the door for some time, as at a man who had told him a lie he admired.
+
+"That's a lock that sticks in the wet," he said.
+
+"That's a door that sticks in the wet."
+
+"From the outside," said Fingers, "it's the lock."
+
+The cure for it was an oak wedge under the heel of the bottom strap and a quarter of an hour with a mallet. Gaius knew it, and Fingers knew that he knew it. Gaius sat down on the inner step of the passage with his bag between his boots.
+
+"How long do they want?"
+
+Fingers did not answer at once. He looked out of the seaward door into the fret, as though there might be a boat in it.
+
+"Noon," he said.
+
+"Then it's the lock."
+
+They had it off the door between them, which took some doing, for the garrison had put it on to stay. Fingers spread a sack on the flags of the passage and laid out the works on it as they came out of the box: the bolt, the spring, the tumbler, the two wards and the false one, each in its own space on the sacking, in a row. Then he sat back on his heels and looked at them.
+
+It was the first time they had been alone since the hearth-stone.
+
+Neither of them said so. Gaius took up the false ward and turned it to the grey light from the door: a plate of iron cut to look like a ward and doing nothing at all, that a man could file off and never miss. Some Tharsian smith had put it in for show, and Gaius had admired it once for six weeks as the real thing. He put it back in its place on the sacking.
+
+Fingers's hands were wrong.
+
+They were a thief's hands, long and quick and clean, and he kept them so. Gaius had never seen them other than clean. This morning they were grey to the wrists with stone-dust, and the knuckles of both were skinned, and two of the nails were broken down to the quick. Gaius had seen the north wall of the second room in the half-light coming down. The courses in it lay tighter than in the rest, every joint closed up. A man who mends locks for a living cannot abide a gap.
+
+"Long side in?" said Gaius.
+
+Fingers did not look up from the spring.
+
+"Every one," he said.
+
+That was all either of them said about it.
+
+They worked on in the cold. The passage smelled of wet iron and the fret, and of the weed on the stair below, and the damp came up out of the flags into the seat of Gaius's breeches and settled there. Fingers cleaned each piece of the lock with a rag and a thumb of tallow, and held it up to the light from the door, and laid it back in its place, and took longer over it than any man needed to; and Gaius sat on the step with his hands between his knees and let him.
+
+At the third hour feet crossed the roof. The council sat up there in all weathers; it had never sat anywhere else. Through the murder-holes came the scrape of benches on wet stone, and Father Annius asking whether they had begun, and a cough; and then a voice Gaius knew, deep and slow, coming down the holes into the passage with the drip off the vault.
+
+*Rope Street,* said Orso Netmender, over their heads. *Four, two, six, one.*
+
+Fingers dropped the bolt.
+
+It hit the flags and rang, and kept ringing under the vault, and he scrambled after it on his hands and knees and could not seem to get hold of it. It rolled. He followed it. By the time he had it, and sat back on his heels with it in his hand, looking at it as if it had done it on purpose, the voice overhead had stopped. There was a murmur of other voices, and a pause.
+
+Then one more, louder than the rest, from a man who had lost an ear and talked for the one he had left.
+
+*Crown's seat says no. On principle.*
+
+"Good bolt," said Fingers. "Heavy."
+
+Gaius looked up at the murder-holes. A drop gathered on the lip of the nearest, and fell, and hit his lenses.
+
+"Put it back, then," he said.
+
+Fingers put it back. Then he fitted the spring the wrong way about, so that the bolt would not throw; and Gaius watched him do it and said nothing, and they took it out and fitted it again. By the time they had it right the feet had gone away over the roof, and the fret was lifting off the water, and through the seaward door the stair went down black and shining into the ebb.
+
+Toward noon Gaius took a scrap of oak out of his bag and cut a wedge from it, and drove it home under the heel of the bottom strap with the back of the hatchet. Then he went out on the head of the stair to see the strap from the seaward side, and Fingers came out after him.
+
+Fingers was not looking at the strap. He was looking along the seaward face at the second course, at the last through-stone in it and the joint beneath. The mortar there had gone grey and hard since the day it was green, and two words were cut in it, where a man coming up from the boats at low water would have them in front of his face.
+
+*S. Lento.*
+
+Gaius looked at the strap.
+
+Then they went in, and Fingers turned the key, and it went round as if it had never stuck in its life.
+
+"There," said Gaius. "Lock's mended."
+
+The town was in it when he came back.
+
+He heard it from the end of the quay before he saw it: the knock of stone on stone, a great many voices, somebody calling the step. Then he came round the end of the shed, and stopped.
+
+Prisca's bucket line ran the length of the slip-yard, from the burned footings by the old yards to the house: net-wives and old men and boys from the Row, a pace apart. It was passing stone. Prisca stood at the house end in her black with her sleeves pushed up to the elbow, and took each stone off the last boy, and looked at it, and handed it up to whoever was on the wall.
+
+Down the middle of the yard came the Lanciarii, in file, with timbers at the slope where their lanceae should have been, calling the step. They wheeled at the house and grounded the timbers in a row, and about-turned, and marched back up the yard for more at the same pace. It was drill. Anybody could see it was drill. At the corner of the second room Vindex the cooper was telling a lanciarius which way up a timber went, and the lanciarius was turning it over.
+
+Orso Netmender was at the wall with a stone in each hand.
+
+"The council sat," he said.
+
+"I heard."
+
+"Then you heard it carry." Orso set one stone on the wall, long side in, and looked at it, and set the other beside it. "The town says build."
+
+Gaius said nothing to that.
+
+Orso pointed with his beard at the wall-head by the doorway. "Crown's seat said no."
+
+"I heard that too."
+
+"He sent you those."
+
+On the wall-head lay a bundle in sacking, and in the sacking a pair of strap hinges, long and black and older than Gaius, with their pintles greased and wrapped in rag so that the grease should not get on anything. It was garrison iron, off some door in the fort that Old Baebius did not mean to name. They were better hinges than any in the yard. Gaius wrapped them up again and put them back where they had been.
+
+Then he saw the window.
+
+Somebody had set it in the end wall of the second room, on the sill course, while he was at the sea-gate: an oak frame with a mullion down the middle, and the garrison's red paint still on it, flaking. It had come out of the old paymaster's house. There was no other frame in Cyrene with that red on it. Gaius did not ask who had carried it down.
+
+He took the plumb out of his bag and hung it against the jamb, and let the bob settle. At the head of the frame the cord stood off the wood by the width of his finger.
+
+"It's a finger out of true," he said.
+
+Nobody argued with him. Nobody stopped work. The stones went on along Prisca's line, and the Lanciarii grounded their timbers, and Orso laid his stone.
+
+Gaius lifted the frame out himself. He took the sill course down to the stone below it, and dressed the bed with the edge of his trowel, and shimmed it at the low end with a sliver of slate off the heap. He set the frame back on it, and hung the plumb again, and this time the cord lay down the jamb from head to sill without a gap anywhere. Then he laid the course over the sill himself, stone by stone, long side in.
+
+After that he did not say anything about the size of the house to anyone.
+
+Fausta came down the yard past noon with the bread in a basket on her hip and a cloth over it. She stopped by the window and looked through it at him, at the trued frame and the new course over the sill.
+
+"That's better," said Fausta, to the window, and went on.
+
+Macro had a fire going in the lee of the shed, of oak offcuts, and cod on the griddle over it, split and salted with grey salt from the pans. The smell of it drifted along the yard, oak smoke and hot fish skin, and the bread under its cloth, so that men laid their stones down where they stood. Gaius ate his standing at the window, with the fish on a slab of Fausta's bread and the heat of it coming through into his palm, and his other hand on the frame.
+
+In the afternoon he went up on the walls with the rest of them.
+
+It was not his wall. It had not been his since the hearth-stone, and he saw now that he had been the last in the yard to know it. He worked where he was put. He handed up and laid and was handed to: on the north side beside Rusticus, who laid stone as he did everything, talking; and on the south beside a net-wife's boy who had never laid a stone in his life, and laid them now with the tip of his tongue between his teeth. When the boy set one on its edge, Gaius turned it over without a word, long side in. The boy watched him do it, and did the next one right.
+
+By the time the light failed the walls stood at the height of the wall-plate all round, and the gable ends were begun. Oppius was lighting the first of the night's torches at Macro's fire and carrying it along the footing, one to the next. Gaius's hands were raw across the palms, and the stone had got into the cracks of them and would be there for days.
+
+He climbed the hill at dusk before anyone could tell him to. Halfway up the lane he met Valeria coming down it, on her way, he did not doubt, to tell him. She looked at him. Then she stood aside on the step to let him by.
+
+In the still-room Liora sat cross-legged on her mat with a rushlight on the floor beside her and Alana's fair copy across her knees. It was a quire of the good paper, stitched down the fold. She had her hair down for the night, over one shoulder, and the rushlight was in it. She was reading. Her lips moved.
+
+He sat down on the end of the mat and unlaced his boots. The room was warm and smelled of the spring and of dried things, and his hands, that had been in stone all day, felt as though they belonged to somebody larger.
+
+"She's finished," said Liora.
+
+"Let me see."
+
+She held it out. It was Alana's small square hand, every name on its own line, in its order, down the first leaf and the next and the next, without a blot anywhere. Gaius's eyebrows went up.
+
+"It's a good hand," he said.
+
+"Rope Street took her all morning." Liora took the quire back and turned a leaf, and put her finger on a line. "There's a boy on Rope Street I've been saying wrong all this time. His mother cut his name in her doorpost the year he was born, and there's a letter in it I never said. Nobody told me. Alana went down this morning and looked."
+
+He had heard Rope Street once already that day, through a murder-hole. He did not say so.
+
+"Hostus took a chip of stone out of Ear's ear this afternoon," said Liora. "The one I mended."
+
+Gaius set his boots side by side at the end of the mat.
+
+She did not ask him what a hull wanted with stone. She was tired. The grey was back under her eyes, from three days of every splinter and every cough in Cyrene coming up the hill to her one at a time, as if somebody were sending them. She laid the quire on the shelf and pinched out the rushlight between her finger and thumb.
+
+It was the town's to tell, and the town had not told her. He would not tell it for them.
+
+He lay down on his side with the books under his head, and she lay down on hers, and her back came against his, warm through the wool. Under the floor the spring went on, the same water that ran under the yard and kept the frost off the walls. He did not look up at the top shelf. He knew what was on it. There was no sum tonight. He had done it, and it had come out, and a sum that has come out does not want doing twice.
+
+She said the names.
+
+He listened to them all now. She took them from the oldest to the newest, as she always did. The three had their places, and she did not slow for them, and he let them go by. When she came to the boy on Rope Street she said the letter.
+
+Then she was quiet, and he thought she was asleep.
+
+"Are you building the wall?" said Liora.
+
+"Second course."
+
+"Go on, then."
+
+He went on. It was not the wall he always built, the plain field wall of the hill-farms that he had laid in his head every night since he was a boy. It was the yard's. He laid it as they had laid it, stone by stone: the tight joints in the north wall of the second room, the long sides in, the shim under the sill. He did not take any of it out.
+
+He was asleep before he came to the window.
+
+---
+
+On the fourth morning there was a horse in the house.
+
+She stood in the first room with a pannier of heather slung either side of her, eating the top off the left one: a grey mare with a mean eye, whom Gaius knew by reputation. Her reins went up from her bit to the wrist of Roderic, who was up on a trestle in the middle of the house holding the ridge-beam over his head in both hands. Up on the gable ends Arruns and Velthur were arguing about which of them was to peg his end first. Every time Thistle put her head down to the heather, the beam dipped.
+
+"Morning, Gaius," said Roderic. "Don't mind me. I'm only holding the horse."
+
+Gaius unwound the reins from the General's wrist and tied them to the barrow. Thistle laid her ears back at him, and thought about it, and returned to the heather. The beam stopped dipping. Roderic held it up with every appearance of being content to hold it until summer.
+
+On the sea-wall, with her cloak round her and her arms folded, Valeria sat and watched him hold it. She did not offer to help. She did not go away.
+
+The gables had gone up in the night by torchlight, and the rafters lay ready along the wall-heads. They were *Constancy*'s offcuts, the short lengths and the ends from her framing that had lain all winter under the shed eaves, and every one of them had a little of her curve still in it. Arruns had sorted them so that the curves ran all one way. With the roof on, the house would carry, faintly, the line of a hull turned over, and nobody would see it who did not know.
+
+He took the rafters as they came, and cut their feet to sit on the wall-plate, with Sennius holding the far end steady and saying nothing. Each one had its own curve and wanted its own notch, and he gave each the one it wanted. By the time the sun was over the hill there was a row of them standing along the north side against the ridge, and Arruns and Velthur had stopped arguing to watch him cut, and then gone back to arguing about something else.
+
+The heather was in bundles along the sea-wall, brown and springy, and as the sun got into it the smell came off it of honey and old peat-smoke from the hill. It pricked his palms when he lifted it. He lifted it anyway, and passed it up.
+
+In the back corner of the first room, by the hearth-stone, Fausta was on her knees laying the mouth of an oven. She had a former of bent willow standing on the floor of it, and she was turning the arch over the willow in old roof-tiles set on edge, buttering each with clay and pressing it home with the heel of her hand. The burns up the inside of her forearm went in and out of the light, healed white. Gaius stood and watched her close it. She set the last tile at the crown with one knock of her knuckle and sat back.
+
+His eyebrows went up.
+
+"It's a good arch," he said.
+
+"It's an oven," said Fausta.
+
+Later, when the clay had stiffened, she lit a small fire in the belly of it to dry it, and banked it, and told the yard that the man who let it out would answer to her.
+
+At the back of the house, against the north wall, two of the cohort and Velthur's boy had a lean-to going up, of poles and offcut boards, with a window in its north side; and under the window somebody had set a bench. It would have the north light all day, which was the only light worth having for fine work. He had never said so to anyone in the yard.
+
+Off the first room, on the side away from the oven, Oppius was boarding off a space no bigger than a stall, with a shelf in it and a peg on the wall. A net-wife came in past him with a straw pallet rolled under her arm.
+
+"That goes in Sennius's—" said Oppius, and stopped. "In the small room."
+
+He shut his one eye.
+
+By noon the yard called it Sennius's, and nobody had said so to Sennius. Sennius came past the doorway with a stone on his shoulder and did not look round. He set the stone down by the oven, and took his hands off it quick, and went back for another.
+
+At noon Fausta's basket came down the yard again, and this time it was pasties: mutton and onion, with thyme off the hill, so hot that the gravy had come out at the crimps and gone brown on the crust. The smell stopped the work faster than any drum. Gaius burned his mouth on the first and ate it anyway. He was sitting on the new sill eating the second, slower, when Alana picked her way down the yard with the weather-book open on her arm and the hem of her violet held up out of the mud in her other hand.
+
+"Gaius," she said. "I want a stern bearing."
+
+He wiped his fingers on his knee. He had been waiting for something since he came down the lane, and this was it.
+
+"For when we sail," said Alana. "The shrine light from the end of the mole, so that the pilots can hold it astern going out in the dark. I have the distance, and the set of the gap." She turned the book to him. Down the margin ran her figures, small and square, and under them the line was begun and not finished.
+
+It was a sum a boy at Corvus would have done on his slate. He did it in his head, in the time it takes to say it, and said it.
+
+Alana wrote it down slowly, under her figures. She did not check it.
+
+"I'd like to see it from the end," she said.
+
+He looked at the rafters going up, and the heather in its bundles, and the General reaching up to take a rafter off Velthur. Then he put the rest of the pasty in his mouth, and went.
+
+The wind on the mole came straight off the Grey, with the cold in it and the weed, and got in at the neck of his shirt and stayed there. Alana planted herself at the end by the tower and sighted back along her arm at the shrine at the head of the long quay, and wrote, and sighted again. He stood beside her with his back to the town. Below them the gap ran out between the moles, grey water with the scour down the middle of it a shade darker than the rest; and past it the Grey went out flat and cold as far as there was anything to see. In a few days the fleet would go out through that gap in the dark, with this bearing in some pilot's head and the shrine light at its back. His leg ached with the cold. He did not look round at the yard once. It seemed to him the least he could do.
+
+"Thank you," said Alana, when she had shut the book.
+
+"It was a boy's sum."
+
+"I know," said Alana. "I've seen you do a man's."
+
+When they came back along the quay the roof was on. The heather lay brown and thick over both rooms, pinned at the ridge with turves, and the smoke from a brazier somebody had lit inside was working its way up through it already. Roderic stood under the eaves with Thistle's reins in one hand and a pasty in the other, looking up at his ridge-beam.
+
+"Straight?" said Roderic.
+
+Gaius sighted along the ridge from the gable end, with one eye shut.
+
+"Straight."
+
+"Good," said Roderic. "I should hate to have held it crooked."
+
+The door was the one thing nobody had touched.
+
+They had laid it out for him by the empty doorway on a sack: oak boards from his own stack under the shed eaves, his planes and his brace and bits, the basket with the last of his Midwinter pegs in the bottom of it, and Old Baebius's hinges in their sacking. It had been left.
+
+He made it in the last of the afternoon, on two trestles before the house, while the yard turned out to have a great deal of work to do at the far end of itself.
+
+He shot the edges of the boards true with the long plane. The shavings curled off it as long as his forearm and lay round his boots, and the oak smelled of its own sap, sharp and clean, and the light went yellow on the boards and then grey. He laid them face down side by side, and laid three ledges across them; and between the ledges two braces, rising from the hinge side. A brace carries the weight of the nose down to the bottom hinge, and it can only do that if it runs uphill away from it. Put it the other way and the door hangs on its nails, and drops at the nose in a winter, like the sea-gate. He bored for the pegs and drove them, and cut them off flush, and cleaned them with the chisel. He hung Old Baebius's straps on the ledges. For the latch he cut an oak bar and hung it on a peg on the inside face, to drop into an oak keeper on the jamb. Then he cut a slot through the door above it and set a lifter in the slot, so that the bar would rise from outside as easily as from in.
+
+He made no lock for it.
+
+There had been no lock in it the morning he pegged out his one room, and he had not known why. He knew why now.
+
+When the straps were on he propped the door against the jamb, and looked along the yard past it. From there he could see the steam-box house, with the hasp still on the outside of its door; and beyond it, under the yards, the low door of the old sluice-house. He looked at them once.
+
+Then he hung the door.
+
+It went round on Baebius's pintles without a whisper, and the bar dropped into its keeper. He went out and lifted it, and came in and lifted it, and went out and lifted it again, because he could. It rose from either side.
+
+"Hostus has run out," said Ear, going past with nothing in his hands.
+
+The yard became busy all at once. Rusticus and Salvius took up a board and began to plane it between them, one from either end. Prisca's line passed an empty bucket up the yard, and then down. The Lanciarii drilled at the far end with nothing at the slope at all. Oppius swept the floor of the first room, which was swept. Tappo stood at the shed door with a plane and nothing to plane, and put his right hand behind his back. Sennius stood in the doorway of the small room and could not decide which way to face.
+
+Liora came down the stepped lane with her mat under her arm.
+
+He watched her from the doorway. Her white had gone blue in the dusk. At the foot of the lane she stopped, where he had stopped the morning before, and looked at the yard: at everyone in it being busy, at the shed, at the hull on her slip. Then at the house, where the pegs had been.
+
+She walked down the yard. Nobody looked up. At the door she stopped, with the mat under her arm, and looked at it: at the ledges and the braces, and the old black straps, and the lifter in its slot.
+
+She put out her hand, and took it back.
+
+"It lifts from both sides," said Gaius.
+
+She lifted it. The bar came up out of its keeper, and the door swung in on the first room: on the hearth-stone, and the oven-mouth, and the heather overhead, and the window at the far end of the second room with the last of the light in it.
+
+She stood on the threshold and looked.
+
+Then she began to cry.
+
+She did not make any noise about it at first. Then she did, and it did not stop. She stood in her doorway with the mat held against her and wept as he had never seen anyone weep, with her shoulders and her breath and all of her, and did not put a hand up to her face.
+
+He looked at the door to see what was wrong with it.
+
+There was nothing wrong with it.
+
+He opened his mouth to tell her about the braces, and shut it again. He did not know what to do with his hands. He held the door.
+
+The yard went home. Rusticus and Salvius laid their board down half-planed. Prisca took her empty bucket home. The Lanciarii marched away with nothing at the slope, in step. Oppius leaned his broom against the wall and walked off up the yard beside Fausta, not touching her, with his one eye on the ground. When Gaius looked up from the door there was nobody left but the mare, tied to the barrow, eating the last of the heather.
+
+She laid her mat that night in the second room, under the window he had trued, on a floor the spring kept warm. He put his books down for his head. The window was a grey square over them, and through the doorway between the rooms and the door beyond it he could see the yard lying white under the stars, and the hull black against it. The door stood open. Neither of them went to shut it.
+
+She cried herself to sleep.
+
+It came through his back, as the knock of a maul two bays off comes up through a staging into the soles of a man's feet. He lay and felt it, and tried to work it as he would have worked anything that moved under a load: where the weight came on, and where it went, and what took it. He could not tell where it came on. It went nowhere he could follow. Whenever he thought he had hold of it, it was somewhere else.
+
+*He had measured the three. He could not measure this.*
+
+He did not ask her.
+
+Toward midnight she slept. The heather settled overhead. Somewhere in the roof a rafter he did not know yet took the cold, and spoke once, and was quiet.
+
+---
+
+He woke to woodsmoke.
+
+It was not the pitch of the yard's torches, or the oak dust of the shed. It was woodsmoke from a hearth, close by, in a room with a roof on it, and under it something frying. For a breath he did not know where he was. Then he did.
+
+Grey light came in at the window he had trued and lay along the floor. Overhead the heather was close and dark and smelled of the hill. The door stood open on the yard as they had left it, and the frost had come in over the threshold in the night and stopped where the warm floor began, as straight as a struck line.
+
+The mat beside him was empty, and still warm. He got up, stiff in the bad leg, and went through the doorway into the first room.
+
+She was kneeling at the hearth-stone with her back to him, in her cloak, with her feet bare and her hair down her back. She had lit a fire on the flag, in the hollow worn by all the years of Fausta drawing her loaves, with splinters off the offcuts, and it was going: small and bright, the smoke climbing straight up into the heather and out through it into the morning. Over it, on a green stick, two rashers of salt pork were going brown at the edges and spitting fat into the flames. Beside her on the warm stone lay the loaf Fausta had left there the night before, in its cloth, and her little knife. Her face, when she turned it to the fire, was dry.
+
+She did not look round. She moved along the stone to make room.
+
+"Here," said Liora.
+
+She said nothing else.
+
+He sat down on the hearth-stone beside her. It was warm through his clothes, from the fire and from under, and the warmth soaked into the bad leg and stayed. She took the stick off the fire and gave him one of the rashers, and ate the other herself, fat first, with her fingers; and the smoke rose into the new roof, and neither of them said anything at all.
+
+In the back corner the oven sat with Fausta's drying fire still in it, and now and then it ticked as the clay took the heat. He sat and listened to it.
+
+When the fire on the hearth was going well enough to leave, she put on her shoes and wrapped the loaf in its cloth and took up her knife, and stood. They went out together through the open door.
+
+The frost was on the yard, and the sun was not yet over the hill, and the yard was asleep, or doing it on purpose. Ear was in the barrow by the shed again, from habit. They walked down past him side by side, at the pace of Gaius's leg, and past the shed. It stood open to the yard as it always had. There had never been a door on it. *Constancy* stood on her slip with the staging round her bow and the ladder going up it into the cold, and the smell of her seams drifted down to meet them, pitch and new oak.
+
+At the foot of the ladder he stopped, and put his hand on a rung at the height of his shoulder.
+
+It was the batten he had under his palm: a strip of oak nailed across the rung, worn smooth along its top by every boot that had gone up since the frost, the nail-heads gone dark and sunk into it. He had gone up that ladder every day of the winter and never once felt them. He felt it now.
+
+Liora stood beside him with the loaf held against her breast, cutting it toward her thumb.
+
+"Was the ladder sound?" said Gaius.
+
+She looked up.
+
+"The ladder was sound," said Liora.
+
+"Good."
+
+She looked down at the loaf, and set the knife to it again; and her hands stopped.
+
+He saw it.
+
+Then the knife went on down through the crust to her thumb, and she held out his half; and he took it, and went up the ladder.
+
+---
+
+**MARCUS**
+
+It began with a toast, as the worst of them do.
+
+The yard had been swept for it from the shed to the sea-wall, and the shavings banked against the shed in a long pale drift. Torches stood in the spoil along the old footing line. Macro's kid had been turning over the coals in the lee of the shed since the ninth hour, and the smell of it lay over the field: fat catching in the fire, and garlic, and something green off the hill that Marcus could not have named. The town had come down for it, and the cohort, and the Lanciarii, and the shipwrights, and every man of the fort who was not on the wall. In the middle of them all, with its door standing open and the firelight going in at it, stood the house.
+
+It was not a large house. Two rooms of grey stone, a lean-to at the back, a roof of heather the color of a fox, and the door. Marcus had watched it go up from the crown's road a course at a time, on his way down each morning; and on the second day he had driven pegs into the hull beside it all morning without once turning round to look. With the town round it in the torchlight, it looked like the one thing in the yard that had been there first.
+
+Felix filled his cup from the fort's spring, as he had every evening since the capital, and put it into his hand without a word. Alana had his other arm. She had the weather-book under hers, because she always had.
+
+The gifts went in first. Fausta carried in the first loaf out of the new oven, in a cloth, and came out without it, and did not stop to be thanked. Prisca took in a pot of grey salt from the pans with a lid tied down on it. Last of all Old Baebius came down the yard with his hood up and a little flask in his hand, and gave it to Gaius at the door.
+
+"Oil," he said. "For the hinges."
+
+"They don't squeak," said Gaius.
+
+"They will," said Old Baebius. "On principle." He went and sat on the sea-wall with his back to the house, where he could see everything.
+
+Then Orso Netmender lifted his cup, and the yard lifted its cups with him.
+
+"The house," said Orso.
+
+Marcus drank the fort's water to the house with everybody else. That was the toast.
+
+Liora came out.
+
+She came out of her own door with Gaius a step behind her, under a lintel so new it was still yellow, with a curl of shaving caught in the corner of it over her head. Marcus had stood at enough doors behind his father to know what a face does on a threshold: what it shows to the street, and what it keeps back for the hall. Hers kept back nothing. She was beaming. It was the plainest gladness he had seen on anyone since the capital, and she did not trouble to hide a grain of it. It was the first door any of them had seen her come out of that was her own.
+
+Alana let go of his arm.
+
+"Let the record show," she said, clearly, to the yard, "the first house of the campaign." She opened the weather-book and wrote it down.
+
+Valeria walked the footing. She made one circuit of the house at an inspecting officer's pace, heel and toe, with her thumb hunting along her belt for a haft that was not there, and came back to the door, and looked up at the lintel, and at Liora under it.
+
+"It's held," said Valeria.
+
+On his cask by the shed, Kaeso gave the drum one stroke.
+
+Liora laughed. She had fought no battle that Marcus had seen, and she knew it; she let them give her the field anyway, and stood in her doorway and enjoyed every yard of it.
+
+Marcus heard the drum and thought it was for the house. He went on thinking so for some little time after; which is how most fields are lost. Not at the charge. At the toast before it.
+
+Gaius conceded at once.
+
+"I lost," he said, plainly, to the yard at large. "I drew one room."
+
+The town cheered him for it, and the cohort took it up. Gaius waited for it to die. Then he set himself between the women and the rest of the men, and began to give ground slowly, covering the line behind him.
+
+"It isn't a precedent," said Gaius. "It's a special case. It took a town four days, and nobody has either to spare in a war."
+
+Alana wrote it down.
+
+"A town," said Valeria, as if she were putting it on a roll.
+
+"It's temporary works," said Gaius.
+
+"Will it," said Liora, behind him.
+
+He did not take it back. He did not say yes. He went on instead to load paths, and to why no second house of the kind could stand before the fleet sailed, with the weight going down this way and the thrust coming out that; and nobody on the field listened to a word of it except to keep it. Every sentence he gave them, they kept.
+
+Kaeso gave the drum a stroke.
+
+That was when Marcus understood that he was standing in a war.
+
+Alana turned to him.
+
+"You drove pegs," she said.
+
+"There's no peg in a dry wall. I have it from the engineer."
+
+"In the hull. Beside it. All the second morning, keeping the engineer on his staging." She wrote. "Let the record show."
+
+"The record is partial."
+
+"The record," said Alana, "was there."
+
+Valeria had not taken her eyes off Roderic.
+
+"And you."
+
+"I held a horse," said Roderic.
+
+"You held the ridge-beam."
+
+"I held a horse, my dear. The beam happened to be there."
+
+Half the yard had seen him hold it, with the mare on the end of his wrist eating the roof. Somebody in the cohort said so. Several people said so.
+
+"In wartime," said Roderic, "a man holds up what's in front of him."
+
+"You can't plead wartime," said Valeria. "You did it in wartime. I watched."
+
+Kaeso marked it.
+
+Liora went into the house. She came back to the door with Fausta's loaf broken open in her two hands and steaming in the cold, and she stood on her own threshold, on her own floor, and held it out to the men.
+
+She said nothing at all. She did not need to. The smell of it crossed the field ahead of her, crust and crumb and the heat of the new oven. Rufo came in under the lintel for a piece, and Tappo, and half the cohort; and Marcus came in after them, and took his, and had it in his mouth before he saw what he had done. Bread from her hand, off her hearth, under her roof. There was not a man at his father's court who could not have told him what he had just admitted by eating it.
+
+He ate it. It was the best bread he had eaten since the capital.
+
+Kaeso gave the drum two.
+
+Sylara had not come near the house all evening. She sat on the timber stack by the slip, out of the torchlight, with one knee drawn up and her braid over her shoulder and a chop of the kid in her hand, and she had been listening to all of it.
+
+"Prince," she said.
+
+"Warden."
+
+"You can't build," said Sylara. "Princes have people for that." She pointed the chop at the house. "Those are the people."
+
+The drum.
+
+Then she turned it on the men in a body, from where she sat, at her leisure.
+
+"You're fighting for ground you gave up before you formed," she said. "Your line broke at Midwinter. Your first man went over."
+
+Every man on the field looked at Rufo.
+
+Rufo's hand went up to the place above his ear where her fair lock was plaited into his hair, and stayed there.
+
+"He asked me about the roof," said Sylara. "At the elves' fire. Before anybody had dug so much as a—"
+
+Rufo crossed the field.
+
+He did it at a walk, which was the alarming part, and he was on her before she had the rest of the word out. She saw him coming and put the chop down. "Don't you—" she said, which was half of it; and then his hand was at her waist, above the belt, and she folded.
+
+Nobody on the field had known. Wherever Rufo had learned it, he had kept it the winter through and never once shown it, and he spent it now, at the one moment it could buy the day.
+
+She was laughing too hard to fight. She got hold of his wrist and could not keep hold of it. She drew breath for a word, and lost it, and drew another and lost that. Then he stooped and put his shoulder to her and stood up with her over it, her braid swinging down his back and her boots kicking at the air before him. She could have stopped him, and did not. She was trying to say his name, and could not get past the first of it.
+
+He carried her off round the end of the shed into the dark. The cohort cheered him off the field as for a sally, and Kaeso beat the sally for him.
+
+The yard did not follow them.
+
+Gaius had fallen back on the shed. It was his old ground, and he held it. From its door, beaten and happy, he did what a man does for comrades still on the field, and gave them what cover he could.
+
+"A ship takes priority over a house!"
+
+"Then the house is ready before the ship," said Alana. "Noted."
+
+"Nobody's asking you to build anything!"
+
+"Nobody asked him either," said Valeria.
+
+Kaeso marked that too.
+
+It was then that Roderic led the charge.
+
+He set his cup down on the sea-wall beside Old Baebius. He drew himself up to his height, which was considerable, and touched two fingers to the brim of a hat he was not wearing.
+
+"The prince is wanted," he told the yard.
+
+Then he crossed it at the pace of a man who has led a great many charges and means every stride of this one, and halted before Marcus, and his face was grave.
+
+"Your Highness," said Roderic.
+
+Nobody called him that; Roderic least of anybody.
+
+"A matter at the stables. Tam has sent word." He lowered his voice, so that only the nearest score of people could hear. "Thistle is off her feed."
+
+Marcus had it on good authority that Thistle had eaten most of a roof the day before.
+
+"Off her feed," he said.
+
+"It's grave, sir." Roderic took him by the arm, above the elbow, in a grip that had held lances. "It wants seeing to at once."
+
+They went.
+
+Behind them Marcus heard Valeria. "He has never retreated in his life."
+
+"He isn't," said Alana. "He's charging. Look at his knees."
+
+At the turn of the crown's road, with the yard below him and the General's hand on his arm, Marcus looked back over his shoulder.
+
+The field was theirs. The men had been carried off it, or led off it, or had fallen back to a shed. The three of them stood in the torchlight before the open door: Alana with the weather-book shut against her breast, Valeria with her arms folded, Liora on her own threshold with the end of the loaf in her hands. Alana looked at Valeria. Valeria looked at Liora. Liora looked at them both, and back. It went from one to another and round again, and it took no longer than a nod, and none of them nodded.
+
+Then the road turned, and Roderic had him round it, still talking about the mare.
+
+In the morning the yard went back to the hull. Marcus walked down the crown's road at first light with the cold coming up through his boots, and the yard below him was full of men again, and none of them at the house. The tallow-pots were smoking on their fire beside the slip. Arruns and Velthur were under her with their mauls, and Nerva stood at her stem with his hand flat on the oak; and the Lanciarii marched down the yard at the step with their own lanceae at the slope, and nobody pretended anything. *Constancy* had a day left on her slip. The house stood at the end of the shed with its door open, and the war went past it down to the water.

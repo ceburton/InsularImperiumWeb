@@ -6,8 +6,8 @@
       "title": "Chapter One: The Dullest Day",
       "duration": 2568,
       "bytes": 20635303,
-      "sha256": "e159cd36c8df3bbb9de5e1d4160bcd12eeaa8074609e29d97b81c0324f9d21ad",
-      "url": "https://audio.insularimperium.com/book2/v/e159cd36/ch01-the-dullest-day.mp3",
+      "sha256": "a3da2c5e6127016427e55fd47a3f397f60074dc910eb533b90dbe3eff586c423",
+      "url": "https://audio.insularimperium.com/book2/v/a3da2c5e/ch01-the-dullest-day.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -22,8 +22,8 @@
       "title": "Chapter Two: The Cold Grounds",
       "duration": 3504,
       "bytes": 28119464,
-      "sha256": "47016d8a565361347ca433f6e98a27f52807bb652670a040ce72e1004b4c5b03",
-      "url": "https://audio.insularimperium.com/book2/v/47016d8a/ch02-the-cold-grounds.mp3",
+      "sha256": "9a1edaf5808334794005c71a91792a992a9bccd536c8581fd9a0aa0ff3094c2b",
+      "url": "https://audio.insularimperium.com/book2/v/9a1edaf5/ch02-the-cold-grounds.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -38,8 +38,8 @@
       "title": "Chapter Three: Who Gave Him Leave",
       "duration": 3264,
       "bytes": 26201388,
-      "sha256": "c5c47b8cd37dadfe6d3a305f68b8d54a0c6832b46627c19ee8c885d3b5caeeab",
-      "url": "https://audio.insularimperium.com/book2/v/c5c47b8c/ch03-who-gave-him-leave.mp3",
+      "sha256": "e95bd310f5185f779181950cba856c0fe8887a49cc3c66422de115a80a75796f",
+      "url": "https://audio.insularimperium.com/book2/v/e95bd310/ch03-who-gave-him-leave.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -54,8 +54,8 @@
       "title": "Chapter Four: Eat What I Eat",
       "duration": 3071,
       "bytes": 24654055,
-      "sha256": "8b8489e0e71a6c6fdb28dd6468776941ba214292474c80f4970de4fbab32eb04",
-      "url": "https://audio.insularimperium.com/book2/v/8b8489e0/ch04-eat-what-i-eat.mp3",
+      "sha256": "bb11b63dd4b462a363184201b2ccd8de16687189b132efe777939fe280c6dae4",
+      "url": "https://audio.insularimperium.com/book2/v/bb11b63d/ch04-eat-what-i-eat.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -74,8 +74,8 @@
       "title": "Chapter Five: Pressure, Applied",
       "duration": 1745,
       "bytes": 14046250,
-      "sha256": "ed1f7ac6ed529d20a124af3e4a3b80a4f35986441ee80f7e6c8f052643400441",
-      "url": "https://audio.insularimperium.com/book2/v/ed1f7ac6/ch05-pressure-applied.mp3",
+      "sha256": "1ee4f9d08bdc4235cdaa1c50e6f030dc1148254cc37b0a095e593910162fa6d2",
+      "url": "https://audio.insularimperium.com/book2/v/1ee4f9d0/ch05-pressure-applied.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -90,8 +90,8 @@
       "title": "Chapter Six: Late Midwinter",
       "duration": 2964,
       "bytes": 23804646,
-      "sha256": "6b8ada216d657c87a1557e41a0737aa55aaffcd996c86d5129cbc01b8f4befde",
-      "url": "https://audio.insularimperium.com/book2/v/6b8ada21/ch06-late-midwinter.mp3",
+      "sha256": "f2721f9e1eafa86bcf2971d5f14e3fe2ecf35acf5e75cf510a8e1d4a6686b64e",
+      "url": "https://audio.insularimperium.com/book2/v/f2721f9e/ch06-late-midwinter.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -106,8 +106,8 @@
       "title": "Chapter Seven: The Court Way",
       "duration": 3702,
       "bytes": 29701735,
-      "sha256": "da2437d6ce50e147301febbdcd3a72dce43c3e3da2a3e1146cd3d597ccc42e90",
-      "url": "https://audio.insularimperium.com/book2/v/da2437d6/ch07-the-court-way.mp3",
+      "sha256": "55b4d36fd46f9f10feeff207a0dac1a689bbc891ec4c96bd1cf46c6c01521c2f",
+      "url": "https://audio.insularimperium.com/book2/v/55b4d36f/ch07-the-court-way.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -117,6 +117,34 @@
         [
           1533.4,
           "Roderic"
+        ]
+      ]
+    },
+    {
+      "track": 8,
+      "slug": "ch08-a-body-of-evidence",
+      "title": "Chapter Eight: A Body of Evidence",
+      "duration": 3479,
+      "bytes": 27921132,
+      "sha256": "1df397fff5b421b568ef9648dc4550794e3f3d6cc12d0cc75eddc1d47e997b13",
+      "url": "https://audio.insularimperium.com/book2/v/1df397ff/ch08-a-body-of-evidence.mp3",
+      "firstPublished": "2026-11-03",
+      "pov": [
+        [
+          6.2,
+          "Liora"
+        ],
+        [
+          1033,
+          "Gaius"
+        ],
+        [
+          1536,
+          "Fingers"
+        ],
+        [
+          2069,
+          "Gaius"
         ]
       ]
     }

@@ -9,7 +9,7 @@ export const books = [
   { number: 1, label: 'Book One', title: "Insular Imperium: The Coward's Answer", chapters: path.join(storyBible, 'chapters'),
     audioDir: process.env.AUDIOBOOK_DIR || path.join(generator, 'audiobook'), dataFile: 'src/data/audiobook.json',
     bunnyPrefix: 'v/', storyFile: 'public/stories/Insular-Imperium.md' },
-  { number: 2, label: 'Book Two', title: "Insular Imperium: The King's Table", chapters: path.join(storyBible, 'chapters', 'book2'),
+  { number: 2, label: 'Book Two', title: "Insular Imperium: The Road to Defeat", chapters: path.join(storyBible, 'chapters', 'book2'),
     audioDir: process.env.AUDIOBOOK_BOOK2_DIR || path.join(generator, 'audiobook-book2'), dataFile: 'src/data/audiobook-book2.json',
     bunnyPrefix: 'book2/v/', storyFile: 'public/stories/Insular-Imperium-Book-Two.md' },
 ];

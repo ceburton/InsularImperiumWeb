@@ -10,6 +10,7 @@
 4. [Chapter Four: Eat What I Eat](#chapter-four-eat-what-i-eat)
 5. [Chapter Five: Pressure, Applied](#chapter-five-pressure-applied)
 6. [Chapter Six: Late Midwinter](#chapter-six-late-midwinter)
+7. [Chapter Seven: The Court Way](#chapter-seven-the-court-way)
 
 ---
 
@@ -2818,3 +2819,807 @@ She had written up the frost, and the wind, and the smoke going straight up off 
 Then she wrote the first line in it, in her small square hand, and turned the book round on her knee so that he could read it, with the sun on the page and the ink still wet.
 
 *Spring: Tertulla to read.*
+
+---
+
+# Chapter Seven: The Court Way
+
+**SYLARA**
+
+The witch had danced, and the quay was still dancing, and Sylara lay on a roof above the crown's road and wrote it down.
+
+It was a good roof: a store-shed at the turn of the road, above the last of the gutters, where the town gave out and the road went on up to the fort alone, frozen white. The slates were warm on the downhill side with the steam off the town and furred with rime on the uphill side, so that she lay along the ridge with her belly warm and her back cold, and could see everything: the quay in its chain of fires, the slip-yard, the black beach and the merfolk's green jars along the wash. A pitch torch smoked in an iron ring on the road wall above her head, and smelled of the shipyard.
+
+She had written the witch's dance down as far as she could. It was not far.
+
+*The kick. The standing leg did not shake.*
+
+That was all of it that was hers. The rest belonged to the prince, and to the town, and to whatever the witch had been looking at in the north while she held it, and Sylara had left it alone. The standing leg was worth a line. She had held a branch in a high wind with less under her.
+
+Below, the whole quay had come down onto the stones after the witch, as she had meant it to, and was dancing the Haul. Sylara watched it as she would have watched a column on a road. The footing was good where the stones were warm and bad at the edges, where the frost had them; a fisherman went down on the haul and came up laughing, and his wife hauled him in by the belt anyway. The cast ran to the end of a man's arm and no further. The drunk ones cast off the wrong foot and stamped late.
+
+At the landward end of the men's line, by the coppers, the first man stood with some of his forty about him. He did not dance. Nobody had chosen him.
+
+She had noted that more than once.
+
+Boots came round the turn of the road above her, on the frozen part, slow and careful; and a voice with them, saying something about a collar.
+
+The prince came up the crown's road with the witch in his arms.
+
+The witch had lost her shoes. Her bare feet hung over his arm, pale with the cold, and she had a hand inside his collar where she had evidently been complaining about it. As they passed under the torch she looked down off his arm at the roof, and at Sylara on it, and at the book.
+
+"Put the book away, warden," said the witch. "Go and stamp."
+
+Then they were past, and going up into the dark toward the fort, and Sylara heard her go back to the collar.
+
+*Put the book away.* This, from a woman who had once come up a net-ladder onto Sylara's own roof with her weather-book in her teeth, to keep a column on a man looking at Sylara's behind.
+
+She did not put the book away. She wet the lead on her tongue and wrote, *The witch says stamp.* She did not strike it out. Then she climbed down off the roof by the gutter and a woodpile and a water-butt with ice on it, because there was nothing else to do with a line like that but go and see.
+
+The net-wives had her before her feet were on the quay.
+
+She had watched them all winter from her roof, the women of Netmakers' Row in their black, sitting in a row on a bench in the thin sun with a seine across their knees, like rooks along a gutter. Tonight the rooks had come down out of the black in the king's colors, woad and madder and the undyed that was the color of oatmeal, every one of them stiff at the seams. They were all looking at her.
+
+Prisca was at the front of them in the red. The firelight on the madder made her walnut face darker still, and her eyes were as bright as a gull's.
+
+"There she is," said Prisca. "Down off her roof."
+
+"I was writing."
+
+"We know you were. Lying up there all afternoon over our heads like a cat on a warm wall."
+
+"Every word," said a big net-wife in the blue, called Herminia, whose laugh went out across the harbor and came back off the moles. "She heard every word."
+
+That was true. She had lain all afternoon on the ridge of the big net-loft while they cut the king's cloth on the floor beneath her, because the ridge was hers, whatever the old warden thought in the mornings; and the slates were thin, and the net-wives had talked all afternoon, with the shears going, about one man in particular: his shoulders, and his hands, and what a man who never said anything was likely to be like when he did. They had cut a dress for her too, in the oatmeal, and called up through the trap for her to come and be fitted, and she had not come down.
+
+"You talked about him," she said, "on purpose."
+
+"Of course on purpose," said Prisca. "Who talks about a man like that by accident?"
+
+Herminia put a hand over her mouth. Prisca did not.
+
+"There's your first man," Prisca said, and jerked her chin down the quay. "Stood at the end of that line since dark like a bollard, and not a woman on this quay has stamped for him."
+
+"I know where he's stood."
+
+"Then go and stamp."
+
+"I don't dance."
+
+"Nobody on this quay dances," said Prisca. "They haul."
+
+At the head of the yard Fingers had seen her come down, and climbed onto a trestle by his hatch-cover with the chalk in his fist.
+
+"The optio and the elf!" he shouted. "Shortening! Who'll have the elf?"
+
+It was up on the board in chalk, between the General and the peel: *The Optio & the Elf*. She had been struck off a board once, at the Boundary House, for being an elf. Now she was on one, for the same reason. She had not decided which she minded more.
+
+"Go on, warden," said Herminia. "Show the witch."
+
+"The witch held a kick," said Sylara. "I could hold one upside down."
+
+There was a short silence among the net-wives, of the kind that comes before a net is shot.
+
+"Then go and do it," said Prisca.
+
+Sylara looked down the quay at him.
+
+He had not seen her yet. He stood with his thumbs in his belt and his feet on the frost side of the copper's fire. He always stood on the wrong side of a fire; he did not like to take the good side from anybody.
+
+She had asked him for everything at once, the night on her roof: a house, and a door that shut, and a girl with his jaw. He had said worse than *too fast*, and put it better, and she had sent him down off the roof for it and covered him to the fort gate with an arrow on the string. But *too fast* was her own name for that night, and it was the right one. She had been taking, with both hands, before the tide could take it first.
+
+There was no tide coming up the slips tonight. And she did not know any more whether what she wanted was taking or only wanting; or whether a man who had seen through it once would know the difference.
+
+She took the book out of her shirt.
+
+"Hold this," she said, and gave it to Prisca.
+
+Prisca turned it over in her hands. It was only bark-leaves, sewn.
+
+"Don't read it."
+
+"I can't read, warden."
+
+"Good," said Sylara, and went down the quay.
+
+She did not stamp. She did not know how, and she was not going to learn it in front of the cohort. She walked down the middle of the quay between the lines, through the cast and the haul, so that the dancers had to haul round her, and stopped in front of the first man with her back to the fire.
+
+He looked at her, slowly, as he looked at anything that was coming at him, a wall or a sea-man or her.
+
+"You'll not want me in that line," he said. "I tread on people."
+
+"Not the line. Stand there."
+
+"I'm standing."
+
+"Feet wide. Like the east gate."
+
+He set his feet. He did it without asking why, as he had set them in the Girdle's east gate with the dead coming at it; and that was the first thing she had ever written about him, from a roof above the slips, before she knew anything else. *Holds.*
+
+"Hands," she said. "Cup them. As if you were giving a man a leg-up over a wall."
+
+He cupped them, low, in front of his belt.
+
+"Now hold," said Sylara, "whatever comes down on them."
+
+She paced back along the stones to where the frost began, and looked at him as she would have looked at a branch she meant to make in the dark, and ran.
+
+He saw what she wanted a stride before she reached him. Any soldier would have. Her foot went into his hands and he threw, and she went up into the dark over his head with the fire under her, and turned over once in the air, slowly, as the wardens teach falling, knees to her chest and the whole quay going round below her: torches, faces, black water, torches. She came down behind him on the warm stones on both feet at the moment the line stamped on the haul, so that the quay stamped with her.
+
+It was the first time since the lane that she had asked the whole of her body for something at once. All of it answered. Even the ribs had nothing to say.
+
+He had turned round. His face was doing something she had not seen it do before. It was trying to keep up.
+
+He cupped his hands again.
+
+"Not that. Palms up."
+
+He held them up, flat, at the height of his chest, and she laid her hands on them, palm to palm, and leaned her weight in to see if he would give. He did not give. She went up.
+
+She had done it on branches since she was a girl, a handstand on a limb with the whole wood under her, until the wardens gave up shouting at her for it. On a man's hands it was easier, because the man pushed back. She went up, all the way, legs together, until the length of her stood straight over his hands, upside down, with the fire on one side of her and the sea on the other and her braid hanging down past his belt. His arms were locked. She felt his strength come up through them into her wrists, steady, and not a tremor in it anywhere.
+
+Then she opened her legs into the split, slowly, one forward and one back, until they made a line across the dark above his head.
+
+The leathers drew tight. The wardens cut them close for the trees, so that nothing catches on a branch, and they had never been asked to do this in front of a town; they told her about it all the way up the backs of her thighs. Her shirt had gone where shirts go when the wearer is upside down, which was to her ribs. The night came in over her bare belly cold, and the fire's heat after it. She held her belly hard. It was what it was for: it was the thing that keeps a body still in a tree when the branch moves under it, and it held. On the quay the whistling started. She let it go by as she let wind go by in the pines.
+
+"Sylara," said the first man, above her. "Your shirt."
+
+"I know where my shirt is."
+
+He was not looking at her shirt. He was looking down between his own hands at her face, red with the fire and the weight. It was the only thing on the quay that would tell him what came next.
+
+She closed her legs and came down out of the handstand as you come down off a high branch onto a lower one: onto his hip, onto his knee, onto the stones, without hurry.
+
+"Arm," she said. "Out. Like a branch."
+
+"I'm not a tree."
+
+"Tonight you are."
+
+He put his right arm out, bent, with the elbow braced against his hip, and the forearm as hard as oak. She went up it hand over hand. She hooked the backs of her knees over it and let go with her hands and dropped back, and hung, head down, all the length of her, with her braid swinging under her like a bell-rope and his lock in the thick of it swinging too. The quay was the wrong way up. The fires burned downward into the dark, and the sky was full of faces.
+
+His arm did not move. She could feel him take the weight of her in his whole body and decide about it, and keep it.
+
+She came up out of it all in one piece, as she came up out of a hang in the trees. She curled up from the knees with her belly doing all of it, up and up past his belt and his chest, until her face was in front of his face, the right way up, a breath away, and her hands were in his collar.
+
+He was breathing hard. So was she.
+
+Somewhere along the quay the drum had given up the Haul. It was waiting for her now, and when she moved it moved, and she did not care to look round and see who had taught Kaeso that.
+
+*Too fast.* She heard it in her head in his voice, which was unjust, because he had never once said it. He would say it now. He would look at her as he had looked at her on the roof, and see straight through all of it to the wanting underneath, and say it.
+
+She let go of his collar, and unhooked her knees, and dropped off his arm onto her feet, and stepped back from him. Then she turned her back on him and let herself fall.
+
+She did not tell him. She went over backward, straight, as a felled pine goes, with her arms at her sides and the torches swinging up over her and the stones coming; and she did not put a hand out.
+
+He caught her.
+
+He caught her across his arms, low, a hand under her shoulders and a hand under her knees, and gave with her weight, and stood up again with her, with her braid down over his elbow. She had not come within a forearm of the stones.
+
+*Holds,* she thought.
+
+She took his face in both hands and kissed him, before he could say anything at all, in case it was that.
+
+The cohort and the net-wives were shouting things she would think about later. His mouth was warm and tasted of mutton fat and smoke, and he kissed her back slowly, as he did everything, like a man who meant to stay.
+
+When she let him go he did not put her down.
+
+"You said you didn't dance," said the first man.
+
+"I don't. That was climbing."
+
+She watched him think about it, with her in his arms and the whole quay roaring at his back, and come to the end of it, and be amazed.
+
+"I've been climbed," he said.
+
+---
+
+The elves' fire was pine, and burned clean and hot and spat resin, and the black sand round it had thawed in a ring and steamed. Tuccius's lancea stood planted at the edge of the light with the gilt crown of beaks on its head, which was the kind of thing humans did with a crown.
+
+Sylara sat on the warm sand with her knees up and a rib of the Rope Street pork in her fingers, the fat gone to crackling, salt and sweet; it burned her mouth. Somebody had put a heel of Fausta's dark bread beside her, and a little white cheese rolled in ash, cold from the night, that bit the tongue. Round the fire the young wardens sat as wardens sit, still, with their bows across their knees and their hoods back, watching the humans like weather; Ilvane among them, with her slate-grey braid over her shoulder. A little way off, on the far side of the fire, the first man sat on a driftwood log among some of his forty, eating, with his back to the cold and his face to her. He had not stopped looking at her since the quay. He did not seem to know he was doing it, which was new.
+
+Prisca came down the beach with Sylara's book and a cup of the warm wine, and sat beside her on the sand in the king's red without asking. She gave Sylara the book. She drank the wine herself.
+
+"I didn't read it," said Prisca.
+
+"I know. You can't."
+
+Prisca set the cup in the sand, and turned her walnut face to Sylara in the firelight, and asked it straight out, in front of the young wardens, in the voice she used for the price of twine. "What's it like, then? With one of ours?"
+
+The young wardens went still. They had been still before. This was another kind.
+
+*One of ours.* The town had taken her for the wood's since the first day it saw her braid, and she had let it. The cohort had voted her an elf, and Fingers had her on his board as one. She had been born in a village of humans, before an army passed through it, and she remembered the tree line she had watched it from better than she remembered the village. She had told the first man once, on the hard, that she was not an elf. He had said *I know*.
+
+"He isn't yours," she said. "He's from the north."
+
+"He hauled my boat up the hard before the dead came. He let go of the rope the once, and that was your fault." Prisca waited. "He's ours. Well?"
+
+Sylara thought about it honestly. Across the fire the first man had stopped chewing.
+
+"Slow," she said. "Then not."
+
+The first man's hand went up to the place above his ear where the cork float had been, and found only his own short hair there, and stayed, as if it had gone up to scratch and forgotten what for. The young wardens turned their grave eyes on him all together. He took the hand down, and found something to look at in his bread.
+
+Ilvane had not moved at all. She sat with her hands round her knees and her face turned to Sylara, as if Sylara had said something in a language she had been trying to learn all winter.
+
+"Mine was the other way about," said Prisca.
+
+Herminia, who had followed her down the beach with half the Row, sat down in the sand. "Here it comes."
+
+"Quick," said Prisca. "Then asleep." She took her cup back out of the sand and looked into it. "Thirty winters. I mended more nets in my head lying beside that man than ever I mended on the Row. I could have mended the whole fleet." The net-wives were laughing; the young wardens were not, yet, because they were not sure they had been told a joke. "He had feet like two cod off the ice, and he put them on me every night of his life, and said *There* as if he'd done me a kindness." She drank. "I'd have him back tomorrow. Feet and all."
+
+Nobody said anything for a moment. The pine spat.
+
+Then one of the young wardens laughed, short and startled; and the net-wives laughed with him, and Prisca too. Ilvane got up without a word and walked off along the beach toward the rocks, where the forty's lookout was still sitting with his face to the far headland, waiting to be told he was wrong.
+
+---
+
+She had meant to do it properly.
+
+*Half,* she had said, in the Baths. *Rest when you come back.* He had come back, and the winter had come down, and the rest had waited, as rests do, until it began to look like a thing that might wait for good. So she had thought it out on the net-loft roof that afternoon, with the shears going under her. When the fires were down she would call the old warden from the surf and cut the lock in front of her and the hundred, because the pledge wanted wardens to see it. Then she would hold the lock out to him, and wait. And he would say it, or he would not.
+
+It should have been Sereth who saw it. Sereth would be furious for a day that she had not been asked, and then laugh for a week, as she had about the hat.
+
+The fire had burned down to a red bed with the pine-ends standing in it. The net-wives had gone back up the beach, all but Prisca, who was asleep on her side in the warm sand with her red skirt over her feet. The forty had wandered off toward the coppers. The first man had come round the fire and sat on the sand beside her, near, not touching. He had his tally-stick in his fingers, turning it end over end, as he did when he was not going to say anything.
+
+She put her hand on Sereth's knife, and drew her knees under her to stand.
+
+"The house," said the first man.
+
+She stopped, with her hand on the hilt.
+
+"On the western bay," he said. "Where the *Forward* anchored."
+
+She could not have said anything. She knelt there in the sand with her hand on the knife and stared at him.
+
+He was not looking at her. He was looking at the stick in his fingers, with the firelight on the old scar along his jaw, and on the short brown hair over his ear where he had cut a lock for her once with this same knife, and had not had enough to cut.
+
+"Tell me about the roof," he said.
+
+She looked at him a long moment.
+
+"It's a grave with a door on it," said Sylara. "You said."
+
+"I was wrong about the door."
+
+She had kept him by his trade from the first day, as she kept everybody. *The first man.* Somewhere between the door and what came after it, she stopped.
+
+Rufo turned the stick over in his fingers.
+
+"The girl," he said. "First, you said."
+
+"With your jaw."
+
+"Gods help her." He said it exactly as he had said it on the roof, word for word, so that she would know he had kept all of it. "And Sereth for the bow."
+
+"Then two more. Boys."
+
+"You said you didn't mind which."
+
+"I don't."
+
+"I said three was a great many."
+
+"You said it was a great many," said Sylara, "for a man with no house and a stick with a notch in it."
+
+He held the stick up between them, so that she could see the end of it in the firelight. She had watched him cut a notch ready in the end of it, on a wall, the night before the dead came up the slips; she had lain on the gatehouse roof and watched him do it. The end was pared back now, clean and pale, with a knife. There was nothing waiting in it.
+
+"I took the one ahead off," said Rufo.
+
+She did not need to ask him anything after that. She had come to this fire to ask, and he had asked first, and that left only the thing itself.
+
+She stood up.
+
+"Bend your head," she said.
+
+He knelt up in the sand instead, so that he was lower than she was, which she had not asked for, and bent his head.
+
+She brought her braid round over her shoulder and drew Sereth's knife. The braid fell past her waist when she let it, plaited the warden's way since she was nine, and it had never been cut. She took a lock from the tail of it, long, and cut it. The knife went through it with hardly a sound, as it had gone through his once, in the Baths.
+
+"Where's it thickest?" she said.
+
+"Nowhere."
+
+"Then here."
+
+She put her fingers into his hair above his ear, where he had cut his own for her, where the float had been. It had grown since the Baths. It had not grown much. She took what there was of it, and laid her fair lock along it, and plaited them together, small and tight, with her fingers doing it as fine as they did fletching; and she whipped the end of it with a turn of fletching thread out of her pouch, as she would whip a feather to a shaft, and finished it with a hitch. The rest of her lock hung behind his ear, bright against the brown.
+
+She heard the beach go quiet behind her before she looked round.
+
+They had come up from the surf without a sound, as they went everywhere: Faelar's hundred, along the edge of the firelight, in their grey, with the sea behind them. The old warden stood at the front of them with her white braid. Their faces had turned toward the fire, as leaves turn over before rain.
+
+Maelis began the note.
+
+It was the warden's note, that Sereth had sung on the beach the night Sylara tipped her cage: *I am here, I am passing you on.* At a pledge they sang only the first half of it, and held that, and passed nothing on. It went out low from the old warden and the hundred took it up and held it, over the surf and the fires and the whole black beach, *I am here*, and did not let it go.
+
+The cohort did not know what it was. They knew a crowd going quiet when they heard one, and a man on his knees in front of a woman, and a song. The forty ran back from the coppers with their cups in their hands and the rest of the cohort behind them, and when the note ended they cheered it as if somebody had been married.
+
+The wardens had no weddings. They had this. It was one, near enough.
+
+Rufo was still on his knees in the sand with his hand up to the place over his ear, not touching it, in case it came out. She held Sereth's knife out to him across the fire's red light, hilt first.
+
+"Lending," he said, before she could.
+
+"Bring it back."
+
+"We'll be on the same ship."
+
+"Then you've not far to bring it."
+
+He took the knife, and stood up, and put it at his belt beside his own, where it had hung once before. Then he stood in the cheering with his face doing nothing at all, carefully, which was how she knew.
+
+Prisca had woken for the singing, and was sitting up in the sand in her red, weeping without any fuss at all, as the women of the Row did everything. Sylara sat down by the last of the fire and took the bark-book out of her shirt, and opened it to the newest page, and wet the lead on her tongue.
+
+*Late Midwinter. Rufo asked.*
+
+She looked at it a long time. She did not draw the lead through it.
+
+Then she put the book away, because the witch had told her to.
+
+---
+
+**RODERIC**
+
+The boy had gone up the hill, and Roderic stood at the fire at the head of the yard with the black plum of the Vessan still at the back of his tongue, under the honey, and let it lie there.
+
+He stood with his back to the fire and the night on his face, which is how a man of his years takes a winter fire. He had a fresh cup of the town's warm wine in his hand, not yet started. The yard smelled of everything at once: pine and pitch, mutton fat spitting in the coals, cod skin blistering on the griddles, the salt-and-cask breath of the coppers. Across the yard the hatch-cover against the steam-box wall had been chalked and rubbed and chalked again until it was the color of a slate roof in rain, and near the top of it, in Fingers's best hand, *The General & the Captain* stood at a price so short it was nearly an insult.
+
+Fingers passed him with the chalk behind his ear.
+
+"You could back yourself, General," he said. "At that price you'd win a fig."
+
+"Then put me down for a fig."
+
+Fingers put him down for a fig.
+
+He had not seen her since noon, when the net-wives took her up the loft ladder an arm each. The quay said she had come down it at dusk in a cloak to the heels and gone straight along the quay to see the watch set at the slip gate, gown or no gown. He would have done the same. A watch does not set itself because there is cloth in the town.
+
+Down the quay the line of the Haul had broken round something, and he looked.
+
+The warden was upside down on Rufo's hands, with her legs split wide across the dark over his head; and he stood under her with his feet planted and his arms locked and his face gone perfectly blank, like a man holding a warhorse that has decided to dance.
+
+Roderic looked away. It was theirs.
+
+He had his eye on another pair, and had had it since the meat was cut. He had marked them early, with the eye he kept for remounts: a pair of good young animals, well fed, both looking at the same gate. One was a lanciarius called Laenas, a long-shanked lad who had gone north with her and come back with a capital haircut. The other was Scaeva of the forty. Scaeva was left-handed. Rufo put him on the right of every line, so that he hit Tharsians and not his friends. Nobody had put him anywhere tonight. Between the two of them, on the bench at the end of the honey trestle, sat a sailmaker's widow in the new blue, a broad cheerful woman called Vettia, who had been eating their figs since the fires were lit, one from each in turn. Both of them had been at the wine. Both of them were sure.
+
+It started when the warden had taken her man down to the elves' fire, and the meat was going cold on the trestles. He saw it coming the breath before it came, and too far off to do anything but watch. Laenas said something with *thief* in it. Scaeva hit him.
+
+He hit him with the left. Nobody watches a man's left. Laenas was watching the right, as any lanciarius would, and the left took him on the hinge of the jaw and put him over backward across the honey trestle, and the trestle went, and the honey with it: the pots, the board of figs, a tray of the little ash-rolled cheeses, all of it, down onto the warm stones in a slow amber ruin, with Laenas in the middle of it on his back, and the widow still on the end of the bench above him with her lap full of figs.
+
+A ring opened round them from nothing. On the one side, the Lanciarii, who had been thanked in the capital; on the other, the cohort, who had not, and remembered it. Their first man was down on the beach with other things on his mind. Somebody threw a fig. Somebody else threw a cup, with the wine still in it. Along the steam-box wall the Tharsians stood up all together to see, as they did everything, and glanced at one another, and then sat down all together and looked into their bowls with great attention. They had been told.
+
+"*Lanciarii!*"
+
+It rang from behind him, out of the dark beyond the fire, in the voice she used on a drill-field in a crosswind; and every lanciarius on the quay stood to. Laenas, flat on his back in the honey, came to attention where he lay.
+
+Then she came past the fire into the light.
+
+She was in red. That was the first thing.
+
+The second was that she had no spear.
+
+The third was that he had stopped walking. He had been going toward the fight, as he had gone toward every fight of his life, and he was standing in the middle of the yard with a full cup in his hand and could not have said when he stopped.
+
+It was the madder, the king's red, the red a shoe goes in the forge before the farrier takes it out; and the net-wives had cut it for her, not for a fisher-wife. It was plain and close through the body, and long, with a square neck that showed her collarbones and the hollow of her throat, and under the hem of it, when she moved, her marching boots. Her plaits were down over the red, fair, with the iron coming up into them from the temples. She had pushed her sleeves up to the elbow to come into it.
+
+Her right thumb was moving along the side of her forefinger, over and over, looking for something that was not there. He had seen a horseman's hand do that, with the reins out of it.
+
+Scaeva had not heard her, or had heard her and was not hers. He pushed off the wall of the ring with his left hand drawn back for Laenas, who was trying to get up out of the honey and stand to attention at the same time. She took the left wrist as it came, without hurry, and turned it, and put it up between his shoulder-blades, so that Scaeva went up onto his toes and down onto the trestle-end with his face in the figs.
+
+She had it in hand. Anyone could see she had it in hand.
+
+Then two of the forty stepped out of the cohort's side of the ring together, as brothers do, with a third behind them chewing his thumb; drunk enough to think it would be a good thing to take their man back off her, and sober enough to do it well.
+
+Roderic went through the crowd.
+
+He did not remember deciding to. He put a lanciarius aside with one hand and a net-maker with the other, not roughly, and the crowd opened in front of him because it had to. He came out of it between her and the brothers, with his back to her, and stood there, a head over the tallest of them, and looked down.
+
+"Rusticus," he said. "Thief. Salvius, his brother. Thief. Dento. Debtor. Bites his nails."
+
+They stopped.
+
+He had not raised his voice. He had said it as he had heard Rufo say it to him, on a terrace above the slips: a name, and a thing about the man. The brothers looked up at him with their mouths open. Dento took his thumb out of his mouth.
+
+"*General*," said Valeria, behind him.
+
+He did not turn round.
+
+Then a hand came flat between his shoulder-blades, and stayed there.
+
+It was the hand the rear rank lays on the front man's back, to tell him it is there.
+
+"And this one?" said Valeria. She still had Scaeva's wrist up his back.
+
+"Scaeva," said Roderic. "Left-handed. Hits people."
+
+The quay laughed. The brothers laughed, after a moment, because there was nothing else they could do. Dento went back to his nails.
+
+Vettia got up off the end of the bench. She shook the figs out of her lap, and walked past Laenas sitting up in the honey and Scaeva with his arm up his back, and did not look at either of them. She went down the quay to the coppers, where a big slow man of the forty had stood through the whole of it with his eyes shut and his lips moving. She stamped once on the warm stone in front of him.
+
+The big man opened his eyes.
+
+"Who's that?" said Valeria.
+
+"Vatinius," said Roderic. "Carter. Prays."
+
+Vatinius looked at the widow, and then over the top of her head at nothing, and said, "Thank you," to whoever was there. She took him by the wrist and walked him off to the Haul.
+
+Valeria let go of Scaeva.
+
+"You'll scour the coppers before first light," she said. "Inside and out. Both of you."
+
+"Captain," said Scaeva, to the figs.
+
+"Captain," said Laenas, from the honey.
+
+Then she came round in front of Roderic, and he saw the fury in her face, whole, the white scar standing out from her eye to her jaw, as it did when she was angry; and he waited for it, because he had earned it, and it was a fine thing to see in that color.
+
+"I had it in hand," she said.
+
+"I saw you had."
+
+"Then what were you doing?"
+
+He considered the question honestly.
+
+"Getting a better look at the dress," said Roderic.
+
+"It's a gown." Her mouth moved. "Prisca says it's a gown."
+
+"Then I'll have to look again."
+
+She looked at him. He watched the fury go out of her. It did not go all at once, and then it was gone, and something else was looking out of her face that she did not trouble to hide.
+
+Kaeso, on his cask between the fires, had stopped for the fight and started again for the Haul, and the net-wives came for her.
+
+They came as they had come at noon: Prisca at the front in the red and the big one in the blue behind her, and they took an arm each.
+
+"General," said Valeria, over her shoulder, in the voice for a breach. "I'm being taken."
+
+"Again?"
+
+They took her down the quay to the women's line. Then Prisca came back for him.
+
+She took him by the sleeve of his good coat without a word and walked him to the men's line. She put him between a fisherman and a lanciarius, and stood back to see if he was straight. He was straight. He had been straight in a great many lines. He had worn ladies' sleeves on his lance in the lists as a young man, tied on by ladies who had made up their minds before he rode out; but in all his life he had never stood in a line to be chosen, and he was nervous, and it surprised him.
+
+The drum came round. Valeria started down the line.
+
+She came down it as she came down a line at muster, at the regulation pace, with her eyes going over every man as she passed him, and the line knew it. The Lanciarii in it stood to. The cohort men sucked in their bellies. A fisherman at the far end, who did not know who she was, bowed.
+
+She halted in front of him with one stamp on the warm stone, as she would halt a file. He saw her lips shape the word *halt*, and not say it.
+
+The drum reached the cast, and he cast her.
+
+She did not go. She stood at the end of his arm with her boots planted, and did not move, and looked at him; and he laughed, which he had not meant to do in front of the town, and could not have stopped for a kingdom.
+
+"Not this one, my dear," he said.
+
+"I chose you."
+
+"So you did. Then you'll let me choose the tune."
+
+He took her out of the line by the hand and walked her up the quay to Kaeso's cask, through the Haul, so that the line had to haul round them both.
+
+"The Long Measure, Kaeso," he said. "Slow."
+
+Kaeso looked up at him, and at her, and opened his mouth.
+
+"The court one," said Roderic.
+
+His grandfather had had him taught it in the long gallery where the tourney ribbons hung, at the end of a dancing-master's cane, the same cane the court's daughters learned it under. At the tourney house the man who won the lists led out the Long Measure at the feast with the queen of the lists, and the old man would not have a grandson of his win the lists and then stand at the feast like a post. He had won the lists, often enough. He had led out a good many queens. He had not danced it since his second wife was buried.
+
+There was no pipe. Kaeso gave it them on the drum alone, slow, the old limping three, with the hitch in the middle of the bar; and the Haul ran down and stopped, and the quay drew back along the bollards in its new colors to see what the General was going to do.
+
+"Your right hand," said Roderic. "Up. Palm down. To your shoulder."
+
+She lifted it.
+
+He had seen that hand go up before, at Silverwood's south gap and at the slip gate, open, to send him; and he had gone. This time he came in under it. He laid the back of his wrist under her fingers, as the court does it.
+
+Her fingers closed on his wrist as on a haft, and she meant to hold the line with it.
+
+"Lightly, my dear," he said. "You're not holding a line."
+
+"What am I holding?"
+
+"Me. I'll not run."
+
+Her fingers eased. They did not let go. He walked her out into the cleared space between the fires, and began.
+
+The walk round, first, her fingers on his wrist, her face to his. She did not know where her feet went, so she watched them, and he heard her counting under her breath, and stumbling on the hitch every time it came.
+
+"There's a hitch in the middle of the bar," he said. "Don't fight it. It limped like that at Corvus before ever the court had it, and it won't stop limping for you."
+
+"It should."
+
+"I'll write to the court."
+
+The great turn, then, under his lifted arm. She went under it as a file wheels at a corner, in square pieces, with the red skirt swinging out and halting at each.
+
+"Round, my dear," he said. "It's a turn. Not a corner."
+
+She looked up at him with her eyes narrowed. It was the look she gave an order she meant to have explained to her later. She went round the next time. Not well. Round.
+
+She smelled of woodsmoke where the fires had got into the wool. On the walk round her thumb began to move on his wrist, along it and back, looking for the place on the Farrier's haft where her father's thumb had worn the ash smooth. It found the pulse in his wrist instead, and stopped there, and stayed.
+
+Somewhere about then she stopped looking at her boots and looked at him, and after that she did not miss the hitch.
+
+The quay had gone quiet for it. The torches smoked in their rings, and the cohort sat along the trestles with their bread in their hands and did not eat it. He thought that the court of the Old Hill, with all its painted ceilings, had never been as quiet for anybody as this fishing town was for a spearman's daughter from Callow in her boots.
+
+The passing came, and he turned her, and they went back to back.
+
+It is the figure the court likes best, because there is nothing in it: the man and the woman back to back, near enough to feel the warmth of each other through the cloth, and not touching. He felt her not like it. She had stood at the front of a line all her life, and nobody stood at her back where she could not see them unless she had put them there. He felt her decide. Then she leaned back the last little way, which is not in the figure, and her shoulder-blades came against his back, warm through the red and through his coat, and she let him have her back.
+
+"What's this one called?" she said, over her shoulder.
+
+"The passing."
+
+"I'll remember it."
+
+Then the last figure, and the end, and the yard.
+
+At court the dance ends at arm's length, with a yard of polished floor kept between the man and the woman for the bow and the curtsy. He kept it. He stepped back from her to the full length of his arm and let her fingers go, and bowed to her across the yard the full bow of his grandfather's house, the one with the hand on the heart and the head low, that had been bowed to queens of the lists and to his wives, and had not been bowed to anybody since.
+
+She did not know the curtsy. She did the thing she knew. She came to attention across the yard, heels together, chin up, her hands at her sides in the red, and stood there as she would have stood in front of a general she had not yet decided about.
+
+He straightened. Then he crossed the yard to her.
+
+He did not hurry it. He came across the warm stones at the pace of the dance with every step placed, as he had been taught under the cane; and she stood her ground and let him come. She could have closed it herself in one stride. She had closed every gap she had ever been shown in her life. She stood, and waited, and let him cross to her; and when he got there she put her hand up flat on his chest and left it there.
+
+Then the cohort was on its feet on the trestles, and up in the loft windows the net-wives were beating on the sills. Prisca's voice rose over the top of all of it, saying something about the Captain's boots that Roderic chose not to hear.
+
+He gave her his cup. She drank half of it, which was her ration, and gave him back the rest. Macro came by with a board of hot mutton folded into split loaves, and she took one and ate it standing, with her free hand under it for the fat and her eyes on the quay. He ate one too. It was hot, and the bread was Fausta's, dark, and it tasted of the hill and the fire.
+
+"You kept the yard," said Valeria, with her mouth full, not looking at him.
+
+"The court keeps it."
+
+"And then you crossed it."
+
+"The court," said Roderic, "has never seen you in red."
+
+She considered that, chewing.
+
+"No," said the Captain of the Lanciarii. "And it won't."
+
+---
+
+They went down onto the black beach with her fingers on his wrist, the court way, because she said she might as well practice it while she had it.
+
+The sand was warm round the fires and frozen between them, and the crust broke under her boots like biscuit; the elves' pine had burned low and red, and the resin caught at the back of the throat. By the elves' fire Rufo sat among his forty with the warden's knife at his belt beside his own, and something fair worked into the short hair over his ear, and the look of a young man the morning after his first ribbon. Roderic did not ask. A man does not want asking about a thing done to his hair in front of Faelar's hundred.
+
+At the end of the beach, where the spring ran out under the sand into the sea, the surf came in steaming, and the cohort was there in a body, shouting.
+
+Florus was in the sea.
+
+He stood in the warm shallows up to his chest in his shirt, with the steam going up round him and his hair still wetted flat to his skull for the occasion. Behind him, with one webbed hand in the back of his belt, stood the sea-woman who had pulled him out from between the hulls at the Teeth. She was in her sealskin, with her blue hair plastered dark down her back, and she was laughing so hard she had to put her face into the sea to stop, and could not stop, and came up still laughing.
+
+"He got to the end of it," said Ear, beside Roderic, to nobody. "The whole speech. *Madam.* She's been like that since."
+
+Behind their green jars at the edge of the wash, the merfolk had taken it up. "*Madam!*" they called to her, in their thick sea-voices, and the children of the town, who were sitting among them, called it too. "*Madam!*" The sea-woman waved at them over her shoulder, and went under again.
+
+"Kick, Florus!" shouted the cohort.
+
+"Shut your mouth when you go under!"
+
+"Let go of her!"
+
+"Don't let go of her!"
+
+Florus did not let go of her, chiefly because she had him and not the other way about. He lay forward on the warm water as she told him, with his chin up and his eyes shut and his face set like a man going up a breach, and kicked, and went nowhere. She walked along behind him in the steam with her hand in his belt, and talked to him low in the sea-speech, which he did not understand a word of, and seemed to like.
+
+"Keep his chin up, madam," Roderic called to her, "and the rest of him will follow."
+
+She looked round at him. Then she put her forehead down on the small of Florus's back and laughed until Florus nearly went under, because now there were two of them.
+
+"He'll drown," said Valeria.
+
+"Not tonight."
+
+"He can't swim. He's said so before every boat."
+
+"He's learning," said Roderic. "There are worse teachers."
+
+On the rocks at the end of the beach, above the steaming wash, sat Strabo with his face to the far headland; and beside him, not moving at all, a young warden with a slate-grey braid. They were not looking at each other. Roderic and Valeria passed below them, and heard them.
+
+"A goat on the headland," said Strabo. "Under the thorn."
+
+"A goat and her kid," said the warden.
+
+There was a pause.
+
+"A goat and her kid," said Strabo. It had cost him something.
+
+Out beyond the moles, on the black water, a light was coming in toward the gap, low, swinging a little as it came.
+
+"A boat," said the warden at once.
+
+"That's the *Sabina*," said Strabo. "Lucco's. He's taken Sabina out in her to see the fires from the water. He hangs his lamp on the steering oar, and it swings when he talks, and he's a talker." He considered. "They name their boats for their wives here. Same as Prisca's."
+
+The warden turned her head and stared at him. She stared at him as at a man who had cheated at something sacred, in front of witnesses, and she wanted badly to know how.
+
+"You cannot see a name at that distance," she said.
+
+"Don't need to. I know how Lucco talks."
+
+Roderic thought better of the boy for it. You know a rider at a mile by how he sits, if you have once seen him ride.
+
+The fires burned down along the beach as they walked, to red and then to grey. Faelar stood at the edge of the wash with the sea going in and out round his boots, looking along the sand at the people by the fires, and at the rocks, and at the steam over the warm shallows.
+
+"Eleven," he said.
+
+"Eleven what?" said Roderic.
+
+The elf did not answer. He did not seem to have heard the question, or to think it was one.
+
+---
+
+They were halfway back along the quay, between the fires, when something gave up on the headland.
+
+It carried down to them high and plain over the drum: a crack of timber, and a long complaint after it. Kaeso lost the beat. Along the slip gate a lantern began to move, and then another, which was Pacuvius turning out the watch. Valeria had stopped dead on the stones.
+
+"That's not Tharsians," said Roderic.
+
+"What is it?"
+
+"Fingers had evens on it."
+
+She looked up at the fort on its headland, with its windows lit, and he watched her understand it; and she laughed.
+
+He had hoarded that laugh once, like a miser, because it came so seldom. Somewhere about the honey trestle tonight he had stopped.
+
+The Haul had begun again under the bollards, slower now, with the old ones dancing it. A woman in the undyed was dancing it with a thin dark fisherman with a broken nose, and the quay was watching them and making a noise about it.
+
+"That's the stolen wife," said Roderic.
+
+"Whose?"
+
+"Both of theirs." He watched her go out on the cast and come back. "That one stole her off another fisherman. The council sat on it three days and gave her back, and she didn't want to go. They're still sitting on it."
+
+At the end of the cast she let go of the man who had stolen her, and walked away down the quay, past the coppers, past the honey, to the sea-gate steps, where Old Baebius sat with his hood up over his one ear and a bowl of the salt beef on his knees. She stamped in front of him.
+
+"He voted for her," said Roderic. "In the council. The only one. He votes against the town on everything, and it happened to be her side."
+
+Old Baebius looked up at her from under the hood.
+
+"On principle," he said, and went back to his beef.
+
+She stood there. She did not stamp again. She stood in front of the crown's seat with her arms folded until the old man set the bowl on the step, and wiped his mouth, and got up. He took her down onto the stones and danced the Haul with her as he closed a file, from the back, late, and without mercy.
+
+"Twelve," said Faelar, behind them.
+
+Roderic had not heard him come up the quay. He had not heard him come anywhere, ever. The elf was watching the old man go out on the cast with the stolen wife, and he said it as Roderic had never heard him say a number before, as if it were good news.
+
+They went up the crown's road with her fingers on his wrist.
+
+Above the gutters the road was frozen white, and the noise of the quay followed them up and grew small. His back was whole. He could have carried her to the top of the road and down again. He gave her his wrist instead, as the court does it, and she walked up beside him in her red with her boots ringing on the ice, and kept her fingers where he had put them.
+
+His grandfather had said that nobody cheers the man who walks home. The old man had been right about that. He had been wrong about what it was worth.
+
+---
+
+The stable lay under the north wall, where the spring rose under that side of the hill and kept the flags warm all winter, and it smelled of horse and hay and old leather and, faintly, of the eggs in the spring. Tam was asleep in the straw by the door, rolled in a horse-blanket. In the last stall Thistle put her head over the door to see who it was; and saw the red, and laid her ears flat back.
+
+"She doesn't know you," said Roderic.
+
+"She knows me." Valeria looked the mare in the eye. "It's the gown."
+
+"She's never seen you in a gown."
+
+"Nobody has."
+
+"I have now," said Roderic; and the mare, who did not hold with any of it, blew at them both and turned back to her hay.
+
+His room was up a ladder-stair at the end of the stable, over her stall. It had been the garrison's harness-room, under the eaves, and the warmth of the spring and the horses came up through its boards all winter. He had taken it the first week, because a man who had carried a bad back since the Long Field does not choose a room up a tower stair when he can have one up a ladder over his horse. He had kept it after the back was mended, because he liked it. He did not bar the door. Tam slept in the straw by the stable door and the mare under the floor, and no army in the isles could have come up that ladder quietly.
+
+She went up first. He stood at the foot and watched the madder go up the rungs ahead of him with her marching boots under it, and her plaits swinging down her back, and thought it the best thing he had seen all night, which was saying a good deal.
+
+There was a lamp on the chest, and he lit it. There was his bed, which he had had the town's joiner lengthen; a saddle across a trestle with the soap still on it; and in the corner, on its stand, the Long Field mail. The room smelled of saddle soap and lamp oil and warm boards. Valeria stood in the middle of it in her red, with the lamp throwing her shadow up the slope of the roof.
+
+"It laces at the back," she said.
+
+"So I see."
+
+"Prisca laced it. On purpose. She said so in front of the whole loft. She said a gown that laces down the front is a gown a woman can get out of by herself, and where's the use in that."
+
+"Prisca," said Roderic, "is a woman of rare judgment."
+
+"The loft had a book on it."
+
+"On what?"
+
+"How long you'd take." She did not look at him. "The big one in the blue said you'd have me out of it on the ladder. Prisca said all night."
+
+"Then I'd hate to cost Prisca money."
+
+"I've never been unlaced," said Valeria.
+
+He waited.
+
+"By anybody. I lace my own. I've laced my own since I could reach behind me." She stood straight in the lamplight. "I'd not have let them lace me, if I'd seen where they were going."
+
+"Turn round, my dear."
+
+She looked at him. Then she turned round, and stood with her back to him in the middle of his room, with her plaits down over the red, and her hands at her sides. She had done it once already tonight, on the quay, with the drum going. Now she did it with no drum.
+
+The lacing was a cord of the madder, the same red, drawn through eyelets the net-wives had worked by hand all the way down her spine, and at the top of it, at the nape, under her plaits, they had tied it off with a knot he did not know. A net-wife's knot. It sat there small and hard and pleased with itself, and it would not give to his fingers.
+
+"Cut it," said Valeria.
+
+"No."
+
+"There's a knife on your belt."
+
+"It's the king's cloth, and the women of this town sat up the whole of a day over it, and I'll not put a knife to it."
+
+"Cut it, General. That's an order."
+
+"On the quay the woman chooses, my dear," said Roderic. "After that, she's danced."
+
+He worked at the knot. He had picked out a wet girth knot with cold fingers in the dark more times than he could have said, and a hay-net hitch that a mare had pulled on all night, and this was no worse; it only took patience, and he had brought plenty of that up the ladder. It gave. He drew the cord out of the first eyelet.
+
+"There's a great many eyelets," he said.
+
+"Then you'd best get on, General. Prisca has money on you."
+
+He laughed into her plaits, and did not get on. He took them as they came, one at a time, the cord sliding through each with a little whisper of wool; and the red opened down her back as the eyelets let go, and the lamplight went in.
+
+He had seen her back before. He had never seen it given to him. There was the long groove of her spine going down, and the muscle either side of it that the lancea had laid there year on year, and the brown at her neck where the sun got in at the collar of her mail, and below the brown, pale. Over the shoulders, where the mail rode, the skin had galled and healed and galled again since she was a girl; this winter the galls had gone down to faint smooth places, like leather that has been oiled.
+
+She smelled of the dye-vat, and the fire, and under those, faintly, of horse liniment.
+
+He had put the crock in her kit himself the night before she sailed north, with its stopper tied down with hair from the mare's tail, and no note, because he had not known what a note would say. He had not asked her since whether she had used it. Here was his answer, without one either. He did not know why the smell of horse liniment should undo a man of his years, in a room over a stable, and it did.
+
+He put his mouth on the place over her right shoulder where the mail had galled her, and felt her go still under it.
+
+"Roderic," she said. It was not an order.
+
+He finished the laces. Under the gown the women had made her a shift of the king's linen, so new that the folds of the bolt were still in it, and it was the only thing in the isles he had ever seen that was whiter than her skin where the sun had not got to it. He took the red off her shoulders, and it slid past her hips with its own weight, and lay round her boots on his floor.
+
+She stepped out of it, and out of her boots, and turned round to him in the shift.
+
+He did not say anything clever. He had a number of clever things ready, and none of them would come. She looked at his face, and whatever she saw in it made her lift her chin; and then she lifted her right hand, palm down, to the height of her shoulder, and held it out into the place where he should stand.
+
+He laid the back of his wrist under her fingers, and walked her to the bed, at the pace of the dance.
+
+"Is this the court way?" she said.
+
+"The court stops at the yard."
+
+"And after the yard?"
+
+"After the yard," said Roderic, "it's mine."
+
+He took the shift off her over her head, and the plaits came up with it and fell back; the net-wives had tied them off at the ends with a thread of the madder, in place of her thong, and he left them as they were. Then he stood back to undress, and did it without any hurry at all, because she had decided to watch, and he had decided to let her. She watched him as she watched a file turn out for inspection: all of him, the whole length, from the beard down, and she did not find a buckle wrong. When he was done she put out her hand flat on his chest, over the grey, and kept it there, and he felt her thumb move once, looking, and stop.
+
+He laid her on his bed in the lamplight, and came down over her with his weight on his forearms, and kissed her, slowly, as he had been meaning to all night.
+
+He took his time. Prisca had said all night. Valeria had never had time to spare in her whole life, and he meant to give her some of his. He kissed the hollow of her throat, where her pulse went, and the line of her collarbone that the square neck had shown the whole quay, and lower; and when she reached down between them to hurry him on, he took her wrist in his hand, in no hurry, and laid it back on the blanket by her head.
+
+"No," he said.
+
+She looked up at him with her brown eyes gone wide. Then she laughed under him, short and astonished, and let her hand stay where he had put it.
+
+He came into her slowly, all the way, and held there, with his forehead down on hers, and neither of them moved. Below them the mare shifted in her straw. Then he began, and he did it in the old limping three, *one* two three, with the hitch in the middle of the bar, because it was in him tonight and he could not have got it out; and he felt her know it.
+
+"That's the hitch," she said, not steadily.
+
+"It's limped like that for a long time."
+
+"Don't fight it?"
+
+"Don't fight it."
+
+She did not fight it. She had it wrong once, and then she had it; and the next time the hitch came round she was there before him, and took it, and turned it on him, so that it was his breath that went, and his turn to swear. He felt her laugh at that, all down the length of her. He did not mind. It was her hit. He had come to the end of minding about anything a long way back down the crown's road.
+
+After that there was no drill in it at all. She had her heels behind his knees and her hand flat on his chest, holding on, and her head back in the plaits, and he kept the pace he had set, slow, and did not let her hurry it, and did not hurry it himself; and it came up in her from a long way down, the whole length of her, until she could not hold it; and she did not make a sound until then, and then she made a great deal of one. The mare stamped under the floor. He followed her with his face in her neck and her name in his mouth.
+
+The lamp burned down. The noise of the quay came up to them now and again under the eaves, the last of it, a drum and somebody singing *Past the Kettle* with the words wrong, and then not even that. The frost had got into the slates over his head, and he could hear them tick as they took it.
+
+The red gown hung over the Long Field mail on its stand in the corner, where she had put it when she got up for water, so that the old harness looked as if it had gone to a feast.
+
+She lay along his side with her head on his shoulder and one plait across his chest, and her right hand lay open on his chest beside it, in the grey.
+
+He lay and looked at it a long time, in the last of the lamp.
+
+The thumb was not looking for anything.

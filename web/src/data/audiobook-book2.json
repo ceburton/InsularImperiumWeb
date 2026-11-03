@@ -6,8 +6,8 @@
       "title": "Chapter One: The Dullest Day",
       "duration": 2568,
       "bytes": 20635303,
-      "sha256": "a9e7576f61779fa8e20db527edad3807d3e98daa43dd9ff3fc89f1caaceebd41",
-      "url": "https://audio.insularimperium.com/book2/v/a9e7576f/ch01-the-dullest-day.mp3",
+      "sha256": "e159cd36c8df3bbb9de5e1d4160bcd12eeaa8074609e29d97b81c0324f9d21ad",
+      "url": "https://audio.insularimperium.com/book2/v/e159cd36/ch01-the-dullest-day.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -22,8 +22,8 @@
       "title": "Chapter Two: The Cold Grounds",
       "duration": 3504,
       "bytes": 28119464,
-      "sha256": "789408419adb88d2ed4d1241f0666cf4f444016290d310b6db921363c0f95b68",
-      "url": "https://audio.insularimperium.com/book2/v/78940841/ch02-the-cold-grounds.mp3",
+      "sha256": "47016d8a565361347ca433f6e98a27f52807bb652670a040ce72e1004b4c5b03",
+      "url": "https://audio.insularimperium.com/book2/v/47016d8a/ch02-the-cold-grounds.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -38,8 +38,8 @@
       "title": "Chapter Three: Who Gave Him Leave",
       "duration": 3264,
       "bytes": 26201388,
-      "sha256": "82e789a46d4aecb671c35f53e8aa9cfa89aa00afa600f3b8b604178192359437",
-      "url": "https://audio.insularimperium.com/book2/v/82e789a4/ch03-who-gave-him-leave.mp3",
+      "sha256": "c5c47b8cd37dadfe6d3a305f68b8d54a0c6832b46627c19ee8c885d3b5caeeab",
+      "url": "https://audio.insularimperium.com/book2/v/c5c47b8c/ch03-who-gave-him-leave.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -54,8 +54,8 @@
       "title": "Chapter Four: Eat What I Eat",
       "duration": 3071,
       "bytes": 24654055,
-      "sha256": "d810734851313666e9ba499227d6252128264aa6b07bdf863980439dd652fdfe",
-      "url": "https://audio.insularimperium.com/book2/v/d8107348/ch04-eat-what-i-eat.mp3",
+      "sha256": "8b8489e0e71a6c6fdb28dd6468776941ba214292474c80f4970de4fbab32eb04",
+      "url": "https://audio.insularimperium.com/book2/v/8b8489e0/ch04-eat-what-i-eat.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -74,8 +74,8 @@
       "title": "Chapter Five: Pressure, Applied",
       "duration": 1745,
       "bytes": 14046250,
-      "sha256": "dc5d514ac3e5ef4bbdc21acdcc70480c975f572fd7f4597f17425dcf189da77e",
-      "url": "https://audio.insularimperium.com/book2/v/dc5d514a/ch05-pressure-applied.mp3",
+      "sha256": "ed1f7ac6ed529d20a124af3e4a3b80a4f35986441ee80f7e6c8f052643400441",
+      "url": "https://audio.insularimperium.com/book2/v/ed1f7ac6/ch05-pressure-applied.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -90,13 +90,33 @@
       "title": "Chapter Six: Late Midwinter",
       "duration": 2971,
       "bytes": 23853414,
-      "sha256": "8a484ec4621141e0ab48d8d313e5c63addaf5566a1f394cf23535d15e8c6baf5",
-      "url": "https://audio.insularimperium.com/book2/v/8a484ec4/ch06-late-midwinter.mp3",
+      "sha256": "3eee509641cfeee72a6388b548cabf191e9efdbc725769ed8b0cbaffe7dfc60d",
+      "url": "https://audio.insularimperium.com/book2/v/3eee5096/ch06-late-midwinter.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
           6.1,
           "Marcus"
+        ]
+      ]
+    },
+    {
+      "track": 7,
+      "slug": "ch07-the-court-way",
+      "title": "Chapter Seven: The Court Way",
+      "duration": 3702,
+      "bytes": 29701735,
+      "sha256": "da2437d6ce50e147301febbdcd3a72dce43c3e3da2a3e1146cd3d597ccc42e90",
+      "url": "https://audio.insularimperium.com/book2/v/da2437d6/ch07-the-court-way.mp3",
+      "firstPublished": "2026-11-03",
+      "pov": [
+        [
+          5.9,
+          "Sylara"
+        ],
+        [
+          1533.4,
+          "Roderic"
         ]
       ]
     }

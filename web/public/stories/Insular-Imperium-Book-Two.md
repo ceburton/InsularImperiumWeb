@@ -3510,7 +3510,7 @@ The stable lay under the north wall, where the spring rose under that side of th
 
 "I have now," said Roderic; and the mare, who did not hold with any of it, blew at them both and turned back to her hay.
 
-His room was up a ladder-stair at the end of the stable, over her stall. It had been the garrison's harness-room, under the eaves, and the warmth of the spring and the horses came up through its boards all winter. He had taken it the first week, because a man who had carried a bad back since the Long Field does not choose a room up a tower stair when he can have one up a ladder over his horse. He had kept it after the back was mended, because he liked it. He did not bar the door. Tam slept across the foot of the ladder and the mare under the floor, and no army in the isles could have come up it quietly.
+His room was up a ladder-stair at the end of the stable, over her stall. It had been the garrison's harness-room, under the eaves, and the warmth of the spring and the horses came up through its boards all winter. He had taken it the first week, because a man who had carried a bad back since the Long Field does not choose a room up a tower stair when he can have one up a ladder over his horse. He had kept it after the back was mended, because he liked it. He did not bar the door. Tam slept in the straw by the stable door and the mare under the floor, and no army in the isles could have come up that ladder quietly.
 
 She went up first. He stood at the foot and watched the madder go up the rungs ahead of him with her marching boots under it, and her plaits swinging down her back, and thought it the best thing he had seen all night, which was saying a good deal.
 

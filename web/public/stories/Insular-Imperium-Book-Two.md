@@ -2652,7 +2652,7 @@ It climbed the hill from the water in its steps of roofs, every window lit and t
 
 He had asked none of them. They had come.
 
-Fingers had his book up by then, at the head of the slip-yard: an old hatch-cover propped against the steam-box wall, chalked from edge to edge. Names ran down the left of it with the odds beside them, and a crowd round it was laying money and arguing. THE GENERAL & THE CAPTAIN. THE OPTIO & THE ELF. OPPIUS & THE PEEL. ATTICUS & THE GOATS. There were more under those, and Fingers was chalking another while Marcus watched, with his tongue in the corner of his mouth.
+Fingers had his book up by then, at the head of the slip-yard: an old hatch-cover propped against the steam-box wall, chalked from edge to edge. Names ran down the left of it with the odds beside them, and a crowd round it was laying money and arguing. *The General & the Captain*. *The Optio & the Elf*. *Oppius & the Peel*. *Atticus & the Goats*. There were more under those, and Fingers was chalking another while Marcus watched, with his tongue in the corner of his mouth.
 
 Pen sat on an upturned basket at the end of the board with a board of his own across his knees and a sheet of paper on it. He was copying the hatch-cover into a letter in a hand like a herald's, odds and all. He put Fingers's spelling right as he went.
 
@@ -2742,7 +2742,7 @@ She took her leg down from his shoulder without hurry, and shook the skirt strai
 
 They left soon after.
 
-Behind them Fingers was at his hatch-cover with a rag, rubbing out a corner of it. He chalked a new line in the corner, large, THE BED, and turned round to the quay with the chalk up.
+Behind them Fingers was at his hatch-cover with a rag, rubbing out a corner of it. He chalked a new line in the corner, large, *The Bed*, and turned round to the quay with the chalk up.
 
 "Book's open on the bed!" Fingers shouted. "Does she hold? Evens, you thieves! Evens!"
 
@@ -2792,7 +2792,7 @@ Out at the seaward end, where the steam did not reach, Tuccius had his boys at d
 
 Macro had a pan over the last fire in the yard, frying the ends of the pork in the king's oil, and the smell of it cut through the cold to the back of the throat. The cohort sat about on the trestles with pork in the end of a loaf, and the cold mutton, and the last of Galla's cheese, with the frost on their shoulders.
 
-Fingers sat at his hatch-cover with his purse open, paying out on the bed. Across THE BED in the corner somebody had chalked WENT, and underlined it.
+Fingers sat at his hatch-cover with his purse open, paying out on the bed. Across *The Bed* in the corner somebody had chalked *Went*, and underlined it.
 
 Every man who came up to be paid looked at Marcus first, before he held out his hand.
 

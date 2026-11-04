@@ -20,6 +20,7 @@
 14. [Chapter Fourteen: The Long Stepped Lane](#chapter-fourteen-the-long-stepped-lane)
 15. [Chapter Fifteen: To Be Collected](#chapter-fifteen-to-be-collected)
 16. [Chapter Sixteen: Light of the Forge](#chapter-sixteen-light-of-the-forge)
+17. [Chapter Seventeen: Lamps](#chapter-seventeen-lamps)
 
 ---
 
@@ -10096,3 +10097,733 @@ Macro said it.
 Then he stood at the taffrail with his hands on it, and looked back over the wake at the mountain, at the high grass going dark below the vents, where, Gaius supposed, there was a byre, and a stool, and somebody counting; and he stood there as though there were one more name at the end of it.
 
 He did not say it. Then he went forward, and lay down by the iron, and slept.
+
+---
+
+# Chapter Seventeen: Lamps
+
+**MARCUS**
+
+They raised Cyrene at dusk, on the last of a flood that had carried them the length of the Kettle's edge since noon, and the first thing Marcus smelled of it was the steam.
+
+It came out to meet them past the outer mole, before there was anything to see but the grey of the water and the darker grey of the headland: sulphur and wet stone and woodsmoke and fish, and under it the warm rotten-egg breath of the gutters, which he had complained about every day for a year and had missed every day for two months without once knowing that was what he was missing. Somebody on the benches behind him said "Oh, *gods*," in a voice of pure love. The *Forward* was low in the water with the iron, and slow on the helm with it, and Nerva had been swearing at her quietly since the Kettle in the tone a man uses to a horse he likes.
+
+Marcus stood in the bow with his hands on the rail. They were cold, and the rail was wet and gritty with salt, and he could feel the iron in the ship under his boots: not as weight any more, but as a stiffness in the whole of him, like a load carried so far that it would only go when he put it down.
+
+Then the town came out of the dusk, all at once, the way it always did from the sea: the black beach, and the moles with their towers, and the long quay under its steam, and the houses going up the hill in steps to the dark of the fort against the last of the light. There were lamps in it. He had not expected so many. A town that had sat in the dark for three years under a Tharsian garrison, with its shutters closed after the curfew bell, had taken to lighting its windows since, and every winter evening of the year past he had watched the lamps come on up the hill from the tower, one and then another, like a town remembering how.
+
+He looked for Prisca's first, from habit, at the end of Netmakers' Row, high up, looking out through the gap. It was there.
+
+Then he saw the other two.
+
+One was down at the foot of Rope Street, over the bakehouse. One was at the head of the long quay, in the small square window beside the door of the harbor master's house. They were the same light as Prisca's, low and red, a clay lamp's light and not a candle's, and they were set the same way, with their backs to the room, looking out at the sea.
+
+He knew what they were. He had seen a hundred of them in the garrison's stores when the fort fell, red clay lamps with the closed hand stamped on the shoulder, and had thought then that they were for the barracks. Liora had told him otherwise, afterward. The Tharsians kept them. A lamp in a window for one who was gone.
+
+He had Tuccius's letter inside his coat. He had read it so many times that the folds were soft. *Arruns and Velthur are dead there.* He had not known there would be lamps.
+
+"Whose are those?"
+
+He turned. The quaestor was standing at the rail a few feet off, between the two Lanciarii who had had her in their keeping since Stoneheart, with the blanket held shut at her throat and her copper hair braided down her back without a pin in it. She had spoken no word to him since Stoneheart, except to thank him for her rations, which she did every day, in the tone of an entry. She was looking past him at the town.
+
+"Two men of Thessa," said Marcus. "They worked our slips. They died at the slip gate in the raid."
+
+She nodded slowly. He saw her find the two lamps, and look from one to the other, and then up the hill to Prisca's.
+
+"And that one?"
+
+"A rower. A Tharsian. He drowned in the cold grounds in the autumn, in a squall."
+
+"Who lit it?"
+
+"A widow of the town. It was her husband's boat."
+
+The quaestor was silent for a time. The *Forward* came round the end of the outer mole, slow, with Nerva leaning on the helm, and the tower on the mole-head went by close enough to touch, with a man on it lifting his arm.
+
+"In Lessa every street has some," she said. "On the quay, where my father weighs, there's a house with nine." She said it as a clerk reads back a figure, to be sure of it. "My mother keeps one. For her brother. He was in the quarries." Her eyes stayed on the bakehouse window a moment longer. "I didn't know you did it here."
+
+"We don't," said Marcus. "That's yours."
+
+She turned her head and looked at him then, with those amber eyes the roll called yellow, and he could not read what was in her face. He supposed that was intended. Then she turned back to the town, and drew the blanket closer, and was a prisoner again, standing where she had been told to stand.
+
+---
+
+They came alongside the long quay with the light nearly gone, and the town was on it.
+
+Not in a crowd. He had thought it would be a crowd. There had been a crowd at Midwinter, with torches in every bollard and the whole of Cyrene pressed to the edge to see the king's stores come in. This was something else. The town stood back along the quay in the steam in ones and twos and families, with its shawls over its heads against the damp, and waited, and did not shout; and at the foot of the place where the plank would come down, in two ranks, with torches where their ash poles should be, stood Tuccius's boys.
+
+There were not as many as there had been. Marcus counted none of them. He saw the gaps.
+
+The plank went down. He went down it first, because he always had, and his legs had the sea in them, and the quay came up to meet him harder than it should have and went on moving under his boots a little after it had stopped.
+
+"Highness."
+
+Tuccius had come forward a pace from the head of his ranks. He was in his old Lanciarii leather with a helmet under his arm and his grey hair cut close, short and broad as a bollard, with his broken nose, and through his left eyebrow there was a new seam, white and puckered, that Marcus had not seen before. He stood the way he had stood on the bridge-head of the *Audit*, which was to say like a post driven into the stones.
+
+"The town's—" said Tuccius, and stopped.
+
+"I read it," said Marcus.
+
+Tuccius nodded. He rubbed the end of his nose with the back of his wrist, quickly, a drill-master's habit with a hand that had a helmet in it, and fixed his eyes on a point somewhere past Marcus's shoulder, at the *Forward*'s rail.
+
+"I'll give you the rest in the morning, Highness. It's written." A pause. "Ennia wrote it. I said it."
+
+"I know. I read her hand."
+
+"She'll be glad of that. She's particular." Tuccius tipped his head down the line of his boys. "There's the one you'll want."
+
+Marcus had already seen him. He would have known him without the letter: the biggest of them by a head, at the end of the front rank where he had always stood, with his torch held out in front of him in both hands like a sweep, and his slow wide face set hard and red in the cold. Down his left cheek from the bone to the jaw ran a ridge where somebody had sewn it, healed now, standing out pale in the torchlight. It made him look older. It did not make him look less like a boy.
+
+He walked down the rank to him. The boys stood still.
+
+"Pullus," said Marcus.
+
+The boy swallowed. "Highness."
+
+Marcus put his hand on his shoulder, and left it there. Under the damp cloak the shoulder was as broad as a man's and as hard, and it was shaking. Marcus did not say anything. He had thought, at Stoneheart, standing on the edge of the platform in the wind with the letter in his hand, that if he ever got here he would not know what to say to this boy, and he had been right, and it did not matter. He stood there with his hand on him. Then he took it away and went back up the rank to where Tuccius was standing, and put his hand on Tuccius's shoulder too, and Tuccius kept his eyes straight ahead on the *Forward*'s rail, and his jaw worked.
+
+Behind Marcus the cohort was coming down the plank.
+
+They came down it slowly, for once, and quietly, and at the foot of it they stopped, like men waiting to be let in. Then a woman came out of the line along the quay with her shawl down round her shoulders, a net-wife from the Row by her hands, and walked straight up to Tappo and took his face in both her hands and looked at it, and let it go, and went back to her place. The town came in off the edges. Somebody said *Rufo* in the voice of someone who has been saying it to themselves for weeks to see if they had it right. A child shrieked. Macro went past with his hands in his beard, saying names under his breath. Kaeso, with the crown's drum on his back, was seized by three women at once and passed from one to the next and handed back to the cohort somewhat flattened.
+
+Atticus came down the plank with his sling round his waist. A girl of about ten was standing at the end of the front rank of Tuccius's boys, where she plainly had no business to be, with straw in her hair and a sling of her own wound round her fist, and a small hard set to her mouth that Marcus had seen before, in the front row of a letters class, when a word would not come.
+
+Atticus stopped. She stared up at him. He reached out and turned the sling in her fist so that the pouch hung the right way, and walked on up the quay without a word. The girl looked down at the sling and back at his back, and then up at a woman in a black kerchief standing behind the torches with her arms folded, who was not looking at the girl.
+
+---
+
+Fausta was at the far end, where the quay met the foot of Rope Street, with a basket.
+
+She had not come forward. She stood where the light from her own bakehouse door fell out across the stones, small and broad in an old apron with her sleeves pushed up, like a woman come out to see what the noise was who would be going in again directly, and the basket on her hip was covered with a cloth, and steamed. Above her, in the window over the drying loft, the red lamp burned with its back to the room.
+
+Oppius saw her from the plank. Marcus saw him see her: the big man stopped dead in the middle of the plank with a sack of the halls' dried beef on his shoulder and two men behind him walking into it, and stood there, and then came down the rest of the way and along the quay with the sack still on his shoulder, as though he had forgotten it, past the town and the boys and the cohort, and stopped in front of her.
+
+Marcus did not mean to go after him. He had gone a little way along the quay all the same, as had a good part of the cohort, slowly, looking at other things.
+
+"You're thin," said Fausta.
+
+"They've no ovens," said Oppius. "Up there. They cook on the forge."
+
+"I heard." She took him in from his boots to his face. "I had your letter."
+
+Oppius shifted the sack on his shoulder.
+
+"Ennia read it me," said Fausta. "Twice. Then the third time I had her read me the struck bits."
+
+"I struck those."
+
+"I know you did." She lifted the cloth off the basket, and put it back. "She read me those slower."
+
+The quay had gone quiet round them. Oppius's face, in the light from the bakehouse door, had gone the dark dull color of a loaf left too long, and his one eye was fixed on a point some way above her head.
+
+"That bit about the morning," he said. "That was the clerk."
+
+"Was it." She glanced past him along the quay, to where Pen was standing by the plank with his ink-case on its strap, pleasantly, watching the town. "Tell your clerk his hand's too good for you. You'd never in your life have said *the light of it on your face*."
+
+"I didn't. I said strike it."
+
+"You said it to him first," said Fausta, "or he'd not have had it to strike."
+
+Oppius opened his mouth, and shut it.
+
+She took the cloth off the basket again, and took out a loaf, round and dark-crusted and split across the top where the steam had burst it, and held it out to him. He stared at it. Then he put the sack down on the stones at last, carefully, like a thing that might break, and took it.
+
+"First out," said Fausta. "It's for you. Not the fort." She put the cloth back. "The fort can wait for the second."
+
+She turned round and went into the bakehouse. She left the door open.
+
+Oppius stood on the quay with the loaf in his two big floured hands, and steam coming off it into the cold. Then he picked up the sack again and went in after her, and the door stayed open behind him, and the light lay out across the stones.
+
+Somewhere behind Marcus, Fingers said, in a low voice of real grief, "And I'd no book on it."
+
+---
+
+They brought the quaestor down last, when the town had begun to spread back into itself.
+
+Marcus had told the Lanciarii to bring her down last. He had not wanted her paraded. But it was a small town and a long quay, and there was no way up from the water that did not go along it, and he had not thought, until he saw it, what she would look like to them.
+
+She came down the plank between her two guards with the blanket held at her throat, and stepped onto the stones, and stopped, as everyone did, while her legs found the land. The Survey's black showed under the blanket where it fell open, high at the collar, cut close, and at the sight of it the quay changed.
+
+He felt it go along the stones like a change of wind, which a man feels on his face before he sees it on the water. Talk stopped. A woman by the steam-box wall put her hand on her child's head. At the wall itself, where the prisoners sat over Ancus's pots, a man got up, and then three more, and then a good many, not quickly, with their bowls still in their hands, and stood, as Tharsians stand for an officer, without being told; and the quaestor saw them, and something went over her face and was gone.
+
+Nobody said anything to her. They looked.
+
+They watched the black and the high collar as they had watched for three years at the black coats coming down the crown's road with a clerk behind them, and he saw Orso, at the door of his house with the rope still hanging on it, fold his arms.
+
+The quaestor walked. She held her head up and kept her eyes ahead, between her guards, along the quay toward the foot of the crown's road, at a pace that was neither fast nor slow.
+
+Liora fell in beside her.
+
+She had come down off the *Forward* with her satchel and been taken at once by a knot of the town's women, as she always was; and now she simply left them, with a word, and walked up the quay at the quaestor's side, on the side nearest the town, in her white sleeves, not touching her, not looking at her, as though she happened to be going the same way. Marcus watched the looks on the quay come off the black and go to the white, and stay there, and lose their edge, puzzled; and the women who had been about to say something did not say it.
+
+At the foot of Rope Street the quaestor's step faltered once.
+
+She was looking up at the bakehouse window, where the red lamp burned. She kept her eyes on it all the way past, turning her head, and Marcus, a few paces behind, saw her lips part and close again.
+
+Alana had come down the plank behind him. She had been in the stern, with the weather-book under her coat against the damp, and he had not seen her come; now she was at his elbow, watching the quaestor's back go up the quay between the guards and the white sleeves.
+
+"She looked at the lamp," Alana said.
+
+"She knows them. Her mother keeps one. In Lessa."
+
+Alana was quiet a moment.
+
+"I didn't think of them having mothers," she said. "Isn't that stupid. I thought of them having audits."
+
+Marcus did not answer. Up ahead, Liora and the quaestor and the two Lanciarii turned in at the foot of the crown's road and began to climb, and the dark of the hill took the white sleeves last.
+
+---
+
+He went to the slip gate before he went up.
+
+The Navarch would want to know the fleet was in, he told himself; the yard was the crown's, and its Prefect ought to see what had been done to it. Both were true. He went along the quay in the dark past the steam-box wall, where the prisoners had sat down again to their pots and one of them nodded to him, and he knew that it was neither.
+
+The yard was dark. The rain of the raid had long since dried, and the frosts since had come and gone, but the smell was still in it, faint and cold, of pitch burned in the wet: a sour black smell, like a ship's galley gone out. He could see the third slip by the light from the gate, burned down to the ways, its timbers black and split, and beyond it the long shape of the shed where the second keel stood in its frames, with the end of its roof gone and the sky showing through the rafters.
+
+The engineer's house stood at the end of the shed with its door on the latch, untouched. There was a light in it. A small one: somebody had built up the fire.
+
+The slip gate was under its arch, shut, with a Lanciarius on it who knew him and stood away from it. He stayed outside it. He stood on the stones in front of it, where the brothers had stood.
+
+There was nothing there. He had known there would not be. It was a gate in a wall, and a stair door beside it at the foot of the old customs tower, and some stones of the yard, swept. He stood there. Then he looked up.
+
+The Navarch's window, over the gate, was lit. The Navarch was in it.
+
+He was sitting at the table he had been given, which Marcus could see the edge of, with his long pale face turned down to the book in front of him, and the lamp beside it; and as Marcus watched, his hand went up to his ear, to the place where a stylus had sat for twenty years, and found nothing there, and came down again to the pen. He had not seen Marcus. Or he had, and was finishing a line first.
+
+He went up.
+
+The room over the slip gate smelled of lamp oil and cold ink and the sea. The Navarch stood up when he came in, tall and stooped under the low beams in his long black sea-coat, and bowed, the small exact bow he gave everybody, the guards included.
+
+"Highness. You are come home."
+
+"We're in. The iron's aboard."
+
+"So I saw. Your *Forward* is a strake lower in the water than when she sailed. Two, I should have said, but the light was going." He did not sit. "You will want to see the entry."
+
+"Yes."
+
+The Navarch turned the book round on the table and put it in front of him, open, and moved the lamp so that the light fell on the page, and stood back. He did not point. He knew exactly where it was.
+
+Marcus read it. It was in the Navarch's hand, which was small and plain and level and did not slope, the hand of a man who had kept a ship's book in every weather since he was a boy: *Arruns. Velthur. Of Thessa. They held the slip gate at Cyrene for the town against the Navarchy, under my window, and died there, each covering the other.*
+
+The next entry, under it, was the next day, and was about the tide.
+
+"There is no form for it," said the Navarch. "I used the form for an officer's death in action. It is the nearest I have."
+
+Marcus read it again. Then he turned the book back round.
+
+"Thank you."
+
+"It was not for you, Highness. Forgive me." The Navarch closed the book, and laid his long hand flat on the board of it. "You have brought in a quaestor."
+
+"Rusca. Of the Survey."
+
+"Taken, then." It was not a question. The Navarch said the word the way the Survey said it, with a closing in it, as of a ledger. "I saw her come along the quay. The Survey sends its best west." He was quiet a moment. "She will be from a lamp town. They mostly are, the young ones who rise. Lessa, or one of the canal towns. Somewhere where the dead work."
+
+"Lessa."
+
+The Navarch nodded slowly, as at a figure that agreed with another.
+
+"She will not have known that you keep them here." He glanced at the lamp on his own table, which was a common brass thing from the fort's stores and nothing like the red ones. "I did not know it either, until the morning after. They did not ask me if they might. I should have said yes."
+
+Marcus went to the door. With his hand on it he stopped.
+
+"You said they weren't here. Whoever told them."
+
+"I did." The Navarch had sat down again. He took up the pen. "I have thought about it since. I am of the same mind." He wrote the date, and then something short after it, and raised his eyes. "Whoever it was could not see this window, Highness. I am sure of that. A man who could see it would not have sent them."
+
+Marcus went down the stair in the dark, past the stair door at its foot, and out under the arch, and up the crown's road. Halfway up he turned, as he always did. The town was below him with its lamps in it, and the steam going up off it white in the dark; and among the yellow ones, the red.
+
+---
+
+In the morning Gaius went to his house.
+
+Marcus had not meant to see it. He had come down to the yard at first light to see the third slip by day, with Tuccius beside him and the written report in Ennia's big plain letters under his arm, and Gaius had come past them up the yard from the *Constancy* without stopping, at his halting fast walk, with his bad knee, and his rule in his hand, and an expression Marcus had last seen on him at the head of the Long Seam when the merfolk said the form was full.
+
+He passed the burned slip and did not look at it, and the shed with the sky in its roof, and did not look at that either. He made straight for the house at the end of the shed, and stopped in front of it, and stood looking at it with his head on one side as a man looks at a wall he has built, to see if it has moved.
+
+The door was on the latch. A thread of smoke came up from the chimney.
+
+Gaius put out his hand and pushed it, and it swung in without a sound, as it had been built to; and Marcus, at the corner of the shed, saw past him into the room. There was a fire on the hearth, on Fausta's old flag worn hollow, and a pallet in front of it, and on the pallet a boy not yet grown, with soot to the elbows and his mouth open, asleep in the warm with his boots still on, with an adze by his hand.
+
+Gaius stood in the doorway over him.
+
+"Velthur's," said Tuccius, beside Marcus, low. "His boy. Not his son. His prentice, like. He's slept there every night since." He rubbed his nose with the back of his wrist. "Somebody keeps the fire in for him. He doesn't know who. I've not told him."
+
+Gaius did not wake the boy. He took in the room once, the walls and the ceiling joists and the window, as he had taken in the form in the cave, and then he stepped back out and pulled the door to behind him, gently, until the latch dropped.
+
+He came back down the yard. At the burned slip he stopped this time, and took it in properly, from the head of the ways to the water, and then at the shed with its roof gone, and his eyebrows went up and stayed there.
+
+"Well," he said. "That'll want doing."
+
+He turned to the harbor. Out on the end of the inner mole, where the flood had put her, the Navarchy's ship lay heeled over on the stones with her masts gone and her sides scraped raw and the sea washing in and out of her at every swell, as she had lain since the raid. Gaius stood and considered her. Marcus saw his face change.
+
+"Proteas says it's another hull," said Tuccius.
+
+"It is," said Gaius. "It is another hull." His eyes stayed on her. "Her garboards are gone. But look at that stern-post." He pointed with his rule. "That's Thessa oak. They don't grow it any more." He studied her a moment longer. "I'll have her off there by the summer."
+
+He went off down the quay toward the mole with his rule in his hand, at the same halting fast walk, and Marcus did not think the slip was in his head any more.
+
+---
+
+Ketta cut her mark at noon.
+
+She had been waiting for the light. She said so to Marcus, who had come out onto the sea-gate stair to find her, before he could ask why it was not done yet: "You can't cut green mortar by a lamp. You can't see where it's thinking of breaking." She had her kit laid out on the step below the gatehouse on a square of leather, chisels and a little mallet and a thing like a bradawl with a bronze point, and she was sitting on the step above it with her two black plaits down her back, eating a heel of Fausta's bread, and looking up at the seaward face of the gatehouse as Gaius looked at hulls.
+
+The sea-gate stood at the head of the water-gate stair, grey squared stone on the face, with its iron-strapped door shut and its murder-holes black. Down its face, a course above the water, ran the second course that Gaius had torn out and laid again in a single afternoon of the war, on Fingers's word that it was shiners; and in the green mortar of it, low down, where a man standing on the stair could reach, somebody had cut, a year ago, small and neat and sideways, *S. LENTO*.
+
+Fingers was standing below it on the stair, considering it like a thing that belonged to somebody else.
+
+"You never said you'd put your name on it," said Marcus.
+
+"I never said I hadn't." Fingers did not take his eyes off it. "It's a good wall. A man likes to be remembered for something that held."
+
+Ketta finished her bread, and dusted her hands on her apron, and stood, and picked up her mallet and the bronze point, and went down the stair to the place beside his name. She put her palm flat on the stone first. She left it there with her eyes half shut. Then she took her hand away and set the point to the mortar, a finger's width to the right of the *O*.
+
+She cut fast, once she began. The mallet went *tap, tap, tap* on the point, light and quick, and the green mortar came away in little curls the color of a wet leaf; and Marcus, who had watched the dwarves cut at Stoneheart, saw that she was not cutting a letter. It was a mark of the halls, square, a thing like a hearth with a stroke across it and a smaller stroke below; and under it, smaller again and fine, a little shape that might have been the arm of a catapult, or might have been nothing.
+
+Fingers watched her do it with the tip of his tongue showing between his teeth.
+
+When she had done she blew the dust out of the cut, and stood back from the two marks side by side on the stone: his letters, sideways and neat and a year old and gone dark with weather, and her square mark, raw and pale and new.
+
+"There," she said. "It held."
+
+"It did," said Fingers.
+
+"That's what the mark's for. Not for the cutter. For the wall." She gave him a sidelong glance. "In the halls we don't put a mark on a thing until it's been tried." She wrapped her chisels up in the leather, one at a time. "Yours has been tried."
+
+Fingers met her eye, and then turned away, out over the harbor, out over the harbor.
+
+"I sail with the iron," said Ketta. "North. Your king's berths." She tucked the roll of chisels into her apron. "And home from there, with the next lading."
+
+"I know."
+
+"I know you know. I'm saying it so it's said." She hitched her apron, and turned her face up to him, which with Ketta meant tipping her head well back. "The halls will want iron again next spring, and the spring after. Somebody has to come with it. Somebody who knows the berths."
+
+Fingers said, "I'd lay evens on that."
+
+"Would you?" said Ketta. "I'd not."
+
+She went up the stair past Marcus with her kit under her arm and her plaits swinging. Fingers stood looking at the two marks on the stone. Then he put out a finger and touched the new one, lightly, as he touched a ward to feel how it was cut, and took his hand away, and went after her.
+
+---
+
+Florus swam at the bottom of the ebb.
+
+Nobody had said anything, but by the time the tide was down there was a crowd on the rocks at the north end of the black beach: half the cohort, a good part of the town, Prisca with her shawl over her head, and Old Baebius on a rock by himself saying that it was a waste of a good day and he would not stop. He stopped. Below them the spring ran out of the hill through a gully of red stone into the warm shallows, which lay pale and steaming inside a lip of black rock, with the cold sea breaking white beyond it, and smelled of iron and eggs. Three of the merfolk were lying in it now, in the deep part by the lip, with their blue hair spread out on the water and only their faces showing, watching the beach with great interest.
+
+Florus came down the beach in his breeches with his hair wetted flat to his skull, and his lips set, and the whole of the cohort's advice coming after him in a single roar.
+
+"Kick from the hip!"
+
+"Don't kick from the hip, kick from the knee—"
+
+"Don't drink it!"
+
+"*Breathe*, Florus—"
+
+He did not look round. He walked out into the warm water to his waist, and stopped, and stood there, with the steam going up round him, looking at the deep part by the lip.
+
+One of the three in the deep part lifted her head. She was a sea-woman with her hair bound back off her face in a long blue rope, and broad brown shoulders shining, and Marcus had seen her before, in the cold grounds in the autumn beside Florus's oar, with a hot-water skin held against her and her eyes shut. Actaea. She did not come in to him. She lay where she was, in the deep water, with her arms along the surface, and looked at him.
+
+Florus put his face in the water. He came up again, spluttering, and the beach groaned.
+
+He put it in again, and pushed off.
+
+It was not swimming. It was something a dog might do in a flood, if the dog had been badly taught by people who disagreed. His arms went round like the sails of a mill, and his legs went everywhere, and the warm water went up in sheets, and he went forward, not fast, and not straight, but forward, toward the lip. The beach fell silent. Then Rufo, on a rock at the edge, took out his tally-stick and his knife, and at every stroke, without a word, cut a notch.
+
+Not a soul on the beach laughed. Prisca had her hand at her throat. Old Baebius had stood up.
+
+Florus went under, a stroke short of her, and came up, and found nothing under his feet, and went on.
+
+Actaea put out her hand, at the end, and he took it.
+
+He hung there in the deep water by the lip, with her hand in his, his face streaming and his hair in his eyes and his chest going like a bellows, and the steam all round the two of them; and she looked at him as she might have looked at a seal pup that had made it off the rocks for the first time, and her face was perfectly grave.
+
+"Thank you, sir," said Actaea.
+
+The two in the deep water behind her began to laugh. It was the laugh the merfolk had, which went on under the water as well as over it. The beach did not; the beach was still silent. Then Florus, who had heard the word *madam* said back to him for a whole night at Midwinter by every one of the merfolk on the beach, understood what she had called him, and began to laugh himself, helplessly, hanging on her hand, and swallowed half the shallows, and had to be towed in.
+
+Rufo considered his tally-stick.
+
+"Ten," he said, to nobody, and put it away.
+
+---
+
+Alana held her letters class that afternoon, in the long ward at the back of the Baths, because it was the day she held it, and she had been away since the winter, and she said that was no reason.
+
+Marcus had not been to the class since the first week. He had stood at the back of it then, and been sent away, because he made the children nervous and they kept looking at him to see if they were wrong. He went now and stood in the door, in the shadow of it, and did not come in. Nobody looked at him. They were looking at her.
+
+The long ward was where the eighty had lain, when the Baths were the Vigil's hospital. Marcus thought of that every time he stood in it, and he did not think the children did. The spring went by in its stone channel round the foot of the walls, so that the floor was warm and the room smelled of wet plaster and chalk; and the children sat on the warm floor in rows, with trays of sand on their knees, and Alana walked up and down between them in her old violet with her hair coming down at the nape and a stick of chalk in her hand, and a slate propped on a stool at the end where she wrote the letters big.
+
+There were more of them than there had been. Ennia was in the front, with her chin up. Beside her, cross-legged, with the sling still wound round her fist and straw in her hair, was the goatherd's girl.
+
+They had done the letters. They were doing words now: short ones, out of the slate, read aloud, one child at a time, with the others watching and some of them mouthing. *Net. Boat. Salt. Oar.* A boy read *oar* as *ear*, and was laughed at, and Alana said that the merfolk would have laughed harder, because they rowed with neither, and the room laughed with her and the boy went red and was all right.
+
+Then she stopped at the end of the row, and took the weather-book out from under her arm.
+
+Marcus saw the girl see it. She had seen it before, plainly. Everyone in Cyrene had seen it: the Chair's book, which she wrote the weather in, and the stores, and the tides. The girl's eyes went to it and stayed.
+
+Alana opened it, not at the front, but somewhere in the back half, and turned it round, and held it down in front of the girl, open, with one inky finger at the top of a column that was ruled freehand at the edge of the page, not quite straight.
+
+"Read me that," she said.
+
+The room was quiet. The girl bent over the page. She stared at it with her lips pressed together and her whole face screwed up, as at a stone she meant to hit with a sling, and Marcus saw her fist tighten on the cord.
+
+"*Spring*," said the girl.
+
+Alana said nothing.
+
+"*Ter*—" The girl stopped. Her face changed. She glanced up at Alana, quick, at a trick; and then back to the page.
+
+"*Tertulla*," she said, slowly. "*To*." A breath. "*Read*."
+
+She looked up.
+
+"That's me," she said.
+
+"It is," said Alana.
+
+"You wrote me in your *book*."
+
+"In the winter. Before I went away." Alana closed the weather-book. "I wrote it so that it would be true by the spring. It's spring." She tucked the book back under her arm. "You can stop looking at me like that. It's the most ordinary thing in the world. I do it to the tides."
+
+The girl went on looking at her like that.
+
+Alana walked on down the row to the next child, and Marcus, in the door, saw her face as she turned away from the girl, for no more than a moment, where the girl could not see it; and then she was saying *Next. Hull. And if you say* hell *I'll know you're doing it on purpose*, and the room was laughing again.
+
+---
+
+He heard the bell on his way back up the hill.
+
+He had left the Baths before the class ended and was going up the crown's road in the low sun, slowly, because the road was steep, when he stopped at the turn below the fort gate to get his breath, and looked out over the town, and saw a man on the hill.
+
+The hill went up behind Cyrene to the north and east, above the last of the houses, in steep brown slopes of last year's bracken and grey rock, with the snow still lying in the gullies and the first green coming through at the foot of the walls. Galla's goats were up there. He could see them: a brown and white scatter on a slope high above the town, under a crag, with the small ones of the spring among them, and a hut of stones at the foot of the crag with smoke going up from it.
+
+The man was climbing toward them. He was a long way off, small and brown in the bracken, with something round his waist, and he was not hurrying. He climbed like a hill shepherd, with all day to do it in and meaning to use it, and every so often he stopped and stood, and then went on.
+
+Marcus watched him go up. It was cold at the turn of the road, with the wind coming over the shoulder of the hill, and he could smell the snow in it, and the goats, faintly, and the smoke of the hut.
+
+The man came to the goats. They did not run. They lifted their heads, and one came toward him, a big one, nanny, with long horns, and he put his hand out to it and it stood. He was bent over it. Marcus could not see what he was doing.
+
+Then he straightened up, and stood back, and the goat shook her head.
+
+The sound came down the hill a moment after, thin and clear, on the wind: a small high note, and another as she shook it again. A dwarf-cast bell, green-bronze, of the gate hall at Stoneheart. It had been ringing faintly in the end of a sling-cord all the way from the mountain.
+
+At the door of the stone hut a woman had come out, with a black kerchief on her head, and her arms folded. She did not come any nearer. Neither did he.
+
+He stood on by the goat. Then he turned, and came down the hill the way he had gone up, not hurrying, and the goat went back to her grazing, and at every step she took the bell went down the slope after him, a small clear note at a time, all the way to the houses.
+
+---
+
+The letters came that evening, up the crown's road, with Tuccius.
+
+He brought them himself. He came in at the door of the tower room with his helmet under his arm, the way he came into every room, like a man sent to report to it who meant to be quick about it; and he had a small packet in his free hand, tied with tape and sealed, and a second, smaller one tucked inside the tape.
+
+"These came down from the capital, Highness. On the mail hull, while you were away. One's for you. One's for the Chair." He held them out. "The mail-master said to put them into your hand and nobody else's. So I kept them on me."
+
+Marcus took them. The packet was warm from being on Tuccius. He knew the seal before he had turned it over: not the great seal, the little one, the king's own, a plain ring with the crown on it, pressed slightly crooked, by a man in a hurry or a man whose hand was not what it had been.
+
+"Thank you," said Marcus.
+
+"Highness." Tuccius did not go. He stood with his helmet under his arm, looking at the window. "The other one. The Chair's. It came in the same sack. I don't know who put it in." He rubbed his nose with the back of his wrist. "The mail-master didn't either. He said so. He's an honest man, I'd say."
+
+Then he went.
+
+Alana was at the table under the window with the lamp, and the weather-book open in front of her, writing up the day: the wind, the tide, the cloud. She had looked up when Tuccius came in. She did not look up now. She went on writing to the end of her line, and put the pen down.
+
+"Read yours," she said.
+
+He broke the seal and unfolded it standing up.
+
+It was one sheet of good stiff paper, folded twice, and there was almost nothing on it. In the middle of the page, in a cramped slow hand that pressed on every downstroke so hard that the pen had nearly gone through, each letter leaning on the next, the king had written:
+
+*Then they shall have it.*
+
+That was all. No *my son*. No name at the foot of it. The seal was on the outside.
+
+Marcus read it twice. Then he sat down on the edge of the bed, which Fingers had paid out on at Midwinter and somebody had mended since, and held the paper on his knee, and looked at it.
+
+He had written one line. His father had written one line back: a promise of bread in a king's name, made in a mountain by a man with no seal, without asking; and the answer in the king's own hand, which wrote nothing of itself. He thought of the room at the top of the forty-four steps, and the small table by the window, and the shells set in a row square to its edge. He thought that the hand on this page had picked up a pen and set it down three times, perhaps, before it wrote; or not at all, and written it at once. He could not tell. There was nothing on the page to tell him.
+
+He felt his jaw go tight along the old scar, and let it.
+
+"Well?" said Alana.
+
+He turned the page round and held it up for her to see. She read it across the room, and then her eyes came to him.
+
+"That's a king," she said.
+
+"It's my father."
+
+"Yes," said Alana. "That's what I said."
+
+He laid it on the bed beside him, face up, and sat looking at it. Then he remembered the other one, and held it out to her.
+
+It was small, folded small, of a paper so fine it was nearly cloth, and sealed with plain black wax with nothing pressed in it. On the outside, in a hand so beautiful that Marcus, who had been taught by the Spire's writing-masters as a boy and had despaired of them, sat up a little at the sight of it, it said: *To the Chair of the Catalogue. At Cyrene.*
+
+Alana did not take it.
+
+She sat at the table with her eyes on it in his hand. She did not move, and she had not changed color, and her face did nothing at all. But her right hand, the one that had burned on the flood at the Teeth and shook for days afterward, had gone flat on the open page of the weather-book, and stayed there, pressed down.
+
+"I know the hand," she said.
+
+"Whose?"
+
+"It taught mine." She put her other hand out, and took it from him, and turned it over to the plain seal. "She used to correct our exercises in that hand. In the margins. A word, or two. *Again.* *Lazy.* *Better.*" She broke the wax with her thumbnail. "I used to wait for the *better*. For a week, sometimes."
+
+She unfolded it and read it, sitting at the table under the lamp, and he watched her read it. He could not see the page. He saw her eyes go down it, and back to the top, and down it again, slower; and on the second reading he saw her lips begin to move over the words, as they moved over figures, and stop, partway down, and not go on.
+
+Then she held it out to him without looking at him.
+
+"Read it," she said. "I want to know if it says what I think it says. I want somebody else to read it."
+
+---
+
+It said:
+
+*My dear little chair,*
+
+*I write from the north, where the fog sits on the moors and does not lift from one week's end to the next, and where there is a great deal of time to think. I find I think of you. I have always found that a good use for time.*
+
+*They tell me you are teaching. I was so glad. You have a room by the warm springs, and the children of the fishing families sit on the floor with sand in their laps and write their names in it, and wipe them out, and write them again. I could have told you that the wiping out is the best part of a lesson. You have found it out for yourself, which is better. You always did prefer to find things out for yourself, even when you were told.*
+
+*They tell me too that you have begun a new column in your book, and that it is written in the future. I confess this moved me more than anything I have heard in two winters. You used to write only what had happened. I used to tell you that a catalogue is a list of things that have been, and that a scholar who can only catalogue is a clerk. You did not believe me. I see you do now.*
+
+*I should like to see it. I should like to see what you have written there, in the future, and how much of it you have left room for.*
+
+*Hesper sends you his regards. He is a little faded now, but he is the gold he always was; you would know him. And little Quintus asks after you every day. He never did get his spark from the rod, poor lamb, and he never will now, but you would be astonished at how bright he is. He is the brightest thing I have. He asks whether the little chair is well, and whether she has opened the book yet, and I tell him: not yet, Quintus. Not yet. But she is learning to write in the future, and that is where every book begins.*
+
+*Do take care of your hand. They tell me you burned it again. You must stop putting it into things.*
+
+*I am so proud of you, little chair. I always was. You never once believed that either.*
+
+*L.*
+
+---
+
+Marcus read it twice, as she had. Then he put it down on the bed beside his father's, face up, and they lay there side by side on the blanket: the king's line with the pen nearly through the paper, and the long beautiful lines, which did not press on anything at all.
+
+"Who's *they*?" he said.
+
+Alana had got up. She was standing at the window with her back to the room, looking out over the town. Her arms were folded tight.
+
+"That's what I want to know."
+
+"Hesper—"
+
+"Is on her thread." She did not turn. "So is Quintus. He was nine. They hid under the tables in the long gallery when the doors went, the youngest ones, and she walked out of the forbidden wing and took them. She takes them through her doors one at a time." Her voice was level. "He's asking after me, she says. He's asking whether I'm well."
+
+Marcus said nothing.
+
+"That's not the part," said Alana. "I knew that part. I've known that part for two years." She turned round. Her face was white, now, and set. "*A room by the warm springs.* *Sand in their laps.* *They write their names in it and wipe them out.* She's never been here. Nobody from Tharsis has been in that room since the garrison went. Tertulla wipes her name out and writes it again harder. I've watched her do it all winter." She came back to the table and stood over the letter on the bed and did not touch it. "And the column. I ruled that column in this room, the morning after Midwinter, sitting on that sill, with you in that bed. I told you. I told Galla, because I wanted her to know I meant it about her girl. I may have told Liora." She stopped. "Who did I tell?"
+
+"Not Tharsis."
+
+"No," said Alana. "Somebody did."
+
+She dropped her eyes to the long lines on the blanket. He saw her read them again from where she stood, the way she read a page of figures, looking for the one that was wrong.
+
+"She knows my days," Alana said. "That's what this is for. Not the book. She doesn't care whether I open the book this year or next. She wants me to sit in that room tomorrow with the children and look at them and wonder which of them she's got." Her mouth thinned. "It's very good. It's the best letter she's ever written. I'd give it *better*."
+
+She picked it up, then, and folded it, small, along its creases, exactly as it had come.
+
+"I'm going to show it to her," she said.
+
+"Who?"
+
+"The quaestor." Alana put it inside her sleeve. "She's a clerk of the Survey. She's spent her life reading what Tharsis writes, and how it gets from one desk to another. If anyone on this island can tell me how a thing gets from my room to the moors, it's her."
+
+"She won't tell you."
+
+"Perhaps not." Alana took the lamp off the table. "Then I'll know something by that, too."
+
+---
+
+The quaestor was in the room at the top of the west tower, which had been a storeroom for the old garrison's sails and still smelled of them, of tarred canvas and old rope and mice. Marcus had given it to her because it had a door that locked from the outside and a window too small to be anything but a window, and because it was dry. There was a Lanciarius on the stair. He stood away when they came up.
+
+She had been given a cot and a blanket and a stool and a jug, and somebody, Liora by the look of it, had sent up a plate of Fausta's bread and cold mutton, which she had eaten, and set the plate square on the stool with the knife across it. She was sitting on the cot with her back against the wall and the small black book with the ribbon open on her knee, and a stub of pencil in her hand, and when the door opened she closed the book on the pencil and put it inside her coat, and stood up.
+
+She was taller than Alana. Marcus had not noticed that at Stoneheart, where he had seen them together only across a dead cow. She stood straight in the Survey's black, with her hair down her back in its one braid and no pin, and her hands at her sides, and looked from him to Alana and back, and waited to be told what this was.
+
+"I'm not here," said Marcus. "This is the Chair's."
+
+The quaestor turned to Alana.
+
+"We've met," said Alana. "Over a cow."
+
+"We have." The quaestor inclined her head. "You kept a record. Of the other thing. I remember."
+
+"I keep a record of everything." Alana set the lamp down on the stool beside the plate. "So do you. That's why I've come." She took the letter out of her sleeve and held it out. "I'd like you to read this. And then I'd like you to tell me how the woman who wrote it knows what she knows."
+
+The quaestor did not take it at once. She studied it in Alana's hand: at the fine paper, and the plain black wax broken, and the outside of it, with the five words on it in that hand. Marcus saw her see the hand.
+
+Then she took it, and sat down on the stool, having moved the plate to the floor, and unfolded it in the lamplight.
+
+She read it the way the Navarch read a page, without hurrying, all the way down, once. When she came to the foot of the first side she wet the tip of her thumb on her tongue, and turned the sheet, and then, before she read on, took a small square of linen out of the cuff of her sleeve and dried her thumb on it, carefully, and put it back, so that the paper would not cockle. Marcus doubted she knew she had done it.
+
+She read the second side. Then she turned back to the first and read it again, more slowly, with her head a little on one side.
+
+"Well?" said Alana.
+
+"It's a Corvus hand," said the quaestor.
+
+Alana's chin came up.
+
+"The academy hand. The old chancery, with the long descenders. We were taught to read it at Lessa, in the second year, because so much of what came to the Survey from the east before the war was in it. I never saw it written so well." She ran her eye along a line, not touching it. "She's very good. She doesn't lift the pen between letters. Look, there. And there." She looked up. "You write it too. I saw your book on the high pasture. It's the same school."
+
+"It's the same teacher," said Alana.
+
+The quaestor held her eye.
+
+"Yes," she said. "I thought it might be."
+
+She lowered her eyes to the letter again. Marcus, by the door, watched her face, because it was what he had come to do; and he could see nothing in it at all. It was a clerk's face, reading. If there was anything behind it, it was a long way behind.
+
+"How does she know?" said Alana. "The room. The sand. The column."
+
+The quaestor did not answer at once. She folded the letter along its creases, small, exactly as it had come, and held it a moment in her two hands on her knee.
+
+"Tharsis reads everything that's sent to it," she said. "Everything. Every return and every letter and every scrap that comes into a Survey office goes onto a desk, and somebody reads it, and decides what it's worth and where it goes. That's what the Survey is. That's what I am." She held Alana's eye. "If anything about your days was ever sent anywhere, Chair, by anybody, someone in Tharsis read it. And if it was worth something, it went where it was worth most." She held the letter out. "I can't tell you more than that."
+
+"Can't," said Alana, "or won't?"
+
+The quaestor's eyes did not move from hers.
+
+"I'm a prisoner of your prince," she said. "On my parole, if he gives me one, and in his keeping until he does. I'm still a quaestor of the Survey. I've given him nothing he didn't take. I'm not going to begin by giving you the Survey's post." She paused. "I'd think less of you if you thought I would."
+
+Alana took the letter back and put it in her sleeve.
+
+Neither of them said anything. Marcus stood by the door with his shoulder against the jamb, and the lamp burned on the stool between them, and the room smelled of tar and mice, and somewhere far down in the tower the Lanciarius on the stair shifted his feet. He thought that it was the quietest he had ever heard Alana be in front of somebody she had not yet decided about.
+
+"She called you *little chair*," said the quaestor.
+
+"She always did."
+
+"It's not a kind thing to call somebody."
+
+"No," said Alana. "It isn't. It was meant to be." She looked at the quaestor. "What did they call you? At Lessa. In the second year."
+
+The quaestor was silent a moment.
+
+"*Rows*," she said. "Because I ruled my own. The paper they gave us was ruled, and I didn't like how it was ruled, so I ruled it again, under, in pencil, finer." For a moment the crooked eye-tooth showed. "It wasn't meant kindly either."
+
+Alana studied her. Then she turned to Marcus.
+
+"I'll keep her," she said.
+
+He had meant to decide it himself, on the morning they sailed, with Roderic and Valeria and the Navarch's advice, and a paper. He looked at the two of them, the one on the stool in the Survey's black with her hands in her lap, the other standing over her with ink on her fingers and the letter in her sleeve, and it was decided.
+
+"Quaestor," he said.
+
+The quaestor stood.
+
+"You'll sail with us. On your parole, in the Chair's keeping. You'll go where she goes and give her your word that you'll not try to leave it without hers." He paused. "That's all I'll ask you for. For now."
+
+"For now," said the quaestor. She turned to Alana. "My word, then. Chair. Entered."
+
+"Entered," said Alana.
+
+She picked up the lamp, and went out. Marcus held the door, and then, after a moment, did not lock it. The Lanciarius on the stair glanced from the door to him, and held his tongue, and Marcus went down past him and left him there anyway.
+
+At the foot of the tower Alana was waiting for him with the lamp.
+
+"Rows," she said. She was not looking at him. "I'll have to think of something better than that."
+
+---
+
+The word from the fen came up out of the harbor two days later, before light, in Thalassa's own mouth.
+
+She came up the water-gate stair in the dark with the sea running off her, and up the long quay, and up the crown's road, with her blue hair down her back in a wet rope and her feet bare on the frost, and Kymon behind her carrying nothing; and she walked through the fort gate past the Lanciarius on it, who did not stop her because nobody ever had, and across the court, and stood under the tower window and called up to it in the common tongue, in the voice that carried over water.
+
+"*Prince.*"
+
+He was at the window with a cloak round him before she had said it twice.
+
+"There is a word for you," said Thalassa. "From the clans of the fen. It came along the water, from their rivers' mouths, from one of my people to the next. It came all night." She looked up at him with her great dark eyes, and the steam went up off her bare shoulders in the cold. "Sszarra Tide-Speaker, who speaks for them, sends for the one who asks."
+
+Marcus stood at the window.
+
+"For me."
+
+"For the one who asks," said Thalassa. "Along the water there is only one of those." She was quite still. "The clans are leaving the fen. Reed-town by reed-town. There are raiders on the fen, men, living, on Tharsis's silver, who net their young as they hatch, and the clans cannot fight them in the cold, and it has been cold. Sszarra has asked for you. It is the first time in my mother's life a Speaker has asked dry-folk for anything. My people say no Speaker has done it twice and lived."
+
+"Where is it?"
+
+"North. Between your father's city and the burned one. On the road between."
+
+He looked down at her in the court, and past her, over the wall, at the town below in the last of the dark, with the steam going up off it and every lamp out but the red ones.
+
+"I'll ask them," he said.
+
+---
+
+He asked them at breakfast.
+
+It was in the hall of the fort, at the long table under the windows where the garrison's officers had eaten and the cohort's officers now did, and there was mutton on it, cold from the night before and hot from the morning, and Fausta's second loaf, and a pot of the king's barley with bacon in it that Oppius had sent up before light with a message that he would not be up himself, and that nobody was to ask why. Nobody did. Fingers had already opened a book on it.
+
+Marcus told them what Thalassa had said, all of it. He told them where the fen lay, which Valeria knew already, because she had studied a map of it for three years at the capital. He told them that the fen lay on the road between the capital and Corvus, and that if it emptied, the road was Tharsis's from the fen to his father's gate.
+
+Then he said, "I'd like to go. I want to know what you think."
+
+Roderic was at the far end of the table with his boots on a stool, eating mutton off his knife.
+
+"It's spring," he said. "Raiders in a fen in the spring. It'll be warm." He chewed. "I've never been warm in a war. I'd like to try it."
+
+"It is warm," said Valeria. She had a cup of hot water and honey in both hands. "It's warm the whole year. There's a spring under the whole island. The reed-towns are built out over it." She looked at Marcus over the cup. "The raiders will have boats that draw shallow, and we won't. We'll be on foot in mud to the thigh, against men who know the channels, with the clans watching from the water to see if we're worth it." She drank. "Yes."
+
+"Yes?"
+
+"You asked."
+
+Gaius had a slate. He had been drawing on it since Thalassa came, and had not looked up. "Mud's the thing," he said, to the slate. "You can't build on it, and you can't fight on it, and you can't haul out a Liburna on it, unless you think." He went on drawing. "I'm thinking."
+
+"That's yes," said Liora, who was sitting beside him eating bread and honey, and had honey on her chin. "That's what his yes looks like." She turned down the table to Marcus. "There'll be wounded. In warm water. Wounds go bad in warm water." She wiped her chin. "I'll want Hostus's boxes."
+
+"Hostus stays."
+
+"Then I'll want his boxes," said Liora, "and not him. He'll understand."
+
+Rufo was at the end of the bench with his tally-stick on the table in front of him. He turned to Sylara, beside him, who had said nothing and was eating mutton with her fingers, neatly. She looked back at him. Then she nodded, once, and he put his hand up to the place above his ear where her lock was plaited in, and said, "Aye."
+
+Alana had been sitting at Marcus's left with the weather-book shut beside her plate. She had eaten nothing. Down at the end of the table, by the door, at the end of the bench where she had been put, the quaestor sat with a plate of mutton in front of her that she had cut into squares and not touched, and her hands in her lap.
+
+"North," said Alana. "Up the coast, then in at the rivers' mouths. A week, with the wind where it is." She opened the weather-book, and turned a page. "I'll want to talk to Thalassa about the water."
+
+"Then we'll go," he said.
+
+---
+
+They sailed north four days later, on the forenoon ebb, with the wind off the land.
+
+The town came down to the quay to see them go. It did not shout this time either. Tuccius stood at the head of his boys at the seaward end of the long quay, in two ranks, with their ash poles, and Pullus at the end of the front one with his scar showing white in the cold; and as the *Forward* came off the quay Tuccius brought them up, and they held their poles out level, all together, *push*, toward the ships, and held them there, and did not take them down until the fleet was past the mole.
+
+Oppius came down Rope Street last of the cohort, at a run, with a sack of loaves on his back that was still steaming through the cloth, and Fausta in the bakehouse door behind him with her arms folded. She did not come to the quay. He went up the plank with the sack and put it down on the deck by the mast, and turned round, and stood at the rail looking back at the foot of Rope Street with his one eye until the steam off the gutters hid it.
+
+Ketta was on the *Patience*, with the king's iron, going north by the galley lane to the capital and the berths, and the *Patience* lay off the end of the mole with her sail half loosed, waiting for the fleet to clear the gap. Fingers was at the *Forward*'s rail as they went past her. Ketta was at the *Patience*'s, with her plaits down her back and her hands on it. She did not wave. Neither did he. Then, as the *Forward* came level, she lifted one hand off the rail with the little mallet in it, and rapped the rail once with it, hard, so that the sound came across the water; and Fingers, after a moment, took the stub of chalk out of his ear and drew a short square mark on the *Forward*'s rail, and stood back from it.
+
+Atticus was on the *Forward*, with his sling round his waist. He did not look back at the hill. Up on the hill, high above the town, under the crag, the goats were out on the slope in the forenoon sun, and as the fleet went out through the gap Marcus thought he heard, over the water and the sound of the oars, a small high note, and then another; or made himself hear it.
+
+He turned to the town. The lamps were out in the daylight, all of them. He could see the windows they would be in tonight: Prisca's at the end of the Row, and the one over the bakehouse, and the small square one by the door of the harbor master's house, which Tuccius, he supposed, would light himself. And somewhere in Lessa, on a quay where a man weighed casks, a house with nine.
+
+The fleet came out past the outer mole and stood north up the coast, with the land on the left hand and the Grey a long way off on the right, low and pale along the sea.
+
+He went aft.
+
+The quaestor was in the stern, by the taffrail, on the coil of cable where she had sat all the way from Stoneheart. She was not alone on it. Alana was beside her, with the weather-book open across both their knees, and the wind was taking the pages, and they were holding them down between them, one hand each, and arguing.
+
+"—you can't rule it like that, it'll run when the spray—"
+
+"It's not going to run, it's—"
+
+"It's running."
+
+It was. A drop of spray had come over the taffrail and landed in the fresh ink of the morning's tide, and the line was going, a fine grey thread spreading out along the grain of the page toward the edge of the column. Alana made a sound of fury and put her finger on it.
+
+"Don't," said the quaestor. "You'll only push it."
+
+She took the square of linen out of the cuff of her sleeve, and took Alana's wrist in her other hand, and lifted the inky finger off the page, and wiped it clean; and then folded the linen to a clean corner and laid it flat on the wet line, and pressed, and held it there while the ship rose and fell, until the ink stopped.
+
+Then she lifted it off, and studied the page, and gave it back.
+
+"There," said the quaestor. "Now it'll keep."

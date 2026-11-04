@@ -22,6 +22,7 @@
 16. [Chapter Sixteen: Light of the Forge](#chapter-sixteen-light-of-the-forge)
 17. [Chapter Seventeen: Lamps](#chapter-seventeen-lamps)
 18. [Chapter Eighteen: Dead Water](#chapter-eighteen-dead-water)
+19. [Chapter Nineteen: Some](#chapter-nineteen-some)
 
 ---
 
@@ -11494,3 +11495,669 @@ She took the word she had heard at the fire, and put it at the top, above the Gr
 Once, in the capital, after the Marshal's supper, she had put him there, and then put the Grey back over him. She stood at the water and waited to want to do it again.
 
 She left it there.
+
+---
+
+# Chapter Nineteen: Some
+
+**MARCUS**
+
+Gaius handed out the noise in the dark, at the edge of the reed, from a bundle on his back like a pedlar's.
+
+Each one was a slat of oak a forearm long, shaved thin and shaped to a leaf, with a hole bored at one end and a cord through it as long as a man's arm and a half. They had come off the *Constancy*'s offcut pile by boat, three nights ago, with the ash for the hooks, and Gaius had sat up by the fire on the hard with a drawknife and a pot of pitch and made them while the cohort slept, and in the morning had gone out alone into the reed to try one. The whole hard had sat up in its blankets. Something had bellowed out there in the steam like a bull with its leg in a trap, and gone on bellowing, and the clans' boats had slid away from the hard in every direction without a sound.
+
+"Roarers," Gaius said now, low, putting one into Marcus's hand. "Swing it round your head. Not fast at first. Let it find its voice. Then faster." He moved on down the line in the water, handing them out. "Don't stand next to a friend."
+
+Marcus weighed it. A bit of wood on a string. The cord was tarred and smelled of the ship.
+
+The water was warm round his thighs, and the air above it cold enough to sting the inside of his nose, and the steam stood on the fen a man's height deep, so that he could see the tops of the reed and the paling sky over them and nothing at all of his own legs. Behind him the cohort was strung out along the cut edge of the reed in a line as long as he could make it, every man in the water to the waist, waiting. He could hear them breathing. He could smell them: sour wool, and fen-mud, and the mutton grease they had rubbed into their hands against the cold, and under all of it the thing a body smells of in the dark before a fight, which is not fear exactly and not sweat exactly and which every soldier knows. Kaeso was a few men to his left with the drum slung high on his chest out of the water and the sticks in his teeth. On the right, where the line ran out toward the open water in the half-light, he could make out the Lanciarii by their lanceae, a stand of upright hafts above the steam like a second reed-bed, and Valeria's fair head in front of them, still.
+
+In front of him was the open. They had cut it themselves, the raiders, all winter: a long bowshot of shallows with the reed gone from it, mud and brown water and the cut stalks under the surface to turn a man's ankle. At the far side of it, grey in the grey, was the palisade, and the gate, and the smoke of the morning fires going straight up from behind it into air with no wind in it at all.
+
+Gaius had wanted no wind, for the noise. Alana had read it in the weather-book three evenings running and said *Still, at first light, I think*, and it was.
+
+Beyond the palisade, beyond the jetty, he could not see the deep channel. He did not need to. The clans had gone out into it in the night, all of them, the Tide-Speaker first, and the reed round the hard had been empty of eyes for the first time since the bar. He had not known how much he had grown used to them until they were gone.
+
+The General came down the line, wading slow, a head taller than anyone in the water, his beard combed for the occasion and his sword-belt hitched up over his mail to keep the scabbard out of the wet, which it did not. He stopped at Marcus's shoulder.
+
+"Light enough," he said.
+
+"Is it?"
+
+"It's light enough for them to see us. Which is the point of us." Roderic considered the gate. "I always liked a charge you were meant to lose. You can take your time over it."
+
+"We're not charging."
+
+"No. We're walking very loudly at a gate." The General eyed the roarer in Marcus's hand. "Don't stand next to me with that."
+
+He went on, back to the centre.
+
+Marcus looked along the line, left and right, at the heads in the steam. All of them his. He had not asked a man of them to be here this morning: there had been no need. They had heard the plan at the fire and gone to sleep on it, and woken in the dark and come down into the water without being told. Now they stood in it, waiting for him to put the roarer over his head. He had built this, out of convicts and a writ, and it held.
+
+He lifted the roarer and swung it round his head.
+
+It caught on the third turn. The slat began to spin on its cord, and a low throbbing came out of the air round his head, and grew, and deepened, until it was a roar he could feel in his teeth.
+
+To his left, Kaeso took the sticks out of his mouth and brought them down.
+
+---
+
+They went out across the shallows into the light making the worst noise Marcus had ever heard an army make.
+
+The roarers took it up along the line one after another, a score of them, each in its own voice, low and lower, like bulls in a burning byre. Kaeso beat the long roll, the one for the march, that ran on without a break until it was not a sound any more but a floor for the other sounds to walk on. Behind the line, on the reed-edge, the trumpeters off the ships had their horns up, and they blew the call to advance, and then the call to advance again, and then every call they knew, all at once and none of them together. And the cohort shouted. They beat their shields with their swords and their sword-hilts, and roared, and wailed, and Oppius on the left bellowed a song about a miller's wife that had a great many verses, and the men round him took up the verses they knew. Somebody on the right was barking like a dog.
+
+The sound went out across the open water in front of them, flat and huge in the dead air, and hit the palisade, and came back.
+
+Marcus waded. The mud took his boots at every step and gave them back with a suck, and the cut stalks under the water caught at his shins. He kept the roarer going. His arm ached with it already. The cohort came on round him in its long line, slow, splashing, out of step, its shields up and the brown water slapping at its belts, and the sky behind the palisade turned from grey to the colour of pewter, and then to white.
+
+Things were happening at the gate.
+
+He saw heads come up along the top of the palisade, and men running on the walk behind it. He saw the gate open a crack, and a man look out, and the gate close. A horn blew inside, a thin raider's horn against the din, and then a bell, struck fast and hard. Men ran along the jetty from the huts, pulling on mail, carrying bows and spears and long boathooks, and crowded into the walk behind the stakes. All of them looking south. At him. At the line and the noise and the shields, and the great roaring that seemed to come from everywhere at once.
+
+*Good*, he thought. *Look at us. Look at nothing else.*
+
+He let the roarer die and passed it back to the man behind him and drew his sword. The cohort was halfway across the open now, more than half. An arrow flew from the palisade, high, and dropped into the water somewhere on the right with a small sound he heard under everything else. Another. The Lanciarii's hafts came down level, all together, and went on.
+
+He looked past the gate, past the palisade, along the jetty to where it ran out into the deep water, to the pens.
+
+There was nothing there yet. The deep channel lay brown and smooth beyond the end of the jetty, under the steam, and the long black boats rode on it at their ropes, and nothing moved on it.
+
+He made himself not look again. If he looked, they would look. He kept his eyes on the gate.
+
+Then the noise at the gate changed.
+
+It was in the men on the walk. They had been crowding to the stakes and shouting back at the cohort, a few arrows going over, the ordinary noise of men on a wall who think they have the better of it. Then they stopped shouting, all along the walk, and turned their heads to someone behind them, and some of them left the walk and ran back down the jetty. Toward the pens.
+
+The cohort went on shouting. Kaeso's roll went on.
+
+They brought the young out.
+
+---
+
+They brought them out in their hands, and in the nets they had been caught in, and held them up.
+
+Marcus had not seen one before. The clans had not shown them to him; why would they. He saw them now, along the seaward end of the jetty, held up over the edge of it at arm's length by men who had pulled them out of the wicker pens: long, slight, wet things the colour of the reed, gold-eyed, smaller than a cat, with tails longer than their bodies that hung and curled and hung. Some of them were in the nets still, three or four to a net, held up like a catch. One man had two by the tails, one in each fist, and they were twisting. The sound they made came across the shallows under the drum and the roarers and the shouting, high and thin and continuous, a sound like a kettle that has been left on the fire.
+
+And under the jetty's seaward end, in the deep channel, the water moved.
+
+He saw the heads come up. Long and flat and set forward, the brown-green of shadowed water, a whole row of them, rising out of the channel at the foot of the piles exactly where they had said they would and exactly when; and stopping. Only the heads, and the eyes. Not one of them came further.
+
+A man on the jetty laughed, and held his net out further, over the water, and shook it.
+
+A knife came out along the edge of the jetty. Then another. The men holding the young held them out over the water with their knives under them, and turned to look, not at the clans in the channel below, but south, across the palisade, at him.
+
+Somebody on the jetty called something, and they all laughed.
+
+Marcus stood in the water with his sword out.
+
+He was a long bowshot from the gate. Less. He had a cohort at his back that had gone up the galleries in the dark and through the Forge and over the *Audit*'s rail, and it was still coming, still shouting, it had not seen yet. Kaeso had not seen. The roll beat on. He knew to a pace how long it would take them to reach the gate and how long to put it in, with the Lanciarii on the right, and the General, and Oppius's shoulder, and how many of the men on the walk had already left it. He could see the whole thing, the way he saw a page of figures; and the scar along his jaw pulled tight, and it would have been easy. It would have been the easiest thing in the world.
+
+"Pull back."
+
+It was Valeria. She had come across the line to him through the water, fast, from the right, and she said it beside him, not loud, under the din, the way she would have said *your strap is loose*.
+
+He turned his head and looked at her.
+
+Her face had nothing in it. She was looking at the jetty.
+
+"Pull back," she said again. "Now. While they're still laughing."
+
+He turned to the line and lifted his sword and roared it.
+
+"*Back!* Back, back, to the reed! *Kaeso!*"
+
+It went along the line in both directions as fast as he could have wanted: from mouth to mouth, men turning their heads, the shouting dying in them, the roarers winding down one by one with a long falling moan. Kaeso's roll broke off in the middle of a stroke. The drum gave the recall. On the reed-edge behind them the horns stopped, and then, raggedly, one of them blew the retreat.
+
+The cohort went back.
+
+It went back badly, because nothing goes back well in deep mud: men turning, colliding, shields catching, the line folding up in the middle into a crowd and stretching out again at the ends. Somebody fell and came up roaring. The Lanciarii gave ground in order, their hafts up, a step at a time, facing the gate, because Valeria had already gone back to them; he saw her fair head among them, and the Farrier, and heard her voice. He came back himself with his face to the jetty and his sword out, last in the centre, wading backward, and watched the young held out over the water until the steam took the far end of the jetty from his eyes.
+
+Behind the palisade, the raiders cheered.
+
+He heard it all the way back to the reed: a long ragged cheer, and laughter in it, and somebody on the walk blowing the raider's thin horn over and over, and the bell.
+
+---
+
+At the reed's edge they stood in the water and breathed.
+
+Nobody said anything. The men stood about in the shallows in knots, with their shields hanging off their arms, steaming, the sweat coming out on their faces in the cold now that they had stopped, and they did not look at him. They watched each other, and the water, and the palisade across the open, which had gone quiet; and some of them, he saw, watched Valeria.
+
+He went along the line.
+
+He went along it from the left, where Oppius was standing with his one eye shut and his face turned up to the sky; and Fingers with his helmet off; and Tappo, who said "Morning, Highness," like a man met on the stair at the fort; and Rufo.
+
+Rufo was standing apart in water to his belt, still, with one hand flat on his chest over the place where the net-doll was, inside his shirt. He was looking at the jetty.
+
+"Rufo."
+
+"I saw them," Rufo said.
+
+"So did I."
+
+"Little things." Rufo did not look round. "They're only little things."
+
+"Yes."
+
+Rufo's hand went up to the fair lock plaited above his ear, and held it, and came down. He said no more, and Marcus stood beside him for as long as he could spare, and then went on.
+
+He went down the centre, and the General, standing in the deepest of the water with his sword sheathed, gave him a nod he could not read and said nothing. He waded on to the right, to the Lanciarii, who were standing in their file in the water with their hafts grounded, in their file.
+
+She was in front of them, with her back to him, looking at the jetty.
+
+He stopped beside her.
+
+He had something to say. He had carried it the length of the line and he could not now think what it was. He stood beside her in the water and watched the jetty with her, and listened to the raiders' horn.
+
+"You were right," he said.
+
+She did not look at him. "I know."
+
+"I'd have gone on."
+
+"I know that too."
+
+Her right thumb was moving along the haft of the Farrier, slowly, up and down, the way he had seen it go in the Lesser Hall when they took the spear off her at the door; but the spear was in her hand now. He looked away from it.
+
+"Would we have got there?" he said.
+
+"Yes," said Valeria. "We'd have had the gate, and the walk, and the huts. We'd have had the jetty, by the time the sun was up." She turned her head then, and the white scar down her cheek came round to him, and her eyes were level. "And they'd have dropped them in. One at a time, off the end, to slow us. And the clans would have gone in after them, under the jetty, in the deep water, and the men with the boathooks would have been waiting for them." She looked back at the jetty. "That's what I'd have done."
+
+He stood with that.
+
+There had been a moment out on the shallows, after she said it the first time, when he had heard it and not done it. A breath, perhaps; not two. Nobody behind him could have seen it. But he knew where it had been.
+
+When the steam thinned off the open, the far end of the jetty came back, and the channel beyond it, and the heads were gone. He had not seen them go.
+
+---
+
+The flag came out a little after the sun was up.
+
+It came out of the gate on a boathook, a white rag on a long ash pole, carried by a man wading out into the shallows with another man behind him. Behind those two came a third, bigger than either: a big man in a good blue coat, who walked out through the water with his hands empty, at his ease, like a man going down to the harbor to see if his boat was in.
+
+The cohort watched him come.
+
+"Goldrings," said Sylara, out of the reed behind Marcus, where she had been since first light with her bow. "That's him."
+
+"I see him."
+
+"He's not stupid," Valeria said.
+
+"No," said Marcus. "He's not." He sheathed his sword. "General. Captain. With me." He searched the reed for the goggles, and there was Gaius, standing up to his chest in the water with the bundle of roarers floating behind him on its cord like a raft. "Engineer. You too."
+
+Gaius's eyebrows went up. "Me?"
+
+"I want you to look at his piles," said Marcus. "Close. While I keep him talking. How deep they go, and what's holding them up, and what you'd need to bring them down." He waded out. "Don't look at them while you look at them."
+
+"I never do," said Gaius, and came.
+
+They met the flag in the middle of the open, where the water was to Marcus's thighs. The two men with the boathook stopped a spear's length off and planted it, and stood either side of it, and the big man came on past them alone and stopped in front of Marcus, and smiled.
+
+Up close he was bigger than he had looked from the reed. He had a boatman's shoulders, gone a little soft round the edges with a winter of eating well, and a short brown beard going grey at the corners of his mouth, and a broad face weathered to the colour of a saddle. His coat was a fine dark blue, good wool, wet now to the hips, with silver buttons. And on every finger of both hands he wore a ring of gold: plain bands and twisted ones, a seal, a ring with a red stone, a woman's ring too small for the finger it was on, pushed down only as far as the first joint. His hands were a working man's hands still, broad and scarred across the knuckles, under all that gold.
+
+He looked at Marcus, and then at the General, and at Valeria, and longest at Gaius, who was studying the jetty over his shoulder with a buyer's polite interest. Then back at Marcus.
+
+"You'll be the one who asks," he said.
+
+"I'm told that's what they call me."
+
+"It's what they've called you all winter." He had an island voice, from somewhere south, flattened with years at sea. "I heard it from the first of them we took. They had the word for you in their mouths at the end. *The one who asks will come.*" The smile did not move. "And here you are. With your drums."
+
+"Here I am."
+
+"I'm Bassus." He tipped his head. "Bassus of Tarrow, once. These days most people don't ask."
+
+"What do the clans call you?"
+
+"I've no idea," said Bassus pleasantly. "I've never asked them."
+
+Beside him the General stood in the water with his eyes on nothing. Valeria was a pace to Marcus's left with the Farrier grounded, and he could feel her there without looking, the way he could feel a fire at his back.
+
+"You pulled back," said Bassus. "Quick. I liked that. Most men I've seen would have come on and lost the lot." He glanced at Valeria. "Was that you, Captain?"
+
+Valeria said nothing.
+
+"It was," said Bassus. "I thought so. I watched it go along your line." He turned back to Marcus. "So. You've got a cohort in the water and I've got a jetty, and a gate, and the goods. And I've got boats, and you haven't, and I've got the sea at my back and you've got that." He tipped his head at the reed. "We could stand here all spring. Or we could do business." He spread his hands, and the gold caught the low sun on every finger. "Everything's for sale, Highness, and nothing's for keeps. Not in my trade. Make me an offer for them."
+
+"For the young."
+
+"For the goods." Bassus shrugged. "Call them what you like. I've a buyer for them beyond the Grey, and he's paying by the head, and he'll want them alive. But he's a long way off, and the season's turning, and you're here." He smiled. "I'm a reasonable man."
+
+Marcus considered him.
+
+He could guess what the young were worth to a man beyond the Grey, and what the cohort's pay-chest held, and what the king's grain was worth to the dwarves, and how the sum would come out. He could feel the sum take shape in him, the way it had on the wall at Stoneheart with Rusca's offer in his hand. A price for each of them. Paid in silver, here, in the water, to this man. And then the next one who wanted silver would know where the clans' young were, and what the one who asks would pay for them.
+
+"No," he said.
+
+Bassus tilted his head. "No?"
+
+"I'm not buying them. They're not yours to sell." He held the man's eyes. "Here's my offer. You take your boats and your men, now, today, and you go out on the ebb, alive. All of you who want to. And you leave the young in the water."
+
+Bassus laughed.
+
+It was not an unkind laugh. It was a big easy laugh, a laugh to go with the coat, and the two men at the flag grinned to hear it. He shook his head.
+
+"That's not an offer," he said. "That's a threat with good manners."
+
+"It's both."
+
+"And if I don't?"
+
+"Then you stay," said Marcus. "And we stay. And the clans stay. And you've seen how much noise we make. You haven't seen them make any." He glanced past Bassus at the jetty, the long black boats at their ropes on the deep water. "You've been here all winter. When did you last see one of them, Bassus? Not in a pen. In the water. On their own terms."
+
+Bassus did not answer that. For a moment, while Marcus watched, his eyes slid past Marcus's shoulder to the reed, and to the brown still water at its foot, and came back. The smile stayed where it was.
+
+"I'll think about it," he said.
+
+"Think fast. The ebb's at dusk."
+
+Gaius cleared his throat.
+
+They all looked at him. He had taken his goggles off his forehead and was turning them in his hands, and his eyes, without them, were naked and steady, and they were not on the jetty any more. They were on Bassus.
+
+"Tarrow," Gaius said. "The lens-grinders' street. Below the bridge, on the near bank. Do you know what became of it?"
+
+Bassus looked at him.
+
+For the first time the smile went out of his face, not all at once, as a tide goes out; and what was underneath it was only a tired man in a wet coat, thinking.
+
+"There's no bridge," he said. "They burned the bridge. Our own lot did, going back." He was looking at Gaius properly now. "Tharsis had Tarrow by the next morning. I was on the other side of the island by then, rowing. I never went back." He shrugged, and the gold moved on his hands. "I couldn't tell you what's become of any street in it. I'd guess the same as the rest."
+
+Gaius said nothing. He put the goggles back on his forehead, carefully, with both hands, and settled them, and turned back to the jetty and its piles; and his face had gone the colour of the steam.
+
+Marcus did not know what that was. He knew Tarrow for a name on the old maps of one of the six islands; he knew Gaius had built a bridge once that his own army had burned, because Gaius said so, often, as a joke, when a thing he built was going to be taken away. He had never put the two together. There was something in Gaius's face, and it was not his.
+
+He would ask Liora, he thought. And then he thought he would not.
+
+Bassus was looking at Marcus again. The smile had come back, but it was a different smile now: smaller, and with something in it Marcus did not like at all, because it looked like liking.
+
+"You don't remember me, Highness," he said. "No reason you should. I rowed your stair."
+
+The fen went very quiet.
+
+"All night," said Bassus. "In a harbor boat, with my brother at the other oar. Out to the fleet with as many as she'd carry and back for more, under that stair, with the fires going on the landings." He nodded slowly, remembering. "We could hear them up there. The Hundred. Every trip. Then on the last one I looked up and the fires were going out from the top down, and I knew it was done." He looked at Marcus. "And I watched you go aboard. Before that. Earlier on. Off the bottom of the stair, onto Nerva's ship, with a couple of men round you. You didn't look back." He nodded again, almost kindly. "I don't blame you. I'd have done the same. I *did* the same, after: I took my boat and went. A man has to know when it's done." The gold glinted as he spread his hand. "That's why I'll do business with you, Highness. You know what I know."
+
+Marcus stood in the water.
+
+It was there, behind his teeth: the whole of it. The flanking move by sea. The cup. The blue bottle, and the captain's face, and waking far out on a grey sea with the island gone. And under that, in the oilskin, in a hand he had known all his life, his brother's order. He could have said any of it. He could have said *I was drugged*, and seen this man's face change, and Valeria's beside him, and gone back across the shallows lighter by a stone; and then he would have had to say by whom, and on whose order, and why; and it would have gone out of the fen on the ebb tonight in a raider's mouth to every harbor in the isles. His brother's name, in the mouths of men like this.
+
+The scar along his jaw pulled tight.
+
+Beside him the General had not moved at all. Roderic stood in the water like one of the jetty's piles, his eyes on the far reed, and his face was as quiet as a closed door; and Marcus kept his eyes off him, because he did not know what his own face would do.
+
+"The ebb's at dusk," he said. "Your boats that go out on it go out alive. The ones that stay, stay."
+
+Bassus studied him a moment longer. Then he nodded, satisfied of something.
+
+"I'll put it to the men," he said. "They're free men. They'll want it in writing."
+
+"They'll have it."
+
+"Then I'll send to you at noon." Bassus turned, and stopped, and looked back over his shoulder at Gaius; and seemed about to say something, and did not. He waded back to his flag, and the two men pulled it up out of the mud, and they waded back across the open to the gate with the white rag hanging off the boathook, and the gate opened, and they went in.
+
+Valeria said nothing all the way back to the reed.
+
+---
+
+Alana wrote the terms at noon, at the edge of the reed, on a stores box that two of the Lanciarii had carried out from the hard and stood in the shallows for her as a desk, with the weather-book under the paper to give it a back and the ink-horn wedged in a split stake beside her.
+
+He stood in the water beside the box and told her what he wanted, and she wrote it, and the quaestor, standing on her other side up to her waist in the brown water with her copper braid tucked into her collar out of it, read every line over Alana's shoulder as it was written.
+
+*Under the parley flag, at the jetty in the fen, on the first day of spring that the clans keep. The bearer of this and the boat he sails in may go out by the deep channel on this evening's ebb, unharmed, and no ship of the alliance will stop him on the open sea for the fen's sake. He leaves the young of the clans in the water, every one, and puts them there with his own hands. If he comes back, this paper is nothing.*
+
+She read it back to him. Her lips moved over the words before she spoke them, the way they moved over the weather-book's figures in the evenings, and he watched them move and thought of nothing for a moment but that.
+
+"Is that what you mean?" she said.
+
+"Yes." He looked at it. "*The first day of spring that the clans keep.* Is it?"
+
+"Sszarra says so." Alana did not look up. "She told me yesterday, when I asked her what day it was. I thought it was a strange thing to ask a woman who has no calendar, but she answered like someone who had been waiting to be asked." She blotted the line with her sleeve. "They begin the year when the young come out. I didn't think it should be in a raider's pocket under our date."
+
+He was quiet.
+
+"How many copies?" she said.
+
+"One for each boat that goes. We'll know how many at the gate."
+
+"Then I'll write them as fast as they come." She dipped the pen. "Your mark goes under each. Not your name. Whoever finds one of these in a harbor tavern next year shouldn't be able to sell it as the prince's own hand."
+
+"I don't have a mark."
+
+"You have the dolphin," said Alana. "You drew it in the shell at the fire when you were thinking, and on the edge of my weather-book on the *Forward*, twice, when you thought I wasn't watching." She turned the paper toward him and held out the pen. "It's a good dolphin. Draw that."
+
+He took the pen.
+
+His hand was cold from the water and not quite steady with it, and he drew a dolphin at the foot of the paper anyway, a leaping one, a little lopsided in the tail. She blew on it.
+
+"It is a good dolphin," said the quaestor, from her other side.
+
+They both looked at her.
+
+"The line's clean," said Rusca. "It's a hand that's drawn the same thing a great many times without being taught it." Her fingers went to the linen in her cuff, from habit, though there was no page to turn. "And the terms are good terms. They'll take them. Some of them."
+
+"How do you know?" said Marcus.
+
+"Because I've read the contracts," said Rusca. "Not his. But the Survey's had men like him in its ledgers for years, on the coasts it hasn't time for. They're paid by the job, never by the season, and the job is always written by the head. So many towns emptied, so many goods delivered." She said it in her clear clerk's voice, without weight. "A crew paid by the head is a crew that has been counting all winter. The ones who've counted enough are tired. They want to go home and spend it. You've just offered them that." She turned her eyes across the open water to the palisade. "The ones who haven't counted enough will stay."
+
+Alana had stopped writing. Then she dipped the pen again.
+
+He stood beside the box while she copied it out a second time, and a third, in the hand she used for her letters class, small and clear and leaning a little forward, in a hurry to get somewhere. The sun was on the back of her neck where her dark hair was knotted up off it, and the steam stood round them, and the ink smelled of oak-gall and the fen smelled of rot and warmth, and the raiders' horn had stopped. Out on the jetty, small in the distance, men were moving between the boats.
+
+"I watched you out there," Alana said, not looking up. "When she said it."
+
+He said nothing.
+
+"You did it at once."
+
+"Not quite at once."
+
+"At once." She blotted the third copy. "I was watching." She laid it on the others and put a stone on them against no wind at all. "I've never seen you do that. Go back. Not when you could see the way through."
+
+"I could see it."
+
+"I know you could. I saw your face." She looked up at him then, with her hazel eyes, for the first time since he had started telling her the terms. "I'm glad you went back."
+
+He looked down at her, and at the papers under the stone, each with its lopsided dolphin. He wanted to put his hand on the back of her neck where the sun was. There were three Lanciarii and a quaestor standing in the water within arm's length, and the cohort strung along the reed behind him; and he did it anyway, briefly, and felt her lean her head back into his palm for a moment, warm, before she bent to the fourth copy.
+
+---
+
+The noon messenger was one of the flag-men, alone in the water with his hands out to show them empty, and he said that the captain would take the paper. He said it like a man who had been told to say exactly that and nothing else.
+
+"How many boats?" said Valeria.
+
+The man looked at her and back at Marcus. "Half," he said. "Near enough."
+
+"And the other half?"
+
+He shrugged. "Scapula's staying. And them that's with him. They say the captain's gone soft, and there's more to be had here than a paper." He studied the water round his knees. "I'm going."
+
+"Go, then," said Marcus. "Take these. The rest will be at the pens when your boats come.""
+
+They came out of the gate in the middle of the afternoon, the ones who were going, and Marcus watched it from the edge of the open with the cohort in the water round him and their shields up, in case.
+
+There had been a quarrel at the gate first. They heard it across the shallows without the words: shouting, a scuffle on the walk, somebody thrown down. Then the gate opened and stayed open, and men came out along the jetty to the boats, carrying their gear, bundles on their backs and chests on their shoulders; and other men stood on the walk and along the palisade and watched them go, and did not help them, and did not stop them. There were a great many on the walk. More, he thought, than were going. He could not tell from so far who was which.
+
+The boats that were going went down to the pens.
+
+He watched them. He made himself. They pulled up one by one along the seaward end of the jetty, where the wicker pens stood half in the water, and men climbed out of them onto the boards. They opened the pens, or some of them. They lifted the young out, or tipped them, or reached in with a boathook and broke the wicker so that the water came in; and the small gold-eyed things dropped into the deep channel in twos and threes, a scatter of splashes, and were gone.
+
+One man, he saw, knelt at the edge of the jetty and let them go one at a time out of his hands, close down at the water, the way the eel-wives on the quay at home threw back the ones too small to sell. One man kicked a pen over with his boot. Most of them did it quickly, not looking, the way men do a thing they have been paid to stop doing.
+
+Some of the pens they did not open. Those were the pens at the far end of the jetty, under the walk, where Scapula's men stood watching.
+
+The water under the jetty did not move. Not once, while he watched. But when each little splash went in, it did not come up again.
+
+The sun was low when the boats went out. They went on the first of the ebb, one after another down the deep channel toward the sea, long and low and black with their oars going and their sails still furled, and the men in them did not look back at the jetty, or at the shallows, or at the cohort. Bassus's boat was the last. He stood up in the stern of it in his blue coat as it went past the end of the jetty, and from across the open, too far off to see his face, Marcus saw him lift one gold-ringed hand in the air, once; and then the boat turned the bend in the channel and was gone into the steam.
+
+Valeria was beside him.
+
+"Some of them will raid again," she said.
+
+He watched the place where the boat had been. The ebb ran smooth and brown out of the fen toward the sea, carrying a scum of ash and broken wicker on it.
+
+"And some won't," said Marcus. "I'm buying *some*."
+
+She did not answer that. She breathed out through her nose, once, which was nearly a laugh, or nearly the opposite of one; and turned back to her file.
+
+On the jetty the men who had stayed began to pull their boats in.
+
+---
+
+They waded back to the hard at dusk, through the reed, by the clans' channels, with the cohort strung out behind in single file the way Sszarra had taught them on the first morning, each man where the man in front had been. Behind them the jetty had lit its torches. From the last of the open water Marcus could see them burning along the walk and down the length of the jetty to the end, where the pens were, and the reflections of them going down into the deep channel and lying there in long gold bars.
+
+On the hard there was mutton in the pot, and the last of Fausta's loaves gone hard as horn, which the men broke on the shell with their sword-hilts and dropped into the broth to soften. The smell of the meat and the woodsmoke and the wet men round the fire was the best smell he had smelled all day, and he ate standing up, because if he sat down he did not think he would get up again. Liora worked along the fire with her satchel, looking at the hands that had been cut on the stalks under the water and the shins that had been barked on the mud, and closing what needed it with her fingers, quick and neat, like a woman mending stockings. Nobody had been hurt worse than that. The arrows from the palisade had all gone into the fen.
+
+Gaius was sitting at the edge of the light with his slate on his knee, drawing the piles of the jetty. Marcus watched him draw for a time. He drew steadily and well and did not look up, and Liora, when she had finished along the fire, sat down beside him on the shell, not touching him, with her satchel in her lap; and Gaius did not look up then either, but after a moment the chalk stopped, and stayed stopped, and then went on.
+
+Marcus did not go over.
+
+Later the General got up from the fire, and stretched until his back cracked, and said something to the fire in general about his old bones and the warm water at the north end; and went down off the shell into the dark among the willows, toward the pool. A little after that Valeria got up too, and put the Farrier into the crook of a willow root where it would stand, and followed him down. She did not say anything to anybody. The fire kept its eyes on the pot; all but Rufo, who smiled into the flames, slowly, and then put on a serious face again.
+
+Marcus sat down at last. Alana came and sat beside him, and he lay down on his back on the shell with his head in her lap and looked up at the steam going up past the firelight into the dark, and listened to the fen.
+
+It was full of sound tonight. He had not heard it so before. Out in the reed, all round the hard, in every direction, a low sound like water over a weir, near and then far, answering itself; and once, far off toward the jetty, something that was almost a bell.
+
+"They're talking," said Alana.
+
+"About us?"
+
+"I think," said Alana, "about the ones who've come home." Her fingers moved in his hair. "And about the ones who haven't."
+
+---
+
+The ones who had stayed knew what they were doing.
+
+He saw it in the morning from the reed's edge, with Valeria and Sylara, the three of them with their heads above the water, the way Valeria had gone to look at it the first time. Scapula had pulled every boat he had left in along the inside of the jetty, under the walk, and moored them there head to tail, close as a row of houses. He had dragged the last of the pens up out of the water onto the jetty itself, up on the boards, away from the deep channel, where nothing could come up under them. He had men on the walk with bows, and men at the seaward end with boathooks, looking down. They were looking at the water now.
+
+"He's learned," said Valeria.
+
+"From Bassus going?"
+
+"From the splashes." She watched the end of the jetty. "Every one his boats let go yesterday sank and stayed down. Somebody was under there all afternoon. "He'll not wait for us to come at him again. He's got the boats and the goods and not enough men to hold a palisade. He'll run."
+
+"When?"
+
+"Tonight. In the dark. With the goods in the boats." She turned her head west, along the fen's edge, to the place where the reed began again beyond the cut and the narrow channels opened into it. "Not out the deep channel. That's where we'd be waiting, he'll think, and the clans with us. West, into the reed, and round to the sea by the channels they know. They've had all winter in these boats. They'll know a few."
+
+Sylara said, very low: "They know three. Sszarra told me. Two of them go where they think."
+
+Marcus looked at her.
+
+"And the third?" he said.
+
+"The third goes to her sister's town," said Sylara.
+
+---
+
+He asked Sszarra that afternoon, on the hard, at the water's edge. He had not seen her since the dawn. She came up out of the water at the foot of the shell when he went down to it, and had perhaps been waiting there all day, and stood upright in the shallows in her harness of plaited reed with her tail in the water and her long flat head set forward, and the gold eyes with the black bar in them on his face.
+
+"They will run tonight," he said. "West. By the three channels they know."
+
+"Yes."
+
+"You knew that."
+
+"We have watched them all winter, one who asks." The pale throat moved, slowly. "We know which way a man runs when he is afraid. We know where every channel goes. They do not."
+
+"Then tell me how you want it done," he said. "My men will go where you put them."
+
+She told him. She said it in the clans' way, each word set down by itself, clean and separate, like stones laid in a ford, and he listened and did not interrupt. The two channels that led where the raiders thought ran west and then north, out to a mouth on the sea, through reed that closed over them in places like a roof. Where they narrowed she wanted the dry-folk standing in the water across them, in the dark, a wall of shields from one bank to the other, and making no noise at all until the boats were on them. The loud ones, she said, could be quiet for once. It would surprise everybody.
+
+"And your people?"
+
+"Behind," said Sszarra. "When the boats stop at your shields, we will be behind them. Under them. You will not see us until we are there."
+
+"The young will be in the boats."
+
+"Yes," said Sszarra. "That is why we will be under them, and not you."
+
+"The third channel," he said. "The one that goes to your sister's town."
+
+"Some will take it," said Sszarra. "It is wide at the start. It looks like the best." The gold eyes did not blink. "It goes to the town, and then it stops. There is no way out of the town's water but the way you came in. They burned it from that end." She was quiet a moment. "They will know the place when they see it."
+
+"Who'll be there?"
+
+"Whoever you send," said Sszarra. "And us."
+
+---
+
+He sent Rufo.
+
+He sent the General with him and the left of the line. He sent Valeria and the Lanciarii to the head of the first of the two channels, and took the rest of the cohort to the second himself, where it narrowed under the roof of reed. Gaius went with the clans' broadest reed boats and the cutting bar slung between them on its chains, to lie in the side-water off the deep channel in the dark in case anything came that way. Florus, who could not swim, had a reed boat of his own, and something with blue hair had come up the river behind the clans in the night and was keeping near it, and would not say why. Sylara went with Rufo. He had not sent her. She had gone to stand beside Rufo when he said the name of the town, and Valeria had glanced at her, and let it be, and so had Marcus.
+
+Before they went down into the water, in the last of the light, Valeria came along to Rufo where he stood at the edge of the shell checking the straps of his shield, and stopped in front of him. Marcus was near enough to hear.
+
+"Rufo."
+
+He looked up.
+
+"You'll have it tonight," said Valeria. "In the town. That's where I'm pointing." She held his eyes. "The goods are in the boats. Don't break those."
+
+Rufo looked at her for a moment. Then he put his hand flat on his chest over his shirt, where the doll was, and nodded once.
+
+"Aye," he said.
+
+---
+
+The water in the second channel was warm as blood and black as the inside of a boot.
+
+They stood in it to their chests, across the channel, shoulder to shoulder, shields up and locked edge to edge from one wall of reed to the other, and waited. There was no moon yet. The reed met overhead, or nearly, in a roof of dead gold stems that rattled when anything moved them, and under it the dark was entire: he could not see the man beside him, only feel his shoulder through the mail and hear him breathe. The steam lay on the water warm and wet against his face. Something small swam past his legs, and something else touched his knee and went away.
+
+He did not know how long they stood. He thought about the ebb, and the moon, and whether he had put the shields at the right place, and whether the raiders would come this way at all or the other, or the third; and then he stopped thinking about any of it and only stood, the way he had learned to stand on the stair, a long time ago, with the man on either side of him.
+
+Behind him somebody whispered, "Is this what she meant by *quiet*," and somebody else whispered "*Shut up*," and Marcus thought it was Fingers and Oppius, and did not turn round.
+
+Then he heard oars.
+
+Not close. Far off down the channel, from the east, the sound came along the water under the reed: the knock of oars in tholes, muffled with rag; and the splash of the blades, careful, short strokes; and a man's voice, low, giving the stroke. And a light. A hooded lantern in the bow of the first boat, a slit of yellow swinging low over the water, showing the reed on either side of the channel for a pace and then letting it go back into the dark.
+
+He felt the shields along the line go tight.
+
+The boats came on. Two of them, three, in a line, nose to tail. He could see the first now by its own lantern: a long black raider's boat, low in the water, crowded, oars going, a man in the bow with a boathook feeling ahead for the bottom. And under the thwarts, in the bottom of the boat, between the rowers' feet, something moving. Nets. The light slid across them and he saw a gold eye shine in it, and another, and was gone.
+
+The man with the boathook saw the shields.
+
+He saw them at a boat's length, in the slit of light: a wall across the channel where no wall had been, black and wet and level with the water. He shouted. The oars flailed every way at once, backing, catching, and the boat slewed and stopped dead, broadside on, with its bow in the reed; and the boat behind ran into it, and the one behind that, and the lantern went over and hissed out.
+
+"*Hold!*" roared Marcus. "Hold the line!"
+
+It was dark again, and full of noise. Men shouting in the boats, oars cracking against each other, a man in the water already somewhere, thrashing. Something came at the shields out of the dark, a boathook, and hit the shield beside Marcus with a crack and slid off, and came again. He could not see it. He put his shoulder into his own shield and held.
+
+Then the first boat began to scream.
+
+Not the men. The boat. A long grinding shudder ran through it that he felt through the water against his chest, and it rose on one side, slowly, out of the water, with something strong under the keel, putting its shoulder in; and the men in it screamed and grabbed at the gunwale, and it kept rising, and over. It turned over all at once with a roar of water. He felt the wave of it break against the shields and slap him in the face.
+
+Something came up out of the water beside the overturned hull, long and dark against the lesser dark, and sank again, with something small held against it.
+
+Then another. And another, all along the side of the boats, in the water, close under the gunwales, and the boats behind the first began to rock, and the raiders in them stopped shouting at the shields and began to shout at the water instead.
+
+"*Now!*" Marcus roared. "Forward! At them!"
+
+The line went forward.
+
+It went forward in the dark into the boats, wading, hacking, shields up; into a tangle of oars and hulls and men in the water and men in the boats with knives and boathooks, by no light at all now but a paleness in the cloud through the reed roof, where the moon was coming. He waded into it with his sword. A man came up out of the water in front of him with a knife and he put the shield into the man's face and felt the man go down. He trod on something that moved. Something hit his helmet and rang it, and his head rang with it. On his left Oppius had taken hold of the gunwale of the second boat with both hands and was trying to lift it, roaring, and the men in it were hitting at him with their oars; and he lifted it, and it capsized, and the men spilled into the water on the far side.
+
+He did not see much of what the clans did. Nobody did. A raider would be in the water, swimming, splashing for the bank and the reed, and then he would not be splashing; and there would be no sound at all.
+
+He heard Tappo, somewhere behind, shouting, "That's mine, that one's mine, Highness, I had him first," at something, and a howl, and Tappo laughing. He heard Fingers swearing steadily, like a man counting coins. He heard Kaeso, who had no drum tonight, give the cohort's yell, high and long; and the whole line took it up, and the reed rang with it, and they were through the boats and out the other side of them into the dark, and there was nobody in front of them.
+
+---
+
+The moon came up a little after, behind thin cloud, low over the reed, and put a grey light over everything like ash.
+
+In it he saw the channel. Two boats were on their sides in the water, and the third had got turned and was fast in the reed with its bow up, empty. Men of the cohort stood about in the water to their chests, blowing, holding their shields up by habit, looking about them for something to hit. There was a raider sitting on the overturned hull of the first boat with his hands on his head, and two more in the shallows at the reed's edge with Macro's spear levelled at them, and that was all of the raiders that there were.
+
+The clans were not to be seen.
+
+The young were not to be seen either. The nets lay in the bottoms of the boats, empty, and one floated on the water near Marcus, torn open, and he picked it up out of the water and found nothing in it but weed.
+
+"Highness," somebody said. "Highness, over here."
+
+It was Florus, standing in a clan reed boat at the side of the channel, which he had poled up from somewhere in the dark. In the water beside it, holding on to its edge with one webbed hand, was a merwoman with blue hair plastered dark to her skull and her face screwed up in disgust.
+
+"She says it won't hold her up," said Florus.
+
+"It won't," said Actaea. She let go of the boat and sank to her eyes to prove it, and came up again spitting. "It's like swimming in soup. Warm soup. There's no *salt* in it." She hung on to the edge of the boat again, glaring. "I came all this way. I came up a river. I have never been so insulted by water in my life."
+
+"You came anyway," said Florus.
+
+Actaea looked up at him.
+
+"Yes," she said. "Well. You were going to fall in."
+
+"I didn't fall in."
+
+"Because I was here." She looked at Marcus. "There's one of yours in the water back there, Highness, by the reed. Your healer's with him. He has a hole in him. He's cross about it." She turned back to Florus, and her voice changed. "Pole me out of this," she said. "*Sir*."
+
+Florus picked up the pole.
+
+Marcus went back along the channel. Liora was kneeling in the water at the reed's edge, up to her shoulders in it, with Tappo propped against the bank in front of her and her hands on his side, under the water. Her honey-gold hair was wet to the crown and her white sleeves were black with fen-water to the shoulder. Tappo had his head back against the reed and his eyes shut and was swearing at the sky in a low continuous voice.
+
+"Boathook," said Liora, without looking up. "He'll do."
+
+"I had him first," said Tappo, to the sky. "I had that one first."
+
+Marcus put his hand on Tappo's head, briefly, as he passed, and Tappo opened one eye and shut it again.
+
+---
+
+The others waded in toward dawn.
+
+Valeria's channel had gone the same way as his: the boats stopped at the shields and the clans under them, and the young gone out of the nets before the raiders knew they had lost them. One boat had got by her. It had come at the shields with its oars out like a fan, and taken two of the Lanciarii off their feet, and got round the end of the line where the reed was thin, and run for the sea. She told it him in a few sentences, standing in the water at the hard's foot with the Farrier in her hand and blood on her plaits that was not hers. She was angry about the boat.
+
+"The ships will have it," said Marcus. "It'll come out at the mouth."
+
+"I know," said Valeria. "I wanted it."
+
+The General came in last, with the left of the line, and Rufo, and Sylara, by the third channel, from the direction of the burned town.
+
+They had nobody with them. No prisoners. Marcus stood at the water's edge and watched them come out of the reed into the grey, in no hurry, wading, and saw that none of them was talking. Sylara had her bow unstrung across her shoulders and her quiver empty. The General walked with his sword sheathed and his eyes on the shell ahead of him and his face entirely closed. And Rufo walked behind them both, last, with his shield on his back and his hands empty at his sides, and his face quiet; and Marcus saw his face and looked at the shell instead.
+
+The General stopped in front of Marcus in the water.
+
+"They took the third channel," he said. "Scapula and the most of them. Two boats."
+
+"And?"
+
+Roderic looked at him a long moment.
+
+"It goes to the town," he said, "and then it stops." He turned his head toward the way he had come, the reed, where the steam was turning grey with the morning. "They knew the place when they saw it."
+
+"The young?"
+
+"Sszarra had them out of the boats before we got there," said the General. "All of them. We only had the men." He paused. "Rufo had the men."
+
+Marcus looked at Rufo.
+
+Rufo had come up out of the water onto the shell, and stood there, huge against the paling sky, and took the doll out of his shirt. It was wet through. He held it a moment. Then he went down on one knee at the water's edge, carefully, and held it, and looked out over the fen.
+
+Sylara went and knelt down next to him. She put her shoulder against his arm, and stayed.
+
+"He didn't say a word," the General said, low. "Not the whole time. Not before and not after."
+
+"She pointed, and he broke it."
+
+---
+
+They had lost nobody.
+
+He went along the fire when the sun was up, asking, and it was true. There were cuts, and a broken arm in the Lanciarii, and Tappo's hole, and a man of the cohort who had been held under by a raider in the dark and come up full of fen-water and been sick for an hour. Liora moved among them all, kneeling in the shell, and closed what could be closed, and by the time the steam was off the water there was nobody on the hard who could not walk.
+
+The clans had lost two.
+
+Sszarra told him at the water's edge, standing upright in the shallows. She told it in the same voice as everything else. Two had gone under a boat in the second channel when it capsized, to take the young out of the nets in the bottom of it, and a raider with a knife had been under the boat too, in the air under the hull, waiting for whatever came. One of them had brought the young out anyway. Neither of them had come back up.
+
+"I'm sorry," said Marcus.
+
+"Yes," said Sszarra.
+
+"Will you—" He did not know how to ask it. "Is there something we should do?"
+
+"Watch," said Sszarra. "If you wish. It is not a thing that is done in secret." She turned her long head toward the north, toward the jetty. "At the place they were taken from. When the young go back."
+
+---
+
+They went to the jetty in the full morning.
+
+It was empty. The gate stood open, and the huts behind the palisade were cold, and the walk had nobody on it; there was a bow left leaning against a stake, and a pot of something on a dead fire, and a raider's thin horn lying on the boards where it had been dropped. The torches had burned down in their brackets along the jetty to black stumps. The cohort walked out along it in a long loose file, their boots loud on the planks after days of mud, and nobody spoke, and nobody touched anything.
+
+At the seaward end the pens were still up on the boards where Scapula had dragged them, broken open, empty. The wicker smelled of the young, a thin musky smell like wet leaves, and of the men who had kept them.
+
+The clans were in the water.
+
+They were in the deep channel all round the end of the jetty, under it and beside it and out beyond it, more of them than he had seen together in all the days since the bar: the heads, and the shoulders now too, the narrow bodies upright in the brown water, still. Sszarra was among them, below the end of the jetty, with the water to her chest. And between them, on the water, there were two reed boats, the narrow kind, flat as trays, with nothing in them at all; and laid across each boat from side to side, not covered, lay one of the dead.
+
+He stood at the end of the jetty, with the cohort behind him in its long file, and Alana beside him, and watched.
+
+The clans made no sound. The boats lay on the water with the dead in them, and the clans stood round them, and the morning sun came across the fen and lit the steam gold and lit the dark scales of the dead in their boats the brown-green of shadowed water.
+
+Then the young came.
+
+They came up out of the deep channel all round the boats, out of nowhere: small heads breaking the water in their dozens, gold-eyed, slick, the colour of new reed. They came up among the legs of the clans and between the boats and swam round them in the sun, until the channel teemed. A low sound came from all of the clans, soft, under the water and above it, like the fen breathing.
+
+The clans took the dead out of the boats.
+
+They did it slowly. A few of them to each, lifting the long bodies out of the reed boats in their arms and into the channel, and holding them there a moment, on the surface, in the sun, with the young swimming round them. Then they let them go down. The water took them without a ripple, as it took everything the clans gave it; and the young went down after them, and came up again, and went down, and came up.
+
+When it was done the clans went down too, one by one, until there was nobody in the deep channel at all but the young, and the empty boats, and the sun.
+
+He watched the young swim out from the end of the jetty in the morning light, toward the reed in twos and threes, small splashes going out across the brown water away from the pens, toward the warm pools and the hatching-grounds and home; and the reed took them in, one after another, and closed behind them, and the fen was full of them.

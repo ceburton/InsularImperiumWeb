@@ -8704,7 +8704,7 @@ Nobody had said yes. That was the joke of it, and the book. A cohort of men who 
 
 Marcus sat on the stone bench by the door with his back to the wall and his boots to the trough, and watched them come to the slate.
 
-They came in twos and threes after the bathing hour, with their hair wet and their skins steaming in the cold of the hall, and stood in front of it reading, or having it read to them, and arguing. Macro's name had been struck through on the first night, with a line under it: *in another book.* So had Strabo's (*ELF*), and Rufo's, with no note at all, because there was no need of one. Florus was struck through: *too wet.* Fingers had put himself at the bottom of the slate at odds so long that the figures ran off the edge, with the note *the house does not play*. And next to the bottom, at the longest odds on the slate that were still on it, side by side: *NAEVIUS and LOLLIUS (together or not at all).*
+They came in twos and threes after the bathing hour, with their hair wet and their skins steaming in the cold of the hall, and stood in front of it reading, or having it read to them, and arguing. Macro's name had been struck through on the first night, with a line under it: *in another book.* So had Strabo's (*Elf*), and Rufo's, with no note at all, because there was no need of one. Florus was struck through: *too wet.* Fingers had put himself at the bottom of the slate at odds so long that the figures ran off the edge, with the note *the house does not play*. And next to the bottom, at the longest odds on the slate that were still on it, side by side: *Naevius and Lollius (together or not at all).*
 
 "That's not fair," said Tappo, at the slate, with his cup. "They don't talk."
 
@@ -8808,7 +8808,7 @@ She went down the trough, and held out a hand to each of the cousins, and they g
 
 At the slate Fingers sat very still on his stool with his box in his lap.
 
-Marcus got up and went over to him. He did not say anything. He took the chalk off the ledge and held it out, and Fingers looked at it, and took it, and stood up, and drew a line through *NAEVIUS and LOLLIUS*, and wrote beside it, in the small neat capitals: *PAID.*
+Marcus got up and went over to him. He did not say anything. He took the chalk off the ledge and held it out, and Fingers looked at it, and took it, and stood up, and drew a line through *Naevius and Lollius*, and wrote beside it, in the small neat capitals: *PAID.*
 
 Then he looked at the bottom of the slate, where his own name was, at the odds that ran off the edge, and stood looking at it.
 

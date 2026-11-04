@@ -2058,11 +2058,11 @@ He held the yard door for her himself. It was snowing in the yard, and the lamp 
 
 **RUSCA**
 
-The flock came off the mountain at first light, one beast at a time, and Rusca counted it.
+The dragons came off the mountain at first light, one beast at a time, and Rusca counted them.
 
 She counted from the flat rock on the headland above the Shambles, as she had every dawn and dusk since she came, with her back to a boulder and the book open on her knee. The rock was wet, and its cold came up through the Survey's black. The sleet drove in off the sea in ruled lines. Above the cliffs the snow began, and above the snow the high vents breathed their smoke into the morning, yellow-grey and slow; when the wind laid it over the headland she tasted sulphur on her teeth. She had eaten first, barley porridge boiled thick with salt and goat fat, and a cup of hot water with nothing in it; the Survey did not drink in the field. Her mitts left her fingers bare for the pen. She wet her thumb to turn to the day's page, and dried it on the square of linen in her cuff, so that the page would not cockle.
 
-They were not large. That had been her first correction to the Survey's file on Stoneheart. The file was copied out of old Aeridor books, and the old books gave the mountain one dragon the size of a granary, with a grievance. She had found a flock. No beast in it was bigger than a horse, if a horse were mostly neck and tail and opened on either side into sails of skin wider than a hunting boat was long. They roosted in the warmth of the high vents, where the rock never froze, and they were the colors of the mountain: slate and rust, ash and soot, and the grey-green of the lichen on the lower rocks. A beast that held still against the cliff on a wet morning was not there at all until it moved. She had entered forty-three, by their marks.
+They were not large. That had been her first correction to the Survey's file on Stoneheart. The file was copied out of old Aeridor books, and the old books gave the mountain one dragon the size of a granary, with a grievance. She had found a flock of dragons. No beast in it was bigger than a horse, if a horse were mostly neck and tail, scaled close as a fish from the long jaw to the tip, and opened on either side into sails of skin wider than a hunting boat was long. They roosted in the warmth of the high vents, where the rock never froze, and they were the colors of the mountain: slate and rust, ash and soot, and the grey-green of the lichen on the lower rocks. A beast that held still against the cliff on a wet morning was not there at all until it moved. She had entered forty-three, by their marks.
 
 Each had two lines in her book, because the light was different at either end of the day, and so were the marks. In the morning they came off the vents against the grey, and she knew them by their colors: the soot with the white throat, the rust with the dark saddle, the old slate gone pale along the spine. At dusk they came home against the red of the vents, flat as cut paper, and she knew them by their sails: a notch, a tear, a finger short, the pucker where an old bolt had gone through and healed. The Thessa men had names for a few of them. Hers were figures, Slate One and Rust Four and Lichen Two, and hers were better, because they could be added.
 
@@ -2074,7 +2074,7 @@ When the last was off she read down the list for the ones without a tick, and th
 
 *Over the coast: twelve.* She wrote it, and the inland figure beside it, and added the two, and they came to the whole flock, as they ought.
 
-Down on the Skerries the boats were in on the last of the ebb, and the stock had gone over their sides to stand in the wash along the seaward rocks, a dark line with its back to the sea, as she had written it the night before: *Stand in the wash. Let nothing by.* Rust Four had turned for the coast. It came down on the Skerries out of the sleet with its sails half shut, at the far rock the hunters had not reached. The Thessa men ran at it shouting with their clubs up; and one of the stock stood in the wash beside the seal it wanted, as written.
+Down on the Skerries the boats were in on the last of the ebb, and the stock had gone over their sides. Stock was the word on the Survey's form for the dead it kept, and the only word a quaestor used. They stood in the wash along the seaward rocks with the sea to their knees, a dark line with its back to the water, as she had written it the night before: *Stand in the wash. Let nothing by.* Rust Four had turned for the coast. It came down on the Skerries out of the sleet with its sails half shut, at the far rock the hunters had not reached. The Thessa men ran at it shouting with their clubs up; and one of the stock stood in the wash beside the seal it wanted, as written.
 
 It coughed.
 
@@ -2090,7 +2090,7 @@ She entered it on Rust Four's line, with the stock beside it: *one, scorched; he
 
 The wind brought the smoke down over the headland, and a strand worked loose from the heavy braid wound into a knot at her nape and blew across the page. She tucked it back with the end of her pen. Her hair was the color of a new bronze coin, and on this coast it came loose every day; everything here did that was not tied down twice.
 
-The one on the high vent was not in the count.
+One dragon was not in the count.
 
 It was there this morning, as every morning, on the highest of the vents where the smoke came out thickest: twice the size of Slate One, lying along the rock with its head up, the color of the cliff itself, so that she had looked straight at it for days before she saw it. She had not once seen it come down. It did not hunt the coast, and it did not go over the ridge. It lay in the warmth and watched the flock go; and the coast, and the boats, and whoever sat on the headland with a book.
 
@@ -2128,7 +2128,11 @@ At noon they ate in the lee of the try-pots, with the heat on their faces and th
 
 The Thessa men had been quick to take up the custom of not looking at the stock, and kept their spitting besides. She had asked for stock from the south-shore quarries, not from Thessa, so that no man of Mastarna's need spend a day not looking at a cousin. It had cost her a letter and a week.
 
-Sethre, who was the talker among them, had a figure of his own for the kites. "Not one. All the time we've been here, and they've not touched one of the cold lads."
+There was a file of them at the try-pots now, carrying the morning's blubber up the shingle in baskets: men of the south-shore quarry towns, in the Survey's issue oilskins over whatever they had been laid out in. Their faces were the grey-white of tallow. The eyes in them were open and clouded, as the seals' eyes were on the trestles, and did not blink when the sleet went into them. Quarry dust was still worked into the creases of their knuckles, where no one had washed it out. The Thessa men's breath went up in smoke round the fire, and the clerks', and her own; over the file at the try-pots there was nothing at all.
+
+They had died in the ordinary way, in the ordinary places: a winter cough, a fever, a fall of rock in the cut. Each family had had a letter from the Survey, and a month later had seen its son on the quay, or hauling stone up the hill road at night, and had not looked at his face, and had put a lamp in the window for a year. That was what the dead were in Tharsis, and all they had ever been in Rusca's life. A quaestor wrote a sentence on the brow, and they did what it said.
+
+Sethre, who was the talker among them, had a figure of his own for the kites, which was the Thessa men's word for the dragons. "Not one. All the time we've been here, and they've not touched one of the cold lads."
 
 "A kite knows meat," said Mastarna.
 
@@ -2236,7 +2240,7 @@ Where the date should go she had ruled a space the length of a date, and left it
 
 She put it away, and took up the book, and climbed the headland to count them home.
 
-The wind had gone into the north. There was ice in the rock pools along the path, and it broke under her boots, and the air smelled of snow. She sat on the rock in the black, with her back to the boulder, and kept her fingers moving on the page between figures so that they would go on moving when she needed them. Above the cliffs the vents had begun to glow, a dull red down in the smoke, and against the red the flock came home.
+The wind had gone into the north. There was ice in the rock pools along the path, and it broke under her boots, and the air smelled of snow. She sat on the rock in the black, with her back to the boulder, and kept her fingers moving on the page between figures so that they would go on moving when she needed them. Above the cliffs the vents had begun to glow, a dull red down in the smoke, and against the red the dragons came home.
 
 They came in flat and black, and she knew them by their sails. The first came in from the sea, low over the headland, and went up the face of the cliff on the warm air in one long slant: Soot Two, by the tear. She ticked it. Then another from the sea, and two after it. Then none came from the sea for a long while, as the light went; and then they began to come over the ridge.
 

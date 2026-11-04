@@ -19,6 +19,7 @@
 13. [Chapter Thirteen: Arrears](#chapter-thirteen-arrears)
 14. [Chapter Fourteen: The Long Stepped Lane](#chapter-fourteen-the-long-stepped-lane)
 15. [Chapter Fifteen: To Be Collected](#chapter-fifteen-to-be-collected)
+16. [Chapter Sixteen: Light of the Forge](#chapter-sixteen-light-of-the-forge)
 
 ---
 
@@ -9351,3 +9352,747 @@ It had set.
 He did not say so. He stood a while longer beside Gaius, with the sea coming in and striking the form, and going out again, and coming in; and then the light began to go out of the cave mouth, and Nerva said the tide was on the turn, and they climbed back down into the boat, and went out of the Gullet on the first of the flood with the two merfolk alongside.
 
 Behind them the sea came into the cave, and struck, and made no sound at all.
+
+---
+
+# Chapter Sixteen: Light of the Forge
+
+**GAIUS**
+
+He was taking down the staging when Kymon came up out of the sea.
+
+It was the afternoon of the banking, the day after the form had rung, and the cove was flat and grey under a low sky, and the tide was half out. The staging had stood in the shallows below the Gullet for most of a month, planks on trestles on piles driven into the shingle, and it had carried every sack of the mortar out to the merfolk, and now nobody needed it. Gaius did not like to leave a thing standing when it had done its work; somebody would one day walk out on it, after the piles had gone soft. He had four of the cohort with him and a dwarf with a bar, and they were drawing the pins a plank at a time and passing the planks back up the shingle, and the cold was coming up through the wet in his boots, and his bad knee had been telling him about it since noon.
+
+Kymon came up at the end of the last trestle, where the water was over a man's waist, and did not come in.
+
+He stood there with the sea round him and the water running off his shoulders. He was the biggest of the merfolk Gaius had seen, broad and long in the arm, and he seldom came up in the cove by daylight unless someone had called him. Nobody had.
+
+"Two hulls," said Kymon. "Off the black fan. North of the cave."
+
+Gaius put down the pin he was holding.
+
+"Survey?"
+
+"The same black. They came up from the salting beach in the forenoon, under oars, slow, close in. They lie off the fan now, with their boats in tow." Kymon wiped the water off his face with the flat of his hand. "Dead at the sweeps. And more of them in the holds. Thalassa heard them. Standing. You can hear them through a hull, standing, if you listen. They shift their feet with the swell, and never all at once." He waited. "Thalassa said to tell the builder."
+
+"Why the builder?"
+
+"Because the fan is a thing that was built," said Kymon, "she says, and we don't know what it's for."
+
+Gaius knew what it was for.
+
+He had walked it a fortnight before, with Brokk, on a day when the channel was cold between pours, because a man who has been told of a slag channel cut at a fall that never varies, from the floor of a forge to the sea, through four hundred feet of rock, by a woman dead four hundred years, does not sail home without seeing it. He had put his rule on the walls. He had lain down on the glass floor with his cheek on it and sighted up the fall, and Brokk had said *hah*, because Brokk had done the same thing as a boy, and so had his grandfather.
+
+It was the best thing Gaius had ever seen cut. He had said so, and Brokk had said that everybody said so, and that it did not need guarding, because nothing came up it.
+
+*Nothing could come up it hot.*
+
+"Who's in the Forge?" said Gaius.
+
+The dwarf with the bar looked at him. He was a young one, with soot on his arms and no grey, and not, Gaius thought, entirely sober, though it was not yet the hour the halls began.
+
+"Nobody. It's the banking." The dwarf grinned. "Everybody's in the halls, wonder-hands, where you should be. There's a cask with your name on it in Brokk's."
+
+The channel was cold. It had been cold since the last pour before the banking, a night and a day ago, and it would be cold until the fires were raked up at the hour the dwarves called morning; and on every ninth night the clans sat in their own halls and drank, and the Forge stood empty, because the mountain wanted to rest.
+
+Somebody had counted the pours.
+
+He thought of Rusca on her flat rock on the headland at dawn and at dusk, counting the flock. He had not thought about what else she could see from it.
+
+"Kymon," said Gaius. "Tell Thalassa I said thank you. Then tell her it's a road."
+
+---
+
+Brokk did not believe him for the length of one cup.
+
+Brokk was in his own hall, which was low and hot and full, with a cask on trestles at one end and a coal trough down the middle and thirty of his clan round it in their shirts, singing something slow and square; and Brokk sat at the head of the trough with his boots off and his feet to the coals, and listened to Gaius with his cup halfway to his mouth, and then drank it.
+
+"Up the channel," said Brokk.
+
+"Up the channel."
+
+"Nobody's ever come up the channel."
+
+"Nobody's ever come up it on a banking night," said Gaius. "It's a stair, cold. A steep one. The glass is the hard part, and the dead don't slip where they're told to walk. You saw them on the Long Seam."
+
+Brokk put the cup down.
+
+He did it carefully, on the edge of the trough, as a man puts down a thing he has decided not to break, and the singing at the near end of the hall stopped, and then the rest of it, a few voices at a time, all the way to the cask. Brokk looked at the coals. Under the soot his face had gone a colour Gaius had not seen on it before, not red, a kind of grey.
+
+"Into the Forge," said Brokk. "On the banked night. With the hearths cold and the halls drunk."
+
+"And the stone under the floor."
+
+"I know where the stone is, engineer." Brokk stood up. He stood up on his bare feet on the warm floor of his hall with his kin looking at him, and he was a head shorter than Gaius and twice as wide, and he looked at that moment like something the mountain had put out of itself for the purpose. "Who's told the princeling?"
+
+"Nobody yet."
+
+"Then what are you standing in my hall for?"
+
+---
+
+Marcus heard it out by the coal trough in the guest hall, with his officers round him and half the cohort pretending to mend things within earshot. He let him finish. When Gaius had done he looked at Brokk.
+
+"When does it get dark?"
+
+"It's always dark," said Brokk. "In the mountain."
+
+"Outside."
+
+"Two hours. Less." Brokk had his boots on now. "We'll go down to the lip and hold it. The channel's a wall wide. My crews and your shields at the top of it, and they can come up it all night and we'll knock them back down it one at a time like coal down a chute."
+
+"And the clerks?"
+
+Brokk opened his mouth, and shut it.
+
+"The clerks walk at the back," said Marcus. "They always do. We hold the lip and knock the rows down the glass, and the clerks at the bottom see how it's going and get back in their boats, and come again at the next banking, with more." He looked at Gaius. "You walked it. What's the footing like?"
+
+"For them, good. For us, none. A shield wall wants something to set its feet against. The glass gives it nothing." Gaius thought about it. "If I were you I wouldn't fight on the glass at all."
+
+"Then where?"
+
+"In the Forge," said Gaius. "Let them come up."
+
+Brokk turned round.
+
+"It's a big floor, and they don't know it, and you do," said Gaius. "And it's full of anvils. Every row of them breaks a file. And once the last clerk is over the lip, the lip is behind him, and below the lip is a channel that takes a long time to go down in a hurry. Put the merfolk in the wash at the foot of the fan and the boats can't come back for anyone." He shrugged. "That's a builder's opinion. It isn't my floor."
+
+The guest hall was quiet.
+
+"It's not my floor either," said Marcus. He was looking at Brokk. "Brokk. It's yours. If you tell me no, we'll hold the lip."
+
+Brokk studied the coals in the trough.
+
+"Hulda," he said at last. "It's the clans' Forge. Not mine." He rubbed his face with both hands, hard, so that the soot went sideways. "She'll say let them in. She'll say it's ours to let in and ours to keep them in. And then she'll say a thing about my grandfather." He dropped his hands. "Let them in. And when they're in, I'll want the light."
+
+"What light?"
+
+"The Forge's," said Brokk. "Every hearth on the floor, at once. If we're to fight in the clans' heart, princeling, we'll fight in it lit, not in the dark like thieves in a byre. I'll have a crew on every bellows." He looked round the guest hall at the cohort, who had stopped mending things. "Half of them are drunk. It's a banking. They'll pump the better for it."
+
+---
+
+They went down to the Forge with no light at all.
+
+That was Brokk's doing, and Gaius thought it right. A lamp carried across that floor would show from the lip like a ship's light on a black sea, and the dwarves knew their way across it blind, from hearth to hearth. So the cohort filed down through the mountain with a hand on the shoulder in front, as it had gone into the Long Seam, and at the last door the cold-light planks were boxed, and they walked out onto the floor of the Great Forge in a dark so complete that Gaius closed his eyes in it, because it made no difference and it rested them.
+
+It was warm. That was the first thing. The heat of the banked hearths stood in the air, and the air smelled of coal and old iron and ash, and under that of something he had smelled once before, at the Foot of the Long Seam with his fingers in his mouth: not salt, here, but deep stone, the inside of a mountain that had been warm since before the clans. And under his boots, so slow he was not sure of it until he stood still, the floor moved. Not the floor. Something under the floor. A slow warmth that came and went, like breath on the back of a hand.
+
+He did not say anything.
+
+The cohort crossed the floor among the anvils with the dwarves leading them, a hand on a shoulder, a whisper, and set itself up on the far side, against the wall, where the rows of anvils ended and there was open floor; and Gaius followed Brokk to the hearths.
+
+There were more of them than he could count in the dark, and he left it. Each had its anvil beside it and its pair of great leather bellows on a frame, worked by a beam, and at each beam, as he passed, there were dwarves. He could not see them. He could smell them, beer and sheepskin and the sweat of men who had come down from a warm hall at a run, and once one of them hiccupped, and was hit, softly, and was quiet. Brokk went from beam to beam with his hand on Gaius's arm and said the same thing at each in the dwarf tongue, low, and at each beam somebody answered him with one word.
+
+"What are you telling them?" said Gaius, when they were nearly back to the wall.
+
+"To wait for the horn," said Brokk. "And not to pump till they hear it. And that if any of them pumps early, I'll have his beard for a hearth-brush."
+
+"And what do they say?"
+
+"*Hah*," said Brokk.
+
+They waited.
+
+There was nothing in the dark to measure the wait by. Gaius stood with his back to the warm rock of the wall and his bad knee straight and listened to the cohort breathing round him, men in armour trying to breathe quietly and nearly managing it, and to the creak of a strap, and to someone's stomach, which was answered from further down the line by someone else's, and to Rufo telling both of them, in a whisper that carried better than a shout, that he would feed them when he had a minute. Somewhere to his left was Marcus, at the front. Somewhere behind him was Liora. He had not seen her come down. He knew she was there the way he knew that the floor would hold.
+
+Kaeso's sticks were wrapped. Gaius heard him settle them, a soft sound, rag on rag.
+
+Then he heard the count.
+
+It came from a long way off, across the floor, out of the dark on the far side of the anvils, where the lip was. He had heard it before, under the water and up the Long Seam: a voice reading figures, in Tharsian, flat and steady, like a man reading off a tally. But it had been a man's voice then, and old. This was a woman's. It was low and unhurried and did not rise or fall, and he knew whose it was, though he had heard her speak only once, on the high grass, under her white flag.
+
+And under it, the feet. A great many feet, coming up over the lip onto the stone, in step, on the count, and spreading out.
+
+He listened to them come, and they kept coming: as many as at the Long Seam, he thought, or nearly, and something heavy among them carried on poles, that knocked once against an anvil and rang. The count held its pace. It crossed the floor among the anvils and filled up the dark, and the dark took it, and gave it back off the far walls a little late, so that there were two counts, the one and its echo, a figure and a figure.
+
+Beside him Brokk had stopped breathing.
+
+Then, across the floor, near the lip, a light came up.
+
+It was small and red. A hearth. Somebody had raked back the ash off a banked hearth, and the coals under it had come up, and in the red of them Gaius saw, for the space of a few breaths, a shape on its knees beside the hearth, and another beside it; and then a third light, smaller and yellow, and brighter, that leapt up and curled and died, and leapt again. Paper. Somebody was burning paper on the Forge's coals.
+
+He could not see what it was. It went on, leaf after leaf, the yellow flaring and dying over the red, and the count going on the whole time without a stumble, and he thought: *she is doing her accounts.* And then: *no. She's closing them.*
+
+"Princeling," breathed Brokk, to the dark on his left. "She's on my hearth."
+
+"I see her," said Marcus.
+
+Kaeso's drum began.
+
+It was the Long Measure, the slow stroke, on the wrapped sticks: one, and nothing, and one. It was slower than the count. The cohort heard it in their feet, and Gaius felt the wall settle beside him, all at once, the shields coming up, the weight going forward; and then it was moving away from him, out onto the floor between the anvils, at the pace of the drum, the shields' rims set down on the stone at each step with a sound like a heavy door closed carefully, and set down again, a little further on.
+
+The count across the Forge did not change. It sounded, to Gaius, like a woman who had heard the drum and decided not to have heard it.
+
+The burning on the far hearth stopped. The red stayed. In the red he saw her stand up.
+
+He felt Brokk move beside him, and heard him lift something off his belt, and put it to his mouth.
+
+---
+
+The horn was a bull's horn bound in bronze, and Brokk blew it with the whole of his chest, and it crossed the Forge like a beast bellowing in a byre in the dark, and came back off the far walls, and kept coming back.
+
+And every bellows on the floor drew breath at once.
+
+He heard it before he saw it: a great soft gasp, all round him and away across the floor, of leather filling, every beam on the floor going down; and then the roar, as the beams came up and the wind went into the banked hearths together. The ash lifted off them in grey clouds. Under the ash the coals woke. They did not light so much as open, the red coming up through the grey and then through the red the yellow and then a white so fierce he put up his arm; and the beams went down again, and up, and the roar came again, louder, and with it the light.
+
+The Great Forge stood up out of the dark.
+
+He had seen it lit before, at work, with the smoke and the din and the half-light of fires at their own pace. He had never seen it like this, every hearth on the floor at full blast at once, and he doubted anyone had, not even the clans; and for the space of three breaths he forgot what he was there for, and looked.
+
+The roof went up out of the light into a dark that was still dark, hung with soot like the vault of a winter sky, and the walls drew away on every side further than he would have guessed, dressed square and covered to as high as a dwarf could reach, and higher, where there must once have been scaffolds, with the clans' small square marks, thousands of them, every mark a hand that had worked here. The light lay along them in long red rows. And down the length of the floor the anvils stood in their files, each with its fire beside it like a man with a torch at a gate, row after row to the far end, where the floor ended in a black edge, and beyond the black edge nothing.
+
+Among the anvils stood the Survey's dead.
+
+They stood in their rows, as they had been told to stand. Quarrymen, he thought: grey to the skin with an old stone-dust that no sea had ever washed out of them, square-shouldered and short-legged, in the rags of quarry smocks, with picks and mauls and splitting wedges in their hands. The letters were on every brow. In the new light they all turned their faces at once, not toward the cohort or the fires, but upward, toward the count, as flowers turn.
+
+Behind each row stood a clerk with a frame.
+
+He saw them clearly for the first time. Young, every one of them, in the Survey's black with the hoods down, holding up their bead-frames, the beads going under their fingers; and every one of them had turned round at the horn, and stood now with his face full in the light of the hearths, white, with his mouth open, and his fingers still moving the beads, because nobody had told them to stop.
+
+At the lip, beside the hearth she had raked, stood Rusca.
+
+She had her back to the edge. Her copper hair had come down out of its knot on one side and lay across the shoulder of the Survey's black, and the light of the fires was on her face, and she was counting. She had not stopped. She stood with her chin up and her black hands quiet at her sides and gave the figures in the same low voice, at the same pace, into a roar of bellows and a light like noon, as though nothing at all had happened in the Forge but a change in the weather.
+
+Beside her, on his knees by the hearth with his frame, was a boy in a sea-cloak too good for him. Gaius had seen him once, on the high grass, coughing.
+
+"*Clerks!*" Marcus's voice, from the front of the wall, out among the anvils. "*The clerks!*"
+
+The wall went forward.
+
+---
+
+The rows came to meet it.
+
+They came on the count, in their files between the anvils, a figure and a step, the picks coming up; and the anvils broke them, as he had said they would. A file that met an anvil divided round it, and went on, two files now, each half the width, and met the next and divided again, and by the third rank of anvils the rows that had come up the channel shoulder to shoulder were coming down the floor in threes and twos, between the fires, at a wall built to meet a hundred and meeting them a few at a time.
+
+The wall did not go round the anvils. It went between them, a street at a time, with the shields locked across the gap from iron to iron, and where it met the dead it stopped them, and where it had stopped them it killed them.
+
+A maul came down on a shield at the end of the second street and the shield held and the man behind it went to one knee and stayed there. The man beside him put his blade in under the maul-arm, point, not edge, as the cohort had been taught in the dark, and the quarryman stopped, and stood, and the man on one knee got up. Rufo was in the middle of the third street with a dead man's pick caught on the boss of his shield, and he wrenched the shield round and the pick with it and the dead man came round on the end of it into the next man's point, and Rufo said something Gaius could not hear and pushed on. Down at the left end of the floor, where the anvils stood closer and the streets were narrow, Roderic had the whole width of one street to himself, because nobody could stand beside him with room to swing, and was using it.
+
+The count did not stop. Behind every knot of the dead, a frame; behind every frame, a white face lit from the front, and fingers moving.
+
+Sylara shot the first of them from the top of an anvil.
+
+He missed her climbing it. He saw her on it, standing up on the black iron with the fire beside her throwing her shadow huge on the wall behind, with her bow drawn to the ear, and he saw her loose; and down the floor between the fires a clerk with a frame sat down suddenly on the stone as if someone had pulled a stool from under him, and the beads spilled out of his hands across the floor, and the knot of dead in front of him stopped. Stopped in mid-step, a foot off the ground, a pick in the air; and stood like that, all of them, and the shields came on and put them down.
+
+She shot the next one before the first had finished sitting. Beyond her, on another anvil, Atticus had his sling going round his head, and let go, and somewhere down the floor a frame broke in half in a boy's hands, and the boy stood looking at his hands, and the dead in front of him stood too.
+
+*That* was the light, Gaius thought; that was what Brokk had wanted it for, without knowing. In the dark a clerk was a voice behind a row of the dead. In the Forge's light he was a boy with a white face in a lit street, and Sylara did not miss.
+
+The count went on. The rows that still had clerks came on, and the rows that had lost them stood among the anvils like a quarry's stone left half-cut, and the wall cut through them a street at a time and left them on the floor. Somewhere behind Gaius, close, Liora's voice said, "What's your name?" and a man's voice said it, and Gaius did not turn round.
+
+He went forward behind the wall. He had not meant to. He was walking down the first street between two anvils with the heat of the hearths on either cheek, with the iron auger in his hand that he had carried down out of habit; and Brokk was beside him with a bronze hammer, and Brokk's crew behind them, finishing what lay on the floor.
+
+He came out between two anvils into an open space before the lip and saw Laelius die.
+
+It was not Sylara. He never knew whose it was; a sling, he thought afterward, by the sound, or a thrown pick. The boy was on his knees beside Rusca's hearth with his frame up and the beads going under his long fingers, and he was looking up at her, and something struck him in the side of the head and he toppled sideways onto the warm stone without a sound, and the frame skidded out of his hands and slid a little way and stopped against the foot of the anvil.
+
+Beyond him, between Rusca and the wall, the last full row of the dead stopped.
+
+Every one of them. A file of quarrymen across the open floor in front of her, with their picks up, stopped as one man, and stood.
+
+Rusca looked down at the boy.
+
+She did not stop counting. Gaius saw her mouth go on. But she looked down at Laelius on the stone with his good sea-cloak spread round him, and her black hand moved at her side, a half-movement, as if to take something out of a pocket that was not there; and then she looked up again, and gave the next figure, to rows that were not there any more to hear it.
+
+The rest of them were going. Gaius saw it happen down the whole length of the floor: knot by knot, as the clerks sat down or were taken, the dead stopped and stood, and the cohort came through them. Off to the right Valeria had a clerk by the back of his collar, a lean boy with a frame, held off the ground at the length of her arm, with her other hand flat over his mouth, and the boy was not struggling. He was staring at her over her hand.
+
+"You again," Gaius heard her say. "Don't bite."
+
+Then the wall was at the lip, and the shields opened in the middle, and Marcus walked out of it.
+
+---
+
+He walked across the open floor to Rusca with his sword down at his side and his shield on his arm, past the stopped row, between them, close enough to touch them; and they did not move. He had a cut over one eye that was bleeding into the eyebrow and his breath was short. He walked as he had walked up the dwarves' stair with the first sack on his shoulder, without hurry, and stopped in front of her, a pace away, between her and the lip.
+
+She went on counting. She looked at him, and gave a figure, and the next.
+
+There was nobody left to give them to. Every row on the floor was stopped or down. The bellows were still going, a great slow roar and a gasp and a roar, and the cohort had stopped where it stood, all down the streets, with its shields still up, to watch.
+
+Marcus put out his hand and took her by the wrist.
+
+He did not pull. He held it, her black right hand, at her side, the way a man takes hold of a rope he does not mean to haul on yet; and he said, quietly, so that Gaius, ten paces off, only just heard it:
+
+"Quaestor."
+
+The count stopped.
+
+It stopped in the middle of a figure. Gaius heard it: the first half of a Tharsian number, and then nothing. Rusca's mouth stayed a little open on the rest of it. She stood with her wrist in Marcus's hand and looked at him, and her face did not change at all, and then she closed her mouth.
+
+The last row stood where it had stopped.
+
+Behind Gaius, down the length of the Great Forge, the bellows went on breathing, and the hearths roared, and the light stood on the walls among the marks of everyone who had ever worked there; and somewhere further back, Liora said, "What's your name?" again, to somebody else, and was answered.
+
+---
+
+They ended the dead where they stood.
+
+It was not quick, and it was not like the fighting. The cohort went down the streets with its short swords and did what had to be done to each quarryman who still stood, and laid him down, and Brokk's crews came behind with hammers; and when it was done the dead lay in their rows among the anvils as they had stood in them, grey on the black floor, and the dwarves stood looking at them and did not speak. Hulda had come down. She came without his seeing. She was there at the end of the first street with the ring on her thumb, looking at the quarrymen on the floor of the clans' Forge, and her face was a stone face.
+
+"Cover them," Liora said. "Please."
+
+They were covered, with whatever came to hand: cloaks, and the dwarves' leather aprons, and a bellows-hide one of the crews cut off its frame. The men had stopped asking her why on Silverwood.
+
+The cohort had lost men. Not many, by the count Rufo was keeping on his stick, but some, in the narrow streets at the left end, where the dead had come in close and the shields had not had room. They were carried up the floor on shields to the wall where the cohort had stood in the dark, and laid down there, and their faces were covered too. Liora went among the living first, with her sleeves pushed up, laying her hands on a cut arm and a broken jaw and a man who had been hit in the belly with a maul-handle and was being sick on the stone; and then she moved along the wall where the others lay and knelt by each of them, and did not touch them, and got up and moved on.
+
+Gaius had found the lead box.
+
+It stood where the stock had set it down, near the lip, on its poles: a chest of thick grey lead, iron-bound, big enough for a man to lie in folded. Inside it was empty, and lined with wool. Beside it, rolled in oiled leather, was the cutters' kit, and he unrolled it on the stone and crouched over it, because he could not help it: feathers and wedges in graded sets, a toothless bronze stone-saw a man's height long, for sand and water, drills, and chisels with edges he would have been proud of. He took one up and turned it in the light of the nearest hearth. It was good steel. Somebody in Tharsis had made it well, to cut the heart out of a mountain.
+
+He put it back where it came from, and rolled the leather, and tied it.
+
+"Engineer." Brokk was standing over him. "What do they want the wool for?"
+
+"So it doesn't knock about," said Gaius, "on the way home."
+
+Brokk stared at the lead box. Then he stumped away to the hearth where the quaestor stood.
+
+---
+
+They had her sitting on the edge of the hearth she had raked, with her black hands in her lap, and two of the Lanciarii standing over her with their spears grounded. Marcus had gone down the floor to see to the men on the wall. Someone had given her a cup of water and she had drunk it and held the cup. She was looking, Gaius saw, at Laelius, who lay where he had fallen with someone's cloak over his face and his own over the rest of him; at the good sea-cloak. She looked at it steadily, without anything in her face at all.
+
+The ash of the burned paper lay on the coals behind her in a black curled crust, and had not quite stopped smoking. Whatever it had been, there was no reading it now. He was sorry about that, in a small way, the way he was always sorry about a drawing burned. Then he forgot it.
+
+The men were in a ring round the hearth by then, at a distance: the cohort and the Lanciarii with their shields grounded and their faces black with soot and sweat, and the fires behind them. They were tired and alive and some of them had been crying, and now they were looking at the woman who had counted the dead against them, and some of them were looking at her the other way.
+
+One of the Lanciarii said it.
+
+Gaius knew him by sight and not by name: a big man, young, fair, with a broken tooth, from their second file. He said it to the man beside him and loud enough for the ring. He said what the men might do with her in the dark of the mountain before anybody came to ask after her, a soldier's joke, the oldest one there is about a woman taken in a war, with a word in it for what she was and a word for what they would do; and three or four of the ring laughed, because somebody had said the thing that was in the air.
+
+Rusca did not move or look round. She sat on the hearth's edge with the cup in her hands, looking at Laelius, and the only thing that changed in her was that she held the cup harder.
+
+Liora got up.
+
+She had been kneeling by the wall at the far end, by the last of the covered men. Gaius saw her get up, and push her sleeves down, and come across the floor between the anvils, not fast, with her honey-coloured hair coming loose and her hands still red to the wrist from the men she had held; and the ring opened for her without being asked, as it always did, and closed behind her. She walked to the big lanciarius and stood in front of him. She came to his chin.
+
+She put her hand flat on his chest.
+
+It was the hand she healed with. Every man in the ring knew it. Some of them had had it on them that night.
+
+"If anything happens to her," said Liora, "I will know."
+
+She did not say it loud. She said it in the voice she used for the litany, low and clear, so that it carried all the way round the ring and no further. The big man looked down at her. His mouth had gone slack.
+
+"And you," said Liora, "you will find out."
+
+She waited. She left her hand where it was. The bellows went on, all round the Forge, and the light moved on the walls.
+
+"Do you understand me?" said Liora, quite calmly, as though she were asking him where it hurt.
+
+The man said nothing. Gaius doubted he could.
+
+"I would answer," said Marcus, "if I were you."
+
+He had come up the floor from the wall while she spoke. Gaius had not seen him come. He stood at the edge of the ring with the cut over his eye, and he did not come any closer, and his voice was perfectly pleasant.
+
+"Yes, angel," said the man.
+
+Nobody laughed.
+
+Not one man in the ring. Gaius watched it go round them, from face to face: the thing they all knew about the angel and never said, the three men, the loading and the frost and the pyre on the black beach, the thing Fingers would not run a book on. *Every other man that's seen her naked is dead.* They had made a joke of it in the yard at Cyrene so as to be able to carry it. Now it was standing in front of them with its hand on a man's chest, and they were looking at her hand.
+
+Gaius knew what was behind the three. He had worked the sum himself, on a mat, back to back with her. He knew where Liora had heard the big fair man's joke before, and in whose mouths, and why she had come across the floor.
+
+He did not move. It was not his to move for.
+
+Liora took her hand away from the man's chest. She turned round, in the middle of the ring, and looked at all of them.
+
+"Did the rest of you hear me?"
+
+She raised her voice to say it. Gaius had never heard her do that. Not at the Teeth, not in the shed with the door open and the winter coming in, not on Silverwood with the oil and the fire. It was not loud, as loud went: a voice that carried to the back of a ring of men. It drove into them like a nail into green wood.
+
+"Yes, angel," they said. All of them at once, and quickly, from every side of the ring, as men answer a centurion who has asked a question he does not mean to ask twice.
+
+"Thank you," said Liora, in her own voice again.
+
+She walked back down the floor toward the wall and the men under the cloaks, pushing her sleeves up as she went.
+
+The ring stood there.
+
+"Thank you, Liora," said Marcus, after her. He said it in the voice he used for a report. "Is there anything else I can do for you today?"
+
+She did not turn round. She lifted one red hand over her shoulder, as she went, which might have meant anything, and knelt down again by the last of the dead.
+
+Marcus looked round the ring. He did not look at the big lanciarius at all, which Gaius thought was worse for the man than anything he could have said. Then he crossed to the hearth, and stood in front of the quaestor.
+
+She was looking down the floor, after Liora.
+
+"Who is that?" she said. It was the first thing she had said since her count stopped. Her voice was the same voice, low and exact, with a rasp in it now from the smoke.
+
+"Our healer," said Marcus.
+
+Rusca looked after Liora a little longer. Then she looked at Marcus.
+
+"How am I entered, Highness?"
+
+Marcus thought about it. He seemed to Gaius to think about it honestly, as she had asked it.
+
+"Taken," he said.
+
+She nodded, once, as if he had told her the weight of a sack, and looked down at her hands in her lap, at the cup, and at the black on her fingers; and she took the linen out of her cuff, with a fold already black on it, and began, slowly, to wipe her fingers clean.
+
+---
+
+At first light Gaius went down the channel with Marcus and Brokk to see the sea.
+
+He went down it on a rope, because his knee would not have let him go down it any other way; and Brokk went down it on his heels and the seat of his kilt, as he had as a boy, and said so. The glass was cold under his palms. All down the walls the marks slid by, and in the grey light coming up from the mouth he saw that some were worn nearly smooth, and at one place, low down, there was one cut so freshly that the stone-dust was still white in it, where some dwarf had gone down the channel in the last month and put his name on it, because that was what the channel was for.
+
+They came out at the mouth, a third of the way up the cliff, onto a ledge of black slag above the fan, with the wind coming in off the sea cold enough to make his eyes run; and Gaius held on to the rock and looked.
+
+The two hulls were still there.
+
+They lay off the foot of the fan at a long bolt-shot, side by side, with their sails furled and their sweeps run in, the same black as the Survey's coats; long, low, well-built, and he thought, as he always thought, *who drew her*, and put the thought away. The landing's boats were back alongside them. In the wash at the foot of the fan the merfolk were waiting where they had waited all night, heads and shoulders above the water, and two of them had their arms folded on the cinder as on the edge of a bath. Nothing had come back down.
+
+"They're waiting on her signal," said Brokk.
+
+"They'll stop waiting soon," said Marcus.
+
+They watched. The light came up grey behind them over the mountain and lay out across the sea, and the sea went from black to iron, and on the nearer hull Gaius saw men on the deck: living men, a few, in black, at the rail, looking at the mouth of the channel. One of them, in a good coat, stood apart, still, with his face turned up to the three of them on the ledge, and Gaius thought he could see him working out what three men in the mouth of the channel at first light meant, and what it would cost.
+
+Down the coast to the south, above the Gullet, something moved in the air.
+
+It was the flock.
+
+He had seen it at the High Pastures, over the herd, from under the shields. He had not seen it from above, against the sea. They came off the high vents in ones and twos and then in a stream, the colour of the mountain, slate and rust and ash, no bigger than horses and all neck and tail and sail, with the light coming through their wings red; and they did not come to the herd. They flew out low over the sea, toward the ships, and wheeled over them, high, out of bolt-shot, a slow wheel of wings over the two black hulls; and came no lower.
+
+"They know those ships," said Brokk.
+
+"They're hungry," said Gaius.
+
+He knew it as he had known it on the high grass, watching them come down on the herd and cough. It was in the way they flew: too high, too slow, not stooping, saving themselves. A fed beast burns long. These had not been fed, and the flock circled above the boats that had seen to it, and stayed high, because there was nothing in them to come down with.
+
+"Hah," said Brokk. "Good. Let them go hungry. Let them go and eat Tharsians."
+
+"They can't," said Gaius. "That's the trouble."
+
+Marcus was not listening to either of them. He was looking up.
+
+Gaius followed his eyes. Above the mouth of the channel the cliff climbed into the grey toward the vents, and on the highest of them, where the smoke came out thickest and lay along the rock, there was a shape. It was the colour of the cliff. He would not have seen it if it had not moved. It was the size of a ship's boat, and it lay along the lip of the vent in the warm smoke with its head on its forefeet, and its head was turned down toward the three men on the ledge.
+
+It had been there all night, he thought; it had watched the boats come up the coast in the dusk, and the landing go up the fan, and had not stirred.
+
+"Brokk," said Marcus. "Does it speak?"
+
+Brokk did not answer at once.
+
+"To my grandmother's mother," he said. "Once. She climbed to it on the vent, in the first famine winter, the old one, before mine. She asked it to take its flock off the herds." He spat over the edge of the ledge. "It said no. It said it was hungry. She said so were we. It said, *then we understand each other*, and went back to sleep."
+
+Marcus gave Gaius his sword.
+
+He did it without saying anything, hilt first, and Gaius took it because there was nothing else to do with it. Then he unbuckled his helmet and gave Gaius that too. Then he went down off the ledge onto the fan.
+
+He took the ridges of the old slag as if they were the steps of a stair, which they were, of a kind, and the wind took his cloak, and he kept on until he was well out on the black face of the fan, in plain sight of the mountain and the ships and the sky, a man in a red cloak alone on a slope of black glass with his hands empty at his sides. Then he stopped, and looked up at the vent.
+
+No call, no wave. He stood.
+
+The flock wheeled over the ships. The wind came in off the sea. On the nearer hull the man in the good coat had turned his head and was saying something to someone behind him, and Gaius saw, small and far, a bolt-thrower on her foredeck being swung round on its pin, toward the fan.
+
+And the eldest lifted its head off its feet, and stood up on the vent, and opened its wings.
+
+---
+
+It came down off the vent all at once, and the wings opened and took the air with a sound he felt in his chest, a great slow clap like a wet sail filling, and it came down the face of the cliff in one long fall, past the ledge so close that the wind of it put him against the rock and Brokk on his knees, and swung out over the fan and back, once, and landed.
+
+It landed on the slag above Marcus, a little way up the slope, and the slag cracked under its feet.
+
+Gaius had his hand on the rock and his eyes open, and he could have drawn it afterward, spar by spar.
+
+It was twice the size of the largest of the flock, and old the way the channel was old. Its hide was the colour of the cliff and had lichen growing on it, grey-green, along the ridge of its back and in the creases of its neck where the warm smoke had lain on it for longer than the halls had kept a book. Its wings, folding, were made as a ship's sail is made on a yard: a long spar, which was a finger, and the skin laced between it and the next, five of them, and a joint at the elbow that folded the whole sail in three and laid it along the flank as neatly as a sailmaker stows a sail. It was the best hinge he had ever seen. One of the spars on the left wing was crooked, broken once and knit.
+
+Its head came down on its long neck until it was level with Marcus's head, a long way off still, a ship's length, and stayed there. Its eyes were yellow, the colour of a fire that has burned down to the white. They never blinked.
+
+On the nearer hull, the bolt-thrower stopped turning.
+
+"*Little soldier*," said the eldest.
+
+Its voice was not loud. It was dry. It came up out of the great length of the throat like air out of a bellows nobody has worked in years, with a rattle at the bottom of it, and it carried up the fan to the ledge as clear as if it had been said beside him. It spoke the common tongue, old, every word put down separately and square, as the clans spoke it.
+
+"You came up my mountain," it said, "to stand on my slag in a red cloak. My flock has been watching you for many days. They say you will not let the little ones shoot us."
+
+"They're not little," said Marcus.
+
+"Everything is little," said the eldest. "Why do you stand on my slag?"
+
+"To ask you something."
+
+"Ask."
+
+Marcus looked out to sea, at the two hulls, and the flock going round over them, and back.
+
+"Those ships," he said. "Their boats have been taking the game off your coast for two winters. The seals, the deer, the goats. On purpose. So you'd go over the ridge to the halls' herds, and the halls would shoot you, and the two of you would bleed each other till one of you sold the mountain." He said it plainly, as a fact about water. "The woman who counted them told me so herself. She was proud of it."
+
+The eldest looked at him.
+
+"I know what the ships are for," it said. "I am not your war, little soldier. I am what your war *disturbed*." It turned its head, slowly, and looked at the hulls with one yellow eye. "I have watched the counting woman on her rock. I have watched her boats. My flock is hungry. Its fire is short. If I send it down on those ships it will cough on them, and the men with the long bows on their decks will kill it." It turned its head back. "So. You have told me a thing I know. What is it you ask?"
+
+"Let the halls feed you," said Marcus.
+
+Behind Gaius on the ledge, Brokk made a sound.
+
+"One beast in five," said Marcus. "From the herds. Every counting. Driven out to the edge of the high grass, for the flock, and nothing taken over the ridge besides. And this morning first, now, before anything." He did not look round at the ledge. "And in return your flock takes its coast back. From those ships, and the next, and any boat that comes to strip it. Burn them off it."
+
+The eldest was silent.
+
+The wind came up the fan. The flock wheeled. Gaius could hear Brokk breathing beside him, hard, through the nose.
+
+"Princeling," said Brokk. He said it from the ledge, not loudly, and not to the dragon. "Those are our herds."
+
+"I know," said Marcus, without turning round.
+
+"One in five. Do you know what one in five is, to a herd? Ragna will have my hide for a bellows."
+
+"I know what it is," said Marcus. "Four in five is what you keep." He did turn round then, and looked up at the ledge, at Brokk on his knees on it. "How many did you lose to them, the second winter? With the bolt-throwers on every wall?"
+
+Brokk was silent.
+
+"More than one in five," said Marcus. "I've seen the herd-book."
+
+Brokk looked at him. Then he looked at the eldest, standing on the clans' slag with the lichen on its back, which had told his grandmother's mother *then we understand each other*.
+
+"Hah," said Brokk. It was not the gate's *hah*. He got up off his knees on the ledge, and dusted the black off them, and stood. "One in five. At the counting. To the edge of the grass, and not a hoof over the ridge besides." He looked at the eldest and not at Marcus. "In our book. Against the flock. With the halls' mark and the flock's, whatever a flock uses for a mark."
+
+"Fire," said the eldest.
+
+"Then fire," said Brokk.
+
+The eldest regarded Marcus again.
+
+"Your kind have made this offer before," it said. "To me. Paper. Good paper. Sent from the north in a box."
+
+"Not this time," said Marcus. "The halls keep a book. They don't strike a line for bad luck. Ask him."
+
+The eldest did not ask Brokk anything. It looked at Marcus, and then past him, up the fan, and Gaius saw that it was looking at him, at the sword and the helmet in his arms; and then it put its great head down to the black slag at Marcus's feet, and breathed out on it.
+
+It was not fire. It was heat, and a smell of stone, and a little smoke; and where it had breathed, the slag at Marcus's feet went dark red, and then dull, and then black again, and was a different black, glassy, new, with the shape of a breath in it.
+
+"That is our mark," said the eldest. "Tell your clan-man to cut it in his book. Now. Feed them."
+
+---
+
+Brokk's horn sounded off the ledge, three long blasts and a short; and somewhere far up the mountain, over the ridge, faint, another horn answered it.
+
+"Ragna," said Brokk. He was white under the soot. "She'll have heard. She'll think we're dying." He put the horn to his mouth again and blew a different thing, a long rising blast with a break in the middle of it like a man's voice cracking. "*Now* she'll think we're dying."
+
+It took the better part of the morning.
+
+They saw little of it. They saw the flock leave the ships. The eldest lifted its head and made a sound, not loud, a low cough that Gaius felt in the rock under his hand rather than heard; and out over the sea the wheel of wings broke, and the dragons came in over the ledge so low that he saw their bellies, rust and ash, and the ribs under the skin of them, and climbed over the cliff toward the high grass in a long string, and were gone. The eldest went last. It walked up the fan on foot, and at the top of the slag it opened its wings and fell upward off the cliff and followed them, slowly, its crooked spar showing against the grey.
+
+On the nearer hull the man in the good coat watched it go.
+
+Then he gave an order, and the sweeps ran out on both hulls in the same moment, as dead men's sweeps run out on a count, and the hulls began to turn, bows to the south, away from the fan.
+
+"They'll go," said Brokk. "Now they've seen it. They'll go and come back."
+
+"Not if Ketta has anything to say about it," said Gaius.
+
+He had seen her from the ledge an hour since, without knowing what he was seeing: the line of the west wall along the shoulder of the mountain above the Gullet, black against the sky, and on it, small with distance, the frames of the catapults, and dwarves round them like ants round a crust. He had thought the catapults on that wall were laid for dragons coming over the ridge, and wondered whether they would reach the sea.
+
+They reached it.
+
+The first stone went over the cliff with a sound like a door slammed in a far-off house and sailed out over the water in a long slow climb, turning, a black speck against the grey; and came down well short of the nearer hull and threw up a column of white water as tall as a mast. The hull kept her stroke. The second came down closer. The third flew over her, between her masts, and the fourth came down on her quarter, and Gaius heard it arrive, a crack like a great timber going in a gale, and saw her sweeps on that side tangle and stop.
+
+"*Hah*," said Brokk. "Ketta."
+
+The hull lay over a little on the broken side and slowed, and the other pulled on, and the stones went on coming, one and then a wait and one, at the pace of a crew winding a skein; and Ketta, wherever she was on that wall, was not hurrying any of them.
+
+And the flock came back.
+
+He heard them before he saw them. They came over the ridge in a long ragged string and down off the mountain with the first of the sun behind them, fast, stooping, not wheeling, with their sails half-folded and their necks stretched out; and he could see in the way they flew that they had eaten. They came over the ledge and out over the sea like stones off the west wall themselves, and the catapults stopped, all of them, at once.
+
+The flock fell on the hulls behind the last of the stones.
+
+The first of them came down over the broken hull at the height of her masts and opened its mouth, and the fire came out of it. No cough in it. It came out in a long rope of yellow and white and went down onto her deck and up her furled sail, and stayed there, burning, while the dragon climbed away; and the next came in behind it, and the next. The bolt-thrower on her foredeck loosed once. Gaius did not see where the bolt went. The dead at the sweeps did not leave their benches, because no one told them to, and the fire poured down through her hatches into the hold where, Kymon had said, more of them stood shifting their feet with the swell, and did not stop shifting them.
+
+He had built ships. He watched her burn from the stern forward, along her deck and down her seams, all of a piece; she was a good ship, and somebody had drawn her who knew what they were about; and he watched, with Marcus's sword in his arms, until her mast went over.
+
+The other hull ran.
+
+Her sweeps were going on both sides as fast as dead men's sweeps went, which was steady and no faster, and she fled south down the coast past the Gullet with the dragons after her, and two of them caught her and passed over her low, and her sail caught in a sheet of flame; and then, because the man in the good coat had kept his head, she held on under her sweeps with her sail burning, out toward the open sea and the Grey, with smoke coming off her deck in a long black flag. The flock did not follow her past the headland. It turned back over its own coast, high, wheeling, and Gaius heard, coming back off the cliffs, a sound he had never heard from the flock: a high, rough, many-throated calling, back and forth, like a flight of geese going over in the autumn, if a goose had fire in it.
+
+"She'll get home," said Marcus. He had come back up the fan to the ledge. "That one."
+
+"With the man in the coat," said Gaius.
+
+"Good. Someone should tell them she was taken." Marcus held out his hand for his sword, and Gaius gave it to him, and the helmet. "Who'd you say laid those?"
+
+"Ketta."
+
+"Mm." Marcus turned his eyes along the cliff to the west wall, where one of the dwarves had climbed up on the frame of the nearest catapult and was standing on it with her arms folded. "She'll want to be paid."
+
+"She's been paid," said Gaius.
+
+Below them on the fan, where Marcus had stood, the black glass with the shape of a breath in it had cooled and gone dull. Brokk went down to it and crouched beside it, and put his hand flat on it. Then he took the chisel off his belt that every dwarf of the halls carried, and a little mallet, and cut a mark into the slag beside it: a small square mark. His own.
+
+Gaius did not ask why.
+
+---
+
+Oppius baked in the Forge that night.
+
+It had been Hulda's word. The fires had been lit at the horn on a banking night, which had not happened since there were banking nights, and the clans' elders had argued it all day in their hall, and at the end of the day Hulda had said that a fire lit to keep the halls' heart was a fire lit in the heart's own service, and need not be put out for being lit early; and that as it was lit, and hot, and there were men of the cohort who had not had a loaf out of an oven since Fausta's, the cohort's cook might use a hearth. "One," said Hulda. "Not the one she sat on."
+
+Oppius took three.
+
+He took them at the near end of the floor, by the wall where the cohort had stood in the dark, far from the lip and the place where the quarrymen had lain, which was swept now and bare; and he raked them up himself and built a vault over each with old firebricks the dwarves brought him, muttering, and stood back with his arms folded and watched the smoke. Then he set his dough.
+
+It was the halls' barley, the king's barley, ground on the dwarves' querns, and the dwarves' salt and the dwarves' milk, and the last of the cohort's oil, and a pot of something sour that he had been keeping alive in a crock since Cyrene and fed every night like a dog. The smell of it spread across the Forge after dark. Gaius was sitting on the edge of an anvil with the cutters' kit unrolled across his knees again, going over the drills, and he lifted his head, and so did every man and dwarf on the floor. It came down the streets between the hearths, warm and sour and brown, over the coal and the iron and the stone, and the dwarves raking out the far hearths stopped and stood leaning on their rakes and smelling it.
+
+Oppius gave the first loaf to Hulda. He did not make anything of it. He carried it down the floor on the flat of a shovel, steaming, and held it out to her where she sat on a stool by the anvil nearest the wall, and she looked at it, and at him, and took it in both hands and broke it.
+
+"Hah," said Hulda.
+
+The second he gave to Brokk, and the third to the dwarf girl with the rope plait, who had been sent back up to the halls twice and had come down a third time. Then he fed the cohort.
+
+There was pork with it. The halls sent down a whole side, salted, and onions from somewhere, and Oppius cut the pork into thick slabs and laid them on an iron sheet on a fourth hearth, which he had also taken, and the fat ran and spat and the smell of it rose into the roof of the Great Forge among the soot and the marks; and the cohort sat down on the floor of the clans' heart among the anvils with the dwarves among them, and ate bread and pork with their fingers, and the fat ran down their wrists, and the only sound was eating.
+
+Gaius ate his sitting on the anvil. The crust was black on the bottom where the bricks had been too hot and he was glad of it. He had not known he was hungry.
+
+Fingers sat down on the next anvil but one.
+
+He had his box on his knee, and his slate, and he set them down beside him on the iron and did not open either. He had pork in one hand and bread in the other and he ate them in turn, not fast. He was looking down the floor at Ketta.
+
+She had come down from the west wall at dusk with her crew, black to the elbows, the copper wire on the ends of her plaits gone dull with smoke; and she was sitting on the floor by Oppius's hearths with her back to an anvil-foot and her legs out in front of her, eating, with a cousin on either side of her, the three of them not talking. Naevius had one hand bound in a strip of scorched leather that had been part of somebody's apron.
+
+"She took the stones up to the ships," said Fingers. "On a first-light lay. At that range, off a cliff, in that wind. With a swell under them." He turned the bread over in his hand. "Didn't hurry. One at a time, walked in. Fourth stone." He ate the bread. "Then held off, for the flock to come in. I'd not have known how to price that."
+
+Gaius said nothing.
+
+"I've been working out the odds," said Fingers.
+
+"On what?"
+
+Fingers let that go. He finished his pork, and wiped his fingers on his tunic, and wiped them again, and then he got up off the anvil, and walked down the floor between the hearths, with the whole cohort watching him go and pretending not to, and stood in front of Ketta.
+
+She looked up at him with her mouth full.
+
+Gaius could not hear what Fingers said. It was not much. He saw Ketta listen to it, chewing, and swallow, and look at him without any expression at all; and then she held up one black hand, and he took it, and she got up off the floor by it. She said something to the cousins, and Lollius nodded, and Naevius did not look up, but he moved his foot out of her way.
+
+They went out of the Forge together by the door to the halls. Ketta in front, Fingers behind, with his box under his arm. He had forgotten his slate. It lay on the anvil, with nothing written on it.
+
+Kaeso, by the hearths, put his hand on his drum and did not strike it.
+
+---
+
+Liora said the litany that night on the floor of the Forge, as she said it every night, sitting with her back to the warm iron of an anvil-foot and her knees drawn up and her hands in her lap.
+
+The names of the cohort's dead from the Forge were in it, in their places at the end. Gaius had not known all of them. One had been a lanciarius. *Turpilius, of the Vessa road. Who stood in the narrow street.* The dwarves round Oppius's hearths had gone quiet when she began, as they had in the guest hall after the galleries, and listened with their bread in their hands. She said a dwarf's name, and Brokk, on his stool, put his bread down; Gaius learned afterward that it was one of the bellows crew, killed at his beam in the first rush, before anyone knew the dead had come so far down the floor.
+
+Then, at the end, after the last of their own, she said:
+
+"Laelius. A clerk, of the Survey. Of the south shore of Tharsis."
+
+The Forge was quiet.
+
+Across the floor, by the hearth where they had kept her all day under two of the Lanciarii, the quaestor sat on the hearth's edge with a blanket round her, and her hands in her lap. She had cleaned them; they were white again in the firelight, the freckles on the backs of them. At the name she lifted her head and looked down the length of the Forge at Liora, sitting against her anvil with her eyes closed.
+
+Liora did not open them. She was done.
+
+Rusca looked at her. Then she looked down at her clean hands, and turned them over, and did not move again.
+
+Gaius never knew how Liora had learned the boy's name. He did not ask her. He supposed she had asked somebody; she generally did.
+
+---
+
+They sailed five days after the Forge, on the morning ebb, with the iron.
+
+It had come down out of the mountain for three days, on the dwarves' backs and the cohort's, in bars and blooms and rough-cast pigs, down the gate stair to the cove and out in the boats, the black deep-seam iron that forgives you, more of it than Gaius had dared to draw a hold for; and the *Forward* sat a strake lower than she had come in, and *Constancy* two, which he had in chalk, and Nerva had in his neck. Brokk had come down to the cove on the second day and walked along the shingle beside the stacks, and kicked the last pig with his boot, as he had the last sack of the king's barley at the gate, and said nothing at all.
+
+Ketta came down the gate stair on the morning of the sailing in a clean apron, with a sea-chest on her shoulder that two of the cohort could not have lifted, and walked out along the plank onto the *Forward* and put it down by the mast.
+
+"The halls want to see the iron into the berths," she said, to Marcus, who had not asked. "They're not sending Brokk. He'd only kick something." She looked round the deck. "I'll come home with the next lading, in the spring. When your king's paid for this one."
+
+Marcus looked at Fingers. Fingers was coiling a line that did not need coiling, at the foot of the mast, and did not look up.
+
+"Of course," said Marcus.
+
+Ragna did not come down to the cove.
+
+She sent for Macro instead, before light, by a herder, and Macro went up the mountain and over the ridge to the High Pastures in the dark, and Gaius went with him, because Marcus had asked him to see the last of the iron out of the byre-cellars and it was on the way, and because he was, he found, curious.
+
+The byre was the third one, warm through the floor from the vents, and smelled of milk and dung and hay and the dry breath of cattle, and Ragna was in it, on her stool, with her crook across her knees. The young black cow was in her stall, and beside her, on its legs now, all legs still, black, with its ears up, was the calf. It looked at Gaius when he came in and then at Macro, and came across the straw toward Macro on its unsteady feet and put its wet nose in his hand.
+
+"Hold her head," said Ragna.
+
+Macro held the calf's head. He held it gently, under his arm, as a man holds a thing he has had in his hands before in the dark; and Ragna got up off her stool and took a little knife out of her belt, a herder's notching-knife, short and sharp, and took the calf's ear in her fingers, and cut.
+
+It was quick. The calf jerked and made a sound and Macro said something to it, low, into its neck, and it was done: a small square notch in the edge of the ear, clean. Ragna wiped the knife on her sleeve. Then she took the ear again, and cut a second notch below the first, a little vee with a tick at the bottom of it, that Gaius had never seen on any beast at Stoneheart.
+
+Macro looked at it. He did not say anything.
+
+"That's my clan's," said Ragna, touching the first. "And that's new." She touched the second. "It'll need a name in the book. The mark does. I've put it down as yours."
+
+Macro opened his mouth. Then he closed it.
+
+The book was on a shelf cut in the rock at the back of the byre, in a box against the damp: the herd-book of the High Pastures, oak boards and hide leaves, smaller and older and greasier than the halls' book, and full, Gaius saw when she opened it on her knee, of beasts, by name, by mother, by mark, by the year, in a hand that changed as the leaves went back. Some lines were struck through, with a word beside them that he guessed meant eaten. A few leaves back, a whole page of them, all in the same hand, struck through with the same word.
+
+Ragna turned to the last written leaf. She dipped a reed in a horn of ink on the shelf, and wrote. She wrote slowly, in the dwarf script, and then, under it, in the common letters, square and careful and not well, as if she had had them off somebody very recently.
+
+She turned the book round on her knee and held it up for Macro to read.
+
+Macro could not read. He looked at the page, and at the marks on it, and then, helplessly, at Gaius.
+
+Gaius read it to him.
+
+"*One heifer calf, black, of the black cow. Notched for the clan and for Macro of the cohort. Half-held. Owed to Macro of the cohort,*" he read. "*To be collected.*"
+
+Macro stood in the straw with the calf's head under his arm and looked at the page.
+
+Ragna closed the book. She put it back in its box on its shelf against the damp, and sat back down on her stool with her crook across her knees, and looked at the black cow, and at the calf, and not at Macro.
+
+"Go on, then," said Ragna. "You'll miss your tide."
+
+She stayed on her stool, and said nothing else. Macro stood a little longer with his hand on the calf's neck, and then he let it go, and the calf tottered back across the straw to its mother; and he crossed to the byre door, and stopped in it, and looked back. Ragna was looking at the cow.
+
+He went out. Gaius followed.
+
+They went down over the ridge in the first of the light with the snow blue on the high grass and the vents dull red above them, and halfway down Macro stopped on the path and stood with his back to Gaius, and took the straw out of his own beard, a long piece, and looked at it, and put it inside his coat.
+
+---
+
+The eldest came down to see them go.
+
+The fleet was out of the cove on the ebb with its sails loosed and the iron in its holds, standing off the dragon coast to clear the Gullet and the Shambles before it turned east for the Silverwood passage; and Gaius was in the *Forward*'s stern beside Nerva, being sick over the rail as he always was, when he saw it come off the high vent. It came down the face of the mountain as it had at the fan, in one long fall with its wings open, and swung out low over the sea alongside the fleet so that the men in the waists ducked and *Constancy*'s helmsman put his helm over without being told; and then it turned in to the cliffs, and landed on the headland above the Shambles. On a flat rock, with a boulder at its back.
+
+It folded its wings, and sat there, and looked at the fleet.
+
+Gaius heard someone draw breath behind him.
+
+The quaestor was in the stern, under guard, on a coil of cable by the taffrail with the blanket round her, where Marcus had said she was to sit, out of the wind. She had not asked for anything. Now she had got up, and was standing at the rail beside him with her hands on it, looking at the headland: at the rock, and the boulder, and the thing on it the colour of the cliff.
+
+Her mouth moved. It was not a count. What it was, he could not tell. It was short.
+
+"I never saw it come down," she said. She said it to the rail, not to him. "Not once. I looked."
+
+Gaius wiped his mouth.
+
+"It doesn't," he said. "It did this week."
+
+Marcus had come up beside them. He was looking at the headland too.
+
+The eldest lifted its head on the rock. Its voice came out across the water, dry, with the rattle in the bottom of it, clear over the sound of the sea.
+
+"*Little soldier.*"
+
+"I'm here," said Marcus.
+
+"If you ever need fire," said the eldest, "tell the sea-people. They come to the foot of my mountain on the warm water. They will tell me. I will come." It looked at him across the water. "We are fed. We will be fed. That is a thing I have not said since before the halls had a book." It put its head down on its forefeet on the flat rock. "Go home, little soldier. Your clan-man is counting his herd."
+
+Marcus made no answer. He lifted his hand to the headland. Then he went forward.
+
+Rusca stood at the rail with her eyes on the eldest on its rock until the fleet had gone round the point and the cliff took it. Then she sat down again on the coil of cable, and pulled the blanket round her, and took a small black book out of the inside of her coat, with a ribbon in it, that Gaius had not known she still had. She opened it on her knee, and looked at a page, and wrote nothing, and closed it.
+
+---
+
+At dusk, off the dragon coast with the mountain going blue behind them and the vents red on its summit, Macro walked the *Forward*'s deck from the bow to the stern, and counted the cohort.
+
+He did it by name. Gaius heard him begin it at the bow, low, to himself: the man at the bow oar, and the one beside him, and the one behind; and go down the benches and the deck, past the mast, past the stacked iron, a name and a name, not looking at them, the way a herder walks a byre at dusk. Rufo, at the mast with his tally-stick, looked up when he went past, and opened his mouth, and shut it, and let him go. Macro said the men on the benches and the men at the sheets and the Lanciarii by the rail and the big fair one with the broken tooth, who did not look at him; and Tappo, and Kaeso, and the cousins, and Fingers, on Ketta's sea-chest at the foot of the mast with Ketta beside him, and Ketta, whom Macro named too, without stopping, as though she had always been on the roll.
+
+He came to the stern. He said Nerva, and Gaius, and Liora, who was sitting by the rudder-post with her eyes closed. He looked at the quaestor on her coil of cable for a moment, and said nothing, and Gaius thought he did not have her name.
+
+"Plautia Rusca," said Liora, without opening her eyes.
+
+Macro said it.
+
+Then he stood at the taffrail with his hands on it, and looked back over the wake at the mountain, at the high grass going dark below the vents, where, Gaius supposed, there was a byre, and a stool, and somebody counting; and he stood there as though there were one more name at the end of it.
+
+He did not say it. Then he went forward, and lay down by the iron, and slept.

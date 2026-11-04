@@ -17,6 +17,7 @@
 11. [Chapter Eleven: The Reasonable Offer](#chapter-eleven-the-reasonable-offer)
 12. [Chapter Twelve: Salt](#chapter-twelve-salt)
 13. [Chapter Thirteen: Arrears](#chapter-thirteen-arrears)
+14. [Chapter Fourteen: The Long Stepped Lane](#chapter-fourteen-the-long-stepped-lane)
 
 ---
 
@@ -2064,6 +2065,8 @@ She counted from the flat rock on the headland above the Shambles, as she had ev
 
 They were not large. That had been her first correction to the Survey's file on Stoneheart. The file was copied out of old Aeridor books, and the old books gave the mountain one dragon the size of a granary, with a grievance. She had found a flock of dragons. No beast in it was bigger than a horse, if a horse were mostly neck and tail, scaled close as a fish from the long jaw to the tip, and opened on either side into sails of skin wider than a hunting boat was long. They roosted in the warmth of the high vents, where the rock never froze, and they were the colors of the mountain: slate and rust, ash and soot, and the grey-green of the lichen on the lower rocks. A beast that held still against the cliff on a wet morning was not there at all until it moved. She had entered forty-three, by their marks.
 
+She had come west braced for the one. On the voyage out she had read the file to the foot, and the Aeridor books copied into it, and lain awake in her bunk on the *Docket* with the granary in her head: a beast that could lift a boat off the water in its jaws and burn a beach from one end to the other, and that no clerk had ever counted, because no one who stood close enough to count it had come home with the figure. She had made her peace with it as a clerk does, by reckoning what one beast would eat, and how long a coast would keep it. Then, on her first morning on this rock, the flock had come off the vents, and she had gone on ticking, and her pen had not stopped at ten, or at twenty. One beast could be reckoned with. Forty-three could come down on the Shambles together, from every side at once, and no line on the beach would hold it against a quarter of them. She had put the granary away that morning and taken out the swarm, and for a week she slept in her boots.
+
 Each had two lines in her book, because the light was different at either end of the day, and so were the marks. In the morning they came off the vents against the grey, and she knew them by their colors: the soot with the white throat, the rust with the dark saddle, the old slate gone pale along the spine. At dusk they came home against the red of the vents, flat as cut paper, and she knew them by their sails: a notch, a tear, a finger short, the pucker where an old bolt had gone through and healed. The Thessa men had names for a few of them. Hers were figures, Slate One and Rust Four and Lichen Two, and hers were better, because they could be added.
 
 Slate One came off first, as it did most mornings, dropping off the lip of the vent into the smoke and opening there, so that the smoke went round its sails in two long wheels. She ticked it. Then the two soots together, and a rust, and Ash Three with the hitch in its left sail. Each beast dropped, and opened, and turned, and the turn was the figure: a turn down over the headland toward the sea went in the column for the coast, and a turn over the shoulder of the mountain, toward the high pastures where the clans grazed their herds, in the other.
@@ -2074,7 +2077,9 @@ When the last was off she read down the list for the ones without a tick, and th
 
 *Over the coast: twelve.* She wrote it, and the inland figure beside it, and added the two, and they came to the whole flock, as they ought.
 
-Down on the Skerries the boats were in on the last of the ebb, and the stock had gone over their sides. Stock was the word on the Survey's form for the dead it kept, and the only word a quaestor used. They stood in the wash along the seaward rocks with the sea to their knees, a dark line with its back to the water, as she had written it the night before: *Stand in the wash. Let nothing by.* Rust Four had turned for the coast. It came down on the Skerries out of the sleet with its sails half shut, at the far rock the hunters had not reached. The Thessa men ran at it shouting with their clubs up; and one of the stock stood in the wash beside the seal it wanted, as written.
+Down on the Skerries the boats were in on the last of the ebb, and the Survey's undead had gone over their sides into the sea. They stood in the wash along the seaward rocks with the water to their knees, a dark line with its back to the waves. Their faces were the grey-white of tallow. Their eyes were open and clouded, and did not blink when the sleet drove into them. Quarry dust was still worked into the creases of their knuckles, where no one had washed it out. The hunters' breath smoked in the boats behind them; over the line in the wash there was nothing at all. They stood as she had written them the night before: *Stand in the wash. Let nothing by.*
+
+The Survey's form called them stock, and so did every quaestor, and so did she. Rust Four had turned for the coast. It came down on the Skerries out of the sleet with its sails half shut, at the far rock the hunters had not reached. The Thessa men ran at it shouting with their clubs up; and one of the stock stood in the wash beside the seal it wanted, as written.
 
 It coughed.
 
@@ -2085,6 +2090,8 @@ It was out before *lost*. A short gout of fire, dull orange in the grey, went ou
 Half a carry.
 
 The carry was hers. At first the hunters had brought her flames that were long, and short, and *a good while*, none of which was a figure; so she had made one. A carry was the time it took to say the heads of a return, *stock in hand, raised, lost, carried*, at the pace the audit was read, with no hurry in it and no weight on the last. Every clerk had that pace in his ear, and neither cold nor fright quickened it. In her first week the same beast had burned four carries over the Skerries, a flame that lay along the water and went on lying there, and would have cost her the stock and very likely the boat. She had a month of figures now, and they went one way. A beast that had eaten burned long. A beast that had not, coughed.
+
+She had stopped sleeping in her boots the week the figures turned. A flock that coughed was not a swarm. It was forty-three mouths, every one of them to be fed, and she held the larder.
 
 She entered it on Rust Four's line, with the stock beside it: *one, scorched; held.*
 
@@ -2128,7 +2135,7 @@ At noon they ate in the lee of the try-pots, with the heat on their faces and th
 
 The Thessa men had been quick to take up the custom of not looking at the stock, and kept their spitting besides. She had asked for stock from the south-shore quarries, not from Thessa, so that no man of Mastarna's need spend a day not looking at a cousin. It had cost her a letter and a week.
 
-There was a file of them at the try-pots now, carrying the morning's blubber up the shingle in baskets: men of the south-shore quarry towns, in the Survey's issue oilskins over whatever they had been laid out in. Their faces were the grey-white of tallow. The eyes in them were open and clouded, as the seals' eyes were on the trestles, and did not blink when the sleet went into them. Quarry dust was still worked into the creases of their knuckles, where no one had washed it out. The Thessa men's breath went up in smoke round the fire, and the clerks', and her own; over the file at the try-pots there was nothing at all.
+There was a file of them at the try-pots now, carrying the morning's blubber up the shingle in baskets: men of the south-shore quarry towns, in the Survey's issue oilskins over whatever they had been laid out in. Round the fire the Thessa men's breath went up in smoke, and the clerks', and her own; over the file at the try-pots there was nothing at all.
 
 They had died in the ordinary way, in the ordinary places: a winter cough, a fever, a fall of rock in the cut. Each family had had a letter from the Survey, and a month later had seen its son on the quay, or hauling stone up the hill road at night, and had not looked at his face, and had put a lamp in the window for a year. That was what the dead were in Tharsis, and all they had ever been in Rusca's life. A quaestor wrote a sentence on the brow, and they did what it said.
 
@@ -7789,3 +7796,795 @@ She had it all in her head. Every leaf of it. Every name.
 She drew breath, and gave the next figure, and the rows walked.
 
 *Stock in hand,* she counted, with no hurry in it, and no weight on the last.
+
+---
+
+# Chapter Fourteen: The Long Stepped Lane
+
+**TUCCIUS**
+
+It had rained since noon, out of the south-west, and by dusk the whole of Cyrene was running downhill.
+
+It ran off the slates of Netmakers' Row and down the crown's road in two brown ropes, and into the gutters, where it met the spring coming the other way, warm, and the two went down to the harbor together and steamed. There was no frost tonight to make the steps of the long stepped lane slick. There was something worse: the wet black shine of stone walked on for a thousand years and polished like a deck.
+
+Tuccius came down it at a walk, with his lancea for a stick.
+
+He went round the step near the top without looking at it, as the town did. It was the fourth from the head of the lane, where it turned under the wall of the Baths, and no different from the others. Caelius had died on it, on the back end of a door, and Tuccius had sat with him. His feet had decided in the autumn and not consulted him: the left went wide on the third step, the right came down on the fifth, and the fourth went by under him with the rain on it.
+
+His thigh ached. It always ached in the wet. Liora had said it would go; he had said it was weather.
+
+At the foot of the lane the long quay lay black under the rain, with the cook-pots smoking at the steam-box wall, and the slip gate across the quay at the yard end with a lamp in the window over its arch. The harbor was flat, beaten smooth by the rain. Past the moles there was nothing, not even the Grey, only the rain coming in off it in long skirts, one behind another.
+
+He stopped at the harbor master's house at the head of the quay to look at the tide-board, because he looked at it every evening.
+
+It was a neat board, black and white with red figures, painted by the garrison from the Tharsian tables, and it was wrong by an hour. The prince had stood in front of it in the autumn with the Navarch's fleet off the Kettle and said, *Leave it wrong*, and nobody had touched it since; the town read the true tide off the merfolk and its own grandfathers.
+
+He touched the edge of the board with two fingers and went on.
+
+---
+
+The home guard ate at the pots with everybody else.
+
+There was no other way to do it. The prince was three weeks gone west, and nobody had the stomach to sit at his table without him. So the boys came down at dusk with their bowls, and the Lanciarii and the cohort men who had stayed, and the town, and the prisoners from the Teeth, and all of them stood in the rain at the steam-box wall where the heat came through into a man's back, and ate what Ancus ladled.
+
+It was fish tonight: cod from the cold grounds and a ling's head the size of a child's, stewed with leeks and the king's barley and a cut of mutton fat to give it heart. It smelled of the sea and onions and smoke, and was too hot to eat, and everybody ate it. Fausta's bread came down from the bakehouse at the foot of Rope Street in two baskets under sacking, and the boys fought over the ends.
+
+Ancus filled every bowl that came to him to the same line, Tharsian and townsman and boy, and said nothing to any of them. He had cooked for the garrison when it hanged men on the quay. He cooked for the town now, and he cooked the same.
+
+Tuccius took his bowl to the end of the wall where the slip gate was and stood under the arch out of the rain.
+
+The brothers were there, eating, with their backs to the warm stones of the gate. They had the slip gate most nights, by their own asking. Arruns and Velthur, of Thessa, where the old king's fleet had been sent, and never arrived: two dark lean men with the same long jaw, so alike that Tuccius told them apart by their hands. Velthur had lost the top of a finger to an adze when he was a boy, and kept the stump crooked out when he held a spoon, as if it still had somewhere to be.
+
+They nodded to him. He nodded to them. They went on eating.
+
+Over the arch, in the old harbor master's room, the Navarch's lamp was lit. Through the garrison's little thick panes, like the bottoms of bottles, Tuccius could see him at his table: a long pale stooping shape, head bent, hand moving. The lamp laid gold squares on the wet of the quay, and the brothers sat at the edge of them.
+
+"He's at it late," said Tuccius.
+
+"He's always at it," said Velthur. He said it as if it were weather.
+
+Arruns said something in their own island's speech. Velthur snorted into his bowl. None of their island's speech ever got translated, and most of it, Tuccius thought, was about the engineer.
+
+A boy went by with a basket on his head, singing, and dropped a heel of bread into Velthur's lap without stopping, and went on up the quay. Velthur's boy, the yard called him: a town lad of fourteen, all elbows, who kept the engineer's shed now that the engineer was at sea. Velthur broke the heel in two and gave half to his brother.
+
+"The shed's dry?" said Tuccius.
+
+"Dry." Velthur jerked his chin at the slips. "Frames are in the loft. Boy sleeps in the house."
+
+"In the engineer's house?"
+
+"Door's on the latch." Velthur shrugged. "Engineer said. Anybody needs a fire."
+
+Tuccius looked over at it: the low dry-stone house on the made ground by the sea-wall, its thatch dark with rain, a little smoke going up from its chimney. He had watched the engineer shut that door on the night of the sailing, and open it again. He thought now that he understood why.
+
+He finished his stew and gave his bowl to a boy to take back, and went to walk the round.
+
+---
+
+He walked it every night, the whole of it, and it took him the first watch.
+
+Up the crown's road to the fort with the rain in his face and the gutters going by warm on either side of him like a pair of dogs; across the yard; out to the sea-gate.
+
+The sea-gate stood over the head of the water-gate stair, twenty feet on its face. The engineer had rebuilt its second course the night before the dead came, on a tip from Fingers, who had found the mason's shiners by putting his thumb on them. Tuccius did not know what a shiner was, beyond that it was bad. He knew the gate had held, and that its seaward door was a pig in the wet.
+
+Sollius had it tonight. He was one of the Lanciarii who had stayed, a long quiet man from the hill country who had danced the Haul at Midwinter with a net-wife called Tertia, and had come down on the morning of the sailing with his kit on his back and said, "I'll be stopping, if it's all the same," and had not needed to say why. He was in the gate passage with a brazier, looking at the seaward door with his head on one side.
+
+"She's dropped," he said.
+
+Tuccius looked. The great oak leaf of the seaward door, iron-strapped, with the old paymaster's lock in it, had drunk the rain and the sea-fret all day, and had gone down at the nose on its bottom hinge the breadth of a man's thumb. Where its foot met the stone sill it had bitten in. The lock was a dark square of rust-streaked iron at waist height. Sollius had the key in his hand.
+
+"Lock?"
+
+"Stuck." Sollius tried it, to show him. The key went in. It would not go round. "It does it every wet night. Fingers said. Wants a wedge under the heel of the bottom strap. I've got the wedge." He nodded to it, a lump of oak on the floor by the brazier. "I'd have put it in. Only I thought I'd ask."
+
+Tuccius looked at the door a moment longer. Then he put his hand flat on the oak. It was cold, and wet, and swollen tight in its frame like a cork in a jar, and when he leaned on it nothing whatever happened.
+
+"Who's to open it tonight?" he said.
+
+Sollius thought about that.
+
+"Nobody," he said.
+
+"Then leave it stuck."
+
+Sollius put the wedge back down by the brazier with care, as though it might bite.
+
+Tuccius went up onto the gatehouse roof and stood at the parapet in the rain. Below him the water-gate stair went down the black face of the rock to the sea, and at its foot, round the fold of rock, the low iron sea-door at the waterline. The sea came and went there with a little white at the edge. Beyond it there was rain.
+
+Behind him, on the roof, under a sailcloth lean-to, sat the pans.
+
+There were a dozen of them, wide and shallow, of hammered bronze, that had been the garrison's for drying salt fish, with a heap of long iron hooks beside them and a stack of wet sacking. The whole town knew what they were for. All winter it had laughed at them nearly as much as at his boys.
+
+---
+
+It had been the girl's idea, in the end. He gave her that. He gave her that every time he thought of it.
+
+Her name was Ennia. She was eleven, a net-wife's daughter from the Row, and she sat in the front of the lady's letters class in the long ward at the back of the Baths and did not miss. She had come to him on the quay in the first week of the new year with her slate under her arm, and stood at his elbow until he looked down.
+
+"The lady read us a city," she had said.
+
+Tuccius had waited.
+
+"In the big book. The engineer's. The war one." She had frowned, getting it right. "There was a city on a rock, in the sea, and the king came at it with ships and a ram. And the people in the city put sand on the fire till it was hot, in pans, and threw it down on the men with the ram, and it went in their armor. And the lady said it was the worst thing in the book."
+
+"Did she."
+
+"She said they'd have done better to give in." Ennia had looked at him with her slate against her chest. "But they didn't. And Fausta's got the only oven."
+
+Tuccius had looked at her a long time, the way a man looks at a sounding-line come up with the wrong bottom on the lead.
+
+Then he had gone to Fausta.
+
+Fausta had heard him out by the mouth of her oven with the peel in her hand, and said, "Sand's no good to me. I'd want it dry." So Prisca's line had carried sand off the black beach in creels for three days of the thaw and spread it on the floor of the drying loft over the bakehouse, where the oven's heat came up through the boards, and turned it with a rake like malt; and it lay there now against the wall, dry as meal, and Fausta complained that it got in the bread.
+
+The town had laughed. He had let it. Laughing cost nothing, and they needed the practice.
+
+He went down the crown's road again with the rain on his back.
+
+At the turn of the road above the gutters he looked up at the Row, as he did every night.
+
+On the ridge of the biggest net-loft there was a shape that was not chimney: grey cloak, hood down, the rain on its face. It had sat there in every weather since the first snow.
+
+He had said a thing on the *Forward*'s deck in the fog, with the lady gone, that he would not have back for a year's pay. *Who's to say who reads the elf's report?* Rufo had held him out over the sea by the throat for it, and Valeria had said after: *If she sold us, she took a strange price for it.*
+
+On the quay on the night of the sailing, with the torches all down the moles and the boys in their ranks, the prince had stopped in front of him and said, too low for the rest to hear, "The old one's eyes are good."
+
+And Tuccius had said, "I know, Highness."
+
+Which was true. In the first week of the snow she had pointed with her chin at a fishing boat coming home through the gap a full glass before the harbor bell saw it, and named the boat, and been right. They had not said twenty words to each other all winter. She pointed at things; he looked at them. It was the best watch he had ever stood with anybody.
+
+He lifted his hand to the shape on the ridge, not expecting anything.
+
+The shape did not move.
+
+He went down to the harbor master's house and lay down in his cloak on the cot inside the door, with his boots on and his lancea where his hand would find it, and listened to the rain until he slept.
+
+---
+
+*From the book of Lartius Scaurus, Navarch of the Southern Sea, a prisoner at Cyrene:*
+
+*Day one hundred and twenty-one. Rain from the south-west since noon, steady. Wind light. Visibility in the harbor to the end of the mole; beyond, nil.*
+
+*The guard below the window changed at dusk. The brothers again, by their own asking. They speak the speech of Thessa under my window, which I have never had. I have asked them more than once to teach me a word of it. They have declined, courteously.*
+
+*Supper: the cod, with leeks. Better than yesterday's.*
+
+*The lamp on the mole is out. The lamp in the shrine at the head of the quay is lit. The lamp in the widow's window on the Row is lit, for the drowned rower, and has been every night since the squall.*
+
+*The lieutenant of the home guard has walked his round and gone to bed. I note that he touched the tide-board on his way past, as he does every evening, and that it still reads an hour late.*
+
+*I have not told anyone that I know what it is for.*
+
+---
+
+Halia woke him.
+
+There was a hand on his chest, and a cold coming off it, and the smell of the sea; and then he was sitting up with his lancea in his fist, and the merfolk girl was crouched by his cot with the water running off her, her blue hair plastered to her shoulders, and her breath coming in the long hard pulls of somebody who has held it a long way.
+
+"Ships," she said.
+
+He was on his feet.
+
+"Ships." She got the word right the second time; the first had been half water. "Four. Outside the Kettle. No lights. Oars." She drew her breath again, harder, the air going into her like a rasp into wet wood. "Proteas heard them. Long way off. The stroke. Proteas said, the Navarch's stroke."
+
+He did not ask if she was sure. Halia had gone into a sinking net in the cold grounds after a man she did not know. Halia did not make mistakes about ships.
+
+"Where's Proteas?"
+
+"Gone out." Her eyes were on his face. They were very large, and very dark, and they did not blink as often as a girl's should. "To the cables. He said tell you. He said you'd know."
+
+"Tell him I know." He was buckling his belt. His hands were steady. They had always been steady; it was his stomach that did the other thing. "How long?"
+
+She thought. He could see her doing it, in her people's way, not in glasses but in something else.
+
+"Before the tide turns," she said. "Before your tide."
+
+Before his tide. Before the true one. Which meant, by the board on the wall outside the door, an hour before the Tharsians thought it would.
+
+He went out into the rain with her past the board, and did not touch it.
+
+Maelis was at the head of the quay steps.
+
+She had come down off the ridge without a sound. She stood where they stood every morning, tall in her grey, her braid dark with the wet, her bow strung now. She did not look round.
+
+"Four," she said.
+
+"Halia says."
+
+"Halia is right." She lifted her chin, a little, at the dark past the moles. He looked where she looked and saw nothing. "Two go east. For the black beach. One goes west, under the fort. For the stair."
+
+"And the fourth?"
+
+"Lies off the gap." The old seamed face turned to him for the first time. In the dark it was all hollows. "To come in after. When the towers are busy."
+
+He rubbed his nose with his thumb.
+
+The thing that had come up in him on the *Forward*'s deck in the fog came up again, out of the same place under his ribs. Four ships, without lights, three weeks and some since the fleet sailed, on the one stretch of the winter when there was nobody on Cyrene but old men and boys and a cook.
+
+*How did they know?*
+
+He did not say it. He did not look at the elf. He looked at the gap and paid it out to the end, like a line off a drum.
+
+*Somebody wrote it down.*
+
+He let it go into the rain. There was an old woman at his elbow with a strung bow who had seen four ships in the dark before any man on the island.
+
+"Will you go back up?" he said.
+
+"Yes."
+
+"The rows'll have clerks. With the frames."
+
+"I know what they have." She was already turning. "I have watched them from the pines since they came."
+
+"And the officers."
+
+"After." She stopped at the corner of the harbor master's house, half gone into the dark, and looked back at him. "Lieutenant."
+
+"Aye."
+
+"Your boys will run."
+
+"Some."
+
+"When they run," said Maelis, "let them. Then stand them up again." And she went, and he did not hear her go, and when he looked up at the ridge of the net-loft a little later the shape was on it again, kneeling now, with the rain on it.
+
+---
+
+He did not ring the harbor bell.
+
+A bell would bring the town out of its beds in a moment, and it would tell four ships' masters that they had been seen. He wanted them to come in. He wanted them to come in on their tables, an hour out, with their minds on the fort and the slips and the Navarch's window.
+
+So he sent the boys instead.
+
+The ones who would not go home at night slept in the old customs store at the head of the Row. He went in among them with a lamp and kicked feet and said "*Up,*" in the voice he had last used on the *Audit*'s bridge, and sent them out by twos to every door. *Ships. No lights. To your places. No noise.*
+
+The places were his. He had made them all winter.
+
+He had walked every lane on the island that came down to the water, in the frost, with Old Baebius at his elbow telling him what was wrong with the maps, and asked of each the one question a lanciarius asks of any ground: *Where can a few hold many?*
+
+There were four answers on Cyrene. He had a few for each of them.
+
+The sea-gate: Sollius and two more of the Lanciarii, and Prisca's line, and the pans.
+
+The towers on the moles: a couple of the cohort men who had stayed, with the bolt-throwers under their sailcloth hoods, and boys to wind them.
+
+The slip gate: Merula, and Ancus, and the brothers. Merula had asked for it, in his clerk's voice, in the first week, before anybody had asked him anything. "The Navarch is over that arch," he had said. "If they come, they will come for him. I would rather it was me at the gate when they do." Tuccius had given it to him.
+
+And the long stepped lane.
+
+He had kept that for himself.
+
+---
+
+The town came out without a sound, which he had not known it could do.
+
+Doors opened a crack, then all the way, and people came out into the rain with their sleeves rolled, as they had come out for the barley and the house. Nobody shouted. Nobody lit a torch. An old man came out with a fish-spear and stood in the street holding it as if he were waiting for a cart.
+
+At the foot of Rope Street the bakehouse was already lit.
+
+Fausta had the oven open. Its heat turned the rain to steam at the mouth, and in the steam she stood with her sleeves pushed up past the white burn-scars on her forearm, drawing out the iron pots she used for her slow loaves one after another with the long peel and setting them on the warm flags. They were full of sand. It was not red. It was only sand, pale and dry; but when the wet edge of the peel touched it, the wet spat and was gone.
+
+Behind her, up the ladder to the drying loft, a girl was shoveling more sand down a canvas chute into the next pot, and coughing in the dust. It was Ennia.
+
+Prisca's line ran from the bakehouse door up Rope Street into the dark: women, old men, children, the ones who had passed water on the day of the dead and stone for the house. Prisca stood at its head with her shawl knotted under her chin, watching the pots.
+
+"Wet sacking on your hands," said Tuccius. "Every one of them. The pots go hand to hand on the hooks. Nobody touches iron. Nobody runs."
+
+"I know," said Prisca. "You told us. You told us all winter." She looked at him then. "Go and do your own job, lieutenant. We've done this before. Only it was water."
+
+He went.
+
+He met Old Baebius at the corner of the Row.
+
+The old man was coming down from the hill with his hood up over his one ear and a spear on his shoulder that Tuccius had seen once, on the sluice-house step at the launch: longer than a lancea, with a head like a laurel leaf gone black with age and a haft dark with the grease of a great many hands.
+
+"My grandfather's," said Baebius, before he could be asked.
+
+"I thought you'd voted against."
+
+"I did. In council, in the autumn, on principle. I was outvoted." Baebius stood in front of him with the rain running off his nose. "The crown's seat votes against. It doesn't stay in bed. Where do you want me?"
+
+Tuccius looked at him. Then he looked at the spear.
+
+"Sea-gate," he said. "With Sollius. On the roof. Somebody's got to tell Prisca she's doing it wrong."
+
+Baebius nodded, as though this were reasonable, and went off up the crown's road at the pace of a file-closer who is late and does not intend to hurry about it.
+
+---
+
+*From the book of the Navarch:*
+
+*Second hour after midnight, by my own count; the board on the quay, I need not say, would make it otherwise.*
+
+*Oars in the gap. I know the stroke. It is ours. It is the long stroke of the Navarchy, two and a pause, which I was taught as a boy on the Spire's quay and have taught to others at Thessa for twenty years. I should know it in my sleep. I believe I did; I woke to it.*
+
+*No lamps on the water. No lamps in the town, which is not like this town. I think the town is awake.*
+
+*Below me the brothers are standing. Merula has come out of the gate-tower with the cook. Merula has a spear. He holds it as I once saw him hold a pen.*
+
+*I have not lit a second lamp. I have not put mine out. I have sat down again at the window.*
+
+*I think they have come for me. I am not certain of it. I am certain of nothing tonight but the stroke.*
+
+---
+
+The long stepped lane ran up from the head of the long quay to the Baths, in the dark, in the rain, a hundred and some steps of black stone between two walls.
+
+Tuccius had paced it in the frost. It went up in short flights with a landing at each turn, so that a man on a landing could see only the flight below him and the one above. It was eight feet wide at the foot, between a chandler's wall and a sail-loft, and it narrowed as old lanes do, the houses leaning into each other over the centuries, until at the top, where it turned under the wall of the Baths, it was barely wide enough for four shields abreast. A blank wall on the left as you climbed; on the right, the barred backs of houses. At the top, the Baths, and Hostus with his needle and his broth, and the pallets laid out ready.
+
+Whoever came up from the black beach wanting the town would come this way.
+
+A man coming up from the sea in the dark with fire in his hand would take the straight way. Tuccius would have.
+
+He had the boys at the top.
+
+The boys came up the lane to him in the rain as he had drilled them, in a crowd and then not in a crowd, finding their places by the wall. The hatch-covers and fish-baskets had gone back to the boats before the sailing. They had the old garrison's round shields now, with the white closed hand scraped off and a spear-head painted on in its place, badly, by the boys themselves, and short spears out of the fort's racks.
+
+They were frightened. He could smell it under the wet wool: the sour smell of boys woken in the dark and told that it is real. One had been sick against the wall. Two were crying without any noise, and holding their spears perfectly steady while they did it, which he thought was the bravest thing he would see all night.
+
+Iason came up last, at a run, with his mother's shawl over his helmet and his sisters' voices following him up the steps until he turned and said something short and they stopped. He threw the shawl into a doorway and took the right-hand end of the front rank, against the barred house-backs, without being told, with a cohort shield and a gladius and the knife he kept in his boot. His mother's house was at the top of the hill. He did not look at it.
+
+Two of the Lanciarii came up behind him with their lanceae: Rabirius, who had stayed for a widow on the hill, and old Titurius, who had stayed, he said, for the climate. Tuccius put them in the second rank, either end, where the long points could come over the boys' shoulders.
+
+And at the left of the front rank, where the wall was, was the big one with the boathook.
+
+He did not have a boathook now. He had a spear like the rest, and a helmet that did not fit, because none of them did; he was sixteen and broader than most grown men, with hands like baler-scoops and a slow red face. The town had called him the big one with the boathook all winter. Tuccius had known his name since the first morning. It was Pullus, which on Cyrene was what fishermen called the last-hatched of a big brood, and he had grown out of it in every direction since.
+
+"Pullus," said Tuccius.
+
+The boy's head came round. He had never heard it from Tuccius before. He looked as though he had been hit.
+
+"You've got the wall," said Tuccius. "Nobody comes up the wall."
+
+"No, sir."
+
+"You don't move off it. Whatever comes. The rank turns on you. Like a door on a post."
+
+"Yes, sir."
+
+Tuccius looked along the front rank: faces in the rain under the bad helmets, somebody's teeth going. Speeches were for the field, and this was a lane, and the one thing he had to say to them he had said all winter on the frost while the town laughed.
+
+He went down the steps.
+
+He went down past them, through them, to the step that was the fourth from the top, under the wall of the Baths, where the lane turned. He stood on it. He did not go round it. He planted his feet on it, wide, under his shoulders, with the rain running over the toes of his boots, and set his lancea, and faced down the lane into the dark.
+
+Behind him he heard somebody draw a breath. He did not look round to see who.
+
+---
+
+They came up from the black beach a little before the third hour.
+
+He heard them first. Then he smelled them. Then, much later, he saw them.
+
+What he heard was the sea-gate: a dull heavy boom across the town in the rain, that he felt in his feet, and again, slow. The ram. They had got it up the water-gate stair. And the door was not giving, and he could hear it not giving. A door that is going to go makes a different noise at each blow. This made the same noise every time, like a man hammering on the side of a hill.
+
+*Stuck.* He nearly laughed. *Leave it stuck.*
+
+Then, from up there, a scream. It went up very high and on for longer than a man's scream should. And under it a long dry hissing whisper, like surf drawing back over shingle, which he could not name until he could. Sand, going down over the parapet a panful at a time onto the men at the ram, in at their necks and sleeves and under their mail, hot enough to make wet sacking smoke.
+
+The ram stopped.
+
+His teeth were together so hard that his jaw ached. He let them go.
+
+*The lady said it was the worst thing in the book.*
+
+Then the smell came up from the harbor: pitch, oily rag, and wet timber being made to burn. They had fired the yard. He thought of the slips and the frames in the shed loft and the house with its door on the latch and the boy asleep in it, and made himself stop, because the lane was his.
+
+And then the third thing, which was not a sound and not a smell, but a lack of both.
+
+Something was coming up the lane that made no noise. Men climbing a stair in the rain blow and swear and scrape. This did not. He heard feet, only feet, a great many of them on the wet stone, all together: a step, a pause, a step.
+
+And under the feet, a voice. Thin, flat, steady, coming up out of the dark from a long way down, saying one word and then another, in Tharsian, in the level voice of a man reading figures. A bead clicked. A step. A word. A bead.
+
+*The count.*
+
+"Here they come," said Tuccius, quite quietly, and behind him on the steps he heard the boys' shields come up, all together, near enough.
+
+---
+
+The dead came round the turn of the flight below him in a row, five abreast, filling the lane from wall to wall.
+
+He had seen the dead come up out of the harbor mud on the day of the dead, with the weed on them. These were not those. These were the other kind, clean and whole in plain grey, with Navarchy shields on their arms and short spears in their hands, their faces blank in the rain, and on every brow under the hairline, where the clerk's light caught them coming round the turn, a line of small dark letters. The rain ran over their open eyes and they did not blink. They came up one step at a time, on a count that was behind them, out of sight, with a little hooded light bobbing down there among them that stopped when they stopped.
+
+They smelled of nothing. That was the worst of it. Wet men smell. These did not.
+
+He let them come.
+
+He let the first row come to within a spear's length of the step he stood on, and the second round the turn behind it, and the lane fill with grey as far down as the dark went. He did not count them. Counting was for the other side.
+
+Then he stepped back up one step, and one more, and was in the front rank with the boys, at its middle, with his shield locked on Pullus's on one side and some other boy's on the other, and he said what he had said every morning of the winter.
+
+"Front rank. *Push.*"
+
+They pushed.
+
+It was what he had drilled them for. You could not frighten the dead or hurt them enough to stop them, and if you stood and thrust at one it would come on with your point in it and kill you while you tugged. You moved them. They were heavy and stupid and walked on a count, and if you put a wall of shields into the front of them, all together, and shoved, they went back; and on a stair, back was down.
+
+The shields went into the grey row with a sound like a cart going into a wall.
+
+For a moment nothing moved. Tuccius felt the weight of them come onto his shield and through it into his shoulder and down his back into his bad thigh, a dead flat weight, no give in it, like leaning on a quay. The boy on his right made a noise. Pullus on his left made none at all.
+
+"*Step,*" said Tuccius.
+
+The second rank stepped up and put its shields to the backs of the first, and its weight with them.
+
+"*Push.*"
+
+And the grey row went back, not staggering, because the dead do not stagger, as a door goes back, one step down; and its heels met the shins of the row below, which had not been told to move; and for a heartbeat the two rows hung there, leaning; and then the whole top of the lane went down the flight in a heap of grey and shields and spears, slithering, with no sound but bodies and metal on stone. Not a cry. Not a grunt.
+
+"*Step.*" They stepped down after them, one step, together. "*Push.* Spears."
+
+The short spears went down into the heap, and the Lanciarii's long points came over the boys' heads and went down deeper, and at the house end Iason was saying something vicious under his breath and driving his point down, over and over. Nothing stopped the dead. But a dead man with a spear through the knee does not get up off a stair.
+
+"Hold," said Tuccius. "Hold there."
+
+They held. The heap below them stirred and heaved and began, slowly, on the count from below, to get up.
+
+---
+
+It went on like that for a time he never afterward could measure.
+
+He had been in fights at sea for thirty years. A fight on a deck goes in rushes, and then everybody stands about blowing and looks for his friends. This was the same thing over and over on the same few steps in the same rain: the count coming up out of the dark, the dead getting up and coming on, some dragging a leg now, some reaching with empty hands. And the boys pushing them down.
+
+*Push. Step. Push.*
+
+He heard himself saying it. The words had gone so far down into him over the winter that they came up on their own, as the stroke comes up in an old rower's back when he hears a drum.
+
+A boy in the front rank slipped on the wet and went down to one knee, and the dead in front of him reached over his shield for him, and Tuccius put his own shield-rim into the dead man's face and his lancea's butt-spike down through its foot into the crack between two steps, and pinned it there, and hauled the boy up by his collar and stood him on his feet.
+
+"Feet wider," said Tuccius. "Under your shoulders."
+
+"*Sir.*"
+
+A spear came over a grey shield and went into the boy on Tuccius's right, under the arm, and the boy screamed and dropped his own spear and turned in the rank to run, and ran, up the steps past the second rank into the dark toward the Baths with his hand clamped under his arm and the blood coming between his fingers. Two more ran after him, not hurt, only running. Tuccius let them go.
+
+"Close up," he said. "Close up. Rabirius, that gap."
+
+The lanciarius came forward into it with his long lancea shortened in his hands, and the rank closed.
+
+Halfway down the flight, among the dead, there was a living man.
+
+Tuccius saw him for a moment in the rain: a Navarchy marine with a red face and his mouth open, shouting at the dead, or at the clerk behind them, or at the boys, and then the grey closed round him. The dead to wear the shields down; then the living to go through where they were worn.
+
+His shield arm had gone dead to the shoulder. He could not feel his fingers on the grip. He looked at them, to see if they were still there, and they were.
+
+Pullus had not moved off the wall. The dead always went for the wall, liking something at their shoulder, and Pullus had put his shield into every one of them and his weight behind it, and his big slow face under the bad helmet had not changed once. There was a cut on his cheek he did not seem to know about. He breathed through his mouth, steadily.
+
+---
+
+Then the count stopped.
+
+He did not notice it at first. He noticed the dead.
+
+The row in front of him had been coming up the last step with its spears reaching, and it did not take the next step. Not with a jolt or a stumble. All five together, as if the next figure had not been given; and there they stood, a spear's length off, with their spears half up.
+
+Behind them, all the way down the flight to the turn, the rows had stopped too. Every one where it stood. One with a foot lifted for the next step stood on one foot.
+
+The rain went on running down their faces.
+
+Below the turn, out of sight, somebody was shouting in Tharsian, high, and nobody was answering.
+
+Tuccius looked up over the roofs on the right of the lane, through the rain, to where the ridge of the biggest net-loft stood black against the sky; and there was a shape on it, kneeling, and as he looked it lifted its arms, and drew, and loosed, and knelt again.
+
+Down below the turn, the shouting stopped.
+
+He did not hear the arrow. He never heard any of her arrows all night. He heard only what came after: a man down there in the dark who had been reading figures, and then was not.
+
+"She's got the clerk," somebody said behind him, in a high, cracked voice, and somebody else began to laugh, and could not stop.
+
+"Hold," said Tuccius. "*Hold.*"
+
+They held.
+
+---
+
+The living came through the standing dead like men coming through a hedge.
+
+A score of them, perhaps more: Navarchy marines in mail and round helmets, their faces wild in the rain, shoving the standing dead aside where they could and going round where they could not. And when they came out of the front of the dead onto the last step below the boys they came all at once, roaring, which the dead had never done; and the roaring did what the dead had not done all night. It broke the boys.
+
+Not all of them. Half the front rank. They went back up the steps in a rush, the boys, as boys will when a grown man comes at them roaring with a sword, and the rank came apart; and for a moment Tuccius was standing on the lane with a gap on his right as wide as a door, and a Navarchy marine coming through it with his sword going up.
+
+He killed him.
+
+He did not afterward remember how. He remembered the man's face very close, young, with rain in the cleft of his chin, and the smell of him, wet leather and garlic and fear, a living man's smell after a night of nothing; and the jar in his arms when the lancea went in. Then his foot was on the man's chest and he was pulling it out, and another was coming.
+
+Iason was there, off the house end and across the gap, low, under the second marine's shield, with his gladius in one hand and his boot-knife in the other, fighting as they had fought in the gutters of the capital; and the marine went down the steps with Iason on top of him, and only Iason got up.
+
+And Pullus held the wall.
+
+The rank had gone from his right, and he stood at the wall alone with his shield up, and a marine came at him, and another; and the boy did not run, and did not fight either, in any way that Tuccius had taught him. He pushed. He put his shield into the first marine's and the weight of a boy who had hauled boats up the hard since he could walk behind it, and the marine went down the step into the man behind him, and both went down among the standing dead.
+
+"*Push,*" said Tuccius. His voice came out of him like a bark. "*Step.* Second rank, *step.* Front rank, *close up. On Pullus. Close on Pullus.*"
+
+And they came. The boys who had gone back up the steps came down them again, most of them, to the big lad at the wall as if he were the only fixed thing in the world, and put their shields on his, one and one and one, and the rank came shut on him like a door on its post, with Tuccius in the middle of it and his own blood in his eyes from somewhere.
+
+"*Push.*"
+
+They pushed. The marines went back down the step into the standing dead.
+
+And from the ridge, through the rain, the arrows came again, one and a long breath and one; and a man in the lane with a crest on his helmet, shouting the others on, sat down on the step among the grey rows, quite slowly, and did not get up. Then another. The shout went out of the marines all at once, as wind goes out of a sail, and they were going back down the flight through the standing dead with their shields over their heads against the ridge.
+
+The boys stood on the last step and watched them go.
+
+Nobody followed. Tuccius did not let them. He stood with his shield arm hanging and watched the last of the living go round the turn, and leave their dead behind them, standing where the count had left them, on every step from his feet to the dark.
+
+---
+
+*From the book of the Navarch:*
+
+*Third hour. They came along the yard from the beach with fire. I saw the fire before I saw the men. They put it to the third slip and to the shed of the second keel; the rain is against them; the engineer's lad and a line of the prisoners are at the shed with buckets.*
+
+*The prisoners have not come. I record that first because it was what I watched for. Captain Varus's men called them at the steam-box wall and at the pen, in our own speech, by the Navarchy's word for a crew released, which I have not heard said aloud since I was a lieutenant. A few came, and ran along the quay toward the boats, and went. The rest stood at the wall where they eat. Some are carrying buckets for the town. He called them again. They did not answer.*
+
+*It is Varus. I know him by his walk; he walks as he did on my deck. He has grown a beard since the Teeth. He held the lead box for me there, open, and stood at my side while it did its work, and was sick afterward over the rail, and apologised to me for it.*
+
+*He came to the arch with perhaps thirty men. Merula and the cook held the left of it. The brothers held the right, under my window.*
+
+*He did not attack at once. He called up to me by my title and by name, and said that the Navarchy had sent for me at its own cost, and that I was to come down. The brothers stood between him and the stair door. I did not answer. I did not know what answer the occasion required. I am writing this instead. He will think that very like me.*
+
+*Then they came on.*
+
+*The brothers have held the slip gate before, on the day of the dead, in the Lanciarii's line; they put their spears into the same man at the same moment, I am told, as though they had practised it. They did so again tonight. I saw it. I record that it is so.*
+
+*Velthur fell first. A spear from the left, meant for his brother, and he stepped into it; I could not say whether he meant to, and I do not think he could have said. He went down across the foot of the stair door. Arruns stood over him. He fought over his brother's body under my window for longer than I would have thought a man could, with a spear and then with nothing, and called out in their speech the whole time, the same few words, over and over. I do not have their speech. I could not write the words down. I am sorry for it.*
+
+*Then Arruns also.*
+
+*Merula and the cook closed the arch over them. The arch held.*
+
+*Captain Varus stood in the rain at the foot of the arch, out of reach of Merula's spear, and looked at the two of them for a long time. He knew where they were from. Their speech is Thessa's, and so are their faces, and we sailed from Thessa to the Teeth, he and I, with Thessa's stone in a lead box. He looked at them as if they were a figure that would not come out.*
+
+*Then he looked up at my window. I was writing. I did not stop.*
+
+*I believe he saw me.*
+
+*He called his men off and went back along the yard toward the beach, at a walk.*
+
+---
+
+The Baths smelled of blood and broth.
+
+Hostus had the boy on the old grey-veined slab in the warm room, with a lamp either side and the spring steaming in its channel round the walls. It was the boy who had taken the spear under the arm. His name was Cossus, Lucco's youngest, from the *Sabina*, fifteen, and very white, and biting on a folded strap with his eyes shut while Hostus sewed.
+
+Hostus sewed as Tuccius had once seen a sailmaker sew on a sinking deck: very fast and very small and not hurrying at all. There was blood to his wrists and none on his fingers. Tuccius did not know how he managed that.
+
+"Will he live?"
+
+"If he keeps his hands off it," said Hostus, without looking up. "And drinks his broth. And doesn't get the rot in it, which is up to the gods and not me. The spear went in under the arm and out along the ribs. It didn't go in." He knotted, and cut. "It looks worse than it is. Most of them do. They'll all want to show it to their mothers."
+
+"She'd have had it closed by now."
+
+"She would." Hostus reached for a clean cloth. "She's at Stoneheart. I'm here. He'll have a scar like a rope from his armpit to his belly, and he'll be prouder of it than of anything he'll ever do in his life." He looked up then, at last, at Tuccius, with his thin stooped face very tired in the lamplight. "Sit down. You're bleeding on my floor."
+
+Tuccius put his hand up to his face. It came away red. It was a cut over the eye, the kind that bleeds like a slaughtered pig and means nothing. He had not felt it. He sat down on the bench by the wall, and his thigh told him what it thought of the night, all at once, so that he grunted.
+
+Along the walls on the pallets lay the others. Not many. A boy with a broken arm. A boy with two fingers gone from his shield hand, staring up at the painted fish. Rabirius the lanciarius with a sword-cut across his thigh, cursing without much interest. Two of the town with their hands in wet cloth from the pans. And on the far pallet somebody asleep under a blanket, with his mother beside him holding his hand as if it might go somewhere. Tuccius did not ask about that one.
+
+Hostus brought him a bowl. It was the broth: mutton, with barley in it and a great deal of salt, and it was too hot.
+
+"Drink that," said Hostus.
+
+"I'm not hurt."
+
+"Drink it," said Hostus, who made every man drink a bowl whether he wanted it or not; and Tuccius drank it, and it went down into him like a coal, and his hands began to shake at last, now that there was nothing for them to hold.
+
+---
+
+He went out into the lane at first light.
+
+The rain had stopped. The sky over the Grey was the color of a herring's belly, and the steam was coming up off the gutters and the wet roofs, so that Cyrene stood in its own fog.
+
+The dead were still on the steps.
+
+He stood at the top of the lane and looked at them for a long time.
+
+They stood where the count had left them, a row and a row, from a spear's length below his step down round the turn. The ones that had been pushed down and got up stood with their legs wrong under them and their hands half reaching. The one that had been taking a step stood on one foot. In the grey light he could read nothing of the letters on their brows, but he could see them plainly: a line of somebody's handwriting on every one.
+
+They would stand there, he supposed, until somebody took up the count, or until they fell; he did not know which, or how long.
+
+The boys had come out of the Baths behind him and stood in a crowd at the top of the steps, and did not go down. Pullus stood at the front with Hostus's stitches in his cheek and his helmet in his hands, looking at the face of the one he had put his shield into first and last all night.
+
+"Who were they?" he said.
+
+Nobody answered him. Tuccius did not know. He did not think anybody on the island knew, unless the Navarch did.
+
+At the head of the lane, beside the step that was the fourth from the top, two of the town's women had come out of a door with a bucket and a brush, and were scrubbing the blood off the stones. They did the step as well. They did it on their knees, with their backs to the dead, and talked to each other the whole time, about bread.
+
+---
+
+He went down to the harbor by the crown's road, the long way round, so as not to walk past the dead.
+
+The yard was black. The rain had saved it, the rain and Velthur's boy and a line from the steam-box wall. The third slip was scorched to the ways and stank of wet char, the shed of the second keel had lost the end of its roof, and the frames in its loft were wet through and not burned. The house stood untouched, its thatch steaming, its door on the latch.
+
+He pushed it, and it swung. On the warm floor by the hearth, curled round himself like a dog in a coat burned at the hem, the boy was asleep. There was a little fire in the grate, built up neat. It was too neat for the boy. Somebody had come in and done it for him, and gone.
+
+Tuccius let the door swing to on the latch and left him.
+
+Out past the end of the yard, on the long mole, there was a ship.
+
+She lay with her bows high on the stones of the mole and her stern in the water, canted like a drunk man leaning on a wall, her oars all anyhow along her side and her cables trailing slack. Her people stood on the mole beside her with their hands on their heads, a few score of them, and two cohort men from the mole tower stood over them with spears, looking as though they did not know what came next. There were heads in the water round her stern, sleek and dark, watching.
+
+Proteas came up the quay steps to him out of the sea as he walked along the quay toward the slip gate. The old hunter's grey hair was flat to his skull and he moved slowly, as a man moves who has been working all night in cold water, and there was a long cut on his forearm that the sea had washed white.
+
+"She came in for the gap at the turn of the tide," said Proteas. "Her tide." He smiled, a little. "We had been at her cables since she came to anchor. When she weighed, they would not come up. And she had come in an hour wrong, and the flood took her. She went onto the mole." He looked at the ship, with something in his face that might have been satisfaction, or only tiredness. "The others went out. Three. We fouled what we could reach. Not enough."
+
+"Enough," said Tuccius.
+
+"Your engineer will be pleased," said Proteas. "Another hull."
+
+He went back into the sea without another word, down the quay steps, and was gone.
+
+---
+
+They had laid the brothers under the arch of the slip gate, on the stones, side by side, with their faces covered.
+
+Merula sat on the step of the gate-tower door with his spear across his knees and his lenses folded on their cord in his hand. He was grey to the lips. There was blood dried on the haft and on his clerk's hands.
+
+Ancus had laid one of the Lanciarii's red cloaks over the two of them and put a stone on each corner against the wind, and stood looking at it with his arms hanging, like a man who has done all the cooking there is and cannot think what comes next.
+
+Velthur's boy sat at the brothers' feet on the wet stones with a blanket round him. He had not, Tuccius thought, been asleep at all.
+
+Tuccius stood and looked at the cloak.
+
+Then he took off his helmet, because he did not know what else to do, and stood holding it.
+
+"They held it," said Merula, from the step, in his dry clerk's voice. He was not speaking to Tuccius. He was speaking to nobody. "From the right. Under the window. They held it all the way." He turned the lenses over in his fingers. "I have added columns for the Survey for four years, and for the garrison before that. I know when a thing comes out." He stopped. "It did not come out. They did it anyway."
+
+Tuccius looked up at the window over the arch.
+
+The lamp was out. The window was grey with the morning. And at it, behind the little thick panes like the bottoms of bottles, the Navarch was standing, and looking down at the cloak on the stones, with his book in his hand.
+
+---
+
+He went up.
+
+The stair was in the gate-tower, with a door at the foot that the brothers had stood in front of all night, and a door at the head that was not locked. He knocked. He did not know why.
+
+"Come in, lieutenant," said the Navarch.
+
+The room was small and bare and very neat: a cot with its blanket squared, a table under the window, a stool, a shelf with nothing on it but quills, cut. It smelled of lamp-oil and wet stone and ink. The Navarch stood at the window, stooped under the low beams as he must have stooped all his life under a deck, in his long black coat; and his hand, as Tuccius watched, went up to his ear for the stylus that was not there, and came down.
+
+"You will want to know what they did," said the Navarch. "At the gate. You were not here."
+
+"I was on the lane."
+
+"Yes. I heard." The Navarch looked at him, courteously. "I could not see the lane. I could hear it. I wrote down what I heard. It is not as good as seeing, but it is better than nothing." He held out the book. "Here. It is all there. The gate, and the yard, and the prisoners, and the captain. You may read it."
+
+Tuccius looked at the book. It was a plain thing, bound in grey board, a blank book that somebody had given the Navarch in the autumn, and it was a third full already, in a small upright hand with no blots.
+
+"I read slow," he said.
+
+The Navarch considered that.
+
+"Then sit," he said, "and I will read it to you."
+
+So Tuccius sat on the stool with his helmet on his knee, and the Navarch of the Southern Sea stood at his table and read him the night out of his own book, in his perfect common tongue with its Tharsian vowels, without hurrying, as a man reads a return.
+
+He did not stop at the brothers. He did not hurry at them, either. He read them as he had read the rest.
+
+When he had finished, he stood for a moment with the book open in his hands.
+
+"There is one more line," he said. "I had not written it. I had been waiting until the morning, to be sure I had them right."
+
+He sat down at the table, and dipped his pen, and wrote, speaking the words aloud as he wrote them, as he had done on his own deck, as he did everything.
+
+"*Arruns. Velthur. Of Thessa. They held the slip gate at Cyrene for the town against the Navarchy, under my window, and died there, each covering the other.*"
+
+He sanded it, and looked at it.
+
+"It is not the right form," he said. "There is no form for it. I have used the form for an officer's death in action. They would not have wanted that, I think. But it is the best I have."
+
+Tuccius looked at the book on the table between them.
+
+"How did they know?" he said.
+
+The Navarch looked up.
+
+"Your people. The captain." Tuccius heard his own voice, very quiet, as it had been on the *Forward*'s deck. "They came on the one stretch of the winter we were empty. To the week. How did they know?"
+
+The Navarch was silent. He looked at the window, and the grey morning in it, and the cloak on the stones below.
+
+"Somebody told them," he said at last. "I do not know who. If I knew, lieutenant, I am not sure that I would tell you; I have not decided. But I do not know." He closed the book on his pen to keep the place. "I will say this. It was not anybody on this island. Nobody on this island would have had to be told what day the fleet sailed. They would only have had to look out of the window." He looked at Tuccius steadily. "Whoever it was, he was not here. He was somewhere he could not see it."
+
+Tuccius rubbed his nose with his thumb.
+
+He did not say *the elf.* It did not come anywhere near his mouth. He thought of the shape on the ridge in the rain, kneeling, drawing, and of the count stopping on the lane; and the thing that had come up under his ribs on the *Forward*'s deck did not come up this time, and was not going to.
+
+"There's dead on the lane," he said. "Your people's. Standing."
+
+"Yes. I heard them stop."
+
+"Your clerks. In the west tower." He looked at the Navarch. "Can they walk them?"
+
+The Navarch thought about it.
+
+"They can count," he said. "Where would you like them walked?"
+
+"The black beach. Below the tide-line." Tuccius stood up. His thigh told him about it. "The town'll burn them. On the Midwinter wood that's left, if there is any. It's what we do."
+
+"Yes," said the Navarch. "I remember. I will write to my clerks; they will want it in writing." He paused. "Lieutenant. Captain Varus will write his own account of last night, and it will go to the Spire, and somebody there will total it. I would be grateful if somebody on this island also wrote one. For the other side of the page."
+
+"I'm writing to the prince," said Tuccius. "Today."
+
+"Good," said the Navarch, and sat down, and dipped his pen; and Tuccius went down the stair past the door the brothers had held, and round the red cloak on the stones, and knew without looking up that the Navarch was writing again.
+
+---
+
+He dictated the letter in the long ward at the back of the Baths in the afternoon, with the children's slates stacked at the end of the table and Cossus asleep on a pallet at the far end with his broth beside him.
+
+Ennia wrote it, with her tongue between her teeth and the lady's good pen in her fist, in big careful letters, every one standing up straight on its own like a boy in a front rank.
+
+He had thought about what a letter ought to have in it, and what order, all morning. Then he sat down beside her and said it as he would have said it to the prince on the quay.
+
+*To the Prince, at Stoneheart. From Tuccius of the Lanciarii, at Cyrene.*
+
+*Highness. Four ships of the Navarchy came out of the Grey in the night, in the rain, without lights. Halia and Proteas heard them, and the old warden Maelis saw them. We had warning. We did not ring the bell.*
+
+*They came at the sea-gate with a ram. The seaward door had dropped in the wet and the lock was stuck, and we let it stay stuck. The town gave them Fausta's sand off the gatehouse roof. They left the ram on the stair.*
+
+*They landed on the black beach and came up the long stepped lane for the town, with their dead in front. The boys held the lane. They pushed them down it all night. The warden shot the clerks off the ridge of the net-loft, and the dead stopped where they were, and then she shot the officers, and the rest went back to their boats.*
+
+*They fired the yard. The rain and the prisoners put it out. The third slip is scorched and the second keel's shed wants a roof. The engineer's house is not touched.*
+
+*The prisoners did not go with them, except a few. Most of them stayed at their pots, and some carried buckets for the town. Tell the General.*
+
+*The merfolk fouled the cables of one ship and she came in an hour wrong on the tide and went onto the mole. We have her, and her people. Tell the engineer.*
+
+*They came for the Navarch. They did not get him. Merula and Ancus and the brothers held the slip gate under his window. Arruns and Velthur are dead there. They died each covering the other. The Navarch saw it and wrote it in his book.*
+
+*Of ours, a few hurt, and Hostus has them. None of the boys dead.*
+
+He stopped there. Ennia waited with the pen up.
+
+He thought of the other things. He thought of the question, and of putting it in. He thought of the prince reading it out at Stoneheart, in front of the men, at the foot of some mountain he had never seen, and every man in the cohort looking at every other.
+
+He did not put it in.
+
+*Pullus held the wall,* he said instead.
+
+Ennia looked up at him.
+
+"Is that all of it?" she said.
+
+"Put *the town is kept.*"
+
+She wrote it, and under it his name, *Tuccius*, in her straight letters, because he asked her to; and he took the pen and made his own mark below, the one he had made on every pay-roll of his life: a thing like an anchor, which a bosun had taught him on his first ship, when he was younger than Pullus and could not read.
+
+Lucco's *Sabina* would take it west tonight, on the ebb, with two of the town's best boatmen and a sack of Fausta's bread. Six days to Stoneheart, Lucco said, if the wind held. Lucco said that about everything.
+
+---
+
+At dusk he went down to the black beach and stood with the town while it burned the dead.
+
+The Navarch's clerks had walked them down in the afternoon: two pale young men in Tharsian black, blinking like owls out of the west tower, who took up the count at the top of the lane in their thin flat voices. And the rows took the next step, the first in a night and a day, and came down the long stepped lane past the town standing back against the walls, and out along the quay onto the black sand, and walked into the steaming surf below the tide-line, where the clerks stopped counting. The town built the pyre round them where they stood, of the wood stacked at the head of the beach since Midwinter, and the ram from the water-gate stair, and the stranded ship's spare oars.
+
+Orso's mother lit it. She was the one who lit the first stack. Nobody had asked her. She came down onto the sand with a brand from her own hearth, and her jaw that the garrison had broken and Liora had mended set hard, and put it in, and stood back.
+
+It went up slow in the wet, and then all at once.
+
+Tuccius stood at the edge of the light with his helmet under his arm, and the boys behind him in two ranks, because they no longer knew how else to stand. Maelis stood apart at the edge of the surf with her bow unstrung and her white braid dry down her back. She did not sing.
+
+They had had names before the letters on their brows; they had stood on some quay in Tharsis in the mornings with their mothers walking past them. Somebody kept a lamp for every one of them, in some window he would never see. He watched them burn standing, and none of them fell until the fire took their legs, and then they went down all together, as they had come up the lane.
+
+---
+
+He walked back along the Row in the dark.
+
+The steam was coming up off the gutters again. At the steam-box wall the four hundred and twelve were eating Ancus's fish, quieter than usual, and some of them looked up as he went by, and one or two nodded, and he nodded back.
+
+Up at the end of Netmakers' Row, in Prisca's upper window, her lamp was lit, looking out through the gap to the sea, for the drowned rower, as it had been every night since the squall.
+
+And down at the foot of Rope Street, in the window over the bakehouse drying-loft, there was another.
+
+It was a red clay garrison lamp like Prisca's, with the closed hand on its shoulder, where the sand had been. Fausta's.
+
+He went on toward the harbor master's house. At the turn of the road he looked up at the ridge of the biggest net-loft, and the shape was there, cross-legged against the dark of the hill, with her face to the sea.
+
+He did not lift his hand to her. He did not need to.
+
+At the harbor master's house he stopped by the tide-board, as he did every evening, and did not touch it.
+
+His own window was beside the door, small and square, with a shutter, looking over the head of the long quay to the gap. He had never put anything in it. He took down the lamp he had begged off Sollius at noon from the fort's stores, red clay, with the closed hand on its shoulder, and filled it, which took longer than it should, because his hands had started again; and he trimmed it, and lit it, and set it on the sill with its back to the room, looking out over the quay and the slip gate and the black water, through the gap, to the sea.
+
+Then he sat down on the cot in the dark behind it, with his boots on, and watched it burn.

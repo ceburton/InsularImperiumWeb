@@ -21,6 +21,7 @@
 15. [Chapter Fifteen: To Be Collected](#chapter-fifteen-to-be-collected)
 16. [Chapter Sixteen: Light of the Forge](#chapter-sixteen-light-of-the-forge)
 17. [Chapter Seventeen: Lamps](#chapter-seventeen-lamps)
+18. [Chapter Eighteen: Dead Water](#chapter-eighteen-dead-water)
 
 ---
 
@@ -10827,3 +10828,669 @@ She took the square of linen out of the cuff of her sleeve, and took Alana's wri
 Then she lifted it off, and studied the page, and gave it back.
 
 "There," said the quaestor. "Now it'll keep."
+
+---
+
+# Chapter Eighteen: Dead Water
+
+**VALERIA**
+
+The water was warm.
+
+Valeria went over the side of the boat into it at first light, because the boat had stopped and the shore had not come any nearer, and it closed round her thighs like a bath that somebody had drawn for her and gone away. She stood in it with the Farrier held level across her body and waited to be cold. The mud under her boots gave, and gave, and stopped somewhere below her knees, soft as dough and warm too. The steam came up off the water into air cold enough to show her breath.
+
+Behind her the boat sat on the silt with its oars out like a beetle on its back. The sailors swore at it in the low voices of a strange place. Further out the ships lay off the bar where they had anchored at dusk, the *Forward* and the *Constancy* and the rest, their masts in the sea-mist and the Grey a long pale wall behind them. She had been sick in the *Forward* from Cyrene's mole to this bar, and once more in the boat for good measure, and had never in her life been gladder to stand in mud.
+
+"Captain." Pacuvius, in the water beside her, holding his lancea up out of it. "Is it meant to be like this?"
+
+"Ask the fen."
+
+The fen began where the bar ended, and ran on as far as she could see. Reed: reed taller than a man on a horse, last year's, gone the colour of old straw and standing in walls along the brown water, with the new green not yet up through it. Rime had grown on the tops in the night, out of the steam, and the sun coming up out of the sea on her right hand lay along it, so that the country in front of her was gold below and silver above and smoking. It smelled of peat and rotting stems, and under that, faint, the bad-egg breath of the fires under the earth, the same as the Grey, but warm. It got into the back of her throat and stayed there.
+
+It was a country with no ground in it.
+
+She had spent her life reading ground: where a file could stand and where it would sink, where the horse would come from, the road the wounded would go back by, which wall would take a ladder. She could not read a word of this. The reed walls ran into one another. The channels between them turned off at angles and closed. Nothing stood higher than anything else. An army could have stood in it within a long bowshot of her, and she would not have known until it wanted her to.
+
+*Things that might kill me,* she thought. She put the fen on the list, just under the Grey, and felt better for it.
+
+---
+
+They went in on foot, because the boats would not go.
+
+Marcus went first, with the water to his thighs and his red cloak bundled over one shoulder out of it. She kept at his back, a spear's length behind, with her eyes on the reed. Behind her came half a file of the Lanciarii with their lanceae held up; then the General, wading as though he had decided to find it amusing; then Gaius, who had not, with his bad knee. Thalassa was in the water ahead of them all, swimming on her back with her blue hair spread out on the brown and her face turned up to the steam.
+
+The channel bent. It widened into a pool, still and brown, with the reed standing round it close as the walls of a room. In the middle of the pool a log lay half-sunk, black with wet, the length of a small ship, with one end on the mud and the other going down into the water at a long slant.
+
+Something was standing on it.
+
+She had seen the clans drawn in the margins of old books, and had known the drawings were wrong, and not how wrong. It stood upright on the log, taller than Marcus and narrower, and so still that she had taken it for a stump with the sun behind it. Its head was long and flat and narrow, set forward on its neck. Its skin was scaled small and close, the brown-green of the water where the reed shadowed it, darker along the ridges of the shoulders and lighter at the throat, which was pale as a fish's belly and moved, a little, slowly, as it breathed. A tail lay along the log behind it, as long as the rest of it, with the tip of it in the water. It wore a harness of plaited reed across its chest, and a knife on it with a bone handle, and nothing else.
+
+The eyes were gold. Gold with a black upright bar down the middle of each, like a slit in a shutter. They looked at Marcus, and at her, and at the files wading up behind, and did not blink.
+
+It stood on the log like a drill-master on the edge of the square, with the parade-ground of the pool in front of it, waiting for the men to stop shuffling.
+
+The men stopped shuffling.
+
+Marcus stood still in the water at the edge of the pool. He did not go nearer. She saw his jaw set, and the scar along it go pale, and she thought: *Good. Wait.* And he waited.
+
+The thing on the log turned its head, slowly, from him to the reed on the left, and from there to the reed on the right, inviting them to look. So she looked. And the reed was full of eyes.
+
+They were at the water's level, everywhere, at the foot of every wall of stems. Pairs of them. Gold, and green-gold, and one pair the colour of old amber, just above the surface, with nothing showing under them but the line of a brow and the ripple where a nostril breathed. She had waded past some of them on the way in, an arm's length off. The water round them did not move at all.
+
+Her right thumb went along her finger looking for the place on the Farrier's haft, and for once it was there, because the Farrier was in her hand.
+
+"You are loud," said the one on the log.
+
+Its voice was dry and level and low, and it carried, because nothing else in the fen made a sound. It spoke the common tongue as a scholar writes a foreign hand: each word clean and separate, and none of them quite trusted.
+
+"You are heavy," it said. "And your boats draw too deep."
+
+Behind her, someone in the half-file let out a breath he had been holding since the bar.
+
+"Yes," said Marcus.
+
+"You came in a line." The gold eyes travelled down the files. "Each one where the one in front had been. So that each one sinks deeper than the last." A pause. "We watched from the mouth. It is like watching a cart go through a ford by putting another cart in it."
+
+"Yes," said Marcus again. "We don't know your water. You sent for us anyway."
+
+"I sent for the one who asks." The long head turned back to him and stopped. "Are you that one?"
+
+"I'm the one they told you about," he said. "I don't know if I'm the one you want. Sszarra Tide-Speaker?"
+
+"Yes."
+
+"Then I'll ask you first how you want us to come in. Since we've been doing it wrong."
+
+There was a stillness after that, in the pool and in the reed. Nothing moved in it. But she had stood in front of enough councils to know a silence in which something was being decided, and this one was not being decided by the one on the log alone.
+
+Then Sszarra Tide-Speaker turned her head toward the reed on the right, and made a sound in her throat, low, like water going over a weir; and out of the reed, without any noise at all, came a boat.
+
+It was made of reed. Bundles of it, bound tight with reed rope and turned up at both ends, long and narrow and flat as a tray, with a pole lying in it. It slid out across the still pool, empty, and came to rest against the log under Sszarra's feet. Something had pushed it from under the water, and gone again.
+
+Sszarra stepped down into it. It took her weight and did not go down a finger.
+
+She looked along the files once more, all of them, the half-file of the Lanciarii and the cohort men coming up behind, and Gaius with his knee, and Marcus. Then her eyes stopped on the General.
+
+He was standing in the deepest of the water, to his belt, a head taller than any man near him and broader than any two, deep through the chest, with his beard combed for the occasion on the *Forward*'s deck by lantern-light and the grey in it shining in the steam. He had his cloak over his arm, dry. He gave the Tide-Speaker frank interest and a small bow.
+
+"The gray one may stand in my boat," said Sszarra. "The rest of you wade."
+
+There was another stillness, of a different kind.
+
+Then the General said, "Madam, I am honoured," and waded to the boat, and put a hand on its high end, and got into it, all of him, with great care and no hurry. It went down, and steadied, and went no further. He rose in it slowly with his feet planted wide, the size of a door, behind the Speaker, who came about to his chin; and he put his hands behind his back and stood upright in a boat made of grass in the middle of a fen, reviewing a parade.
+
+Valeria heard a sound behind her, from the cohort. It was choked off.
+
+"It's because he's the heaviest," said Gaius, low, to nobody. "She wants to see what it'll take."
+
+"It's because he's old," said Thalassa, from the water, without turning her head. "They honour the old. Who else were they going to pick?"
+
+The General heard both of them. He stood in the reed boat with his hands behind his back and his beard in the sun, and his face did nothing at all, and she knew that face. She had seen him make it on a sea-wall, for nobody.
+
+Sszarra took up the pole, and set it, and the boat slid away across the pool into the reed on the far side, with the General standing in it, going away from them like a statue being taken to a new square.
+
+"Well," said Marcus. "Wade."
+
+They waded.
+
+---
+
+The eastern channel was the widest of the three, and the straightest. It came down out of the fen between its walls of reed to a mouth of soft grey silt, and spilled out over the bar into the sea in a brown stain that ran a long way before the salt took it. When they came to it the sun was well up out of the sea, and it was running out, steadily, toward the bar, with bits of reed turning on it.
+
+Thalassa was already there. She was crouched on a hump of silt at the edge of the mouth with her sealskin dark with wet and her storm-grey coat spread round her on the mud, and one hand down in the channel to the wrist, the long webbed fingers open in the current. She did not look up. Kymon stood behind her in the shallows, huge and grey-eyed, with his trident grounded, watching the water like a road he expected a rider on.
+
+The Tide-Speaker's boat lay against the reed a little way up the channel, with the Speaker in it, and the General. He had sat down, on the bundled reed in the bottom of the boat with his knees up, like a big boy in a little boat, pleased with himself; and when he saw Valeria come out of the reed with the mud to her thighs he lifted two fingers to the brim of a hat he was not wearing.
+
+She went and stood behind Marcus.
+
+"Wait," said Thalassa.
+
+They waited. The water ran past her wrist. A bit of reed came down, turning, and slid out over the bar.
+
+Then it slowed.
+
+The bits of reed came down more slowly, and more slowly, and then were not coming down at all, but turning in place in little circles. The surface went flat and dull. For a long breath the channel lay still from the mouth to as far up as she could see, with the steam standing up off it.
+
+Then the reed began to go the other way: slowly at first, then faster, back up the channel past them, and the water with it, brown and smooth, into the fen.
+
+"Your eastern channel," said Thalassa, to Sszarra, "runs backward an hour past dawn."
+
+"Yes," said Sszarra.
+
+Thalassa took her hand out of the water and wiped it on her coat. "It's the flood," she said, to Marcus now. "At the mouth here the bar holds the sea out at the ebb, and all night the fen drains out over it. But when the flood makes up past the bar, it comes in harder than the fen can go out, and it pushes the channel back on itself. It runs inland for the length of the flood. Tomorrow an hour later. The day after, later again." She looked up the channel, where the bits of reed were going away into the steam. "It goes a long way in. Further than you'd think. The fen is low."
+
+"And they knew that," said Marcus.
+
+"Somebody did." Thalassa turned her head toward the boat. "Somebody sat at the mouth and watched it. As she watched you."
+
+"They came at the turn," said Sszarra. "In the winter. When we were slow." "In boats with no lights. They broke iron bottles into the water at the mouth here, a great many, and it came up the channel on the flood. Like a held grudge. By the time we were awake enough to go and see, it was in the reed."
+
+"Bottles," said Marcus.
+
+"Iron. As long as your arm. With a lead mouth." Sszarra lifted one hand, long and narrow, with dark claws at the ends of the fingers, and showed the length between them. "We found some on the bar. We put them back in the sea."
+
+Valeria knew the flasks, and heard in Marcus's silence that he did. Long iron flasks with lead stoppers, packed in straw. She had seen them on the mole at Cyrene and in the elves' wood, crated, with a mark on the side, and she had seen what one did to a man's hand.
+
+"Show me," said Marcus.
+
+---
+
+It was a morning's wading up the eastern channel, with the flood helping, to the first of the beds. She smelled it before she saw it.
+
+It was not the fen's smell. Under the peat and the rotting reed and the vents there was something else, sharp and dark and wrong, that caught in her nose like a hook. Copper gone green. And under that, worse, something she knew from the tanneries outside the capital when the wind was east, where the hides went into the pits: a sweet, low, thick reek, the smell of a thing that has been put in water to be changed.
+
+The men in front of her slowed without being told.
+
+The channel opened out on the left into a shallow lagoon, a long reach of still brown water with reed standing in it in beds, bed after bed of it, going back toward a low line of willows a long way off. Most of the beds were gold, like the rest of the fen. Some were not.
+
+Some of them were black.
+
+It was the reed. The stems rose from the water in their beds as the gold ones did, as tall and as thick. But they were dark: not the dark of wet, or of burning, but a dull, dry, even black, like a cart-shaft oiled and left in a barn for a lifetime. The black began exactly at the water. Below the surface the stems were green and pale in the brown, the roots going down clean into the mud with little fish moving among them. From the waterline to the tops every stem was black and dry and so still in the warm air it might have been carved.
+
+There was a heron in the nearest bed. It hung in the black stems a little above the water, where it had tried to stand and they had held it. Its legs were black to the knees, and the black ran on up into the feathers in fine dark threads like the veins in a leaf.
+
+"It's on the stems," said Gaius. He was squinting at the beds with his goggles pushed up on his forehead. "Not the roots. Look at it. It stops at the water like a tide-line."
+
+"It does," said Thalassa. She had come up the channel under the water, and stood in it now to her waist with her arms folded over her coat, and her face was one Valeria had not seen on her. "The water here is warm. The warm water eats it, as it eats the dead. So it can't go down. It climbs instead. Out of the water, into the cold air, where it can keep. It's looking for what's alive. It goes along the tops from stem to stem. Every day the beds are a little blacker."
+
+"Which way?"
+
+"Toward the towns," said Sszarra. "And toward the warm pools at the shrine. Where the young are." The reed boat had come up behind them on the flood, with the General in it, not pleased with himself now. "It has taken a great deal of reed since the winter. That was the second bed. That one." She pointed with her chin, along the lagoon, at a long black bed whose far end was lost among the gold. "We cannot cut it. What touches it, it goes into."
+
+The heron hung in the stems. The wind moved the gold reed round the black, and the black did not move at all.
+
+Then Liora came up past Valeria in the channel.
+
+She had come in with the second boat-load and waded up with the cohort behind, holding her white skirts out of the water in one fist, bunched to the knee, with her hair up and coming down. She stopped at the edge of the lagoon in the water to her thighs, and breathed in through her nose, once, slowly, the way a healer smells a wound to see if it has turned.
+
+Her face went still: smooth and grave and listening, as it had gone on the black beach when the litany began. Her skirts came out of her fist and went down into the water, and she did not notice.
+
+"I know that," she said.
+
+Gaius did not move.
+
+"I know it." Liora was looking at the heron. "It's the still-room." She said it in an ordinary voice, as if she were telling them which shelf a thing was on. "Under the fort. At Cyrene. The vat." She breathed in again. "That's what they were for. Mine. That's what they made."
+
+Gaius put out his hand behind him without turning, and she took it. They stood in the water at the edge of the black with their hands together behind his back, where nobody in front could see; and Valeria, who was behind, looked at the reed.
+
+Presently Liora let go, and lifted her skirts out of the water again, wet to the waist now, and wrung them, and said: "Nothing I have will touch it. I can't heal it. It has to be cut out, when it's in a man. While it's shallow." She turned to Sszarra. "Have your people touched it?"
+
+"Some."
+
+"Are they living?"
+
+"Two."
+
+"Then I'll see the two," said Liora. "Now, if they'll let me." And the corner of her mouth went in, hard, the way it did; and that was all the face she made.
+
+---
+
+They stood at the edge of the black and talked about it, as soldiers do, in short pieces.
+
+Gaius talked first, because he had been thinking since he saw it, and laid it out flat. Cut it below the black, at the water, with long tools, so that no hand touched it. Float it down the channel on the ebb, bed by bed, through the mouth and over the bar and out to sea. "The tide does the hauling. You don't touch it, you don't burn it, you don't carry it. You let go of it and the sea takes it away."
+
+"No," said Thalassa.
+
+She said it before he had quite finished. Gaius stopped.
+
+"Not the sea," said Thalassa. "Where do you think the sea goes, Gaius? It goes to us. Under your ships there's a road, and under the road there are houses. It goes past my children." She did not raise her voice. "You'll float it out over the bar and it'll be gone, for you. For us it'll be on the bottom by the next hearth, and climbing whatever grows there." She let her arms fall into the water. "Ask us."
+
+Gaius's eyebrows went up and stayed there. Then he said, "Yes," as he said it when someone showed him a fault in a joint he had missed; and took the slate out of his belt, and wiped a line off it with the heel of his hand.
+
+"Burn it, then," said one of the cohort behind, from the water.
+
+Valeria did not see who. Sszarra's head turned.
+
+"They burned the towns," said Sszarra. "From boats. Fire from a boat goes where the wind goes." The gold eyes passed over the lagoon, the black beds standing among the gold ones, the gold going back and back to the willows and beyond them to the steam over the whole country. "This is the end of the winter. All of it is dry above the water. Light a bed from a boat and by dark the fire will be at the shrine, and the pools, and the young. That is how they burned the towns. They lit one bed." A pause. "We will not light one bed."
+
+Valeria thought it through as a soldier would, which was all she had. It was the worst ground there was: ground that came on, slowly, and could not be held. She looked at the heron, and then at Marcus, because that was where she always looked.
+
+He was not looking at the black. He was looking up.
+
+There was nothing up there but the steam, and above it the cold blue of a spring morning, and the gulls that had followed the fleet in from the bar, hanging high on the wind. He watched them. Then he looked along the lagoon from the willows to the channel, and she saw him see what she had not.
+
+"From the air," he said.
+
+Gaius looked up too. So did the General, in the boat.
+
+"Fire that comes down," said Marcus, "where you tell it, and nowhere else. Bed by bed. Down to the water and no further." He was talking to Sszarra now, and slowly, feeling for the words like a man for a latch in the dark. "The water keeps the roots. Burn reed in the winter and it comes up clean in the spring. Every reed-cutter knows that. You'd only have to keep it inside the beds." He stopped. "I know where there's fire like that. It's a long way off. It said I might send for it."
+
+The Tide-Speaker did not move.
+
+"The dragons," said Gaius, quietly, to himself, the answer to a sum. "The flock."
+
+"Stoneheart," said Marcus. "The eldest. When we left it said if I ever needed fire, I should send." He was still looking at Sszarra. "They can see it from up there. Black on gold. They can put fire on a thing the size of a cart and leave the cart beside it. I've seen them do it." He paused. "But it's your fen. Fire in it is yours to allow. So I'm asking. May I send for them?"
+
+Valeria watched the reed.
+
+All along the lagoon, at the foot of the gold beds and the black, the eyes watched just above the water, and none of them moved or blinked. There was nothing to hear. The steam went up. The heron hung in the black stems. And something passed among the eyes, from one pair to the next, along the lagoon and back, like wind through standing corn that a woman can see go by without feeling a breath of it on her face.
+
+It took longer than the first time.
+
+"The dragons of the mountain," said Sszarra at last. "That ate the dwarves' cattle."
+
+"Yes."
+
+"And will they come because you ask them?"
+
+"I think so. I don't know what they'll want for it."
+
+"Everything wants something for coming," said Sszarra. "Ask them. Then we will know what it costs." She turned her head, and looked once along the beds. "Yes. You may send."
+
+Marcus let his breath go. Valeria heard it, behind him.
+
+"Kymon," he said.
+
+The big merman was already moving. He had his trident up out of the mud. "Along the warm roads," he said, in his voice like a hull grinding on shingle. "Hearth to hearth. It's a long way." He looked at Thalassa, and something passed between them that Valeria could not read. "Three days, if the roads run warm all the way. Three back."
+
+"Tell it the black shows from the air," said Marcus. "Tell it there's no hurry, if it isn't fed. Tell it—" He stopped, and thought. "Tell it the clans said yes. Not me. Them."
+
+Kymon gave him a fisherman's look at a sky. Then he nodded, and went into the channel without a splash, and was gone.
+
+Valeria stood in the warm water and turned it over. The word would take days to go and the flock days to come, and in those days the black would go on along the tops toward the towns; and a fire from the air, however carefully laid, was still a fire in a dry fen at the end of winter, and a wind could take it.
+
+She opened her mouth, and Gaius got there first.
+
+"Breaks," he said. He had the slate out again, and the chalk. "You'll want firebreaks. Round every black bed, before they come. Cut a ring of clean reed down to the water, wide, wider than a flame can jump, so that if the wind gets up there's nothing for it to walk across." He was drawing. "And you can't touch the black to do it. You'd be cutting clean reed with black reed standing a yard off, falling on you." He drew, and stopped, and looked at Valeria, which surprised her. "I'll want long tools," he said. "Long, and straight, and light, and strong. Something a man can hold at the end of from a punt and not feel the far end bend." He kept looking at her. "Ash would do it."
+
+Valeria looked back at him.
+
+"Ash," she said.
+
+"Seasoned. As long as you've got."
+
+He had the grace, at least, to go back to his slate.
+
+---
+
+The clans gave them a hard to camp on.
+
+It lay a mile up the eastern channel from the black lagoon, where the reed thinned: a low hump the length of a long barn, of old shells and peat gone firm, with willows on top and a warm pool at its northern end where a vent came up through the mud and sent its steam into the willows all night. It was the only dry ground in a morning's wading in any direction. Sszarra said the clans had used to dry their nets on it, before. She did not say before what.
+
+The rest of the cohort came up from the ships all that afternoon, in the boats as far as the boats would go and then on foot, with the stores on their backs and the mud to their thighs, and made camp on it. They were not quiet about it. Valeria heard them long before she saw them: the slap and suck of the mud, the swearing, and Kaeso's drum thumping in its bag on his back at every step like a thing being beaten for a crime. By dusk there were fires on the hard, and mutton on them, and the smell of it drifted out across the reed into the steam, the first honest smell the fen had had since the winter. Oppius had carried the last of Fausta's loaves in oilcloth on his back, and he gave them out at the fires with ceremony and a knife, a slice each, because they had gone hard as a deck plank on the way north; and the men ate them like cake.
+
+Out in the reed, at the edge of the firelight, the eyes watched them eat.
+
+Valeria did not sit down. She went round the hard in the dusk with Pacuvius to set the watch, and learned what she had suspected: there was no edge to set it on. The hard sloped down into the reed on all sides, and the reed ran on, and anything could come up out of it anywhere. She put the Lanciarii on the four corners anyway, with their backs to the fires so they would not lose their eyes, and told them to watch the water and not the reed, and went back up the slope.
+
+Liora came in at full dark, with Gaius carrying one of Hostus's boxes behind her, and blood to her wrists.
+
+She had been out to the two who touched the black. She knelt at the warm pool and held her hands in it, and took them out and turned them in the firelight, and put them back. Then she came up to Marcus's fire and sat with her wet hands open in her lap, and Gaius put a plate of mutton on her knees, and she ate it all, the fat too, without a word.
+
+"Both?" said Marcus.
+
+"One." She wiped her mouth with the back of her wrist. "The other had it up the arm. They took it off at the shoulder before I came, with a bone knife, and it had gone past." She turned the plate. "The other will keep his hand. I cut it out of his palm, and then I could put the warmth in." She looked into the fire. "He didn't make a sound. I didn't know anyone could hold that still."
+
+"They can," said Valeria, before she knew she was going to.
+
+Liora looked up at her, and nodded, and went back to her plate.
+
+---
+
+Gaius came to her when the men had eaten. He did not come straight at it. He sat down across her fire with his slate on his good knee and the bad one straight out in front of him, and showed her what he had drawn.
+
+It was a punt. Not a ship's boat: a flat thing, square at both ends, like a trough, the kind the fishermen used in the shallows at Cyrene for setting nets. He had drawn two of them side by side, a little apart, with a bar slung between them low down, across the gap, just above the water.
+
+"The cutting bar," said Gaius. "Iron. I've a spare tiller-iron on the *Constancy* will do it, and the old saw-blade from the slip, and Oppius has a cleaver he'll miss. You grind an edge on the leading side and set it in a frame and hang it between the punts on chains, at the water. Then you pole the punts forward into the clean reed, side by side, and the bar goes through the stems at the waterline. Like a scythe, but you don't swing it. The punts swing it." He tapped. "It cuts a lane the width of the gap. You go round the black bed in a ring, at a good distance, and you cut it out of the fen like a coin."
+
+"And the cut reed?"
+
+"Falls. Forward, mostly. Then you rake it clear." He drew a long rake. "Out of the lane to the outside, so the break's bare water. Fire won't walk on water."
+
+"And when the black falls on you?"
+
+"That's the hooks." He drew one. A blade like a sickle's, set at the end of a long pole. "A man in each punt, at the bow, with a hook. When there's a black stem leaning into the lane, he puts the hook to it below the black, at the water, where it's clean, and draws it, and pushes it away, back into its own bed, with the back of the hook. Never the front. Never closer than the hook's length." He looked up. "That's what they're for. That's all they're for. So that nobody's hand is ever nearer the black than the length of the pole."
+
+"How long a pole?"
+
+He did not answer. He looked at the Farrier, across her knees, where it always lay when she sat.
+
+"As long as that," he said. "Longer, if I could get it. And straight. And it mustn't bend at the far end with a weight on it, or the hook comes back toward the man." He paused. "There's nothing in a fen to make it out of. The willows are no use. It's all bent." He put the chalk down. "You've a bundle of spare hafts for the Lanciarii in the *Forward*'s hold. Seasoned ash. For the season's breakages."
+
+"I have."
+
+"I'd want all of them."
+
+She looked at the slate. At the punt, and the bar, and the long hook drawn at the end of a long straight line.
+
+The spare hafts had come from the hill country behind Vessa, from a wood her father had cut thorn in. She had chosen every one herself, in a cold yard in the capital with the ash laid out on trestles: sighting down each for the twist, rapping it with her knuckle for the note. They were the Lanciarii's next year, every spear the company would carry when the ones in its hands were broken. A haft took a winter to season, and there was no ash this side of the capital she would put a lancea-head on.
+
+"How many breakages," she said, "do you think we'll have, at the jetty?"
+
+"A few." Gaius did not look away. "I'd not ask if there were another way."
+
+"I know you wouldn't." She looked at the slate again. "A hook on the end of a lancea-haft," she said. "Every Lanciarius I've got will want to know why he's cutting grass with his next spear."
+
+"Tell them it's for the fire."
+
+"I'll tell them it's for the clans," she said. "They'll like that better." She stood up. "Take them. Take all of them. Pacuvius can take a boat down to the ships tonight and bring them up by morning." She looked down at him. "If you put a bend in a single one I'll have your other knee."
+
+Gaius nodded, and went back to his drawing.
+
+---
+
+On her way to her blanket she came past Alana's fire.
+
+The Chair sat on a stores box with the weather-book open on her knees, writing the day's water into it by firelight, her lips going over the figures. The quaestor sat on the shell at her feet with her knees drawn up and her black coat buttoned to the throat in spite of the steam, reading the page upside down. Neither of them was talking.
+
+And at the edge of their firelight, in the water at the foot of the hard, there was a pair of eyes.
+
+Gold, close together, low. Smaller than the others. They were watching Alana's pen.
+
+Alana had seen them. She wrote on, slowly, to the end of the line. Then she tore a strip from the bottom of a spare leaf and wrote one letter on it, large, with care, the one the children at Cyrene began with; and leaned down off the box and laid it on the shell at the water's edge with a pebble on it, and went back to her figures.
+
+The eyes stayed on the strip of paper. Then they went under with no ripple at all, and the paper was gone too.
+
+"You'll have them all reading by the spring," said the quaestor, without looking up.
+
+"It's spring now."
+
+"Then you're behind." The quaestor turned her head and looked out at the dark reed, where the eyes had been. "On the Survey's charts," she said, "this is all blank. From the coast to the north road. Not a channel on it. Not a name." She was quiet a moment. "It's entered as unproductive."
+
+"It's entered wrong," said Alana.
+
+"I know." The quaestor put her chin on her knees. "I've been looking at it all day. I don't think I've ever been anywhere so productive in my life."
+
+Valeria passed on to her blanket, and lay down on the shell with her mail on and the Farrier beside her, and listened to the vent breathing at the end of the hard, and watched the reed.
+
+---
+
+Gaius built the tools in a day.
+
+He built them on the hard, on two of the clans' broadest reed boats, which would do for punts, pushed down out of the reed for him by hands nobody saw. Pacuvius came up from the ships at dawn with the hafts in sailcloth on his shoulder and the ironwork in a sack, and laid them at Gaius's feet and stood back, and the Lanciarii stood round in a ring to watch the ash unwrapped. Valeria stood with them, and watched Gaius take the first haft up, and sight down it as she had, and rap it with his knuckle, and listen; and nod. Oppius handed over his cleaver in the end with the face of a man giving up a daughter.
+
+By the middle of the afternoon they tried it on the clean reed at the end of the hard, where there was no black for a mile: two men poling each punt, side by side, with the bar between them. The reed went down in front of them. It leaned, a whole wall of it, slowly, gold, and lay over on the water in a wide swathe like barley in front of a scythe, with a sound like a long breath going out. Behind the bar lay a lane of open brown water as wide as the gap between the punts, with the cut stems a finger proud of the surface and nothing above them.
+
+The cohort on the hard cheered. Gaius told them to shut up.
+
+---
+
+They began on the black lagoon the next morning. It would take them days.
+
+Valeria drilled them first. She stood on the end of the hard at dawn, with the cohort and the Lanciarii in a long line in the shallows in front of her, and drilled them as she drilled a file with the lancea, because it was the only way she knew to make a thing so certain that a man's body did it after his head had stopped.
+
+"Haft, not hand," she said. "Say it."
+
+"*Haft, not hand.*"
+
+"Back of the hook. Never the front. Say it."
+
+"*Back of the hook. Never the front.*"
+
+"If a black stem comes into your punt, what do you do?"
+
+A silence. Then Rufo, from the middle of the line: "Get out of the punt, Captain."
+
+"Into what?"
+
+"The water."
+
+"And do you touch it on the way?"
+
+"No, Captain."
+
+"With what?"
+
+"With anything, Captain."
+
+"Then say it."
+
+She made them say it until the clans in the reed could have said it, and then once more, and let them go.
+
+They worked in pairs of punts, a hook-man at each bow and two men poling, with the rakes worked after them from more of the clans' reed boats. They went round each black bed in a ring, well out from it, so that the lane they cut was a moat of brown water between the black and the clean gold. It was slow. The bar would go through the reed a little way and catch on a root, an old stake, a drowned branch, and the punts would stop dead and swing, and the men would back off and lift it and go again. The cut reed lay across the lane in great wet sheaves that had to be raked out to the far side, heavy and stinking of rot and sap, and the rakers sweated in the steam until they were as wet above the waist as below it. And all the time, a few yards off, the black stood dry and still, and the hook-men watched it for the first stem that leaned.
+
+The first time one leaned, it was toward Tappo.
+
+He was at the bow of the near punt with his hook up, and a black stem at the edge of the bed, loosened by the bar's passing, came over toward him slowly, like a tree going down in a wood. Valeria was in the punt behind. She saw him want to put up his hand.
+
+"Haft," she said.
+
+He put up the hook. He set it to the stem below the black, at the water, where it was pale and clean, and drew it a little to free it; then turned the hook over and set the back of it to the stem and pushed, slowly, the length of the haft, until the black top lay back into its own bed and stayed there.
+
+"Lancea-drill," he said, not turning round. "Ground spike, and push."
+
+"Yes," said Valeria.
+
+"I hate lancea-drill."
+
+"I know you do," she said. "Pole."
+
+---
+
+The clans watched them work.
+
+They watched from the foot of the gold beds round the lagoon, with only their eyes and the long line of a brow above the water, all day, without moving. Before long she had stopped seeing them as eyes and saw them as a crowd: the crowd at the drill-field in the capital that comes down to the rail to see the Lanciarii at the spears, and judges, and never says. They watched the bar go through the reed, and the rakes, and Tappo's hook.
+
+Sszarra came too, and stood on whatever there was to stand on, a hummock or a stump or the end of a log, with her long head on one side. Once, when the bar caught and came free and the punts shot forward, and Florus went off the back of one into the lagoon with his pole and came up blowing like a whale and shouting that he could swim now, he had *learned*, the Tide-Speaker's throat moved under her chin in a slow ripple that might have been anything.
+
+"Is that a laugh?" said the General, who had come out in the Speaker's boat that day with his knees up.
+
+"No," said Sszarra.
+
+That afternoon a raider boat came down the far channel.
+
+Valeria saw it first, because it was her trade. A long boat, low and black, with a lot of oars and no lantern, came out of the reed at the far end of the lagoon a long bowshot off, where the channel went on north toward the jetty, and stopped. She could see men in it, and see them see the punts.
+
+She lifted her hand, and the punts stopped, and the hook-men put their hooks up. On the hard behind her Kaeso's drum began, and stopped, as Rufo put his hand on it.
+
+Somebody in the raider's stern stood up with his hand over his eyes against the steam, and studied the punts and the bar and the cut lanes round the black beds. Then he sat down, and the oars came out, and the boat backed water into the reed and was gone.
+
+"They'll know we're here now," said Pacuvius.
+
+"They knew when we crossed the bar," said Valeria. "Now they know what we're doing." She watched the gap in the reed where the boat had been. "That's worse for them."
+
+---
+
+That evening Rufo discovered the water.
+
+Valeria was on the slope above the warm pool with her back against a willow and her boots off for the first time since the bar, working the mud out from between her toes. Her mail was off too. She had sweated in it in the steam until her shirt stuck to her, and now the shirt was drying on her in the cold air off the top of the steam, and she could feel through the linen every place the rings had borne: the shoulders, and the hips where the belt took the weight. They ached in the old way, as they had at nineteen. She did not mind it. She had carried this body up and down the isles since the Long Field and it had not once failed to stand up in the morning, and with the warm shell under her it felt hard and tired and good, and hers.
+
+Rufo came down the slope below her in his shirt, his shoulders going from side to side like a gate in a wind, and stopped at the edge of the pool.
+
+It lay in a round hollow of the shell with willows leaning over it, and in the middle the vent came up in a slow seethe of small bubbles, and the steam lay among the branches like wool. The cohort had been washing in it by turns since the first night. Rufo had not. He had been at the poles since dawn, and before that at Gaius's frames, and had eaten standing up and slept where he dropped.
+
+He put his hand in it, and took it out, and studied it.
+
+Then he took his boots off, and walked into it in his shirt and breeches, a step at a time down the shelving shell, to his knees, his waist, his chest; and stood in it with his arms held a little out from his sides, like a man in a doorway who has been told there is a step and cannot find it.
+
+"It's warm," he said.
+
+Three of the cohort at the far side of the pool had stopped washing to watch.
+
+"It's warm *all the way down*," said Rufo.
+
+"It's been warm all week," said one of the three. Valeria thought it was Vatinius. "You've been standing in it to your arse since the bar."
+
+"Not like this." The steam came up round his shoulders. He moved his arms in it slowly, in case it changed its mind. "Where I come from," he said, "you go in the sea at the turn of the year to show you're a man, and they pull you out blue, and your mother hits you." He took a breath of the steam and let it go. "It's warm as a *bed*."
+
+Something went into the water at the end of the pool under the willows.
+
+It went in long and flat and clean, with hardly a splash, and came up in the middle of the pool beside the vent: Sylara, who had been sitting under the willows in her green cloak with her bow across her knees unseen. She lay on her back in the steam in her shirt, with her braid floating out round her shoulder, and looked at Rufo upside down.
+
+"You can't swim," she said.
+
+"I can stand."
+
+"So I see." She turned over in the water like an otter and circled him once, close, with her braid trailing behind her through the steam. "The wardens taught me in the river under the council roots. It was cold enough to stop your heart." She circled him again. "I've never been in water like this either."
+
+Rufo turned in the water to keep her in front of him, and put his fingers up to the fair lock in his hair, as if to make sure of it.
+
+"Come here," he said.
+
+"Come and get me."
+
+Valeria watched a man who had stood in the first rank in front of every horror the Tharsians could send up a beach measure the distance to a woman in a warm pool, and decide it was too far.
+
+Sylara laughed: not a pretty sound, a short delighted bark, like a fox's. She came in to him under the water, and Valeria looked up into the willows, and heard a great splash, and the three on the far side cheer.
+
+Presently somebody sat down on the shell beside her, somebody large, who smelled of horse liniment and had no business smelling of it in a fen with no horses. She did not turn her head.
+
+"You put it on before you come down to the pool," she said. "On purpose."
+
+"I put it on in the mornings," said the General. "For my back. On which, I may say, I have stood in a boat made of grass for three days, at a great age, honoured." He settled himself. "You have mud to the hips, my dear."
+
+"I've waded to the hips for three days. While you stood."
+
+"I offered you my place."
+
+"You did not."
+
+"I offered it to you in my heart," he said, "very sincerely, at every bend."
+
+She turned her head then. He sat beside her with his knees up and his forearms on them, watching the pool, where Rufo stood in the steam with his arms full of wet warden and his face lifted to the willows with an expression on it Valeria had never seen on a man and would not have known what to call.
+
+"A northerner," he said, "finding out there is warm water in the world. And a woman in it." He shook his head slowly. "I was forty before anyone told me. Forty, and a widower twice."
+
+"Who told you?"
+
+He did not answer that. He put his hand down on the shell between them, palm up, and left it there; and after a moment she put hers in it, with her fingers on his wrist, as she had on the crown's road the night of the red gown. Her thumb found the pulse, slow and steady and large, like the man.
+
+They sat and watched the pool go dark. The steam took the last of the light, and the fires came out along the hard behind them, and out in the reed, at the water's level, the eyes went on watching.
+
+---
+
+The next morning Sszarra took them to the town.
+
+She did not say why. She came to the hard at dawn in her boat with nobody in it, and rose in it at the water's edge, and said: "The one who asks. And the shield." She looked at Valeria when she said it, which was how Valeria knew which one she was. "And whoever else he wants. Not many. Not loud."
+
+Marcus took Valeria, and Rufo, because Rufo was standing nearest, and a half-file of the Lanciarii. Sszarra poled the boat herself, empty, ahead of them, and they waded behind her up a narrow channel west of the black lagoon through gold reed taller than the General for most of the morning, in a silence that got into the men like the cold. Valeria caught herself walking on the balls of her feet in the mud, as though somebody were asleep in the next room.
+
+The channel opened.
+
+It had been a town. It lay across a wide still water where three channels met, built out over it on a forest of piles: long low houses with reed walls and reed roofs, walkways of reed bundles from one to the next, racks for nets, and platforms at the water's level for the boats to come in under.
+
+It had burned, all of it. What stood now was the piles, charred to the water and clean below it, and on them the frames of the houses, uprights and ridge-poles and the ribs of the roofs, black and bare against the sky, like the bones of fish laid on the side of a plate. The walkways had burned and fallen in. A skin of ash lay over the brown water, and through it, here and there, she could see things lying on the bottom.
+
+It smelled of old fire, wet. That cold, sour smell that a burned house has a month after, when it has been rained on. Nothing else.
+
+Sszarra let the boat drift in under the nearest frame, and stood in it, and turned her face up to the ribs of the roof.
+
+"My sister's town," she said.
+
+She said it in the same voice as everything else. She did not turn round.
+
+"She spoke for the clans before me. She went out in a boat to the jetty when they came, in the winter, to ask what they wanted. That is what a Speaker is for. They are chosen from those the clans can spare." She did not lower her face. "They told her what they wanted. Then they came here."
+
+Valeria stood in the warm black water to her thighs with the Farrier up and read the ground, because it was what she did. They had come in from the north, in boats. They had lit the upwind end first and let the wind bring it down across the town, while they waited at this end, where the channels met, and took what came out. It was what she would have done. She made herself go on thinking it, and did not look at the bottom.
+
+Rufo had gone on ahead.
+
+He had waded in under the frames, past Sszarra's boat, to where one of the walkways had come down into the water at a slant, burned through at one end and still hanging from the other, with its reed bundles charred and sodden. He stopped there. He bent down. When he straightened up he had something in his hand.
+
+It was a doll.
+
+It was made of net, the clans' fine reed-twine, rolled and bound into something with a long body and a long tail and four short legs, and a head with two shells sewn on for eyes. It was the size of Rufo's hand. One side of it was burned brown and the other was wet and whole, and somebody had wound a strip of red cloth round its middle, like a belt, long ago.
+
+Rufo knelt down with it in the water, slowly, until the black water was at his chest, and held the doll in both hands just above the surface. And he went still. Not the stillness of the clans: the dangerous kind. Valeria had seen it once before, at Cyrene on the last day, and had hoped not to see it again.
+
+The Lanciarii behind her had stopped. Pacuvius's lancea-butt came down on something under the water, and stopped.
+
+"Raiders did this," said Rufo. Quietly. He did not look up from the doll. "For pay." He turned the doll over in his hands. The shell eyes caught the light. "For *silver*."
+
+He rose.
+
+The water came off him in a black sheet. He was still holding the doll. He was looking north, up the channel the boats had come in by, toward where the jetty would be, and his face had nothing in it at all, and his free hand had closed on nothing.
+
+Valeria went to him.
+
+She did not hurry. She waded across under the frames with the Farrier upright in her left hand, and came round in front of him, between him and the north, and planted the butt-spike in the mud at his feet, so that the haft stood between them like a post in a gateway. She did not touch him.
+
+"Rufo," she said.
+
+He looked at her. It took him a moment to find her.
+
+"Not yet," she said. "Not here. You'll have it. I promise you, you'll have it. But not by yourself, up a channel, in the dark, with a doll in your hand." She held his eyes. "Stand with me until it needs breaking."
+
+He stood there.
+
+"Then break it where I point," said Valeria.
+
+He did not move. Then something went out of his shoulders, not all of it, but enough, and his free hand opened. He looked down at the doll.
+
+"Aye," he said.
+
+He looked at Sszarra, in her boat under the burned frame, and the gold eyes looked back; and he put the doll inside his shirt, against his chest, and buttoned the shirt over it.
+
+---
+
+Two days after that the breaks were done round the eastern beds, all of them, from the black lagoon to the willows, and Valeria went with Sylara to look at the jetty.
+
+They went alone, in the clans' fashion, because the warden asked for it: no mail, no Lanciarii, no noise, the Farrier left on the hard and a bone-handled knife Sszarra had lent her on Valeria's belt instead, which felt like going out with no clothes on. They took the channel the raider boat had come down, keeping to the reed, and where it thinned they slid into the water and went on with only their heads above it, as the clans did.
+
+The jetty stood at the fen's northern edge, where the reed ended and a deep channel ran out to the sea. Valeria lay in the water at the reed's edge with only her eyes above the surface, and Sylara beside her, and studied it.
+
+It was built well, which she had not expected. A long timber jetty ran out from a spit of firm ground into the deep water, with the raiders' long black boats moored along it; a palisade of sharpened stakes closed the landward end, with a gate in it, and huts and smoke behind. They had cut the reed back from the palisade a long bowshot all round, so that nothing could come at it but across open shallows. And on the jetty, near the seaward end, there were pens.
+
+They were made of wicker and stakes, low, half in the water and half out. She could not see what was in them from where she lay. She did not need to. Every now and then something in one of them moved, and the water round it moved, and somebody on the jetty kicked the side of the pen and it stopped.
+
+There were more men than she liked. She did not count them; a count was no use until she knew what they would do. She watched how they stood, and where they were not looking. They were not looking at the water. Living men, in a fen full of eyes, and none of them watched the water. They had been here all winter while the clans were slow, and they had forgotten.
+
+One man on the jetty was looking at the reed.
+
+He stood near the pens in a good blue coat, a big easy man; and when he lifted a hand to point along the palisade, the light flashed off it. Gold, more than one ring of it, from where she lay. When he lowered it the light went out.
+
+"Goldrings," said Sylara, beside her, very low, with her mouth just out of the water.
+
+"Is that what they call him?"
+
+"It's what the clans call him." Sylara's green eyes did not move off the jetty. "I asked one. She showed me with her hands."
+
+He walked along the jetty in no hurry, stopping to say something to a man here and there, and the men laughed when he said it; and once he stopped at the pens and stood over them, and then walked on.
+
+"He's not stupid," said Valeria.
+
+"No."
+
+"He's cut the reed back. He's built his gate at the land end. He's put his boats where he can run." She looked at the pens. "And he's put the thing he's selling at the end of the jetty, where it's hardest to get at, and where he can get it into a boat." She lay still. "It's what I'd do."
+
+"I know," said Sylara. "That's why I asked you to come."
+
+---
+
+That night they were all round the big fire under the willows at the top of the hard, eating mutton from the pot with their fingers: Marcus and the General, Gaius with his slate and Liora beside him, Alana with the weather-book shut and the quaestor beside her, and Rufo at the end with his tally-stick and Sylara half asleep on his shoulder with her hair still damp. The fen had gone dark round them. Out in the reed, the eyes.
+
+Valeria gave them the jetty as a report: the palisade and the gate and the cut reed, the boats, the pens at the far end, the men who did not watch the water, and the man in the blue coat. She drew it in the shell in front of the fire with the point of the clan knife as she spoke, a line for the jetty and a ring for the palisade, and they leaned in.
+
+Sszarra had come up out of the water at the foot of the hard while they ate, and stood at the edge of the firelight where the shell went down into the reed, upright and still, with her tail in the water. She came no nearer.
+
+When she had done, Marcus studied the lines on the shell for a long time.
+
+"You are loud," he said at last, slowly. "You are heavy. And your boats draw too deep."
+
+At the edge of the light Sszarra turned her head.
+
+"She told us that the first morning," said Marcus. "It was the first thing anyone in the fen said to us. And it's true. We are." He looked up at the Tide-Speaker. "So we'll be it. We'll come at the gate from the south, across the open shallows, where they've cut the reed back. In daylight. With every drum and horn we've got, and Kaeso in front, and the Lanciarii, and the cohort making all the noise a cohort can make, which is a lot." He put his finger on the ring in the shell, the palisade. "Every man on that jetty will be looking at us. At the gate. And none of them will be looking at the water." He looked at Sszarra again. "That's when your people come up. Behind it. Out of the deep channel, at the far end. Where the pens are."
+
+In the reed behind Sszarra, at the water's level, something passed along the eyes, from one pair to the next, and back.
+
+"We're the anvil," said Marcus. "You're the hammer." He sat back. "If you'll have it."
+
+The fire cracked. Somebody put a branch on it.
+
+"I'll want them in front of the gate before they're awake," he said, to the fire now, half to himself, as he talked when a thing had taken shape in his head and he was walking round it. "At first light. We'll go across the shallows in a line, a wide one, so they can see all of us at once and think there's more. Kaeso in the middle. The Lanciarii on the right, the cohort on the left. Gaius, I want something that makes a noise. Anything." He was looking at the shell. "My army goes in loud. As loud as it can make itself. And it keeps them looking south until the clans are on the jetty."
+
+*My army.*
+
+Valeria heard it.
+
+She was sitting across the fire from him with the Farrier on her knees, and she heard it as a sentry hears one footstep in a long night of footsteps that is not like the others. He had not heard it. He was bent over the lines in the shell, and his face in the firelight was the face she had watched on the slip quay at Cyrene and in the king's hall and in the cold grounds: clever, and tired, and alight. He was thinking about the gate.
+
+The General was studying the shell. Gaius was drawing something on his slate that would make a noise. Liora was asleep against Gaius's shoulder. Across the fire Alana had lifted her eyes, for a moment, to Marcus, and then lowered them to her book; and Valeria could not tell from her face whether it had been that, or something else.
+
+She had heard him say a great many things. *I'll ask them.* *I'd like to know what you think.* At the long table in the fort hall, with a cup of hot water and honey in her hands, she had said *yes* because he had asked, and he had heard why. She had not heard him say *my* before. Not of them.
+
+It was not wrong. That was the trouble with it. They were his. They had followed him into the Grey and up the galleries and through the Forge, and they would follow him across those shallows in the morning with every drum going, and he had earned every man of them; and it was what a commander said. Titus had said it. She had stood at Titus's left shoulder for nine years and heard him say it every day of them, and thought nothing of it, until Hollowmere.
+
+Her thumb went along the Farrier's haft, to the place her father had worn smooth, and stayed there.
+
+She had not decided to say nothing. The moment passed, and the talk moved on to the shallows and the tide and the time of first light, and Gaius was asking how loud, exactly, and the General was telling how he had once stampeded a squadron of his own horse with a cook-pot and a spoon, and Rufo was laughing; and it was too late to go back and pick the word up without everyone seeing her stoop for it.
+
+She sat by the fire until it burned down, and listened to the plan, and said where the Lanciarii should stand, which was where he had already put them. Then she went down the hard in the dark to set the watch, and set it, and stood at the water's edge with the warm fen breathing round her and the eyes out in it, and took out the list.
+
+*Things that might kill me.* The Grey. The fen, under the Grey, since the first morning. A man in a blue coat with gold on his hands.
+
+She took the word she had heard at the fire, and put it at the top, above the Grey.
+
+Once, in the capital, after the Marshal's supper, she had put him there, and then put the Grey back over him. She stood at the water and waited to want to do it again.
+
+She left it there.

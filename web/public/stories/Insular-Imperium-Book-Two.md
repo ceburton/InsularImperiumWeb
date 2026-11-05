@@ -15866,7 +15866,7 @@ Everyone was carrying someone.
 
 He took it in a piece at a time, from the tail. He had no strength left to take it in whole. Oppius, ahead of him, with a lanciarius across his shoulders like a calf brought down off a hill, the man's arm hanging and Oppius's floured forearm locked over his knees, and the baker's one eye fixed on the road and nothing else. Two of the cohort with a third between them, his arms over their necks and his feet going through the motions of walking a pace behind where they needed to be. A Vigil sister with a boy of the cohort on her back, her white skirts mud to the thigh and his head on her shoulder, asleep or not. Alana, in the last of the Vigil's wagons, sitting up between two empty oil-jars with the bank's mud on her to the shoulders and her right arm in her lap like something lent to her; a sister walked at the tail-board with a hand on her ankle. He had gone to the wagon once, on the first swell, and she had opened her eyes and looked at him and said, "Go to the tail," and shut them again. Rufo with a man on a shield at the front corner and three others on the other corners, and Rufo walking with his head down, his lips going, and Marcus knew without hearing what he was doing and let him do it. Gaius, behind the wagons, on his bad knee, with a man's arm over his own shoulders and a lancea for a staff in his other hand, his face grey to the lips with it and his scorched brows a stubble over his eyes. He was talking to the man he carried. Marcus could not hear what about. Timber, probably. The man was laughing, or crying, at it. From the tail it was the same shape.
 
-He walked. His own legs were heavy and stupid under him. There was a cut along his forearm he had not noticed getting, and the sleeve was stuck in it, and it had begun to hurt now there was nothing else to do. He let it.
+He walked. His own legs were heavy and stupid under him. There was a cut along his forearm he had not noticed getting, and the sleeve was stuck in it, and it had begun to hurt now there was nothing else to do. He left it.
 
 On the third swell a man fell out of the cohort's rear rank and dropped back to him along the verge. It was Dento, the debtor, with a twig in his teeth and a skin slung on a cord round his neck, and he fell in beside Marcus and walked a few paces without saying anything, and then he lifted the cord off over his head and held the skin out.
 
@@ -15904,7 +15904,7 @@ The door held. He did not try it to see.
 
 They had put Tappo on a shield with his cap on his chest.
 
-Somebody had done that, somewhere between the road and the first swell, and now it lay on Tappo's chest under his folded hands, the madder dark with rain. The four were carried in front of him, each on his own shield, with their cloaks over their faces. Tappo's face was not covered. His eyes were shut and his jug ears stood out from the shield's rim, and with the cap off him he looked younger than Marcus had ever seen him, and more surprised.
+Liora had done that. She had taken it out of her bag at the road and laid it on him for the carrying, and now it lay on Tappo's chest under his folded hands, the madder dark with rain. The four were carried in front of him, each on his own shield, with their cloaks over their faces. Tappo's face was not covered. His eyes were shut and his jug ears stood out from the shield's rim, and with the cap off him he looked younger than Marcus had ever seen him, and more surprised.
 
 The General had one corner of him.
 
@@ -16072,49 +16072,47 @@ The rain fell on the column, and nobody moved.
 
 He did not have to.
 
-They came out of the column before he had finished. He did not see who was first. He saw a lanciarius with a grey crop step out of the Lanciarii's ranks onto the verge with his lancea, and then a man of the cohort's third century he knew by sight and not by name, and then two together, and then he could not count them, and he did not try. They stepped out of the centuries and out of the Lanciarii and one, a grey old man with a brand on his cheek, out of the Vigil's carters, and stood on the verge in the rain with their shields, not in any rank, looking at him. The young ones in the column looked at them. Some of the young ones started to come too, and the old ones turned them round by the shoulders without a word and put them back.
+They came out of the column before he had finished. He did not see who was first. He saw a lanciarius with a grey beard come out onto the verge with his lancea, and then a man of the cohort's third century he knew by sight and not by name, and then two together, and then he could not count them, and he did not try. They stepped out of the centuries and out of the Lanciarii and one, a grey old man with a brand on his cheek, out of the Vigil's carters, and stood on the verge in the rain with their shields, not in any rank, looking at him. The young ones in the column looked at them. Some of the young ones started to come too, and the old ones turned them round by the shoulders without a word and put them back.
 
 Rufo stepped out of the cohort's head with his shield on his arm.
 
-A woman of the Lanciarii stepped in front of him.
+Galba stepped in front of him.
 
-She was not tall. She was broad, and grey, with her hair cropped short as a man's and her neck burned brown and corded like a drover's, and she wore the Lanciarii's old blue cloak over mail that had been mended so often it was more mending than mail. She had a lancea, and the butt-spike of it was worn bright. Marcus had seen her on the march, at the tail of Valeria's file, and in the lines, and on the bank that morning with the rest, and had never once heard her speak.
+Marcus had not seen him come out of the Lanciarii. He was simply there, on the verge, with his lancea grounded: a lanciarius of Valeria's own file, past forty, thick through the body, with grey coming into the black of his beard and the old blue cloak dark with rain. He had kept the street door at the capital all the Midwinter week. He had brought Nerva up the hill.
 
-She put her hand flat on Rufo's chest.
+He put his hand flat on Rufo's chest.
 
-"Not you," she said.
+"Not you," he said.
 
 Rufo looked down at the hand.
 
-"You've a lock of fair hair plaited over your ear, optio," said the woman. "I can see it from here. Go home to it."
+"You've a lock of fair hair plaited over your ear, optio," said Galba. "I can see it from here. Go home to it."
 
-Rufo's hand went up to the plait, and stopped there. He stood a moment. Then he looked over her head at Marcus, and Marcus could not read what was in his face, and then Rufo turned round and went back into the cohort's head and stood there with his shield, and did not look round.
+Rufo's hand went up to the plait, and stopped there. He stood a moment. Then he looked over Galba's shoulder at Marcus, and Marcus could not read what was in his face, and then Rufo turned round and went back into the cohort's head and stood there with his shield, and did not look round.
 
-The woman walked out into the road and looked up at Marcus on his stone.
+Galba walked out into the road and looked up at Marcus on his stone.
 
-"Ansa," she said. "Of the Lanciarii. File-leader. I carried a shield in the First Legion before there were any Lanciarii, Centurion, and before you had your century." She looked along the men on the verge, the grey heads and the brands and the old mended mail, as if she were checking them off. "That's all of us. All the old ones. You can stop asking."
-
-"Ansa."
-
-"Old Hundred arithmetic, Centurion." She said it plainly, without any weight on it at all. "You of all men knew it'd keep. Few hold, so many get off. You don't need to do it again." She jerked her chin at the column. "And they're the ones the witch talked to, in the fog. About their women. Every man here, she walked past. Had nothing to say to us." Something that was not a smile crossed her brown face. "We noticed."
+"That's all of us, Highness," he said. He looked along the men on the verge, the grey heads and the brands and the old mended mail. "All the old ones. You can stop asking." He jerked his chin at the column. "And they're the ones the voice talked to, in the fog. About their women. Every man here, she walked past. Had nothing to say to us." Something that was not a smile crossed his face. "We noticed."
 
 Marcus got down off the stone.
 
-He stood in front of her in the road. She stood to his chin. Behind her the volunteers stood on the verge, and behind them the column had begun to move again, slowly, going round them down into the cut, the young ones looking back over their shoulders as they went.
+He stood in front of Galba in the road. Behind Galba the volunteers stood on the verge, and behind them the column had begun to move again, slowly, going round them down into the cut, the young ones looking back over their shoulders as they went.
+
+He knew the sum. He had been on the other side of it once, on a harbor stair, the night a few held so that many got off, and he had been one of the many, and had not been asked. *Old Hundred arithmetic.* The sum had kept.
 
 The heat came up into his face and the scar on his jaw drew tight, and he let it.
 
-"Crowns and crows, file-leader," he said.
+"Crowns and crows, Galba," he said.
 
-Ansa considered him, and for the first time something crossed her face that was almost warm.
+Galba considered him.
 
-"Crowns and crows," she said. "Centurion."
+"Crowns and crows," he said. "Highness."
 
 ---
 
 Valeria climbed up from the strand at dusk with the Farrier on her shoulder and stood beside him at the brow and watched them go.
 
-They went up the road in no rank, with their shields on their backs and their spears sloped, talking. He could hear them talking. Somebody laughed. Ansa walked at the front with her lancea, and did not look back, and the grey old carter with the brand on his cheek walked beside her with a Vigil sister's oil-jar on his hip that he had asked for and been given, and a torch, unlit, through his belt. Behind them the light was going out of the rain. The road climbed the first swell, pale, and they climbed it, and over, and down the far side toward the dip; and the swell took them, from the feet up, until there was nothing on it but the road.
+They went up the road in no rank, with their shields on their backs and their spears sloped, talking. He could hear them talking. Somebody laughed. Galba walked at the front with his lancea, and did not look back, and the grey old carter with the brand on his cheek walked beside him with a Vigil sister's oil-jar on his hip that he had asked for and been given, and a torch, unlit, through his belt. Behind them the light was going out of the rain. The road climbed the first swell, pale, and they climbed it, and over, and down the far side toward the dip; and the swell took them, from the feet up, until there was nothing on it but the road.
 
 Pen had their names. Marcus had asked him to take them at the stone, before they went, every man, and the century and the file and the village, so that somebody had them; and Pen had sat on the mark-stone in the rain with his board on his knee and taken them down one after another in his upright clerk's hand, quick and neat, with a word for each man as he wrote him, and had blotted the sheet and folded it in oilskin and given it to Marcus. He had kept a fair copy. "I always do, Highness," he had said. "You never know."
 
@@ -16146,7 +16144,7 @@ He stood and heard his own name go down the cut after her.
 
 The boats worked all night.
 
-He stood at the head of the strand where the road dropped out of the cut, under the lantern on the post where his own orders had hung that morning in Pen's hand. Somebody had taken them down. The post was bare. He stood under it and watched the strand.
+He stood at the head of the strand where the road dropped out of the cut, under the lantern on the post where his own orders had hung that morning in Pen's hand. They had been taken down. The post was bare. He stood under it and watched the strand.
 
 It was lit by lanterns all along the water's edge, and torches stuck in the shingle, and the boats came in out of the dark one after another into the light, grinding on the stones, and the crews leapt out into the surf and held them, and the men went down the shingle in their files and into them, wounded first, as Valeria called them, and the boats backed off into the dark and were gone. Valeria stood at the water's edge with her lancea grounded and called the files down by name, one after another, without hurrying and without stopping, and the files came. Thalassa's people were in the water. He could not see them, but now and then a boat that had swung broadside to the surf straightened, all at once, as if a hand had taken hold of its keel; and once a man went in off a gunwale with his mail on and did not come up, and then came up, a long way out, with blue hair round him, coughing, and was put into the next boat like a parcel.
 
@@ -16162,7 +16160,7 @@ The red light over the brow burned on, and the shouting rose and fell, and then 
 
 Liora came down the cut toward midnight, walking.
 
-She had a cohort man on either side of her, not holding her, walking close enough to, and she came down out of the dark into the lanterns with her hood up and her black hands in front of her. She had been at the toll-house all evening. They had laid the worst of the wounded there, the ones too bad to put in a boat in the dark, and she had told them she would see to them and then lie down; and the cohort man on her left caught Marcus's eye as they came under the lantern and shook his head, very slightly, and Marcus understood that she had seen to them and had not lain down.
+She had a cohort man on either side of her, not holding her, walking close enough to, and she came down out of the dark into the lanterns with her hood up and her black hands in front of her. She had been at the toll-house all evening. They had laid the worst of the wounded there, the ones too bad to put in a boat in the dark, and she had told them she would see to them and then lie down; and the cohort man on her left caught Marcus's eye as they came under the lantern and shook his head, very slightly, and Marcus saw that she had seen to them and had not lain down.
 
 "Liora."
 
@@ -16174,7 +16172,7 @@ She had a cohort man on either side of her, not holding her, walking close enoug
 
 "Liora. You've healed half the army since noon and the General besides. You're spent. I can see you're spent from here. There's nothing left to do tonight that someone else can't—"
 
-"There is." She looked up at him. "There's a room up there with three things on a table, and five men on shields in the yard outside it, and when the boats have the living off I am going to sit in that room and say their names." "Grief gets the hours after, Highness. That is the entire job."
+"There is." She looked up at him. "There are five men on shields in the yard up there, and when the boats have the living off I am going to sit with them. Grief gets the hours after, Highness. That is the entire job."
 
 He had no answer to it. He stepped aside.
 
@@ -16188,21 +16186,17 @@ She woke because the room had changed its sound.
 
 For hours it had been full: men breathing, men who could not breathe well, the scrape of boots on the flags, Liora's voice low somewhere near the door, a man who called for his mother in a reasonable tone, as if she were in the next room and might bring water. Alana had lain on the floor under the wall with her back to the chalk and listened to it, and had meant to get up and help, and had gone to sleep instead in the middle of meaning to. Now it was quiet. The wounded had gone down the cut. The floor was bare where they had lain, bare flags with blood dried brown in the joints and a litter of torn linen, and the door was open on the dark, and the rain had nearly stopped. She could hear the surf at the foot of the cut, and the boats grinding on the shingle, and nothing else.
 
-There was one lamp. It stood on the trestle at the middle of the room, the long Tharsian trestle off the *Constancy*'s orlop that had held Marcus's map the night before last. The map was gone. Somebody had rolled it and taken it down to the boats with the rest.
+There was one lamp. It stood on the trestle at the middle of the room, the long Tharsian trestle off the *Constancy*'s orlop that had held Marcus's map the night before last. The map was gone. Somebody had rolled it and taken it down to the boats with the rest, and the table was bare.
 
-There were three things on the table instead.
+Liora was at the end of it.
 
-She sat up to see them, and her right arm told her about it from the shoulder to the fingers, a long dull roar of an ache, as if she had lifted a wagon with it and then been made to hold it up all day. She had. She laid the arm in her lap and looked at the table.
+She sat on the bench with her back to the room and her hood down, in the edge of the lamplight, and she had something in her lap. Alana sat up to see, and her right arm told her about it from the shoulder to the fingers, a long dull roar of an ache, as if she had lifted a wagon with it and then been made to hold it up all day. She had. She laid the arm in her lap and kept still.
 
-A cap of red wool, folded, still dark with wet.
+It was Tappo's cap.
 
-A short plane of beech, black with handling, its sole worn hollow, laid on its side.
+Liora had it spread on her knee, the red wool dark with wet, and she was smoothing it. She did it slowly, with the flat of her hand, from the crown out to the edge, as a nurse smooths a child's hair after a fever, and then she turned it and did the other side. Her hands were clean to the wrists and red with salt and cold. When she had done both sides she folded it in half, and in half again, and put it back in the bag at her hip, at the bottom, where it had been before, beside whatever else she kept there. She sat a moment with her hand on the bag. Then she got up and went out past the door into the yard, where the five shields lay in a row under a sailcloth with the rain on it, and did not come back in.
 
-An awl, a cobbler's awl, small, with no handle: the tang bare and black where the wood had burned off it, and the point bright.
-
-They lay in a row, an even space between them, in the lamplight. Nobody was at the table.
-
-She knew them. She had seen the cap on Tappo every day since Midwinter, jammed down over his ears, and in her own hands once, at the chapel at Marrow Down, when he had dropped it in the oil-mud and she had picked it up for him and he had grinned under it, abashed, and said, "Thank you, Chair." She had seen the plane in Gaius's hands at the pump in the smith's forge, all night, while she did the work left-handed because he would not let her use the right. He had told her whose it was without her asking, and then had not said anything else for an hour. She had seen the awl in Liora's black hands on the chapel steps in the morning. She had not known whose. She had not asked.
+Alana had seen the cap on Tappo every day since Midwinter, jammed down over his ears, and in her own hands once, at the chapel at Marrow Down, when he had dropped it in the oil-mud and she had picked it up for him and he had grinned under it, abashed, and said, "Thank you, Chair."
 
 She got up. It took her two tries, one hand on the wall, and her palm came away white with old chalk. The tally-marks ran up the wall in front of her, column after column of strokes in fives, faded and smudged, where some toll-keeper of the old kingdom had counted the carts on the road and then one day stopped counting, and nobody had added to his sum since. She stood with her hand on his columns and her lips moved over them, and she made herself stop.
 
@@ -16210,7 +16204,7 @@ Somebody was in the doorway.
 
 "You're up," said Rusca.
 
-She stepped in out of the dark with Alana's satchel on her shoulder and her copper braid gone dark at the ends, and set the satchel down on the end of the trestle, carefully, as far from the three things as the table allowed. Then she stood beside it with her hands folded and did not look at the three things either.
+She stepped in out of the dark with Alana's satchel on her shoulder and her copper braid gone dark at the ends, and set the satchel down on the end of the trestle, carefully. Then she stood beside it with her hands folded.
 
 "Your book," she said. "I kept it dry. It was on me at the litters all the morning and all the road, and I didn't—" She stopped. Her hand went to her cuff, to the linen, and closed on it, and stayed there. "I didn't open it."
 
@@ -16218,7 +16212,7 @@ She stepped in out of the dark with Alana's satchel on her shoulder and her copp
 
 "He said that." Rusca's mouth went thin. "Neither of you can know it."
 
-"I can," said Alana. "I tied the strap yesterday morning, with this hand." She lifted the shaking right hand an inch off her lap. "You'd have had to untie it to open it, and you'd have tied it back with a better one, because you couldn't have helped yourself. And that's my knot. Nobody else could tie one that bad."
+"I can," said Alana. "I tied the strap yesterday morning, with this hand." She lifted the shaking right hand an inch. "You'd have had to untie it to open it, and you'd have tied it back with a better one, because you couldn't have helped yourself. And that's my knot. Nobody else could tie one that bad."
 
 Rusca's eyes went to the strap. Then, for the first time Alana had ever seen, the quaestor laughed: a short dry sound, surprised out of her, that she put her linen to her mouth to stop and could not quite.
 
@@ -16228,7 +16222,7 @@ Rusca's eyes went to the strap. Then, for the first time Alana had ever seen, th
 
 Rusca stopped laughing. She looked at Alana over the linen, and her amber eyes were wet.
 
-"He asked me," she said. "On the road. What they'd send, and when. Your prince. He said *I'm asking*." She took the linen from her mouth and looked at it, at the small red lamp worked in its corner, and folded it, and put it back. "So I told him."
+"He asked me," she said. "On the road. Your prince. He said *I'm asking*." She took the linen from her mouth and looked at it, at the small red lamp worked in its corner, and folded it, and put it back. "So I told him."
 
 "Was it true?"
 
@@ -16236,27 +16230,25 @@ Rusca stopped laughing. She looked at Alana over the linen, and her amber eyes w
 
 She went out into the dark.
 
-Alana stood by the table. Then she sat down on the bench at the end of it, beside the satchel, and pulled it into her lap one-handed, and worked her own knot loose with her teeth and her left hand, slowly, and took out the weather-book.
+Alana sat down on the bench at the end of the table, where Liora had sat, and pulled the satchel into her lap one-handed, and worked her own knot loose with her teeth and her left hand, slowly, and took out the weather-book.
 
-It was dry. Rusca had kept it dry. The boards were warm from being carried against a body all day. She opened it on the table, away from the three things, at the back, where the new column was; and the lamp was poor and the pages were close, but she knew where to look.
+It was dry. The boards were warm from being carried against a body all day. She opened it at the back, where the new column was; and the lamp was poor and the pages were close, but she knew where to look.
 
-*Spring: Tertulla to read.* That was the first, a winter ago, at the celebration, in a good hand. Then the rest of it, down the column and over the page and down the next, in the hand she'd had before the moor and then in the shaking one after it: granaries; the dwarves' fortnight in every hall; half the fleet paid to carry grain; a school; Corvus's chairs, in bronze and stone, to be collected; Tertulla had her letters by the first thaw, ticked off, small, in the margin. And at the bottom of the last page, in her right hand at its worst, the letters going up and down like a line of men walking over rough ground, the line she had written in the tent two nights ago under his arm, and blotted on her sleeve, and closed the book on before he could read it.
+*Spring: Tertulla to read.* That was the first, a winter ago, at the celebration, in a good hand. Then the rest of it, down the column and over the page and down the next, in the hand she'd had before the moor and then in the shaking one after it: granaries; the dwarves' fortnight in every hall; half the fleet paid to carry grain; a school; Corvus's chairs, in bronze and stone, to be collected; Tertulla had her letters by the first thaw, ticked off, small, in the margin. And at the bottom of the last page, in her right hand at its worst, the letters going up and down like a line of men walking over rough ground, the line she had written in the tent the night before Bastion, under his arm, and blotted on her sleeve, and closed the book on before he could read it.
 
-*The first day of autumn: take ours up to see it.*
+She read it. It said what she had written. She sat with her finger under it, and then she closed the book on her finger, and held it.
 
-She sat and looked at it.
-
-She had written it the night before Bastion, because he had asked her to write something for after, and it had been the only thing she could think of that was true. She had written it in the future tense, as the column was meant to be written. She had not believed it, quite. She had written it anyway.
+She had written it because he had asked her to write something for after, and it had been the only thing she could think of that was true. She had written it in the future tense, as the column was meant to be written. She had half believed it. She had written it anyway.
 
 It was still in the future tense. She was still here to read it.
 
 Her lips moved.
 
-She was alive. That was one. She had been knocked flat into the mud at the gate by a horse she never saw and had got up with the bank's whole face in her hair and her arm hanging, and she was sitting on a bench in a dry room in a toll-house with a book in her lap, and she was alive. Marcus was alive. That was two. He was down on the strand under a lantern with the boats; she had not seen him since the road, but the sister who brought her up from the wagon had seen him, and said he was standing still, which was how she knew it was true, because he only stood still when he had sent somebody else to do a thing he wanted to do himself. And this was three: the line at the bottom of the column, which she had written for a time when it would be over, and which still stood. Nobody had struck it out. Bastion had not struck it out.
+She was alive. That was one. She had gone down on one knee on the stone of the bank with her arm gone dead to the shoulder, and been carried down through the ditch between two sisters and the Abbess with the mud to her shoulders, and she was sitting on a bench in a dry room in a toll-house with a book in her lap, and she was alive. Marcus was alive. That was two. He was down on the strand under a lantern with the boats; she had not seen him since the road, but the sister who brought her up from the wagon had seen him (and had not argued when Alana said she would go in the last boat, with him), and said he was standing still, which was how she knew it was true, because he only stood still when he had sent somebody else to do a thing he wanted to do himself. And this was three: the line at the bottom of the column, which she had written for a time when it would be over, and which still stood. Nobody had struck it out. Bastion had not struck it out.
 
 One, two, three. Her lips went over it again. It came to the same.
 
-She sat at the end of the table with the three things on it, Tappo's cap and Arruns's plane and the awl of a man whose name she did not know, and she was counting her good fortune like a miser counting his coins with the door shut, and she was ashamed.
+She sat counting her good fortune like a miser counting his coins with the door shut, with five men on shields in the yard outside and Liora sitting out there with them in the dark, and she was ashamed.
 
 Then she thought of Tappo grinning under his cap at Marrow Down. *Thank you, Chair.* And of the four men she had never spoken to, who had run down a hill with Liora between them into Drusilla's riders so that a man would be alive on the road afterward, walking, carrying his corner.
 
@@ -16264,73 +16256,41 @@ She did not know where the shame had gone. She kept counting.
 
 ---
 
-Liora came in a little before the end of the dark.
+The General came in a little before the end of the dark, stooping under the lintel, in his torn mail with the cut in it under his arm. He came in from the yard. He stood just inside the door and looked at her, and nodded, and did not sit.
 
-Her hands were clean to the wrists and red with salt and cold, and she held them a little away from her body, as if they still belonged to somebody else. She had put her hood back. Her hair was dark at the crown with rain and the rest of it the colour it always was, and her face was as white as Alana had ever seen a living face.
+Liora came in behind him. Her face was as white as Alana had ever seen a living face, and her hair was dark at the crown with rain.
 
-The others followed her in without anyone sending for them.
+"There are more," said Roderic, low. "Up the road. The ones he asked."
 
-Gaius was first, on his bad knee, and he crossed straight to the table and stood looking at the plane where he had laid it. His brows were a stubble still, burned to nothing at the central barrow, so that his face had nothing to go up with when he looked at a thing, and he stood with it bare and looked at the plane, and then he went and stood by the wall with his back to the chalk and folded his big scarred hands in front of him and did not move again. Roderic stooped in under the lintel, in his torn mail, with the cut in it under his arm, and stood just inside the door. Cassandra stopped in the doorway itself, in her white gone brown to the knee, and took off her steel cap and held it against her hip, and did not come further in. Rusca came last and stood outside in the dark beyond Cassandra's shoulder, where the lamp did not reach. Alana saw the white of her face there, and the linen.
+"I know," said Liora.
 
-Liora sat down at the table across from the three things, on the bench, with her red hands in her lap. Then she reached out and put her hand on the cap.
+"Will you have them?"
 
-"Tappo," she said. "Of the cohort. A thief, of the harbor prison, who made a song in the Boundary House and sang it, and was frightened of me, and stopped being. He asked every day if he could help. He carried me the last of it down the slope at Bastion with a lance through his shoulder, and set me down, and gave me to the General."
+"Not yet." She looked at her red hands. "When I know which. I don't say a name until I'm sure. Then I say it every night until I die." The corner of her mouth went in, and stayed. "It's a long time to have one wrong."
 
-She took her hand off the cap.
-
-"Bruttius, of the fourth century. A net-maker's son, of the old harbor. Who took the lance on the shield." Her voice did not change. It was the voice from the chapel steps at Marrow Down: low and level and patient, with room round every word, as if each name were a stone she was setting down in a wall and had to see that it sat. "Trebonius, of the fourth. A drover. Who held the bridle. Egnatius, of the second, a cooper's man, of Barrel Lane in the capital. Who stood in the horse's way with no shield. Sosius, of the fourth, who had a sister at Cyrene. Who carried me hit."
-
-Roderic, by the door, said the names after her under his breath, a beat behind, as a boy says his lesson after the master. He got the drover's wrong, and corrected himself.
-
-Liora moved her hand to the awl, and touched it with one finger, at the burned end where the handle had been.
-
-"Ulpius," she said.
-
-Alana had not known it. She had seen the man a dozen times on the march to the Fen and up onto the moor, at the fires, with a boot across his knee and a waxed thread in his teeth, mending something that was not his. He had mended Marcus's sandal-strap. She had never known his name, and she had never asked, and now she had it, and it was too late to say it to him. It was not too late to have it.
-
-"Ulpius, of the second rank," said Liora. "A shoemaker, of the tanners' street in the capital. Who went down in the fog at Marrow Down, and rose, and whom his friends put down. Who mended things, and never once asked anybody first."
-
-She left her finger on the awl a moment more.
-
-Then she moved her hand along the table to the plane, and Gaius, against the wall, shut his eyes.
-
-"Arruns, of the slips," said Liora. "Velthur, of the slips. Of Thessa. Who held the gate." They were in her litany together, as they had died, and she said them together now, and let them stand.
-
-Then she was quiet.
-
-She sat with her hands in her lap, looking at the three things. The lamp burned. Outside the boats ground on the shingle at the foot of the cut, and the surf came in and drew back. Cassandra, in the door, stood with her steel cap against her hip and her plain face set, and Alana saw her watch the side of Liora's face in the lamplight without any expression on her own at all. Then the Abbess's teeth clicked, once, softly, the way they did before she ruled on something. She did not rule on anything. She put her cap back on, and stood.
-
-Alana's lips were moving. She had not told them to. She let them go on.
-
-One. Two. Three.
-
-"There are more," said Roderic from the door, low. "Up the road. The ones he asked."
-
-"I know," said Liora. She did not look round. "Not yet."
-
-"When?"
-
-"When I know which." She looked at her red hands. "I don't say a name until I'm sure. Then I say it every night until I die." The corner of her mouth went in, and stayed. "It's a long time to have one wrong."
+Cassandra was in the doorway behind them, in her white gone brown to the knee, with her steel cap in her hand. Alana had not heard her come. She stood and watched the side of Liora's face in the lamplight without any expression on her own at all. Then the Abbess's teeth clicked, once, softly, as they did before she ruled on something. She did not rule on anything. She put her cap back on.
 
 ---
 
-The light came up grey in the door while they sat there, and the last of the rain stopped, and somebody on the road outside said, "There."
+The light came up grey in the door, and the last of the rain stopped, and somebody on the road outside said, "There."
 
-Alana got up, and took the book up off the table without knowing she had. Her arm told her about it again, and she went to the door past Cassandra, who moved aside for her without being asked, and stood on the step.
+Alana got up, and took the book with her without knowing she had. Her arm told her about it again, and she went to the door past Cassandra, who moved aside for her without being asked, and stood on the step.
 
 The road ran north from the toll-house pale and wet in the first of the light, up over the swell. On the swell, coming over it and down toward them, were men.
 
 Not many. She did not count them. She would not let her lips do it, and they did not. They came down the road slowly, with their shields on their backs and some of them without shields, and two of them carried a third between them, and one hung with his arm round another man's neck, dragging a foot. They were black to the eyes with smoke. Behind them on the farther swell, under the grey, there was a line of men standing on the road and not coming on, and some horse; and they stood there, and watched the rearguard come down, and did not come any nearer.
 
-The grey old carter with the brand on his cheek was at the front. He had lost a boot, and he walked on the bare foot on the wet stones as if he had always walked that way.
+The grey old carter with the brand on his cheek was at the front. He had lost a boot, and he walked on the bare foot on the wet stones as if he had always walked that way. Galba came last, with a man of the cohort over his shoulders and his lancea gone, and his beard singed short on one side.
 
-Somebody behind Alana in the toll-house said, "Ansa."
+He stopped in the road below the step, and set the man down against the toll-house wall, gently, and straightened, and stood there with his chest going.
 
-The carter heard it. He stopped in the road below the step and looked up, and his face under the smoke was an old man's face.
+"Galba," said Roderic, from the door. "How many?"
 
-"Went back for one," he said. "In the gorse, at the end, when they got round us. Somebody was down. She went back for him." He looked at his bare foot. "Didn't see her after. Didn't see the man. Didn't see them dead." He shook his head slowly. "They had ropes, the levy. Some of them. I saw ropes."
+Galba looked at the General, and then up the road, and shook his head slowly.
 
-He limped on down the road past the toll-house and into the cut, and the others followed him, one and another, past the step and down. Behind the last of them the Lanciarii brought the five shields out of the toll-house yard, Tappo's last, and carried them down the cut after.
+"Some went back," he said. "In the gorse, at the end, when they got round us. Somebody'd be down, and somebody'd go back for him." He wiped his face with the back of his hand and made it worse. "Didn't see them after. Didn't see them dead, either." He was quiet a moment. "They had ropes, the levy. Some of them. I saw ropes."
+
+He picked the man up again and went on down into the cut, and the others followed him, one and another, past the step and down. Behind the last of them the Lanciarii brought the five shields out of the yard, Tappo's last, and carried them down the cut after.
 
 Liora had come to the door behind Alana. She stood and watched them go by, every one, and her lips did not move, and Alana understood that she was not counting either. She was learning faces.
 
@@ -16346,7 +16306,7 @@ He climbed to the toll-house. He was grey with tiredness and his sleeve was stuc
 
 "I know."
 
-He looked past her into the room, at the trestle and the lamp and the three things on it in a row, and at Liora in the doorway, and at the General. Then back at her, and at the weather-book in the crook of her bad arm, held against her ribs, where she had forgotten she had it.
+He looked past her into the room, at the trestle and the lamp, and at Liora and the General. Then back at her, and at the weather-book in the crook of her bad arm, held against her ribs, where she had forgotten she had it.
 
 "What's in the new column?" he said. "The last line. I didn't see it."
 

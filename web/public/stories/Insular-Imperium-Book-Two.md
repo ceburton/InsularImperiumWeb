@@ -24,6 +24,7 @@
 18. [Chapter Eighteen: Dead Water](#chapter-eighteen-dead-water)
 19. [Chapter Nineteen: Some](#chapter-nineteen-some)
 20. [Chapter Twenty: The Named Border](#chapter-twenty-the-named-border)
+21. [Chapter Twenty-One: The Knock](#chapter-twenty-one-the-knock)
 
 ---
 
@@ -12824,3 +12825,509 @@ She told him. He listened with his eyes on the fog. Behind them on the quarterde
 The General turned back to the fog. The Grey took the *Forward*'s stern, and the cold settled over the deck with it, and the light went out of the day.
 
 "He'll stop."
+
+---
+
+# Chapter Twenty-One: The Knock
+
+**MARCUS**
+
+The cutter came out of the west on the second morning with a white sail and a gold sun stitched on it, running before the wind with her lee rail down.
+
+Marcus watched her come from the *Forward*'s quarterdeck. She was small and old and had been painted white once, and somebody had kept on painting her; her sail had been patched so often that the sun on it was mostly patches, gold thread on grey canvas on gold thread. A woman stood in the bows in a white cloak with the hood back. She was not holding on to anything.
+
+"Vigil," said the General, at his elbow. "They paint everything they own. They'd paint the sea if it held still."
+
+The cutter ran up under the *Forward*'s lee and spilled her wind and lay there, rising and falling, close enough that Marcus could see the woman's face. She was not young. The wind had reddened it and the salt had dried on her brows.
+
+"Whose ships?" she called. Her voice carried without being raised.
+
+"The prince's," Marcus called back. "Marcus. Out of Cyrene, from Viper's Fen."
+
+She looked at him for a breath, at the red cloak and the jaw, and then at the deck behind him, the cohort along the rail, the Lanciarii's hafts racked by the mast, Sylara's bow. If she had heard of him she did not say so.
+
+"I'm carrying the Knight-Abbess's report to the capital, Highness. Ghoul's End." She said the name flatly, like a disease she had nursed. "The crypts are open. Three of them, since the autumn. The dead are walking the moor villages at dusk, and the villages have shut themselves in with whatever they could carry: pews, ploughs, peat-stacks. The fog won't lift. The Knight-Abbess has gone in with the Vigil."
+
+"How many?"
+
+"Two hundred of us. She asks nothing of the crown." The sister pushed a wet strand off her face. "She wished that put in the report. In those words."
+
+"Then put it in." Marcus looked past her, west, where the sky was the colour of pewter and there was nothing to see at all. "And put in that I'm coming."
+
+He turned before she had answered.
+
+"Signal the *Constancy*: north-west, for Ghoul's End. And Rufo, I want every cask of lamp oil and seal oil in the fleet counted and on this deck by dusk."
+
+"Aye."
+
+The deck began to move round him. The General had opened his mouth, at his elbow, and Marcus heard him shut it again, and did not look round to see what had been in it. Across the water the cutter's sail filled, and she went away east on the long swell with her patched sun, small and white, toward the capital and a council that would read the report and file it.
+
+At the rail, a little way forward, Valeria was watching the cutter go. She had a hand on the Farrier's haft, and her face was the face she had worn all the way from the fen, the one that was busy with something it was keeping to itself.
+
+---
+
+They raised the island on the evening of the third day, and smelled it before they saw it.
+
+Peat smoke. It reached them on the land-breeze an hour before the coast showed, sour and brown and old, the smell of a thousand hearths that had been burning the same fuel since before there were kings. Then the coast showed in the dusk: low black cliffs, and above them a long rise of moor going up into cloud, no tree on it anywhere, no field wall that he could see, only the dark of heather and the paler streaks of what Gaius said was bog. There was a sea-loch with a hamlet at its head, a dozen turf roofs and a stone jetty. No lights in it.
+
+They anchored in the loch at the last of the light. The water was black and still and bitter cold, and when the anchor dropped the noise of the cable ran up the moor and did not come back.
+
+Alana stood at the rail with the weather-book under her arm and looked at the fog. It lay on the high moor above the hamlet like milk in a dish, white against the dark, and it was not moving. The land-breeze was blowing down the moor into their faces, steady enough to stir the hair on her neck, and the fog lay where it was.
+
+"That's wrong," she said.
+
+"Write it down."
+
+"I'm going to." She did not open the book. "She wrote to me from here, Marcus. *The north, where the fog sits on the moors.*"
+
+He had been thinking it since the cutter. Since the bed at Cyrene, if he was honest, with the two letters lying side by side on the blanket. He put his hand over hers on the rail, and her hand was cold, and she turned hers over under it.
+
+"Come to bed," he said. "It's cold."
+
+"That," said Alana, "is the worst invitation anybody has ever given me."
+
+"It's true, though."
+
+"It is true," she agreed, and came.
+
+---
+
+Afterward she lay with her head on his shoulder and the blanket up to her chin and her feet on his shins, which were the only warm part of the cabin, and planned the kingdom.
+
+She did this now. It had begun at Stoneheart, in the warm dark of a borrowed room in the halls, and gone on through the spring: a quarrel about granaries that they took up wherever they had left it, as other people take up a game of draughts. She had the weather-book open on her knees with the new column showing, and the lamp on the hook over the bunk swung a little with the loch's swell and moved the light across the page and back.
+
+"Not at the capital," she said. "Every famine in the isles for a hundred years has been a famine at the far end of a road from the capital. You put the grain where the hunger is."
+
+"You put the grain where you can guard it."
+
+"You put a granary on every island and you let each island guard its own. That's what a kingdom's *for*." She wrote something and crossed it out. "The dwarves keep a fortnight's grain in every hall. Hulda told me. A fortnight, in every hall, and the halls lend to each other in a bad year and write it down. If Stoneheart can do it with a mountain on top of it, Cyrene can do it with a harbour."
+
+"Cyrene grows no corn."
+
+"Cyrene catches more fish than it can eat and has the prisoners, who can row. Your father pays a fleet to sit at the capital and wait for Tharsis." She tapped the pen on the page. "Pay half of it to carry grain."
+
+"You've been talking to Rusca."
+
+"I've been talking to Rusca," Alana admitted. "She's good. She thinks we're all mad, and she's very good at it."
+
+He lay and listened to the swell move the hull. Somewhere forward a man was coughing, and somebody told him to stop, and he stopped. The lamp swung. She wrote a figure, and he watched her write it: the new column filling up, line under line, in the future tense, with granaries and harbours and a school.
+
+She stopped writing.
+
+"At Corvus," she said, "they used to bring the children up from the town on the first day of autumn, to see the library. Not to read in it. Only to see it. To stand in the great ring under the chairs and look up." The pen lay still on the page. "I want children who'll know it like that. Only as a school. A place you go up to on the first day of autumn, and stand in, and come home from, and tell your mother about at supper." She closed the book on the pen. "That's all. I wanted to say it once."
+
+The lamp swung. The heat came up into his face, and his jaw tightened over the old scar, and he lay still with her weight on his shoulder and could not, for a moment, think of one thing to say that was not too small.
+
+"Then we'd best build the school," he said.
+
+She turned her face into his neck. He felt her smile against it, and then he felt her breathe out, long, as if she had been carrying something up a hill and had put it down at the top.
+
+"Granaries first," she said into his neck.
+
+"School first."
+
+"Granaries. Children have to eat."
+
+Somebody knocked at the cabin door.
+
+It was an ordinary knock, two raps of a knuckle on oak, and one, and both of them jumped as if it had been a gate going in. Alana laughed, low, at herself. Marcus pulled the blanket over her shoulder.
+
+"Come."
+
+It was Rufo, ducking under the lintel with a lantern, his eyes carefully on the deck-head. "Oil's counted, sir. Forty casks, and the seal oil from the *Remainder*. Gaius says three carts'll take it, if there's carts." He paused. "And the healer's blessing it. On the main deck. She says the Vigil won't use it otherwise."
+
+"Is she."
+
+"She's been at it an hour. Every cask." Rufo's hand rose to the lock above his ear and dropped again. "The lads are watching her do it. Nobody's said a word."
+
+"Thank you, Rufo."
+
+"Sir." He backed out, and the door shut, and the latch fell.
+
+Alana was looking at the door.
+
+"Two and a knock," she said. "I'd know that was Rufo anywhere."
+
+---
+
+The boats went in on the morning flood, in a white light with no warmth in it.
+
+The hamlet was empty. Marcus walked up from the jetty through it with Roderic and the first century while the boats pulled back for the rest, and the doors stood open on cold hearths and the tide-wrack of people who had left in a hurry: a creel of peats by a door, a shawl on a peg, a churn on its side in a byre with the milk gone sour and stinking in the straw. There was a smell under the peat smoke and the sour milk that he did not like and could not name. Every door had a mark chalked on it at shoulder height, a ring with a stroke through, and the chalk had run in the damp.
+
+"Survey?" said the General, low.
+
+"No." Marcus had seen the Survey's marks on the doors at Cyrene, the neat tallies, and these were not neat. "Somebody in a hurry. Somebody saying *we've gone*."
+
+There were three carts in the lee of the last byre, with their shafts on the ground, and no beasts to pull them. Gaius looked them over like a carter at a fair, kicked the wheels, lay down in the mud with his bad knee out straight to look at the axles, and got up muddy and satisfied.
+
+"They'll do. Men in the shafts, two teams turn about. They'll not go off the road." He looked up the moor, where the road climbed between its turf walls into the white. "Nothing will, I think."
+
+The oil came up the jetty cask by cask on the men's shoulders and into the carts. Each cask had a little sun drawn on its head in something dark that had dried glossy: Liora's finger, in oil, Marcus supposed, though he had not seen her do it. She came up the jetty last with her satchels and her hood back, and the men in the shafts moved over to let her by without being asked, and one of them took the satchel off her shoulder and put it in the cart, and she let him.
+
+They went up the moor.
+
+The road was peat, black and soft and cut deep between walls of turf higher than a man, so that for the first mile they walked in a trench with the sky a grey strip overhead. Then the walls sank away and the moor opened round them, and he wished they had not. It went on in every direction, brown and black and the dull purple of old heather, rising and falling in long swells like a sea that had stopped. Grey stones stood up out of it here and there, alone, leaning. Bog cotton nodded in the wet places in white tufts. The wind came over it with nothing to stop it and went through the cohort's cloaks and through their mail and into the bone, and it smelled of wet heather and of distance. Larks rose out of the heather ahead of them, singing.
+
+Above them on the high moor the fog lay where it had lain at dusk, white and thick and still, with the wind blowing straight through it and not moving a wisp.
+
+Kaeso had the drum on his back and did not play it. Nobody had told him not to.
+
+Rusca walked by Alana's side, in a borrowed cloak too long for her, with the hem looped up through her belt. She looked at the moor as she looked at everything, like a return whose figures were wrong; and once, when they passed one of the grey standing stones, she stopped and looked at it for long enough that Alana had to go back for her.
+
+"There's nothing in the Survey on this island," she said, catching up. "Nothing at all. I've read the north shore's books for six years. It's a blank page." She tucked the strand of copper hair back. "I thought it was because there was nothing here."
+
+"And now?"
+
+"Now I think somebody didn't want to write it down."
+
+They came over a rise at the end of the morning, and Cassandra was in the road.
+
+She stood in the middle of it with her feet apart, alone, a pace in front of the rest. Behind her the Vigil filled the road from wall to wall and spilled out into the heather on either side: white cloaks, all of them, wet to the knee and black with peat to the hem, over grey steel, two hundred women and some men standing as still as the stones. Some had spears. Most had a hand-bell at the belt, and not one of the bells made a sound in the wind.
+
+She did not move as they came up. She let the cohort come to her. She was tall, as tall as he was, and thin under the steel, with a long plain face reddened by the wind and two straight dark brows across it like a sentence ruled off. Her hair was hidden under a white coif and a plain steel cap. She was younger than he had expected. She could not have been much past thirty. She looked as if she had been standing in that road, in that wind, for most of it.
+
+"State your competence," she said, "or stand aside."
+
+The cohort stopped. It stopped all down the road, rank by rank, and in the quiet Marcus heard the wind in the heather and a lark going up somewhere, singing its head off.
+
+"Marcus," he said. "The king's son. The Fourteenth's penal cohort, out of Cyrene, some of the Lanciarii, and friends." He looked at her, and at the road behind her, and at the white fog on the hill. "We took the Kettle Bank and Cyrene and held them. We stood in Silverwood's wood and under Stoneheart's mountain, and this week we gave Viper's Fen back to its clans. My competence is that I've three carts of oil and a cohort that's not afraid of the dark, and you're two hundred, on a moor this size."
+
+"Two hundred is enough to hold a road."
+
+"It's not enough to empty an island."
+
+Her eyes moved over him, slowly, and then over the cohort behind him: the convicts in their patched cloaks, Sylara's warden bow, Rusca in Tharsian black under the borrowed wool. They came back to him. There was no expression in them at all. She was weighing him the way a sister weighs a wound, for what can be done with it, and he did not mind.
+
+Her teeth came together, once, with a small click he heard from three paces off.
+
+"Your oil," she said. "Blessed?"
+
+Liora came forward past him.
+
+She did it quietly, as she went into a ward, and the cohort let her through, and she stopped in front of the Knight-Abbess in the road with her hood back and the wind in her hair and her hands folded at her waist.
+
+"Knight-Abbess," she said. "The oil is in the third wagon. Every cask. You taught me the blessing yourself."
+
+Cassandra looked at her.
+
+Something happened in her face that Marcus could not read, and then it was gone, a gull's shadow over a deck.
+
+"I taught you the blessing," said Cassandra, "in a tent full of men with the stair in them, and you got the words wrong for a week." She held out her hand, palm down, and Liora took it and bent her head over it, briefly, the old way, and straightened. Cassandra did not let go at once. "You look well."
+
+"I am well."
+
+"You have not taken your vows."
+
+"No, Knight-Abbess."
+
+"No." Cassandra let go of her hand. "We'll talk of it." She looked past Liora at Marcus. "Bring your carts, Highness. And your friends."
+
+---
+
+She told him as they walked, in short sentences, like a list read out.
+
+The crypts had been opened in the autumn. Three of them, the three oldest: the long barrows on the high moor where the gray fever's dead had been laid a hundred years ago, and older dead under them. Their seals had been broken from the inside. The dead had come out at the first dusk of winter and walked down to the villages they had been carried up from, and knocked.
+
+"On their own doors," Cassandra said. "Every one of them goes home. They remember their own knock. The house that opens for it is a house of the dead by morning, and then there are more of them to knock."
+
+"And the fog?"
+
+"Came with them. Lies where they lie. Moves where they move, a little, and nowhere else." She did not look at the hill. "It is not a fog. I don't know what it is. It takes a lantern's light at ten paces and a torch's at twenty, and it is colder inside than out."
+
+"What opened the crypts?"
+
+"Something sits in the oldest of them, at the heart of the moor, and keeps them walking. We have not seen it. We have seen its candles." She glanced at him sidelong. "That's a matter for daylight and a great deal of your oil. Tonight is the villages."
+
+There were nine villages on the moor that still had living in them, she said. Her sisters were going to six. The other three she had not the hands for, and the nearest of the three was above this road, under the tor; and every soul in it that they got out to the chapel yard at Marrow Down by tomorrow's dawn was a soldier the enemy never got.
+
+"Marrow Down," said Liora, behind them.
+
+"Marrow Down," said Cassandra, and that was all she said about it.
+
+At the fork she stopped, and the Vigil went past her on the left-hand road in a long white file, silent but for their boots in the peat and the creak of their steel. She stood and watched the last of them go by, as Marcus had seen Valeria watch a column, counting nothing, missing nothing.
+
+"The village under the tor," she said. "Get them to the chapel yard by dawn. If you can't move them in the dark, and you can't, hold them till light." She turned to go and turned back. "When the dark comes they'll come down the lanes. Steel slows them. Fire ends them. If one of yours goes down, you'll have less time than you think. Oil and fire, at once. Don't wait for him to look at you."
+
+"I understand."
+
+"You don't," said Cassandra. "You will." She looked down the road at the cohort, the whole length of it, the convicts in the shafts of the carts and the Lanciarii with their hafts on their shoulders, and something of the gull's shadow crossed her face again. "Do not open for the knock. Tell them. Not once. Not for love." Her teeth came together. "*Especially* not for love."
+
+She strode off down the left-hand road after her women with her white cloak blowing, and did not look back, and the file of white cloaks went up into the white on the high moor until there was nothing in the road but the wind.
+
+---
+
+The village under the tor had shut itself up like a cockle in a bad tide, with the shell clamped and everything that was soft inside it.
+
+It stood on a shoulder of the moor below a crown of grey rock, a few score houses of stone and turf along three lanes that met at a chapel, and every gap between the houses had been closed. Marcus walked round it with Gaius in the middle of the afternoon and saw how. Pews, first: the chapel's oak benches, dark with a century of backsides, laid along the gaps on their sides and lashed with rope. Ploughs behind the pews, tipped up with their shares outward. Carts with their wheels off. Peat-stacks built up against it all, dense and black, a man's height, so that from the moor the village seemed to sit inside a wall of its own fuel. Hurdles from the folds. A cradle. A dresser with the plates still on it, he thought until he looked again, and saw that someone had nailed them there, edge out, so that a hand coming over in the dark would find them.
+
+"Who built this?" said Gaius. He had his rule out and was tapping it against his palm, which meant he approved of something and did not want to.
+
+"They did," Marcus said. "Whoever was left."
+
+Gaius bent and put his hand on a pew, on the oak, worn soft as felt along the edge where hands had held it to sit and stand. "They used what was holy because it was heaviest. That's builder's sense." He straightened, and his eyebrows went up, and stayed up, at the tor above them. "It won't hold a cohort. It doesn't have to. They don't climb, do they?"
+
+"I don't know."
+
+"Find out," said Gaius, "before dark."
+
+There was one gap kept open, on the west side, where the road came in. It was the width of a cart, and there was a cart standing in it, ready to be run across, with its wheels chocked and a rope on its shafts. And beside the cart, on a stool, in the open gap with the moor in front of him, an old man was sitting in the wind with a mallet across his knees.
+
+He watched them come. He did not get up. He was a big man gone thin, with long bones and a long grey face and white hair cut short with a knife, and a coat of brown frieze over a shirt that had been mended at both elbows by someone who knew how. His hands lay on the mallet. They were enormous, the knuckles swollen and the skin of them white with old grit that had gone so deep into the cracks that no washing would have it out; and laid out on a cloth beside the stool were a row of chisels, narrow ones, the narrowest Marcus had ever seen, bright at the edges and black along the shafts with the oil of the hand.
+
+"You're not the Vigil," the old man said. His voice was slow and northern and had peat smoke in it.
+
+"No. The king's. We've come to take you to the chapel yard at Marrow Down."
+
+"At night?"
+
+"At dawn. Tonight we'll hold you."
+
+The old man looked past him down the road, at the cohort coming up it with the carts, and the Lanciarii with their long spears, and Sylara walking with her bow strung and her hood back, already looking at the roofs. Something in the long grey face eased, as a rope eases when a second man takes the strain.
+
+"You'll want to come in, then," he said. "Before the light goes. We let nobody in after the light goes." He stood up, slowly, and Marcus heard both his knees. "And you'll want to hear about the knock."
+
+---
+
+There were more people in the village under the tor than Marcus had thought a place that size could hold, and most of them were in the chapel.
+
+It was the only place big enough, and the only one with a door that would bar, now that its pews were in the wall. They had laid heather and blankets on the flags where the benches had been, and the place was full of bodies, women and children and the old, with the young men up on the roofs or in the lanes; and it was warm with them, and close, and it stank of peat smoke and boiled mutton and steaming cloaks and the sour smell that is people who have been afraid for weeks in a shut room. A great iron pot hung over a fire in the middle of the floor with the smoke going up through a hole in the roof, and an old woman was stirring it, and when the cohort came in at the door every face in the place turned and looked at them, and the children in front looked at Kaeso's drum.
+
+Marcus had stood in a good few rooms in the last half-year where people looked at him like that. At Cyrene on the quay of torches. At Stoneheart in the hungry halls, with Hulda's scales. He knew what to do in them, and he did it: he went in among them and spoke to the old woman at the pot, and asked her what was in it, and was told mutton and barley and the last of the kale, and was offered a bowl, and took it, and ate it standing among them, hot and greasy and thick with barley, with the fat on top that the cold wants. The children watched him eat. One of them, a girl with a scab on her chin, came and stood at his knee and looked up at him.
+
+"Are you the king?"
+
+"No. I'm his son."
+
+She thought about this. "Is he coming?"
+
+"Not today," said Marcus. "He sent me."
+
+She went back to her mother, satisfied, it seemed, with the second-best; and Marcus put down the bowl. The old man from the gap had come in behind him and was standing at the foot of the chapel with his chisels rolled in their cloth under his arm, looking up.
+
+Over the inside of the chapel door there was a lintel of grey moor stone. The walls round it were black with smoke and the roof-beams green with it, but somebody had kept the lintel clean, and there was nothing on it at all: a long plain block, dressed smooth, with the light from the roof-hole lying along its face.
+
+"No song on this one," the old man said, to nobody in particular. "Only the dead's doors get a song."
+
+Alana had come up beside them. She looked at the bare stone, and then at the roll of cloth under his arm, at the black shafts of the chisels showing at its end.
+
+"What kind of song do you cut?"
+
+"The one." He did not look away from the lintel. "There's only the one. I've cut it eleven times in fifty years, on eleven doors, and I couldn't tell you a word of it, miss. I can tell you how it goes in the stone. That's what I was taught. My father cut it, and his mother, and her father, and back. Nobody's read it in a long while." He raised a great grey forefinger and drew in the air under the plain stone, small and quick, a run of marks like the tracks of birds on wet sand. "You go in at the top of each stroke, like so, and you come out at the foot of it, and you don't go back. You never go back over a stroke. If you slip you start the whole lintel again."
+
+Alana's lips had moved, following his finger. She stopped them.
+
+"What does it do?"
+
+The old man was quiet.
+
+"It sings them down," he said.
+
+---
+
+He told it in the chapel with the roof-hole going grey, to Marcus and Alana and whoever was near enough to hear, which was more of the cohort than had been near at the start. He told it plainly, not as a story; like directions for a road.
+
+There had been people on the moor before there were kings. His people. It was a cold place then as it was now, colder, and the winters were long, and when someone died in the winter you could not dig for them, the ground was iron, and you could not burn them, there being no wood. So you kept them. In the cold. In the back room, or the byre. And the people of the moor had loved their dead as people do, and they could not bear the long months with the dead in the byre and the empty place by the fire; and somebody, long ago, had found out how to write on them.
+
+"Write on them," said Alana. She had gone still.
+
+"So they'd stay. Sit by the fire with you through the dark months. Cut the peat. Come in out of the snow at night, and knock, and you'd let them in, and they'd sit." The old man's voice did not change. "It was done out of love. Every time. It was a loving thing."
+
+Behind Alana, Rusca had come forward out of the crowd. She stood there in her borrowed cloak with her freckled hands in her fingerless mitts, and her face was white under the freckles, and she said, in her low clerk's voice:
+
+"Where did they write it?"
+
+The old man looked at her. He looked at the black cloth under the wool, and the amber eyes, and he knew what she was, Marcus saw. Everyone in the north would know the Survey's black.
+
+"Where you'd kiss them," he said. "To say goodbye."
+
+Rusca did not move. Her hand went to her cuff, to the linen there, and held it, and she stood holding it and looking at the old man, and said nothing at all.
+
+He went on. It had gone wrong, he said, the way that kind of thing goes wrong. The writing outlasted the writers. It went from the dead to the living like a cough through a house in winter, and the living sickened grey and died, and were written, and got up, and went home and knocked; and in the end there were more of them knocking than there were living to let them in. And the ones who were left made the songs to sing them down, and cut them over every crypt door on the moor, and swore off the writing for good and all.
+
+"The gray fever," said Alana.
+
+"That's what it does when it wakes. The old writing. It was asleep under the songs a long while, and then a hundred years ago it woke, and took the moor one lantern at a time. My grandmother's time. And the songs sang it down again." He looked up at the lintel. "That's why it's called what it's called. The kingdom says Ghoul's End because it thinks this is where the ghouls are. That's not what it means. We've only the one meaning for it, here. It's where they were ended. Twice."
+
+"And now," said Marcus, "three times."
+
+"If somebody re-cuts the three doors." The old man turned his chisels over in their cloth under his arm. "There's three crypts with their songs scratched off. Scratched, mind. Not broken. Somebody sat there with a knife and took them off the stone a stroke at a time, careful as you like. Somebody who knew what they were." He was quiet. "I'm the last that can put them back."
+
+"What's your name?" said Marcus.
+
+"Frostweed," said the old man. "Hart Frostweed."
+
+The chapel went quiet.
+
+It was not a quiet he had heard there before. The cohort's men had been talking low at the back, as soldiers do in a strange place, and the talk stopped all at once. Somebody near the pot began under his breath, *Weed*, and caught himself on it, and stopped. Marcus did not turn round to see who.
+
+Liora was kneeling by the wall with a child's foot in her lap, a cut on its sole, and her hand was over the cut with the gold coming faint under her palm; and she did not look up. She kept her head bent over the foot, and the honey of her hair hid her face, and she went on with what she was doing until it was done.
+
+Hart Frostweed looked round at the silent soldiers.
+
+"It's a moor name," he said. "It's a plant. Grows by the walls. Come the first hard frost, it splits up the stem and pushes out ice, in ribbons. Pretty thing. Doesn't last."
+
+"It's a good name," said Rufo, from the back, roughly. "Sir."
+
+---
+
+He told them about the knock at the gap, with the cart beside him, while the light went.
+
+His brother was out there. Col, he said. The younger by three years, and a cutter like himself, Marrow Down born, as all the cutters were; but Col had married up here under the tor, and given the chisels up for sheep when his eyes went, and Hart had come up from Marrow Down in the autumn to sit with his widow. Col had died in the autumn, before any of this, of being old, in his own bed, with his wife holding his hand and the peat fire going; and they had carried him up to the long barrow on the high moor and laid him in with the others, under the lintel Hart had cut there forty years ago.
+
+"I cut that song," he said. "I cut it for him, when I cut it, and didn't know."
+
+Since the first winter dusk Col had come down every night. He knocked at the door of his own house, at the top of the lane by the tor. Then, when nobody opened, he came round to the gap and knocked on the cart, because the gap was where his brother was.
+
+"He remembers his own knock," Hart said. "That's the worst of it. He always knocked twice and then once, our Col. Ever since he was a boy coming in from the hill. Two, and one. So you'd know it was him." His big hands lay on the mallet. "He still does it."
+
+"And you sit here."
+
+"Somebody has to sit at the gap. I'm old. I sleep in the day." Hart looked out across the moor at the fog, which had begun to come down off the high ground with the dusk, not like weather, not rolling, but sliding, low and flat and thick over the heather, like a tide coming in over sand. "He's empty. I know he's empty. The sister told me, the tall one, she came through here at the start. *Do not open.* I've not opened." He turned the mallet over. "But I sit by him. I'll not have him knocking on a door with nobody behind it."
+
+---
+
+They came at dusk.
+
+Marcus had the cohort in the lanes and the Lanciarii at the gap, and Sylara on the chapel roof with her bow and every arrow Gaius had been able to wrap in oiled rag; torches in every hand that could hold one, and the carts drawn up across the lane-mouths inside the barricade with the oil casks open on them and a man at each with a ladle. He had given each order once, and each was done before he had finished giving the next. He stood in the middle of the village where the three lanes met, by the chapel steps, and felt the whole of it set round him, every man where he had put him, like the parts of a lock; and the feeling was so good that he was a little ashamed of it.
+
+Then the fog came over the barricade.
+
+It came over the peat-stacks and the pews as water comes over a weir, flat and smooth and silent, and down into the lanes, and filled them. It was cold. He felt it on his face first and then through his cloak, a wet cold with nothing of the sea in it, nothing of the moor: it smelled of nothing at all. The torches shrank in it. He could see the next torch along the lane, a smudge of orange, and the one past it was gone. The men he had placed like the parts of a lock were shapes, then voices, then a voice, and then a breathing in the white that might have been anyone's.
+
+"Steady," said the General, somewhere ahead in it. Not loud. "Steady, now."
+
+The first knock came from the top of the lane by the tor.
+
+Two raps and one. Faint, on wood, far off in the white. Then, from somewhere else, a different knock: three slow raps, a heavy hand. Then another, further down, quick and light, a woman's or a child's. Then they were all over the village, on every door that had a door, on the shutters, on the pews in the barricade, on the planks of the carts; dozens of them, each one different, each one patient, each one stopping and waiting and beginning again, until the whole white silent village was knocking softly to itself like rain on a roof.
+
+A man in the lane near Marcus began to pray under his breath. Another told him to shut up, and he went on, and the other let him.
+
+"*Sir*." Rufo's voice, ahead, where the lane met the eastern barricade. Wrong. "Sir, there's—"
+
+Marcus went up the lane toward it with a torch, into the white, and Rufo's back came out of the fog in front of him, broad as a door; and then, as he came up, Rufo stepped back.
+
+Only one step. A big man, braced, with his shield up and his sword out, stepping back from something in front of him on the barricade, a single heavy step that put him onto Marcus's foot.
+
+There was a woman on top of the peat-stack.
+
+She had come up it out of the fog on the moor side, slowly, on her hands and knees, and she was kneeling on top of it now with one hand flat on the peat, looking down into the lane. She wore the long white linen of the grave, and it was dark with the peat she had lain in and torn at the knees. Her hair was grey and plaited for burying, neatly, by somebody who had loved her. Her face was the grey-white of tallow, and her eyes were open, and there was no breath coming out of her mouth into the cold air at all, and she was looking at Rufo like a woman at her door, watching a man come up the path, to see if he was the one.
+
+Rufo stood with his shield up and the point of his sword wavering. Marcus could hear him breathe.
+
+"Rufo."
+
+"I know, sir."
+
+"Rufo, it's—"
+
+"I know." He did not move. His voice was quiet. "I know what it is. I've seen them walk out of a ford. I know."
+
+Liora came past Marcus in the fog.
+
+She had a torch in one hand and her other hand was empty, and she walked up beside Rufo in her white sleeves until she was at his shoulder, and stood there, a small woman beside a big one, and looked up at the thing on the peat-stack, and then at him.
+
+"They're empty, Rufo," she said. Gently. As she might have said it to a child who woke in the night. "There's nobody in there. There's nobody home to get. Guard the living."
+
+Rufo let out his breath.
+
+He stepped forward again, onto the ground he had given, and put his shield up square, and the dead woman on the peat-stack reached down for him with her grey hand, and he took the hand off at the wrist with one short chop and put the edge of his shield into her face, and she went over backward off the stack into the fog. Liora threw the torch after her. There was a soft sound, out there on the moor side, a sound like a rag catching, and a light leapt up beyond the peat, and in it, briefly, through the white, Marcus saw the shapes of others, standing, coming up the slope one after another to the barricade, slowly, without hurry, as people walk who are coming home.
+
+"Oil!" he shouted. "Oil on the east side! Sylara! *East!*"
+
+---
+
+After that it was fire and fog for hours, and he would remember it afterward in pieces.
+
+A ladle of oil going over a pew in a long dark rope, and the man who threw it shouting as it caught. A village lad on a roof above the lane with a peat-spade, knocking a grey hand off the eaves as if he were clearing snow. Sylara's arrows coming down out of the white over his head one after another with a sound like tearing silk, little flying lamps, and lost in the fog before they landed so that he never saw them land, only heard them, a soft thump and a whoosh beyond the barricade, and a light. The General's voice, never loud, never stopping, somewhere in the lane by the chapel: *Hold there. Good. Hold there. Tappo, the torch, over, there, good lad.* A child crying in the chapel behind the barred door, on and on, one note, and its mother singing to it, and the knocking, all the time the knocking, on every door, two and one and three and quick and slow. Alana at the head of the north lane with her hands up and the fire going out of them along the pews in a sheet, so that for a breath the whole lane stood out in the white, every stone, every face; and afterward Alana on a doorstep with her hands between her knees, shaking, and Rusca crouched beside her in the borrowed cloak, holding a cup to her mouth.
+
+They did not climb well. That was something. Gaius had been right about that and so had the barricade: the dead came at it slowly and stupidly and without fear, and tried to come over it, and the pews and the ploughs and the nailed plates held them for the space of a breath while the oil went over and the fire came after it. Steel slowed them. Fire ended them. The cohort learned it in the first hour and then stopped having to think about it, and worked, in the white, with the stink of burning linen and burning hair and something underneath it, sweet and heavy, coming in over the barricade on the fog.
+
+Valeria held the gap. He saw her once, through a thinning, standing in front of the cart with the Farrier in both hands and the Lanciarii on either side of her with their lanceae levelled, and the dead coming at the gap out of the white in ones and twos, and the long narrow heads going out and in, out and in, like a weaver's shuttle, and the dead going down. She was saying something to the men on either side of her, over and over, too low for him to hear. Then the fog closed.
+
+And through it all, in the gap, on his stool, beside the cart with its chocked wheels, sat Hart Frostweed with his mallet on his knees, and did not move.
+
+---
+
+It was near midnight when the man went down.
+
+He was on the south side, in the lane below the chapel, where the barricade was lowest and the cohort's line was a single file of shields along the pews with the fire-men behind. Marcus was ten paces off with a torch, coming down the lane to see how the oil was holding. He saw it in a thinning of the fog, for a moment, clear as a lamplit doorway: a dead man coming over the pews with a peat-spade in his hands, an old man in a burial shirt, swinging the spade as he must have swung it every spring of his life, the long slicing stroke that takes a sod clean off the bank. The man in the line in front of him had his shield up for a blow from above, and the spade came in low under the rim, flat, and took him across the belly through the mail, and he sat down in the lane.
+
+Rusticus killed the dead man with a stroke to the neck and the fire-man behind put oil on him, and he burned on top of the pews.
+
+The man who had sat down was trying to get up. He had his hands over his belly and he was trying to get up with them there, and he could not, and he looked surprised. Marcus knew his face. He had known it since the beach at Cyrene: a big-eared man, a quiet one, who stood in the second rank and sang flat when the cohort sang, and had once mended Marcus's sandal-strap at a fire without being asked, and said *There* when he handed it back. He could not think of his name. He stood in the lane with the torch in his hand and could not think of the man's name.
+
+"Liora!" he shouted. "*Liora!*"
+
+She came down the lane at a run with her sleeves black to the elbows, and knelt in the mud by the man, and put her hands on him, over his, and the gold rose under them at once, bright, brighter than Marcus had seen it in a long while, so bright that the fog round them went gold for an arm's length in every direction. Salvius was on his knees on the other side holding the man's head. Rusticus stood over the three of them with his shield up and his back to them, facing the pews.
+
+The gold went on and on. Then it went out.
+
+Liora did not take her hands away. She knelt there with her hands on him in the dark and the fog closed back round them, cold, and Marcus saw her shoulders go up once, and down.
+
+"No," she said. "No. It went too deep. I'm sorry. I'm so sorry."
+
+The man lay on his back in the lane with Salvius holding his head. His eyes were open and they were looking up past Salvius at nothing, at the fog, and his mouth was a little open. There was no breath coming out of it. That bit of the lane went quiet. Even the knocking seemed to have stopped.
+
+Then the man's hand moved.
+
+It moved on his belly, under Liora's hands. It turned over, slowly, palm up, as a sleeper's hand turns over in the night. Liora went still. Salvius's face changed, and he looked down into the open eyes from above, close, and said the man's name, a question, and Marcus did not catch it under the knocking. "Lad, you—"
+
+The dead man began to sit up.
+
+He did it the way he had tried to sit up when he was alive, with his hands on his belly over the wound, only this time he could; and he came up out of Salvius's hands and turned his head and looked at Liora, kneeling in the mud close enough to touch, with his eyes open and grey and clouded already, and no breath, and nobody in them. He was wearing his wound. It was open across his belly under his hands, dark, and it did not trouble him at all.
+
+*Don't wait for him to look at you.*
+
+"Salvius," said Rusticus, from behind his shield, not turning round. His voice was perfectly steady. "Get her back."
+
+Salvius got her back. He took Liora under the arms from behind and hauled her backward through the mud, and she did not fight him; and Rusticus turned from the pews and put his short sword through the dead man's eye, all the way, and held it there. The man who had sung flat in the second rank went over sideways in the lane and lay still. Then Salvius had the ladle and was pouring, his face wet, his mouth moving, pouring the whole of it, more than it needed, and Rusticus took the torch out of Marcus's hand without a word and put it down, gently, at the man's side.
+
+They stood back from it, the two brothers, shoulder to shoulder, with their shields hanging, and watched him burn.
+
+Marcus watched with them. His hands were not steady. He put them under his cloak. The fire burned low and blue and then yellow on the cobbles of the lane, and the fog drew back from it a little, and the stink came up, and Salvius was sick against the chapel wall, and wiped his mouth, and stood by his brother again.
+
+"He mended my strap," Marcus said, to nobody. "At Cyrene. He mended my sandal-strap."
+
+"He did that," said Rusticus. "He was always mending something." He did not take his eyes off the fire. "Fingers was taking wagers on it. How long before he'd mended something of every man in the century." He swallowed. "He was nearly there. Fingers was going to pay out at midsummer."
+
+Later, much later, when the fire was out and the man was ash and bone on the cobbles and the knocking had gone on again, Liora was sitting on the chapel steps with her black hands in her lap.
+
+"His name," Marcus said. "I'm sorry. I couldn't— What was his name?"
+
+She told him.
+
+He said it over to himself, sitting down beside her on the step in the cold. He would put it on the roll, he thought, under the ninety-one, though it did not belong there. He would ask Rusticus where he was from. He sat with it, and she sat beside him, and after a time she leaned, a little, so that her shoulder touched his; and they sat like that in the fog, and at their backs, behind the barred door, the child was still crying, and its mother was still singing to it.
+
+---
+
+Toward the end of the night, when the fires along the barricade had sunk to embers and the dead had stopped coming at the pews and the knocking was thinning, Marcus went down to the gap.
+
+The fog was thinner there. The Lanciarii were sitting on the ground on either side of the cart with their lanceae across their knees and their backs to the pews, most of them asleep where they sat, as soldiers sleep, all at once and anywhere. Valeria was not asleep. She was sitting on an upturned creel a little way inside the gap with the Farrier upright against her shoulder and her head against the haft, watching the cart, and she did not look round when he came, but she moved over on the creel to make room, and he sat.
+
+The cart stood across the gap with its wheels chocked. On this side of it, on his stool, sat Hart Frostweed, with his back to them and his mallet on his knees.
+
+On the other side of it, something knocked.
+
+Two raps, and one. Soft. On the planks.
+
+Then a wait. Then two, and one.
+
+"He's been there an hour," Valeria said, low. "Since the fires went down. The others went back up the moor. He didn't. He's not tried the cart. He only knocks."
+
+"Has the old man spoken?"
+
+"Listen."
+
+Hart was talking. Marcus had not heard it at first under the wind; it was a low slow sound, like a man talking to a horse in a stall. He had leaned forward on his stool with his elbows on his knees and his face close to the planks of the cart, and he was talking to his brother through them.
+
+"…the north fold's down again, I told Una she'd want to get somebody to it before the lambing, but she's not been out to it, nobody has. Your ewes'll be all over the moor. They'll want gathering when this is done. I'll do it. I know your marks." The knock came, two and one. Hart waited until it had finished, politely, as for a friend finishing a sentence. "Aye. I know. There's a prince here. Come all the way from the south, with a lot of lads in red and a fair woman with a spear that's not sat down till this hour. They've burned half the moor. You'd have laughed. You always said the moor wanted burning." Two, and one. "No. I'll not open. You know I'll not. You'd not want me to, if you were in there. You'd box my ears."
+
+Valeria's thumb was moving on the haft of the Farrier, slowly, up and down, on the place worn smooth. Marcus looked away from it.
+
+"I cut your song," Hart said through the planks. "Forty years back, on the long barrow. I'll cut it again. Day or two. Then you can lie down." Two, and one. "I know. I know you are. I'm here."
+
+The fog lay along the moor beyond the cart, grey now and not white, with the first of the light coming into it from somewhere behind the tor. The knocking had stopped everywhere else in the village. There was only this one, soft, patient, on the planks of the cart, two and one, and an old man's voice answering it.
+
+Marcus sat on the creel beside Valeria with his cloak round him, and listened, and gave no orders.
+
+Hart Frostweed talked to his brother until it was light.

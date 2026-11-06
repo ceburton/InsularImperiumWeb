@@ -55,7 +55,7 @@ test('the Book Two audiobook has its own podcast feed and links back to Book One
   const res = await request.get('/media/audiobook/book-two/feed.xml');
   expect(res.ok()).toBe(true);
   const xml = await res.text();
-  expect(xml).toContain("<title>Insular Imperium: The Heir's Promise</title>");
+  expect(xml).toContain('<title>Insular Imperium: The Heir&apos;s Promise</title>');
   expect(xml.match(/<item>/g)?.length ?? 0).toBe(chapters.length);
   for (const c of chapters) expect(xml).toContain(`<guid isPermaLink="false">insular-imperium-book-two-audiobook-${c.slug}</guid>`);
 });

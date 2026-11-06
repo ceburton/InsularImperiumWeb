@@ -1,4 +1,4 @@
-# Insular Imperium: The Road to Defeat
+# Insular Imperium: The Heir's Promise
 
 *All finished chapters, in reading order.*
 

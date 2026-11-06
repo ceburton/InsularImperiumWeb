@@ -6,8 +6,8 @@ import { books, readerBook } from '@/lib/books';
 import { splitChapters } from '@/lib/story';
 
 export const metadata: Metadata = {
-  title: 'Read The Road to Defeat | Insular Imperium',
-  description: 'Read Insular Imperium: The Road to Defeat, Book Two, with adjustable fonts, comfortable themes, and saved reading progress.',
+  title: "Read The Heir's Promise | Insular Imperium",
+  description: "Read Insular Imperium: The Heir's Promise, Book Two, with adjustable fonts, comfortable themes, and saved reading progress.",
 };
 
 export default async function BookTwoStoryPage() {

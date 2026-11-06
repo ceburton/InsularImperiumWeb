@@ -1961,7 +1961,7 @@ Then Alana got up, and turned on her heel toward the floor, and lifted her right
 
 He laid the back of his wrist under her fingers, as the court does it.
 
-They went out onto the floor between the tables, and up in the gallery the musicians found the measure, and the hall watched them.
+They went out onto the floor between the tables, and up in the gallery the musicians found the measure, and the hall watched them. She walked it as a princess of the court walks it, on the prince's wrist, with her chin up and the violet moving heavy round her ankles; and she liked it. He could feel her liking it in her fingers, light as they were, and see her try to keep it out of her face, and not quite manage it at the eyes.
 
 He did not see much of the hall after that. He saw her. The Corvus women had put up her hair for the court, pinned high and close, with a comb of horn in it at the back; the good violet was laced close, and she held her skirts down in her free hand, so that nothing showed of her below the hem but the toes of her shoes on the turns. It was the slowest dance the court had. The walk round, her fingers on his wrist, her eyes on his face. The great turn under his lifted arm, slow, the violet going round her heavy and settling again. The passing, back to back, near enough to feel the warmth of her through his coat, and not touching. He had danced it every Midwinter since he was a boy, with a great many daughters, and had never once looked at any of them while he did it. He did not look at anything else.
 
@@ -6651,7 +6651,7 @@ Behind Gaius on the platform somebody made a noise and turned it, too late, into
 
 ---
 
-Alana checked his figures that afternoon.
+Alana came to copy his figures that afternoon.
 
 She came down to the catapult-halls when the others had gone, with the weather-book under her arm and a slate, where he was on his knees on the chalk at the far end of the drawing, where the Long Seam went down into the water and there was nothing more he could draw, with his own slate beside him covered on both sides.
 
@@ -6663,17 +6663,19 @@ It was not for the fight. The fight was Rufo's, and the dark's. The form was for
 
 But the cut was not a mole. The sea in it ran hard, both ways, twice a day. And a form that would hold the mortar against that, and stand while it set, wanted timber of a size, and a weight of stone in it, and a way of getting it down there in the dark, and he had done the figures three times and got three answers, close together, and not close enough.
 
-Alana sat down on the floor beside him, which a princess of the old court should not have done, on chalk, and took his slate out of his hands, and read it.
+Alana sat down on the floor beside him, which a princess of the old court should not have done, on chalk, and opened the weather-book on her knee, and waited with her pen in her mouth.
 
-She had her pen in her mouth. Once she rubbed something out on his slate with her thumb and wrote it in again, smaller, and said "No," to herself, quite softly, and then "Yes."
+"Walk me through it," she said. "Slowly. I want it fair for the book."
 
-"Your second sum is right," she said at last. "Your first had the weight of the sea in it twice. Your third forgot it had already counted the stone." She gave him back his slate. "It's the second."
+So he did. He read her the first sum aloud, line by line, as she wrote, and halfway down it he stopped, because he heard himself put the weight of the sea in twice. He read her the third, and heard it count the stone a second time, as if it had forgotten it already had. The second he read to the end without stopping.
 
-He looked at it. She was right. He could see it now, the moment she said it, the line where the first had doubled itself.
+"It's the second," he said.
 
-"Nobody else could have done that," he said.
+"Then that's the one I'll copy." She wrote it out, small and square, under the date, and blew on it. "You'd have found it without me."
 
-"Nobody else had to." She was looking down the chalk, the long length of the Long Seam, to the door where the others had gone. She was very still. "There's no fire down there," she said. "None at all."
+"Not today."
+
+"Then I'm glad I came today." She was looking down the chalk, the long length of the Long Seam, to the door where the others had gone. She was very still. "There's no fire down there," she said. "None at all."
 
 "None."
 
@@ -6683,7 +6685,7 @@ He did not know what to say to her. He thought about it, and then he said, "The 
 
 Alana looked at him.
 
-"I'll want them checked," said Gaius.
+"I'll want someone to keep the record," said Gaius. "Every figure, fair, as I do them. And the halls' measures out of their own books. They're in the dwarf script, and the old foot. I can't read either."
 
 She looked at him a moment longer. Then she took her slate back off her knee, and turned it over to the clean side, and wet the end of her pen.
 
@@ -6693,7 +6695,7 @@ She looked at him a moment longer. Then she took her slate back off her knee, an
 
 The dwarves bathed in the evening, all of them, every evening, in a long low hall of their own below the guest hall, where water from somewhere hot in the mountain ran through a stone channel the length of the floor and steamed, and smelled faintly of eggs. They bathed together, men and women and children, without any fuss at all. The cohort had got used to it, more or less. Vatinius had not.
 
-Gaius did not bathe. He sat on the bench at the door of the guest hall with the slate on his knee and the form on the slate, going over the second sum because Alana had said it was right and he wanted to know why he had not seen it. He had been at it for some time when Liora came back up from the warm hall.
+Gaius did not bathe. He sat on the bench at the door of the guest hall with the slate on his knee and the form on the slate, going over the second sum. He had been at it for some time when Liora came back up from the warm hall.
 
 She had washed her hair. It was down her back, dark with wet, and she was combing it with her fingers as she came. She had washed her clothes too. They were over her arm. What she had on instead was a dwarf woman's kilt, of soft grey wool, and a dwarf woman's shirt, and both of them had been made for a dwarf woman.
 
@@ -8677,15 +8679,15 @@ The shaft was the other half of it, and the shaft was Alana's.
 
 It went down from the head of the Long Seam to the Foot, where the great old pump-head stood in the black water with its beam and its bob and its barrel gone green: a square hole in the rock, deep enough that a stone dropped into it took a long breath before it struck. It had been the halls' sump since there were halls, and now the sea sat at the bottom of it, rising and falling twice a day, a long way down.
 
-To get the deep iron back the halls would have to lift the sea out of the shaft once the form had shut the door behind it, and keep lifting what wept in after. One pump would not do it, nor six. Gaius wanted a stair of wheels: great treadwheels set one above another up the shaft on landings cut in the rock, each lifting to a cistern on the landing above, where the next took it up. He had drawn it in an afternoon. The figures for it were not his. He had handed them to Alana on the night before the galleries, and she had been doing them since.
+To get the deep iron back the halls would have to lift the sea out of the shaft once the form had shut the door behind it, and keep lifting what wept in after. One pump would not do it, nor six. Gaius wanted a stair of wheels: great treadwheels set one above another up the shaft on landings cut in the rock, each lifting to a cistern on the landing above, where the next took it up. He had drawn it in an afternoon, and done its figures in three nights. The measures were not his. The shaft had been cut and recorded by the halls' old foot, in the dwarf script, in books he could not read, and he had handed the record to Alana on the night before the galleries, and she had been reading it since.
 
 Alana was at the oak door in the afternoon when he came, where the shaft's figures came up to be worked because a lamp could be lit there, sitting on a block of coal with the weather-book shut beside her and a slate on her knees, a stick of chalk in her fist and two dwarves crouched in front of her with their own slates, all three of them in the light of one shielded lamp. One of the dwarves was a bronze-founder from Brokk's halls, square as a stove, with no eyebrows. The other was very old and very small and had a measuring-cord coiled over her shoulder, knotted at intervals, with a bead of bronze at every knot. Neither of them was talking. Alana was.
 
-"Then the third landing's wrong," she said, "or your cord is."
+"Then the third landing's wrong in my copy," she said, "or your cord is."
 
 The old dwarf looked at her, and then unslung the cord and handed it to her, without a word, and Alana counted the beads under her thumb and frowned, and handed it back, and wiped out a line on her slate with the heel of her hand.
 
-"The landing's wrong," she said. "I'm sorry. I had it by the old foot."
+"My copy's wrong," she said. "I'm sorry. I read it by the new foot, and the book had it by the old."
 
 "Hah," said the bronze-founder.
 
@@ -8695,7 +8697,7 @@ The old dwarf said something in their tongue, a long sentence with a great many 
 
 They all three looked round at him. He had not meant to speak. Alana pushed her hair back off her face with her chalky wrist and left a white streak along her temple.
 
-"She said I'm the first human she's met who apologises for being right about the wrong thing," said Alana. "I think it was a compliment. I'm not sure."
+"She said I'm the first human she's met who apologises for reading the wrong foot," said Alana. "I think it was a compliment. I'm not sure."
 
 "It was," said the bronze-founder. "She doesn't make many."
 
@@ -8703,15 +8705,15 @@ They all three looked round at him. He had not meant to speak. Alana pushed her 
 
 Alana looked at him. Then she looked at the old dwarf, and the old dwarf at her, and some agreement passed between them that he was not part of.
 
-"Far enough," said Alana, "that if we'd done it by the old foot we'd have built the bottom wheel a man's height under the water and not known until we drowned somebody trying to tread it." She turned the slate round so he could see it, and he looked at it, and it was columns, small and fast, in her hand, and in the old dwarf's, which was square and very black, side by side down the slate as if two clerks had been keeping one book. "Eleven wheels. Brokk thinks nine. Brokk is wrong, and he knows it, and he'll say nine at supper anyway, because nine is a better number for the halls to hear."
+"Far enough," said Alana, "that if Gaius had built from my first copy he'd have put the bottom wheel a man's height under the water, and nobody would have known until we drowned somebody trying to tread it." She turned the slate round so he could see it, and he looked at it, and it was columns: the halls' measures in the old dwarf's hand, which was square and very black, and beside each one the same measure in Alana's, small and quick, side by side down the slate as if two clerks had been keeping one book. "It goes to Gaius tonight, fair. He says eleven wheels."
 
-"Is it?"
+"Brokk says nine."
 
-She turned the slate back. "Eleven, they'll want to know who's feeding the men who tread them." She looked at the shaft, at the black square of it going down, and at the faint shine at the bottom where the sea was. "Brokk's going to ask you that."
+"Brokk will say nine at supper, because nine is a better number for the halls to hear. Gaius will say eleven, because it's eleven." She turned the slate back. "And at eleven the halls will want to know who's feeding the men who tread them." She looked at the shaft, at the black square of it going down, and at the faint shine at the bottom where the sea was. "Brokk's going to ask you that again. Before the halls."
 
-"He's already asked me."
+"He's already asked me once."
 
-"I know," said Alana. "I was there." She bent her head to the slate again. "Go away, Marcus. You're in my light."
+"I know," said Alana. "I was there." She looked up at him, with the chalk on her temple, and for a moment she forgot the slate on her knees altogether. Then she caught herself at it, and bent her head to the old dwarf's column again.
 
 He went away. At the turn of the gallery he looked back, and the three of them were bent over the slates again in the lamplight, with their heads nearly touching, and the old dwarf had put out one square black finger and laid it on a figure in Alana's column, and was saying something, and Alana was nodding.
 
@@ -9189,19 +9191,17 @@ He wanted it too.
 
 He wanted it so badly that he could feel it in his chest like a held breath: the long quay and the steam off the gutters and Prisca's lamp in her window, the step on the lane the town walked round, Fausta's oven, the boys. He wanted to walk up the long stepped lane and see the step, and put his hand on Pullus's shoulder, and on Tuccius's, and not say anything. He had been Prefect of that town before he had been anything worth the name. He had not been there.
 
-He looked at Gaius, who wanted it too, and could not leave the form. He looked at Valeria, who was doing a sum of ships and wind and days and would give it him in a moment, and it would be honest, and it would say *three weeks too late*, and it would make no difference to anyone at the door. He opened his mouth.
+He looked at Gaius, who wanted it too, and could not leave the form. He looked at Valeria, who was doing a sum of ships and wind and days and would give it him in a moment, and it would be honest, and it would say *three weeks too late*, and it would make no difference to anyone at the door. He looked at Alana last. She had not moved. She sat at the end of the bench with the weather-book shut on her lap and her hand flat on it, and looked at him, and not at the door, and waited.
 
-"We finish it," said Alana.
+"We finish it," said Marcus.
 
-She said it quietly. She had not moved. She sat at the end of the bench with the weather-book shut on her lap and her hand flat on it, and looked at him, and not at the door.
+He said it quietly. He had been going to say it with a great deal more in front of it, and found when it came that he did not need any of the rest.
 
-"The halls are hungry," said Alana. "The seal isn't set. The pumps aren't built. If we go now, the sea comes back in, and the Survey comes back with it, and everything Sten Hammerlee held that post for is under water again by the spring." She looked at the letter on the bench between them. "Cyrene's kept. It says so. The man who kept it wrote to tell us so, and not to come. There's nothing in it asking us to come." She looked back at Marcus. "We finish it. Then we go home."
+The trough was quiet. Then Alana opened her hand on the book.
 
-Marcus found that he had shut his mouth.
+"He's right," she said. "The halls are hungry. The seal isn't set. The pumps aren't built. If we go now, the sea comes back in, and the Survey comes back with it, and everything Sten Hammerlee held that post for is under water again by the spring." She looked at the letter on the bench between them. "And Cyrene's kept. It says so. The man who kept it wrote to tell us so, and not to come. There's nothing in it asking us to come." She looked back at Marcus. "That's what they'll ask you, at the door."
 
-It was, too, what he had been going to say. Not the same words. He had been going to say it with a great deal more in front of it, and the men at the door would have heard it and done as they were told. She had said it in three words, before he could start, and he had not known until she said it that he was going to say it too.
-
-He looked at her. She looked back. Neither of them said anything.
+He looked at her. She looked back. Neither of them said anything more.
 
 Then he got up and walked down the guest hall to the door.
 
@@ -9234,6 +9234,8 @@ He had stood in it twice before, once with Gaius and the salt and once with the 
 Hulda sat in her chair of black iron at the head of the trough with the ring on her thumb. Beside her, on a stool, was the old dwarf with the measuring-cord from the oak door, and on the old dwarf's knees was a book.
 
 It was the biggest book he had ever seen. It was as long as a child and nearly as broad, bound in boards of oak with bronze at the corners, and its leaves were not paper but thin scraped hide, dark with handling at the edges. It lay open on her knees. She had a reed pen behind her ear and a horn of ink at her feet.
+
+Alana had come in on his arm, the court way, her fingers on his wrist, down the hall between the clans with every eye in the mountain on them. She had stood straighter at the door. Her fingers had gone light on his wrist, the way a lady's do in a procession, and then pressed, hard, once, as if to tell herself off, and then gone light again. She kept his wrist until they reached the trough.
 
 Marcus stood in front of the trough. He did not know where else to stand. Alana stood beside him.
 
@@ -9325,9 +9327,19 @@ Marcus did not look at Alana. He did not dare to. He looked at the book, at the 
 
 "No," said Alana. "It's owed."
 
-She held out her hand for the pen.
+The old dwarf held out the pen.
 
-The old dwarf gave it to her. And Alana bent over the book and wrote under the old brown line, in her small quick hand: *Owed. Alana, of the chairs of Corvus.* She straightened up. Her face was white. Her hand was quite steady.
+Alana took it. She bent over the book, and the pen stopped above the hide, a finger's breadth from the old brown line, and did not come down. He saw her hand begin to shake.
+
+"I can't pay it," she said, low. "There's nobody to pay it."
+
+"Go on," said Marcus.
+
+She stayed as she was. He put his hand over hers, on the pen; and he brought her hand down to the line under the old one, and held it there until he felt it go still.
+
+"Us," said Marcus.
+
+And Alana wrote under the old brown line, in her small quick hand, with his hand still over hers: *Owed. Alana, of the chairs of Corvus.* She straightened up. Her face was white. Her hand was quite steady.
 
 Hulda nodded, as if she had been told the weight of a sack.
 
@@ -9395,7 +9407,7 @@ At supper Brokk sat down across the trough from Gaius with his bowl of barley an
 
 "Eleven," said Gaius.
 
-"The witch's figure." Brokk did not look up. "I said nine to the halls. Nine's a better number." He ate. "They wanted to know who'd feed the men who tread them."
+"Your figure. The witch's measures." Brokk did not look up. "I said nine to the halls. Nine's a better number." He ate. "They wanted to know who'd feed the men who tread them."
 
 "What did you tell them?"
 
@@ -10369,7 +10381,7 @@ She had come down off the *Forward* with her satchel and been taken at once by a
 
 At the foot of Rope Street the quaestor's step faltered once.
 
-She was looking up at the bakehouse window, where the red lamp burned. She kept her eyes on it all the way past, turning her head, and Marcus, a few paces behind, saw her lips part and close again.
+She was looking up at the bakehouse window, where the red lamp burned. She kept her eyes on it all the way past, turning her head, and Marcus, some way behind, saw her lips part and close again.
 
 Alana had come down the plank behind him. She had been in the stern, with the weather-book under her coat against the damp, and he had not seen her come; now she was at his elbow, watching the quaestor's back go up the quay between the guards and the white sleeves.
 
@@ -10382,6 +10394,8 @@ Alana was quiet a moment.
 "I didn't think of them having mothers," she said. "Isn't that stupid. I thought of them having audits."
 
 Marcus did not answer. Up ahead, Liora and the quaestor and the two Lanciarii turned in at the foot of the crown's road and began to climb, and the dark of the hill took the white sleeves last.
+
+Then Alana laid her fingers on his wrist, the court way, and they walked the long quay together to the foot of the crown's road, past the torches and the net-wives and Tuccius's boys, with the weather-book under her coat, slowly, as if the long quay of Cyrene were the Lesser Hall and every fishwife on it a duchess. A net-wife at the end of the torches looked at her, and then at the woman beside her, and both of them smiled. Alana put on her lecture face, which only made it worse. At the foot of the road she let him go.
 
 ---
 
@@ -13007,25 +13021,29 @@ He had been thinking it since the cutter. Since the bed at Cyrene, if he was hon
 
 ---
 
-Afterward she lay with her head on his shoulder and the blanket up to her chin and her feet on his shins, which were the only warm part of the cabin, and planned the kingdom.
+Afterward she lay with her head on his shoulder and the blanket up to her chin and her feet on his shins, which were the only warm part of the cabin, and he planned the kingdom, and she wrote it down.
 
-She did this now. It had begun at Stoneheart, in the warm dark of a borrowed room in the halls, and gone on through the spring: a quarrel about granaries that they took up wherever they had left it, as other people take up a game of draughts. She had the weather-book open on her knees with the new column showing, and the lamp on the hook over the bunk swung a little with the loch's swell and moved the light across the page and back.
+They did this now. It had begun at Stoneheart, in the warm dark of a borrowed room in the halls, and gone on through the spring: a kingdom he made up aloud, a piece at a time, and a quarrel about granaries that they took up wherever they had left it, as other people take up a game of draughts. She had the weather-book open on her knees with the new column showing, and the lamp on the hook over the bunk swung a little with the loch's swell and moved the light across the page and back.
 
-"Not at the capital," she said. "Every famine in the isles for a hundred years has been a famine at the far end of a road from the capital. You put the grain where the hunger is."
+"Not at the capital," he said. "Every famine in the isles for a hundred years has been a famine at the far end of a road from the capital. You put the grain where the hunger is."
 
-"You put the grain where you can guard it."
+"The council will say you put it where you can guard it."
 
-"You put a granary on every island and you let each island guard its own. That's what a kingdom's *for*." She wrote something and crossed it out. "The dwarves keep a fortnight's grain in every hall. Hulda told me. A fortnight, in every hall, and the halls lend to each other in a bad year and write it down. If Stoneheart can do it with a mountain on top of it, Cyrene can do it with a harbour."
+"Then a granary on every island, and each island guards its own. That's what a kingdom's *for*."
+
+She wrote it. "The dwarves keep a fortnight's grain in every hall," she said, writing. "Hulda told me. A fortnight, in every hall, and the halls lend to each other in a bad year and write it down. If you want the council to swallow it, start there. If Stoneheart can do it with a mountain on top of it, Cyrene can do it with a harbour."
 
 "Cyrene grows no corn."
 
-"Cyrene catches more fish than it can eat and has the prisoners, who can row. Your father pays a fleet to sit at the capital and wait for Tharsis." She tapped the pen on the page. "Pay half of it to carry grain."
+"Cyrene catches more fish than it can eat, and has the prisoners, who can row." She tapped the pen on the page. "Rusca says your father pays a fleet to sit at the capital and wait for Tharsis. She has the figure. I'll get it from her fair."
 
-"You've been talking to Rusca."
+"Pay half of it to carry grain," said Marcus.
 
-"I've been talking to Rusca," Alana admitted. "She's good. She thinks we're all mad, and she's very good at it."
+"That's what she said you'd say." Alana wrote it down under the rest. "She's good. She thinks we're all mad, and she's very good at it."
 
-He lay and listened to the swell move the hull. Somewhere forward a man was coughing, and somebody told him to stop, and he stopped. The lamp swung. She wrote a figure, and he watched her write it: the new column filling up, line under line, in the future tense, with granaries and harbours and a school.
+He lay and listened to the swell move the hull. Somewhere forward a man was coughing, and somebody told him to stop, and he stopped. The lamp swung. He watched her write: the new column filling up, line under line, in the future tense, with granaries and harbours and a school. Once her pen went on past the granaries without her, and wrote three words, and he saw what they were before she crossed them out, quickly, hard, with her face gone red to the ear: *The queen's garden.*
+
+He said nothing. She knew he had seen.
 
 She stopped writing.
 

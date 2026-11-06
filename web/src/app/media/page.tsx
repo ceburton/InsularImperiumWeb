@@ -219,8 +219,16 @@ export default function MediaPage() {
             <h3 id="book-two-title" className="text-2xl md:text-3xl text-parchment mb-3" style={{ fontFamily: "'Cinzel', serif" }}>The Heir&apos;s Promise</h3>
             <p className="text-parchment-dark text-lg max-w-2xl mb-6">After the Teeth, the quarter’s accounts come due at the Obsidian Spire. The story goes on, a chapter at a time.</p>
             <div className="flex flex-wrap gap-4">
-              <Link href="/media/story/book-two" className="inline-block rounded border border-bronze-light bg-bronze-light px-6 py-3 text-[#17130e] font-bold hover:bg-parchment transition-colors">Read The Heir's Promise →</Link>
-              <Link href="/media/audiobook/book-two" className="inline-block rounded border border-bronze-light px-6 py-3 text-bronze-light font-bold hover:bg-bronze-light hover:text-[#17130e] transition-colors">Listen to The Heir's Promise →</Link>
+              <Link href="/media/story/book-two" className="inline-block rounded border border-bronze-light bg-bronze-light px-6 py-3 text-[#17130e] font-bold hover:bg-parchment transition-colors">Read The Heir&apos;s Promise →</Link>
+              <Link href="/media/audiobook/book-two" className="inline-block rounded border border-bronze-light px-6 py-3 text-bronze-light font-bold hover:bg-bronze-light hover:text-[#17130e] transition-colors">Listen to The Heir&apos;s Promise →</Link>
+            </div>
+          </div>
+          <div className="mt-8 border-t border-bronze/40 pt-8" aria-labelledby="book-three-title">
+            <div className="text-bronze-light text-xs uppercase tracking-[0.3em] mb-3">Coming Soon · Book Three</div>
+            <h3 id="book-three-title" className="text-2xl md:text-3xl text-parchment mb-3" style={{ fontFamily: "'Cinzel', serif" }}>The King&apos;s Table</h3>
+            <p className="text-parchment-dark text-lg max-w-2xl mb-6">A crown waits in Aeridor, and a round table waits for the rulers who would sit at it as equals. The third book of Insular Imperium is being written now.</p>
+            <div className="flex flex-wrap gap-4">
+              <span className="inline-block rounded border border-bronze/50 px-6 py-3 text-bronze-light/70 font-bold italic cursor-default">Coming soon</span>
             </div>
           </div>
         </section>

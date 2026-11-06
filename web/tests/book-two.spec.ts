@@ -59,3 +59,9 @@ test('the Book Two audiobook has its own podcast feed and links back to Book One
   expect(xml.match(/<item>/g)?.length ?? 0).toBe(chapters.length);
   for (const c of chapters) expect(xml).toContain(`<guid isPermaLink="false">insular-imperium-book-two-audiobook-${c.slug}</guid>`);
 });
+
+test('the media page teases Book Three as coming soon', async ({ page }) => {
+  await page.goto('/media');
+  await expect(page.getByRole('heading', { level: 3, name: "The King's Table" })).toBeVisible();
+  await expect(page.getByText('Coming Soon · Book Three')).toBeVisible();
+});

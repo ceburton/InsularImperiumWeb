@@ -6,7 +6,7 @@ import { books } from '@/lib/books';
 const { book, chapters, other } = audiobook(books[1]);
 
 export const metadata: Metadata = {
-  title: 'The Road to Defeat Audiobook | Insular Imperium',
+  title: "The Heir's Promise Audiobook | Insular Imperium",
   description: `${book.summary} Listen free in your browser or in any podcast app.`,
   alternates: { types: { 'application/rss+xml': [{ url: book.feedUrl, title: `${book.title} audiobook (podcast feed)` }] } },
   openGraph: { title: `${book.title}: The Audiobook`, description: book.summary, images: [{ url: book.cover, width: 3000, height: 3000 }] },

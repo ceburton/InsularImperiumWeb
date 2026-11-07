@@ -284,10 +284,10 @@
       "track": 16,
       "slug": "ch16-light-of-the-forge",
       "title": "Chapter Sixteen: Light of the Forge",
-      "duration": 4465,
-      "bytes": 35806192,
-      "sha256": "dfe1d83ab771bbd7e6ce769cf8952ec5d3bba0360f922946b1dc9670a4070b99",
-      "url": "https://audio.insularimperium.com/book2/v/dfe1d83a/ch16-light-of-the-forge.mp3",
+      "duration": 5043,
+      "bytes": 40437232,
+      "sha256": "50cdd4f346abffab439b8bb4ee966d7350e44389d948f8c2a84f67539fa388b4",
+      "url": "https://audio.insularimperium.com/book2/v/50cdd4f3/ch16-light-of-the-forge.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -364,10 +364,10 @@
       "track": 21,
       "slug": "ch21-the-knock",
       "title": "Chapter Twenty-One: The Knock",
-      "duration": 2986,
-      "bytes": 23978218,
-      "sha256": "c4d1fc38412a6d61b765e5886e72fc6e79d3855d71405a431ed5273b29e2d486",
-      "url": "https://audio.insularimperium.com/book2/v/c4d1fc38/ch21-the-knock.mp3",
+      "duration": 2983,
+      "bytes": 23955562,
+      "sha256": "88baa95ded0db424c44d8e0e1db4bd13a64887f6a92a07848aee84e49b4e16ce",
+      "url": "https://audio.insularimperium.com/book2/v/88baa95d/ch21-the-knock.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -380,10 +380,10 @@
       "track": 22,
       "slug": "ch22-logistics",
       "title": "Chapter Twenty-Two: Logistics",
-      "duration": 4105,
-      "bytes": 32927530,
-      "sha256": "78f003330b3493adebe36886de6a151710d14a61be2c663476586c3f71c2060c",
-      "url": "https://audio.insularimperium.com/book2/v/78f00333/ch22-logistics.mp3",
+      "duration": 4144,
+      "bytes": 33241642,
+      "sha256": "648cc48167f6ed6be040593728b3227974138859e7b47e56853656f0312b9310",
+      "url": "https://audio.insularimperium.com/book2/v/648cc481/ch22-logistics.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -396,10 +396,10 @@
       "track": 23,
       "slug": "ch23-the-bell",
       "title": "Chapter Twenty-Three: The Bell",
-      "duration": 2842,
-      "bytes": 22824299,
-      "sha256": "01004a27bccdacbc37139a2466538d3a427d1ecf71f2e0d21d4fa876c0426a41",
-      "url": "https://audio.insularimperium.com/book2/v/01004a27/ch23-the-bell.mp3",
+      "duration": 2888,
+      "bytes": 23191211,
+      "sha256": "5003814993aef2f865bea03cb40e5af48aa524501f3995e1a4e12bee69925b46",
+      "url": "https://audio.insularimperium.com/book2/v/50038149/ch23-the-bell.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -416,10 +416,10 @@
       "track": 24,
       "slug": "ch24-we-march-at-dawn",
       "title": "Chapter Twenty-Four: We March at Dawn",
-      "duration": 3431,
-      "bytes": 27535602,
-      "sha256": "a0f31851f200640a030d0a419e7ae8b5862a772df7e1af884a65d98fad2e2b85",
-      "url": "https://audio.insularimperium.com/book2/v/a0f31851/ch24-we-march-at-dawn.mp3",
+      "duration": 3561,
+      "bytes": 28578546,
+      "sha256": "db63595f49319931174a3842e3e6cfdcdddf1ae071868a57f07d819a813c65cb",
+      "url": "https://audio.insularimperium.com/book2/v/db63595f/ch24-we-march-at-dawn.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -427,7 +427,7 @@
           "Tiberius"
         ],
         [
-          883.4,
+          988,
           "Marcus"
         ]
       ]
@@ -436,10 +436,10 @@
       "track": 25,
       "slug": "ch25-anchor-on-me",
       "title": "Chapter Twenty-Five: Anchor on Me",
-      "duration": 3985,
-      "bytes": 31972910,
-      "sha256": "17fdaedb5c0f4b35b84c48c6495e5bb4531c02332c88aff0d275fed03c02352e",
-      "url": "https://audio.insularimperium.com/book2/v/17fdaedb/ch25-anchor-on-me.mp3",
+      "duration": 4241,
+      "bytes": 34015982,
+      "sha256": "6a413c9bdc5e76c300a19fbfd956f63efccb4357939af956b6025b6c96b53c82",
+      "url": "https://audio.insularimperium.com/book2/v/6a413c9b/ch25-anchor-on-me.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -452,10 +452,10 @@
       "track": 26,
       "slug": "ch26-the-southern-road",
       "title": "Chapter Twenty-Six: The Southern Road",
-      "duration": 2666,
-      "bytes": 21419442,
-      "sha256": "b56800bcbc8f59acb9be30ff7b60f3611c46a98e99f0e70157886bb0b82ba617",
-      "url": "https://audio.insularimperium.com/book2/v/b56800bc/ch26-the-southern-road.mp3",
+      "duration": 2872,
+      "bytes": 23062770,
+      "sha256": "8dd3d1e55d048ab7f54b76146ad40e74bedd3ce6aad16b40b475909646c09376",
+      "url": "https://audio.insularimperium.com/book2/v/8dd3d1e5/ch26-the-southern-road.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -463,7 +463,7 @@
           "Marcus"
         ],
         [
-          1860.4,
+          1966,
           "Alana"
         ]
       ]

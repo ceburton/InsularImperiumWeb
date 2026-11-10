@@ -16898,6 +16898,18 @@ He picked the man up again and went on down into the cut, and the others followe
 
 Liora had come to the door behind Alana. She stood and watched them go by, every one, and her lips did not move, and Alana understood that she was not counting either. She was learning faces.
 
+Two more came after, off the near swell through the gorse and not by the road: Sylara, with her bow unstrung in her hand, and Ilvane behind her. They were wet through, and their legs were black from the burnt ground, and every few steps they turned their heads to the road behind them. Sylara stopped in the road and looked at the door, at Alana, and at Liora behind her.
+
+"They're holding," she said. "They'll hold till we're off." Her eyes went down the cut. "Where—"
+
+Rufo got up off the wall at the head of the cut. He must have been sitting on it all night. He had no shield and no helmet, and he came up the road to her at a walk and stopped a pace short, and his hand went up to the plait over his ear.
+
+Sylara put her bow into Ilvane's hands without looking. Then she put her own hand over his, on the plait, and held it there, in the road. Ilvane looked at the sky.
+
+They went down the cut together, and Ilvane after them with two bows.
+
+The cut below them was still full of the rearguard, going down slowly behind the carried man. The bay had come up out of the dark. There were three boats left on the shingle, and the merfolk's heads in the surf beside them. Valeria stood at the water's edge, and her voice came up the cut thin and level, calling the last file down by name. Gaius sat in the stern of the nearest with his leg out straight, telling the crew something about their own boat, with both hands; and the crew, who had rowed all night, were listening.
+
 Marcus came up the cut.
 
 He climbed it fast out of the half-dark at the foot of it, and stopped among the men coming down, and Alana saw him stop each one: a hand on the shoulder, a word, a word back, and on to the next. He was asking them. She would have known it from the sea. When the last had gone by he stood alone in the road at the head of the cut with his hands at his sides, facing north up the empty road to the swell where the levy stood.

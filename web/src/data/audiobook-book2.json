@@ -4,10 +4,10 @@
       "track": 1,
       "slug": "ch01-the-dullest-day",
       "title": "Chapter One: The Dullest Day",
-      "duration": 2568,
-      "bytes": 20635304,
-      "sha256": "800206b721048130265bb19e668aeaaf49174ce05c8fb9f2e3aca275ebcccdc0",
-      "url": "https://audio.insularimperium.com/book2/v/800206b7/ch01-the-dullest-day.mp3",
+      "duration": 2548,
+      "bytes": 20474216,
+      "sha256": "de446445972da69529c460f14618cfd4bc1c165227cd8dad8639c93bd220c18d",
+      "url": "https://audio.insularimperium.com/book2/v/de446445/ch01-the-dullest-day.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -20,10 +20,10 @@
       "track": 2,
       "slug": "ch02-the-cold-grounds",
       "title": "Chapter Two: The Cold Grounds",
-      "duration": 3511,
-      "bytes": 28179561,
-      "sha256": "a8289419eabde0e0cb25fdc21af66332cf84771ab11b58e11ff240a8d8bc54e2",
-      "url": "https://audio.insularimperium.com/book2/v/a8289419/ch02-the-cold-grounds.mp3",
+      "duration": 3507,
+      "bytes": 28146537,
+      "sha256": "4f70cd4ff8afb5f76ba06bcafa00343a20031c810c693ae2273759c32f2e392e",
+      "url": "https://audio.insularimperium.com/book2/v/4f70cd4f/ch02-the-cold-grounds.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -36,10 +36,10 @@
       "track": 3,
       "slug": "ch03-who-gave-him-leave",
       "title": "Chapter Three: Who Gave Him Leave",
-      "duration": 3264,
-      "bytes": 26201389,
-      "sha256": "ce258ddd15c10f53dcc967fdcb974413d86be5ea2d4e10914903f1d7c844ed39",
-      "url": "https://audio.insularimperium.com/book2/v/ce258ddd/ch03-who-gave-him-leave.mp3",
+      "duration": 3258,
+      "bytes": 26152045,
+      "sha256": "94790b957d8c57c8c26badd72173372f1c567aa4c9e9ece872d37b0cf7ab0a44",
+      "url": "https://audio.insularimperium.com/book2/v/94790b95/ch03-who-gave-him-leave.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -52,10 +52,10 @@
       "track": 4,
       "slug": "ch04-eat-what-i-eat",
       "title": "Chapter Four: Eat What I Eat",
-      "duration": 3086,
-      "bytes": 24776744,
-      "sha256": "64ad16f98f344606fcecb46df5cda0eeae6a892a59d48f26e836dcc9da78b519",
-      "url": "https://audio.insularimperium.com/book2/v/64ad16f9/ch04-eat-what-i-eat.mp3",
+      "duration": 3065,
+      "bytes": 24609704,
+      "sha256": "ef725f87a69032093d95c6cdee1b1850d1126cdcf922c8976fd365bb3c8f374c",
+      "url": "https://audio.insularimperium.com/book2/v/ef725f87/ch04-eat-what-i-eat.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -63,7 +63,7 @@
           "Marcus"
         ],
         [
-          2541,
+          2535.9,
           "Damien"
         ]
       ]
@@ -73,9 +73,9 @@
       "slug": "ch05-pressure-applied",
       "title": "Chapter Five: Pressure, Applied",
       "duration": 1891,
-      "bytes": 15217067,
-      "sha256": "f2fc3f1181e65ee9100c52008cb87dc936d941d330cd3dd68ea938ec46097bf0",
-      "url": "https://audio.insularimperium.com/book2/v/f2fc3f11/ch05-pressure-applied.mp3",
+      "bytes": 15219371,
+      "sha256": "23ba410231a971e0b409d9345f603a7c2793c750b01c731ebff41e33bd05f2fa",
+      "url": "https://audio.insularimperium.com/book2/v/23ba4102/ch05-pressure-applied.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -88,10 +88,10 @@
       "track": 6,
       "slug": "ch06-late-midwinter",
       "title": "Chapter Six: Late Midwinter",
-      "duration": 2964,
-      "bytes": 23804647,
-      "sha256": "7ce784baceedf0edc5013709754314d45468c5653b67de064dc8a3c87e29e308",
-      "url": "https://audio.insularimperium.com/book2/v/7ce784ba/ch06-late-midwinter.mp3",
+      "duration": 2965,
+      "bytes": 23806759,
+      "sha256": "a7da5dd7ec4d090d0ee043ad6be74accfe8a2a5c38642bbdc4b982aa24971752",
+      "url": "https://audio.insularimperium.com/book2/v/a7da5dd7/ch06-late-midwinter.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -104,10 +104,10 @@
       "track": 7,
       "slug": "ch07-the-court-way",
       "title": "Chapter Seven: The Court Way",
-      "duration": 3702,
-      "bytes": 29701736,
-      "sha256": "9c2bd6d06f28b12947f08846f3dad1d7037294a10fca4414fa30ee87e9bbbca4",
-      "url": "https://audio.insularimperium.com/book2/v/9c2bd6d0/ch07-the-court-way.mp3",
+      "duration": 3683,
+      "bytes": 29549480,
+      "sha256": "ed96f9aeef30221885d286d71da85acf834ec39db31c58cdf9622a1d6d06e673",
+      "url": "https://audio.insularimperium.com/book2/v/ed96f9ae/ch07-the-court-way.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -115,7 +115,7 @@
           "Sylara"
         ],
         [
-          1533.4,
+          1528.4,
           "Roderic"
         ]
       ]
@@ -124,10 +124,10 @@
       "track": 8,
       "slug": "ch08-a-body-of-evidence",
       "title": "Chapter Eight: A Body of Evidence",
-      "duration": 3497,
-      "bytes": 28068013,
-      "sha256": "48adc5d019e56c396d484dbe759a1ed465c3a9b70cce588eae0343ea908764f0",
-      "url": "https://audio.insularimperium.com/book2/v/48adc5d0/ch08-a-body-of-evidence.mp3",
+      "duration": 3478,
+      "bytes": 27911149,
+      "sha256": "0f4c35fa3ec29582c1f95c7b1808c879713f9df24bc8ff67442cb3a5b0c3b4b6",
+      "url": "https://audio.insularimperium.com/book2/v/0f4c35fa/ch08-a-body-of-evidence.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -135,15 +135,15 @@
           "Liora"
         ],
         [
-          1051.3,
+          1046.8,
           "Gaius"
         ],
         [
-          1554.3,
+          1545,
           "Fingers"
         ],
         [
-          2087.3,
+          2076.6,
           "Gaius"
         ]
       ]
@@ -152,10 +152,10 @@
       "track": 9,
       "slug": "ch09-here",
       "title": "Chapter Nine: Here",
-      "duration": 2952,
-      "bytes": 23707294,
-      "sha256": "561f9f8525200cc1cd20daa90f58492cb7fe183744efb50f778d55e980a4f1af",
-      "url": "https://audio.insularimperium.com/book2/v/561f9f85/ch09-here.mp3",
+      "duration": 2917,
+      "bytes": 23423710,
+      "sha256": "2848cad2366fd077a7aab6f6aa229c8449c00d1be54f70e8297c4defba59a684",
+      "url": "https://audio.insularimperium.com/book2/v/2848cad2/ch09-here.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -163,7 +163,7 @@
           "Gaius"
         ],
         [
-          2169.3,
+          2144,
           "Marcus"
         ]
       ]
@@ -173,9 +173,9 @@
       "slug": "ch10-constancy",
       "title": "Chapter Ten: Constancy",
       "duration": 3369,
-      "bytes": 27043875,
-      "sha256": "1f85d9c078c488ac1dfcdcc2335e6fe1d9eb55755fe28ecf52eacac6a25cf58a",
-      "url": "https://audio.insularimperium.com/book2/v/1f85d9c0/ch10-constancy.mp3",
+      "bytes": 27037539,
+      "sha256": "3bc3ad9f18083ef953cd68f435d9bc9323166ef4ff79c8e0a8161688381844e5",
+      "url": "https://audio.insularimperium.com/book2/v/3bc3ad9f/ch10-constancy.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -187,11 +187,11 @@
           "Gaius"
         ],
         [
-          1483.7,
+          1484,
           "Gaius"
         ],
         [
-          2045.4,
+          2045.7,
           "Gaius"
         ],
         [
@@ -204,10 +204,10 @@
       "track": 11,
       "slug": "ch11-the-reasonable-offer",
       "title": "Chapter Eleven: The Reasonable Offer",
-      "duration": 4452,
-      "bytes": 35701745,
-      "sha256": "28364a3648cffb2d4a73b6ec1a4b9777bf078746da13eb0a5780bdf2f2017b36",
-      "url": "https://audio.insularimperium.com/book2/v/28364a36/ch11-the-reasonable-offer.mp3",
+      "duration": 4355,
+      "bytes": 34932209,
+      "sha256": "a9e7cf1f3a706dc0778a42078f437524861f63b9e0b5ae1d90e1f7697e50ad90",
+      "url": "https://audio.insularimperium.com/book2/v/a9e7cf1f/ch11-the-reasonable-offer.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -220,10 +220,10 @@
       "track": 12,
       "slug": "ch12-salt",
       "title": "Chapter Twelve: Salt",
-      "duration": 4715,
-      "bytes": 37810657,
-      "sha256": "4eb952f128d4dcdb19ddf6be1d852e86cda251631c501e261dd30f0ee62bbf75",
-      "url": "https://audio.insularimperium.com/book2/v/4eb952f1/ch12-salt.mp3",
+      "duration": 4708,
+      "bytes": 37755745,
+      "sha256": "a5ec34e372d3c135054e73b0e48aecc56ca86927cbf7ce1816d690874ec915b1",
+      "url": "https://audio.insularimperium.com/book2/v/a5ec34e3/ch12-salt.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -236,10 +236,10 @@
       "track": 13,
       "slug": "ch13-arrears",
       "title": "Chapter Thirteen: Arrears",
-      "duration": 3750,
-      "bytes": 30090342,
-      "sha256": "edeaceb4388919042ce4a209f88cb6ac03fff0139b7e76102793dd4b3bd4b750",
-      "url": "https://audio.insularimperium.com/book2/v/edeaceb4/ch13-arrears.mp3",
+      "duration": 3744,
+      "bytes": 30041190,
+      "sha256": "1ed25b50437828f33aa4a0409b329db6ce8b59b26370670fafee1eacf5507cb9",
+      "url": "https://audio.insularimperium.com/book2/v/1ed25b50/ch13-arrears.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -252,10 +252,10 @@
       "track": 14,
       "slug": "ch14-the-long-stepped-lane",
       "title": "Chapter Fourteen: The Long Stepped Lane",
-      "duration": 3882,
-      "bytes": 31143284,
-      "sha256": "1c119c5ba278839e34c1053fd94d3bec118acbeaecdcba2eda068a0e58439b01",
-      "url": "https://audio.insularimperium.com/book2/v/1c119c5b/ch14-the-long-stepped-lane.mp3",
+      "duration": 3880,
+      "bytes": 31129268,
+      "sha256": "55383aceea2bd5789687f7382bda435feb525562aa371667c5e2aa5df0eca2d3",
+      "url": "https://audio.insularimperium.com/book2/v/55383ace/ch14-the-long-stepped-lane.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -268,10 +268,10 @@
       "track": 15,
       "slug": "ch15-to-be-collected",
       "title": "Chapter Fifteen: To Be Collected",
-      "duration": 4713,
-      "bytes": 37790125,
-      "sha256": "c007a5e12986eecd40e0f9ad94521b28338062fd68489991e5e9c65582d78d9d",
-      "url": "https://audio.insularimperium.com/book2/v/c007a5e1/ch15-to-be-collected.mp3",
+      "duration": 4628,
+      "bytes": 37116589,
+      "sha256": "3b1249b84e083013a660774fae71445a558942032a47381714dee29d93f690c0",
+      "url": "https://audio.insularimperium.com/book2/v/3b1249b8/ch15-to-be-collected.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -284,10 +284,10 @@
       "track": 16,
       "slug": "ch16-light-of-the-forge",
       "title": "Chapter Sixteen: Light of the Forge",
-      "duration": 5043,
-      "bytes": 40437232,
-      "sha256": "50cdd4f346abffab439b8bb4ee966d7350e44389d948f8c2a84f67539fa388b4",
-      "url": "https://audio.insularimperium.com/book2/v/50cdd4f3/ch16-light-of-the-forge.mp3",
+      "duration": 4790,
+      "bytes": 38406832,
+      "sha256": "a9762f8d1aef3ec54265cf9b4711a3ce1418823f9751ecfc371a5ebf7125524a",
+      "url": "https://audio.insularimperium.com/book2/v/a9762f8d/ch16-light-of-the-forge.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -300,10 +300,10 @@
       "track": 17,
       "slug": "ch17-lamps",
       "title": "Chapter Seventeen: Lamps",
-      "duration": 3937,
-      "bytes": 31581989,
-      "sha256": "d2982afeb64ca3adcc6d1f07c91046f15d607435044576a1d50757be85d870ec",
-      "url": "https://audio.insularimperium.com/book2/v/d2982afe/ch17-lamps.mp3",
+      "duration": 3928,
+      "bytes": 31516325,
+      "sha256": "654c73ffc5188d400545386125c67ef9ae761638651345a251e75a54f4b59b6d",
+      "url": "https://audio.insularimperium.com/book2/v/654c73ff/ch17-lamps.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -316,10 +316,10 @@
       "track": 18,
       "slug": "ch18-dead-water",
       "title": "Chapter Eighteen: Dead Water",
-      "duration": 3602,
-      "bytes": 28906857,
-      "sha256": "a366d5d3c1d8536949c16b0ffded2d17c3a80be73e6bb1faac2f67f908082316",
-      "url": "https://audio.insularimperium.com/book2/v/a366d5d3/ch18-dead-water.mp3",
+      "duration": 3594,
+      "bytes": 28839849,
+      "sha256": "3163b987287f1747c6526ef8aa95de39294634a95c113996e2262a6ca880af75",
+      "url": "https://audio.insularimperium.com/book2/v/3163b987/ch18-dead-water.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -332,10 +332,10 @@
       "track": 19,
       "slug": "ch19-some",
       "title": "Chapter Nineteen: Some",
-      "duration": 3627,
-      "bytes": 29101923,
-      "sha256": "f78f8ff4b4956beb2b560c5b3451055fd24c6d7f91adf24a6f5c7f0e3728abc3",
-      "url": "https://audio.insularimperium.com/book2/v/f78f8ff4/ch19-some.mp3",
+      "duration": 3602,
+      "bytes": 28901667,
+      "sha256": "df2c97544846f4dd9d6220c4b74f7637a04895b71db5e20fb7d9e71b84fb19bd",
+      "url": "https://audio.insularimperium.com/book2/v/df2c9754/ch19-some.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -348,10 +348,10 @@
       "track": 20,
       "slug": "ch20-the-named-border",
       "title": "Chapter Twenty: The Named Border",
-      "duration": 3546,
-      "bytes": 28453741,
-      "sha256": "72c62b2d95449721a33c0776ba39b16112f714d8f829359f1dcf046af535a6c3",
-      "url": "https://audio.insularimperium.com/book2/v/72c62b2d/ch20-the-named-border.mp3",
+      "duration": 3495,
+      "bytes": 28053037,
+      "sha256": "d21ff31bae9a3d4c11760664a988db5e323cbd966c6cf46f01bc7dba41511c8d",
+      "url": "https://audio.insularimperium.com/book2/v/d21ff31b/ch20-the-named-border.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -364,10 +364,10 @@
       "track": 21,
       "slug": "ch21-the-knock",
       "title": "Chapter Twenty-One: The Knock",
-      "duration": 2983,
-      "bytes": 23955562,
-      "sha256": "88baa95ded0db424c44d8e0e1db4bd13a64887f6a92a07848aee84e49b4e16ce",
-      "url": "https://audio.insularimperium.com/book2/v/88baa95d/ch21-the-knock.mp3",
+      "duration": 2997,
+      "bytes": 24063850,
+      "sha256": "1c98d34a28d1688461f76654445c84c9b7cf55acad5859a07d7930a794cb879c",
+      "url": "https://audio.insularimperium.com/book2/v/1c98d34a/ch21-the-knock.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -380,10 +380,10 @@
       "track": 22,
       "slug": "ch22-logistics",
       "title": "Chapter Twenty-Two: Logistics",
-      "duration": 4144,
-      "bytes": 33241642,
-      "sha256": "648cc48167f6ed6be040593728b3227974138859e7b47e56853656f0312b9310",
-      "url": "https://audio.insularimperium.com/book2/v/648cc481/ch22-logistics.mp3",
+      "duration": 4159,
+      "bytes": 33363562,
+      "sha256": "161ea2efd091d4820ecf363955ebc0651107703b7bc0b7eaae402d80031f0ac3",
+      "url": "https://audio.insularimperium.com/book2/v/161ea2ef/ch22-logistics.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -396,10 +396,10 @@
       "track": 23,
       "slug": "ch23-the-bell",
       "title": "Chapter Twenty-Three: The Bell",
-      "duration": 2888,
-      "bytes": 23191211,
-      "sha256": "5003814993aef2f865bea03cb40e5af48aa524501f3995e1a4e12bee69925b46",
-      "url": "https://audio.insularimperium.com/book2/v/50038149/ch23-the-bell.mp3",
+      "duration": 2837,
+      "bytes": 22783787,
+      "sha256": "dc6548688351f4d598a4df0fcccebc061e19ab2a08a96160c3ac06517e48009f",
+      "url": "https://audio.insularimperium.com/book2/v/dc654868/ch23-the-bell.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -407,7 +407,7 @@
           "Gaius"
         ],
         [
-          2242.9,
+          2191.5,
           "Marcus"
         ]
       ]
@@ -416,10 +416,10 @@
       "track": 24,
       "slug": "ch24-we-march-at-dawn",
       "title": "Chapter Twenty-Four: We March at Dawn",
-      "duration": 3561,
-      "bytes": 28578546,
-      "sha256": "db63595f49319931174a3842e3e6cfdcdddf1ae071868a57f07d819a813c65cb",
-      "url": "https://audio.insularimperium.com/book2/v/db63595f/ch24-we-march-at-dawn.mp3",
+      "duration": 3542,
+      "bytes": 28429170,
+      "sha256": "ee25a0fd95b6bc0551540b40c2cc72f4f57320194dc50168dcca473dbaa94659",
+      "url": "https://audio.insularimperium.com/book2/v/ee25a0fd/ch24-we-march-at-dawn.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -427,7 +427,7 @@
           "Tiberius"
         ],
         [
-          988,
+          987.9,
           "Marcus"
         ]
       ]
@@ -436,10 +436,10 @@
       "track": 25,
       "slug": "ch25-anchor-on-me",
       "title": "Chapter Twenty-Five: Anchor on Me",
-      "duration": 4241,
-      "bytes": 34015982,
-      "sha256": "6a413c9bdc5e76c300a19fbfd956f63efccb4357939af956b6025b6c96b53c82",
-      "url": "https://audio.insularimperium.com/book2/v/6a413c9b/ch25-anchor-on-me.mp3",
+      "duration": 4218,
+      "bytes": 33832814,
+      "sha256": "2f2bf9fcb8241c76ff767b8049060f1229466caed94ee381c2ff5a39e0666d97",
+      "url": "https://audio.insularimperium.com/book2/v/2f2bf9fc/ch25-anchor-on-me.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -452,10 +452,10 @@
       "track": 26,
       "slug": "ch26-the-southern-road",
       "title": "Chapter Twenty-Six: The Southern Road",
-      "duration": 2872,
-      "bytes": 23062770,
-      "sha256": "8dd3d1e55d048ab7f54b76146ad40e74bedd3ce6aad16b40b475909646c09376",
-      "url": "https://audio.insularimperium.com/book2/v/8dd3d1e5/ch26-the-southern-road.mp3",
+      "duration": 2894,
+      "bytes": 23243634,
+      "sha256": "54f3ea967d5d0ca2e7d05685194a5971b72ef70b387a66f74ad8483c8dd7f214",
+      "url": "https://audio.insularimperium.com/book2/v/54f3ea96/ch26-the-southern-road.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -463,7 +463,7 @@
           "Marcus"
         ],
         [
-          1966,
+          1978.9,
           "Alana"
         ]
       ]

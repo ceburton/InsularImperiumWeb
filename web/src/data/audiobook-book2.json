@@ -4,10 +4,10 @@
       "track": 1,
       "slug": "ch01-the-dullest-day",
       "title": "Chapter One: The Dullest Day",
-      "duration": 2548,
-      "bytes": 20474216,
-      "sha256": "de446445972da69529c460f14618cfd4bc1c165227cd8dad8639c93bd220c18d",
-      "url": "https://audio.insularimperium.com/book2/v/de446445/ch01-the-dullest-day.mp3",
+      "duration": 2557,
+      "bytes": 20547944,
+      "sha256": "94aae152310a011eae05ba99f13a237197958861cd54b7ded6a85d20f1e8f408",
+      "url": "https://audio.insularimperium.com/book2/v/94aae152/ch01-the-dullest-day.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -152,10 +152,10 @@
       "track": 9,
       "slug": "ch09-here",
       "title": "Chapter Nine: Here",
-      "duration": 2917,
-      "bytes": 23423710,
-      "sha256": "2848cad2366fd077a7aab6f6aa229c8449c00d1be54f70e8297c4defba59a684",
-      "url": "https://audio.insularimperium.com/book2/v/2848cad2/ch09-here.mp3",
+      "duration": 2941,
+      "bytes": 23618782,
+      "sha256": "79e865b9fa0199978e3eeba7504733abaf2dcca89ac704e3d68975ab30b277f6",
+      "url": "https://audio.insularimperium.com/book2/v/79e865b9/ch09-here.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -163,7 +163,7 @@
           "Gaius"
         ],
         [
-          2144,
+          2168.4,
           "Marcus"
         ]
       ]
@@ -220,10 +220,10 @@
       "track": 12,
       "slug": "ch12-salt",
       "title": "Chapter Twelve: Salt",
-      "duration": 4708,
-      "bytes": 37755745,
-      "sha256": "a5ec34e372d3c135054e73b0e48aecc56ca86927cbf7ce1816d690874ec915b1",
-      "url": "https://audio.insularimperium.com/book2/v/a5ec34e3/ch12-salt.mp3",
+      "duration": 4751,
+      "bytes": 38096545,
+      "sha256": "6a38e1784f907a4abcda3ce96692131e2c745879f2c09f993d481102acdec569",
+      "url": "https://audio.insularimperium.com/book2/v/6a38e178/ch12-salt.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -380,10 +380,10 @@
       "track": 22,
       "slug": "ch22-logistics",
       "title": "Chapter Twenty-Two: Logistics",
-      "duration": 4159,
-      "bytes": 33363754,
-      "sha256": "1d4a6e69b4fc0f955f9c69dc7da90de2309a17d5ec93971b73dc74254174647f",
-      "url": "https://audio.insularimperium.com/book2/v/1d4a6e69/ch22-logistics.mp3",
+      "duration": 4421,
+      "bytes": 35457322,
+      "sha256": "c423120e1b677206f02ac285941d4521d64a64756d3004cba688713f0c885b18",
+      "url": "https://audio.insularimperium.com/book2/v/c423120e/ch22-logistics.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -396,10 +396,10 @@
       "track": 23,
       "slug": "ch23-the-bell",
       "title": "Chapter Twenty-Three: The Bell",
-      "duration": 2837,
-      "bytes": 22783787,
-      "sha256": "dc6548688351f4d598a4df0fcccebc061e19ab2a08a96160c3ac06517e48009f",
-      "url": "https://audio.insularimperium.com/book2/v/dc654868/ch23-the-bell.mp3",
+      "duration": 2852,
+      "bytes": 22907435,
+      "sha256": "17c060097ef0fa0b752be8a8918f228eb30d286005f10c90cdfaa73ab02050e7",
+      "url": "https://audio.insularimperium.com/book2/v/17c06009/ch23-the-bell.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -407,7 +407,7 @@
           "Gaius"
         ],
         [
-          2191.5,
+          2206.9,
           "Marcus"
         ]
       ]
@@ -416,10 +416,10 @@
       "track": 24,
       "slug": "ch24-we-march-at-dawn",
       "title": "Chapter Twenty-Four: We March at Dawn",
-      "duration": 3635,
-      "bytes": 29171442,
-      "sha256": "851a54a7ba058714288a9d5d84589a53256ef4a94a651311a1998f85b8d219a1",
-      "url": "https://audio.insularimperium.com/book2/v/851a54a7/ch24-we-march-at-dawn.mp3",
+      "duration": 4173,
+      "bytes": 33474546,
+      "sha256": "e70acd6a7ec4c83f92b2eb0adcb0ddac72a77ef36c5023a49e1b523539d0af24",
+      "url": "https://audio.insularimperium.com/book2/v/e70acd6a/ch24-we-march-at-dawn.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [
@@ -427,7 +427,7 @@
           "Tiberius"
         ],
         [
-          996.5,
+          1534.3,
           "Marcus"
         ]
       ]
@@ -436,10 +436,10 @@
       "track": 25,
       "slug": "ch25-anchor-on-me",
       "title": "Chapter Twenty-Five: Anchor on Me",
-      "duration": 4267,
-      "bytes": 34228718,
-      "sha256": "0d4ad95b2fd0541552d8b323c3fbc31382958a01334b822e264e8263bfc819b9",
-      "url": "https://audio.insularimperium.com/book2/v/0d4ad95b/ch25-anchor-on-me.mp3",
+      "duration": 4280,
+      "bytes": 34329710,
+      "sha256": "3a497a76fd2595ebc37c08acacbb80771006aca9877492b5fad7be6b7c70de53",
+      "url": "https://audio.insularimperium.com/book2/v/3a497a76/ch25-anchor-on-me.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [

@@ -11238,6 +11238,12 @@ He turned to the town. The lamps were out in the daylight, all of them. He could
 
 The fleet came out past the outer mole and stood north up the coast, with the land on the left hand and the Grey a long way off on the right, low and pale along the sea.
 
+*Constancy* came out last, with Strabo at her masthead; and at her stem, where Faelar had sat all the way west, four young wardens sat in their grey with their bows across their knees and their faces to the north.
+
+Faelar's hundred had gone ashore at Silverwood on the way home. The fleet had lain a night in the western bay, and in the morning the elders came down to the black rock and sang the song open, as the treaty said they would, and the hundred went up the beach into the trees in their grey file without looking back, which was how the wood did it. Four did not. Ilvane came back down the sand before the boats pushed off, with the three who had answered Sereth's note beside her, and waded out to *Constancy* and climbed in over the rail and sat down at the stem. Faelar stood on the beach and looked at the four of them for a long time. Then he looked up at the masthead, where Strabo was. Then he went up into the trees.
+
+Sylara had gone across to *Constancy* that night and sat at the stem with them until the middle watch, talking low in the elven speech. In the morning she came back to the *Forward* and told Marcus they were hers now, if he had no objection, and went below before he could have one.
+
 He went aft.
 
 The quaestor was in the stern, by the taffrail, on the coil of cable where she had sat all the way from Stoneheart. She was not alone on it. Alana was beside her, with the weather-book open across both their knees, and the wind was taking the pages, and they were holding them down between them, one hand each, and arguing.
@@ -11749,6 +11755,8 @@ Rufo turned in the water to keep her in front of him, and put his fingers up to 
 Valeria watched a man who had stood in the first rank in front of every horror the Tharsians could send up a beach measure the distance to a woman in a warm pool, and decide it was too far.
 
 Sylara laughed: not a pretty sound, a short delighted bark, like a fox's. She came in to him under the water, and Valeria looked up into the willows, and heard a great splash, and the three on the far side cheer.
+
+Somebody else was laughing up in the willows: Strabo, flat along a branch over the water, who had the best eyes in the cohort and had plainly not seen her go either. The young warden on the branch above him had. She held her hand down to him without looking, and he put a coin in it.
 
 Presently somebody sat down on the shell beside her, somebody large, who smelled of horse liniment and had no business smelling of it in a fen with no horses. She did not turn her head.
 
@@ -13618,7 +13626,7 @@ Since the first winter dusk Col had come down every night. He knocked at the doo
 
 They came at dusk.
 
-Marcus had the cohort in the lanes and the Lanciarii at the gap, and Sylara on the chapel roof with her bow and every arrow Gaius had been able to wrap in oiled rag; torches in every hand that could hold one, and the carts drawn up across the lane-mouths inside the barricade with the oil casks open on them and a man at each with a ladle. He had given each order once, and each was done before he had finished giving the next. He stood in the middle of the village where the three lanes met, by the chapel steps, and felt the whole of it set round him, every man where he had put him, like the parts of a lock; and the feeling was so good that he was a little ashamed of it.
+Marcus had the cohort in the lanes and the Lanciarii at the gap, and Sylara and her four wardens on the chapel roof with their bows and every arrow Gaius had been able to wrap in oiled rag, and Strabo up there with them, because he could see oars through a fog and Marcus hoped he could see the dead through this one; torches in every hand that could hold one, and the carts drawn up across the lane-mouths inside the barricade with the oil casks open on them and a man at each with a ladle. He had given each order once, and each was done before he had finished giving the next. He stood in the middle of the village where the three lanes met, by the chapel steps, and felt the whole of it set round him, every man where he had put him, like the parts of a lock; and the feeling was so good that he was a little ashamed of it.
 
 Then the fog came over the barricade.
 
@@ -13668,7 +13676,7 @@ He stepped forward again, onto the ground he had given, and put his shield up sq
 
 After that it was fire and fog for hours, and he would remember it afterward in pieces.
 
-A ladle of oil going over a pew in a long dark rope, and the man who threw it shouting as it caught. A village lad on a roof above the lane with a peat-spade, knocking a grey hand off the eaves as if he were clearing snow. Sylara's arrows coming down out of the white over his head one after another with a sound like tearing silk, little flying lamps, and lost in the fog before they landed so that he never saw them land, only heard them, a soft thump and a whoosh beyond the barricade, and a light. The General's voice, never loud, never stopping, somewhere in the lane by the chapel: *Hold there. Good. Hold there. Tappo, the torch, over, there, good lad.* A child crying in the chapel behind the barred door, on and on, one note, and its mother singing to it, and the knocking, all the time the knocking, on every door, two and one and three and quick and slow. Alana at the head of the north lane with her hands up and the fire going out of them along the pews in a sheet, so that for a breath the whole lane stood out in the white, every stone, every face; and afterward Alana on a doorstep with her hands between her knees, shaking, and Rusca crouched beside her in the borrowed cloak, holding a cup to her mouth.
+A ladle of oil going over a pew in a long dark rope, and the man who threw it shouting as it caught. A village lad on a roof above the lane with a peat-spade, knocking a grey hand off the eaves as if he were clearing snow. The wardens' arrows coming down out of the white over his head one after another with a sound like tearing silk, little flying lamps, and lost in the fog before they landed so that he never saw them land, only heard them, a soft thump and a whoosh beyond the barricade, and a light; and up on the roof between them Strabo's voice, flat and unhurried, as if he were calling oars at sea, *two, by the peat-stack, low*, and an arrow going where it said. The General's voice, never loud, never stopping, somewhere in the lane by the chapel: *Hold there. Good. Hold there. Tappo, the torch, over, there, good lad.* A child crying in the chapel behind the barred door, on and on, one note, and its mother singing to it, and the knocking, all the time the knocking, on every door, two and one and three and quick and slow. Alana at the head of the north lane with her hands up and the fire going out of them along the pews in a sheet, so that for a breath the whole lane stood out in the white, every stone, every face; and afterward Alana on a doorstep with her hands between her knees, shaking, and Rusca crouched beside her in the borrowed cloak, holding a cup to her mouth.
 
 They did not climb well. That was something. Gaius had asked the right question, and the barricade had answered it: the dead came at it slowly and stupidly and without fear, and tried to come over it, and the pews and the ploughs and the nailed plates held them for the space of a breath while the oil went over and the fire came after it. Steel slowed them. Fire ended them. The cohort learned it in the first hour and then stopped having to think about it, and worked, in the white, with the stink of burning linen and burning hair and something underneath it, sweet and heavy, coming in over the barricade on the fog.
 
@@ -15424,7 +15432,7 @@ Sszarra came last. Thalassa went out for her, and brought her in on her arm, slo
 
 Marcus told them.
 
-He made no speech of it. He had learned that much. He put his finger on the drawing and went through it as he had in the gorse that morning, and then gave them what the gorse had not had: Sylara on the bank to take the men who led the levy, the merfolk in the western marsh to draw the golems' end, Liora behind the tortoise with the litters, the General held back on the road for whatever went wrong. The gate, and then the bank, and then the pens, before the line could come back for them.
+He made no speech of it. He had learned that much. He put his finger on the drawing and went through it as he had in the gorse that morning, and then gave them what the gorse had not had: Sylara and her wardens on the bank to take the men who led the levy, the merfolk in the western marsh to draw the golems' end, Liora behind the tortoise with the litters, the General held back on the road for whatever went wrong. The gate, and then the bank, and then the pens, before the line could come back for them.
 
 It was a good plan. He could see Rufo hear it and nod. He could see the centurions in the door hear it, and look at each other, and stand a little straighter.
 
@@ -15694,7 +15702,7 @@ The men round him laughed. Roderic touched the bay with his heel and rode on up 
 
 The road went up out of the cut and over the brow by the empty toll-house, and then on north across the swells of the land as it had gone yesterday, straight and pale; and the army went up it in the first light.
 
-Roderic rode at its tail. That was where he had been put. The cohort went first in its column of fours, then the Lanciarii, then the long white column of the Vigil with the oil-wagons groaning behind it and the bells tied silent on the poles, and Sylara's few with their bows cased against the wet, and last the healers with their litters and their bags, and the General, on a horse that was not his, held back. He did not like it. He had not expected to like it. He rode at a walk behind Liora's litters with his reins in one hand and the other on his thigh and looked at the backs of the army going away from him up the road, and thought that a general held back sees more of his army than any other man on the field, and the part he sees most is its back.
+Roderic rode at its tail. That was where he had been put. The cohort went first in its column of fours, then the Lanciarii, then the long white column of the Vigil with the oil-wagons groaning behind it and the bells tied silent on the poles, and Sylara's few, her four young wardens, with their bows cased against the wet and Strabo walking among them as if he had been put there, which he had not, and last the healers with their litters and their bags, and the General, on a horse that was not his, held back. He did not like it. He had not expected to like it. He rode at a walk behind Liora's litters with his reins in one hand and the other on his thigh and looked at the backs of the army going away from him up the road, and thought that a general held back sees more of his army than any other man on the field, and the part he sees most is its back.
 
 The bay went well. He went the way a post-horse goes, at a steady flat walk that would have done thirty miles in the day without a change of pace, and Roderic let him. There was no sense teaching him anything this morning. He would learn what he needed in the afternoon, or he would not.
 
@@ -16408,7 +16416,7 @@ Two miles behind him, the Tharsians had all night too.
 
 "Marcus."
 
-Sylara came down the road out of the rain from the north at a run, with her bow in her hand and her hood back and her hair stuck flat to her skull, and pulled up beside him, breathing. She had been out on the swells behind the column all the way down, alone, in the gorse. He had not sent her. She did not wait to be sent any more.
+Sylara came down the road out of the rain from the north at a run, with her bow in her hand and her hood back and her hair stuck flat to her skull, and pulled up beside him, breathing. She had been out on the swells behind the column all the way down, in the gorse, with Ilvane somewhere off to her left where he never once saw her. He had not sent her. She did not wait to be sent any more.
 
 "Horse," she said. "On the far swell, a mile up. Living men, the Survey's levy horse, forty or fifty. They're sitting. Not coming on. And behind them on the road, foot. The levy off the bank. They're forming." She pushed the wet hair off her face with the back of her wrist. "They're not hurrying. They're waiting for something."
 
@@ -16418,7 +16426,7 @@ Sylara came down the road out of the rain from the north at a run, with her bow 
 
 "The dead ones? Her riders?"
 
-"Not that I saw. I'd have seen them." She looked at him. "I'd have felt them. The men would." She turned and went back up the road at a run, the way she had come, and the rain took her.
+"Not that I saw. I'd have seen them." She looked at him. "I'd have felt them. The men would. Ilvane's lying up on the near swell. If they move, she'll come." She turned and went back up the road at a run, the way she had come, and the rain took her.
 
 He stood and faced north up the road, where the rain hung over it and hid the far swell, and there was nothing to see.
 

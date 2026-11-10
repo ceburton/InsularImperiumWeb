@@ -4539,6 +4539,18 @@ In the still-room Liora sat cross-legged on her mat with a rushlight on the floo
 
 He sat down on the end of the mat and unlaced his boots. The room was warm and smelled of the spring and of dried things, and his hands, that had been in stone all day, felt as though they belonged to somebody larger.
 
+The bad leg would not fold under him yet, and he sat with it out straight along the mat. Liora's eyes went to it over the top of the quire.
+
+"Give it here," she said.
+
+"No."
+
+"It's only warmth."
+
+"Then keep it for somebody who's bleeding."
+
+Her eyes stayed on the knee a moment longer. Then she let it be.
+
 "She's finished," said Liora.
 
 "Let me see."
@@ -7105,6 +7117,18 @@ He had not meant to. His bad knee went, as it had gone on the launch-day at Cyre
 He was thinking about a boy with his back against the coal and a slate in his hands, and Valeria's hand. And an old man on a ladder with a slate, reading, and something coming up the water at him with a trident, and going on reading. All the way.
 
 He knew that kind of man. He had worked under them on the slips, and hated every one, and not one of them had ever stopped counting while he was looking.
+
+Liora came down the wet steps to him, red to the wrists, and went down on her heels on the step below and put out her hand to his knee.
+
+"Don't," he said.
+
+Her hand stopped a finger off the wool. The stair was cold, and he could feel the warmth coming off her palm anyway, through the cloth, and that was worse.
+
+"I saw it go," she said.
+
+"It's gone before. It comes back." He kept his eyes on the water. "There are men on the stair with holes in them."
+
+She took the hand back. She stayed on her heels a moment longer, with her head a little on one side. Then she got up and went back up into the dark.
 
 Somewhere behind him, up the slope, Liora was saying names, and he sat on the step and listened to the water.
 
@@ -14570,7 +14594,11 @@ It was not arranged. Gaius saw how it came about. She sat down on the bottom ste
 
 Then there was a man behind the old woman, with a name. And a girl behind him.
 
-Liora finished Gaius's hands first. She did it while the girl waited, the gold going in under her palms warm as a poultice and the broken skin closing and tightening and going quiet, and she did not look at what she was doing; she was looking at the girl. Then she let go of him and stood up and climbed two steps, so that the yard could see her, and the yard came.
+Liora finished Gaius's hands first. She did it while the girl waited, the gold going in under her palms warm as a poultice and the broken skin closing and tightening and going quiet, and she did not look at what she was doing; she was looking at the girl. When his hands were done her palm went on of its own accord to his knee, the one the hurdle had been fetched for, as it would have gone to the next man in a line of them. He took her by the wrist with his new hand and put it back in her lap.
+
+"After," he said.
+
+The girl was still waiting. Liora let it be, and stood up, and climbed two steps, so that the yard could see her, and the yard came.
 
 They came in a line that went back across the yard and out through the gate into the lane. Every one of them had somebody. A father; a wife; a child that had lived a week, in the winter. They had laid them in the barrows the old way, under the songs, and gone home, and in the autumn their dead had come home after them and knocked; and last night the cohort and the Vigil had burned what was in the barrows to ash, and nobody had said a word over any of it, because there had been no time and nobody to say it. They came up to the steps and gave her the names, and she gave each one back. She said each one slowly, with all the time in the world, and it took the morning.
 
@@ -15062,23 +15090,27 @@ Her horn.
 
 ---
 
-She came out through the gate below him and along the inside of the ditch at a walk, which was not like her, on the grey horse with no hide on its ribs. The levy at the gate saw her coming and turned their faces to the wall, every man, without an order, as men on a quay turn their backs to a wind. She did not look at them. She rode up under the gatehouse and stopped, and the rain ran off her silver hair and the crimson of her harness and the black lance socketed at her stirrup, and she looked up at his window.
+She came out through the gate below him and along the inside of the ditch at a walk, which was not like her, on the grey horse with no hide on its ribs, with someone up behind her on its crupper, sitting sideways like a farmer's wife on a cart. The levy at the gate saw her coming and turned their faces to the wall, every man, without an order, as men on a quay turn their backs to a wind. They had learned it in the winter. She turned at the end of it and rode back in under the arch, out of his sight, and the rain ran off the stonework where she had been.
 
-He did not go down. He sat down again at the table, and put his hands back on either side of the reports, and listened for her to dismount below. She had not dismounted in three years. Nor now: he heard the stirrup creak, and the horse shift, and then the creak again, and the slow hoofs going a little way off, and stopping. Then, after a little, the stair.
+He sat down again at the table, and put his hands back on either side of the reports, and listened: the stirrup's creak, the horse shifting its weight, and then iron-shod boots coming down onto the flagstones of the arch, and the levy keeping their faces to the wall while she walked through them. Two treads came up the stair, one hard and one that was hardly there.
 
-It was not Drusilla on the stair.
-
-Livia came up into the room with the rain on her shoulders like a shawl she had not troubled to take off, and stood in the doorway, and smiled at him.
+Livia came in first, with the rain on her shoulders like a shawl she had not troubled to take off. Her shoulders were bare. The black silk worked with gold had been cut to leave them so, and most of her back with them, and the wet had laid what was left of it to her as close as paint. No living woman would have worn it on this coast in a south-westerly. She stood in the doorway and smiled at him.
 
 "Centurion," she said. "Your betrothed brought me up from the harbor. She's very cross. I think it's with you."
 
-"It generally is."
+"It is," said Drusilla, behind her.
 
-"She asked me how you were." Livia came in. She looked round the room, at the stool, at the window, at the table with nothing on it but paper, like a guest shown the best room in an inn. "I said you looked thin. Was that unkind? I could go down and tell her you look well."
+She had to stoop for the lintel. She had been the tallest officer in the king's heavy horse, and she still wore its harness, the blackened steel lacquered crimson, the plate she had died in. A living rider wears that plate over a quilted coat, against the cold and the chafing. She wore it over nothing. The breastplate rode on its straps with the side-lacings let out, so that between steel and strap her skin showed from the armpit to the hip, white as a peeled withy, with the rain standing on it in beads that did not run. Her arms were bare from the shoulder-plates down. Her tassets hung from a belt slung low across her hips, and below them her thighs were bare to the greaves. The silver hair hung down her back in one wet rope.
+
+He knew why. Silk was sacking to them, and a fire was a picture of a fire, and nothing they put next to their skin could tell them anything any more. But a living man's eyes could, if they stayed. A man who looked at her wanted her, and then knew what he wanted, and was ashamed of it, and then was afraid; and every step of that had a taste.
+
+He looked at her, as he had down the long table in the Old Hill mess on the night the king gave them leave, because it was the only way he had ever looked at her; and he saw it reach her and give her nothing, as it had given her nothing for three years. She held his eyes a moment longer than a soldier would have. Then she went past him to the window and stood at it with her back to the room.
+
+"She asked me how you were," said Livia. She came in and looked round, at the stool, at the window, at the table with nothing on it but paper, like a guest shown the best room in an inn. "I said you looked thin. Was that unkind? I could tell her you look well."
 
 "She knows how I look."
 
-"Yes," said Livia. "She does."
+"Yes," said Livia, with a glance at the window. "She does."
 
 She was thinner herself. It was not in her face, which was the face she had worn at Corvus and would wear, he supposed, until the last star went out; it was in her hand. The thread ran from the fingers of it, as it always did, down into the fold of her skirt and away into the air behind her, and the lights on it were fewer than he had last seen them, and further apart, and they did not move. Two of her fingers and the thumb were grey to the second joint. At her belt, where he could see it, hung the binding that had been his: a knot of black cord and old bronze, the size of a rank-knot, with nothing in it.
 
@@ -15088,7 +15120,7 @@ She was thinner herself. It was not in her face, which was the face she had worn
 
 "I've been reading about him."
 
-"Yes." She looked at the window, and the line beyond it. "He'll come here. You know he'll come here."
+"Yes." She looked past Drusilla, at the line beyond the window. "He'll come here. You know he'll come here."
 
 "He'll come here," said Tiberius, "because you're here, and there are two hundred of Lucan's census in the quarry pens still breathing, and he will not leave them a season with you in the same island. He'll land at the south bay because it's the only beach, and come up the road because it's the only road, and he'll be at the gate inside four days with every friend he's made since the Teeth." He moved the third report a finger's width, to square it. "And I'll be here with a line of golems that can't think, and five hundred men on half biscuit who can't think either, now."
 
@@ -15098,9 +15130,11 @@ She was thinner herself. It was not in her face, which was the face she had worn
 
 "Then feed yourself." She said it gently, as she said the worst things. "You'd stand up straighter. You'd see better. You've a battle coming, Centurion. Don't you want to see it?"
 
+At the window Drusilla said, without turning round, "Listen to her."
+
 He let that go by.
 
-"I'm hungry," she said.
+"I'm hungry," said Livia.
 
 "I know."
 
@@ -15132,7 +15166,7 @@ Her eyes came round to him, slowly, and widened a little.
 
 "Say it," said Livia. "I'd like to hear you say it."
 
-He looked out of the window at the line.
+He looked out of the window at the line, past the crimson shoulder.
 
 "When it rains," he said, "and he's in front of my line and can't get past it, and his men are standing shoulder to shoulder with nothing to do but stand, you'll go down among them. In the fog. You'll talk to them." He did not look round. "Talk to them about home."
 
@@ -15142,7 +15176,13 @@ She was quiet behind him. Then he heard her let out her breath, long and slow an
 
 "What you find there," said Tiberius, "is not on my books."
 
-At the door she stopped. He heard the soft sound of the empty binding knocking at her hip as she turned.
+Drusilla turned from the window then. "And when they break," she said, "they're mine."
+
+"If they break."
+
+"They always break." She smiled at him with the fangs, which she did not do for Livia. "You taught me that. A line is a man and the man beside him. Take the man beside him."
+
+Livia went to the door. There she stopped.
 
 "The pens," he said.
 
@@ -15158,7 +15198,7 @@ She stood quite still.
 
 "Because it's better when they know," said Tiberius. "You've said so."
 
-The lights on her thread had not moved. She considered him across the bare room for a long moment, with her head a little on one side, as a pupil looks at a master who has set a problem with no answer in the back of the book.
+The lights on her thread had not moved. She considered him across the bare room for a long moment, as a pupil looks at a master who has set a problem.
 
 "And if he comes through?"
 
@@ -15168,15 +15208,91 @@ The lights on her thread had not moved. She considered him across the bare room 
 
 He did not answer that.
 
-"Your betrothed's waiting below," she said. "Shall I tell her you'll come down?"
+Livia looked from him to the woman at the window, and back, and her eyes were bright with something that was nearly kindness.
 
-"Tell her the line's to be stood to at dawn every day until he comes."
+"I'll find my own way down," she said. "Don't keep him long, my dear. He's a battle coming, and he won't eat."
 
-"That's not what she asked."
+"Go away, Livia," said Drusilla.
 
-"It's what I'm telling her."
+Livia laughed, and went. Her steps faded down the stair, and the binding knocked at her hip all the way to the bottom.
 
-Livia's steps faded down the stair. After a little he heard the horn again, beyond the curtain wall, long and low and cold, going away north toward the keep; and he did not go to the window to watch her ride.
+---
+
+Drusilla did not go. She stood in the middle of his floor with the rain standing on her, and took in the stool and the table and the paper as Livia had, and did not smile.
+
+"The line's to be stood to at dawn," he said, "every day until he comes."
+
+"That's not what I came up for."
+
+"It's what I'm telling you."
+
+"It's summer," she said. "Did you notice? We've missed another spring."
+
+He had noticed. They were to have been married the spring after the stair, at the Old Hill, with the heavy horse in the street and her father's hall swept out for it. She had said it first in the Spire, the week they raised her, in the voice she used in the mess for a horse that had come up lame on the morning of a parade: *the war's kept the engagement and cancelled the spring.* She had laughed then.
+
+She came across the room to him. She walked as she had always walked off a horse, long in the stride and heavy on the heel, as though the floor had been warned she was coming, and the iron of her boots rang on the boards, and below them in the arch the grey horse stamped once at the sound.
+
+"You'll give Livia the line," she said. "You'll give her the pens, if he takes your gate. You'll give her every woman in their letters, one at a time, in the rain." She stopped at the table's edge, over him. "And you won't take one mouthful. Not one, Tiberius. Not even what she'd leave."
+
+"No."
+
+"You'd sooner starve with them than sit at table with me."
+
+He raised his eyes to her. Under the wet hair at her brow her face was the girl's face from the Old Hill, and it was not, and he had stopped, in the second winter, trying to say to himself where the difference lay.
+
+"If I eat once," he said, "it's a meal. If I eat twice it's an allowance, and then I'm his, and there'll be nothing at the top of the stair when you come up it. Only something he keeps."
+
+She was still for a breath. Then she put out her hand and laid it flat on the reports, on all four of them, and pushed, and they went skidding off the far edge of the table and down onto the boards.
+
+He got up and picked them up. He stood them square on the stool, the Teeth on top, the edges knocked even against his palm; and behind him he heard her laugh, the first time that day, short and harsh and pleased.
+
+"Three years dead," she said, "and you square the paper."
+
+"They're the returns."
+
+"Come here, Centurion."
+
+He came. She had sat back on the table's edge where Livia had sat, and she took his wrists and put his hands on the lacings at her side, and held them there. He knew the lacings. He had learned the heavy-horse harness in the summer they were betrothed, in her father's tack room, in the dark, with her laughing at him through the straps, and his fingers had kept it when the rest went. He undid it lacing by lacing, in order, and set the breastplate on the floor by the stool with its straps folded under. She did not help him. She watched his face.
+
+She was cold to the touch, cold as the rain on the sill, and so was he. Two cold things laid together don't make a warm one: it was the quartermaster's rule for bedding men down in a frost, and it held. Her breasts were white and small and hard with the cold, and the old lance scar ran under the left one where it had been since she was twenty, and she pulled his head down to it and held him there, and he did what she wanted, slowly, because she wanted it slow.
+
+Then she wanted it otherwise. She pulled at his belt and his buckles with a cavalry officer's hands, quick and hard and sure, and had the First Legion's plate off his chest and dropped where it fell; and she drew him down onto her across the bare table, and took him into her, and set the pace: hard, and her heels in the backs of his legs, and her hands at his neck like reins. He let her lead. When she slowed, he took it from her and went slow and steady and deep, as he had always taken his turn, and she let him, and he heard her make her breath go ragged against his ear, in the old way. He felt it all as a man in mail feels a hand on his sleeve: that it was there, and where it was, and nothing of it.
+
+She was looking for something, the whole time, in his face, in his breath, with her eyes wide open; and when she could not find it there she set her teeth in his shoulder, at the place the First Legion's plate had always rubbed, and bit down, hard, hard enough to have opened a living man to the bone, and held on.
+
+He did not move. He would not make it hurt.
+
+She lifted her head. There was dark on her mouth, his, slow and thick, and she touched her tongue to it, carefully, as a steward tastes a cask he thinks has turned.
+
+"Nothing," she said. "There's nothing in you."
+
+"No."
+
+"There's never anything in you." She took his face in both hands, and her palms were cold along his jaw, and her eyes went over him as if he were a field she had lost.
+
+He waited, under her hands, with the rain coming in across the open ground and the sill dark with it, and at last she let him go.
+
+There was no end to it as there had been an end to it alive. It stopped when she stopped. She lay on the table a little with one arm over her eyes, and the beads of rain still on her ribs, and then sat up and held out her arms for the breastplate, and he laced her into it again, in order, and drew each lacing to its old hole and no tighter. When he came to the last she put her hand over his.
+
+"Tiberius."
+
+"Yes."
+
+She held his eyes, with the face of a woman who has carried something up a stair to set it down. Then she took her hand away.
+
+"It'll keep," she said.
+
+She stood, and shook out the wet rope of her hair, and was the Pale Rider again, all at once, as a squall comes back over a headland. At the door she stopped, with her head under the lintel.
+
+"They'll run at dawn," she said. "Some morning. I'll be at the keep. When I ride, look at me, for once."
+
+"I'll be at the window."
+
+"You're always at the window," said Drusilla. "You never look at me out of it."
+
+Her boots rang on the stair all the way down, and on the flags in the arch, and stopped. Then the stirrup's creak. After a little he heard the horn again, beyond the curtain wall, long and low and cold, going away north toward the keep; and he did not go to the window to watch her ride.
+
+He put on his plate, and picked up the reports from the stool, and laid them out again on the table in the order of their dates, square to its edge.
 
 He knew which way the boy would go. It was in the third report, in a three-fingered raider's words: *pulled back from the jetty in front of his whole army, at once.* For a net of lizards.
 

@@ -8528,7 +8528,7 @@ They had laid the brothers under the arch of the slip gate, on the stones, side 
 
 Merula sat on the step of the gate-tower door with his spear across his knees and his lenses folded on their cord in his hand. He was grey to the lips. There was blood dried on the haft and on his clerk's hands.
 
-Ancus had laid one of the Lanciarii's red cloaks over the two of them and put a stone on each corner against the wind, and stood looking at it with his arms hanging, like a man who has done all the cooking there is and cannot think what comes next.
+Ancus had laid one of the Lanciarii's blue cloaks over the two of them and put a stone on each corner against the wind, and stood looking at it with his arms hanging, like a man who has done all the cooking there is and cannot think what comes next.
 
 Velthur's boy sat at the brothers' feet on the wet stones with a blanket round him and their two planes across his knees, one hand on each. He had not, Tuccius thought, been asleep at all.
 
@@ -8614,7 +8614,7 @@ The Navarch thought about it.
 
 "I'm writing to the prince," said Tuccius. "Today."
 
-"Good," said the Navarch, and sat down, and dipped his pen; and Tuccius went down the stair past the door the brothers had held, and round the red cloak on the stones, and knew without looking up that the Navarch was writing again.
+"Good," said the Navarch, and sat down, and dipped his pen; and Tuccius went down the stair past the door the brothers had held, and round the blue cloak on the stones, and knew without looking up that the Navarch was writing again.
 
 ---
 
@@ -10106,7 +10106,7 @@ Marcus gave Gaius his sword.
 
 He did it without saying anything, hilt first, and Gaius took it because there was nothing else to do with it. Then he unbuckled his helmet and gave Gaius that too. Then he went down off the ledge onto the fan.
 
-He took the ridges of the old slag as if they were the steps of a stair, and the wind took his cloak, and he kept on until he was well out on the black face of the fan, in plain sight of the mountain and the ships and the sky, a man in a red cloak alone on a slope of black glass with his hands empty at his sides. Then he stopped, and looked up at the vent.
+He took the ridges of the old slag as if they were the steps of a stair, and the wind took his cloak, and he kept on until he was well out on the black face of the fan, in plain sight of the mountain and the ships and the sky, a man in a blue cloak alone on a slope of black glass with his hands empty at his sides. Then he stopped, and looked up at the vent.
 
 No call, no wave. He stood.
 
@@ -10132,7 +10132,7 @@ On the nearer hull, the bolt-thrower stopped turning.
 
 Its voice was not loud. It was dry. It came up out of the great length of the throat like air out of a bellows nobody has worked in years, with a rattle at the bottom of it, and it carried up the fan to the ledge as clear as if it had been said beside him. It spoke the common tongue, old, every word put down separately and square, as the clans spoke it.
 
-"You came up my mountain," it said, "to stand on my slag in a red cloak. My flock has been watching you for many days. They say you will not let the little ones shoot us."
+"You came up my mountain," it said, "to stand on my slag in a blue cloak. My flock has been watching you for many days. They say you will not let the little ones shoot us."
 
 "They're not little," said Marcus.
 
@@ -11238,6 +11238,12 @@ He turned to the town. The lamps were out in the daylight, all of them. He could
 
 The fleet came out past the outer mole and stood north up the coast, with the land on the left hand and the Grey a long way off on the right, low and pale along the sea.
 
+*Constancy* came out last, with Strabo at her masthead; and at her stem, where Faelar had sat all the way west, four young wardens sat in their grey with their bows across their knees and their faces to the north.
+
+Faelar's hundred had gone ashore at Silverwood on the way home. The fleet had lain a night in the western bay, and in the morning the elders came down to the black rock and sang the song open, as the treaty said they would, and the hundred went up the beach into the trees in their grey file without looking back, which was how the wood did it. Four did not. Ilvane came back down the sand before the boats pushed off, with the three who had answered Sereth's note beside her, and waded out to *Constancy* and climbed in over the rail and sat down at the stem. Faelar stood on the beach and looked at the four of them for a long time. Then he looked up at the masthead, where Strabo was. Then he went up into the trees.
+
+Sylara had gone across to *Constancy* that night and sat at the stem with them until the middle watch, talking low in the elven speech. In the morning she came back to the *Forward* and told Marcus they were hers now, if he had no objection, and went below before he could have one.
+
 He went aft.
 
 The quaestor was in the stern, by the taffrail, on the coil of cable where she had sat all the way from Stoneheart. She was not alone on it. Alana was beside her, with the weather-book open across both their knees, and the wind was taking the pages, and they were holding them down between them, one hand each, and arguing.
@@ -11286,7 +11292,7 @@ She had spent her life reading ground: where a file could stand and where it wou
 
 They went in on foot, because the boats would not go.
 
-Marcus went first, with the water to his thighs and his red cloak bundled over one shoulder out of it. She kept at his back, a spear's length behind, with her eyes on the reed. Behind her came half a file of the Lanciarii with their lanceae held up; then the General, wading as though he had decided to find it amusing; then Gaius, who had not, with his bad knee. Thalassa was in the water ahead of them all, swimming on her back with her blue hair spread out on the brown and her face turned up to the steam.
+Marcus went first, with the water to his thighs and his blue cloak bundled over one shoulder out of it. She kept at his back, a spear's length behind, with her eyes on the reed. Behind her came half a file of the Lanciarii with their lanceae held up; then the General, wading as though he had decided to find it amusing; then Gaius, who had not, with his bad knee. Thalassa was in the water ahead of them all, swimming on her back with her blue hair spread out on the brown and her face turned up to the steam.
 
 The channel bent. It widened into a pool, still and brown, with the reed standing round it close as the walls of a room. In the middle of the pool a log lay half-sunk, black with wet, the length of a small ship, with one end on the mud and the other going down into the water at a long slant.
 
@@ -11749,6 +11755,8 @@ Rufo turned in the water to keep her in front of him, and put his fingers up to 
 Valeria watched a man who had stood in the first rank in front of every horror the Tharsians could send up a beach measure the distance to a woman in a warm pool, and decide it was too far.
 
 Sylara laughed: not a pretty sound, a short delighted bark, like a fox's. She came in to him under the water, and Valeria looked up into the willows, and heard a great splash, and the three on the far side cheer.
+
+Somebody else was laughing up in the willows: Strabo, flat along a branch over the water, who had the best eyes in the cohort and had plainly not seen her go either. The young warden on the branch above him had. She held her hand down to him without looking, and he put a coin in it.
 
 Presently somebody sat down on the shell beside her, somebody large, who smelled of horse liniment and had no business smelling of it in a fen with no horses. She did not turn her head.
 
@@ -13270,7 +13278,7 @@ The cutter ran up under the *Forward*'s lee and spilled her wind and lay there, 
 
 "The prince's," Marcus called back. "Marcus. Out of Cyrene, from Viper's Fen."
 
-She looked at him for a breath, at the red cloak and the jaw, and then at the deck behind him, the cohort along the rail, the Lanciarii's hafts racked by the mast, Sylara's bow. If she had heard of him she did not say so.
+She looked at him for a breath, at the blue cloak and the jaw, and then at the deck behind him, the cohort along the rail, the Lanciarii's hafts racked by the mast, Sylara's bow. If she had heard of him she did not say so.
 
 "I'm carrying the Knight-Abbess's report to the capital, Highness. Ghoul's End." She said the name flatly, like a disease she had nursed. "The crypts are open. Three of them, since the autumn. The dead are walking the moor villages at dusk, and the villages have shut themselves in with whatever they could carry: pews, ploughs, peat-stacks. The fog won't lift. The Knight-Abbess has gone in with the Vigil."
 
@@ -13618,7 +13626,7 @@ Since the first winter dusk Col had come down every night. He knocked at the doo
 
 They came at dusk.
 
-Marcus had the cohort in the lanes and the Lanciarii at the gap, and Sylara on the chapel roof with her bow and every arrow Gaius had been able to wrap in oiled rag; torches in every hand that could hold one, and the carts drawn up across the lane-mouths inside the barricade with the oil casks open on them and a man at each with a ladle. He had given each order once, and each was done before he had finished giving the next. He stood in the middle of the village where the three lanes met, by the chapel steps, and felt the whole of it set round him, every man where he had put him, like the parts of a lock; and the feeling was so good that he was a little ashamed of it.
+Marcus had the cohort in the lanes and the Lanciarii at the gap, and Sylara and her four wardens on the chapel roof with their bows and every arrow Gaius had been able to wrap in oiled rag, and Strabo up there with them, because he could see oars through a fog and Marcus hoped he could see the dead through this one; torches in every hand that could hold one, and the carts drawn up across the lane-mouths inside the barricade with the oil casks open on them and a man at each with a ladle. He had given each order once, and each was done before he had finished giving the next. He stood in the middle of the village where the three lanes met, by the chapel steps, and felt the whole of it set round him, every man where he had put him, like the parts of a lock; and the feeling was so good that he was a little ashamed of it.
 
 Then the fog came over the barricade.
 
@@ -13668,7 +13676,7 @@ He stepped forward again, onto the ground he had given, and put his shield up sq
 
 After that it was fire and fog for hours, and he would remember it afterward in pieces.
 
-A ladle of oil going over a pew in a long dark rope, and the man who threw it shouting as it caught. A village lad on a roof above the lane with a peat-spade, knocking a grey hand off the eaves as if he were clearing snow. Sylara's arrows coming down out of the white over his head one after another with a sound like tearing silk, little flying lamps, and lost in the fog before they landed so that he never saw them land, only heard them, a soft thump and a whoosh beyond the barricade, and a light. The General's voice, never loud, never stopping, somewhere in the lane by the chapel: *Hold there. Good. Hold there. Tappo, the torch, over, there, good lad.* A child crying in the chapel behind the barred door, on and on, one note, and its mother singing to it, and the knocking, all the time the knocking, on every door, two and one and three and quick and slow. Alana at the head of the north lane with her hands up and the fire going out of them along the pews in a sheet, so that for a breath the whole lane stood out in the white, every stone, every face; and afterward Alana on a doorstep with her hands between her knees, shaking, and Rusca crouched beside her in the borrowed cloak, holding a cup to her mouth.
+A ladle of oil going over a pew in a long dark rope, and the man who threw it shouting as it caught. A village lad on a roof above the lane with a peat-spade, knocking a grey hand off the eaves as if he were clearing snow. The wardens' arrows coming down out of the white over his head one after another with a sound like tearing silk, little flying lamps, and lost in the fog before they landed so that he never saw them land, only heard them, a soft thump and a whoosh beyond the barricade, and a light; and up on the roof between them Strabo's voice, flat and unhurried, as if he were calling oars at sea, *two, by the peat-stack, low*, and an arrow going where it said. The General's voice, never loud, never stopping, somewhere in the lane by the chapel: *Hold there. Good. Hold there. Tappo, the torch, over, there, good lad.* A child crying in the chapel behind the barred door, on and on, one note, and its mother singing to it, and the knocking, all the time the knocking, on every door, two and one and three and quick and slow. Alana at the head of the north lane with her hands up and the fire going out of them along the pews in a sheet, so that for a breath the whole lane stood out in the white, every stone, every face; and afterward Alana on a doorstep with her hands between her knees, shaking, and Rusca crouched beside her in the borrowed cloak, holding a cup to her mouth.
 
 They did not climb well. That was something. Gaius had asked the right question, and the barricade had answered it: the dead came at it slowly and stupidly and without fear, and tried to come over it, and the pews and the ploughs and the nailed plates held them for the space of a breath while the oil went over and the fire came after it. Steel slowed them. Fire ended them. The cohort learned it in the first hour and then stopped having to think about it, and worked, in the white, with the stink of burning linen and burning hair and something underneath it, sweet and heavy, coming in over the barricade on the fog.
 
@@ -13750,7 +13758,7 @@ Then a wait. Then two, and one.
 
 Hart was talking. Marcus had not heard it at first under the wind; it was a low slow sound, like a man talking to a horse in a stall. He had leaned forward on his stool with his elbows on his knees and his face close to the planks of the cart.
 
-"…the north fold's down again, I told Una she'd want to get somebody to it before the lambing, but she's not been out to it, nobody has. Your ewes'll be all over the moor. They'll want gathering when this is done. I'll do it. I know your marks." The knock came, two and one. Hart waited until it had finished, politely, as for a friend finishing a sentence. "Aye. I know. There's a prince here. Come all the way from the south, with a lot of lads in red and a fair woman with a spear that's not sat down till this hour. They've burned half the moor. You'd have laughed. You always said the moor wanted burning." Two, and one. "No. I'll not open. You know I'll not. You'd not want me to, if you were in there. You'd box my ears."
+"…the north fold's down again, I told Una she'd want to get somebody to it before the lambing, but she's not been out to it, nobody has. Your ewes'll be all over the moor. They'll want gathering when this is done. I'll do it. I know your marks." The knock came, two and one. Hart waited until it had finished, politely, as for a friend finishing a sentence. "Aye. I know. There's a prince here. Come all the way from the south, with a lot of lads in blue and a fair woman with a spear that's not sat down till this hour. They've burned half the moor. You'd have laughed. You always said the moor wanted burning." Two, and one. "No. I'll not open. You know I'll not. You'd not want me to, if you were in there. You'd box my ears."
 
 Valeria's thumb was moving on the haft of the Farrier, slowly, up and down, on the place worn smooth. Marcus looked away from it.
 
@@ -14135,7 +14143,7 @@ She turned her head and looked at him, and the corner of her mouth went in.
 ---
 The heart of the moor was a long walk, and most of it uphill.
 
-They went at dusk with the pump on a cart and the oil on two more, the men in the shafts and the men behind pushing, up out of the fold and north and west along a sheep-track that Hart had drawn for them in the ash of the Vigil's fire. Hart had not come. Cassandra had. She walked at the head of it with the prince, white cloak and red, and a dozen of her sisters came behind with their lanterns lit and hooded, and the cohort came behind them, and the moor went up and up under their feet into the grey.
+They went at dusk with the pump on a cart and the oil on two more, the men in the shafts and the men behind pushing, up out of the fold and north and west along a sheep-track that Hart had drawn for them in the ash of the Vigil's fire. Hart had not come. Cassandra had. She walked at the head of it with the prince, white cloak and blue, and a dozen of her sisters came behind with their lanterns lit and hooded, and the cohort came behind them, and the moor went up and up under their feet into the grey.
 
 The fog came with the dark. It did not roll in or blow; it was simply there, as the dark was, lying in every hollow they went down into and thinning on every rise they climbed, cold on the face and on the backs of the hands, smelling of nothing. His knee had stopped complaining somewhere on the climb and gone quiet, which was worse.
 
@@ -14462,7 +14470,7 @@ Gaius sat on the kerb-stone at the barrow's door, with the pump across his knees
 
 What was left of it. The box had split along its seam, the bronze gone blue and rippled where the heat had been worst, and both barrels had sagged, so that they no longer lay true on the bed but leaned against each other like two drunk men. The clack was a curl of black leather on a bent hinge. He could see, now, exactly where he had been wrong about the pipe, and what he would do next time.
 
-Behind him, by the burned-out cart, Alana was asleep against Marcus with the prince's red cloak over the two of them and her right hand in his, still now. She had said, just before she slept, with her eyes shut, *I'll mend it. Give it to me in the morning. I'll mend it by hand.* Marcus had looked across at Gaius over her head, and Gaius had nodded, and the prince had settled back against the cart's wheel and shut his own eyes, and had not moved since.
+Behind him, by the burned-out cart, Alana was asleep against Marcus with the prince's blue cloak over the two of them and her right hand in his, still now. She had said, just before she slept, with her eyes shut, *I'll mend it. Give it to me in the morning. I'll mend it by hand.* Marcus had looked across at Gaius over her head, and Gaius had nodded, and the prince had settled back against the cart's wheel and shut his own eyes, and had not moved since.
 
 Liora came and sat down beside him on the kerb.
 
@@ -14966,7 +14974,7 @@ The returns came up from the arsenal at the second hour after noon, in the rain,
 
 Tiberius let him stand there. He had the gatehouse of the outer works to himself, the upper room, with a table and a stool and a window cut for a bolt-thrower that had never been mounted, and through the window the rain coming in over the open ground in long grey curtains off the sea. He had chosen the room for the window. From it he could see all of the line.
 
-It stood where he had stood it, three hundred paces out across the turf, in front of the ditch: four ranks of iron men, shoulder to shoulder, from the marsh on the right to the quarry cut on the left, with the road left open between them a cart's width, straight to his gate. They had not moved since the morning. They had not moved, most of them, since the winter. The rain ran down them and dripped off their elbows and their chins and the rims of their shields, and pooled at their feet, and they stood in the pools. Nothing on the island was as patient as they were. He had watched a gull land on a Construct's helmet once, at dawn, and sit there until noon, and go away again, and the Construct had not known.
+It stood where he had stood it, three hundred paces out across the turf, in front of the ditch: four ranks of iron golems, shoulder to shoulder, from the marsh on the right to the quarry cut on the left, with the road left open between them a cart's width, straight to his gate. They had not moved since the morning. They had not moved, most of them, since the winter. The rain ran down them and dripped off their elbows and their chins and the rims of their shields, and pooled at their feet, and they stood in the pools. Nothing on the island was as patient as they were. He had watched a gull land on a golem's head once, at dawn, and sit there until noon, and go away again, and the golem had not known. The foundries behind the curtain wall poured them, and the arsenal carried each one on its books at the price of a war galley and nothing at all for its keep.
 
 "Put it on the table," he said.
 
@@ -14976,7 +14984,7 @@ He opened the bag.
 
 The ration return was on top, as he had ordered. Bastion's quaestor wrote a beautiful hand and had nothing to say in it. Levies at the outer works: so many. Biscuit: so much, at half the allowance. Salt fish: none. Oil: none. Wine: none, which was the only line on the page he approved of. At the foot, under the quaestor's seal, the same sentence as the last four returns: *The allowance for the outer works is as directed by the Spire.* He read it twice, as he read everything twice, and put it face down.
 
-Half rations made a man slow on the second day and stupid on the fifth, and on about the twelfth he would sell his spear for an onion. Tiberius had five hundred living men in the outer works on half rations and the Spire's sentence at the foot of every return. He had a line of iron that could not be tired and could not be frightened and could not be taught. And he had a ditch, and a gate, and a road that came up to it from the south bay, where the runner would land.
+Half rations made a man slow on the second day and stupid on the fifth, and on about the twelfth he would sell his spear for an onion. Tiberius had five hundred living men in the outer works on half rations and the Spire's sentence at the foot of every return. He had a line of golems that could not be tired and could not be frightened and could not be taught. And he had a ditch, and a gate, and a road that came up to it from the south bay, where the runner would land.
 
 *Runner.* He put his finger on the word where it lay, under the ration return, on the cover of the next packet in Lucan's own clerk's hand: *Copies. For the commander at Bastion. The runner's year.*
 
@@ -14992,7 +15000,7 @@ There were four reports in the packet, and he laid them out on the table in the 
 
 *Ghoul's End.* Four lines, unsigned, from the north. He knew whose they were without the signature. *He kept me talking. I let him. He was very good. The census is withdrawn.*
 
-He read them all twice. Then he sat with his hands flat on the table on either side of them and read them a third time, which he never did, and the rain came in across the open ground and ran down the iron faces of his line.
+He read them all twice. Then he sat with his hands flat on the table on either side of them and read them a third time, which he never did, and the rain came in across the open ground and ran down the iron of his line.
 
 It was not what the boy had done. It was how.
 
@@ -15002,7 +15010,7 @@ At the Forge he had asked the dwarves before he went in. At the fen he had pulle
 
 Tiberius had asked it first. He had asked it of a draft of recruits on the parade ground under the Old Hill in the spring of the year Titus came of age, with a boy of seventeen standing at his elbow with a tablet to write the answers on, because a prince must learn the ranks; and the boy had been quick, and bored, and had written the answers in a hand like a hurry. It was the First Legion's question. It was his. He had made it the Legion's, out of a book of his own, kept in a box under his cot, which he had called his doctrine and which nobody but the boy had ever read.
 
-He was standing. He stood at the bolt-thrower's window with the cold air coming in on his face and the four reports behind him on the table, square to its edge, and looked out at the line of iron that did not need to be asked anything, and laughed, once, quietly, in his throat.
+He was standing. He stood at the bolt-thrower's window with the cold air coming in on his face and the four reports behind him on the table, square to its edge, and looked out at the golems, who did not need to be asked anything, and laughed, once, quietly, in his throat.
 
 *So you were listening.*
 
@@ -15044,7 +15052,7 @@ She was thinner herself. It was not in her face, which was the face she had worn
 
 "Yes." She looked at the window, and the line beyond it. "He'll come here. You know he'll come here."
 
-"He'll come here," said Tiberius, "because you're here, and there are two hundred of Lucan's census in the quarry pens still breathing, and he will not leave them a season with you in the same island. He'll land at the south bay because it's the only beach, and come up the road because it's the only road, and he'll be at the gate inside four days with every friend he's made since the Teeth." He moved the third report a finger's width, to square it. "And I'll be here with a line of iron that can't think, and five hundred men on half biscuit who can't think either, now."
+"He'll come here," said Tiberius, "because you're here, and there are two hundred of Lucan's census in the quarry pens still breathing, and he will not leave them a season with you in the same island. He'll land at the south bay because it's the only beach, and come up the road because it's the only road, and he'll be at the gate inside four days with every friend he's made since the Teeth." He moved the third report a finger's width, to square it. "And I'll be here with a line of golems that can't think, and five hundred men on half biscuit who can't think either, now."
 
 "Then feed them."
 
@@ -15074,7 +15082,7 @@ Then she laughed, delighted, and clapped her grey hand against her knee.
 
 He had. He had thought of it while he was reading the third report the third time, and he had put it down, and it had not stayed down.
 
-The runner's men were not iron. That was all their strength. They stood in a line because the man beside them stood, and the man beside them stood because of the man beside him, and the runner went down the line before a fight and asked each of them his trade, and they stood the better for it. It was a good doctrine. Tiberius had written it. And every man in that line had somebody somewhere who was not in it, and thought about her in the rain.
+The runner's men were not golems. That was all their strength. They stood in a line because the man beside them stood, and the man beside them stood because of the man beside him, and the runner went down the line before a fight and asked each of them his trade, and they stood the better for it. It was a good doctrine. Tiberius had written it. And every man in that line had somebody somewhere who was not in it, and thought about her in the rain.
 
 "You have letters," he said.
 
@@ -15106,7 +15114,7 @@ She stood quite still.
 
 "So I'm to hope he wins."
 
-"You're to tell him. When he's in my gate, with it open in front of him and the iron shut behind. Tell him what's on the other side of it, and whose it will be when he gets there." His eyes went to the window. "Tell him where they were entered from."
+"You're to tell him. When he's in my gate, with it open in front of him and the golems shut behind. Tell him what's on the other side of it, and whose it will be when he gets there." His eyes went to the window. "Tell him where they were entered from."
 
 "Why ever would I tell him?"
 
@@ -15250,9 +15258,9 @@ In front of the bank, on the open ground below it, stood the line.
 
 They went up as far as the last swell of the land before it, half a mile short, and lay down in the wet gorse along the crest, and looked at it.
 
-It was iron. He had known that. He had read the Navarchy's charts and heard the dwarves talk of the Constructs that the Survey had once tried to sell them, and he had thought he knew what an iron man would look like standing in a line. He had not known. They stood four deep in front of the ditch from the marsh to the quarry-cut, shoulder to shoulder, shields up, and the rain silvered them, helm and shoulder and shield, and they did not move. He watched them for the time it takes to say a long prayer and not one of them moved. Men in a line move. They shift their weight, and spit, and look along the rank at their friends, and scratch, and a line of men from half a mile off shimmers like a field of barley in the wind. This did not shimmer. It stood on the turf like a fence that somebody had built across the island out of iron posts, and the rain ran down it. Only where the road came to it did the fence open: the iron stood back on either side and left the paving clear, a cart's width, across the ditch by a causeway and on to the gate.
+It was iron. He had known that. He had read the Navarchy's charts and heard the dwarves talk of the iron golems that the Survey had once tried to sell them, and he had thought he knew what a golem would look like standing in a line. He had not known. They were bigger than men. Even at half a mile he could see it: a head taller than the tallest man in the cohort and half as broad again, heavy in the shoulder, with no neck to speak of, made in the shape of a soldier by somebody who had only ever had a soldier described to him. They stood four deep in front of the ditch from the marsh to the quarry-cut, shoulder to shoulder, shields up, and the rain silvered them, helm and shoulder and shield, and they did not move. He watched them for the time it takes to say a long prayer and not one of them moved. Men in a line move. They shift their weight, and spit, and look along the rank at their friends, and scratch, and a line of men from half a mile off shimmers like a field of barley in the wind. This did not shimmer. It stood on the turf like a fence that somebody had built across the island out of iron posts, and the rain ran down it. Only where the road came to it did the fence open: the golems stood back on either side and left the paving clear, a cart's width, across the ditch by a causeway and on to the gate.
 
-A rook came down out of the rain and landed on the shield-rim of a Construct in the front rank, and sat there, and shook its feathers, and the Construct did not so much as turn its head.
+A rook came down out of the rain and landed on the shield-rim of a golem in the front rank, and sat there, and shook its feathers, and the golem did not so much as turn its head.
 
 The rain ticked in the gorse.
 
@@ -15262,31 +15270,37 @@ Sylara had her bark-book out, under the edge of her cloak, out of the wet. She d
 
 "More than us," she said at last. "Twice. Not three times." She closed the book. "And the men on the bank behind them. Those are living. They move. Five hundred, maybe. They're thin. You can see it from here. They lean."
 
-He could see it, now that she said it. A line of men along the top of the bank, behind the iron, in Tharsian black gone grey in the wet, leaning on their spears on the stone facing.
+He could see it, now that she said it. A line of men along the top of the bank, behind the golems, in Tharsian black gone grey in the wet, leaning on their spears on the stone facing.
 
-Gaius had not said anything. He lay in the gorse at Marcus's other side with his chin on his fists and looked at the Constructs, and there was nothing on his face to read, because the eyebrows had not come back yet, only a faint dark stubble along the bone where they had been, like a field after burning; and Marcus had learned in five days that a Gaius with no eyebrows looked at a thing exactly as he looked at a joist he was going to have to replace.
+Gaius had not said anything. He lay in the gorse at Marcus's other side with his chin on his fists and looked at the golems, and there was nothing on his face to read, because the eyebrows had not come back yet, only a faint dark stubble along the bone where they had been, like a field after burning; and Marcus had learned in five days that a Gaius with no eyebrows looked at a thing exactly as he looked at a joist he was going to have to replace.
 
 "Well?" said Marcus.
 
-"The dwarves told me about them," said Gaius. "At Stoneheart. Brokk did. The Survey brought one up the Long Seam once, to sell it to the clans, and Brokk's grandfather broke it." He did not take his eyes off the line. "He says they re-form. You break a hole in the front rank and the ones either side close it, and the second rank comes up, and in nine heartbeats it's a line again. They don't wait for an order. They don't need one. That's what they're for." He moved his chin on his fists. "So Brokk's crews loose in eight. Catapults, laid on the line, all together, in eight heartbeats, and again in eight, and the hole stays open because there's always another stone coming into it before it can close. That's how you break them. You don't break them with men."
+"The dwarves told me about them," said Gaius. "At Stoneheart. Brokk did. The Survey brought one up the Long Seam once, to sell it to the clans, and Brokk's grandfather broke it." He did not take his eyes off the line. "The Survey's man told the clans how they're made, to get the price up. They're poured in the foundries in pieces, front and back, the way you'd cast a pot, and riveted shut. Then they go to an altar, and something's written into them, and they stand up. Brokk's grandfather had the broken one opened, to see. There was nothing in it. No wheels, no works, nothing that turned. Only the writing, cut all over the inside of the iron, small and close, like a clerk's."
+
+Sylara's pencil had stopped.
+
+"Brokk says they re-form. You break a hole in the front rank and the ones either side close it, and the second rank comes up, and in nine heartbeats it's a line again. They don't wait for an order. They don't need one. That's what they're for." He moved his chin on his fists. "So Brokk's crews loose in eight. Catapults, laid on the line, all together, in eight heartbeats, and again in eight, and the hole stays open because there's always another stone coming into it before it can close. That's how you break them. You don't break them with men."
 
 "We've no catapults."
 
 "No," said Gaius. "We've not. They're at Stoneheart, and Brokk's with them, and Ketta took the best crew north to the capital in the *Patience*." He said it without any weight on it at all. "I'm only saying how it's done."
 
+Marcus lay in the wet gorse and looked past the golems at the bank, at the thin men leaning on it, and thought of Faelar's hundred going up the beach at Silverwood into the trees in their grey file, without looking back. A hundred bows on that crest, and the levy's leaders would never get their men up off the stone. Four of those bows were in the gorse beside him. The rest were the whole width of the sea behind him, and there was no time to send and wait. He wished there were. He wished it once, hard, and then made himself look at the line again.
+
 "I heard you."
 
 "I know you did, Highness."
 
-Marcus looked along the line, at the gatehouse in the middle of the bank, and the road going in under it, and the living men on the bank above the iron; and something moved in him that he knew, the cold quick thing that came up in him before a fight and laid the ground out in front of him like a board, every piece on it, and showed him the move. It had come up at the Forge and at the jetty and in the lanes of the tor village.
+Marcus looked along the line, at the gatehouse in the middle of the bank, and the road going in under it, and the living men on the bank above the golems; and something moved in him that he knew, the cold quick thing that came up in him before a fight and laid the ground out in front of him like a board, every piece on it, and showed him the move. It had come up at the Forge and at the jetty and in the lanes of the tor village.
 
-"We don't break them," he said. "We don't have to. They stand in front of the ditch. They're a wall in front of a wall. But they're not on the bank, and they're not in the gate." He put his finger in the wet turf in front of him, and drew: the line, the ditch, the bank, the gate. "The gate's held by men. Thin men, on half rations, who lean on their spears. If the cohort goes in a tortoise up the road to the gate, the line has to turn to come to us, and while it's turning the Lanciarii and the Vigil take the bank either side of the gate, where it's men, not iron; and once we have the gate we have the bank, and the iron's outside it with its back to us. And the pens are behind the bank."
+"We don't break them," he said. "We don't have to. They stand in front of the ditch. They're a wall in front of a wall. But they're not on the bank, and they're not in the gate." He put his finger in the wet turf in front of him, and drew: the line, the ditch, the bank, the gate. "The gate's held by men. Thin men, on half rations, who lean on their spears. If the cohort goes in a tortoise up the road to the gate, the line has to turn to come to us, and while it's turning the Lanciarii and the Vigil take the bank either side of the gate, where it's men, not golems; and once we have the gate we have the bank, and the golems are outside it with their backs to us. And the pens are behind the bank."
 
 He looked up from the turf.
 
 Valeria was looking at the drawing, not at him. Her face was the face from the fen, closed and busy.
 
-"Iron turns quick," she said. "Quicker than men. We don't know how quick."
+"Golems turn quick," she said. "Quicker than men. We don't know how quick."
 
 "Then we'll find out."
 
@@ -15420,7 +15434,7 @@ Sszarra came last. Thalassa went out for her, and brought her in on her arm, slo
 
 Marcus told them.
 
-He made no speech of it. He had learned that much. He put his finger on the drawing and went through it as he had in the gorse that morning, and then gave them what the gorse had not had: Sylara on the bank to take the men who led the levy, the merfolk in the western marsh to draw the iron's end, Liora behind the tortoise with the litters, the General held back on the road for whatever went wrong. The gate, and then the bank, and then the pens, before the line could come back for them.
+He made no speech of it. He had learned that much. He put his finger on the drawing and went through it as he had in the gorse that morning, and then gave them what the gorse had not had: Sylara and her wardens on the bank to take the men who led the levy, the merfolk in the western marsh to draw the golems' end, Liora behind the tortoise with the litters, the General held back on the road for whatever went wrong. The gate, and then the bank, and then the pens, before the line could come back for them.
 
 It was a good plan. He could see Rufo hear it and nod. He could see the centurions in the door hear it, and look at each other, and stand a little straighter.
 
@@ -15438,7 +15452,7 @@ The room was quiet in a different way.
 
 "Ready for what?"
 
-"For that." She did not look at the drawing. She looked at him. "We've been at sea since the spring. The men are tired. Half the Lanciarii have had one night ashore in ten since the fen. The General's on a post-horse he met yesterday. Gaius says there's one way to break that line, and it's at Stoneheart. We came here because you said south, and we came quick because nothing has gone wrong yet." She said it as she would have given a drill-call. "Go back to Cyrene. Send for Brokk and his crews and the king's iron. You promised the king you'd send to him first. Forty days, he said. The whole cove heard you promise it. Come back in the autumn with catapults, and the line's a line of iron posts, and we knock them down."
+"For that." She did not look at the drawing. She looked at him. "We've been at sea since the spring. The men are tired. Half the Lanciarii have had one night ashore in ten since the fen. The General's on a post-horse he met yesterday. Gaius says there's one way to break that line, and it's at Stoneheart. We came here because you said south, and we came quick because nothing has gone wrong yet." She said it as she would have given a drill-call. "Go back to Cyrene. Send for Brokk and his crews and the king's iron. Beat the drum at Silverwood for Faelar's hundred. You promised the king you'd send to him first. Forty days, he said. The whole cove heard you promise it. Come back in the autumn with catapults, and the line's a line of iron posts, and we knock them down."
 
 "And the pens?"
 
@@ -15456,7 +15470,7 @@ He looked at her across the table, and she looked back, and neither of them move
 
 "Can the tortoise hold the gate?"
 
-"Against men, yes. A morning. A day, if it has to." Gaius had his boxwood rule in his hand and was turning it end over end. "Against the iron, I've told you what I know, and you heard me. I don't know how fast they turn. Nobody here does. If they turn fast, the tortoise is in the gate with the iron behind it and the bank in front, and there's nothing in this army that can open a hole in that line from the outside to let it out." He stopped turning the rule. "That's all. I'll build you whatever you want for it. You know I will."
+"Against men, yes. A morning. A day, if it has to." Gaius had his boxwood rule in his hand and was turning it end over end. "Against the golems, I've told you what I know, and you heard me. I don't know how fast they turn. Nobody here does. If they turn fast, the tortoise is in the gate with the golems behind it and the bank in front, and there's nothing in this army that can open a hole in that line from the outside to let it out." He stopped turning the rule. "That's all. I'll build you whatever you want for it. You know I will."
 
 "I know."
 
@@ -15468,7 +15482,7 @@ She had not moved her hands from the table's edge. The room turned to her, all o
 
 Nobody spoke.
 
-Marcus looked down at the drawing under his hand: the line, the ditch, the bank, the gate. It was still good. He could see it was good. He could see the tortoise going up the road in the grey light, and the iron turning, and the gate. Every time the ground had been where he saw it and the men had been where he put them, because they were his men and they had never once failed him.
+Marcus looked down at the drawing under his hand: the line, the ditch, the bank, the gate. It was still good. He could see it was good. He could see the tortoise going up the road in the grey light, and the golems turning, and the gate. Every time the ground had been where he saw it and the men had been where he put them, because they were his men and they had never once failed him.
 
 "Tide-Speaker," he said. "You came round the north in the cold to tell me that."
 
@@ -15588,7 +15602,7 @@ She waited.
 
 She said it as she would have given him the wind's quarter.
 
-He thought of the drawing on the table, and how good it had been, and the tortoise going up the grey road, and the iron turning; and he thought of Valeria saying *Highness* and going out. And under them both, so far down that he did not know it was there until it moved, he thought of Tiberius, which he had not done in weeks: of a parade ground under the Old Hill, and a tablet, and a voice saying *What can you do that I can't?* to a line of recruits, and writing their answers down for him in a hand that wanted to be elsewhere.
+He thought of the drawing on the table, and how good it had been, and the tortoise going up the grey road, and the golems turning; and he thought of Valeria saying *Highness* and going out. And under them both, so far down that he did not know it was there until it moved, he thought of Tiberius, which he had not done in weeks: of a parade ground under the Old Hill, and a tablet, and a voice saying *What can you do that I can't?* to a line of recruits, and writing their answers down for him in a hand that wanted to be elsewhere.
 
 He put it away.
 
@@ -15690,7 +15704,7 @@ The men round him laughed. Roderic touched the bay with his heel and rode on up 
 
 The road went up out of the cut and over the brow by the empty toll-house, and then on north across the swells of the land as it had gone yesterday, straight and pale; and the army went up it in the first light.
 
-Roderic rode at its tail. That was where he had been put. The cohort went first in its column of fours, then the Lanciarii, then the long white column of the Vigil with the oil-wagons groaning behind it and the bells tied silent on the poles, and Sylara's few with their bows cased against the wet, and last the healers with their litters and their bags, and the General, on a horse that was not his, held back. He did not like it. He had not expected to like it. He rode at a walk behind Liora's litters with his reins in one hand and the other on his thigh and looked at the backs of the army going away from him up the road, and thought that a general held back sees more of his army than any other man on the field, and the part he sees most is its back.
+Roderic rode at its tail. That was where he had been put. The cohort went first in its column of fours, then the Lanciarii, then the long white column of the Vigil with the oil-wagons groaning behind it and the bells tied silent on the poles, and Sylara's few, her four young wardens, with their bows cased against the wet and Strabo walking among them as if he had been put there, which he had not, and last the healers with their litters and their bags, and the General, on a horse that was not his, held back. He did not like it. He had not expected to like it. He rode at a walk behind Liora's litters with his reins in one hand and the other on his thigh and looked at the backs of the army going away from him up the road, and thought that a general held back sees more of his army than any other man on the field, and the part he sees most is its back.
 
 The bay went well. He went the way a post-horse goes, at a steady flat walk that would have done thirty miles in the day without a change of pace, and Roderic let him. There was no sense teaching him anything this morning. He would learn what he needed in the afternoon, or he would not.
 
@@ -15708,19 +15722,19 @@ The light grew. It was a poor light, grey and wet, and it came up out of the sea
 
 Roderic had seen it yesterday, from the gorse. It was different from the saddle.
 
-The line stood in front of the ditch from the marsh to the quarry-cut, four deep, iron, and the rain was on it. Behind it the bank, with the levy on its top, a thin black row of living men leaning on their spears in the wet; behind the bank the curtain wall, and behind that the foundry smoke, low and yellow, flattened by the rain. The road went down off the swell and on across the open ground, and where it came to the line the iron stood back on either side and left it clear, a cart's width of the Survey's neat paving running between two walls of shields to the causeway and over the ditch and in under the gatehouse; and the gate was shut.
+The golems stood in front of the ditch from the marsh to the quarry-cut, four deep, and the rain was on them. Behind it the bank, with the levy on its top, a thin black row of living men leaning on their spears in the wet; behind the bank the curtain wall, and behind that the foundry smoke, low and yellow, flattened by the rain. The road went down off the swell and on across the open ground, and where it came to the line the golems stood back on either side and left it clear, a cart's width of the Survey's neat paving running between two walls of shields to the causeway and over the ditch and in under the gatehouse; and the gate was shut.
 
-The column went down the swell toward it without slowing. That had been Marcus's word, last night: no halt in sight of the line. The iron would not be given time to make up whatever it had for a mind.
+The column went down the swell toward it without slowing. That had been Marcus's word, last night: no halt in sight of the line. The golems would not be given time to make up whatever they had for minds.
 
-They came down onto the open ground. The litters stopped where they had been told to stop, on the road a long spear-throw short of the iron, on a hump of the paving where the camber shed the wet; and Roderic sat the bay beside them and watched the cohort go on without him down the last of the road toward the gap.
+They came down onto the open ground. The litters stopped where they had been told to stop, on the road a long spear-throw short of the golems, on a hump of the paving where the camber shed the wet; and Roderic sat the bay beside them and watched the cohort go on without him down the last of the road toward the gap.
 
-He watched the iron as they went in.
+He watched the golems as the cohort went in.
 
-He had thought, in the gorse yesterday, that it would be like looking at a fence. It was not. A fence is a made thing and looks made, and a man's eye goes over it and away. This had shapes in it that his eye knew: shoulders, the set of a helm, a shield held up at the height men hold one when their arm has got tired of it and they have been told not to let it drop. It stood like soldiers. It stood like the best soldiers in the kingdom, on the day the king comes to look at them, and it went on standing like that after the king had gone home and nobody was looking. In the front rank, two shields from the road's edge, a spider had strung a web in the night between one shield-rim and the next, a big wheel of a web, grey with the drizzle and heavy with it, sagging, and whole. Roderic could not take his eyes off it. Two men standing that close cannot keep a web whole between them for a night. Somebody breathes. Somebody shifts his weight to ease a foot. Somebody, at the least, hears a man coming down the road with a sword and turns his head to look at him.
+He had thought, in the gorse yesterday, that it would be like looking at a fence. It was not. A fence is a made thing and looks made, and a man's eye goes over it and away. This had shapes in it that his eye knew: shoulders, the set of a helm, a shield held up at the height men hold one when their arm has got tired of it and they have been told not to let it drop. Only the helms were wrong. Where a face should have been, each had a plate of black iron, smooth as a skillet, with one slit cut across it at the height of eyes, and nothing in the slit. They stood like soldiers. They stood like the best soldiers in the kingdom, on the day the king comes to look at them, and they went on standing like that after the king had gone home and nobody was looking. In the front rank, two shields from the road's edge, a spider had strung a web in the night between one shield-rim and the next, a big wheel of a web, grey with the drizzle and heavy with it, sagging, and whole. Roderic could not take his eyes off it. Two men standing that close cannot keep a web whole between them for a night. Somebody breathes. Somebody shifts his weight to ease a foot. Somebody, at the least, hears a man coming down the road with a sword and turns his head to look at him.
 
 The cohort went past the web at a walk, in tortoise, with its shields up over its head and locked, and the web did not stir.
 
-Then they were in the gap. The tortoise passed down the cart's width of paving between the iron walls like a horse led into a narrow stall, and the iron did not move, and the rain came down on all of it; and the tortoise went out onto the causeway, and over the ditch, and up to the gate.
+Then they were in the gap. The tortoise passed down the cart's width of paving between the iron walls like a horse led into a narrow stall, and the golems did not move, and the rain came down on all of it; and the tortoise went out onto the causeway, and over the ditch, and up to the gate.
 
 The levy on the bank saw it come. Roderic heard them before he saw them move: a long ragged shout going along the top of the bank, thin, a starved man's shout, and spears and stones coming down off the stone facing onto the shields. The tortoise took them. It stood under the gatehouse with the stones bouncing off its roof, and somewhere inside it Gaius's voice was calling the step, high and steady, and the men inside were doing something to the gate that Roderic could not see and could hear: a great dull blow, and another, and the creak of timber.
 
@@ -15728,11 +15742,11 @@ And behind the cohort the Lanciarii went into the gap at a run, and the Vigil af
 
 It was a good thing to see. He would remember it afterward as a good thing to see, and be angry with himself for that, and remember it anyway. The Lanciarii went up the bank on the marsh side of the gate as he had seen them go up the mole at Cyrene and the quay at the slip gate, in a long double file with the lanceae held low, hand over hand up the wet turf with the iron butt-spikes driving in for footholds, and Valeria first, and at the top they came over the stone facing into the levy with their points down. The levy broke where they touched it. It was not a line of soldiers; it was a line of hungry men told to stand on a wall, and when the long leaf-headed spears came over the top at them they stood a moment and then went back along the top of the bank, and some of them threw down their spears and some of them did not, and the Lanciarii went over the facing and were up. On the other side of the gate the Vigil went up the turf in white, with the sisters who kept the oil carrying the jars up on their hips, and Cassandra's steel cap at the head of them, and fire came up along the top of the bank on the quarry side, low and red in the rain, and its smoke leaned away east along the bank on the wind, pitch and tallow and burning turf. Behind the Lanciarii, on the bank's crest, he saw Sylara stand up with her bow and loose, and loose again, and a man on the bank further along who had been shouting and waving his arm stopped shouting.
 
-Out on the left, beyond the line's western end, the marsh began to roar. It was the merfolk. They had gone into it in the dark, round by the shore, and now they were making a noise in it such as Roderic had never heard from any throat: a long booming, and a slapping of the water, and horns made of shells, so that the whole west end of the field sounded as if a sea were coming up through the reeds. He saw the end of the iron line nearest the marsh, where it came down into the reeds, and he waited for it to turn its head.
+Out on the left, beyond the line's western end, the marsh began to roar. It was the merfolk. They had gone into it in the dark, round by the shore, and now they were making a noise in it such as Roderic had never heard from any throat: a long booming, and a slapping of the water, and horns made of shells, so that the whole west end of the field sounded as if a sea were coming up through the reeds. He saw the end of the golems' line nearest the marsh, where it came down into the reeds, and he waited for it to turn its head.
 
 It did not turn its head.
 
-None of it did. The tortoise was at the gate, and the Lanciarii were on the bank, and the Vigil had the bank's eastern side on fire, and the marsh was roaring like the end of the world; and the iron stood in front of the ditch with its back to all of it, and the rain ran on it, and the web in the front rank sagged a little lower with the wet and held.
+None of it did. The tortoise was at the gate, and the Lanciarii were on the bank, and the Vigil had the bank's eastern side on fire, and the marsh was roaring like the end of the world; and the golems stood in front of the ditch with their backs to all of it, and the rain ran on it, and the web in the front rank sagged a little lower with the wet and held.
 
 "General," said Liora, beside his stirrup.
 
@@ -15744,35 +15758,35 @@ None of it did. The tortoise was at the gate, and the Lanciarii were on the bank
 
 At the gate there was a great tearing crash, and a shout went up inside the tortoise, and the leaves of the gate went back.
 
-The iron moved.
+The golems moved.
 
-It moved all at once, along its whole length from the marsh to the quarry-cut, without a horn or a drum or a voice to tell it to, and it moved quick. He had been told that it turned quick. Nobody had told him anything that let him see this coming: the two walls of iron either side of the road stepping in together, one long step each, so that the cart's width of paving between them was gone as if a door had been shut on it, and the web tore and hung in pieces down the shields; and the whole front rank, four deep, facing about. They did not wheel. There was no wheel in it. They had faced the road and now they faced the ditch, as if front and back were all one to them, and they moved forward across the ditch toward the bank at a walk, all of them together, with their shields up, and the Lanciarii and the Vigil were on the bank above them and the gate behind, and the road out was shut.
+They moved all at once, along the whole length of the line from the marsh to the quarry-cut, without a horn or a drum or a voice to tell them to, and they moved quick. He had been told that they turned quick. Nobody had told him anything that let him see this coming: the two walls of golems either side of the road stepping in together, one long step each, so that the cart's width of paving between them was gone as if a door had been shut on it, and the web tore and hung in pieces down the shields; and the whole front rank, four deep, facing about. They did not wheel. There was no wheel in it. They had faced the road and now they faced the ditch, as if front and back were all one to them, and they moved forward across the ditch toward the bank at a walk, all of them together, with their shields up, and the Lanciarii and the Vigil were on the bank above them and the gate behind, and the road out was shut.
 
-The iron climbed the turf of the bank to the foot of the stone facing, a step below the Lanciarii's points, and stopped there, and stood. It did not try to climb the facing. It did not need to. Above it the Lanciarii and the Vigil held the crest with the levy gathering along the top on either hand, and below them, all along the slope, stood the iron, shield to shield, waiting; and there was no way off the bank but through it.
+The golems climbed the turf of the bank to the foot of the stone facing, a step below the Lanciarii's points, and stopped there, and stood. They did not try to climb the facing. They did not need to. Above it the Lanciarii and the Vigil held the crest with the levy gathering along the top on either hand, and below them, all along the slope, stood the golems, shield to shield, waiting; and there was no way off the bank but through it.
 
-Roderic had the bay moving before he knew he had touched him. He went down the last of the paving at a canter to where the iron had closed it and pulled up a spear's length short, and the iron did not so much as look round at him. There was nothing to look round with. He sat the bay at the back of the line with the rain running off his helm, close enough to put his hand on the nearest of them, and could not see the causeway past them for the shields, and could see the gate, and the tortoise in it, and the leaves of the gate pulled back on either side, and beyond them the dark of the gatehouse passage.
+Roderic had the bay moving before he knew he had touched him. He went down the last of the paving at a canter to where the golems had closed it and pulled up a spear's length short, and the nearest of them did not so much as look round at him. There was nothing to look round with. From behind it was bigger than it had looked from the gorse, near as tall as he sat: black plates fitted edge to edge, the rivet-heads in rows as neat as stitching and the wet standing in each one, arms that hung near to its knees, and no neck at all, the round of the helm going straight down into the shoulders, all one casting. The bay would not put his nose near it. He sat the bay at the back of the line with the rain running off his helm, close enough to put his hand on the nearest of them, and could not see the causeway past them for the shields, and could see the gate, and the tortoise in it, and the leaves of the gate pulled back on either side, and beyond them the dark of the gatehouse passage.
 
 Above the gate, in the gatehouse's upper wall, there was a window cut for a bolt-thrower, long and low, with nothing mounted in it. A man was standing in it. Roderic saw a pale face, and short dark hair, and dark armour that had a green shine on it in the wet, and nothing else that he could have sworn to at that distance in that rain. But he did not need to see anything else; because the man in the window leaned down a little toward the tortoise below him, and spoke, and it was a voice Roderic knew.
 
 "Hello, runner," said Tiberius. "You arrived somewhere after all."
 
-He never raised it. It was a voice that had been made on parade grounds to go to the end of a line in any weather without being raised, and it went down into the tortoise and out across the bank and over the iron, and the rain did nothing to it, and Roderic heard every word.
+He never raised it. It was a voice that had been made on parade grounds to go to the end of a line in any weather without being raised, and it went down into the tortoise and out across the bank and over the golems, and the rain did nothing to it, and Roderic heard every word.
 
 He had heard it last on a night three years ago, on an island that was falling, in a yard below a harbor stair: the same voice, going down a line of the First Legion by torchlight, unhurried, making them ready for the morning; and he had stood at the back of that yard in a borrowed cloak, a day off a dispatch cutter, with a sealed paper inside his coat and his own seal on it, and waited for the man to finish. He had given it to him after. He had watched him read it by a torch. He had watched him look up from it, at the stair, and then at Roderic, and say nothing at all, and fold it, and put it inside his own coat; and the next morning a boy had gone down to the harbor to a ship with a story of a flanking move by sea, and the man had gone up the stair at the head of his ninety-one, and that was the last time Roderic had heard that voice until now.
 
 *He doesn't know whose it was,* he thought. *He's had three years to wonder, on a rock in the dark, and he doesn't know.*
 
-There was a paper at the bottom of his kit on the *Forward*, in a square of oilskin: Titus's covering letter to him, that had come with the order and that he had been told to burn and had not. He thought of it now, of all things, sitting a lent horse in the rain at the back of an iron line with the army on the wrong side of it: the paper in its oilskin, safe and dry on a ship at anchor in a bay two miles off, where it could do nobody any good at all.
+There was a paper at the bottom of his kit on the *Forward*, in a square of oilskin: Titus's covering letter to him, that had come with the order and that he had been told to burn and had not. He thought of it now, of all things, sitting a lent horse in the rain at the back of a line of golems with the army on the wrong side of it: the paper in its oilskin, safe and dry on a ship at anchor in a bay two miles off, where it could do nobody any good at all.
 
-Under the window the tortoise neither moved nor answered. The iron stood on the slope below the facing, and waited.
+Under the window the tortoise neither moved nor answered. The golems stood on the slope below the facing, and waited.
 
 "*Marcus,*" Roderic said, aloud, to nobody, and then, because there was nobody else and he was a general, he looked for what there was.
 
-There was the bank. The Lanciarii held the top of it to the left of the gate, a short line of them along the stone facing with their backs to the curtain wall and their faces turned down the slope at the iron coming up it, and the levy they had broken was gathering again further along the top, out of reach, watching. The Vigil held the right with its fires. Between them, under the gatehouse, the tortoise sat in the gate like a bung in a cask, with the gatehouse's dark passage in front of it and the iron closing at its back. The causeway behind it was a cart's width wide, and shut.
+There was the bank. The Lanciarii held the top of it to the left of the gate, a short line of them along the stone facing with their backs to the curtain wall and their faces turned down the slope at the golems coming up it, and the levy they had broken was gathering again further along the top, out of reach, watching. The Vigil held the right with its fires. Between them, under the gatehouse, the tortoise sat in the gate like a bung in a cask, with the gatehouse's dark passage in front of it and the golems closing at its back. The causeway behind it was a cart's width wide, and shut.
 
 There was the gate.
 
-It stood open. The leaves were back against the passage walls on either side, one of them hanging by its lower hinge, and beyond the tortoise's front rank the gatehouse passage ran dark and empty through the bank, and at the far end of it, small and grey and square, there was daylight: the inside of the outer works, a slope of turf going up toward the curtain wall, and men on it, levy men, running away up it. Nobody stood in the passage. Nobody was going to. The bank was held on both sides of the gate, and the iron was on the wrong side of the ditch with its back to the inside, and the inside was open. Roderic had won and lost enough fields to know a won one when he was sitting in front of it.
+It stood open. The leaves were back against the passage walls on either side, one of them hanging by its lower hinge, and beyond the tortoise's front rank the gatehouse passage ran dark and empty through the bank, and at the far end of it, small and grey and square, there was daylight: the inside of the outer works, a slope of turf going up toward the curtain wall, and men on it, levy men, running away up it. Nobody stood in the passage. Nobody was going to. The bank was held on both sides of the gate, and the golems were on the wrong side of the ditch with their backs to the inside, and the inside was open. Roderic had won and lost enough fields to know a won one when he was sitting in front of it.
 
 "In, lad," he said, under his breath. "Go in."
 
@@ -15782,7 +15796,7 @@ And then the fog came.
 
 ---
 
-It came in off the marsh from the west, white, low, faster than any fog he had ever seen come in off water, and it did not come as fog comes, thinning first at its edges. It came whole. One moment he could see the line of iron going away from him toward the marsh, rank on rank, grey in the rain; the next the far end of the line was gone, and then the middle of it, and then the fog was round the bay's legs and up to his stirrups and over his head, and he was sitting in a white room with the rain falling through it, and the nearest of the iron a dark shape at a spear's length and the rest of the world gone.
+It came in off the marsh from the west, white, low, faster than any fog he had ever seen come in off water, and it did not come as fog comes, thinning first at its edges. It came whole. One moment he could see the line of golems going away from him toward the marsh, rank on rank, grey in the rain; the next the far end of the line was gone, and then the middle of it, and then the fog was round the bay's legs and up to his stirrups and over his head, and he was sitting in a white room with the rain falling through it, and the nearest golem a dark shape at a spear's length and the rest of the world gone.
 
 The bay threw up his head and blew.
 
@@ -15826,21 +15840,21 @@ He said it up to the window plainly, as a man says a thing across a table so tha
 
 "*Cohort! Face about! Back!*"
 
-There was no back. There was the iron across the causeway, four deep, with the road shut behind it, and the boy knew it as well as Roderic did. In the fog the tortoise's shields came round, all together, with a sound like a cart-load of slates going over, and faced it.
+There was no back. There were the golems across the causeway, four deep, with the road shut behind it, and the boy knew it as well as Roderic did. In the fog the tortoise's shields came round, all together, with a sound like a cart-load of slates going over, and faced it.
 
 The word was hardly out of him when the light came.
 
-It came high on Roderic's right, on the bank above the causeway, and the fog burned off round it for a breath, and he saw her: a small dark figure in a grey cloak among the white of the sisters, with her hood off and her hair coming down, standing on the stone facing of the bank with one arm out over the iron on the slope below her. Her hand was already open. He saw the light come into it, white, the colour of the inside of a forge, and go out of it down the slope into the nearest of the iron across the causeway with a sound like a whip; and the iron where it struck stopped, and stood, and a breath later fell over sideways down the turf with a great hollow clang, and lay there, smoking in the wet. The ones either side of it closed up on the place it had been.
+It came high on Roderic's right, on the bank above the causeway, and the fog burned off round it for a breath, and he saw her: a small dark figure in a grey cloak among the white of the sisters, with her hood off and her hair coming down, standing on the stone facing of the bank with one arm out over the golems on the slope below her. Her hand was already open. He saw the light come into it, white, the colour of the inside of a forge, and go out of it down the slope into the nearest golem across the causeway with a sound like a whip; and the golem where it struck stopped, and stood, and a breath later fell over sideways down the turf with a great hollow clang, and lay there, smoking in the wet. The ones either side of it closed up on the place it had been.
 
 He counted without meaning to. It was not his habit, and he did it anyway. Seven heartbeats, eight, and on the ninth the place where the fallen one had been was full again, and the line was whole, and Alana's hand was coming up again, slower.
 
-It came to him then, sitting on the bay at the back of the iron with the rain running into his beard, where he had heard that number. In the gorse, yesterday, a man with no eyebrows, his chin on his fists, saying he was only saying how it was done.
+It came to him then, sitting on the bay at the back of the golems with the rain running into his beard, where he had heard that number. In the gorse, yesterday, a man with no eyebrows, his chin on his fists, saying he was only saying how it was done.
 
 He stood in his stirrups.
 
-"*Alana!*" He had a voice for a field too, and it was not made on parade grounds, it was made in the lists and on the Long Field, to go over the heads of four thousand horse and come back. He put it out now across the iron and the ditch and up the bank. "*Alana! Eight! Brokk's eight! Not where they fall, where they close! The causeway! Every eight!*"
+"*Alana!*" He had a voice for a field too, and it was not made on parade grounds, it was made in the lists and on the Long Field, to go over the heads of four thousand horse and come back. He put it out now across the golems and the ditch and up the bank. "*Alana! Eight! Brokk's eight! Not where they fall, where they close! The causeway! Every eight!*"
 
-He could not tell if she heard. The rain was loud on the iron and the marsh was roaring and the fires on the bank were cracking in the wet. He saw her head turn. He saw her look down, not at him, but along the slope, to where the iron stood thickest across the causeway between the tortoise and the road.
+He could not tell if she heard. The rain was loud on the golems and the marsh was roaring and the fires on the bank were cracking in the wet. He saw her head turn. He saw her look down, not at him, but along the slope, to where the golems stood thickest across the causeway between the tortoise and the road.
 
 Then the white closed over her again.
 
@@ -15848,7 +15862,7 @@ Then the white closed over her again.
 
 "*Atticus, you never told me about the bell,*" it said. "*A dwarf bell, for the lead goat, so she'd hear it coming down off the hill in the dark. How thoughtful. She's put a red ribbon on it since. Galla. Her own hands. Did you know that? I think she's on the hill now. I think she's listening for it.*"
 
-Somewhere on the bank, beyond the iron, a man cried out. It was not a battle cry. It was a short, choked sound, the sound of a man hit somewhere he had not known he could be hit.
+Somewhere on the bank, beyond the golems, a man cried out. It was not a battle cry. It was a short, choked sound, the sound of a man hit somewhere he had not known he could be hit.
 
 "*Florus,*" said the voice. "*The warm shallows. You can swim now, can't you? She taught you. She said you were brave, because you were frightened and you came anyway. Do you know where she is this morning, Florus? I do. He could have had you home to her by midsummer. He turned you round.*"
 
@@ -15868,7 +15882,7 @@ He looked down. The fog had thinned for a moment round the litters, as fog will,
 
 "*Vatinius, she dances with her eyes open, did you know that? You never see, because yours are shut.*"
 
-It went on. It went along the line of men on the bank and in the tortoise and on the turf, name by name, in no hurry, a lady with a long table and all night; and after each name, somewhere on the far side of the iron, something gave. A shout cut off. The knock of a shield let down. A voice saying a woman's name, once, in the tone of sleep. The drizzle thickened to rain while it went on, and on the bank the Vigil's fires burned down to smoke, and still it went on.
+It went on. It went along the line of men on the bank and in the tortoise and on the turf, name by name, in no hurry, a lady with a long table and all night; and after each name, somewhere on the far side of the golems, something gave. A shout cut off. The knock of a shield let down. A voice saying a woman's name, once, in the tone of sleep. The drizzle thickened to rain while it went on, and on the bank the Vigil's fires burned down to smoke, and still it went on.
 
 "*General,*" said the voice.
 
@@ -15882,11 +15896,11 @@ It waited. He felt it wait, beside him, as a cat waits at a hole.
 
 "*Oh,*" it said at last, almost regretfully. "*You're one of those.*" And went away along the line to someone else.
 
-Then out of the fog behind the iron, from the gate, he heard a great voice he knew, a voice like a bread oven's door coming open, raised in plain irritation:
+Then out of the fog behind the golems, from the gate, he heard a great voice he knew, a voice like a bread oven's door coming open, raised in plain irritation:
 
 "*She burns the first one!*" bellowed Oppius. "*Every time. Burns it black. I like the burnt end.*"
 
-There was a silence on the far side of the iron, a short one. Then a laugh, one man's, high and cracked and astonished; and another; and somewhere inside the tortoise a man began to swear, steadily and with great feeling, about bakers.
+There was a silence on the far side of the golems, a short one. Then a laugh, one man's, high and cracked and astonished; and another; and somewhere inside the tortoise a man began to swear, steadily and with great feeling, about bakers.
 
 The voice did not come back to Oppius.
 
@@ -15922,11 +15936,11 @@ She went down the top of the bank into the Vigil as fire goes into thatch, and t
 
 "*Anchor on me!*"
 
-They did. He saw them do it, through the rags of the fog: a short line of men and women on the top of a bank, with the curtain wall at their backs and the iron coming up the slope below them and the levy on their flank and the dead heavy horse coming down the top of the bank at them out of the east, at the gallop; and they closed up on one voice, shoulder to shoulder, the long hafts down, and did not run.
+They did. He saw them do it, through the rags of the fog: a short line of men and women on the top of a bank, with the curtain wall at their backs and the golems coming up the slope below them and the levy on their flank and the dead heavy horse coming down the top of the bank at them out of the east, at the gallop; and they closed up on one voice, shoulder to shoulder, the long hafts down, and did not run.
 
 Drusilla hit them.
 
-He saw the line bend. He saw it go back, two steps, three, under the weight of the horses, and two of the Lanciarii go down under the hooves at the line's end and over the stone facing and out of sight, down the slope into the iron; and he saw the black lance go through a man and lift him and throw him off it. And he saw the line come forward again, the three steps, and the lanceae go up under the dead horses' chests, into them and up, and a dead horse rear back off the points with three of them in it, and go over sideways off the bank with its rider, into the ditch.
+He saw the line bend. He saw it go back, two steps, three, under the weight of the horses, and two of the Lanciarii go down under the hooves at the line's end and over the stone facing and out of sight, down the slope into the golems; and he saw the black lance go through a man and lift him and throw him off it. And he saw the line come forward again, the three steps, and the lanceae go up under the dead horses' chests, into them and up, and a dead horse rear back off the points with three of them in it, and go over sideways off the bank with its rider, into the ditch.
 
 He saw Drusilla's head turn, as she wheeled away along the top of the bank with her riders behind her, to look at the line that had not run. Then she was gone into the smoke at the eastern end, and the horn blew again, further off, and the fear went after it like a dog after its master.
 
@@ -15934,19 +15948,19 @@ Roderic eased his hands on the reins. They had shut on them without asking him.
 
 ---
 
-By the causeway, the iron was falling down.
+By the causeway, the golems were falling down.
 
 He heard it before he could see it, as the last of the fog went: a crack like a teamster's lash, and a great hollow clang, and then, a breath behind it, another crack, and another clang. He turned the bay. On the bank on the quarry side, above the causeway, among the scattered white of the Vigil where Drusilla had gone through them, Alana was standing alone on the stone facing with her right arm out over the slope, mud to the shoulders where the horses must have knocked her flat going over.
 
-Her hood was gone and her hair was down her back, and she was not shouting. Her lips were moving. He was close enough now, below the causeway at the back of the line, to see them move: counting, without a sound, as he had seen her count over the weather-book. On every eighth beat the white light came into her open hand and went down out of it into the iron across the causeway, into the same place, where the line stood thickest across the road; and the iron there stopped and went over; and the ones either side stepped in to close it, and before they could close it the next stroke came, into the same place, and the next.
+Her hood was gone and her hair was down her back, and she was not shouting. Her lips were moving. He was close enough now, below the causeway at the back of the line, to see them move: counting, without a sound, as he had seen her count over the weather-book. On every eighth beat the white light came into her open hand and went down out of it into the golems across the causeway, into the same place, where the line stood thickest across the road; and the golems there stopped and went over; and the ones either side stepped in to close it, and before they could close it the next stroke came, into the same place, and the next.
 
 It was a dwarf's catapult battery, in the hand of one woman with a shaking arm.
 
 The hole opened.
 
-It did not open wide. It opened the width of the causeway, a cart's width, with the iron lying fallen across it, smoking in the rain, and the iron either side stepping in on the fallen and being struck down onto them before it could close; and with every stroke the iron on the slope either side of the gate drew in along the turf toward the causeway to close the hole, so that the bank's face by the gate thinned, and emptied; and through the hole, from the gate, the tortoise came backward.
+It did not open wide. It opened the width of the causeway, a cart's width, with the golems lying fallen across it, smoking in the rain, and the golems either side stepping in on the fallen and being struck down onto them before it could close; and with every stroke the golems on the slope either side of the gate drew in along the turf toward the causeway to close the hole, so that the bank's face by the gate thinned, and emptied; and through the hole, from the gate, the tortoise came backward.
 
-It came out of the gate backward over the causeway with its shields up and locked, not hurrying, the men in the rear rank feeling for each step with their heels, and Gaius's voice calling it from somewhere in the middle, high and steady, *step, and step*; and it came out over the fallen iron and through the hole and onto the paving. Roderic, sitting the bay at the side of the road with his sword out, saw the rear rank go by him an arm's length off, and saw Oppius in it, enormous, one-eyed, with his shield up and his mouth set and the rain running off his nose, stepping backward over a fallen Construct's shield as a man steps over a dog in a doorway.
+It came out of the gate backward over the causeway with its shields up and locked, not hurrying, the men in the rear rank feeling for each step with their heels, and Gaius's voice calling it from somewhere in the middle, high and steady, *step, and step*; and it came out over the fallen golems and through the hole and onto the paving. Roderic, sitting the bay at the side of the road with his sword out, saw the rear rank go by him an arm's length off, and saw Oppius in it, enormous, one-eyed, with his shield up and his mouth set and the rain running off his nose, stepping backward over a fallen golem's shield as a man steps over a dog in a doorway.
 
 "General," said Oppius, going by.
 
@@ -15956,13 +15970,13 @@ It came out of the gate backward over the causeway with its shields up and locke
 
 Behind the tortoise, down the emptied face of the bank on both sides of the gate and along the foot of it and over the causeway through the hole, came the Lanciarii and the Vigil, at a run now, carrying what they could carry; and on the bank's crest above them, alone, Alana's hand went on rising and falling, the light going down out of it on the eighth beat, again and again, slower each time, and the hole held.
 
-He saw Valeria come down off the bank last of the Lanciarii, with the Farrier in her hand, walking backward down the turf with her face to the iron. She did not look for him. He did not expect her to. She came over the causeway at a run with the last of her file and went up the road past him without turning her head, shouting at someone ahead of her to keep it closed up, and he heard her voice go away up the road, and was more glad of the sound of it than of anything he had heard that day.
+He saw Valeria come down off the bank last of the Lanciarii, with the Farrier in her hand, walking backward down the turf with her face to the golems. She did not look for him. He did not expect her to. She came over the causeway at a run with the last of her file and went up the road past him without turning her head, shouting at someone ahead of her to keep it closed up, and he heard her voice go away up the road, and was more glad of the sound of it than of anything he had heard that day.
 
 Then Liora's voice, behind him, sharp: "Alana!"
 
-The light had stopped. On the bank above the causeway the small figure in the grey cloak was down on one knee on the stone facing, her right hand held in her left against her chest; and the iron either side of the hole stepped in over the fallen and closed it, in nine heartbeats, as the dwarf had said it would.
+The light had stopped. On the bank above the causeway the small figure in the grey cloak was down on one knee on the stone facing, her right hand held in her left against her chest; and the golems either side of the hole stepped in over the fallen and closed it, in nine heartbeats, as the dwarf had said it would.
 
-But two of the sisters were on the bank beside her, and Cassandra, and the white steel cap bent over her; and then they had her up between them, and were bringing her down the bank's face toward the quarry end, where the iron had drawn off to the causeway. They went along the ditch's inside edge. He watched them go along it at a stumbling run with her held between them, and down into the ditch, and up the near side of it at the line's end, where the iron had faced about and there was nobody now to stop them; and out onto the open ground, and away south toward the road, a little knot of white with grey in the middle of it.
+But two of the sisters were on the bank beside her, and Cassandra, and the white steel cap bent over her; and then they had her up between them, and were bringing her down the bank's face toward the quarry end, where the golems had drawn off to the causeway. They went along the ditch's inside edge. He watched them go along it at a stumbling run with her held between them, and down into the ditch, and up the near side of it at the line's end, where the golems had faced about and there was nobody now to stop them; and out onto the open ground, and away south toward the road, a little knot of white with grey in the middle of it.
 
 He let his breath go.
 
@@ -15974,7 +15988,7 @@ They went south down the road in the rain.
 
 It was not a rout. Roderic had seen routs, from the winning side and once, at the Long Field, from a door, and this was not one. The tortoise had broken up into its column of fours on the paving, with the wounded in the middle of it; the Lanciarii came behind in a long file on the road's west edge, the Vigil on the east, and the litters had gone up the road ahead of them all, full now, at a jolting run, with Liora running beside the first of them with her hand on a man's chest. Nobody was running who was not carrying something. Nobody had thrown anything away. It was an army going backward in good order over ground it had come up that morning, which is a harder thing than going forward and looks less, and he was proud of it, and would have given his sword-arm for it to be happening somewhere else.
 
-Behind them the iron had stopped.
+Behind them the golems had stopped.
 
 It stood in front of the ditch again from the marsh to the quarry-cut, faced about, four deep, as it had stood at first light; the fallen ones lay where they had fallen across the causeway, and the line had closed over them. It had come back down off the bank behind them and over the ditch at its walk, and stopped on its old ground, and it did not come after them. It stood, and the rain ran on it.
 
@@ -15986,13 +16000,13 @@ He was riding at the tail. Held back. He had the bay turned half round on the pa
 
 He knew, before the horn, where she would come from.
 
-It was the slope. A man who has spent his life looking at ground for horse sees it without wanting to: there was nowhere else on that field a rider would choose. She would come out of the gate behind them, through the iron, which would stand aside for her as a door stands aside for the master of a house; and she would not come up the road after the column, into the Lanciarii's points. She would go out wide onto the slope, east, and come up it at the gallop on the long smooth going, and turn in across the road at the column's flank where it was thinnest, at the tail, where the last of the Vigil was helping its hurt along and the last litters were still on the road.
+It was the slope. A man who has spent his life looking at ground for horse sees it without wanting to: there was nowhere else on that field a rider would choose. She would come out of the gate behind them, through the golems, who would stand aside for her as a door stands aside for the master of a house; and she would not come up the road after the column, into the Lanciarii's points. She would go out wide onto the slope, east, and come up it at the gallop on the long smooth going, and turn in across the road at the column's flank where it was thinnest, at the tail, where the last of the Vigil was helping its hurt along and the last litters were still on the road.
 
 The horn blew behind him.
 
-He did not look round at the gate. He looked at the slope. And there she came, a long dark rag of riders unrolling out onto the open ground from the line behind them as the iron stood aside for her and closed again, going out east, silver at its head, at a gallop that was not a horse's gallop but something worse, without effort, without breath; and the fear came up the slope in front of her, and the tail of the column felt it and began to bunch, and somebody screamed.
+He did not look round at the gate. He looked at the slope. And there she came, a long dark rag of riders unrolling out onto the open ground from the line behind them as the golems stood aside for her and closed again, going out east, silver at its head, at a gallop that was not a horse's gallop but something worse, without effort, without breath; and the fear came up the slope in front of her, and the tail of the column felt it and began to bunch, and somebody screamed.
 
-The road was a quarter-mile long between the tail of the column and the top of the swell. Marcus was at the head of it. He would not get back down it in time. Valeria was in the middle with the Lanciarii, on the road's wrong side for it, and if she brought them across to the east edge to meet the charge on the slope she would leave the road's tail open to the iron, which had not moved but might; and in any case she would not be in time either. There was nobody between the slope and the litters.
+The road was a quarter-mile long between the tail of the column and the top of the swell. Marcus was at the head of it. He would not get back down it in time. Valeria was in the middle with the Lanciarii, on the road's wrong side for it, and if she brought them across to the east edge to meet the charge on the slope she would leave the road's tail open to the golems, which had not moved but might; and in any case she would not be in time either. There was nobody between the slope and the litters.
 
 There was a man on a lent horse at the tail of the column, held back for whatever went wrong.
 
@@ -16040,7 +16054,7 @@ He lay and pressed his side and looked at the sky. It was a grey sky with nothin
 
 Someone was running down the slope toward him.
 
-He turned his head. It was Marcus. He came down the turf from the road at a dead run in his red cloak, with his helmet gone and his sword in his hand, and nobody with him, and threw himself down on his knees in the wet beside the dead horse.
+He turned his head. It was Marcus. He came down the turf from the road at a dead run in his blue cloak, with his helmet gone and his sword in his hand, and nobody with him, and threw himself down on his knees in the wet beside the dead horse.
 
 "Roderic."
 
@@ -16070,7 +16084,7 @@ Up on the road somebody was calling for the prince, over and over. Marcus did no
 
 "You are. Go. That's what you're for." He moved his hand under Marcus's, a little, and pushed it away. "I'll be here. I'm not going anywhere. I've a horse on my legs."
 
-Marcus looked at him. Then he got up off his knees in the wet, slowly, as a much older man gets up, and stood a moment over him; and then he turned and went back up the slope to the road at a run, with his red cloak dark with the rain, and Roderic turned his head and watched him go until he was a red mark among the others on the road, and then could not tell which one.
+Marcus looked at him. Then he got up off his knees in the wet, slowly, as a much older man gets up, and stood a moment over him; and then he turned and went back up the slope to the road at a run, with his blue cloak dark with the rain, and Roderic turned his head and watched him go until he was a blue mark among the others on the road, and then could not tell which one.
 
 ---
 
@@ -16078,7 +16092,7 @@ He lay there. He could not have said how long.
 
 The rain came and went. The cold came up out of the turf into his back and met the cold coming out from under his arm, and he lay between them and pressed his side and thought about nothing much. He thought about the Long Field. He had lain on the ground there too, nineteen years ago, on his face, with his back broken by a halberd, and heard the Tharsians cheer, and been carried off on a door. He thought, without much interest, that he had been carried off a field on a door the only other time he was hurt like this, and that there was no door here, only gorse.
 
-Once he heard hooves, a long way off, and turned his head, and saw dead riders going along the foot of the slope by the iron, in a file, slowly, as men ride along a field after a fight to see what is left on it. They did not come up the slope. They stopped now and then by something on the turf and leaned down from the saddle; and went on.
+Once he heard hooves, a long way off, and turned his head, and saw dead riders going along the foot of the slope by the golems, in a file, slowly, as men ride along a field after a fight to see what is left on it. They did not come up the slope. They stopped now and then by something on the turf and leaned down from the saddle; and went on.
 
 He thought about Valeria. He thought about her a good deal. He thought she would be angry with him, and that she would be right, and that he would have liked to hear her say so.
 
@@ -16236,7 +16250,7 @@ She was quiet. Then her hand tightened on his collar, and she let her weight go 
 
 Valeria looked at him over Liora's head. He could not read her, and left it; and then she put the Farrier on her shoulder and turned and went up the slope toward the road ahead of him, slowly, at his pace, with the file closing in round them as they went.
 
-He followed her. Behind him the Lanciarii came down out of the gorse with the four men carried between them on their shields, and two of them lifted Tappo off his heels and carried him too; and the dead horse lay on the slope behind them, and the iron stood in front of the ditch far behind them in the rain.
+He followed her. Behind him the Lanciarii came down out of the gorse with the four men carried between them on their shields, and two of them lifted Tappo off his heels and carried him too; and the dead horse lay on the slope behind them, and the golems stood in front of the ditch far behind them in the rain.
 
 It was a long way up to the road. He walked all of it.
 
@@ -16250,7 +16264,7 @@ The road was the same road. He could not get past it.
 
 It ran south from the swell the way it had run north at first light: paved, cambered, straight, a pale stripe laid over the gorse with the rain standing in the joints of its stones. Every swell of the ground it crossed, he had crossed that morning the other way, at the head of the column, with the column behind him and a man calling the step. He knew the place where a culvert ran under it and the paving had sunk a finger's depth. He knew the milestone with the Survey's mark cut in it, a small neat square, that stood at the side of the road a mile from the toll-house. He had touched it going up, for luck, as soldiers touch things, and had not thought about it since. He passed it now and did not touch it.
 
-He walked at the tail. That was where he had put himself, and nobody had argued, which told him something about how he looked. Behind him the road climbed back over the swell toward the outer works, empty, and on the far side of the swell there was nothing he could see but rain. The iron had not come. It had stood back onto its line in front of the ditch, closed up the gaps where its dead lay, and faced south again, and it had let them go. He had looked back at it from the top of the last swell, once, a grey hedge across the land with the bank behind it, and the gatehouse, and the black square of the window. Then the ground had come up between them and he had not looked again.
+He walked at the tail. That was where he had put himself, and nobody had argued, which told him something about how he looked. Behind him the road climbed back over the swell toward the outer works, empty, and on the far side of the swell there was nothing he could see but rain. The golems had not come. They had stood back onto their line in front of the ditch, closed up the gaps where their fallen lay, and faced south again, and let the army go. He had looked back at them from the top of the last swell, once, a grey hedge across the land with the bank behind it, and the gatehouse, and the black square of the window. Then the ground had come up between them and he had not looked again.
 
 In front of him the army walked south in no order he had given it.
 
@@ -16404,7 +16418,7 @@ Two miles behind him, the Tharsians had all night too.
 
 "Marcus."
 
-Sylara came down the road out of the rain from the north at a run, with her bow in her hand and her hood back and her hair stuck flat to her skull, and pulled up beside him, breathing. She had been out on the swells behind the column all the way down, alone, in the gorse. He had not sent her. She did not wait to be sent any more.
+Sylara came down the road out of the rain from the north at a run, with her bow in her hand and her hood back and her hair stuck flat to her skull, and pulled up beside him, breathing. She had been out on the swells behind the column all the way down, in the gorse, with Ilvane somewhere off to her left where he never once saw her. He had not sent her. She did not wait to be sent any more.
 
 "Horse," she said. "On the far swell, a mile up. Living men, the Survey's levy horse, forty or fifty. They're sitting. Not coming on. And behind them on the road, foot. The levy off the bank. They're forming." She pushed the wet hair off her face with the back of her wrist. "They're not hurrying. They're waiting for something."
 
@@ -16414,11 +16428,11 @@ Sylara came down the road out of the rain from the north at a run, with her bow 
 
 "The dead ones? Her riders?"
 
-"Not that I saw. I'd have seen them." She looked at him. "I'd have felt them. The men would." She turned and went back up the road at a run, the way she had come, and the rain took her.
+"Not that I saw. I'd have seen them." She looked at him. "I'd have felt them. The men would. Ilvane's lying up on the near swell. If they move, she'll come." She turned and went back up the road at a run, the way she had come, and the rain took her.
 
 He stood and faced north up the road, where the rain hung over it and hid the far swell, and there was nothing to see.
 
-He had stood at that table in that room behind him last night and told them what the iron would do, and he had been right about the gate. He had not known what was behind it. Now he had nothing to put against the levy but guesses, and he had spent the last of his guessing in the gate.
+He had stood at that table in that room behind him last night and told them what the golems would do, and he had been right about the gate. He had not known what was behind it. Now he had nothing to put against the levy but guesses, and he had spent the last of his guessing in the gate.
 
 There was someone on the road who would know.
 
@@ -16548,7 +16562,7 @@ Valeria was quiet. The rain ran down her face, down the scar from her eye to the
 
 She picked up the Farrier and put it on her shoulder again. Then she stood a moment longer beside him, not looking at him, looking up the road where the volunteers had gone.
 
-"I left three on the bank," she said. "Under the iron. I couldn't get down to them."
+"I left three on the bank," she said. "Under the golems. I couldn't get down to them."
 
 He had not known it was three.
 
@@ -16686,7 +16700,7 @@ She did not know where the shame had gone. She kept counting.
 
 The gate she did not count. It was not fortune.
 
-She had been on the bank above it with her hand out over the iron when the voice came, and she had heard all of it, the quarry and the pens and the harbor, and the cohort shouting under her that it was open. She had wanted him to go through. She had wanted it more than anything since the fishing boat: the gate, and the bank, and the quay at the capital with the torches lit the length of it and him walking up it with four islands behind him, and her beside him in violet, like a girl in a story about a princess. She had crossed that girl out once already this spring, at sea, *The queen's garden*, with one stroke, and been glad nobody saw.
+She had been on the bank above it with her hand out over the golems when the voice came, and she had heard all of it, the quarry and the pens and the harbor, and the cohort shouting under her that it was open. She had wanted him to go through. She had wanted it more than anything since the fishing boat: the gate, and the bank, and the quay at the capital with the torches lit the length of it and him walking up it with four islands behind him, and her beside him in violet, like a girl in a story about a princess. She had crossed that girl out once already this spring, at sea, *The queen's garden*, with one stroke, and been glad nobody saw.
 
 Then he had asked the window, and been told, and answered it; and before he had finished the word after, her hand was open over the causeway. She had not decided anything. There had been nothing to decide.
 

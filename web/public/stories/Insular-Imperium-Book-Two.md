@@ -15286,6 +15286,8 @@ Sylara's pencil had stopped.
 
 "No," said Gaius. "We've not. They're at Stoneheart, and Brokk's with them, and Ketta took the best crew north to the capital in the *Patience*." He said it without any weight on it at all. "I'm only saying how it's done."
 
+Marcus lay in the wet gorse and looked past the golems at the bank, at the thin men leaning on it, and thought of Faelar's hundred going up the beach at Silverwood into the trees in their grey file, without looking back. A hundred bows on that crest, and the levy's leaders would never get their men up off the stone. Four of those bows were in the gorse beside him. The rest were the whole width of the sea behind him, and there was no time to send and wait. He wished there were. He wished it once, hard, and then made himself look at the line again.
+
 "I heard you."
 
 "I know you did, Highness."
@@ -15450,7 +15452,7 @@ The room was quiet in a different way.
 
 "Ready for what?"
 
-"For that." She did not look at the drawing. She looked at him. "We've been at sea since the spring. The men are tired. Half the Lanciarii have had one night ashore in ten since the fen. The General's on a post-horse he met yesterday. Gaius says there's one way to break that line, and it's at Stoneheart. We came here because you said south, and we came quick because nothing has gone wrong yet." She said it as she would have given a drill-call. "Go back to Cyrene. Send for Brokk and his crews and the king's iron. You promised the king you'd send to him first. Forty days, he said. The whole cove heard you promise it. Come back in the autumn with catapults, and the line's a line of iron posts, and we knock them down."
+"For that." She did not look at the drawing. She looked at him. "We've been at sea since the spring. The men are tired. Half the Lanciarii have had one night ashore in ten since the fen. The General's on a post-horse he met yesterday. Gaius says there's one way to break that line, and it's at Stoneheart. We came here because you said south, and we came quick because nothing has gone wrong yet." She said it as she would have given a drill-call. "Go back to Cyrene. Send for Brokk and his crews and the king's iron. Beat the drum at Silverwood for Faelar's hundred. You promised the king you'd send to him first. Forty days, he said. The whole cove heard you promise it. Come back in the autumn with catapults, and the line's a line of iron posts, and we knock them down."
 
 "And the pens?"
 

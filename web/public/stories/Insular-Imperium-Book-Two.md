@@ -14422,13 +14422,51 @@ It was burning still. The fire stood up out of the broken crown in a column he c
 On the far lip of the crown, beyond the column of fire, black against it, Livia was standing on the highest stone with her thread going round her.
 
 ---
-She was looking at them across the fire. He could not see her face at that distance, only the shape of her, and the thread, and the small bright lights on it going round her slowly in the glare. She stood like that for the space of a few breaths. Then she lifted the grey hand.
+She was looking at them across the fire. He could not see her face at that distance, only the shape of her, and the thread, and the small bright lights on it going round her slowly in the glare.
+
+Then an arrow went past the edge of the column, low and flat, and stopped.
+
+It stopped in the air. Gaius saw it plainly against the fire, a long dark shaft hanging a pace short of her breast, as if it had been driven into a door that nobody could see. The lights on her thread swung toward it all together and crowded round the head of it, and brightened. Then they let go, and the arrow dropped and rattled away down the stones.
+
+Sylara was on the northern lip. She had come round the shell while the fire took the dome, onto stones that were hot now, and from there she could shoot along the rim and clear of the flames. Her few were shooting into the dead at the carts below; she had come up alone. She was standing, with her hood back and the fire down one side of her face and her braid, and the second arrow was already on the string.
+
+Livia did not look at her. She was looking at the lights.
+
+The second arrow went by the same road, and stopped, and the lights crowded round it; but it stopped nearer. Gaius watched the gap close. Half a pace. Less. The lights round the head flared white and went dull, and were slow to come back when they spread out again, and the arrow hung there longer than the first, shivering, before it fell.
+
+He had stood under a centring once while the masons laid an arch on it, and watched the timber settle at each course, so little that only the man who had cut it could see. Anything that bore weight had a figure past which it didn't.
+
+Livia turned her head toward Sylara.
+
+She lifted the grey hand, as a foreman points out the man he wants fetched, and the night split.
+
+It came off her fingers white, with violet at the heart of it, crooked and too bright to look at, and the crack of it went into Gaius's chest and teeth at once. The stone Sylara had been standing on burst. A slab of granite as long as a cart opened down its grain from end to end, and the halves fell apart in a spray of grit with the fire shining off the new faces. The air stank of hot stone and something sharp and thin under it, like the air off a grindstone run dry.
+
+Sylara was not on it. She had shot and gone in the same movement, down off the stone onto the curve of the shell and along it, low, three long strides over the broken capstones, and she was up again on another before the halves had stopped rolling, and drawing.
+
+The third arrow stopped so near that Livia leaned back from it.
+
+She struck again, and the stone Sylara had drawn from cracked through, and Sylara was not on it. She struck a third time, at the place Sylara would be, and was wrong. Sylara had gone back the way she came, to the two halves of the first stone, and knelt between them, and loosed from her knees.
+
+That one went through.
+
+The lights flung themselves at it and could not hold it, and it went past Livia's cheek and took one of the silver pins out of her hair. The shape of her head changed against the fire as the hair came down on that side, and the pin went away into the dark behind her, glinting, and rang once on stone.
+
+Rufo was beside the burning cart with a cloak in his fists, and he had stopped beating at the flames. His hand went up to the fair lock above his ear and stayed there.
+
+Livia did not strike again. She stood still, and Gaius watched her head turn three times: down along her thread; then to the archer kneeling between the halves of the stone with another arrow on the string; then to the fire, which had all of her barrow and was not going to give it back. He knew that stillness. He had seen it in a quarry-master at the face, with his ear to a block that had sounded wrong under the hammer, working out what it would cost to go on.
+
+Then she lifted the grey hand again, and not toward Sylara.
 
 The fog moved.
 
 It was the first time Gaius had seen it move of its own accord on that island. Below her, on the far side of the mound, at the foot of the shell, where a little fog still lay in a hollow of the slope, a tongue of it rose up off the moor, slowly, like a sheet lifted off a bed by the corners, and stood there, white and upright in the dark, taller than she was. Then it bent. It bent over toward her and its top came down to its foot, so that the two ends of it met; and where they met there was a darkness in the white, an opening, the shape of a door.
 
-Livia walked down the shell to it, unhurried, and stepped into it, and it closed behind her, and was fog again, lying on the moor.
+Livia walked down the shell to it, unhurried, with her hair down on one side, and the far slope took her below the rim and out of Sylara's line. Sylara was up and running along the hot capstones for an angle. At the door Livia turned and looked up at her, and Gaius heard her plainly across the roar of the fire, close as if she stood at his elbow, soft, with the classroom in it.
+
+"I'm putting you in the book, warden. Under *outstanding*."
+
+She stepped into it, and it closed behind her, and was fog again, lying on the moor. Sylara's arrow came a breath behind her. It went into the fog where the door had been, and through it, and on into the heather beyond, and struck nothing.
 
 "She's gone," somebody said. Fingers, perhaps.
 

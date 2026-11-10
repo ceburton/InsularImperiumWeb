@@ -8528,7 +8528,7 @@ They had laid the brothers under the arch of the slip gate, on the stones, side 
 
 Merula sat on the step of the gate-tower door with his spear across his knees and his lenses folded on their cord in his hand. He was grey to the lips. There was blood dried on the haft and on his clerk's hands.
 
-Ancus had laid one of the Lanciarii's red cloaks over the two of them and put a stone on each corner against the wind, and stood looking at it with his arms hanging, like a man who has done all the cooking there is and cannot think what comes next.
+Ancus had laid one of the Lanciarii's blue cloaks over the two of them and put a stone on each corner against the wind, and stood looking at it with his arms hanging, like a man who has done all the cooking there is and cannot think what comes next.
 
 Velthur's boy sat at the brothers' feet on the wet stones with a blanket round him and their two planes across his knees, one hand on each. He had not, Tuccius thought, been asleep at all.
 
@@ -8614,7 +8614,7 @@ The Navarch thought about it.
 
 "I'm writing to the prince," said Tuccius. "Today."
 
-"Good," said the Navarch, and sat down, and dipped his pen; and Tuccius went down the stair past the door the brothers had held, and round the red cloak on the stones, and knew without looking up that the Navarch was writing again.
+"Good," said the Navarch, and sat down, and dipped his pen; and Tuccius went down the stair past the door the brothers had held, and round the blue cloak on the stones, and knew without looking up that the Navarch was writing again.
 
 ---
 
@@ -10106,7 +10106,7 @@ Marcus gave Gaius his sword.
 
 He did it without saying anything, hilt first, and Gaius took it because there was nothing else to do with it. Then he unbuckled his helmet and gave Gaius that too. Then he went down off the ledge onto the fan.
 
-He took the ridges of the old slag as if they were the steps of a stair, and the wind took his cloak, and he kept on until he was well out on the black face of the fan, in plain sight of the mountain and the ships and the sky, a man in a red cloak alone on a slope of black glass with his hands empty at his sides. Then he stopped, and looked up at the vent.
+He took the ridges of the old slag as if they were the steps of a stair, and the wind took his cloak, and he kept on until he was well out on the black face of the fan, in plain sight of the mountain and the ships and the sky, a man in a blue cloak alone on a slope of black glass with his hands empty at his sides. Then he stopped, and looked up at the vent.
 
 No call, no wave. He stood.
 
@@ -10132,7 +10132,7 @@ On the nearer hull, the bolt-thrower stopped turning.
 
 Its voice was not loud. It was dry. It came up out of the great length of the throat like air out of a bellows nobody has worked in years, with a rattle at the bottom of it, and it carried up the fan to the ledge as clear as if it had been said beside him. It spoke the common tongue, old, every word put down separately and square, as the clans spoke it.
 
-"You came up my mountain," it said, "to stand on my slag in a red cloak. My flock has been watching you for many days. They say you will not let the little ones shoot us."
+"You came up my mountain," it said, "to stand on my slag in a blue cloak. My flock has been watching you for many days. They say you will not let the little ones shoot us."
 
 "They're not little," said Marcus.
 
@@ -11286,7 +11286,7 @@ She had spent her life reading ground: where a file could stand and where it wou
 
 They went in on foot, because the boats would not go.
 
-Marcus went first, with the water to his thighs and his red cloak bundled over one shoulder out of it. She kept at his back, a spear's length behind, with her eyes on the reed. Behind her came half a file of the Lanciarii with their lanceae held up; then the General, wading as though he had decided to find it amusing; then Gaius, who had not, with his bad knee. Thalassa was in the water ahead of them all, swimming on her back with her blue hair spread out on the brown and her face turned up to the steam.
+Marcus went first, with the water to his thighs and his blue cloak bundled over one shoulder out of it. She kept at his back, a spear's length behind, with her eyes on the reed. Behind her came half a file of the Lanciarii with their lanceae held up; then the General, wading as though he had decided to find it amusing; then Gaius, who had not, with his bad knee. Thalassa was in the water ahead of them all, swimming on her back with her blue hair spread out on the brown and her face turned up to the steam.
 
 The channel bent. It widened into a pool, still and brown, with the reed standing round it close as the walls of a room. In the middle of the pool a log lay half-sunk, black with wet, the length of a small ship, with one end on the mud and the other going down into the water at a long slant.
 
@@ -13270,7 +13270,7 @@ The cutter ran up under the *Forward*'s lee and spilled her wind and lay there, 
 
 "The prince's," Marcus called back. "Marcus. Out of Cyrene, from Viper's Fen."
 
-She looked at him for a breath, at the red cloak and the jaw, and then at the deck behind him, the cohort along the rail, the Lanciarii's hafts racked by the mast, Sylara's bow. If she had heard of him she did not say so.
+She looked at him for a breath, at the blue cloak and the jaw, and then at the deck behind him, the cohort along the rail, the Lanciarii's hafts racked by the mast, Sylara's bow. If she had heard of him she did not say so.
 
 "I'm carrying the Knight-Abbess's report to the capital, Highness. Ghoul's End." She said the name flatly, like a disease she had nursed. "The crypts are open. Three of them, since the autumn. The dead are walking the moor villages at dusk, and the villages have shut themselves in with whatever they could carry: pews, ploughs, peat-stacks. The fog won't lift. The Knight-Abbess has gone in with the Vigil."
 
@@ -13750,7 +13750,7 @@ Then a wait. Then two, and one.
 
 Hart was talking. Marcus had not heard it at first under the wind; it was a low slow sound, like a man talking to a horse in a stall. He had leaned forward on his stool with his elbows on his knees and his face close to the planks of the cart.
 
-"…the north fold's down again, I told Una she'd want to get somebody to it before the lambing, but she's not been out to it, nobody has. Your ewes'll be all over the moor. They'll want gathering when this is done. I'll do it. I know your marks." The knock came, two and one. Hart waited until it had finished, politely, as for a friend finishing a sentence. "Aye. I know. There's a prince here. Come all the way from the south, with a lot of lads in red and a fair woman with a spear that's not sat down till this hour. They've burned half the moor. You'd have laughed. You always said the moor wanted burning." Two, and one. "No. I'll not open. You know I'll not. You'd not want me to, if you were in there. You'd box my ears."
+"…the north fold's down again, I told Una she'd want to get somebody to it before the lambing, but she's not been out to it, nobody has. Your ewes'll be all over the moor. They'll want gathering when this is done. I'll do it. I know your marks." The knock came, two and one. Hart waited until it had finished, politely, as for a friend finishing a sentence. "Aye. I know. There's a prince here. Come all the way from the south, with a lot of lads in blue and a fair woman with a spear that's not sat down till this hour. They've burned half the moor. You'd have laughed. You always said the moor wanted burning." Two, and one. "No. I'll not open. You know I'll not. You'd not want me to, if you were in there. You'd box my ears."
 
 Valeria's thumb was moving on the haft of the Farrier, slowly, up and down, on the place worn smooth. Marcus looked away from it.
 
@@ -14135,7 +14135,7 @@ She turned her head and looked at him, and the corner of her mouth went in.
 ---
 The heart of the moor was a long walk, and most of it uphill.
 
-They went at dusk with the pump on a cart and the oil on two more, the men in the shafts and the men behind pushing, up out of the fold and north and west along a sheep-track that Hart had drawn for them in the ash of the Vigil's fire. Hart had not come. Cassandra had. She walked at the head of it with the prince, white cloak and red, and a dozen of her sisters came behind with their lanterns lit and hooded, and the cohort came behind them, and the moor went up and up under their feet into the grey.
+They went at dusk with the pump on a cart and the oil on two more, the men in the shafts and the men behind pushing, up out of the fold and north and west along a sheep-track that Hart had drawn for them in the ash of the Vigil's fire. Hart had not come. Cassandra had. She walked at the head of it with the prince, white cloak and blue, and a dozen of her sisters came behind with their lanterns lit and hooded, and the cohort came behind them, and the moor went up and up under their feet into the grey.
 
 The fog came with the dark. It did not roll in or blow; it was simply there, as the dark was, lying in every hollow they went down into and thinning on every rise they climbed, cold on the face and on the backs of the hands, smelling of nothing. His knee had stopped complaining somewhere on the climb and gone quiet, which was worse.
 
@@ -14462,7 +14462,7 @@ Gaius sat on the kerb-stone at the barrow's door, with the pump across his knees
 
 What was left of it. The box had split along its seam, the bronze gone blue and rippled where the heat had been worst, and both barrels had sagged, so that they no longer lay true on the bed but leaned against each other like two drunk men. The clack was a curl of black leather on a bent hinge. He could see, now, exactly where he had been wrong about the pipe, and what he would do next time.
 
-Behind him, by the burned-out cart, Alana was asleep against Marcus with the prince's red cloak over the two of them and her right hand in his, still now. She had said, just before she slept, with her eyes shut, *I'll mend it. Give it to me in the morning. I'll mend it by hand.* Marcus had looked across at Gaius over her head, and Gaius had nodded, and the prince had settled back against the cart's wheel and shut his own eyes, and had not moved since.
+Behind him, by the burned-out cart, Alana was asleep against Marcus with the prince's blue cloak over the two of them and her right hand in his, still now. She had said, just before she slept, with her eyes shut, *I'll mend it. Give it to me in the morning. I'll mend it by hand.* Marcus had looked across at Gaius over her head, and Gaius had nodded, and the prince had settled back against the cart's wheel and shut his own eyes, and had not moved since.
 
 Liora came and sat down beside him on the kerb.
 
@@ -16044,7 +16044,7 @@ He lay and pressed his side and looked at the sky. It was a grey sky with nothin
 
 Someone was running down the slope toward him.
 
-He turned his head. It was Marcus. He came down the turf from the road at a dead run in his red cloak, with his helmet gone and his sword in his hand, and nobody with him, and threw himself down on his knees in the wet beside the dead horse.
+He turned his head. It was Marcus. He came down the turf from the road at a dead run in his blue cloak, with his helmet gone and his sword in his hand, and nobody with him, and threw himself down on his knees in the wet beside the dead horse.
 
 "Roderic."
 
@@ -16074,7 +16074,7 @@ Up on the road somebody was calling for the prince, over and over. Marcus did no
 
 "You are. Go. That's what you're for." He moved his hand under Marcus's, a little, and pushed it away. "I'll be here. I'm not going anywhere. I've a horse on my legs."
 
-Marcus looked at him. Then he got up off his knees in the wet, slowly, as a much older man gets up, and stood a moment over him; and then he turned and went back up the slope to the road at a run, with his red cloak dark with the rain, and Roderic turned his head and watched him go until he was a red mark among the others on the road, and then could not tell which one.
+Marcus looked at him. Then he got up off his knees in the wet, slowly, as a much older man gets up, and stood a moment over him; and then he turned and went back up the slope to the road at a run, with his blue cloak dark with the rain, and Roderic turned his head and watched him go until he was a blue mark among the others on the road, and then could not tell which one.
 
 ---
 

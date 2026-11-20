@@ -6,8 +6,8 @@
       "title": "Chapter One: The Hours After",
       "duration": 2928,
       "bytes": 23510693,
-      "sha256": "68976fa043f1fa7d1cffa6a95383ca1612bdf96ec4e824d19638805daf5ba05c",
-      "url": "https://audio.insularimperium.com/book3/v/68976fa0/ch01-the-hours-after.mp3",
+      "sha256": "67e33d7fa1bc6b12e10fd531f70fe193bb2ca39115600559484c1113a3a3cf55",
+      "url": "https://audio.insularimperium.com/book3/v/67e33d7f/ch01-the-hours-after.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -34,8 +34,8 @@
       "title": "Chapter Two: Sister Domitia",
       "duration": 3673,
       "bytes": 29472292,
-      "sha256": "3a182ba35a4d8b9f737dfad168413f10046668e4f55becc1b0698756a7410629",
-      "url": "https://audio.insularimperium.com/book3/v/3a182ba3/ch02-sister-domitia.mp3",
+      "sha256": "77b7362ed583c1cc47e0e30edba66e9e0bb31ee62a53dd069ab42c9e313e37fc",
+      "url": "https://audio.insularimperium.com/book3/v/77b7362e/ch02-sister-domitia.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -50,8 +50,8 @@
       "title": "Chapter Three: A Vow Is a House",
       "duration": 3458,
       "bytes": 27756008,
-      "sha256": "ddea083ccde914139efa0194c3cb91f385cbb968e5bf6ebbcc7d7bc392ae3219",
-      "url": "https://audio.insularimperium.com/book3/v/ddea083c/ch03-a-vow-is-a-house.mp3",
+      "sha256": "a8fbc6712740b00b3a3c65b84d7187fcdc1ac7a0af042b61ba5a28e425083bb0",
+      "url": "https://audio.insularimperium.com/book3/v/a8fbc671/ch03-a-vow-is-a-house.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -65,14 +65,30 @@
       "slug": "ch04-the-third-volume",
       "title": "Chapter Four: The Third Volume",
       "duration": 3722,
-      "bytes": 29862055,
-      "sha256": "e868239b74509c5f687b29c3043e3f38b40b77db64b7a9c3ba86a3c5e63eb32b",
-      "url": "https://audio.insularimperium.com/book3/v/e868239b/ch04-the-third-volume.mp3",
+      "bytes": 29862247,
+      "sha256": "350b1809f40fa815fb9ca99d99e42c712fef5e96acc6e6419bd553678eb7e710",
+      "url": "https://audio.insularimperium.com/book3/v/350b1809/ch04-the-third-volume.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
           6.1,
           "Gaius"
+        ]
+      ]
+    },
+    {
+      "track": 5,
+      "slug": "ch05-the-king-laughs",
+      "title": "Chapter Five: The King Laughs",
+      "duration": 3521,
+      "bytes": 28255974,
+      "sha256": "35c8fdd334806ebeeb490f2040288ba95a2b434e1fb725acb492a3864fa11adc",
+      "url": "https://audio.insularimperium.com/book3/v/35c8fdd3/ch05-the-king-laughs.mp3",
+      "firstPublished": "2026-11-20",
+      "pov": [
+        [
+          6.1,
+          "Marcus"
         ]
       ]
     }

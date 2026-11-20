@@ -1430,17 +1430,17 @@ Then he drew the door. He had never seen it. He had nothing of it but what a sis
 
 They were singing it at the Abbess's gate when she came down the canal walk, and they were singing it badly, which was how she knew they meant it.
 
-There were perhaps a score of them, and more coming. Bargewomen with their sleeves rolled to the shoulder. A lamplighter with his pole. Two boys from the tanneries, who stank of it, and a girl with a baby on her hip, and an old soldier with one leg and a crutch under the stump, who held the tune for the rest of them in a voice like a gate on a dry hinge. They stood on the stones of the Lower Canal walk in the steam, with the heat of the afternoon coming down on them off the white walls of the house, and sang up at a row of shuttered windows on the second floor; and the shutters stayed shut, and they sang anyway.
+There were a score of them, and more coming. Bargewomen with their sleeves rolled to the shoulder. A lamplighter with his pole. Two boys from the tanneries, who stank of it, and a girl with a baby on her hip. An old soldier with one leg and a crutch under the stump held the tune for the rest of them, in a voice like a gate on a dry hinge. They stood on the stones of the Lower Canal walk in the steam, with the afternoon heat coming down on them off a white wall, and sang up at a row of shuttered windows. The shutters stayed shut. They sang anyway.
 
-*The Angel of the Baths.* Valeria knew it as the cohort sang it, which was loud and from the barracks benches, with Tappo's voice going up over the top of the others in the last verse but one, high and alone, the verse about the dark. Since Bastion the cohort had left that verse out. Here the old soldier took it, and took it wrong, a beat early and a note flat, and the bargewomen followed him in; and it went up the white wall to the shutters, the whole of it, as if nobody in the city had been told.
+*The Angel of the Baths.* Valeria knew it as the cohort sang it at Cyrene, loud, off the barracks benches. In the last verse, just before the last chorus, Tappo's voice used to go up over the rest, high and alone: the verse about the dark. Since Bastion the cohort had left that verse out. Here the old soldier took it, a beat early and a note flat, and the bargewomen followed him in. All of it went up the white wall to the shutters, as if nobody in the city had been told Tappo was dead.
 
-She stood at the back with the Farrier on her shoulder until it was done. The heat came up through the soles of her boots. The Lower Canal smoked beside her as it did in every season, but in winter its steam was a kindness and in midsummer it was a second sun, and the sulphur in it sat at the back of the throat like a bad coin. Her mail was hot through the padding. Sweat ran down the groove of her back under the arming coat and into the band of her breeches and stayed there.
+She stood at the back with the Farrier on her shoulder until they had done. The heat came up through the soles of her boots. In winter the Lower Canal's steam was a kindness; in midsummer it was a second sun, and the sulphur in it sat at the back of the throat like a bad coin. Her mail was hot through the padding. Sweat ran down the groove of her back under the arming coat and stayed in the band of her breeches.
 
-When it was done the old soldier wiped his face with his sleeve and saw her, and saw the Farrier, and drew himself up on the crutch as if somebody had called the roll.
+When it was over the old soldier wiped his face on his sleeve and saw her, and saw the Farrier, and drew himself up on the crutch as if somebody had called the roll.
 
-"Captain," he said.
+"Captain."
 
-She did not know him. That did not mean he did not know her. Half the men who had come home from Hollowmere on the carts had known her face from the causeway, and the other half had been told it.
+She did not know him. That did not mean he did not know her. Half the men who had come home from Hollowmere on the carts knew her face from the causeway, and the other half had been told it.
 
 "Soldier."
 
@@ -1448,143 +1448,141 @@ She did not know him. That did not mean he did not know her. Half the men who ha
 
 "Not yet."
 
-"They'll not." He spat neatly into the canal. "We come every day. She's in there. Third window." He pointed with his chin. "Sister at the gate says she's well. Sister at the gate says it every day, the same. You'd think they'd vary it."
+"They'll not. Not unless you've something wrong with you." He spat neatly into the canal. "The sick go in to her, afternoons, and come out mended. The rest of us get the sister at the gate. We come every day." He pointed with his chin at the shutters. "She sleeps up there. Third window. Sister says she's well. Says it every day, the same. You'd think they'd vary it."
 
-The house of the Vigil of the Returning Sun stood where the Lower Canal bent toward the sea, in a long white wall that ran back from the water with no windows in it lower than a man on a horse could reach. The great door was in its street face, round the corner, two leaves of black oak under a porch with a stone sun over it, and it was a good door; she had taken its measure on her way down the hill the day she landed, as she did any door's, to know how it would be held and what it would cost to take, and had put it down as the kind you went round. Here, on the canal side, the wall had one way in: the poor gate, an arch as deep as a short passage, with an iron grille at its far end and a bench in the arch on either side for the people who waited. A sister in white sat on a stool at the grille. Behind her, through the bars, there was a small paved court with a well in it, and the sun on the stones.
+The house of the Vigil of the Returning Sun stood where the Lower Canal bent toward the sea: a long white wall running back from the water, with no window in it low enough for a man on a horse to reach. Its great door was on the street face, round the corner, two leaves of black oak under a porch with a stone sun over it. She had looked the door over the day she landed, on her way down the hill, for how it would be held and what it would cost to take. She had put it down as the kind you went round. On the canal side the wall had one way in. That was the poor gate: an arch as deep as a short passage, with a bench along either side for the people who waited, and an iron grille at its far end. A sister in white sat on a stool behind the grille. Beyond her lay a small paved court with a well in it, and the sun on the stones.
 
-Across the walk from the arch, at the edge of the water, an old man was standing beside a litter.
+Across the walk from the arch, at the edge of the water, an old man stood beside a litter.
 
-She had seen him that first day too, and had not known what he was. A small man, bent, white-haired, in a coat of good black wool, old-fashioned and cut long, that had been made for somebody broader in the chest than he was now, or than he had ever been. Four bearers in a grey livery sat on the canal steps below him in the shade of the litter's canopy, with their poles laid down beside them, and talked to each other and threw stones into the steam. The old man did not sit. The litter had a cushioned seat and curtains, and he stood beside it with one hand on its roof, as a man stands by a horse he does not like, and looked at the arch.
+She had seen him on her first day too, and not known what he was. A small man, bent, white-haired, in a coat of good black wool, old-fashioned and cut long, made for someone broader in the chest than he was now. His four bearers, in grey livery, sat on the canal steps below him in the shade of the litter's canopy with their poles laid down beside them, and threw stones into the steam. The old man did not sit. The litter had a cushioned seat and curtains, and he stood beside it with one hand on its roof, as she had seen men stand by a horse they did not trust, and watched the arch and the square of sunlit court at the end of it.
 
-Behind him, between the walk and the harbor where the canal came out, there was a strip of grey sand, wet at its lower edge, with a few stakes driven into it at the top and a rope slung between them, and nothing on it.
+Below the walk behind him, where the canal widened toward its mouth, lay a strip of grey sand, wet along its lower edge. A few stakes had been driven in at the top, with a rope slung between them. There was nothing on it.
 
 "Who's that?" she said to the old soldier.
 
-He looked where she looked. "Him?" He lowered his voice, which nobody on the Lower Canal ever did. "That's her father. Lord of the Old Hill, that one. Mela. Comes every afternoon at the third bell and stands there till the sixth and goes away again. Every day. Sends a basket in." He shook his head. "Sister at the gate says she's well."
+He followed her eyes, and lowered his voice, which nobody on the Lower Canal ever did. "That's her father. One of the old houses on the Old Hill, him. Mela. Comes every afternoon at the third bell and stands there till the sixth, and goes home. Sends a basket in." He shook his head. "Sister at the gate says she's well."
 
 "To him as well?"
 
-"To him as well." The old soldier settled the crutch under his stump. "Same words. I've heard her."
+"To him as well." He settled the crutch under the stump. "Same words. I've heard her."
 
 ---
 
-She had come north with the Bastion returns.
+She had come north with the Bastion returns: the dead by name, and the wounded, and the stores spent and lost, and the plain account of what had been done at the gate and why. The council had sent her south with a writ in the first place, under orders to report everything, and she carried this report herself.
 
-That was the duty, and it was a true one. Somebody had to carry the army's papers up the king's stair: the dead by name, and the wounded, and the stores spent and the stores lost, and the plain account of what had been done at the gate and why. The Prefect's clerks could have carried them. But the council had sent her south with a writ in the first place, under orders to report everything, and a report was best carried by the one who had sworn to make it. So she had stood on the long quay at Cyrene on the morning the *Patience* sailed, with the returns in an oilcloth bag under her arm, and the Vigil's new sister had come down the quay on her round and stopped in front of the Lanciarii, and tapped the Farrier's haft twice with one finger, and told her in front of her own files that there was a check in the ash a finger below the socket and it would split in the cold.
+So she had stood on the long quay at Cyrene on the morning the *Patience* sailed, with the returns in an oilcloth bag under her arm. The Vigil's new sister had come down the quay on her round and stopped her in front of her own Lanciarii. Sister Domitia tapped the Farrier's haft twice with one finger. There was a check in the ash, she said, a finger below the socket, and it would split at the first hard blow.
 
-Valeria had turned the haft to the light. There had been the check, a hair-line running with the grain, that she had not seen in nineteen years of looking at that spear every morning of her life.
+Valeria turned the spear to the light, and there was the check: a hair-line running with the grain, that she had not seen in nineteen years of looking at that haft every morning.
 
-"Thank you, Sister," she had said.
+"Thank you, Sister."
 
-"Get it bound," the sister had said, and gone on to the cookhouse to tell Oppius about his salt.
+"Get it bound," said Domitia, and went on along the quay to see whether the watch on the mole had its hats on.
 
-She had got it bound. That was the first thing she had done in the capital, before the returns, before anything: gone up the Canal Steps to the smith with the green door, who was fat and bald and sweated like a cheese, and stood over him while he whipped the haft with soft iron wire, tight and close, and hammered the whipping down into the ash so that it lay flush and would not catch a hand. He had done it well. He had talked the whole time.
+She had got it bound. It was the first thing she did in the capital, before the returns, before anything. She climbed the Canal Steps to the smith with the green door, who was fat and bald and sweated like a cheese. She stood over him in the coal-smoke while he whipped the haft with soft iron wire, tight and close, and hammered the whipping down into the ash until it lay flush and would not catch a hand. He did it well. He talked the whole time.
 
-"Ash," he said. "Good ash. Old. Somebody's thumb on it. I don't touch the thumb-place. You'll want the thumb-place." He bit the wire off. "I had a Vigil sister in here last month wanting a hinge-pin made. I said to her, I said, I'll make your pin, Sister, when your house pays my grandfather's grandfather for the bar."
+"Ash," he said. "Good ash. Old. Somebody's thumb on it, here. I don't touch the thumb-place. You'll want the thumb-place." He bit off the wire. "I had a Vigil sister in here last month wanting a hinge-pin made. I said to her, I'll make your pin, Sister, when your house pays my grandfather's grandfather for the bar."
 
 "What bar?"
 
-"Iron bar, for their great door. Made, and never paid for. It's still in the back there, under the sacks, and their door's still got an oak one." He laughed. "I've got the bill. We've all kept the bill. It's on the wall."
+"For their great door. It's in the back there still, under the sacks, and their door's still got its oak one." He laughed. "We've kept the bill. It's on the wall."
 
-It was on the wall. A slip of paper gone as brown as a dead oak leaf, in a glass case on a nail over the forge, with a sum at its foot in figures nobody had used since before the old king.
+It was on the wall: a scrap of paper gone as brown as a dead oak leaf, in a glass case on a nail over the forge. The sum at its foot was in figures nobody had used since before the old king.
 
 "They should pay it," said Valeria, and put down a silver bit for the wire, which was too much.
 
 "They should," said the smith, and kept the bit.
 
-Then she had taken the returns up the hill.
+Then she took the returns up the hill.
 
-The council's clerks had received them in a long hot room off the Hall of Kings, with the shutters closed against the sun, and a clerk with a wet lip had untied the oilcloth and counted the sheets, and written the count in a book, and asked her to sign that she had delivered so many sheets. She had signed. Nobody had read anything aloud. The sheets had gone into a press with a brass lock. The council would sit, said the clerk with the wet lip, when the council sat; and the captain would hold herself at the council's disposal.
+The council's clerks received them in a long hot room off the Hall of Kings, with the shutters closed against the sun and the air tasting of wax and ink. A clerk with a wet lip untied the oilcloth and counted the sheets, and wrote the count in a book, and had her sign that she had delivered so many. She signed. The sheets went into a press with a brass lock. The council, said the clerk with the wet lip, would sit when the council sat, and the captain would hold herself at its disposal.
 
-She was used to that. She had held herself at the council's disposal through one whole Midwinter. She went down the hill to see about her billet.
+She had held herself at the council's disposal through one whole Midwinter. She went down the hill to see about her billet.
 
-On the third morning a steward of the palace had come down to the old horse-barracks under the hill where the Lanciarii were quartered, an old man with a lamp he did not need in daylight, whom she knew by sight from the foot of the king's stair; and he had given her a slip of the king's plain paper, squared at the corners and folded once. There was one line on it in a small, close, old man's hand, and no name, and no seal.
+On the third morning a steward of the palace came down to the Lanciarii's billet under the hill. He was an old man carrying a lamp he did not need in daylight, and she knew him by sight from the foot of the king's stair. He gave her a slip of the king's plain paper, squared at the corners and folded once. There was one line on it, in a small, close, old man's hand, and no name, and no seal.
 
 *The captain will ask after the healer, and tell me.*
 
-She had read it twice, as she read orders, for the dead places and the ways out. There were none. It was not an order. It did not say she was to go in. It said the king would know how the woman did who had saved the General's life on the field at Bastion, and that he had chosen a soldier to ask, and not a clerk, and not the Marshal.
+It was not an order, and it did not say she was to go in. She read it all the same as she read orders, for the dead places and the ways out. There were none.
 
-She had put it inside the neck of her mail, where the Marshal's letter used to go.
+She put it inside the neck of her mail, where the Marshal's letter used to go.
 
 ---
 
-The sister at the grille that afternoon was a big raw-boned woman from the hills, with forearms like a ploughman's and a white coif starched so hard it creaked when she turned her head. Her eyes went to the Farrier, and to the slip of paper, and to Valeria's face, taking their time over each.
+The sister at the grille that afternoon, when the song was done, was a big raw-boned woman from the hills, with forearms like a ploughman's and a coif starched so hard it creaked when she turned her head. Her eyes went to the Farrier, and to the king's slip, and to Valeria's face, and took their time over each.
 
 "The king asks," she said.
 
 "The king asks."
 
-"He can ask." The big sister folded the paper along its own fold and handed it back through the bars. "Leave the spear."
+"He can ask." She folded the slip along its own fold and handed it back through the bars. "Leave the spear."
 
 "I'll leave it in the arch."
 
 "You'll leave it with me."
 
-There were three people on the benches in the arch: a man holding a boy with a cut head against his chest, and a girl of about ten with nothing to show what was wrong with her at all, who sat with her hands in her lap and her bare feet not reaching the ground. All three of them watched the Farrier. Valeria passed it through the gap at the end of the grille, haft first, and the big sister took it in one hand like a broom and stood it against the wall behind her stool, and lifted a bar out of two iron keepers on the inside of the grille, and swung the grille back a foot.
+Three people waited on the benches in the arch: a man holding a boy with a cut head against his chest, and a girl of ten or so with nothing to show what was wrong with her at all. She sat with her hands in her lap and her bare feet not reaching the ground. All three of them watched the Farrier. Valeria passed it through the gap at the end of the grille, haft first. The big sister took it in one hand like a broom and stood it against the wall behind her stool. Then she lifted a bar out of two iron keepers on the inside of the grille, and swung the grille back a foot.
 
-"In," she said. "Stand where I put you. Don't touch anything. If she tells you to go, you'll go."
+"In. Stand where I put you. Don't touch anything. If she tells you to go, you'll go."
 
 "Who?"
 
-The big sister looked at her as if she had asked which end of a spear went into the ground.
+The big sister gave her the look a sergeant gives a recruit who has asked which is his left foot.
 
 "The healer," she said.
 
-The court beyond the grille was small and hot and smelled of lye, and of the well, which was a warm one, like every well under the Old Hill, and gave off its own small breath of sulphur. Along one side of it ran a roofed walk with a long table under it, and a basin, and a brazier with a kettle on it in spite of the heat, and a shelf of jars. At the table, with her back to the court and her sleeves tied back above the elbow with a strip of linen, a woman in plain white was bending over a bargeman's foot.
+The court beyond the grille was small and hot and smelled of lye, and of the well, which was a warm one like every well under the Old Hill and breathed its own small breath of sulphur. A roofed walk ran down one side, with a long table under the roof, a basin, a shelf of jars, and a brazier with a kettle on it in spite of the heat. At the table, with her back to the court and her sleeves tied above the elbow with a strip of linen, a woman in plain white was bending over a bargeman's foot.
 
-Valeria knew her by the hair, before anything. It was under a white cloth, as a sister's was, but the cloth had been tied by someone who had no practice at it and the weight of the hair had pulled it half off, and down her back from under it came a thick rope of honey-gold, plaited for work and tied off with a bit of string.
+Valeria knew her by the hair before anything. It was under a white cloth, but the cloth had been tied by someone with no practice at it, and the weight of the hair had dragged it half off. Down her back from under it came a thick rope of honey-gold, plaited for work and tied off with a bit of string.
 
-There were two more sisters under the roofed walk. They stood one at either end of it, in the shade, with their hands folded in front of them. They were not doing anything. They had the look Valeria had seen on men set to guard a wagon of something they had been told was valuable and not told what.
+Two more sisters stood under the roof, one at either end of the walk, in the shade, with their hands folded in front of them. They were not doing anything. They had the look of men set to guard a wagon of something they had been told was valuable and not told what.
 
 The big sister put her by the well and went back to her stool.
 
-Liora finished the foot. She did it with her hands, both of them laid flat on the instep a moment, and then with a linen strip, wound and tied, which was for the bargeman's peace of mind and not for the foot; and she said something to him in a low voice and he laughed, and got up off the bench and stood on the foot and stamped it twice and laughed again, and went out through the grille without his boot, carrying it. Then she turned round to the basin to wash her hands, and saw Valeria by the well.
+Liora finished the foot. She did it with her hands, both laid flat on the instep, and then with a linen strip, wound and tied, which was for the bargeman's peace of mind and not for the foot. She said something to him low, and he laughed, and got up off the bench and stood on the foot and stamped it twice and laughed again, and went out through the grille carrying his boot. Then she turned to the basin to wash her hands, and saw Valeria by the well.
 
 The corner of her mouth went in.
 
-"Captain," she said.
+"Captain."
 
 "Healer."
 
 "Is it Roderic?"
 
-"He rides." She had not known she would say that first. "He rides every morning. Up the crown's road to the fort and back. He says the horse wants it."
+"He rides." Valeria had not known she would say that first. "Every morning. Up the crown's road to the fort and back. He says the horse wants it."
 
 "Which horse?"
 
 "Thistle."
 
-"Thistle wants nothing in this world but apples." Liora dried her hands. She was thinner. Not much. The cloth had slipped, and under it the bones of her face were nearer the surface than they had been on the beach south of Bastion, and there was a new line between her brows that had not been there at all. Her eyes went past Valeria to the grille. "Send the next, Sister Agrippina."
+"Thistle wants nothing in this world but apples." Liora dried her hands. She was thinner. Not much. The cloth had slipped, and under it the bones of her face lay nearer the surface than they had on the quay at Cyrene the evening she sailed, and there was a new line between her brows. Her eyes went past Valeria to the grille. "Send the next, Sister Agrippina."
 
-The big sister sent the man with the boy. Liora sat the boy on the bench and took his head between her two hands, and the boy stopped crying in the middle of a breath and stared at her.
+The big sister sent the man with the boy. Liora sat the boy on the bench and took his head between her two hands, and he stopped crying in the middle of a breath and stared up at her.
 
-"Who sent you?" she said, to Valeria, without looking round.
+"Who sent you?" she said to Valeria, without turning round.
 
 "The king."
 
-The boy, between her hands, looked up at her face.
-
-"I see," said Liora. "And what does the king want?"
+"I see. And what does the king want?"
 
 "To know how you do."
 
-"Tell him I do very well. I have a room on the court side with a window that opens." She bent to the cut. "Hold still, sweetheart. This won't be anything." Her eyes closed. The boy's mouth came open. Valeria had seen it done a hundred times now, at Cyrene, in the cutting at Silverwood, at Bastion in the rain with Roderic under her hands; and still she could not see what happened, only that something did, and that the woman's face went inward while it happened, like a door that has someone standing in it. When Liora took her hands away the cut was a red line, and then less. "There. Your father will want to wash that. Tell him to wash it, and to stop looking at me like that, and to give you something to eat."
+"Tell him I do very well. I have a room on the court side with a window that opens." She bent to the cut. "Hold still, sweetheart. This won't be anything." Her eyes closed. The boy's mouth came open. Valeria had seen it done a hundred times now, at Cyrene, in the cutting at Silverwood, at Bastion in the rain with Roderic under those hands, and still she could not see what happened. She saw only that something did, and that the woman's face went inward while it happened, like a door that has someone standing in it. When Liora took her hands away the cut was a red line, and then less. "There. Tell your father to wash that, and to stop staring at me, and to give you something to eat."
 
 The man took the boy and went out backward.
 
-"I'll tell him that," said Valeria. "About the window."
+"I'll tell the king," said Valeria. "About the window."
 
-"Tell him I eat." Liora turned back to the basin, and the water went pink, and then clear. "That's what they'll all want to know. Gaius will want to know whether the window is square and the rest of them will want to know whether I eat. Write that I'm eating."
+"Tell him I eat." Liora turned back to the basin and poured water over her hands from the jug, and it ran off them pink, and then clear. "That's what they'll all want to know. Gaius will want to know whether the window is square, and the rest of them will want to know whether I eat. Write that I'm eating."
 
 "Are you?"
 
-"At the bells." Liora dried her hands again, carefully, finger by finger. "There's a bell for everything in this house. It's very restful. You never have to decide anything." She looked at Valeria, straight, for the first time. "Write that I'm eating, Captain."
+"At the bells." Liora dried her hands again, finger by finger. "There's a bell for everything in this house. It's very restful. You never have to decide anything." Now she met Valeria's eyes, straight. "Write that I'm eating, Captain."
 
 "I'll write what I see."
 
-"Yes," said Liora. "You will." And she turned to the grille. "Send the girl, Sister."
+"Yes," said Liora. "You will." She turned to the grille. "Send the girl, Sister."
 
-The girl with the bare feet came in and stood in front of her. Liora crouched to her height and asked her name, as she always did, as the Vigil had taught her; and Valeria went back out through the grille and took the Farrier from behind the big sister's stool, and Sister Agrippina let her.
+The barefoot girl came in and stood in front of her, and Liora crouched to her height and asked her name. Valeria went back out through the grille and took the Farrier from behind the big sister's stool, and Sister Agrippina let her.
 
 Across the walk the old man stood by his litter, and the bearers threw stones into the steam.
 
@@ -1592,11 +1590,11 @@ Across the walk the old man stood by his litter, and the bearers threw stones in
 
 The next day the poor gate was shut.
 
-There was a sister at the grille all the same, a different one, small and freckled and frightened, and the benches in the arch were empty. The healer, said the small sister, was in reflection. The healer's afternoons at the gate were ended, by the Abbess's order, for the healer's protection, because of the crowds. The sick of the Lower Canal might come in the mornings, as they always had, to the sisters of the infirmary.
+There was a sister at the grille all the same, a different one: small and freckled, with lashes so fair they hardly showed, and frightened. The benches in the arch were empty. The healer, said the small sister, was in reflection. By the Abbess's order her afternoons at the gate were ended, and two sisters would be with her day and night, all for the healer's protection, because of the crowds. While it lasted she could have nothing from outside. The sick of the Lower Canal might come in the mornings, as they always had, to the sisters of the infirmary.
 
-"What crowds?" said Valeria.
+"What crowds?"
 
-The small sister looked past her at the walk, where there were nine or ten people on the stones in the heat, and the old soldier on his crutch, getting his breath for the song.
+The small sister looked past her to the walk: nine or ten people on the stones in the heat, and the old soldier on his crutch, getting his breath for the song.
 
 "Those," she said.
 
@@ -1604,35 +1602,37 @@ The small sister looked past her at the walk, where there were nine or ten peopl
 
 "I'm only to say," said the small sister, "that she's well."
 
-Valeria went away and came back the next afternoon, and the one after. The king's slip of paper said *ask*, and she had asked, and been answered; a clerk would have written down the answer and gone home. She was not a clerk. She stood across the walk from it every afternoon with the Farrier grounded beside her, in the steam, and watched the house, as she had watched the gate at Bastion from the brow of the Survey road the day before the fight: the hours, the doors, who went in and who came out and what they carried.
+Valeria went away, and came back the next afternoon, and the one after. The king's slip said *ask*, and she had asked and been answered, and a clerk would have written the answer down and gone home. She stood across the walk instead, every afternoon, with the Farrier grounded beside her. She watched the house as she had watched Bastion's gate from the brow of the Survey road the day before the fight: the hours, the doors, who went in and who came out and what they carried.
 
-She learned the house. It rang its bells on the hour, a small high clear bell from the court, counting from dawn and again from noon, and the sisters inside moved to it as files move to a drum. The infirmary sisters came out at the first bell in the morning to the canal steps and took in the sick, and went in again at the third. At the sixth bell a cart came down the walk from the Old Hill with bread and greens on it, and a barrel of something that sloshed, and the big sister unloaded it alone. At the dusk bell the great door round the corner shut; she heard it from the walk, a long iron scrape and then the bar going down into its keepers, the deep wooden knock of it carrying along the water; and after that nobody went in and nobody came out until the morning bell. Two sisters stood every day at the third window on the second floor, which was not a room's window but a passage's, by a door, she worked out on the third afternoon: you could see their white through the slats of the shutter, two of them, one either side, as the two had stood in the court. They were relieved at the sixth bell and the dusk bell, like any sentries; and after the dusk bell a lamp showed through the slats, with two shadows in it.
+She learned the house. It rang its hours on a small high bell in the court, counting from dawn and again from noon, and the sisters moved to it as files move to a drum. She came down once at first light to see the mornings: the infirmary sisters came out to the canal steps at the first bell to take in the sick, and went in again at the third. At the sixth bell of the afternoon a cart came down the walk from the Old Hill with bread and greens and a barrel that slopped, and the big sister unloaded it alone. At the dusk bell the great door round the corner shut. She heard it from the walk: the long scrape, and then the bar going down into its keepers, a deep wooden knock that carried along the water. After that nobody went in or out until the morning bell.
 
-She learned the people who came. The old soldier, every day. The bargewomen, most days. A priest from the harbor shrine, once, who went in at the great door and came out within the hour red in the face. Pilgrims off the ships, in pairs and threes, who had heard the song in some other harbor and come to see the house the Angel was kept in, and stood looking at the white wall as if it might do something, and bought a blessed candle from the boy who had started selling blessed candles on the second day and was doing well by it. Men who had been in the hospital tents after the stair, who knew the healer from there and did not say how. A great many women with children.
+And there was the third window. After the dusk bell a lamp was lit behind it, and two shadows showed in its slats, one at either side. They did not move about. On the third evening she saw them changed for two others, who took the same places. It was not a room's window, then, but a passage's, and they were standing either side of a door.
 
-And the old man with the litter, at the third bell, every day, till the sixth.
+She learned who came. The old soldier, every day. The bargewomen, most days. A priest from the harbor shrine, once, who went in at the great door and came out inside the hour with his face red. Pilgrims off the ships in twos and threes, who had heard the song in some other harbor and come to see the house the Angel was kept in. They stood gazing up at the white wall as if it might do something, and bought blessed candles from a boy who had started selling them the day after the gate shut, and was doing well by it. Men who had been in the hospital tents after the stair, and said so, and did not say what she had done for them. A great many women with children.
 
-She learned the city again, in the evenings. The Lanciarii had been given the old horse-barracks under the hill to sleep in, a long low stable with the stalls knocked out and a hayloft over, which still smelled faintly of horse and much more strongly of the twelve men who had come north with her; and she ate with them there at night: mutton and onions out of the barracks pot, and on the third night of her watching, eels out of a crock, which Galba had brought up the hill from the Fishmarket Steps with a message.
+And at the third bell, every day, till the sixth, the old man with the litter.
 
-"From Felix's mother," he said, setting the crock down. "She says is the boy eating, and to tell him his sister's had twins, and they're both of them called Felix, and she wants to know whose fault that is."
+In the evenings, when the house had barred its door, she climbed the hill and ate late with her men. The Lanciarii had been given the old horse-barracks under the hill to sleep in: a long low stable with the stalls knocked out and a hayloft over. It still smelled faintly of horse, and much more strongly of the twelve men who had come north with her. They ate mutton and onions out of the barracks pot; and on the third night of her watching, eels out of a crock, which Galba carried up from the Fishmarket Steps with a message.
+
+"From Felix's mother," he said, setting it down. "She says is the boy eating. And to tell him his sister's had twins, and they're both of them called Felix, and she wants to know whose fault that is."
 
 "Whose fault is it?"
 
 "Didn't ask, Captain." Galba sat down on an upturned bucket. His beard had grown back black where the gorse had singed it, all but one grey patch on the left side like a burn on a hide. "I thought about it on the way up. I think it's his."
 
-The eels were good. They had been stewed in their own jelly with an onion and a great deal of pepper, and they were better cold. Her men ate them with their fingers, sitting round the crock in their shirts with the barracks door open to the dusk and the smell of the canals coming up the hill, and the bells going all over the city, and somewhere down in the lower town somebody singing *The Angel of the Baths*, every verse.
+The eels had been stewed in their own jelly with an onion and a heap of pepper, and they were better cold: the jelly cool on the tongue, and the pepper coming after it. Her men ate them with their fingers, sitting round the crock in their shirts with the barracks door open to the dusk. The smell of the canals came up the hill. The bells rang all over the city, and somewhere down in the lower town somebody was singing *The Angel of the Baths*, every verse.
 
 That night she lay on her cot in the loft with her arms behind her head and went down her list.
 
-It was a short list in the capital. *Things that might kill me*: nothing. There was nothing in this city that could kill her; that was the trouble with it. *Things to deal with later*: the council, which had her returns in a press and had not sat; the Marshal, who had not sent for her, and would. And the third column, the one with no heading, where the elf had been for a year now, and the king beside him. She put the white house on the canal in it, and the two sisters at the end of the passage. And then, after a while, the old man by the litter.
+It was a short list, in the capital. *Things that might kill me:* nothing. Nothing in this city could kill her; that was the trouble with it. *Things to deal with later:* the council, which had her returns in a press and had not sat; the Marshal, who had not sent for her, and would. And the third column, the one with no heading, where the elf had stood since the street of boats, and the king beside her since Midwinter. She put the white house on the canal in it, and the two shadows at the third window. Then, last, the old man by the litter.
 
 ---
 
-On the sixth afternoon the basket came back while she was watching.
+Since the gate was shut the basket had come back every afternoon. It came out through the arch at the fifth bell in the small sister's hands, with a cloth over it knotted at the corners, and she carried it across the walk and held it out, and one of the bearers got up off the steps to take it.
 
-It came out through the arch in the small sister's hands at the fifth bell, with a cloth over it knotted at the corners, and the small sister carried it across the walk to the old man and held it out to him. One of the bearers got up off the steps to take it. The old man moved his hand, the smallest movement, and the bearer sat down again.
+On the sixth afternoon of her watching the bearer got up, and the old man moved his hand, the smallest movement, and the bearer sat down again.
 
-The old man took the basket himself. He held it in both hands. It was heavy for him; the coat moved on his shoulders as he took the weight, and Valeria saw how thin he was under it.
+He took the basket himself, in both hands. It was heavy for him. The coat shifted on his shoulders as the weight came on, and Valeria saw how little there was of him inside it.
 
 "The healer is well, my lord," said the small sister. "She is in reflection."
 
@@ -1640,19 +1640,19 @@ The old man took the basket himself. He held it in both hands. It was heavy for 
 
 "I'm only to say."
 
-"I know you are." His voice was light and dry and very old, and every vowel in it was long, the long vowels of the Old Hill that Liora had kept. "Go in. You'll be in trouble for standing in the sun."
+"I know you are." His voice was light and dry and old, and every vowel in it was long: the long vowels of the Old Hill, that Liora had kept. "Go in. You'll be in trouble for standing in the sun."
 
 The small sister went in. The old man stood with the basket.
 
-Then he turned, slowly, all of a piece as the old turn, to face her across the walk. He had known she was there. She saw that. He had known she was there every afternoon for six days, and had not once turned his head to her, as he had not once sat down in the litter.
+Then he turned, slowly, all of a piece, and faced her along the walk. In all the afternoons she had stood there he had not once turned his head to her, as he had not once sat down in the litter.
 
 "Captain," he said.
 
-She crossed the walk. The Farrier came with her on her shoulder.
+She went along the walk to him with the Farrier on her shoulder, and grounded it in front of him.
 
 "My lord."
 
-"You are the prince's captain. Valeria. Of the causeway." He said it like a man reading off a list he had made. "You went in. On the first day."
+"You are the prince's captain. Valeria. Of the causeway." He said it like a man reading off a list he had made himself. "You went in. The day before they shut the gate."
 
 "I did, my lord."
 
@@ -1660,33 +1660,33 @@ She crossed the walk. The Farrier came with her on her shoulder.
 
 "I saw her."
 
-He did not ask anything else at once. He stood with the basket in both hands and searched her face, as if the answer might be there, written small, if he could only get close enough to read it; and his eyes were pale and wet with age at the rims.
+He did not ask anything more at once. He stood with the basket in both hands and searched her face, as if the answer might be written there small, if he could only get near enough to read it. His eyes were pale and wet at the rims.
 
-"Is she thin?" he said.
+"Is she thin?"
 
 "A little, my lord."
 
-"She was always thin. As a child. She would not eat what she was given." His hands moved on the basket's handle. "Does she eat?"
+"She was always thin. As a child. She would not eat what she was given." His hands moved on the handle. "Does she eat?"
 
 "At the bells."
 
-"At the bells." He looked down at the basket. "I know about the bells. I had my cook go to the infirmary sisters and find out what their rule allows. Bread. Greens. A fish. Nothing after the dusk bell. Water from the spring." He lifted the corner of the cloth, and she saw a round loaf, and a bunch of cress, and a small cold fish wrapped in a leaf, all laid out with care, as a servant lays out what she has been told she will be beaten for getting wrong. "I sent exactly that. I thought, if I send exactly what the rule allows, the rule can have nothing to say to it." He let the cloth fall. "It comes back."
+"At the bells." He bent his head to the basket. "I know about the bells. I had my cook go to the infirmary sisters and learn what their rule allows. Bread. Greens. A fish. Water from the spring. Nothing after the dusk bell." He lifted a corner of the cloth: a round loaf, a bunch of cress, a small cold fish wrapped in a leaf, laid out as kit is laid out for an inspection. "I sent exactly that. I thought, if I send exactly what the rule allows, the rule can have nothing to say to it." He let the cloth fall. "It comes back."
 
-"It's their rule, my lord. Nothing from outside. While she's in reflection."
+"It's their rule, my lord. Nothing from outside, while she's in reflection."
 
-"I know their rule. My house gave them the roof of their chapel." "My great-grandmother. She was healed of something in there, I forget what. It was before I was born. There's a stone over the chapel door with our name on it." He stood a moment. "I have not been inside."
+"I know their rule. I asked for her at that grille the day she came back to this house, and was told she was well. I am told so every day. My house roofed their chapel: my great-grandmother, who was healed of something in there before I was born. I forget what. There's a stone over the chapel door with our name on it." He was quiet a moment. "I have never been inside."
 
-The steam went past them off the canal. Behind him on the strip of grey sand the rope between the stakes moved a little in the heat, and nothing else moved.
+The steam drifted past them off the canal. Behind him, on the strip of grey sand, the rope between the stakes moved a little in the heat, and nothing else moved.
 
-"You'll be thinking," said the old man, "that a father might have come to his daughter's door before this summer."
+"You'll be thinking," he said, "that a father might have come to his daughter's door before this summer."
 
 "I wasn't thinking anything, my lord."
 
-"No. You're a soldier." He looked at the arch. "She got down out of my litter on that sand, Captain, one evening a long time ago, and went in at that gate behind a barrow, and I let her. I could have sent men after her. I did not. I thought she would come home when she was cold." His voice did not change at all. "She was never cold enough, it seems."
+"No. You're a soldier." He looked at the arch. "She got down out of my litter on that sand, Captain, in her good dress, one evening a long time ago, and went in at that gate behind a barrow. I could have sent men after her. I did not. I thought she would come home when she was cold." His voice did not change at all. "She was never cold enough, it seems."
 
-Valeria said nothing. There was a thing in his face now that she had seen in other faces, in men on carts, in the files coming back down the road from the gorse; and she was not one to put a name to it, and would not have thanked anyone who did.
+Valeria said nothing. There was a thing in his face now that she had seen in other faces, in men on carts and in the files coming back down the road from the gorse.
 
-"I write to her every Midwinter," said the old man. "She answers. She tells me who she has buried." He shifted the basket. "I am told she says their names. All of them. Every night."
+"I write to her every Midwinter," said the old man. "She answers. She tells me who she has buried. I am told she says their names. All of them. Every night."
 
 "Yes, my lord."
 
@@ -1694,7 +1694,7 @@ Valeria said nothing. There was a thing in his face now that she had seen in oth
 
 She did not understand him, and then she did, or near enough.
 
-"I don't know, my lord," she said. "I've never heard her say a name I knew was yours."
+"I don't know, my lord. I've never heard her say a name I knew for yours."
 
 He nodded.
 
@@ -1702,117 +1702,141 @@ He nodded.
 
 "If they let me."
 
-"If they let you." He turned the basket a little in his hands. "Then if you see her, Captain, you might tell her the cress was from the garden. The old bed under the chapel wall. She used to pick it there, when she was small enough to get behind the bench." He stopped. "No. Don't tell her that. Tell her nothing from me. She'll know I'm here. She always knew where I was. It was the one thing she could never stop doing."
+"If they let you." He turned the basket a little in his hands. "Then if you see her, Captain, you might tell her the cress was from home. The old bed under the chapel wall. She used to pick it there when she was small enough to get behind the bench." He stopped. "No. Don't tell her that. Tell her nothing from me. She'll know I'm here. She always knew where I was. It was the one thing she could never stop doing."
 
-He gave the basket to the bearer, then, and got into the litter at last, slowly, a hand on either side of the door, and drew the curtain. The bearers took up the poles. The litter went away up the walk toward the Old Hill in the steam, rocking a little, and the singing crowd stood aside for it and did not know whose it was.
+He gave the basket to the bearer then, and got into the litter at last, slowly, a hand on either side of the door, and drew the curtain. The bearers took up the poles. The litter went away up the walk toward the Old Hill in the steam, rocking a little, and the singers stood aside for it without stopping the song.
 
-Valeria stood on the walk and watched it go, with the Farrier grounded against the wall at her back. The thumb of her right hand went along the side of her forefinger, hunting the worn place, and came back empty.
+Valeria watched it out of sight, with the Farrier grounded beside her and her hand off it. The thumb of her right hand hunted along the side of her forefinger for the worn place on the haft, and came back empty.
 
 ---
 
-On the ninth day after she came up the hill the council sat, and did not read the returns aloud. It noted their receipt. It thanked the captain. It held the matter of the gate at Bastion over to the next sitting, at the Marshal's request, so that the Marshal might study the returns; and the Marshal, at the head of the long table, did not look at her once from the first bell to the noon one, and pressed the bull's head of his ring into the heel of his hand when the clerk read out the number of sheets.
+The next day the council sat at last, and did not read the returns aloud. It noted their receipt. It thanked the captain. It held the matter of the gate at Bastion over to its next sitting, at the Marshal's request, so that the Marshal might study the returns. The Marshal sat at the head of the long table from the first bell to the noon one, and his eyes were everywhere but her end of it. When the clerk read out the number of sheets, he pressed the bull's head of his ring into the heel of his hand.
 
-She went down to the canal afterward with the king's slip of paper in the neck of her mail, and gave it to the small sister at the grille, and asked to see the Knight-Abbess.
+She took the king's slip down to the canal afterward, and held it up to the grille for the small sister to read, and asked to see the Knight-Abbess.
 
-She was kept waiting in the arch an hour, on the poor's bench, in the heat. The old soldier on the walk sang *The Angel of the Baths* twice through while she waited, with the high verse, flat. Then the big sister came through the court and lifted the bar out of the grille and said, "She'll see you. Leave the spear."
+They kept her an hour on the poor's bench in the arch, in the heat. Out on the walk the old soldier sang *The Angel of the Baths* twice through while she waited, with the high verse, flat. Then the big sister came across the court and lifted the bar out of the grille.
+
+"She'll see you. Leave the spear."
 
 Valeria left it.
 
-The big sister took her across the court, and through a door, and up a stair that turned twice in the thickness of the wall, and along a passage with the shutters closed and the light coming through their slats in bars across the boards; past a door with two sisters standing one at either side of it, whose eyes came to her and went away; and into a long room at the end.
+The big sister took her across the court and through a door, and up a stair that turned twice in the thickness of the wall. In the passage at its head the shutters were closed, and the light came through their slats in bars across the boards. At the end of the passage was a long room. A sister stood at either side of its door, and their eyes came to Valeria and left her.
 
-It was the order's chapter-room, she supposed. It ran the whole width of the house, with its windows open on the court side for the air and shuttered on the canal side for the crowd, and it was whitewashed from the floor to the beams and had nothing on its walls but one great sun painted in gold on the east wall, with its rays going out to the corners, a little flaked. The floor was scrubbed boards. There were benches round three walls. At the far end, under the sun, was a table with a sister at it writing, and in front of the table, in the middle of the floor, on a three-legged stool, Liora was sitting with her hands in her lap.
+The order's chapter-room, she supposed. It ran the width of the house, its windows open on the court side for the air and shuttered on the canal side against the crowd, and it was whitewashed from the floor to the beams. On the east wall a great sun had been painted in gold, with its rays going out to the corners, and some of the gold had flaked. Nothing else hung there. The floor was scrubbed boards, with benches round three walls. A sister sat writing at a table under the sun; and in front of the table, in the middle of the floor, on a three-legged stool, Liora sat with her hands in her lap.
 
 Cassandra was standing.
 
-She was standing a pace in front of the table, between it and the stool, in a white cloak over mail, clasped at the throat with steel in all that heat, and a steel cap on the white coif, exactly as she had stood a pace in front of her two hundred on the moor road in the spring. She had a ledger open in her two hands. Her spear leaned against the table behind her, a short spear with a little bell at the socket. Her long plain face was red with the heat, and her two dark brows were ruled straight across it.
+She stood a pace in front of the table, between it and the stool, in a white cloak over her mail, clasped at the throat with steel in all that heat, and a steel cap on her white coif. She was younger than Valeria by some years, and she held the floor as if she had it by deed. She had a ledger open in her two hands. Her spear leaned on the table behind her, a short spear with a small bell at the socket. Her long plain face was red with the heat, under two straight dark brows.
 
-She looked at Valeria, and closed the ledger on one finger.
+She saw Valeria, and closed the ledger on one finger.
 
 "State your competence," she said, "or stand aside."
 
 "Valeria, captain of the Lanciarii. The king's officer." Valeria held out the slip. "His Majesty asks after the healer."
 
-Cassandra did not take the slip. She looked at it in Valeria's hand, and read it there, from a yard off, upside down; and her teeth clicked once.
+Cassandra did not take it. She read it where it was, in Valeria's hand, from a yard off; and her teeth clicked once.
 
 "His Majesty may ask," she said. "His Majesty has no competence in this house, and knows it, or he would have sent a herald and not a captain. But he may ask." She turned her head a little. "Sister Philippa. Enter that the king's officer sat through this day's hearing at the king's asking, and saw that it was done by the rule."
 
-The sister at the table wrote. She was a lean grey woman with ink on her second finger, and she did not look up.
+The sister at the table wrote. She was a lean grey woman with ink on her second finger, and she did not raise her head.
 
 "Sit," said Cassandra. "There." The end of the bench by the door. "You will not speak. You will not go to her. If you do either, you will be put out, king or no king. Do you understand me?"
 
 "I understand you, Abbess."
 
-Valeria sat. Her hand went to her side for the Farrier, and met the bench. She put both hands on her knees.
+Valeria sat. Her right hand reached down to her side for the Farrier and met the bench. She put both hands on her knees.
 
-There were two other sisters on the bench across the room, old women, one with a face as brown and creased as a walnut and the other with no teeth, sitting upright with their hands folded. Witnesses. A bee had come in at the open window and was going along the whitewash under the beams, looking for the way out again, with a dry small buzz. The room smelled of lye and hot wood, and faintly, under them, of the canal.
+Two old sisters sat on the bench across the room, upright, with their hands folded: one with a face as brown and creased as a walnut, the other with no teeth. Witnesses. A bee had come in at an open window and was working along the whitewash under the beams, hunting for the way out again, with a dry small buzz. The room smelled of lye and hot wood, and under them, faintly, of the canal.
 
-Liora had not turned round. She sat on the stool with her back straight and her hands in her lap, in the plain white of the house, the cloth on her hair tied better today; somebody else had tied it. Her feet were bare on the boards. Valeria could see her face only in part, from the side, and it was quiet.
+Liora had not turned round. She sat on the stool with her back straight, in the plain white of the house, the cloth on her hair tied better today; somebody else had tied it. Her feet were bare on the boards. From the bench by the door Valeria could see her face only in part, from the side, and it was quiet.
 
 "From the first," said Cassandra.
 
 ---
 
-"From the first," Liora said. "On the eighth day at Cyrene, Statius came to the Baths with his back."
+"From the first," Liora said. "On the ninth day at Cyrene they brought Statius to me in the steam-box house, for his back."
 
 Her voice was low and even. It was the voice in which Valeria had heard her tell Hostus how much of a thing to put in a cup.
 
-"He had a bad back," said Liora. "It seized when a load turned him. It had been seizing all that winter. I knew it before he came. I had seen him carry."
+Valeria knew the name. The day before that, on the slip, she had had the Farrier's haft across the man's throat and her knee in the back of his, because his shovel came up. It had only been his back.
 
-"And you treated it," said Cassandra.
+"Who brought him?" said Cassandra.
 
-"I put my hands on it."
+"Rufo. Statius came in his irons, and Rufo stood by the door."
+
+"And you treated it."
+
+"I laid my hands on it. I did not warm them first. I had never done that before, to anyone on my table."
+
+The pen moved across the paper. The bee worked along the beam.
+
+"Did you go in?"
+
+"No. I didn't need to. A back like that you can read with your hands." Liora's hands lay still in her lap. "Knots in the long muscles either side of the spine, below the last rib. They drew up tighter with every load, until he had to straighten and let them go. If a weight came on him turned, before he'd let them go, they would seize, and pinch the great cord down the back of the leg, and the leg would go from under him."
+
+"Did you tell him so?"
+
+"I told him true. *Straighten before it comes. With a load on you, turn your feet, never your back.*"
 
 "And the warmth?"
 
-"I kept the warmth from it."
+"I kept it."
 
 "Say what that means. For the record."
 
-"I laid my hands on him as I would lay them on any man, and did the Seeing, and saw the knot in the long muscle where it went into the hip, and put nothing in." Liora's hands lay still in her lap. "I did it every day for five days. He thought I was healing him. He thanked me."
-
-The pen went across the paper at the table. The bee went along the beam.
+"I put nothing in. He said *Yes, healer* to the floor, and Rufo took him back to the others."
 
 "On the thirteenth day," said Cassandra.
 
-"On the thirteenth day we loaded the ships at the water-gate stair. The prisoners carried. He had a cask on his shoulder. The stair turns at the foot, over the deep water, and I was on the landing above. I waited until he was at the turn, with the weight on the outside foot, and I called his name."
+"On the thirteenth day we loaded the *Forward* at the water-gate stair, in the last of the light. The prisoners carried the stores. He had the slingers' lead on his left shoulder, in a keg, and every third trip he straightened at the top. I was on the landing, where the stair turns back against the rock. The ship's master stopped the line to trim her. Statius was at the bottom when it stopped: the last step, at the lip, where there's no rail. Deep water on his left. The lead on him, and past his time. I counted three, and called his name."
 
 "You called his name."
 
-"Statius. He turned to see who it was. His back went. The cask took him off the stair into the deep water, down into the weed, and he did not come up."
+"*Statius.* In the voice for the farthest pallet. He turned to see who it was, his head and his shoulders, under the load, with his feet where they were." A pause, no longer than a breath. "I had told him never to."
+
+"And the leg went."
+
+"The leg went. The lead took him over the lip, on the weed, and his chain took him down."
 
 "Knowing his back would go."
 
-"Knowing his back would go."
+"Knowing."
 
 "Knowing the water was deep."
 
 "Yes."
 
-Cassandra opened the ledger on her finger and looked at something in it, and closed it again.
+Old Baebius had come up to Valeria at dusk that evening, to tell her that a prisoner had gone off the foot of the stair in his irons and that everyone had been very quick. Her report had been written and sealed by then. She had studied Baebius's face, and then the seal, and left it where it was.
+
+Cassandra opened the ledger on her finger, read something in it, and closed it again.
 
 "Pansa," she said.
 
-"On the eleventh day Pansa asked me for my touch. His hands were split with the frost. They were working on the staging at the hulls."
+"On the eleventh day Rufo brought him in with two others, and he held his hands out to me across the bench. They were split with the frost. He said, *Sister. They tell me you've the touch.*"
 
 "And you gave it him."
 
-"I gave him goose-grease, and not my hands. There was wolfsbane in the grease."
+"I gave him goose-grease. Not my hands."
+
+Sister Philippa wrote. On the far bench the toothless sister moved her lips over her gums, and was still.
+
+"On the fourteenth day, at noon," said Liora, "I made up liniment for the prisoners' hurts, for when I was gone. Camphor in lard. In his I ground wolfsbane."
 
 "How much?"
 
-Liora told her how much. She told it in the old weights of the still-room, the grains and the scruples; and Valeria, who did not know a scruple from a sack of meal, saw the toothless sister on the far bench shut her eyes.
+Liora told her how much. She told it in the old weights of the still-room, the grains and the scruples; and Valeria, who did not know a scruple from a sack of meal, saw the toothless sister shut her eyes.
 
-"Enough to take the feeling out of his fingers for the hours of a working day," said Liora. "Not enough to kill him, by itself. I meant it not to kill him by itself."
+"Far past the measure," said Liora. "Enough to take his hands away from him for the hours of a working day. Not enough to kill him by itself. I meant it not to kill him by itself. I scratched his name on the lid, and gave the pots out at the slips that afternoon. He rubbed his in, and said his hands had gone quiet: best they'd been since the snow. Then he went up the ladder to the staging with a strake on his shoulder, and his hand closed on a rung it couldn't feel."
 
-"And on the fourteenth day."
+"And he fell."
 
-"On the fourteenth day he went up the ladder to the top of the staging with no feeling in his hands, and missed a rung, and fell."
+"Backward. A man's height and a half, onto the frost. It broke his neck."
 
 "Where did the wolfsbane come from?"
 
-Liora was quiet a moment.
+This time Liora was slow to answer.
 
-"From the still-room off the Baths," she said. "The order's old still-room. The top shelf."
+"From my bag," she said. "A twist of paper. Every sister of this house carries it dried, for the pain in a nerve, and is taught the measure to the grain."
 
 The pen stopped. Then it went on.
 
@@ -1822,23 +1846,31 @@ The pen stopped. Then it went on.
 
 "Go on."
 
-"Atilius," said Liora. "On the fifteenth day. At the pyre on the black beach. We burned our dead and theirs on the same fire. He was across it from me."
+"Atilius," said Liora. "The sergeant. On the fifteenth day, at noon, on the black beach. They were burning Statius and Pansa, and the prisoners stood to windward, and he was across the fire from me."
 
 "How far?"
 
-"Across the fire. Ten paces. Twelve. The smoke was between us."
+"Ten paces of fire."
+
+"Go on."
+
+"I said the names, as I say them. His two at the end. He knew, then. I saw it come into his face."
 
 "And you did the Seeing."
 
 "Yes."
 
-"At ten paces. Through smoke. On a man you were not touching."
+"At ten paces. Through the fire. On a man you were not touching."
 
 "Yes."
 
+"With your eyes shut?"
+
+"Open. On his."
+
 "Who taught you that?"
 
-"Nobody taught me that. I found I could."
+"Nobody. I didn't know it went that far."
 
 "Who taught you the Seeing?"
 
@@ -1846,39 +1878,51 @@ Liora turned her head then, for the first time, a little, toward the woman stand
 
 "You did," she said.
 
-Cassandra's face did not move. But Valeria saw her hand on the closed ledger whiten across the knuckles, as a hand does on a haft when the first rank of the enemy comes into the last few strides.
+Cassandra's face did not move. But the hand on the closed ledger went white across the back, as a hand does on a haft when the front rank of the enemy comes into its last few strides.
 
-"Yes," said Cassandra. "I did. In a tent on the beach below the stair. You got the words wrong for a week." Her voice did not soften, quite. "Go on. Say what you did."
+"Yes," said Cassandra. "I did. You had the blessing wrong for a week. You had the Seeing the first night. Go on. Say what you did."
 
-"I went into him," said Liora. "I looked along the cords the heart hangs by. I found one, and put a turn in it, and drew it tight."
+"I went into him," said Liora. "There's a door low on the left side of the heart. His didn't close true. The strings that hold its edge had worn thin, on one side."
+
+"The heartstrings," said Cassandra, to the table; and the pen took the word down.
+
+"I took the thin one and its neighbor and tied them. A surgeon's knot. Two throws, then one."
 
 "Your hands."
 
 "Cold. I did not warm them."
 
-Nobody on the benches moved. The bee had got out at the open window, or another had; the buzzing had stopped. Outside in the court the little high bell rang the hour, one stroke, clear, and Valeria heard the big sister's boots cross the stones below to the grille.
+Nobody on the benches moved. The bee had got out at the open window, or settled; the buzzing had stopped. Down in the court the little high bell rang the hour, three strokes, clear, and boots crossed the stones below toward the gate.
 
 "You went in cold," said Cassandra.
 
 "I went in cold."
 
-"It is the one thing we ask," said Cassandra, "of every girl we teach. Before the warmth, before the Seeing, before the oil and the bell. It is the first thing. You do not go in cold. You do not go into a living body with your hands unwarmed, to do it harm, because once you have done it you will know how, and you can never again not know." She stood over the stool. "I taught you that too."
+"The warmth is the first thing we teach," said Cassandra. "Before the Seeing. Before the oil and the bell. A girl of ours learns to warm her hands before she learns where to lay them, so that she will never go into a living body cold, to do it harm. Because once you have done it you will know how, and you can never again not know." She stood over the stool. "I taught you that too."
 
 "Yes. You taught me that too."
 
 "And then?"
 
-"And then I was sorry," said Liora. "I went back in, with my hands warm, and I eased the pain. I did not take the turn out." She sat with her hands in her lap. "He died before the fire was out."
+"He went down. Rufo called me. I went round the fire and knelt by him, and I could have undone it. One pull on the right end, and the first throw comes free."
 
-The pen went across the paper, and stopped.
+"Did you?"
 
-Cassandra stood. Her teeth were set; Valeria could see the line of the jaw under the coif's edge. She looked down at the woman on the stool, and Valeria saw her draw a breath to ask it; saw the question come up into her face, the one that came next.
+"I drew it tighter."
 
-Then she did not ask it.
+"And then?" said Cassandra.
 
-She let the breath go. She opened the ledger again, and turned a leaf.
+"And then I was sorry," said Liora. "I laid my hand on his chest, warm, and took the pain out of him into mine. I did not loosen the knot. He died before the fire was out."
 
-"You were asked to take the vow," she said. "In the tents below the stair. Again the next summer. And at Midwinter, by me, in this room."
+Sister Philippa wrote it, and waited with the pen lifted.
+
+Cassandra's teeth were set; Valeria could see the line of the jaw under the edge of the coif. She stared down at the woman on the stool, and Valeria saw her draw the breath for the next question.
+
+She did not ask it.
+
+She let the breath go, and opened the ledger, and turned a leaf.
+
+"You were asked to take the vow," she said. "In the tents, after the stair. Again the next summer. And at Midwinter, by me, in this room."
 
 "Yes."
 
@@ -1892,13 +1936,13 @@ She let the breath go. She opened the ledger again, and turned a leaf.
 
 "Why?"
 
-Valeria heard it go across the room like a stone across ice, and the toothless sister on the far bench opened her eyes.
+It went across the room like a stone across ice, and the toothless sister on the far bench opened her eyes.
 
-Liora looked up at the Abbess.
+Liora raised her head to the Abbess.
 
 "Because a vow is a house too," she said. "And I'd just left one."
 
-For a moment nobody said anything. The heat stood in the room like water in a cistern.
+For a moment nobody spoke. The heat stood in the room like water in a cistern.
 
 "And now?" said Cassandra.
 
@@ -1910,83 +1954,73 @@ Cassandra's teeth clicked. Once.
 
 ---
 
-Two sisters came for Liora at the door, the two from the end of the passage, and took her between them, one at either elbow, not holding her, walking a half-step behind; and Liora went out with them without looking at the bench. Valeria waited until the Abbess had gone through the far door with the ledger under her arm and Sister Philippa had sanded her page, and then she got up and went out after them, into the barred light of the passage.
+The two sisters from the door came in for Liora and took her between them, one at either elbow, not holding her, a half-step behind. Liora left with them without a glance at the bench. Valeria waited until the Abbess had gone through the far door with the ledger under her arm and Sister Philippa had sanded her page. Then she got up and followed them out into the barred light of the passage.
 
-They had stopped at the door with the sisters on it. One of the guards had her hand on the latch. Liora turned round.
+They had stopped halfway down the passage, at a door across from the shutter she had watched from the walk. One of the two had her hand on the latch. Liora turned round.
 
 "Captain."
 
-The two sisters looked at each other.
+The two sisters exchanged a glance.
 
 "A word," said Liora. "She can stand there. You can stand here. Nobody needs to touch anybody."
 
-The sister with her hand on the latch hesitated, and then took her hand off it and stepped back to the wall, and the other did the same on the other side; and they stood with their hands folded, three paces off, and looked at the shutters.
+The sister with her hand on the latch hesitated, then took it away and stepped back to the wall, and the other did the same on her side. They stood with their hands folded three paces off and studied the shutters.
 
 Valeria came down the passage and stopped where she was put.
 
 "Every day?" she said. "From the first?"
 
-"Every day. Since the day after you came to the gate. Yesterday was the sixth time. Sister Philippa has it word for word, six times over; if anybody ever wants it, they'll be able to see that I never once said it differently." The corner of her mouth went in. "I've always been good at saying things the same way every night."
+"Every day. Since the day after you came to the gate. That was the seventh time. Sister Philippa has it word for word, seven times over. If anybody ever wants it, they'll be able to see I never once said it differently." The corner of her mouth went in. "I've always been good at saying things the same way every night."
 
 "She didn't ask you."
 
-"No."
-
-"She was going to."
-
-"She's never going to." Liora looked down the passage toward the long white room. "If she asks, I'll have to answer, or refuse to answer; and either way it'll be about them, and not about me. She knows that. She's not a fool. She was never a fool." She turned back. "This is about me."
+"She's never going to." Liora looked down the passage toward the long white room. "If she asks, I'll have to answer, or refuse to; and either way it'll be about them. She knows that. She was never a fool." She turned back. "This is about me."
 
 "It's a trial."
 
-"It's a reflection." Liora said it in the house's voice, flat, with the house's word in it; and then, in her own: "It's lawful, Valeria. That's what you were let in to see. Every bell of it is in the rule. I walked in at the door. Nobody has laid a hand on me." She drew a breath. "I'm not going to fight my way out of it. I told Marcus. I'll tell you."
+"It's a reflection." She said it in the house's voice, flat; and then, in her own: "It's lawful, Valeria. That's what you were let in to see. Every bell of it is in the rule. I walked in at the door. Nobody has laid a hand on me." She drew a breath. "I'm not going to fight my way out of it. I told Marcus. I'll tell you."
 
 "I've not asked you to."
 
-"No. But you were looking at the windows on the way up the stair. You looked at every one."
+"No. But you'll have looked at every window on the way up that stair."
 
-Valeria had. She had not known she was doing it until she was told.
+Valeria had. She had not known it until she was told.
 
 "Don't do anything," said Liora. "Don't do anything, Valeria. Any of you. If one of those girls on the door gets a split lip because of me, or a broken wrist, or a sister's knocked down a stair, I'll have to heal it, and then I'll have to say it at night." She stood straight between the two white walls. "I've enough to say at night."
 
-Valeria looked at her. Then at the door with the latch, and the two sisters along the wall, and down the passage at the bars of light lying on the boards, and the stair.
+Valeria held her eyes. Then she took in the door with the latch, and the two sisters along the wall, and the bars of light lying down the passage on the boards, and the head of the stair.
 
 "I'm the crown's officer," she said. "There's nothing the crown can do in here."
 
 "Good," said Liora.
 
-She went in. The sister nearest the latch came off the wall and shut the door behind her, and did not bar it, because there was no bar on that side. It was a room. It had a window that opened.
+She went in. Past her shoulder Valeria saw a whitewashed wall, and a window standing open on the court with the light in it. Then the sister nearest the latch came off the wall and shut the door behind her, and did not bar it, because there was no bar on that side. It was a room. It had a window that opened.
 
-Valeria went down the stair, and across the court, and took the Farrier from behind Sister Agrippina's stool, and the big sister lifted the bar out of the grille and let her out without a word.
+Valeria found her own way down the stair and across the court, and took the Farrier from behind Sister Agrippina's stool, and the big sister lifted the bar out of the grille and let her out without a word.
 
-The old man was on the walk by his litter. The crowd was singing. The steam came off the canal and went up the white wall and over it into the sky.
+The steam rose off the canal, up the white wall and over it into the sky.
 
-She stood there until the sixth bell, as he did. Then she went up the hill to the barracks and sat on her cot in the loft with her mail off and her shirt stuck to her back, and did not eat, and thought.
+She stood on the walk until the sixth bell, as the old man did. Then she climbed the hill to the barracks and sat on her cot in the loft with her mail off and her shirt stuck to her back, and did not eat, and thought.
 
-*There's nothing the crown can do in here.* The crown's officer had sworn to report everything, and she would. She knew what her report would do when it reached Cyrene. The Prefect would read *thinner*, and the engineer would read *a door barred at dusk*, and somebody in that yard would be measuring something before the ink was dry; and whatever came up the Lower Canal after that, at night, the crown's officer could not be standing on the walk when it came, because then she would have to write what she saw.
+*There's nothing the crown can do in here.* The crown's officer had sworn to report everything, and she would. She knew what her report would do when it reached Cyrene. The Prefect would read *thinner*, and the engineer would read *door*, and somebody in that yard would be measuring something before the ink was dry. Whatever came up the Lower Canal after that, at night, the crown's officer could not be standing on the walk when it came. If she were, she would have to write what she saw.
 
-Below in the barracks her men were at their supper, and Galba was telling the one about the goat in the harbor shrine, and somebody laughed in the wrong place.
+Below her in the barracks her men were at their supper, and Galba was telling the one about the goat in the harbor shrine, and somebody laughed in the wrong place.
 
-What she could do was be somewhere else. It was most of a soldier's life, being where she was put. And a soldier put somewhere else, by an order, could write the order into her report, plain.
+What she could do was be somewhere else. It was most of a soldier's life, being where she was put.
 
-The question was who would put her there.
-
-She knew who. She had known it since the bull's head went into the heel of his hand at the council table and the Marshal did not look at her. She lay back on the cot and saw the ground of it as plain as the slope below the gate at Bastion: where he stood, and what he could see from there, and what he would do about what he saw.
-
-*It's what I'd do,* she thought.
-
-In the morning she put her mail on, and her good cloak over it, the blue one, though it was too hot for any cloak; and she combed out her plaits and did them again, tight, with the iron in them showing; and she went down to the Lower Canal at the first bell with the Farrier on her shoulder and four of her men behind her, and stood across the walk from the Abbess's gate where the whole city could see her, all day, in the sun.
+In the morning she put on her mail, and her good cloak over it, the blue one, though it was too hot for any cloak. She combed out her plaits and did them again, tight, with the iron in them showing. At the first bell she was on the Lower Canal with the Farrier on her shoulder and four of her men behind her. She stood across the walk from the Abbess's gate, where the whole city could see her, all day, in the sun.
 
 ---
 
 She did it for seven days.
 
-She did not speak to anybody. She did not go to the grille. She stood across the walk from the poor gate with the Farrier grounded, from the first bell to the dusk bell, with two of the Lanciarii at her back in the morning and two in the afternoon, in mail, in the heat; and she let the city look.
+She spoke to nobody. She kept away from the grille. She held the walk across from the poor gate with the Farrier grounded, from the first bell to the dusk bell. Two of the Lanciarii stood at her back in the morning and two in the afternoon, in mail. By the third day the rings had galled both her shoulders raw under the padding, as they did every summer, and she let them.
 
-The city looked. The old soldier came on the first morning and stood beside her, and on the second brought a friend with two legs and a drum. The bargewomen brought her water in a jug. The boy with the blessed candles moved his tray along the walk to stand beside her, because the pilgrims came where she was, now, as well as where the house was; and by the fourth day there was a song about her, a short and bad one, about the prince's captain at the Angel's gate, which rhymed *spear* with *here* twice. By the fifth, the lower town had it that she was there by the prince's own command, to stand watch over the Angel till the prince came for her; and by the sixth that the king had sent her; and on the seventh, a woman selling cherries told her, in a whisper, as a kindness, that she was the Angel's sister.
+The city looked. The old soldier came on the first morning and stood beside her, and on the second brought a friend with two legs and a drum. The bargewomen brought her water in a jug. The boy with the blessed candles moved his tray along the walk to stand by her, because the pilgrims came where she was now as well as where the house was. His candles stank of hot tallow in the sun. By the fourth day the lower town had a song about her, short and bad, about the prince's captain at the Angel's gate, which rhymed *spear* with *here* twice. By the fifth it had it that she stood there by the prince's own command, to watch over the Angel till the prince came for her; by the sixth, that the king had sent her. On the seventh a woman selling cherries told her in a whisper, as a kindness, that she was the Angel's sister.
 
-She stood. The old man stood across from her by his litter, from the third bell to the sixth. They did not speak again. On the third day, when the basket came back, he looked at her across the walk with it in his hands, and she inclined her head to him, an inch, and he inclined his.
+She stood. Along the walk from her the old man stood by his litter, from the third bell to the sixth. They did not speak again. On the third day, when the basket came back, he turned to her with it in his arms, and she inclined her head to him, an inch, and he inclined his.
 
-At the dusk bell on the seventh day a boy in the Marshal's livery came to her on the walk and gave her a folded note, and stood waiting.
+At the dusk bell on the seventh day a boy in the Marshal's livery came along the walk and gave her a folded note, and stood waiting.
 
 *The Lord Marshal will sup with the captain tomorrow, at the first lamp.*
 
@@ -1994,9 +2028,9 @@ At the dusk bell on the seventh day a boy in the Marshal's livery came to her on
 
 ---
 
-The Marshal's house was the same tall grey narrow house under the palace wall where the lane turned, but it was summer, and the door stood open to the lane for the air. There was no pine bough over it. The stone bull's head over the chimney-piece had no garland on its horns, and the fire under it was out, swept, the hearth laid with a bunch of green bay in a crock. All the windows were open. From the garden of the tombs across the lane came the dry, warm, dusty smell of box hedges and the sound of somebody's sheep, which the king let graze among the tombs in summer to keep the grass down.
+The Marshal's house was the same tall narrow house of grey stone under the palace wall where the lane turned, but it was summer, and the door stood open to the lane for the air. There was no pine bough over it. The stone bull's head over the chimney-piece had no garland on its horns, and the hearth under it was swept and laid with a bunch of green bay in a crock. All the windows were open. From the garden of the tombs across the lane came the warm dusty smell of box hedge, and the sound of somebody's sheep, which the king let graze among the tombs in summer to keep the grass down.
 
-Ursus was at the door. His red beard was spread on his chest like a doormat, and he had his sleeves rolled up for the heat. His eyes went over the Farrier, and the new wire on it, and her.
+Ursus was at the door with his sleeves rolled up and his red beard spread on his chest. He looked over the Farrier, and the new wire on it, and her.
 
 "Bound," he said.
 
@@ -2006,17 +2040,17 @@ Ursus was at the door. His red beard was spread on his chest like a doormat, and
 
 On the peg inside the door hung a white cloak of good wool, with a steel clasp.
 
-She knew it now. She had sat on a bench nine yards from it for the better part of an afternoon. It hung where it had hung at Midwinter, on the same peg, the clasp turned out; and somewhere above, on the stair or in a room over the hall, she heard a small high bell ring once, short, the bell at the socket of a spear as it is set down against a wall. Then a door shut, and there was no other sound.
+She knew it now. She had sat across a room from it for most of an afternoon. It hung where it had hung at Midwinter, on the same peg, its clasp turned out. Somewhere above, on the stair or in a room over the hall, a small high bell rang once, short, as the bell at the socket of a spear rings when it is set down against a wall. Then a door shut, and there was no other sound.
 
-The Marshal was at his table by the open window. It had been carried over from the hearth for the air, and the light of the long midsummer evening lay across it, yellow and slanting, so that the Marshal's ribbons in their rows were all lit down one side. He was in his shirt, which she had never seen. He was broader without the coat, and older, and the grey cropped hair on his head was wet at the temples.
+The Marshal was at his table by the open window. It had been carried across from the hearth for the air, and the evening light lay over it, yellow and slanting. His coat hung on the back of his chair with its ribbons in their rows, lit down one side. He was in his shirt, which she had never seen: broader without the coat, and older, and the grey cropped hair wet at his temples.
 
 "Captain," he said. "Sit. Eat."
 
-There was a cold ham on the table, a whole one, with the fat on and a crust of browned breadcrumbs over the fat, and a dish of the little green pickled things that grew on the salt-marshes, and a round loaf, and a bowl of plums with the bloom still on them, and the jug, and the cups. And a paper.
+There was a cold ham on the table, a whole one, with the fat on and a crust of browned crumbs over the fat. There was a dish of the little green pickled things that grow on the salt-marshes, a round loaf, a bowl of plums with the bloom still on them, the jug, and the cups. And a paper.
 
-The paper lay at the Marshal's left hand, folded once, and then once again, long and narrow, to go into a sleeve. The folds were as sharp as the edge of a blade. She did not think she had ever seen a paper folded so; it would have stood up on its edge by itself. As she sat down the Marshal put his hand flat on it, without looking, as a man puts his hand on his purse in a crowd.
+The paper lay at the Marshal's left hand, folded once and then once again, long and narrow, to go into a sleeve. The folds had been pressed as sharp as a blade, so that it would have stood on its edge by itself. As she sat down he put his hand flat on it without looking, as a man in a crowd puts his hand on his purse.
 
-She had seen the writing before he covered it, a line or two of it on the outside fold: the most beautiful hand she had ever seen on a paper. Not a clerk's. It was too good for a clerk, every letter as clean as a cut, and the long strokes going down below the line and turning up at their feet like the curl at the end of a fern; and it was too careful for a lord. She did not know it. She read *the order's rule* upside down, and *the Lower Canal*, and then the Marshal's hand was on it, and she had no more.
+She had caught the writing before he covered it, a line or two on the outside fold: the most beautiful hand she had ever seen on a paper. It was too good for a clerk's, every letter as clean as a cut, the long strokes going down below the line and turning up at their feet. And it was too careful for a lord's. She did not know it. She read *the order's rule* upside down, and *the Lower Canal*, and then his hand was on it, and she had no more.
 
 "You've been on the Lower Canal," said the Marshal.
 
@@ -2024,9 +2058,9 @@ She had seen the writing before he covered it, a line or two of it on the outsid
 
 "Seven days."
 
-"Since the morning after I sat in their chapter-room. By the king's leave." She let the word lie. "Asking after the healer."
+"Since the morning after I sat in their chapter-room. By the king's leave. Asking after the healer."
 
-"You've not asked anything for seven days. You've stood there." He cut the ham himself, two thick slices with the fat on, and put them on her plate. "In mail. With that. Under the house's windows, where the whole of the lower town can see the prince's captain at the Abbess's gate. They're singing about you."
+"You've not asked anything for seven days. You've stood there." He cut the ham himself, two thick slices with the fat on, and put them on her plate. "In mail. With that. Under the house's windows, where the whole lower town can see the prince's captain at the Abbess's gate. They're singing about you."
 
 "Badly, my lord."
 
@@ -2034,7 +2068,7 @@ She had seen the writing before he covered it, a line or two of it on the outsid
 
 "On Vessa," said Valeria.
 
-He looked at her over the jug, and for a moment she thought he would smile, as he nearly had at Midwinter. He did not. He set the jug down and sat back in his chair with his hands on its arms, and looked out of the window at the palace wall going up gold in the last of the sun.
+He met her eyes over the jug, and set it down, and sat back with his hands on the arms of his chair, and turned his face to the window and the palace wall going gold in the last of the sun.
 
 "I've read your returns," he said.
 
@@ -2044,7 +2078,7 @@ He looked at her over the jug, and for a moment she thought he would smile, as h
 
 "No, my lord."
 
-"Two hundred, against the war. On a quarry's books." He was quiet a moment. "Would you have gone through?"
+"Two hundred, against the war. On a quarry's books." He was quiet. "Would you have gone through?"
 
 "Yes, my lord," said Valeria. "That morning."
 
@@ -2052,13 +2086,13 @@ He looked at her over the jug, and for a moment she thought he would smile, as h
 
 "Now I've written it down."
 
-The Marshal turned his head and looked at her, a long look, and she ate her ham. It was good ham. It had been boiled with hay and bay leaves before it was baked, and the fat was sweet, and the green salt-marsh pickles with it were sharp enough to make her eyes water, and she ate it all.
+The Marshal turned his head and gave her a long look, and she ate her ham. It was good ham, boiled in hay before it was baked, as they did it in the hills behind Vessa; she could taste the hay, and the bay leaves. The fat was sweet, and the salt-marsh pickles were sharp enough to make her eyes water. She ate it all.
 
 "The Abbess," said the Marshal at last, "is within her rule."
 
 "She is, my lord."
 
-"You'll have seen that she is. The order's claim on its training and its hands is older than this council and older than the dome on that hill. The crown does not go inside a holy house. The crown never has. Not the old king, and not his father, and not this one." He picked up a plum and turned it in his thick fingers. "His Majesty knows it. His Majesty sent a captain to ask, and the captain asked, and was answered. That's all the crown's business there is."
+"You'll have seen that she is. The order's claim on its training and its hands is older than this council, and older than the dome on that hill. The crown does not go inside a holy house. It never has. Not the old king, and not his father, and not this one." He took a plum and turned it in his thick fingers. "His Majesty knows it. His Majesty sent a captain to ask, and the captain asked, and was answered. That's all the crown's business there is."
 
 "Yes, my lord."
 
@@ -2068,25 +2102,27 @@ Valeria put down her knife.
 
 "How do you know there were three, my lord?"
 
-He looked up.
+He raised his eyes.
 
-"I can read, Captain," he said. "It's in the songs. Half the canals have it. *Weed, frost, heart.*" He moved his hand on the folded paper. "Everybody knows."
+"I can read, Captain," he said. "It's in the songs. Half the canals have it. *Weed, frost, heart.*" His hand found the folded paper again. "Everybody knows."
 
-She had stood seven days on the Lower Canal and heard every song the lower town had, the good and the bad and the one about her. She knew where those three words were. They were in the cohort's mouth, on the slip at Cyrene and round the fires; they had been in a ship's hold on the way to the elves' wood, and in the pace the men kept off the healer, last autumn.
+She had stood seven days on the Lower Canal and heard every song the lower town had, the good and the bad and the one about her. She knew where those three words lived. They were the cohort's: said low on the *Forward*'s deck on the way west, and under the breath of the whole Fourteenth ever since, and never louder. She had said them herself, once, in the elves' wood, with her palm on a man's back.
 
-She put the thought where she put such things, in the column with no heading, and picked up her knife again.
+Nobody had ever sung them.
+
+She put that where she put such things, in the column with no heading, and picked up her knife.
 
 "I couldn't say, my lord. I don't sing."
 
 "No." The Marshal almost smiled. "No, you don't."
 
-He took his hand off the paper, then, and picked it up, and put it inside his shirt, folded as it was, against his chest. She watched it go. Then he leaned forward with his forearms on the table among the plums, as he had at Midwinter among the beef.
+He picked the paper up then and put it inside his shirt, folded as it was, against his chest. She watched it go. Then he leaned forward with his forearms on the table among the plums.
 
 "I want you off the Lower Canal," he said.
 
 "My lord."
 
-"I don't want the prince's captain under the Abbess's windows with a lancea and a song about her. It looks like something. It looks like the crown standing at a holy house's door, and the crown isn't, and I'll not have the city thinking it is. Next it'll be a crowd at the great door at night, with torches, and the prince's captain in the middle of it, whether she likes it or no." He tapped the table with one thick finger. "The guard on the palace wall wants relieving. The Ninth's men who keep it nights are going home to Vessa at the new moon for the hay. Your company can have it."
+"I don't want the prince's captain under the Abbess's windows with a lancea and a song. It looks like something. It looks like the crown at a holy house's door, and the crown isn't, and I'll not have the city thinking it is. Next it'll be a crowd at the great door at night, with torches, and the prince's captain in the middle of it whether she likes it or no." He set the flat of his hand on the table. "The guard on the palace wall wants relieving. The Ninth's men who keep it nights are going home to Vessa at the new moon, for the hay. Your company can have it."
 
 "The palace wall, my lord."
 
@@ -2098,29 +2134,29 @@ He took his hand off the paper, then, and picked it up, and put it inside his sh
 
 "I'll want it written, my lord."
 
-The Marshal looked at her. Then he laughed, short, through his nose; the first time she had ever heard him do it.
+The Marshal considered her. Then he laughed, short, through his nose. She had never heard him do it.
 
 "You'll want it written," he said. "You'll want it in a report."
 
 "I write everything, my lord."
 
-"So you do. So you always did." He reached behind him to a shelf in the window for a sheet of his own paper, and a pen, and an inkhorn, and wrote it himself, there at the table among the plums and the ham, in a big square soldier's hand: four lines. He did not sand it. He folded it once, roughly, and dripped red wax on the fold from the candle a servant brought, and took the ring off his finger and pressed the bull's head down into the wax, hard; and gave it her across the table.
+"So you do. So you always did." He reached behind him to a shelf in the window for a sheet of his own paper, a pen and an inkhorn, and wrote it himself there at the table, in a big square soldier's hand: four lines. He did not sand it. He folded it once, roughly. A servant brought a candle, and the Marshal warmed a stick of red wax at it and dripped it on the fold. Then he took the ring off his finger and pressed the bull's head down into the wax, hard, and gave it her across the table.
 
 She put it in the neck of her mail, beside the king's slip.
 
-Then she picked up the cup of wine from his own vines on Vessa, that she had held level and put down full at Midwinter, and drank it.
+Then she picked up the wine, which she had held level and set down full at Midwinter, and drank it.
 
 The Marshal watched her do it. She set the cup down empty.
 
-"It's good wine, my lord," she said.
+"It's good wine, my lord."
 
-"It's the south face," said the Marshal. "Above the camp." He looked away out of the window at the wall. "Go on, Captain. Go and tell your men they've got the hill."
+"It's the south face," said the Marshal. "Above the camp." He turned his face back to the window and the wall. "Go on, Captain. Go and tell your men they've got the hill."
 
 ---
 
-She wrote the report that night in the loft over the horse-barracks, by a lamp, with the heat still lying in the roof-beams overhead.
+She wrote the report that night at the open hay-door of the loft, while the long midsummer evening went out of the sky. Up the hill, under the palace wall, one window was lit, and she thought it was his.
 
-She wrote it as she had written every report since the first summer of the war: plain, on one side of one sheet, in her square hand, with nothing on it that she would not have stood behind at the council table while Titus, the Crown Prince, read it aloud and asked which word was untrue. She had been writing it in her head since the day of the king's slip, on the walk, at the gate, on the bench in the long white room with her hands on her knees; she knew what went in, and what did not, and in what order. The folded paper did not go in. She had read four words of it upside down, and she did not report what she had not read. When she had done, she read it through once, for the dead places and the ways out, and found none. Then she sanded it, and folded it, and sealed it with her plain leaf-shaped spear-head in the wax, and laid it by the lamp to wait for the *Patience*.
+It went on one side of one sheet, plain, with nothing on it she would not have stood behind at the council table while Titus, the Crown Prince, read it aloud and asked which word was untrue. The folded paper did not go in. She had read a few words of it upside down, and she could not have stood behind them. When she had done she read it through once, for the dead places and the ways out. There were none.
 
 *To the Prefect of Cyrene, at Cyrene. From the captain of the Lanciarii, at the capital.*
 

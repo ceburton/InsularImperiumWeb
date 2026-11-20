@@ -6,8 +6,8 @@
       "title": "Chapter One: The Hours After",
       "duration": 2928,
       "bytes": 23510693,
-      "sha256": "f4c9ae4c0b8a9e3135017e8dbfb160e77b1ece5328dc72372b79ffbf3e4e34f9",
-      "url": "https://audio.insularimperium.com/book3/v/f4c9ae4c/ch01-the-hours-after.mp3",
+      "sha256": "d5219c5b892feb17c0082a88dcacea074cec246f30d46c433a5d45456d8f8877",
+      "url": "https://audio.insularimperium.com/book3/v/d5219c5b/ch01-the-hours-after.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -34,13 +34,29 @@
       "title": "Chapter Two: Sister Domitia",
       "duration": 3673,
       "bytes": 29472292,
-      "sha256": "fbbb0c2207d6abbbfbf969b2ade7ce8b0be1a068c58de5c21bd2251fa318f78d",
-      "url": "https://audio.insularimperium.com/book3/v/fbbb0c22/ch02-sister-domitia.mp3",
+      "sha256": "987145bc56d87c6a0ba43ee6ee73c0faa68456acad8abd6f3e37941682812f03",
+      "url": "https://audio.insularimperium.com/book3/v/987145bc/ch02-sister-domitia.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
           6.1,
           "Gaius"
+        ]
+      ]
+    },
+    {
+      "track": 3,
+      "slug": "ch03-a-vow-is-a-house",
+      "title": "Chapter Three: A Vow Is a House",
+      "duration": 3458,
+      "bytes": 27756008,
+      "sha256": "ee085bca161a66497d17ed75dd9fa01bcb465e0e2389aa83899a21b2775cce07",
+      "url": "https://audio.insularimperium.com/book3/v/ee085bca/ch03-a-vow-is-a-house.mp3",
+      "firstPublished": "2026-11-20",
+      "pov": [
+        [
+          6.2,
+          "Valeria"
         ]
       ]
     }

@@ -50,4 +50,5 @@
 .reader-dim-exit { font-size: .85rem; }
 @media (max-width: 380px) { .reader-toolbar { gap: .5rem; } .reader-toolbar-actions button span { display: none; } }
 .reader-toolbar-links { display: flex; align-items: center; gap: 1rem; white-space: nowrap; }
-@media (max-width: 600px) { .reader-other-book { display: none; } }
+/* The links to the other two books need the room the title would wrap into; below this width they are in the menu only. */
+@media (max-width: 940px) { .reader-other-book { display: none; } }

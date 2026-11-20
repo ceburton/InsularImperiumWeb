@@ -92,7 +92,7 @@ There are three books, each with its own reader, audiobook page and podcast feed
 | MP3s in the generator | `C:\insular-imperium-audio\audiobook` | `C:\insular-imperium-audio\audiobook-book2` | `C:\insular-imperium-audio\audiobook-book3` |
 | MP3s on Bunny | `v/<hash>/<chapter>.mp3` | `book2/v/<hash>/<chapter>.mp3` | `book3/v/<hash>/<chapter>.mp3` |
 
-Each book saves its own reading and listening place in browser storage. A book opens in the reader look chosen for the nearest earlier book (Book Three from Book Two, then Book One) until it has a place of its own; the listening voice and speed are shared. The reader's toolbar and menu, and each audiobook page, link to the other two books.
+Each book saves its own reading and listening place in browser storage. A book opens in the reader look chosen for the nearest earlier book (Book Three from Book Two, then Book One) until it has a place of its own; the listening voice and speed are shared. The reader's menu, its toolbar on screens wider than 940px, and each audiobook page link to the other two books.
 
 After editing chapters in any book, run `npm run audio:release` in `web` (`-- --book 3` for one book). It rebuilds the reading copies from the story-bible chapters (`npm run story:sync`), lists the chapters whose narration changed, asks, renders them through the generator's `wsl\render.ps1`, uploads the changed MP3s to Bunny (`npm run audio:publish`) and rewrites the chapter lists. Then commit the files it names and push to deploy. `npm run audio:prune -- --dry-run` lists old MP3 versions it would delete from Bunny for every book.
 

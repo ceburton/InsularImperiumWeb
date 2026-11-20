@@ -6,8 +6,8 @@
       "title": "Chapter One: The Hours After",
       "duration": 2928,
       "bytes": 23510693,
-      "sha256": "78d12a46ef479db2b9fecc749c232387c7c21c797bc444b7be8e752b6f858a35",
-      "url": "https://audio.insularimperium.com/book3/v/78d12a46/ch01-the-hours-after.mp3",
+      "sha256": "f4c9ae4c0b8a9e3135017e8dbfb160e77b1ece5328dc72372b79ffbf3e4e34f9",
+      "url": "https://audio.insularimperium.com/book3/v/f4c9ae4c/ch01-the-hours-after.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -25,6 +25,22 @@
         [
           2177.1,
           "Marcus"
+        ]
+      ]
+    },
+    {
+      "track": 2,
+      "slug": "ch02-sister-domitia",
+      "title": "Chapter Two: Sister Domitia",
+      "duration": 3673,
+      "bytes": 29472292,
+      "sha256": "fbbb0c2207d6abbbfbf969b2ade7ce8b0be1a068c58de5c21bd2251fa318f78d",
+      "url": "https://audio.insularimperium.com/book3/v/fbbb0c22/ch02-sister-domitia.mp3",
+      "firstPublished": "2026-11-20",
+      "pov": [
+        [
+          6.1,
+          "Gaius"
         ]
       ]
     }

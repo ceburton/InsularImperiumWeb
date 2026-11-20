@@ -8,6 +8,7 @@
 2. [Chapter Two: Sister Domitia](#chapter-two-sister-domitia)
 3. [Chapter Three: A Vow Is a House](#chapter-three-a-vow-is-a-house)
 4. [Chapter Four: The Third Volume](#chapter-four-the-third-volume)
+5. [Chapter Five: The King Laughs](#chapter-five-the-king-laughs)
 
 ---
 
@@ -2213,7 +2214,7 @@ He looked at Gaius, and at the roll, and got up.
 
 "You're late," said Rufo.
 
-They were all along the slip behind him, in the half-dark. Gaius saw Ear, with his crumpled ear and his new scar on his shin and his shield on his back; and Sennius, behind Ear, very straight, with his hands empty. He saw Rusticus and Salvius, who had been caulking the old liburna for a week and arguing about it the whole time, not arguing. He saw Fingers sitting on an upturned bucket with a leather roll of his own on his knees, and the cousins Naevius and Lollius, who never spoke, standing side by side as they always stood; and Vatinius, and Plancus, and Lurco, and Scaeva with his shield on the wrong arm; and behind them sawyers from the slip-yard, and two of the carpenters who had built her house, and men of the cutting at Silverwood whose names he did not know, every one of whom he had seen at one time or another on a pallet at the Baths with her hands on him. Every one of them had a shield in sailcloth.
+They were all along the slip behind him, in the half-dark. Gaius saw Ear, with his crumpled ear and his new scar on his shin and his shield on his back; and Sennius, behind Ear, very straight, with his hands empty. He saw Rusticus and Salvius, who had been caulking the old liburna for a week and arguing about it the whole time, not arguing. He saw Fingers sitting on an upturned bucket with a leather roll of his own on his knees, and the cousins Naevius and Lollius, who never spoke, standing side by side as they always stood; and Vatinius, and Plancus, and Strabo, and Scaeva with his shield on the wrong arm; and behind them sawyers from the slip-yard, and two of the carpenters who had built her house, and men of the cutting at Silverwood whose names he did not know, every one of whom he had seen at one time or another on a pallet at the Baths with her hands on him. Every one of them had a shield in sailcloth.
 
 Rufo turned the tally-stick over in his fingers. He had been notching it, Gaius saw; the new cuts were white in the hazel. He did not say the number. He put the stick away inside his shirt, and his hand went up, for a moment, to the place over his ear where the fair lock was plaited.
 
@@ -2805,3 +2806,673 @@ Liora picked up one of the heels of bread and broke it, and gave him the bigger 
 "It's waiting."
 
 "Good." She ate a mouthful of the bread, and looked out over the stern at the long pink sea and the smudge where the city was. Her hand stayed where it was. "So am I," said Liora.
+
+---
+
+# Chapter Five: The King Laughs
+
+**MARCUS**
+
+The clerk climbed the stair at the second hour with the paper held in both hands in front of him, like a dish he had been told not to spill.
+
+Marcus watched him go. He was a young clerk, with ink on the side of his middle finger and a careful walk, and the paper was three sheets sewn at the corner with a green thread: the watch-captain of the Lower Canal's report of the night before last, written fair, which was how the crown learned what its city had done. The guards on the stair door let him through without a word. He left the door a hand's width open behind him, because both his hands were full, and his feet climbed round the turn of the tower and were gone.
+
+Marcus stood at the foot of it and waited to be sent for.
+
+The Hall of Kings in high summer was the only cool place in the capital. The dome held the night in it till noon. The light came down from the ring of windows at the top in long slanted bars, full of dust going round slowly, and lay on the floor in pale ovals that moved across it through the day like a sundial nobody read; and under the dome it smelled as it always had, of stone and old incense and lamp-smoke, without the wet fur of winter. The council's long table stood empty at the foot of the stair with its benches pushed in. The king's chair stood on its step above it, with no cloth over its arms now, and its lamp unlit. Somewhere along the pillars a sweeper was working, and the sound of her broom whispered round the hall from all sides at once.
+
+Gaius sat on the end of the council's bench with his bad leg out in front of him and his hands on his knees, which was as near as Marcus had ever seen him come to sitting still. The engineer had not slept, either. His eyebrows were coming back in short and stiff and paler than the rest of him, so that he looked faintly surprised all the time, even now.
+
+"He'll not see us," said Gaius.
+
+"He'll see the paper."
+
+"Same thing, for him." Gaius looked up the stair. "What's in it?"
+
+"Everything. Twenty-odd men in a tortoise on the canal walk, a litter, a door on the porch wall, the alarm bell, sisters in their shifts." Marcus had read it over the watch-captain's shoulder at the guardhouse on the canal before light, upside down, while the man pretended not to see him do it. "He wrote down that nobody bled. He wrote it twice. The second time he underlined it."
+
+"Did he spell pintle right?"
+
+"He called it a hinge."
+
+Gaius grunted, and watched the stair.
+
+They had come up the hill at first light, the two of them, because Marcus would not have the king hear it from the watch alone; and they had been told at the stair door, by a guard who did not know where to put his eyes, that His Majesty was not receiving, and that the Prefect might wait if he wished. So he wished. He had waited at the foot of that stair a good many mornings as a boy, to be told something at the top of it, and he knew how to stand there. He had not known he still knew.
+
+He had come north at a run, and arrived too late. That had been the idea.
+
+---
+
+He had sent nobody. He had told Gaius so in the shed, with the report on the bench between them, and had meant it; and Gaius had gone at dawn with two dozen men who had not been sent either, and Marcus had stood at the slip gate and watched the *Patience* go out through the gap, and done nothing.
+
+He had done nothing for a day. It was the hardest day's work he had done since Bastion.
+
+On the morning of the second day he walked down to the long quay where *Constancy* lay. Nerva was already aboard her, and her stores already coming down the quay on the backs of the Tharsian yard-hands, though he had given no order for either.
+
+"She's a day behind," said Nerva, when Marcus stepped aboard. His eyes went aft, to the steering oar and the man at it. "If you mean to stop them, you'll not."
+
+"I don't mean to stop them."
+
+Nerva looked at him a moment longer, and nodded, as at a bearing he could live with, and began to shout at the yard-hands.
+
+Alana came down with her bag and the weather-book under her arm, and did not ask why. Felix followed with a jar of the fort's spring water on his shoulder; nobody had told him the day or the hour. And Domitia arrived last, in her white and her steel cap, with the Vigil's mail-bag on her hip and her spear in her hand and a face like a closed shutter, and stopped at the foot of the plank.
+
+"I'll go north with you, Highness," she said. "If there's room."
+
+"There's room."
+
+"I write to the Abbess every night. Last night's has waited on the quay for the *Patience*." She shifted the spear to the crook of her arm, and tapped the mail-bag twice with one finger. "It'll be quicker if I carry it myself."
+
+"It will."
+
+"I mean to tell her everything in it," said Domitia, "in person, and nothing that isn't in it." She came up the plank, and corrected the angle at which Felix was holding the water jar, and went below; and was sick, Felix reported, before they cleared the moles, and sick the whole way north, in a bucket she had chosen herself and would let nobody else empty.
+
+*Constancy* ran north fast. She was the best hull Gaius had ever built, and Nerva drove her, and she ran with the summer wind on her quarter for two days and a night, glad to be asked. Marcus stood at the rail forward most of the way, and drank Felix's water, and thought about what he would say to his father. He had a great many things to say, by the end. By the last morning he had thrown most of them over the side.
+
+That morning, an hour after sunrise, the lookout in the bow sang out a sail ahead; and then, a little after, that it was a galley; and then, as she lifted over the curve of the sea, that she was the *Patience*, southbound, with all her oars out.
+
+So it was done. Marcus knew it before they were near enough to see faces. A mail galley does not come south from the capital the day after she arrives in it, at a stroke like that, unless she has something aboard she wants away.
+
+Nerva brought *Constancy* round across her bows and hove to, and the *Patience* came on and lost way and lay rolling within easy hail, near enough to see faces, with the sea slapping between them; and there on her stern was Avitus at the helm, grey and short, with his cup; and under the stern deck, Gaius, standing up; and beside Gaius, on a coil of rope, with a heel of bread in her hand and her hair down wet over her shoulders, Liora.
+
+She was thinner. He could see that across the water. She looked at *Constancy*, and at him, and he did not need to read her face.
+
+Marcus put his hands to his mouth.
+
+"Is anybody hurt?"
+
+Gaius's voice carried back flat across the water.
+
+"Nobody."
+
+"Theirs?"
+
+"Nobody."
+
+The men on the *Patience*'s benches had stopped pulling and were sitting up to see, all of them, with their oars in. He saw Rufo's head and shoulders above the rest, and Ear's crumpled ear, and Fingers, standing on a bench to see better and being told to get down by Avitus. He saw that their belts were empty. He saw a good many faces turned toward him and waiting, and understood that they were waiting to be told whether they had done right; and that he was not going to tell them.
+
+"Avitus," he called. "Bring her round."
+
+There was a silence across the water.
+
+Then Gaius said, in the same flat voice, "She's out."
+
+"I know."
+
+"If we go back—"
+
+"If you don't go back, you're deserters." He said it loudly enough for the benches. "Every man of you. Your sentences were stopped while you serve at Cyrene. Cyrene's behind me. The capital's behind you. The day you walk off a ship at Cyrene after last night, you're a cohort of convicts who broke a holy house and ran from it, and the Marshal can have you all back in irons by the next *Patience*, and he'll be right. If we go back, you're a cohort of convicts who broke a holy house and stood still to answer for it. That's a different thing."
+
+"Is it?" said Gaius.
+
+"I'm betting your necks that it is."
+
+Gaius looked at him across the water. Then he turned his head, and looked down at the woman on the coil of rope.
+
+Liora stood up. She stood with one hand on the rail and the bread still in the other, and looked across at *Constancy*, and then back along the sea behind her to the north, where the capital was a smudge with the steam over it.
+
+"I didn't run out of that house," said Liora. Her voice carried over the water as clear as a bell across a field; she had always been able to make a ward full of groaning men hear her without raising it. "I walked. I'm not going to run from the city."
+
+She sat down again, and went on with the bread.
+
+So the *Patience* turned, slowly, with her men grinning at each other on the benches. Her men had not slept, and Marcus had both ships lie to out of sight of the city through the heat of the day while they did, so that they would come in when the lower town was on its doorsteps to see it; and they came in under the Old Hill at dusk, with the harbor bell ringing the hour and the steam going up off the canals into a sky the colour of a hot coal. Domitia went ashore first, green, with the mail-bag, and away along the galley quay toward the Lower Canal without a word to anyone, at a pace that would have done for a forced march. She had not been on deck once since Cyrene. She had not, Marcus realised afterward, laid eyes on Liora at all.
+
+And Marcus walked the cohort up the canal walk to the Drowned Lantern, in the last of the light, in plain sight of the whole lower town, with their empty belts and their shields on their backs and the woman they had stolen walking in the middle of them; and the lower town came out of its doors to watch them go by, and said nothing at all, and did not go back in.
+
+---
+
+Up the stair, a long way up, somebody made a sound.
+
+It fell through the door the clerk had left open, and round the turn of the tower, and out into the Hall of Kings, small and broken by the stone it had come through. Marcus turned his head. It was a dry sound, a cough that had something wrong with it, or a man choking on a crumb; it went on too long for either, in short pieces, and stopped, and began again, higher; and then it came down the stair one last time, a single long breath of it, out of somebody old, and stopped altogether.
+
+The sweeper's broom had stopped too.
+
+The two guards on the stair door were looking at each other. One of them was a grizzled man of the old palace guard who had stood on that door, Marcus thought, since Marcus was in short tunics. His mouth had come open, and stayed.
+
+"Is he ill?" said Marcus.
+
+The grizzled guard shut his mouth. "No, Highness," he said; and then, less sure, "I don't think so, Highness."
+
+Gaius had got up off the bench. His short new eyebrows had gone up as far as they had to go, and stayed there.
+
+"What was that?" he said.
+
+"I don't know."
+
+He stood at the foot of his father's stair and tried to put a name to it, and could not. He thought of the pain in the hip that old men get, and of a man weeping who has not done it in years and has forgotten how it goes. He thought of the wind in a crack. None of them was it.
+
+The clerk came down a little after, slower than he had gone up, with his hands empty, and the face of a man who has been shown something he was never taught the word for, and stopped on the last step.
+
+"His Majesty," said the clerk, and swallowed, and started again. "His Majesty will see the parties tomorrow, at the third hour. Both parties. The Lord Marshal, the Mother Abbess, the Prefect and," he looked at his wax, "the engineer."
+
+"Tomorrow," said Marcus.
+
+"At the third hour, Highness." The clerk hesitated, and then said, low, not as part of the message: "He asked me to read him the part about the spear twice. The one that was handed back."
+
+He crossed the hall with his careful walk. The sweeper began again among the pillars. The guards looked at the wall in front of them.
+
+Marcus stood on at the foot of the stair. Then he walked out into the heat with Gaius limping beside him, and down the hill.
+
+---
+
+The Drowned Lantern had not charged them for anything since they came in at dusk, and would not.
+
+Marcus had tried, the night before, with the purse on the counter. The landlord had looked at it, and then at him, with the wet rag on his shoulder and his heavy grey face giving nothing away, and pushed it back across the wood with two fingers, as he might have pushed back a coin he suspected. "Not this week, Highness," he said, and went to draw small beer for Rufo.
+
+So the cohort ate and drank at the Lantern's charge, and slept on its floor and in its yard and the lean-to, with their shields stacked against the midden wall, and the lower town came by all day to look at them. It did not come in. It stood in the lane and at the canal window, under the sack, and stared; and then it went away, and left things on the step. A basket of eggs, the first morning, with straw in it. A string of onions. A cheese wrapped in dock leaves. A cooked fowl, still warm, under a cloth, with no name on the cloth and nobody in the lane when Fingers stepped out to see who had left it. By that afternoon there was a row of things along the Lantern's wall like the offerings along the wall of a shrine, and Plancus had stopped bringing them in and begun to sort them by what would keep.
+
+Marcus sat at the table under the canal window. It was the table he had sat at for three years, more nights than not; the wood was scarred with the same knife-marks and the same rings. He had not chosen it. His feet had brought him to it before he noticed.
+
+He had a cup of water in front of him. Felix had seen to that before the bench was warm.
+
+The window had no glass in it still. There was the sack nailed over its lower half, gone grey and stiff with the canal's steam, and above the sack the empty frame, and through it the canal going by, green and smoking, with the light coming off it in bright pieces that moved on the ceiling. He had gone through that window once, headfirst, in the snow, on the night of his brother's funeral, and come up out of the canal into the steam to see Roderic in the broken frame above him, settling his cloak. He did not remember much else of the night. He remembered the window.
+
+When the landlord passed with the jug he put a silver piece on the table, square in front of the empty frame.
+
+The landlord looked at it.
+
+"That's the window," said Marcus.
+
+"I know which window it is, Highness." The landlord considered the silver, and the frame, and almost smiled. Then he took the silver, and put it in his apron, and left the cup as it was.
+
+Upstairs, Liora was asleep.
+
+She had slept most of the day and all the night before, in the Lantern's one good room under the roof, with the door on the latch and Sennius on a stool outside it. Nobody had told him to sit there. He had been sitting there when Marcus came back from the hill, with his hands on his knees and his back against the wall, and when Marcus came up to the head of the stair he took his hands off his knees quickly, as if they had been caught somewhere they should not be, and stood.
+
+"She's sleeping, Highness."
+
+"Good."
+
+"She woke once. She asked what the time was, and if anybody was hurt." Sennius looked at the door. "I said nobody. She said she knew, she wanted to hear it again."
+
+Marcus left him there.
+
+She came down at dusk, in the house's white shift and the undyed over-gown she had walked out in, with her hair tied back in a strip of somebody's linen and her feet bare on the Lantern's boards; and the common room, which had been loud, went quiet in pieces, from the stair outward, and then got loud again a little too fast. She went round it first, every man in it, a hand on a shoulder here and a look at a knuckle there; and Ear held out his shin to show her where the scar had healed white, and she bent and looked at it gravely and told him it had healed very well, which he had known; and he was happy for an hour.
+
+Then she sat across the table from Marcus, under the window, with her back to the canal.
+
+The landlord brought her a bowl of the Lantern's mutton and barley without being asked, and a round of bread, and a cup of small beer; and stood a moment with the jug, looking at her, and went away.
+
+"You saw him," said Liora.
+
+"I saw his stair. He'll see us tomorrow. Me, Gaius, the Marshal, your Abbess."
+
+"Not me."
+
+"No."
+
+"Good." She ate a spoonful of the barley, and then another, carefully, as people eat who have been eating by the bells for six weeks and have not got out of the way of it yet. "I don't want to stand in a room and be talked about. I've done that."
+
+He did not ask her about it.
+
+"They'll be punished," she said. "Won't they. For me."
+
+"They might."
+
+"They knew they might." She put the spoon down. "Ear told me, on the ship. He told me the way he'd tell me the weather. He said they'd talked it over in the lean-to before the bar came down, and decided they didn't mind." The corner of her mouth went in. "He's nineteen."
+
+"So was I, once."
+
+"You were never nineteen like that," said Liora, and picked up the spoon again.
+
+He laughed. He had not laughed since before the shed.
+
+She ate the rest of the bowl, and the bread, and drank the beer, and wiped the bowl with the last of the bread as the cohort did; and then sat with her hands round the empty cup and looked past him at the room, at Rufo with his tally-stick across his knees, at Fingers losing at dice to the cousins, at Gaius at the far end of the long table with the fourth volume of Anaxis open in front of him and a candle at his elbow and his chin on his fist.
+
+"He hasn't read a word of it," she said.
+
+"No."
+
+"He opened it on the ship. He turned the pages one after another to the end and shut it again." She turned the cup in her hands. "He's afraid it's better than the third."
+
+"Is it?"
+
+"I don't know. I never read either." She set the cup down. "My father kept them in a press in the long room, with the key on his ring, and I wasn't allowed to touch them. I used to look at the backs." She stood up. "I'm going to sleep again. I may sleep for a week. Tell your father, if he asks, that I'm eating."
+
+"He won't ask."
+
+"Tell him anyway," said Liora, and climbed the stair to where Sennius was, and he stood up off his stool as she reached it.
+
+---
+
+Marcus took the stair fast. He took every stair fast now, to have it behind him.
+
+At the first turn of the tower he stopped, and waited, with one hand on the cold stone of the wall; and Gaius came up after him at his own pace, a step at a time, the good leg first and the bad one after, with his jaw shut. He did not look up. He reached the turn and passed it without stopping, and Marcus climbed behind him, at the engineer's pace, which was slow, and they came to the top together.
+
+The steward was waiting with the door. There was no lamp in his hand; it was high summer, and the third hour, and the tower's slit windows let in enough light to see the dust on the steps. He looked them both over, and said, "Highness. Engineer," and opened the door.
+
+The room was full.
+
+It was a small room for five people and a clerk. The king sat at his writing table with his back to the window and the summer light behind him, so that Marcus had to look into it to see his face, and the face was only a long grey shape with the light round its edges. The window was open. The smell of the harbor came up through it, warm weed and tar and the hot-egg breath of the canals; and on the sill, within reach of the king's chair, lay the length of carved stern-rail with the crowned dolphin cut in it, where it had lain at Midwinter. The young clerk sat on a stool at the end of the table with a board on his knees and his wax, and the watch-captain's report under his hand.
+
+The Lord Marshal stood at the right of the table. He was in his ribbons, all of them, and he had the look of a man who has arrived early to a room in order to have been in it first. Across from him, at the left of the table, with the light from the window on the side of her face, stood Cassandra.
+
+She was in her white, with her coif starched and her cloak over her mail, and she had taken her steel cap off and held it under her arm, as a soldier holds his helmet before a commander. Her long plain face was perfectly still. Her brows were as straight as a rule. Her eyes went to Marcus as he came in, and to Gaius behind him, and stayed on Gaius a moment longer; and went back to the king, and did not move.
+
+"Prefect," said the king. "Engineer."
+
+"Majesty."
+
+"Sit down."
+
+There were no chairs but his. Nobody sat.
+
+The king turned his head to the clerk. "The count," he said.
+
+The clerk looked up, startled, with his stylus over the wax.
+
+"Not you." The king turned back. "Engineer. How many men went into the Vigil's house on the night of the new moon?"
+
+Gaius stood with his weight on the good leg. "Two dozen, Majesty," he said. "And me."
+
+"Armed how?"
+
+"Shields."
+
+"Swords?"
+
+"On the bollards at Cyrene. They hung them up at the head of the slip before we sailed." Gaius thought, and was honest. "And a bread-knife."
+
+The king's long shape against the window did not move.
+
+"Mother Abbess. How many of your sisters bled?"
+
+"None, Majesty." Cassandra's voice was level, and carried, as it would carry down a line of shields. "A wrist jarred. A cap lost."
+
+"How many of them did he take out of your house?"
+
+"One. Who was not a sister."
+
+"How many locks broken?"
+
+"None."
+
+"Doors?"
+
+"One," said Gaius, before she could. "The right-hand leaf of the great door, Majesty. Lifted off its pintles. It's leaning against the porch wall. I offered to put it back."
+
+"Then put it back," said the king.
+
+Gaius looked at Cassandra.
+
+She looked at the king, and not at him. "He took it down, Majesty. He may put it up. Sister Agrippina will hold the lamp."
+
+"That's settled, then." The king laid one hand flat on the writing table, square to its edge. "Two dozen men and an engineer. Shields. A bread-knife. No sister bled, no lock broken, one door, and the door will be on its pintles by noon. Is that the count, Marshal?"
+
+"That is the count, Majesty." Varro had not moved. "I would add to it that they were convicts."
+
+"So they were."
+
+"Under sentence. Whose sentences were suspended by Your Majesty's own writ while they served at Cyrene, and at no other place." Varro's voice was a good deal deeper than the king's, and had a parade-ground's distances in it; it was a voice for telling the back rank something. "Your Majesty's capital is not at Cyrene. By the writ, they are what they were before it. And they have broken a holy house by night, in Your Majesty's capital, under the Old Hill, half a mile from where Your Majesty sits."
+
+"A little more than half a mile."
+
+"Majesty."
+
+"I've walked it." The king turned his head. "Prefect."
+
+Marcus had decided on the way up the stair what he would say, and he said it.
+
+"They're mine, Majesty. They went because they thought I couldn't send them, and they were right, and I let them go. I turned them back at sea and brought them here to answer for it. Whatever the sentence is, it's mine."
+
+"No," said the king. "It's theirs. Their sentences were theirs before you ever saw them. You can't have them now because you've grown fond of them." He was silent a moment. "The Marshal is right. By my writ they are convicts again, and they broke a holy house in my city by night, and every man of them could be sent to the quarries before the week was out, or worse; and I have no doubt the Marshal has the paper for it."
+
+Varro said nothing.
+
+"I pardon them," said the king.
+
+Nobody spoke. The clerk's stylus had stopped over the wax. Down in the harbor, through the open window, a gull was screaming at something, on and on.
+
+"Every man of them," said the king. "Of the sentences they came to Cyrene under, and of the night of the new moon. The engineer too." He looked at the clerk. "Write it."
+
+The clerk wrote it.
+
+Varro pressed the bull's head of his seal ring into the heel of his hand, and took it away, and the small white bull filled slowly red. Marcus watched him do it. He was too old a soldier to stand in a gap he had already lost.
+
+"Then I ask one thing, Majesty," said Varro.
+
+"Ask it."
+
+"That their names be entered. Every man of them, by name, in the crown's book, as convicts pardoned for breaking the Vigil's house. So that it is known, in the city and after, who they are, and what they did, and that the crown pardoned it; and that the next man who thinks of lifting a door in this city knows his name will be written down too."
+
+"Enter them," said the king. "Every one."
+
+The clerk wrote that as well. Marcus saw that his hand was not quite steady.
+
+"And that the pardon be cried," said Varro. "Publicly. By the city's crier, at the door of the house they broke, at noon today, before the order and before the city. So that the order has its satisfaction, Majesty, for it is owed one; and so that the city knows the crown does not count breaking houses a small thing, whatever it pardons."
+
+The king was silent for a moment.
+
+"Cry it," he said. "At noon. At the door the engineer will have hung by then." He turned his long grey shape a little toward Varro. "And cry the names, Marshal. Every one. As you say. So that it's known."
+
+"Majesty."
+
+There was something in Varro's face Marcus had not seen there before, at court or at the funeral or across the Lesser Hall at Midwinter. It was there and gone.
+
+"Mother Abbess," said the king.
+
+"Majesty."
+
+"You have something to ask."
+
+"The healer, Majesty." Cassandra did not shift her cap under her arm or move her eyes. "She was in the order's keeping, in the order's house, under the order's rule. She was taken out of it by night. I ask where she is."
+
+"Is she here?"
+
+"No, Majesty."
+
+"Has she asked the crown for anything?"
+
+The king did not turn to Marcus. Marcus answered anyway.
+
+"Nothing, Majesty. She's asked if anybody was hurt, and when to eat."
+
+"The crown has no business inside a holy house," said the king, to Cassandra. "The Marshal has told me so, often, and he is right. I'll not send my guard into your house, Mother Abbess, and I'll not send my guard to carry anybody back into it." He put the other hand on the table, beside the first. "If she is yours, rule her. If she is not, she may go where she likes."
+
+Cassandra's teeth clicked, once.
+
+"The order rules its own, Majesty," she said.
+
+She made the king a soldier's bow, short, from the neck, with the cap under her arm, and turned, and walked out past Gaius without looking at him; and Marcus heard her go down the stair, quick and even, a long way down, until the tower had her.
+
+"Marshal," said the king. "Engineer. Leave us."
+
+He lifted two fingers off the table.
+
+---
+
+When the door was shut the king did not say anything for a time.
+
+He sat with his back to the window. The light lay along the floor between them, and on the writing table, on the candle and the plain paper squared to the edge. Marcus stood in front of it as he had stood as a boy, to be told something, and waited to be told it.
+
+The king put his hand inside his shirt, and took out the key on its chain, and leaned forward and unlocked the right-hand drawer, the deep one, and opened it.
+
+He took out a paper and laid it on the table, face up, turned so that Marcus could read it.
+
+Marcus had never seen it. He had known for two years that it was there, from Valeria and from Varro's letters and from the whole court's knowing; he had known what it said. He had not known it would be so beautiful. It was a single sheet of the palace's best, written from edge to edge in a hand like a run of music, every letter leaning the same way, every line the same distance from the last; the most beautiful hand in the palace, which everybody knew was Damien's. *By the King. The Prince Marcus, Prefect of Cyrene, is recalled.* It went on from there. It had a space at the foot for a name, and no name in it.
+
+"The Marshal came up after Bastion," said the king. "He stood where you are, and asked me to sign it."
+
+Marcus looked at the paper.
+
+"He says you failed," said the king.
+
+"I did."
+
+"He says you lost a gate."
+
+"I didn't buy it."
+
+The king looked at him. Marcus could see his face now, with the light come round a little; long and grey and lined, the hair white at the back, the eyes deep and tired, and steady. He studied his son as he studied a column of figures, to be sure of it.
+
+Then he took the recall, and pulled the drawer wide to lay it back, and tipped it to the light; and Marcus, at the table's corner, saw what lay at the bottom before it went down. A smaller sheet, plain paper, with two words on it in a hand he knew from the scrap of a letter that had come to Cyrene round a stone, cramped and slow, every downstroke pressed hard: *Leave granted.* The recall went down on top of it, in its beautiful hand, and covered it.
+
+"It stays where it is," said the king.
+
+He shut the drawer and turned the key, and put the key back inside his shirt.
+
+"You turned them round at sea," he said.
+
+"Yes."
+
+"They'd have been at Cyrene by now."
+
+"Yes."
+
+"Where I'd have had to send for them." The king put his hands flat on the table again. "The whole council would have watched me send for them. It would have taken a month, and the songs would have had a month." He was silent. "You brought them up my hill yourself, to be judged. Before I asked."
+
+"They're mine," said Marcus.
+
+"So you said." His father looked at him a moment longer. "Have you eaten?"
+
+"Yes."
+
+"Eat again," said the king. "You're thinner than I am."
+
+Marcus went down the stair slowly, a step at a time; and at the foot of it, where the council's table stood, Gaius was sitting on the end of the bench with his leg out, waiting for him, and got up.
+
+---
+
+The door went back on a little before noon.
+
+Gaius did it with the cousins on the screw's bar and the jack set under the leaf's bottom strap, as it had been set on the night of the new moon, the other way about; and Marcus stood on the cobbles of the lane with his back to the warehouse wall and watched him do it, because there was nothing else on earth he would rather have watched. The leaf had stood all that time where the front rank had leaned it, against the porch wall beside the horn lamp, with the stone sun over it and the great iron bar fallen across the threshold behind it, inside, where nobody in the house had chosen to move it. The house had used its poor gate since. Its great door had stood open to the lane, with a sister on it.
+
+The sister on it now was Agrippina.
+
+She was big and raw-boned and dressed today, in her white, with a coif starched to creaking; and she held the horn lamp. She had taken it off its bracket and lit it, at noon, in high summer, with the sun straight down into the lane and the cobbles too hot to stand on barefoot, and she stood holding it up at the hinge end of the doorway, at arm's length, with the flame invisible in the daylight and her face like a magistrate's. She did not speak to Gaius. Gaius did not speak to her. He knelt on the porch slabs with the jack and his rule and a pot of tallow, and every time he wanted to see the pintles better he leaned toward the lamp, slightly, and she moved it, slightly, so that it was where he wanted it; and he said "Thank you, Sister," and she said nothing at all.
+
+The cousins turned the screw. The leaf rose, and swung over, and settled onto its three pintles one after another, sweetly, and the jack came out from under it, and the leaf hung.
+
+Gaius stood up, with his hand on the porch pillar for the knee, and swung it.
+
+It swung. It turned on its pintles from the wall to the closed position without a sound, and met the left-hand leaf true; and he swung it open again, and stood with his hand flat on the oak.
+
+Then he took something out of his pouch. Marcus had to step forward to see what it was: three small round caps of bronze, each with a lip, each no bigger than an acorn cup, still bright from the file. He must have had the smith on the Canal Steps make them before he ever climbed the hill. He held them out to Agrippina on his open palm.
+
+She looked at them, over the lamp.
+
+"Pintle-caps," said Gaius. "Set one over the top of each pintle, when the leaf's hung, and peen the lip over, and nobody lifts that door off from outside again. Not with a jack. Not with anything."
+
+Agrippina regarded him over the lamp. Then she put the lamp in his other hand, without asking, and took the caps off his palm one by one, and stood on her toes, and set them herself over the three pintles of the right-hand leaf; and held out her hand for his hammer.
+
+He gave it to her. She peened the lips over with three blows each, hard, not looking at him, like a woman nailing something shut that has been open too long. Then she gave the hammer back, and took the lamp, and blew it out, and shut herself inside.
+
+Gaius stood on the porch with the hammer.
+
+"It's a good door," he said, to nobody.
+
+By then the lane was full.
+
+It had been filling since before the door went up. It filled from both ends: down the canal walk from the bend, and up from the harbor end of the lane, and out of the backs of the warehouses where men had been loading. The dye-house women came with their blue arms folded. The fishwives climbed from the galley quay with the morning's last baskets on their hips, on their way somewhere else, stopping. The canal's poor came, from the champions' sand and the poor gate round the corner, in the rags they had been healed in. Children came, and climbed onto the warehouse walls. By the time the crier pushed down the lane from the bend with his bell and his staff and the palace's blue sash across his chest, and the Marshal's clerk behind him with a roll, there was no room to stand in the lane, and the crier had to be passed forward over a cart.
+
+Marcus had sent for the cohort. They stood in the street before the porch, in a block, with their backs to the door Gaius had just hung, because there was nowhere else to put them; and the city stood round them on three sides and on the walls, and looked at them, and was very quiet.
+
+The crier rang his bell. He was a little man with a great voice, which was the trade.
+
+"*Hear the King!*" he cried. "*Aurelian, by the grace of the Sunstone King of Aeridor and the Isles, to his city: whereas certain men, being convicts under sentence and in the service of the crown at Cyrene, did by night enter the house of the Vigil by the Lower Canal, and did take out of it one Liora, a healer, and did draw no blood—*"
+
+He stopped there, because he had to. The lane had made a sound. It was not a cheer yet. It went along the walls and the walk and back like wind going over standing barley.
+
+"*—the King of his grace pardons them,*" the crier carried on, louder, "*every man, of their sentences and of that night; and wills that their names be entered in the crown's book, and cried at this door, that it be known who they are!*"
+
+He held out his hand behind him without looking, and the Marshal's clerk put the roll in it.
+
+"*Rufo,*" cried the crier, "*called the Berserker, optio, of the penal cohort!*"
+
+The lane roared.
+
+It came off the walls and the walk and the cart and the warehouse roofs all at once, a great flat crash of sound, and rose between the houses and broke back off the Vigil's white wall; and Rufo, who had been standing at the front of the block with his tally-stick in his fist, flinched as Marcus had not seen him flinch at Bastion. His hand went up to the plait above his ear, and stayed there.
+
+"*Lucius, called Ear!*"
+
+The roar again. Somebody on the warehouse wall shouted, "*Which ear?*" and a woman screamed with laughter, and Ear held up his left one, and that got the biggest roar yet.
+
+"*Sennius of Lessa,*" cried the crier, and stopped, and looked at the roll, and read it again because it was written there: "*prisoner of war!*"
+
+It was a Tharsian name in a capital that had buried its sons for five years. The lane did not know, for a moment, what to do with it. Marcus felt the silence come down, and heard a man say *Tharsian* somewhere among the fishwives, in the old voice; and Sennius, in the second rank, stood straight with his hands at his sides, and his face went the colour of the Vigil's wall.
+
+"He held the healer's basin," shouted a woman up at the poor gate. "At the Baths. In chains. It's in the song."
+
+It was not in the song. Marcus knew the song, all its wrong verses. But the woman at the poor gate had the voice to carry it, and a hand that Liora had mended, from the way she held it up; and the lane took her word over the song's, and roared for Sennius of Lessa as it had roared for Rufo, and louder. Sennius stood in the noise as he would have stood in rain, with his face working, and did not know where to put his hands.
+
+So it went on. *Spurius Lento*, cried the crier, and nobody knew who that was until Fingers took his hat off, and a dye-house woman with blue arms to the elbow screamed "*SPURIUS!*" in a voice like a gull's, and Fingers put his hat back on and said something to her across the lane that Marcus could not hear and the women round her could, and they shrieked. *Rusticus and Salvius, brothers.* *Naevius and Lollius*, who stood side by side and said nothing, as ever, and were cheered for it. *Vatinius*, who shut his eyes. *Plancus. Strabo. Scaeva.* The sawyers of the slip-yard, by name, who were not convicts at all and had been written down with the rest because the Marshal's clerk had not known the difference, and were cheered as convicts and loved it. The men of the Silverwood cutting, one after another.
+
+"*Gaius,*" cried the crier, last, "*engineer!*"
+
+Gaius was still on the porch, with the hammer. The lane turned and saw him there, in front of the door he had taken off and put back, and the roar that went up then was different from the others: it had laughing in it. Gaius considered the hammer in his hand, and put it behind his back.
+
+The crier rolled up the roll and rang his bell, and that was the end of the king's business.
+
+It was not the end of the lane's. The lane came in.
+
+---
+
+They were carried to the Fishmarket Steps, as near as made no difference.
+
+Marcus remembered afterward only pieces of the way. The canal walk solid with people from bank to wall, and the cohort in the middle of it like a boat in a flood. A man he had never seen pressing a skin of wine on Rufo, and Rufo handing it on to the next man without drinking. The Lantern's landlord standing in his door with his rag on his shoulder, watching it go by. Somebody shouting up at the Lantern's roof, *Angel! Angel!*, until the window under the eaves opened and Liora put her head out, with her hair down, and looked at the lane full of people from wall to canal; and then the window shut, and a little after the Lantern's door opened, and she came down into it, barefoot still, and Sennius pushed out of the cohort and fell in at her back, and the lane made room.
+
+It made room all the way down the canal and round the harbor head and along the galley quay to the Steps. It went ahead of her and closed behind, so that she walked the whole way in a space the width of a cart, as she had walked once behind a barrow. Marcus walked behind her with Alana, and watched the city look at her. It did not touch her. Women held up children to see, and an old man with no teeth in his head stood on a bollard and wept, and nobody came nearer than the cart's width. She walked through it looking at faces, and when she saw one she knew from the poor gate she stopped and spoke to it; and then it was all right to come nearer, for that one, and it came.
+
+The Fishmarket Steps went up from the water one house on another's shoulders, with the fish-bell at the bottom and the evening light on the top. The Steps had been at it all afternoon, while the lane made its slow way round the harbor head behind her. Somebody had dragged the fish-boards together on the landing above Gemella's step to make a table, and somebody else had lit fires in braziers along the quay at the bottom, and there were eels splitting on the coals and mutton turning, and a smell coming off the whole hill of fat and onions and charcoal and fish that Marcus would have known with his eyes shut, from any of a thousand mornings.
+
+Felix's mother had Marcus before he had got his foot on the first step.
+
+She was small and broad, in her shawl in spite of the heat, with forearms like a cooper's, and she came down the steps through the crowd as a barge comes down a canal, by not stopping. She looked at him from his boots to his face.
+
+"You've not been eating," said Gemella.
+
+"I've been eating."
+
+"Not what I'd call eating." She put her hand on his arm, and he was sat down on her step, the bottom one, by the eel-board, before he knew he had been moved, with his back against her house-wall and a board on his knees. There was an eel on it, split and done on the coals with salt till the skin blistered, and a slab of mutton off the spit with the fat crackling at the edge, and a barley loaf torn in half, and onions roasted whole in their skins. "Eat that," said Gemella. "And then I'll see."
+
+He ate it. It was good.
+
+Felix was at his elbow with a cup, which was water; he had not seen Felix arrive, and he had not seen him fill it. Felix stood with the jug, looking out at the quay, with an expression of grave disapproval that Marcus had learned, over six years, meant Felix was happy.
+
+"Your mother," said Marcus, with his mouth full.
+
+"Strictly, Highness, it's her step."
+
+"I know whose step it is."
+
+"Then strictly you should have asked before you sat on it." Felix filled the cup again, which was not empty. "She'd have said yes. But strictly."
+
+Valeria came by at dusk.
+
+She was coming down the Steps from above, in her mail with the blue cloak over it, with two of the Lanciarii at her back and the Farrier on her shoulder; and she stopped on the step above him, and looked down at him eating Gemella's mutton on the bottom step of the Fishmarket with the city all round him, and her face, with the white scar from eye to jaw, was hard to read.
+
+"Highness."
+
+"Captain. You're going up the hill."
+
+"All night. The Marshal's order." She said it with no expression at all. Then she said, "Did you hear it? Yesterday."
+
+He did not pretend not to know what she meant. "I heard something."
+
+"The whole tower heard it. The guard at the top sent down to the guard at the bottom, after, to ask what it was, and the guard at the bottom didn't know." Valeria looked out over the quay, at the fires, at the cohort round the braziers. "I waited at the foot of that stair for your brother more nights than I could tell you. Four years, near enough. Up at a run with a dispatch, down a step at a time with the answer." She was quiet a moment. "I never heard it once."
+
+"Heard what?"
+
+Valeria looked down at him with great patience.
+
+"He laughed, Highness," she said. "Your father. It was him laughing."
+
+She carried on down the Steps with her two men behind her, toward the hill and the palace wall and the long night, and Marcus sat on Gemella's step with his board on his knees and could not eat.
+
+---
+
+Domitia was at the wall.
+
+He did not see her come. He looked up when Gemella took the board off his knees, and stood, and went up the three steps to the landing's edge; and there she was, across the landing at the foot of the second flight, standing with her back against the corner of a house where the Steps turned: in her white, with her coif and her mail, and the steel cap under her arm, and the belled spear grounded beside her. The crowd went round her as water goes round a post. Nobody on the Steps knew what she was, except that she was a Vigil sister, and three nights ago the Vigil had been the side that lost; and the fishwives gave her a little room for it, and eyed her sidelong, and she did not seem to notice.
+
+She was looking at Liora.
+
+Liora was on the landing above Gemella's step, by the fish-boards, with the canal's poor round her and some of the Steps' children, and Gemella's eldest granddaughter at her shoulder doing something to her hair. Somebody had got her a gown. It was green wool, a girl's best, with the hem too short for her by a span and the sleeves stopping at the elbow; she had let it be put on her as she would have let a dressing be put on a wound, and then looked down at herself in it and laughed. Her hair was down. The granddaughter had combed it out, and it fell heavy and honey-coloured over the green to her waist, and the light of the brazier under the landing lay in it.
+
+Marcus had never once heard Domitia called anything but plain. She was heavyset, and forty-five, and had the forearms of a woman who had lifted men out of the mud for twenty years; and her face, under the coif, had been made for telling people they were wrong. She stood against the corner of the house with her spear and looked at the woman she had been sent to Cyrene to replace, whom she had never seen until this hour; and he saw her face do a thing he had not known it could do. It went quiet. Everything in it that had been ready to correct drained out of it, and left it open, and a good deal younger.
+
+She stood so a good while. Then, slowly, she looked down at herself: at the white let out at the sides of her mail, where the seams had been opened and pieced; and lifted one finger, and tapped the pieced seam twice, as she tapped a thing before she put it right.
+
+She did not say anything. She looked up again at Liora.
+
+---
+
+The piper on the Steps was blind, or said he was, and had played for the Fishmarket since before Felix could walk. He sat on an upturned eel-tub on the landing with a boy beside him on another tub, beating a fish-box with two bones, and he had played every tune the Steps knew, twice, and was starting on the third time round.
+
+Liora crossed to him between tunes, and bent, and said something in his ear.
+
+He listened, with his blind face turned up. Then he nodded, and wet his lips, and put the pipe to them; and what it gave was not a quay tune at all. It was slow and grave and went round on itself in long steps, like people walking round a hall in their best clothes; and the whole of the Steps, who went up the hill every Midwinter for the goose-ends, knew it at once from the far end of the Lesser Hall, where they had heard it played for princes. It was the Long Measure.
+
+The landing cleared without being asked. The children were pulled back by their collars.
+
+Liora took something out of the bosom of the green gown, and stooped, and laid it on the stones of the landing, in the middle of the clear space. It was a red woollen cap, a soldier's, gone dark and stiff and out of shape, with a crease across the crown where somebody had crushed it in a fist.
+
+Marcus knew it. Every man of the cohort on the Steps knew it. He heard the knowledge go along the quay behind him in a breath, from brazier to brazier: Rufo's head coming up, and Ear's, and Fingers going still with a cup halfway to his mouth. It was Tappo's. He had jigged with it in his fist on the long quay at Cyrene one Midwinter night while this woman danced the court way round him, and he had died at Bastion bringing her to Roderic.
+
+She stood over it a moment with her hands at her sides. Then she sank.
+
+It was the deep reverence of the court, down and down until the short green skirt lay round her on the stones and her bowed head was over her knee; the one a girl is taught for queens. She made it to the cap. She rose out of it slowly, and held out her hand, palm up, to the empty air above it, where a man would have stood.
+
+And she danced the court way round it.
+
+The piper had the measure, and the boy on the fish-box had the beat under it, slow; and she went round the cap in the long walking steps of it, with her hand out to nobody and her head up, and her bare feet sure on the warm stones. Marcus had seen it danced by every lady of the court, every Midwinter of his boyhood, and by his brother; he had never seen it danced like this, on a fish-landing, to a red cap, by a woman in a borrowed gown with no shoes. She went round once with the space empty round her, and the whole of the Steps watching her from the stones and the windows and the roofs, and nobody breathing; and he saw, before she came round to face him, that her face was wet.
+
+On the second turn her hand went out, as the court way sends it, into the air where nothing should have been.
+
+Ear was in it.
+
+He had come off the quay and up the steps and through the crowd, and across the clear space onto the landing, without anybody seeing him go; and he did not take her hand. He did not know how. He stood beside the cap with his long arms hanging, nineteen, freckled, with his crumpled ear, and began to jig.
+
+He could not jig, either. Nobody in the cohort could. He jigged all knees and elbows and boots, with no notion of the beat at all; and it was not his dance he was doing, Marcus saw. It was another man's, as near as he could remember it.
+
+Then Rufo was there.
+
+Rufo took the steps in two strides and onto the landing and began to stamp, gravely, with his tally-stick still in his fist, like a bull trying to put out a grass fire; and then Sennius, white to the lips, who had never seen the jig and did it anyway; and Rusticus and Salvius, making it a contest; and the cousins, side by side, in silence, in perfect step with one another and with nothing else; and Fingers; and Plancus, and Vatinius with his eyes shut, and Scaeva, and the sawyers, and the men of the cutting. They came up off the quay and the steps and out of the crowd one after another and then all at once, and filled the landing round her, and jigged, every man of them as badly as a man can, round her and round the red cap on the stones. The piper played the Long Measure grave and slow through the middle of it, and the boy beat the fish-box under it, and the Steps began to clap, and then to stamp, and then to roar.
+
+She stopped dancing. She stood in the middle of them with the cap at her feet and her hands over her mouth, and she was laughing, and she was crying, both, so that Marcus could not tell from the bottom step which it was, and he did not think she could.
+
+Then she went round them, every one, as she went round a ward. She took Ear by the shoulders and pulled him down to her and held him, and he held her back, carefully, with both hands flat, with his face over her shoulder gone to pieces. She held Rufo, who had to bend nearly double, and who put his arms round her and lifted her off the stones without meaning to and set her down again, gently, and said something into her hair. She held Sennius, who stood rigid for a moment, and then did not. She held the cousins together, one in each arm, and they held her, and for once neither of them looked at the other. She held Fingers, who said something that made her laugh into his collar. She went round them all, every one, the men of the cutting whose names she knew from the pallets and the sawyers whose names she did not; and every one of them held her, and none of them let go first.
+
+Marcus looked across the landing for Domitia.
+
+She was still against the corner of the house, with the spear and the cap. She had not moved. Her face was wet too, and she had done nothing about it.
+
+---
+
+Alana came to him at the bottom of the Steps, by the water, when it had got dark.
+
+He had come down there out of the noise to stand by the fish-bell, where the harbor slapped at the bottom step and the lights of the far side lay on the black water in long broken lines. The galleys were moored across from him, and beyond them, along the foot of the Old Hill, the old berths, and *Constancy* among them, with a lantern at her stern. Up on the hill the Lanciarii's lights were strung out along the palace wall. He could see the king's window from here, at the top of the tower, lit.
+
+"There you are," said Alana.
+
+She stood beside him at the edge of the step, close, with her shoulder against his arm. She smelled of woodsmoke and Gemella's onions, and faintly, as she always did, of ink. Her right hand was in the fold of her skirt, where she kept it when it was shaking and she did not want him to see. He had seen.
+
+"Rufo is teaching the Steps to jig," she said. "It's the worst thing I've ever watched. Gemella has given Ear a pie. A whole one. He doesn't know what to do with it, so he's carrying it about." She looked up at the hill. "Felix says it's your father's window."
+
+"It is."
+
+"Is he watching?"
+
+"I don't know." He watched the lit window. "Valeria says he laughed."
+
+"I heard. The whole quay's heard. There's a verse already." She was quiet. "It's wrong, of course. It has him laughing in the Hall of Kings, from the throne, at the Marshal."
+
+"That's a better story."
+
+"It's not the one that happened." Alana's lips moved, a little, over something; a figure, or a line of the verse she was getting right for the weather-book. "I'll put down the one that happened."
+
+He turned his head, and looked at her; at her dark hair coming down out of its pins, and the smudge of ink on the side of her jaw where she had pushed her hair back with a wet pen, and her eyes, in the dark, on the lit window.
+
+"Marry me," he said.
+
+She did not look away from the window. "At home, I said."
+
+"We're at the capital."
+
+"Then not yet."
+
+"You said I should keep asking."
+
+"I did." She took her right hand out of her skirt and put it in his, shaking, and let him hold it. "I like it very much. Keep doing it." Her eyes were laughing at him in the dark. "But not here, Marcus. Not with your father's window lit up over us like a lamp in a play. I'd never know which of us you'd said it to."
+
+They stood on by the fish-bell with her shaking hand in his, and the music coming down the Steps behind them, the Long Measure and the jigging under it, and the city's lights on the water.
+
+Then they climbed back to Gemella's step, where she was fed, and stayed until the piper stopped; and she went in at the door of the lodging-house at the foot of the Steps, where her old room was under the roof and her students' mothers on the second landing, and stopped on the threshold and looked back at him once in the light from the stair.
+
+He walked the cohort home to the Lantern along the galley quay, in the dark, with Liora in the middle of them asleep on her feet and Sennius holding her elbow; and nobody in the lower town was in bed.
+
+---
+
+He slept on the bench under the canal window, with his cloak rolled under his head and his men on the floor all round him, breathing.
+
+The window was over him. Through the empty frame above the sack he could see a strip of sky, and the steam going up off the canal into it, faintly lit from below by the lamp the landlord had left burning at the stair foot. The canal ran by under the window with the small sounds a canal makes at night, a slap, a trickle, a boat's fender knocking somewhere along the walk. Rufo was snoring. Somebody in the yard was talking in his sleep, arguing with his mother.
+
+He woke in the black part of the night, and did not know why.
+
+He lay still. The canal went by. Rufo snored. Up the stair, through the ceiling, he could hear nothing at all, which meant Liora was asleep and Sennius was on his stool outside her door, and awake.
+
+Then it came again, the thing that had woken him: footsteps, on the canal walk, coming down from the bend. One person, walking alone, not hurrying. They came along the walk toward the window, and the sound of them dropped in through the empty frame over his head, small and clear; and they did not go past. They stopped at the Lantern's door.
+
+The sky in the window had begun, barely, to grey.
+
+Somebody knocked at the Lantern's door: three times, patient and even, as a person knocks who has every right to be let in, and means to wait until they are.

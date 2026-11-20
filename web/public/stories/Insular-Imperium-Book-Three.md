@@ -7,6 +7,7 @@
 1. [Chapter One: The Hours After](#chapter-one-the-hours-after)
 2. [Chapter Two: Sister Domitia](#chapter-two-sister-domitia)
 3. [Chapter Three: A Vow Is a House](#chapter-three-a-vow-is-a-house)
+4. [Chapter Four: The Third Volume](#chapter-four-the-third-volume)
 
 ---
 
@@ -2115,3 +2116,692 @@ She wrote it as she had written every report since the first summer of the war: 
 *The healer asked me not to do anything.*
 
 *From the night of the new moon I am on duty on the Old Hill, all night, with the Lanciarii, by the Lord Marshal's own order.*
+
+---
+
+# Chapter Four: The Third Volume
+
+**GAIUS**
+
+The capital rose out of the sea on the afternoon of the third day, a smudge first, then the Old Hill, then the steam.
+
+Gaius saw it from under the stern deck of the *Patience*, where he had sat most of the passage with his back against the rudder-trunk and the jack across his knees. It was in pieces, rolled in sailcloth and lashed with marline, and the roll was the length of a man and heavier than one, and he had not let anybody else carry it on or off anything since Cyrene. Twice a day he had unlashed it and laid the pieces out on the planking and gone over them: the screw, the nut, the frame in its four parts, the shoe, the bed, the two bars. He had greased the thread with tallow from the cook's tub until it shone, and wiped it, and greased it again. A screw that is going to be turned under a roof of shields in the dark wants to be turned slow and without a sound, and a thread with grit in it will sing.
+
+He lashed the roll up again and went forward, past the rowers.
+
+The *Patience* was short of oars. Avitus, her master, had said so at the head of her plank at Cyrene, to nobody in particular, with a cloth to his nose, while two dozen men of the penal cohort came down the long quay in their working clothes with their shields wrapped in sailcloth like timber; and he had said nothing else to any of them in three days. He had a cold that had lasted since the spring. He spent the passage at his helmsman's elbow with a cup of something hot, and when he had to speak to one of the new rowers he spoke to the oar. They were pulling well. Some of them had pulled oars in chains, and the *Patience*'s own free rowers had stopped laughing at them by the first noon.
+
+Gaius stood by the mast and looked at the city.
+
+He had seen it twice before, once as a young man with a bridge in his head and once from a prisoner's bench, and neither time as he saw it now: a building somebody else had put up, that he had to take down without breaking. The Old Hill, terraced with tombs. The long palace wall along its shoulder, and the dome of the Hall of Kings, and one tall window. The canals coming down from the springs under the hill to the sea, each one with a long grey breath standing on it in the heat, so that the city lay ruled in smoke from the hill to the harbor; and where the lowest of them bent toward the sea, before it came out between its stone banks, a long white wall.
+
+He could not see the door from here. The door was on the street face, round the corner, under a porch with a stone sun over it. He knew it better than any door in the world, and he had never seen it.
+
+"That's her," said Plancus, at the stroke oar below him. He did not look round; he had his eyes on the man in front of him, as a stroke oar should. He was a thick, slow, brown man who had poled barges on the Lower Canal for twenty years before he poled the wrong one, and he could smell the tide turn from a cellar. "The white one. Where she bends." He pulled. "Flood's making. High water about the dusk bell, and then it ebbs all night. You'll have the last of it before light." He pulled again. "Good night for it."
+
+"How do you know it's tonight?"
+
+"No moon," said Plancus. He pulled. "And it'll rain."
+
+Gaius put his head back. It was a hard, hot, white sky, with the sun in it like a coin in milk, and it had not rained in a month.
+
+"It'll rain," said Plancus.
+
+---
+
+It had begun four days before, at Cyrene, on the forty-third day after the fleet came home, with Marcus coming down the yard in the evening with a sheet of paper in his hand.
+
+Gaius had been on the staging of the second hull, fairing a frame. He had seen the *Patience* come in on the morning flood, and had not gone to see if there was anything for him, because for a fortnight there had not been. He had seen the Prefect go down to the quay himself, later, and come back up it slowly, reading.
+
+At dusk Marcus went into the shed, past the steam-box, to the bench at the far end where Gaius's lamp was; and Gaius finished the frame, because a frame half faired is worse than one not started, and came down the ladder, bad leg first, and went in after him.
+
+Marcus had lit the lamp. He was standing by the bench with the paper in his hand and his eyes on the drawing pinned over it: a jack, and in the corner of the board, small, a door.
+
+"Valeria," said Marcus, and held out the paper.
+
+It was one sheet, written on one side, in a hand like a row of fence-posts. Gaius read it standing, by the lamp. He read it twice. The second time he read it slower, and at the end he went back to one line in the middle and read that a third time, and then he put the sheet down on the bench, flat, and laid his rule across it so it would not curl.
+
+*She is thinner. She eats at the bells.*
+
+"The Marshal knows things about the healer that aren't in the songs," said Marcus. That's the line I keep reading." He had his hands behind his back. "That, and the last one."
+
+Gaius looked at the last one.
+
+*From the night of the new moon I am on duty on the Old Hill, all night, with the Lanciarii, by the Lord Marshal's own order.*
+
+"When's the new moon?" he said.
+
+"Plancus says four days. The Navarch says four days and a half." Marcus did not look away from the drawing. "Avitus sails on the morning ebb."
+
+"I know."
+
+"I can't send anyone."
+
+"I didn't ask to be sent."
+
+"No." Marcus was quiet. The lamp burned. Out in the yard somebody was singing, badly, on the sea-wall, and stopped. "I'm the heir," said Marcus, like a man reading it off a list. "The heir doesn't storm a holy house. Not this one. Not with the city watching it every afternoon, and the Marshal watching me." He turned his head and looked at Gaius for the first time. The old scar along his jaw had gone tight. "If I sent a single man of this cohort up that canal, it would be the crown at the Vigil's door, and they would have her for the rest of her life, and they would be right to."
+
+"I know."
+
+"So I'm not sending anyone."
+
+"No."
+
+Marcus looked back at the drawing.
+
+"Avitus was in this afternoon," he said. "He's got a cold."
+
+"He's had it since spring."
+
+"He says he's short of oars." Marcus unclasped his hands from behind his back and put one of them flat on the bench, beside Valeria's report, beside the rule; and took it away again. "I told him I'd see what the yard could spare. Rowers. For the passage." He went to the shed door, and stopped there, in the doorway, with the dark yard behind him and the harbor black past the slip. "Send me word," he said. "Whatever it is. When it's done."
+
+"There'll be nothing to send."
+
+"Then send me that." And he went.
+
+Gaius stood by the bench. Then he took the drawing of the jack off the board, and rolled it, and put it under his arm; and went out to the forge at the end of the sea-wall, where the smith the *Patience* had brought down to Cyrene kept his fire in, and woke him.
+
+---
+
+He did not ask anybody.
+
+He had meant to. He had lain awake on the shavings by the keel, with the bronze for the nut cooling in the smith's trough, and tried to put the words in an order that was not an order, and could not. He would rather go up the Lower Canal alone than with a man he had asked.
+
+When he came down the yard in the grey before dawn with the roll on his shoulder, Rufo was sitting on the bollard at the head of the slip with his shield across his knees, wrapped in sailcloth, and his hazel tally-stick in his hand.
+
+He looked at Gaius, and at the roll, and got up.
+
+"You're late," said Rufo.
+
+They were all along the slip behind him, in the half-dark. Gaius saw Ear, with his crumpled ear and his new scar on his shin and his shield on his back; and Sennius, behind Ear, very straight, with his hands empty. He saw Rusticus and Salvius, who had been caulking the old liburna for a week and arguing about it the whole time, not arguing. He saw Fingers sitting on an upturned bucket with a leather roll of his own on his knees, and the cousins Naevius and Lollius, who never spoke, standing side by side as they always stood; and Vatinius, and Plancus, and Lurco, and Scaeva with his shield on the wrong arm; and behind them sawyers from the slip-yard, and two of the carpenters who had built her house, and men of the cutting at Silverwood whose names he did not know, every one of whom he had seen at one time or another on a pallet at the Baths with her hands on him. Every one of them had a shield in sailcloth.
+
+Rufo turned the tally-stick over in his fingers. He had been notching it, Gaius saw; the new cuts were white in the hazel. He did not say the number. He put the stick away inside his shirt, and his hand went up, for a moment, to the place over his ear where the fair lock was plaited.
+
+"We heard the *Patience* was short of oars," said Rufo.
+
+Gaius looked along the slip at them, in the grey, and could think of nothing to say about it; so he said what he would have said on any morning about any job.
+
+"Swords stay at home."
+
+There was a little stir along the slip. Not much.
+
+"The job's a door," said Gaius. "It comes off. Nobody goes through anybody. If a man in there draws steel, or a man of ours does, she won't come out, and she'll be right not to, and we may as well have stayed on the slip." He shifted the roll on his shoulder. "Shields. Nothing else."
+
+Rufo looked at him for a moment. Then he unbuckled the belt from his waist with the short sword on it and hung it on the bollard he had been sitting on, and stood back.
+
+One after another, without hurry, they walked up the slip and hung their belts on the bollard and the next one and the stanchions of the staging, until the head of the slip looked like a sword-cutler's on a market morning. Ear had to unwind his twice before he got it off.
+
+The last one was Sennius, who had never carried a sword in Aeridor's service at all. He had a knife in his belt, a short plain one, for bread. He looked at it. Then he took it out and laid it on the bollard on top of Rufo's belt and took his hand off it quick, as he did, as if it had come out of a fire.
+
+"Bread's on the ship," said Rufo. "Go on."
+
+They went down to the long quay as it got light. There were net-wives on it already, and bakehouse girls, and old men with nothing to do but see who sailed, and they saw the cohort go down to the *Patience* with shields and no swords, and Gaius with the long roll after them; and nobody called out, and a net-wife at the foot of Netmakers' Row put her hand flat on the shoulder of the woman beside her and kept it there.
+
+Sister Domitia was on the quay.
+
+She was at the head of the *Patience*'s plank, in her white and her steel cap, with her spear in the crook of her arm and the Vigil's mail-bag at her feet, and her letter to the Abbess in her hand. Gaius stopped in front of her because she was in the way. She ran her eyes along the roll on his shoulder, all the length of it, as she had run them along his trench and Ear's dressing and the Farrier's haft.
+
+Her finger came up and tapped the roll, twice, near the end, where the screw was.
+
+"Keep that out of the wet," she said. "If the thread rusts it'll sing."
+
+"It's greased."
+
+"Grease it again." She put her finger down. She held up the letter, sealed, in her big plain hand. "I write to the Abbess every night," she said. "This is last night's. I'll write again tonight, as I always do. It'll go on the next *Patience*." She put it in the mail-bag at her feet, which would sail when the *Patience* came back, and looked at him levelly with her grey eyes; and he understood that she was telling him the days. "Mind the knee on that plank, Master Gaius."
+
+He went up the plank.
+
+When he had stowed the roll under the stern deck and come up again the *Patience* was off the quay on the ebb, with the cohort at her oars and Avitus sneezing at the helm; and Domitia was still standing at the head of the empty quay, in the white, with the Abbess's letter in the bag at her feet, unsent.
+
+---
+
+The *Patience* rowed into the royal harbor at the end of the afternoon, between the moles, with the bolt-throwers on the mole-towers asleep under their sailcloth hoods and the heat coming off the water like the breath of a kiln.
+
+She moored at the galley quay beyond the empty berths, where she always moored. The port-reeve's man walked down with his slate and looked at the mail-bags and at Avitus's nose, and went away. Nobody looks at the rowers of a mail galley. They went ashore two and three at a time, with their sea-bags over their shoulders and the long sailcloth rolls under their arms.
+
+Gaius went last, with Fingers and the jack.
+
+The city stank in summer. The steam off the canals hung in the streets and would not lift, a yellow fog that smelled of eggs and drains and fish-oil and the tanneries upriver, and under it the lower town sat in its doorways in its shirts and watched the roll go by on his shoulder without wondering about it. Everything had been carried past those doors in a sack at some time or other.
+
+Fingers knew the way. He had been born off the Gaol Stair, and he went through the lower town like a man going home, by back lanes between the warm walls and once through the yard of a dye-house, where a woman with arms dyed blue to the elbow said, "*Fingers*," in a voice of great surprise, and he said, "Not tonight, Ma," and went on.
+
+The Drowned Lantern stood on the left bank of the Lower Canal, a little way up from where the canal came out under the hill into the harbor. It had a badly painted sign of a lantern sunk in green water, and a canal window with no glass in it and a sack nailed over the lower half.
+
+"That's where he went in," said Fingers. "The prince. Out of that window, the morning they buried his brother. The General tipped him out of his chair and he went straight through it into the canal." He considered the window with respect. "They never put the glass back."
+
+"Why not?"
+
+"Nobody's asked them to." Fingers went round the side of the house, down a passage no wider than his shoulders, into a yard behind it.
+
+The cohort was there, sitting about the yard on the cobbles and the empty casks and the wall of the midden, as rowers sit in a tavern yard on a hot night; and the landlord, a heavy man with a wet rag over one shoulder, was going round them with a jug of small beer. He took in Gaius and the long roll, and went on pouring.
+
+"He's been paid," said Rufo, from the casks.
+
+"Who by?"
+
+Rufo shrugged. "He says a man looked in an hour since with a purse and said the yard would want it for the night, and some of the men might be tired after, and to give them beer. Grey man, he says. A cold."
+
+Gaius sat down on a cask.
+
+The jack went down on the cobbles in front of him, and he did not unlash it. The light was going yellow. Over the wall of the yard he could see the top of the Old Hill going up gold in the last of the sun; and from somewhere up the canal to his right, beyond the roofs, under the noise of the lower town, a little high bell began to ring.
+
+He counted it, as he had counted bells on scaffolds and slips all his life, because a bell is a measure of time and time is a thing a builder spends like oak; and lost the count. Then it stopped, and there was a pause, and then another sound carried down the water, not a bell: one heavy wooden knock, flat and loud, like a coffin-lid set down on its trestles.
+
+It rolled along the canal and over the roofs and into the yard, and every man in the yard heard it and lifted his head.
+
+*I had forgotten how loud the bar is.*
+
+On the midden wall, Ear put down his beer.
+
+---
+
+The rain broke an hour after dark.
+
+It came as rain comes in the capital at the end of a dry month, all at once, like a cask turned over on the city: big warm drops first, hissing on the hot cobbles and the steaming water, and then a roar on every roof in the lower town together, and the smell of it, wet dust and wet stone and the canal steaming twice as hard, so that the yard behind the Drowned Lantern stood in a cloud. Plancus, under the eaves, put his face up into it with his eyes shut and said nothing at all.
+
+Gaius had his own face turned the other way, to the hill. He had been watching it since the light went. At the dusk bell lights had come out along the shoulder of it, where the palace wall ran from the harbor tower to the trees of the tombs: small lanterns, a dozen, more, walking the top of the wall one behind another; and below the wall, at the turn of the lane, one window lit, square and yellow. They had gone to the end of the wall and turned and walked back, at a soldier's walk, and every quarter of an hour, by the bell on the Hall of Kings, they had come to the place under the lit window and stopped there, all together, a little longer than anywhere else. Now the rain had smeared them to a row of yellow blurs. He could still see them stop.
+
+"Is that her?" said Ear, beside him, low.
+
+"That's the Lanciarii."
+
+"Is she with them?"
+
+"She's on duty," said Gaius. "All night." He watched the blurs stop under the window. "That'll be his window."
+
+Ear thought about that.
+
+"That's clever," he said.
+
+"Yes."
+
+"Is it hers or his?"
+
+Gaius had been wondering that since Cyrene. He did not think it made any difference.
+
+---
+
+They waited for the middle of the night.
+
+It was a long wet wait, under the eaves and in the landlord's lean-to among his empty casks. Some of the men slept sitting up, with their chins on their chests. Rusticus and Salvius argued in whispers about the old liburna's garboard, and Salvius was wrong, and Gaius let him be. Vatinius sat with his eyes shut and his feet keeping time to a tune nobody else could hear. The cousins sat side by side and watched the rain.
+
+Gaius unlashed the roll at last, in the lean-to, by the light of one tallow dip that Fingers had begged off the landlord, and went over the pieces again. He greased the thread, because Domitia had told him to.
+
+Fingers squatted down on the other side of the sack and watched him.
+
+"How long?" said Fingers.
+
+"To set it? Forty breaths. To lift?" Gaius turned the screw a quarter turn in the nut, and back, and listened to it. "Depends on the oak. A hundred breaths. More, if the pintles are dry."
+
+"They'll not be dry. She oiled them."
+
+"Twenty years ago."
+
+"Somebody's oiled them since. There's always a novice with a feather." Fingers picked up the shoe and turned it over in his long thin hands and looked at the lip on it, which would take the bottom rail of the leaf; and the tip of his tongue came out between his teeth. "You'll want to look at the tops of the pintles first," he said. "Before you lift."
+
+"Why?"
+
+"Some smiths cap them. A pin through the top, above the eye. Or a nut. So nobody can do what you're going to do." He put the shoe down. "If there's a cap, I'll have it off. Without a mark. If there's not—"
+
+"There's not. She'd have said."
+
+"She'd not have thought of it. Sisters don't." Fingers wiped his hands on his breeches. "I'll look."
+
+"Good."
+
+Fingers nodded, and went back to his bucket under the eaves.
+
+Ear sat down where Fingers had been, and watched the screw go into the nut and come out again.
+
+He was nineteen, a long, loose, freckled lad from the lower town. A turnkey at the harbor prison had held his head to a brazier once, for a joke, and the ear had gone bad at sea; she had warmed her hands at a lamp on the wreck on the black beach and laid them on it.
+
+"What's she like?" said Ear. "Inside, I mean. The house."
+
+"I've never been in."
+
+"But you know it."
+
+"I know the door." Gaius wiped the thread. "And the stair. "And where her room is, off the passage. Domitia told me." He did not say what Valeria had written. "That's all."
+
+Ear looked at the screw.
+
+"She's the most beautiful thing I've ever seen," he said. He said it to the screw, plainly, as Plancus would have said the tide was on the turn. "I don't mean anything by it. I just think it, every time. When she did my ear I couldn't look at her. I looked at the floor." He scratched the scar on his shin, which Domitia had made Hostus sew, and which itched. "I'm not going to say anything to her. Tonight."
+
+"No."
+
+"I just wanted to say it to somebody." He got up. "Before."
+
+He went back out to the midden wall in the rain.
+
+Gaius greased the thread again, and wiped it; and his hands stopped, and he started them again.
+
+---
+
+The rain eased a little toward the middle of the night, from a roar to a steady hiss, and the Hall of Kings rang the hour; and Gaius lashed the jack up in two parts, the frame and bed in one roll and the screw and bars in the other, and stood up.
+
+Rufo was on his feet before he was.
+
+They unwrapped the shields in the lean-to, by the tallow dip. They were the cohort's own, plain oak faced with hide and rimmed in iron, with nothing painted on them; and every rim had been gone over with a file, Gaius saw, so that no burr would catch on anything.
+
+Rufo formed them up in the yard.
+
+He did it without a word above a murmur, in the rain, by touch as much as by sight; a hand on a man's shoulder, a push, a tug at a strap. Three ranks across the narrow yard, and the two files of the sides, and the middle men with their shields ready for the roof. Gaius stood at the back with Fingers and the two rolls and watched it grow, as he had watched a wall grow, course by course, and could not fault a stone of it.
+
+The front rank formed last. Rufo took the right of it himself, as he always had. Ear went in on his left. Then there was a space, a man's width, where nobody stood. Then Sennius, at the far left, square, with his hands steady on the shield.
+
+Rufo looked at the space for a moment. Then he looked at Ear, and Ear moved his shield a little out from his body, to the left, to cover it; and on the other side of the space Sennius moved his a little to the right; and the two shield-rims came together across the gap and met, and held it. There was nobody behind them in the gap. The men in the second rank had closed up on either side of it and left it, without being told.
+
+Gaius looked at it, and then at the back of Rufo's neck, and then away.
+
+"Engineer," said Rufo, without turning his head. "Where do you want to be?"
+
+"Third rank. In the middle. With Fingers." He hefted the screw roll. "When we're at the door I'll want the front rank to open, and the roof down low, and two men to turn."
+
+"You'll have them."
+
+"And when we're inside—"
+
+"I know what to do when we're inside," said Rufo. "I've been inside a lot of places." He settled his shoulder into his shield. "*Ready.*"
+
+The landlord stood in his back door with his wet rag over his shoulder and watched them file out of his yard by the passage, by ones, to form again on the walk. When the last of them had gone by he went in and shut the door; and Gaius, at the back, heard the bar go down on it, softly, from inside.
+
+---
+
+They went up the Lower Canal walk in the rain.
+
+The rain had cleared the lower town off its doorsteps, and the walk at the middle of the night was a long wet causeway between the steaming water and the shut houses, with nothing on it but puddles and the smell of eggs. The water hissed. Under the hiss Gaius could hear the tortoise: the soft shuffle of men walking in step on wet stone, and their breathing, and now and then the faint dry knock of one oak rim against another; and nothing else. No iron on any of them. Rufo called the step under his breath, so low that only the front rank could have heard him, and the rest took it off the front rank through their feet.
+
+Gaius walked in the middle of the third rank with the screw roll on his shoulder and Fingers beside him with the frame, and could see nothing but the backs of the men in front and the underside of the roof. The rain drummed on the roof. The air under it was hot and close and smelled of wet hide and oil and men.
+
+He did not need to see. He had walked it on the board in the shed until he could have walked it asleep. Three hundred paces from the Drowned Lantern to the bend; then the poor gate on the right, set back under its arch; then the champions' sand on the left, across the walk, with its stakes; then the end of the white wall, and the corner, and the street face, and the porch.
+
+He counted his steps. At something over three hundred, a voice said, from the front rank, low, "*Litter*."
+
+The tortoise did not stop. It went on, at the same pace, and Gaius put his eye to the crack between two shields on his left and looked out.
+
+It was on the left of the walk, by the rope of the champions' sand: a litter, a long box with curtains on poles, set down on the stones, with four bearers in grey sitting under its eaves on their heels with sacks over their heads against the rain. A lantern hung from one of its poles, hooded, so that only a little yellow leaked from the bottom of it onto the wet stone. The curtains were drawn.
+
+One of the bearers lifted his head and looked at them going by.
+
+He did not get up or call out. He put his head back down on his knees.
+
+Gaius took his eye from the crack.
+
+He thought he knew whose it was. He had heard the story only in pieces, and never from her: a champion's sand, a fishwife's son, a father who had made his daughter watch, and a girl who had got down out of a litter and walked away behind a pauper's barrow. He thought about it as far as the end of the white wall; and then they reached the corner, and there was the door.
+
+---
+
+The street face was narrower than he had drawn it.
+
+It was a lane, not a street, running up from the canal between the white wall of the house on the left and the blank backs of warehouses on the right, cobbled, with a gutter down the middle that was running like a mill-race in the rain. The porch was halfway up it on the left: a deep stone porch with two pillars and a roof of stone slabs, and over the arch of it, cut in the stone and gone soft and green with four hundred years of the canal's breath, a sun with its rays out round it like the spokes of a wheel. Under the porch roof, on an iron bracket, a lamp burned behind horn. The house kept it lit all night for anybody sick enough to knock. It made a little round room of yellow light in the porch, and the rain fell across the mouth of it in a bright curtain, and inside the little room, dry, were the doors.
+
+Gaius saw them over the shoulders of the front rank as the tortoise came up the lane, and for a moment he forgot what he was there for.
+
+They were right. Two leaves of oak, black with age and the steam, each the width of a heavy woman's forearm twice and a bit, and the height of the porch roof; four fingers thick at the edge, where the leaves met, as he could see by the shadow down the meeting-stile; ledged and not braced. Three iron straps across each leaf, clenched over on the face, their nail-heads standing in rows. And at the outer edge of each leaf, where it met the stone of the jamb, the eyes of the straps, round as rings, dropped over three iron pintles that stood out of the stone; leaded in, the lead gone white and crusted with age. He had drawn it from a sister's hands moving in the air over a table, and he had not got one thing wrong.
+
+"Engineer," said Rufo.
+
+"Yes." He shook himself. "The right-hand leaf. Front rank, open. Roof down. Fingers."
+
+The tortoise climbed into the porch and filled it. The front rank stepped apart, Rufo to the right and Sennius to the left, and the shields of the second rank came down over their heads, and the roof came down low over the place where the right-hand leaf met the jamb, so low that the men holding it had to crouch; and under it, in a little cave of oak and hide, with the horn lamp's light coming in yellow through the gaps between the shields, Gaius knelt down on the wet stone of the porch floor in front of the door, on the bad knee, because he had no time to arrange it otherwise. The knee told him about it. He let it.
+
+Fingers was already up on the step at the hinge side, with his face a span from the top pintle, close enough to kiss it; and the tip of his tongue came out between his teeth. He put up a long thin finger and touched the top of the pintle, where it came up through the eye of the strap. Then the next one down. Then the bottom.
+
+"No caps," said Fingers, low. "Nothing. Never had." He took his hand away. "Somebody trusted the bar."
+
+"Oiled?"
+
+Fingers put his finger to his nose.
+
+"Last spring," he said. "Somebody with a feather."
+
+Gaius unrolled the screw.
+
+He set the bed first, a flat slab of oak shod with iron on its underside, laid on the step hard against the foot of the leaf at its hinge end, and stamped it down with the heel of his hand to feel whether it rocked. It did not. He put the frame on it, the four parts, and Fingers dropped the pins in, one, two, three, four, without a sound. He put the screw into the nut in the head of the frame and ran it up by hand until the shoe at the top of it came up under the bottom rail of the leaf; and there he stopped, and felt with his fingers along the underside of the rail, in the dark, to find the place where the shoe would bite on sound oak and not on rot. The oak was as hard as iron, and dry, and cold, after the warm wet stone. He moved the shoe a finger's width toward the jamb, to where the bottom strap came across, so that the lift would go up through the iron and not through the wood. Then he put the bar through the head of the screw.
+
+"Two men," he said.
+
+The cousins came, Naevius and Lollius; they crawled in under the low roof and knelt, one each side of the screw, and took the ends of the bar in their hands, and looked at him.
+
+"Slow," said Gaius. "Slower than that. As if it was asleep and you didn't want to wake it. Together." He put his hand flat on the face of the leaf, low down, to feel it move. "Now."
+
+They turned.
+
+The screw went up into the shoe and stopped. They turned. Nothing. They turned, and he felt, through his palm on the black oak, the whole of the leaf take the weight; a long slow strain going up through it, through the ledges and the straps, like a breath drawn in. The thread made no sound at all. They turned. Somewhere in the leaf a joint ticked, once, as a house ticks at night. They turned.
+
+Fingers, on the step, with his face by the top pintle, said, "Moving."
+
+Gaius took his hand from the leaf.
+
+The eye of the top strap had lifted on its pintle. He could see it in the yellow light that came in between the shields: a thin dark line of oiled iron showing under the eye, where the pintle had been hidden in it for a hundred years, the width of a straw. Then the width of a finger. The cousins turned, and turned, and their breath went in and out together, and they did not look at anything but the bar. The rain drummed on the roof over all their heads.
+
+The leaf came up off its pintles a finger, two, the depth of the pintle and a little more, exactly as Anaxis had said in the third volume; and there, at the top of its lift, it did a thing Anaxis had not drawn, and Gaius had.
+
+The bar came up with it.
+
+He heard it go, inside: a long dry creak of oak in iron. The great oak bar lay across the backs of both leaves in its iron keepers, one on each leaf and one each side in the stone, and it was lifted from the inside, Domitia had said, by two sisters or by one from the hills; and now the leaf was lifting it from the outside. The keeper on the back of the right-hand leaf rose with the leaf, and the end of the bar rose in it, and came up out of the keeper in the stone of the jamb, a finger, two, and hung there, held up at one end by the door it was meant to hold shut.
+
+*What use is a bar that lifts from both sides?*
+
+"Hold," said Gaius.
+
+The cousins held.
+
+"Front rank," he said. "Take the leaf. By the edge. When I say, it'll come out at the hinge side, at the top. Let it come. Walk it out. Don't let it fall." He wiped his face. "Rufo."
+
+"Here."
+
+"When it comes out, the bar comes down. Inside. On the floor." He thought about it, for one breath, the oak bar longer than a man and as thick as his thigh, falling a man's height on to stone in the middle of the night in a house full of sleeping women. He had thought about it for four days. There was no way round it that did not break something. "It'll be loud."
+
+"How loud?"
+
+"She said she'd forgotten."
+
+Rufo looked at him under the roof, and his face did a thing that on another man would have been a grin.
+
+"Then she'll know who it is," said Rufo.
+
+"*Now.*"
+
+The front rank put their hands on the edge of the leaf, Rufo high and Ear low, and pulled, gently, outward; and the great black leaf, free at the hinge, tilted out of the jamb at the top like a tooth coming out of a jaw, slowly, all of a piece, and the eyes of the straps swung clear of the pintles one, two, three. The men took its weight. It was heavier than anything Gaius had ever seen men take the weight of without a crane, and they took it, and grunted, and did not drop it; and as the leaf came out and away at the hinge side, turning on its meeting edge against the other, the end of the bar that it had been holding up, with nothing in the stone to hold it now, slid backward out of the leaf's keeper, and was over nothing.
+
+It fell.
+
+The sound went through the house. One great flat wooden crash, on stone, inside, so loud that the men under the roof flinched as if it had come down on their shields, and then a second, smaller, as it bounced, and then the long deep shuddering roll of it settling; and after it, a silence so complete that Gaius could hear the rain.
+
+Then, somewhere above them inside the house, small and high, a bell began to ring.
+
+"Walk it," said Gaius.
+
+They walked it, the front rank and two from the second, with the leaf held upright between them like a ship's hatch, out of the jamb and round, step by step, the bottom rail grinding a little on the porch floor; and they leaned it against the inside wall of the porch, against the stone, upright, carefully, as a man leans a ladder; and stood back from it.
+
+Nothing was broken. Gaius looked, because he had to. The leaf stood against the porch wall with its straps and its nail-heads and its eyes all whole, and the pintles stood out of the jamb, whole, oiled and shining, with nothing hanging on them.
+
+He stood up off the bad knee. His hands were shaking.
+
+"In," said Rufo. "*Shields.*"
+
+They went in through the one leaf's width by twos, and closed up again in the hall.
+
+---
+
+The hall inside was long and high and dark and smelled of lye and beeswax and old incense and, under all of it, the warm sulphur of the canal coming up through the floor. There was a lamp at the far end of it, by the foot of a stair, burning in a niche, and a little more light came in behind them from the porch; and between the porch and the stair, on the scrubbed stone floor, lay the bar.
+
+It lay across the hall at an angle where it had fallen, a great dark beam of oak, square and smooth, with the black marks of a hundred years of hands at its middle. It was not broken. Gaius, going past it in the middle of the third rank, under the roof again, saw that much through a gap, and saw too, at the far end of it, by the stair, a big woman in a white shift with her hair under a nightcap and her feet bare, standing over it and looking down at it as though it had been a calf that had got into the house.
+
+Sister Agrippina. He had never seen her, and he knew her. She was as tall as Rufo, nearly, raw-boned, with forearms like a ploughman's below the rolled sleeves of the shift; and she lifted her head and saw the tortoise coming up her hall at her, out of the rain, a roof of shields on legs; and she did not scream, or run, or ring anything. She bent and put her two great hands under the end of the bar, to lift it back into its keepers.
+
+Then she seemed to see that there was nowhere to put it, and straightened.
+
+The bell was still ringing, overhead, high and fast. There were other sounds now, from above: doors, feet on boards, women's voices calling one to another, quick and low, in the dark. A lamp went by a window at the top of the stair. Agrippina looked at the tortoise, and at the stair behind her, and Gaius saw her decide. She planted herself in the middle of the hall with her bare feet apart and her hands open at her sides, in front of the stair, between it and them.
+
+The front rank reached her and stopped.
+
+"This is the Vigil's house," said Agrippina, in a voice like a farm gate. "You're in a holy house. *Out.*"
+
+Rufo looked at her over the rim of his shield.
+
+"Sorry, Sister," he said. "*Push.*"
+
+The front rank leaned in.
+
+They did not hit her. They put their shields against her, flat, Rufo's and Ear's and Sennius's, and across the place where Tappo was not, the edges of two; and leaned their weight into them, and walked. Agrippina set her feet and put her hands flat on the shields and pushed back, with her whole great body, and for two breaths the tortoise stopped dead in the middle of the hall, and Gaius heard Ear grunt and Rufo laugh, once. She was strong. Then the second rank put their shoulders to the backs of the first, and the third to the second, and he put his own to the man in front of him, and the whole tortoise leaned and *pushed*; and Sister Agrippina's bare feet went back across her own scrubbed floor, sliding, a foot, a pace, two paces, with her hands still flat on the shields and her face red with fury, all the way back to the foot of the stair, where she sat down on the bottom step quite suddenly, because there was nowhere else for her to go.
+
+The front rank parted round her like water round a rock. Ear, going past, put down a hand to help her up, by habit; and she slapped it away.
+
+"Sorry, Sister," said Ear.
+
+They went up the stair.
+
+---
+
+It was a wide stone stair, worn into hollows at the middle of each tread by four hundred years of sisters' feet, and it went up in two flights with a turn, to the second floor, where the passage was. The tortoise went up it badly, the roof tilting, men stumbling on the hollows, the shields knocking; and at the turn the light came down to meet them.
+
+They were at the top of the second flight, in the passage, a dozen of them. White shifts, white cloaks thrown on over the shifts, or nothing over them; steel caps on some, hair loose on others, and every one of them with a short spear in her hands, levelled, the heads catching the light of the lamps that the sisters behind held up; and at every spear's socket, under the head, a little bronze bell. The bells were all ringing at once, small and dry and furious, as the spears shook. They filled the head of the stair from wall to wall, and they were not going to move.
+
+"*Halt,*" said Rufo, and the tortoise halted on the stair, three steps down.
+
+Nobody moved.
+
+Gaius had seen these women on the moor at Ghoul's End, in a ring round a chapel door, burning the dead as they came and not giving a step. Some of them he knew by sight. They held their spears as women hold spears who have used them, low and steady, with the butt tucked under the arm.
+
+Beyond them, along the passage, he could see a row of doors, a bay where the passage widened, and two sisters with a lamp, standing either side of the third door.
+
+"Let us by, sisters," said Rufo.
+
+Nobody answered.
+
+"We've no steel," said Rufo. "None. Look." He did not lower his shield. "We've come for the healer. That's all. We'll take nothing else and break nothing else and hurt nobody, and if anybody in this house bleeds tonight it'll not be from us." He waited. "Let us by."
+
+A young sister in the front, with a round face and her coif crooked, said in a high shaking voice, "You broke the door."
+
+"We took it off," said Gaius, from the third rank, before he could stop himself. "It's on the porch. Leaning on the wall. It'll go back on in a quarter of an hour, with two men and a bar." He stopped. "I'll put it back myself, if you want. It's a good door."
+
+There was a silence on the stair.
+
+"*Push,*" said Rufo.
+
+The tortoise went up the last three steps into the spears.
+
+They came in at once, as Gaius had known they would; a dozen points at the front rank's shields, all together, with all the bells on them going at once. He heard them hit. A short spear driven by a strong woman into an oak board faced with hide makes a sound like an axe going into a log, and the shields rocked back, and the front rank leaned into them and took them, and the points went into the hide and the oak a finger deep and stuck there, shaking; and the front rank pushed. The sisters pushed back on their spear-shafts. For a breath the tortoise and the spears stood locked at the head of the stair.
+
+Then a spear got in through the gap.
+
+It slid in low, from the left, past the edge of Ear's shield, where the edges of Ear's and Sennius's met over the empty place in the front rank, which had opened a little with the strain. It came in under the roof between the first rank and the second, looking for something, and came to Gaius. He saw it come, a long bright leaf of steel with its little bell ringing on it, a span from his belly, and stop.
+
+Sennius had it.
+
+He had let go of his own shield with one hand and taken the spear by the shaft, behind the head, in his fist, and stopped it there, a span from Gaius; and he held it, and the sister at the other end of it heaved on it, and he held it. Gaius saw his face, close, in the lamplight coming under the roof: white and fixed and very young. Then Sennius's hand opened on the shaft, quick, as if it had come out of a fire, and closed again lower down, and he drew the spear out of the young sister's hands, gently, and turned it, and held it out to her butt first, with the bell ringing at his end.
+
+"Your spear, Sister," said Sennius, in his Lessa voice. "Mind the point."
+
+She took it.
+
+The tortoise pushed.
+
+It went into the head of the stair, and the spears came out of the shields one after another as the sisters gave back, step by step, along the passage, with their bells ringing and their feet sliding on the boards; and the tortoise walked them down their own passage, slowly, like a plough going down a furrow, as far as the bay, where they could go round it, and did.
+
+Nobody bled. Gaius looked. He looked at every one of them as they went by, and at the boards behind them, in the light of the lamps. There was a sister holding her wrist where it had been jarred, and swearing in a way that he would not have thought a sister knew, and one whose cap had come off. There was no blood anywhere.
+
+Then the tortoise stopped, because there was somebody in front of it.
+
+---
+
+The Knight-Abbess was standing in the middle of the passage in her shift.
+
+It was a plain white shift of coarse linen, and over it she had nothing. She had put the steel cap on over her coif. She had come out of a door beyond the bay, that stood open behind her on a dark room, and she stood between it and the tortoise, tall and thin and still, planted as she planted herself in roads. She had no spear. Her hands were empty and at her sides. There was a sister behind her with a lamp, and the light from it came over her shoulder and lit the long plain face, red from sleep, and the two straight dark brows under the rim of the cap, ruled across it like the end of a sentence.
+
+She took in the tortoise: the front rank, Rufo and Ear and the gap and Sennius, the roof, the faces she could see under it; and the shields, with the white wounds of a dozen spear-points in their hide. Then her eyes went past the front rank to the third, and found Gaius, and stopped.
+
+He met them. He did not know what else to do.
+
+"The one who reads walls," said Cassandra.
+
+He did not answer it.
+
+The sisters had stopped too, behind the shields and beside them, with their spears up; and the bells had stopped. The house was quiet. He could hear somebody breathing hard, and far down in the house, at the foot of the stair, Agrippina saying something to somebody in a voice like a farm gate. Cassandra did not look at her sisters. She did not look at anybody but him. He waited for her to say the thing, the thing that a Knight-Abbess says to a man who has taken her door off in the middle of the night, and he waited for it to be something that could be written down and read out in a hall.
+
+Her teeth clicked, once.
+
+"Sisters," said Cassandra.
+
+All along the passage the spear-heads came down, slowly, one after another, until they were pointed at the boards; and the Knight-Abbess turned her back on the tortoise, without hurry, and walked back in her shift and her steel cap, between her sisters, to the open door of her room; and went in, and shut it.
+
+He heard the latch drop. Nothing else. No bar.
+
+Rufo breathed out.
+
+"Engineer," he said. "Your door."
+
+
+---
+
+The two sisters at the third door had not moved.
+
+They had not moved all through it. They stood one on either side of the door with their backs to the wall and their spears grounded; and the lamp on its hook between them burned on, with a moth going round it. The one on the left was old and grey and watched the tortoise like weather coming. The one on the right was small, with a freckled face and pale eyelashes, and she was holding her spear in both hands by the shaft, not levelled, upright, so tight that her knuckles were white; and she was crying, without any sound.
+
+The tortoise walked down the passage to them and stopped.
+
+Gaius stepped out of the third rank.
+
+He found that he had given the screw roll to Fingers, and that Ear had stepped aside, and that he was standing in the passage in front of the door with no shield, between the two sisters, with the lamp over his head; and that his hand was up, the right one, to knock, and had stopped there.
+
+It was a plain door. Pine, not oak; ledged and braced; on two strap hinges, small ones, that would not have held a gate. A latch with a thumb-lifter. No lock, no bar, no keeper for one. Anybody could have opened it from either side.
+
+He looked at the latch, and could not put his thumb on it.
+
+The door opened.
+
+She was standing just inside it, in the dark room, with a candle in one hand that she had not lit, as though she had picked it up and forgotten what it was for. She was dressed. She was in the plain white of the house, a long shift and an over-gown of coarse undyed wool, belted, with her bag over her shoulder; and her hair was under a cloth, tied badly, with a long honey-coloured end of it coming out at the side. She was thinner. He saw that first, because Valeria had written it, and then because it was true: her face had come in under the bones, and there was a line between her brows that had not been there on the quay, a short straight line, as if somebody had drawn it with a rule. She was looking at him.
+
+Behind him the whole tortoise stood in the passage and did not breathe.
+
+"I heard the bar," said Liora.
+
+"It's not broken."
+
+"No. It wouldn't be." Her eyes went past him, over his shoulder, to the men in the passage with their shields; to Rufo, and Ear, and Sennius; and to the place in the front rank between Ear and Sennius where nobody was standing. They stayed there. Then they came back to him. "Is anybody hurt?"
+
+"Nobody."
+
+"Anybody, Gaius. Theirs or ours."
+
+"Nobody," said Gaius. "A wrist jarred. A sister sat down on the stair. She'll have a bruise on her pride and nowhere else." He swallowed. "Nobody's bled. Nobody's going to."
+
+She looked at him in the doorway, in the lamplight, as she looked at a wound to see if it was clean.
+
+Then she put the candle down on the floor inside the door, unlit, very carefully, and stood up again; and put her hand into the bag on her shoulder, and took out something red, and held it in her hand. It was a cap. A soldier's cap of felted wool, dyed with madder, crushed and stained and faded at the crown where the sun had got at it; and he knew it as soon as he saw it, as every man in the passage knew it, and there was a sound behind him from the tortoise that was not a word.
+
+She did not put it on. She held it.
+
+Then she came out of the room.
+
+She did not hurry. She stepped over the sill into the passage, and stopped in front of the small freckled sister on the right of the door, who was still holding her spear upright in both hands and still crying; and Liora put her free hand on the sister's arm.
+
+"Thank you, Helvia," she said. "For the lamp. And the bread." The corner of her mouth went in. "And for tying the cloth better than I do. I'll not need it now."
+
+The sister gaped at her.
+
+"Go and see to Agrippina," said Liora. "She'll have sat down hard. She'll say she hasn't." She took her hand away. "Go on."
+
+Sister Helvia went, with her spear, down the passage, between the shields; and Liora turned and looked at the tortoise.
+
+"Well," she said. "Make room."
+
+They made room. The front rank stepped apart, and the second, and the roof came up; and she walked into the middle of the tortoise as if she were walking into a house, with Tappo's cap in her hand, and stood in the middle of the second rank, by Rufo's shoulder; and the shields closed over her head.
+
+Gaius went back to his place. He took the screw roll from Fingers.
+
+"Back," said Rufo. "Slow. *Step.*"
+
+---
+
+They went down the stair, and through the hall, past the bar.
+
+Agrippina was sitting on the bottom step with Sister Helvia beside her, with her nightcap in her lap and her great bare feet on the stone, and she looked up as the tortoise came down the stair past her, and looked into the gaps between the shields, and saw who was inside it. She opened her mouth. Then she shut it. Liora, going by in the middle of the shields, did not stop; but she put out her hand through the gap between Rufo's shield and the one behind it as she went by, and touched Agrippina's shoulder, once, and took the hand back.
+
+Then they were in the porch, and the right-hand leaf stood against the wall, and the pintles shone in the light of the horn lamp, and the rain fell across the mouth of the porch; and they went out through it into the lane.
+
+The tortoise turned at the foot of the lane, at the corner of the white wall, and went back along the canal walk the way it had come, past the poor gate, toward the harbor and the galley quay and the *Patience*, and the litter was there, where it had been.
+
+The curtains were open. The bearers were on their feet, the four of them, in their grey, with the sacks off their heads, standing by the poles; and the lantern had been unhooded, and hung from the pole, and threw a round of yellow light on the wet stones of the walk. And in the middle of the round of light, out of the litter, in the rain, stood an old man.
+
+He was small. He was smaller than Gaius had thought a lord would be. He was bent at the shoulders, and his hair was white and wet and stuck to his skull, and he wore a long coat of good black wool, old-fashioned, cut for a broader man than he was now, so that it hung on him like a coat on a peg; and the rain was running off the shoulders of it, and he did not seem to feel it. He had been standing there, Gaius thought, since the bar fell. He held something in both arms against his chest, wrapped in oilcloth, as a man holds a child.
+
+He was looking into the tortoise, into the gaps between the shields, as it came along the walk toward him; and Gaius, at the crack in the third rank, saw his face in the lantern light. It was an old face, long and fine-boned, with the skin fallen in, and pale wet eyes. He was afraid. Not of the shields. Of the shields going by.
+
+"*Rufo,*" said Liora, inside the tortoise. "Stop."
+
+Rufo stopped.
+
+The tortoise stood still in the rain, in the round of the lantern's light, a pace or two from the old man, and the canal hissed and steamed beside them.
+
+Then the shields in front of her parted, and Liora stepped out between Rufo and Ear, and stood in the light.
+
+The old man looked at her.
+
+The old man said, "Liora."
+
+He said it the way the old houses said everything, with the long vowels of the Old Hill, slowly, as if it were a word in a language he had not spoken for a long time and was afraid of getting wrong.
+
+She stood in the rain, in the white of the house, with Tappo's cap in her hand, and looked at him. Gaius could not see her face. He could see the back of her head, and the badly tied cloth, and the wet hair coming out of it at the side; and he could see her shoulders, and that they were very straight.
+
+"Father," she said.
+
+The rain came down on them both.
+
+"Do you eat?" said the old man.
+
+"At the bells. There won't be bells now."
+
+"No." The old man thought about that. "Then when you like."
+
+"When I like," said Liora.
+
+He nodded. He did not come any nearer to her, and he did not put out his hand. Then he looked past her, into the opening in the shields, at the men behind her, one after another, searching, until he had Gaius. Gaius did not know who had told him. Perhaps it was the roll on his shoulder.
+
+The old man came forward then, three steps, slowly, past his daughter, to the edge of the shields; and held out what was in his arms.
+
+"For the engineer," he said.
+
+Gaius came out of the third rank. He put down the screw roll on the wet stones, and took the bundle. It was heavy, and square, and the oilcloth was warm from the old man's body, and he knew what it was by its weight before he knew anything else, as he would have known a block of oak; he had carried two like it for ten years.
+
+"It's the fourth," said the old man. "Of Anaxis. The house kept it." He looked at Gaius, with the pale eyes. "The third went with somebody. A long time ago."
+
+Gaius did not say anything.
+
+He held the book, and put his other hand over the oilcloth, flat, where the rain was getting at it, and kept it there.
+
+The old man looked at that. Then he nodded, as if something had been measured and found to be the right length, and stepped back, three steps, into the round of his lantern's light, beside his litter; and stood there with his empty hands at his sides.
+
+Liora stood in the rain and looked at him; and then she did a thing he had seen her do once before, on Midwinter night at the quay fires, to a man with jug-handle ears and a scarred hand. She sank down before her father on the wet stones of the canal walk, in the plain white of the house, the whole slow way down, in the reverence of the old court, with her head bowed and Tappo's cap held against her breast; and stayed there for a breath; and rose.
+
+Then she turned round and walked back into the shields, and they closed over her.
+
+"*Step,*" said Rufo, not quite steadily.
+
+The tortoise went on along the canal walk, in the rain, toward the harbor. Gaius went in his place in the third rank with the screw roll on one shoulder and the fourth volume of Anaxis held against his chest under his shirt, out of the wet. He put his eye to the crack between the shields once, at the bend, and the lantern was still there behind them on the walk, and a small black shape standing in its light, not moving; and then the bend took it.
+
+---
+
+The *Patience* went out of the royal harbor on the first of the ebb, a little before the light, with two dozen of the penal cohort at her oars.
+
+Avitus stood at the helm with his cup and his cold and watched them come aboard, and did not say anything. He sneezed. Then he said to the helmsman, "Short of oars," and the *Patience* went out between the moles.
+
+The rain stopped as they cleared the mole-towers.
+
+Gaius looked back once, from the stern, before the city was gone. The Old Hill stood up black against a sky going grey, and along the shoulder of it, the length of the palace wall, the lanterns of the Lanciarii were still walking, slowly, in a line, from the harbor tower to the trees of the tombs; and the window at the turn of the lane was still lit. As he watched, the lanterns came to the place under the window and stopped there, all of them.
+
+Then one of them, at the end of the line, lifted, high, as far as an arm would reach, and held there; and came down.
+
+He did not know if it was meant for anything. He thought about it until the hill was gone, and decided that he would not ask.
+
+---
+
+The sun came up out of the sea on the larboard bow, red, with the *Patience* well out and the capital a smudge behind her and the steam going pink over it, and the sea long and quiet and the colour of a pigeon's breast. The men pulled. Nobody sang. Nobody had slept, and nobody seemed to want to.
+
+Gaius sat under the stern deck with his back against the rudder-trunk, where he had sat the whole way north.
+
+She was beside him on the coil of rope. She had taken the cloth off her hair as soon as they cleared the harbor, and wrung it out over the side, and let it go into the sea, and watched it go; and her hair was coming down out of its knot, wet and darkened, over the shoulder of the white wool. She had Tappo's cap in her lap. She had said nothing since the canal walk, and neither had he. He could not stop looking at her, and he did not try to say anything about it, because nothing he could think of would bear the weight. The old game did not come, the turn of a bilge and a curve he would know in any light.
+
+The fourth volume lay on his knees in its oilcloth. He had not unwrapped it. He did not want to unwrap it on a wet ship, and he did not want to put it down.
+
+Somewhere past the first hour she put out her hand and laid it on his knee.
+
+The bad one. Flat, through the wool of his breeches, as she had laid it on the quay at Cyrene on the night the cutter took her; and he looked down at it, and waited for the warmth to come into it, and the red-gold into the rims of her fingers, and for himself to lift it off, and give it back to her, and say what he had said then.
+
+There was no warmth in it. Only a hand. Cold from the rain, with the knuckles a little swollen, and a scrape across the back of it, and the thin white mark at the base of the thumb where the Vigil's lye had got into a crack. Resting on his knee as a hand rests on the rail of a boat, because it is there.
+
+He let it stay.
+
+Fingers came aft along the gangway between the benches then, with a heel of the *Patience*'s bread in each hand, as he did every morning, and stopped at the edge of the stern deck to hand them in. He studied the hand on the knee for some time, with the tip of his tongue between his teeth, as he read a lock.
+
+Then he put the bread down on the coil of rope beside her, both heels, and went back along the gangway to his oar; and did not take out his chalk.
+
+Liora picked up one of the heels of bread and broke it, and gave him the bigger half.
+
+"Is it waiting?" she said. "The knee."
+
+"It's waiting."
+
+"Good." She ate a mouthful of the bread, and looked out over the stern at the long pink sea and the smudge where the city was. Her hand stayed where it was. "So am I," said Liora.

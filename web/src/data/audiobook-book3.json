@@ -6,8 +6,8 @@
       "title": "Chapter One: The Hours After",
       "duration": 2928,
       "bytes": 23510693,
-      "sha256": "d5219c5b892feb17c0082a88dcacea074cec246f30d46c433a5d45456d8f8877",
-      "url": "https://audio.insularimperium.com/book3/v/d5219c5b/ch01-the-hours-after.mp3",
+      "sha256": "68976fa043f1fa7d1cffa6a95383ca1612bdf96ec4e824d19638805daf5ba05c",
+      "url": "https://audio.insularimperium.com/book3/v/68976fa0/ch01-the-hours-after.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -34,8 +34,8 @@
       "title": "Chapter Two: Sister Domitia",
       "duration": 3673,
       "bytes": 29472292,
-      "sha256": "987145bc56d87c6a0ba43ee6ee73c0faa68456acad8abd6f3e37941682812f03",
-      "url": "https://audio.insularimperium.com/book3/v/987145bc/ch02-sister-domitia.mp3",
+      "sha256": "3a182ba35a4d8b9f737dfad168413f10046668e4f55becc1b0698756a7410629",
+      "url": "https://audio.insularimperium.com/book3/v/3a182ba3/ch02-sister-domitia.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -50,13 +50,29 @@
       "title": "Chapter Three: A Vow Is a House",
       "duration": 3458,
       "bytes": 27756008,
-      "sha256": "ee085bca161a66497d17ed75dd9fa01bcb465e0e2389aa83899a21b2775cce07",
-      "url": "https://audio.insularimperium.com/book3/v/ee085bca/ch03-a-vow-is-a-house.mp3",
+      "sha256": "ddea083ccde914139efa0194c3cb91f385cbb968e5bf6ebbcc7d7bc392ae3219",
+      "url": "https://audio.insularimperium.com/book3/v/ddea083c/ch03-a-vow-is-a-house.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
           6.2,
           "Valeria"
+        ]
+      ]
+    },
+    {
+      "track": 4,
+      "slug": "ch04-the-third-volume",
+      "title": "Chapter Four: The Third Volume",
+      "duration": 3722,
+      "bytes": 29862055,
+      "sha256": "e868239b74509c5f687b29c3043e3f38b40b77db64b7a9c3ba86a3c5e63eb32b",
+      "url": "https://audio.insularimperium.com/book3/v/e868239b/ch04-the-third-volume.mp3",
+      "firstPublished": "2026-11-20",
+      "pov": [
+        [
+          6.1,
+          "Gaius"
         ]
       ]
     }

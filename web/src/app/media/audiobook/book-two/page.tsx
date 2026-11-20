@@ -3,7 +3,7 @@ import AudiobookPlayer from '@/components/AudiobookPlayer';
 import { audiobook } from '@/lib/audiobook';
 import { books } from '@/lib/books';
 
-const { book, chapters, other } = audiobook(books[1]);
+const { book, chapters, others } = audiobook(books[1]);
 
 export const metadata: Metadata = {
   title: "The Heir's Promise Audiobook | Insular Imperium",
@@ -13,5 +13,5 @@ export const metadata: Metadata = {
 };
 
 export default function BookTwoAudiobookPage() {
-  return <AudiobookPlayer chapters={chapters} book={book} other={{ subtitle: other.subtitle, audioPath: other.audioPath }} />;
+  return <AudiobookPlayer chapters={chapters} book={book} others={others.map(({ subtitle, audioPath }) => ({ subtitle, audioPath }))} />;
 }

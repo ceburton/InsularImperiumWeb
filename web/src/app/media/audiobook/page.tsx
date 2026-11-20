@@ -3,7 +3,7 @@ import AudiobookPlayer from '@/components/AudiobookPlayer';
 import { audiobook } from '@/lib/audiobook';
 import { books } from '@/lib/books';
 
-const { book, chapters, other } = audiobook(books[0]);
+const { book, chapters, others } = audiobook(books[0]);
 
 export const metadata: Metadata = {
   title: 'The Coward\'s Answer Audiobook | Insular Imperium',
@@ -13,5 +13,5 @@ export const metadata: Metadata = {
 };
 
 export default function AudiobookPage() {
-  return <AudiobookPlayer chapters={chapters} book={book} other={{ subtitle: other.subtitle, audioPath: other.audioPath }} />;
+  return <AudiobookPlayer chapters={chapters} book={book} others={others.map(({ subtitle, audioPath }) => ({ subtitle, audioPath }))} />;
 }

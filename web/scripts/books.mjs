@@ -1,5 +1,6 @@
-// The two books, as the publishing scripts see them. Book One keeps its original paths: audiobook/ in the
-// generator, src/data/audiobook.json here and v/<hash>/ on Bunny, so published URLs and podcast feeds never move.
+// The books, as the publishing scripts see them. Book One keeps its original paths: audiobook/ in the generator,
+// src/data/audiobook.json here and v/<hash>/ on Bunny, so published URLs and podcast feeds never move. Each later
+// book N has chapters/bookN/ in the story bible, audiobook-bookN/ in the generator and bookN/v/<hash>/ on Bunny.
 import path from 'node:path';
 
 export const storyBible = process.env.STORY_BIBLE || 'C:\\Users\\GameOn\\Projects\\GridGeneral\\documentation\\story-bible';
@@ -12,16 +13,20 @@ export const books = [
   { number: 2, label: 'Book Two', title: "Insular Imperium: The Heir's Promise", chapters: path.join(storyBible, 'chapters', 'book2'),
     audioDir: process.env.AUDIOBOOK_BOOK2_DIR || path.join(generator, 'audiobook-book2'), dataFile: 'src/data/audiobook-book2.json',
     bunnyPrefix: 'book2/v/', storyFile: 'public/stories/Insular-Imperium-Book-Two.md' },
+  { number: 3, label: 'Book Three', title: "Insular Imperium: The King's Table", chapters: path.join(storyBible, 'chapters', 'book3'),
+    audioDir: process.env.AUDIOBOOK_BOOK3_DIR || path.join(generator, 'audiobook-book3'), dataFile: 'src/data/audiobook-book3.json',
+    bunnyPrefix: 'book3/v/', storyFile: 'public/stories/Insular-Imperium-Book-Three.md' },
 ];
 
-// `--book 2` (or `--book=2`) picks one book; without it the scripts work on every book.
+// `--book 3` (or `--book=3`) picks one book; without it the scripts work on every book.
 export function selectedBooks(argv = process.argv) {
   const i = argv.findIndex(a => a === '--book' || a.startsWith('--book='));
   if (i < 0) return books;
   const value = argv[i].includes('=') ? argv[i].split('=')[1] : argv[i + 1];
   const book = books.find(b => String(b.number) === value);
   if (!book) {
-    console.error(`Unknown book "${value}". Use --book 1 or --book 2.`);
+    const options = books.map(b => `--book ${b.number}`);
+    console.error(`Unknown book "${value}". Use ${options.slice(0, -1).join(', ')} or ${options.at(-1)}.`);
     process.exit(1);
   }
   return [book];

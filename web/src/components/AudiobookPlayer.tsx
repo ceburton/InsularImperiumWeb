@@ -52,7 +52,7 @@ function resumeAt(c: AudiobookChapter, p?: Place) {
   return p.d > 0 ? Math.min(c.duration - 5, (p.t / p.d) * c.duration) : 0;
 }
 
-export default function AudiobookPlayer({ chapters, book, other }: { chapters: AudiobookChapter[]; book: AudiobookInfo; other: { subtitle: string; audioPath: string } }) {
+export default function AudiobookPlayer({ chapters, book, others }: { chapters: AudiobookChapter[]; book: AudiobookInfo; others: { subtitle: string; audioPath: string }[] }) {
   const audio = useRef<HTMLAudioElement>(null);
   const saved = useRef<Saved>({ places: {} });
   const pendingSeek = useRef<number | null>(null);
@@ -244,7 +244,7 @@ export default function AudiobookPlayer({ chapters, book, other }: { chapters: A
       <header className="audiobook-top">
         <Link href="/media">← Media</Link>
         <nav className="audiobook-top-links">
-          <Link href={other.audioPath}>{other.subtitle} audiobook</Link>
+          {others.map(other => <Link key={other.audioPath} href={other.audioPath}>{other.subtitle} audiobook</Link>)}
           <Link href={book.readerPath}>Read {book.subtitle}</Link>
         </nav>
       </header>

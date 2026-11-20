@@ -72,8 +72,9 @@ export default function StoryReader({ chapters, book }: { chapters: Chapter[]; b
     const frame = requestAnimationFrame(() => {
       try {
         const saved = JSON.parse([book.readerKey, ...book.legacyReaderKeys].map(k => localStorage.getItem(k)).find(Boolean) || 'null');
-        // A book opened for the first time starts at its beginning, in the look chosen for the other book.
-        const fallback = !saved && book.settingsFallbackKey ? JSON.parse(localStorage.getItem(book.settingsFallbackKey) || 'null') : null;
+        // A book opened for the first time starts at its beginning, in the look chosen for the nearest earlier book.
+        const fallbackKey = saved ? undefined : book.settingsFallbackKeys.find(k => localStorage.getItem(k));
+        const fallback = fallbackKey ? JSON.parse(localStorage.getItem(fallbackKey) || 'null') : null;
         if (saved?.settings || fallback?.settings) {
           const s = (saved || fallback).settings || {};
           setSettings({
@@ -445,7 +446,7 @@ export default function StoryReader({ chapters, book }: { chapters: Chapter[]; b
       <header className="reader-toolbar">
         <div className="reader-toolbar-links">
           <Link href="/media">← Media</Link>
-          <Link className="reader-other-book" href={book.other.readerPath}>{book.other.subtitle}</Link>
+          {book.others.map(other => <Link key={other.id} className="reader-other-book" href={other.readerPath}>{other.subtitle}</Link>)}
         </div>
         <span className="reader-brand">Insular Imperium · {book.subtitle}</span>
         <div className="reader-toolbar-actions">
@@ -502,7 +503,7 @@ export default function StoryReader({ chapters, book }: { chapters: Chapter[]; b
             {canSpeak && <label>Voice<select value={voicePrefs.voice} onChange={e => changeVoice('voice', e.target.value)}><option value="">Automatic</option>{voices.map(v => <option key={v.voiceURI} value={v.voiceURI}>{v.name} ({v.lang})</option>)}</select></label>}
           </div>
           <p className="reader-note">Next page: PgDn, Right arrow, or Down arrow. Previous page: PgUp, Left arrow, or Up arrow. Space also advances; Shift+Space goes back. Your place follows you when you change the font or resize the window.{canSpeak && ' Listen reads aloud from the top of the page and remembers the paragraph where you paused.'}</p>
-          <p className="reader-note"><Link href={book.other.readerPath}>Read {book.other.label}, {book.other.subtitle} →</Link></p>
+          {book.others.map(other => <p key={other.id} className="reader-note"><Link href={other.readerPath}>Read {other.label}, {other.subtitle} →</Link></p>)}
           <button className="reader-done" onClick={() => { setControls(false); menuButton.current?.focus(); }}>Back to the book</button>
         </div>
       </div>}

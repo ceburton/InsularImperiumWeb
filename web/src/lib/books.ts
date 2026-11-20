@@ -2,6 +2,7 @@
 // subscriptions and saved places from before Book Two still work.
 import book1Audio from '@/data/audiobook.json';
 import book2Audio from '@/data/audiobook-book2.json';
+import book3Audio from '@/data/audiobook-book3.json';
 
 // pov: [seconds, name] for each point-of-view switch, from the generator's manifest.json cues.
 export type AudiobookChapter = Omit<(typeof book1Audio.chapters)[number], 'pov'> & { pov?: [number, string][] };
@@ -61,15 +62,39 @@ export const books = [
     coverSmall: '/audiobook/cover-600.jpg',
     chapters: book2Audio.chapters as AudiobookChapter[],
   },
+  {
+    ...shared,
+    id: 'book-three',
+    number: 3,
+    label: 'Book Three',
+    subtitle: "The King's Table",
+    title: "Insular Imperium: The King's Table",
+    summary: 'The third book of Insular Imperium, read aloud chapter by chapter as it is written. A crown waits in Aeridor, and a round table waits for the rulers who would sit at it as equals.',
+    storyFile: 'public/stories/Insular-Imperium-Book-Three.md',
+    readerPath: '/media/story/book-three',
+    audioPath: '/media/audiobook/book-three',
+    readerKey: 'insular-reader-book3-v1',
+    legacyReaderKeys: [] as string[],
+    audioKey: 'insular-audiobook-book3-v1',
+    guidPrefix: 'insular-imperium-book-three-audiobook-',
+    pageUrl: `${site}/media/audiobook/book-three`,
+    feedUrl: `${site}/media/audiobook/book-three/feed.xml`,
+    cover: `${site}/audiobook/cover-3000.jpg`,
+    coverSmall: '/audiobook/cover-600.jpg',
+    chapters: book3Audio.chapters as AudiobookChapter[],
+  },
 ];
 
 export type Book = (typeof books)[number];
 export type ReaderBook = Pick<Book, 'id' | 'label' | 'subtitle' | 'title' | 'readerPath' | 'audioPath' | 'readerKey' | 'legacyReaderKeys'>;
 
-export const otherBook = (book: Book) => books.find(b => b !== book)!;
+// Every book but this one, in order, for the links between the books.
+export const otherBooks = (book: Book) => books.filter(b => b !== book);
 
-// What the reader component needs: the book's own fields plus a link to the other book.
+// What the reader component needs: the book's own fields plus links to the other books. A book opened for the
+// first time takes its look from the nearest earlier book the reader has opened (Book Three from Two, then One).
 export function readerBook(book: Book) {
   const pick = ({ id, label, subtitle, title, readerPath, audioPath, readerKey, legacyReaderKeys }: Book): ReaderBook => ({ id, label, subtitle, title, readerPath, audioPath, readerKey, legacyReaderKeys });
-  return { ...pick(book), other: pick(otherBook(book)), settingsFallbackKey: book.number === 1 ? null : books[0].readerKey };
+  const settingsFallbackKeys = books.filter(b => b.number < book.number).reverse().map(b => b.readerKey);
+  return { ...pick(book), others: otherBooks(book).map(pick), settingsFallbackKeys };
 }

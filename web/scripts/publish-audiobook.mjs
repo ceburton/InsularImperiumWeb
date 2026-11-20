@@ -1,8 +1,9 @@
 // Uploads the audiobook MP3s from the generator folder to Bunny Storage and writes each book's chapter list
-// (src/data/audiobook.json for Book One, src/data/audiobook-book2.json for Book Two; see books.mjs).
-// Each MP3 is stored at <prefix><first 8 hex of its SHA-256>/<chapter>.mp3 (prefix v/ for Book One, book2/v/ for
-// Book Two), so a changed file gets a new URL and every URL can be cached forever. Unchanged files are skipped.
-// Run with `npm run audio:publish` (every book) or `npm run audio:publish -- --book 2` (one book).
+// (src/data/audiobook.json for Book One, src/data/audiobook-book2.json and audiobook-book3.json for Books Two and
+// Three; see books.mjs). Each MP3 is stored at <prefix><first 8 hex of its SHA-256>/<chapter>.mp3 (prefix v/ for
+// Book One, book2/v/ and book3/v/ for Books Two and Three), so a changed file gets a new URL and every URL can be
+// cached forever. Unchanged files are skipped.
+// Run with `npm run audio:publish` (every book) or `npm run audio:publish -- --book 3` (one book).
 import { createHash } from 'node:crypto';
 import { execFileSync } from 'node:child_process';
 import { createReadStream, existsSync } from 'node:fs';

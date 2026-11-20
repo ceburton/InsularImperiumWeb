@@ -4,26 +4,14 @@
       "track": 1,
       "slug": "ch01-the-hours-after",
       "title": "Chapter One: The Hours After",
-      "duration": 2928,
-      "bytes": 23510693,
-      "sha256": "67e33d7fa1bc6b12e10fd531f70fe193bb2ca39115600559484c1113a3a3cf55",
-      "url": "https://audio.insularimperium.com/book3/v/67e33d7f/ch01-the-hours-after.mp3",
+      "duration": 2767,
+      "bytes": 22226021,
+      "sha256": "367b81ed162bfbadb43b0812287462005ed7032fa279e0728633d1d955f88805",
+      "url": "https://audio.insularimperium.com/book3/v/367b81ed/ch01-the-hours-after.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
           6.1,
-          "Marcus"
-        ],
-        [
-          1134.1,
-          "Marcus"
-        ],
-        [
-          1847.9,
-          "Marcus"
-        ],
-        [
-          2177.1,
           "Marcus"
         ]
       ]
@@ -32,10 +20,10 @@
       "track": 2,
       "slug": "ch02-sister-domitia",
       "title": "Chapter Two: Sister Domitia",
-      "duration": 3673,
-      "bytes": 29472292,
-      "sha256": "77b7362ed583c1cc47e0e30edba66e9e0bb31ee62a53dd069ab42c9e313e37fc",
-      "url": "https://audio.insularimperium.com/book3/v/77b7362e/ch02-sister-domitia.mp3",
+      "duration": 3690,
+      "bytes": 29605732,
+      "sha256": "fe2941bf4f7a1a347d21b5c5c7b89fec0573217f7fcefda00065a3d458abddc6",
+      "url": "https://audio.insularimperium.com/book3/v/fe2941bf/ch02-sister-domitia.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [

@@ -5,6 +5,7 @@
 ## Contents
 
 1. [Chapter One: The Hours After](#chapter-one-the-hours-after)
+2. [Chapter Two: Sister Domitia](#chapter-two-sister-domitia)
 
 ---
 
@@ -589,3 +590,807 @@ The town on the quay stood and watched it go.
 Marcus did not.
 
 He watched Gaius instead. Gaius had got up off the bollard as the lines came in, slowly, with a hand on it, and he stood on the quay with his bad leg straight and kept his eyes on the white sail all the way down the harbor and through the gap and out past the mole-head into the dusk, until there was no more sail to see; and his hand was still a little way out from his side, where it had given hers back.
+
+---
+
+# Chapter Two: Sister Domitia
+
+**GAIUS**
+
+The keel was down again by the morning of the ninth day, and it was right.
+
+He had taken up every timber the boy had laid and laid it again himself, the long scarfs first, then the hog over them, and he had sighted down it from the stern end on his belly on the slip with one eye shut while the boy stood by and did not say anything. It was right now. It ran from the cradle at the head of the slip to the cradle at the foot like a line ruled on a page, and he could put his eye to the end of it and see nothing between his eye and the stem but oak.
+
+He had slept beside it. He had not slept much.
+
+The yard was hot already. Early summer had come to Cyrene while they were gone, and the steam off the town's gutters, which had stood up white over the roofs all winter, lay low and thin in the mornings now and burned off before the first watch was out. The pitch-kettle by the shed door was going, and the yard smelled of hot pitch and green oak and the sea, and under all of it the bad-egg breath of the springs, which a man stopped smelling after a week and started again whenever he had been away. He had been away all spring. He smelled it everywhere.
+
+"The garboard," said Velthur's boy.
+
+"I know."
+
+"You said to tell you when the—"
+
+"I know." He got up off the slip, the bad leg first, and the knee told him about the night on the shavings. "Bring it."
+
+The boy fetched it. He was fifteen, or sixteen, a long thin dark boy with a Thessan nose and Velthur's plane in his belt, and he had laid the keel all spring with nobody to tell him how, from the frames in the loft and what he remembered, and he had laid it a finger out at the third scarf. A finger. Gaius had seen it from the quay on the first day before he was off the plank. He had said so. He had said it in front of the boy, and of half the yard, and the boy had gone the colour of the oak and said, "Yes, master," and gone and got the adze; and on the eighth day, while the cutter came in, he had still been taking it up.
+
+It was right now. He kept his eye on it.
+
+At the far end of the shed, past the stacked frames and the steam-box, the house stood with its door shut on the latch. He had shut it himself last night, after the cutter, because the wind had come round and it was banging. He had not gone in. He had stood in the doorway with his hand on the bar and smelled bread that was eight days old and the herbs she hung over the hearth, and the cold hearth under them; and he had taken his hand off the bar, and gone back to the slip, and lain down by the keel.
+
+There was a smell of fresh bread coming down the yard now, from Fausta's at the foot of Rope Street. At noon, most days, she had come down the hill from the Baths with Fausta's bread under a cloth and made him eat it sitting on the keel, and argued with him about mortar.
+
+It was the second hour. The bread was not coming.
+
+"Master," said the boy, with the garboard plank on his shoulder.
+
+"Not there. Under the shed, in the shade. If the sun gets on it it'll cup." "You know that. I know you know that."
+
+"Yes, master."
+
+"Put it down."
+
+---
+
+She came down into the yard a little before the third hour, on her round.
+
+He heard her before he saw her. There was a small bronze bell at the socket of her spear, under the head, and it spoke when she walked, once at every second step, not loud, a dry little *tink*; and the yard, which had heard a great many things come down the crown's road in the last year and stopped for none of them, stopped for that. He saw two of the sawyers in the pit look up, and a boy at the pitch-kettle, and Rusticus and Salvius, who were caulking the old liburna on the hard and had been arguing about it since dawn, stop arguing.
+
+She stopped at the head of the yard, where the crown's road came down onto the cobbles.
+
+She was in the white, and the steel cap, in this heat, which he would not have worn for anybody; and she had a wooden case under her left arm, the kind a physician carries, with a strap. She took in the yard: the slips, the sheds, the stacked oak, the steam-box, the sawpit and the men, one after the other, and he had the feeling that she was writing something down.
+
+Then she came down the yard, and the bell spoke, and she passed the keel without a glance and carried on round the end of the shed toward the sea-wall.
+
+He knew what was round there. He put the adze down.
+
+The cohort's trench was round there. He had sited it himself, in the winter, when the cohort came back from the Teeth and filled the old barracks on the sea-wall and the barracks' own pit had been under the Tharsian garrison's ash-heap for a year. He had walked the ground and taken the fall and pegged it, a deep trench and a soakaway at the low end, well away from the slips and the water-casks and down the slope from everything, and the cohort had dug it in an afternoon and been grateful. He had been pleased with it.
+
+She was standing at the low end of it, by the soakaway, with her nose wrinkled, looking at the ground.
+
+"Who dug this?" she said, without turning round.
+
+"The cohort."
+
+"Who told them where?"
+
+He considered several answers.
+
+"I did," he said.
+
+She turned round then. Her eyes took him in: the leather apron, the lenses pushed up on his forehead, the adze-dust, the knee. They were grey, and not unfriendly; they were the eyes of a woman at a badly made joint, seeing how badly.
+
+"You're the engineer," she said.
+
+"Yes."
+
+"I was told about you." She did not say what. She turned back to the soakaway and pointed the butt of her spear at the ground beyond it, where the slope went on down toward the sea-wall and the gutter that ran along the foot of it. "Where does that go?"
+
+"Down. Under the wall. Out."
+
+"Does it."
+
+"It's the low ground. I walked it. It falls a—" he stopped himself, because she would want a number and it was none of her business— "it falls toward the wall. Everything falls toward the wall. It's a yard on a slope, Sister. I didn't put the slope there."
+
+"No," she said. "You put a latrine on it." She walked a few steps down the slope, away from the trench, with her head bent. At the foot of the slope, in the angle of the sea-wall where the barracks' cookhouse stood, there was a stone curb in the ground and a wooden cover on it, and she stopped beside it and tapped the cover twice with the end of one finger.
+
+"What's this?"
+
+He knew what it was.
+
+"The cookhouse well."
+
+"How deep?"
+
+"It's not deep. It's the spring. It comes up warm under the whole yard. They sank a shaft to it here so the cooks wouldn't have to carry from the fort."
+
+"And when it rains?"
+
+He said nothing. He was seeing it. He had walked the ground in the winter, in a hard frost, when the clay of the slope was frozen hard except where the warmth came up, and nothing soaked anywhere, and nothing ran; and he had pegged his fall and gone back to his hull. He had not walked it in summer. He had not walked it after rain. He saw the soakaway full and the wet going down the slope through the made ground, under the cobbles, through the old warm channels the spring had cut for itself; and coming out at the bottom, into the shaft, where the cooks dipped the cookhouse kettles every morning.
+
+"It's warm ground," she said. "Warm ground drinks. Somebody told you a trench wants a fall, and you gave it one. You gave it one right into the cooks' pot." She took her finger off the well-cover. "I've seen a camp go down with the flux in a fortnight from less. The Lanciarii's camp below Hollowmere, the year before the war. We buried a score. They'd dug theirs above the horse-lines."
+
+"Nobody's had the flux."
+
+"It's not rained," she said. "It will."
+
+He saw the line between the trench and the well as plain as a chalk line; and the sun came down on the back of his neck, and he hated her with a pure clean hatred he had not felt for anybody since the quaestor's man with the rod. She had seen it in the time it took to walk round the end of a shed.
+
+"Where?" he said.
+
+She pointed with the spear-butt. Across the yard, the other way, past the sawpit, toward the corner by the old slip where nothing was and the ground fell toward the open harbor and away from everything.
+
+"There," she said. "Fill this one in with lime. And shift the soakaway, or don't have one. Let it go to the sea. The sea doesn't mind."
+
+It was where he would have put it. If he had walked the ground in summer.
+
+"I'll have it moved," he said.
+
+"Today."
+
+"Today."
+
+She nodded, once, as though that were the end of a page; and climbed the slope past him, and past the keel, and up the yard toward the crown's road, until the bell was out of hearing.
+
+He came back round the end of the shed. Rusticus and Salvius were standing on the hard by the liburna with their mallets in their hands.
+
+"Well," said Rusticus.
+
+"She's right," said Gaius.
+
+"About what?"
+
+"Get spades," said Gaius. "Both of you. And lime from the kiln. And the boy."
+
+---
+
+They had the new trench dug and the old one limed by noon. The adze turned on a knot after that and went into the side of his hand, below the little finger.
+
+It was not much, and it was his own fault: he had been holding the adze too far down the haft, and a man who holds an adze angry gets what it gives him. He wrapped it in a rag and kept on, and the rag soaked red through, and after a time the boy, who had been watching him, said, "Master," in a voice he had not used before, and Gaius saw that he was bleeding on the keel.
+
+He went up to the Baths.
+
+It was a long way up for the knee in the heat, by the crown's road and the stepped lane. He had not been up since the morning they came home. Halfway up he stopped to rest the leg on a step, and stood there with his hand wrapped in its rag against his apron, over the yard and the harbor and the gap, where yesterday the white sail had gone out; and then he went on up, because he was dripping on the step.
+
+The Baths were the Baths. The long hall full of steam, and the old pools, and the smell of the warm water and the sulphur and the lye; the pallets under the high windows, half of them empty now in the summer; the still-room at the end, with the herbs hung over it and the old Vigil shelves. He had slept in that still-room, back to back with her on a mat, a good many nights. He did not look at the door of it.
+
+Hostus was at the basin.
+
+He was a thin stooped man of the cohort's grey-heads, with a barber's long careful fingers and a face like a closed shutter, and he was washing his hands. He washed them in the hot basin from the spring, and then in the lye-water, and then in the hot again, slowly, between the fingers and under the nails and round the wrists, as carefully as other men pray; and dried them on a clean cloth, one finger at a time, and hung the cloth over the rail.
+
+"Engineer," he said. "What have you done."
+
+"Adze."
+
+"Sit."
+
+He sat on the bench by the basin, and gave Hostus the hand.
+
+And then Sister Domitia came down the hall from the far end, where she had been standing over a pallet, and stopped beside them while Hostus unwrapped the hand.
+
+It was a clean cut, in at the side of the palm below the little finger and along the edge of the hand, not deep, and bleeding freely.
+
+Hostus turned it to the light from the high window, and pressed the edges of it together gently with two fingers, and let them go.
+
+"It wants sewing," Hostus said. "Three. Four. Then he keeps it dry."
+
+"He won't," said Sister Domitia. "You'll be in the pitch by tomorrow, and the bilge water by the next day, and the stitches will be black by the end of the week." She leaned her spear against the basin. "Sew it, Barber, by all means. And then bind it so it can't open. Not a rag. Linen, and a pad, and bound over the pad, and the hand in a sling." She jerked her chin up the hall at the pallet she had come from. "Not like *that*."
+
+On the pallet at the far end, in the shade, lay Ear, whom she had sent up from the yard that morning on her round, with a gash along his shin from a dropped oar on the passage home and a strip of shirt tied round it, which Gaius had seen him tie himself, sitting on the quay, with his teeth.
+
+The strip of shirt was still on it.
+
+"I didn't like to take it off," said Ear, from the pallet, unhappily. "It's holding."
+
+"That's not a dressing," said Sister Domitia. "That's a hope with a bandage on it." She marched back up the hall to him; and Gaius heard her, behind him, while Hostus threaded a curved needle at the window, saying things to Ear in a low flat voice about what a man ought to know by nineteen, and Ear saying *Yes, Sister*, and *Yes, Sister*, and once, *Ow*.
+
+Hostus sewed the hand.
+
+He was quick, and his hands were clean as a new plank, and Gaius, who had been sewn before, watched the needle go in and out and felt it from a long way off. Then Hostus washed his hands again, as before; and Sister Domitia came back down the hall from Ear with the strip of shirt in her hand, held out from her by the corner, and stopped at the basin to wash her own.
+
+She watched Hostus's hands.
+
+He had finished, and was drying them on the clean cloth, one finger at a time. She stood beside him at the basin with her own hands still wet. Gaius saw her right hand come up off the rim of the basin with one finger out, the finger that tapped things. It came up, and stopped, and stayed where it was, a little way above the stone, while Hostus dried the last finger and hung the cloth over the rail.
+
+The finger went down again.
+
+She washed her own the same way, the hot and the lye and the hot, and dried them on a cloth of her own, and said nothing.
+
+Then she took the linen and the pad and bound up Gaius's hand herself, over Hostus's stitches, tight and flat and neat, in a figure that crossed at the back of the wrist, and tied it off; and looked at the knee.
+
+He was sitting with it out straight in front of him, because the climb had stiffened it, and she considered it as she had considered the cutter's plank.
+
+"That knee," she said.
+
+"No."
+
+"I haven't asked you anything."
+
+"No," said Gaius.
+
+Neither of them moved.
+
+"It's an old injury," she said. "It's gone in the joint. I can see it from here, how you hold it. A sister could look at that. I could look at it now, it'd take me the time it takes to boil a kettle. It wants seeing to before it sets worse, and it will set worse, at your age, in a shipyard, on stone."
+
+"It's waiting," said Gaius.
+
+She opened her mouth, and shut it again; and something went across her face that he could not read, and was gone.
+
+"Keep it dry," she said, and nodded at the hand, and left him.
+
+---
+
+The cohort ate on the sea-wall in the long summer evening, as it had every evening since they came home, at the trestles outside the old barracks where the wall was broad and warm and caught the last of the sun.
+
+Oppius had a sheep on the spit over the cookhouse fire, and the fat dripping and spitting in the coals, and Fausta's bread in baskets down the trestles; and there were onions done in the embers in their skins, and a pot of beans with pork in it, and somebody's jar of the yellow Cyrene wine that tasted of the sulphur, going round. The smell of the mutton lay along the whole wall. The sun dropped behind the fort over the hill, and the harbor turned gold and then grey, and the steam came up off it in the cool.
+
+Gaius ate on the end of a trestle with his hand in its sling, badly, with his left. He had stood over the new trench one-handed all afternoon, and it was right; and he had not spoken to anybody, and his hand hurt.
+
+Sister Domitia came down from the Baths at sunset and walked the length of the trestles, slowly, looking at everybody's supper, and stopped behind Fingers and watched him eat. Fingers ate as the cohort ate, as men eat who have spent years in a prison where the slow went hungry: standing, bent over the trestle, with his knife in one hand and his bread in the other, and the meat going into him in pieces too big for the job, so fast he barely chewed.
+
+She tapped the trestle twice beside his bowl.
+
+"Sit down," she said. "And chew it. You'll none of you have a gut left by forty, eating like that. I've opened men who ate like that, after. Their insides were like a cart-road."
+
+Fingers stared up at her with his mouth full.
+
+Then he sat down. And, as the trestle watched, chewed.
+
+She went on down the wall, and stopped behind the next man, and the next, and by the time she reached the end of it the whole cohort was sitting on the wall in a long row eating its supper slowly with its mouth shut, like a row of magistrates; and she took a bowl of the beans herself, and a heel of bread, and sat on the end of the trestle opposite Gaius, and ate them, not slowly, and went back up the hill as the light went.
+
+They watched her go. Nobody said anything until the bell at the socket of her spear had gone all the way up the crown's road and round the turn.
+
+"Right," said Fingers.
+
+He put his bowl down. He stood, and went into the barracks, and came out again with a broom that had been leaning by the door, and pulled a handful of straws out of the head of it, and stood in the middle of the wall and broke them on his knee, one short, all the rest long, and shuffled them in his fist behind his back, and held his fist out, with the ends of the straws showing even above his knuckles.
+
+"Every man," he said. "Draw."
+
+"For what?" said somebody.
+
+"For who has to be nice to her."
+
+There was a silence along the wall.
+
+Then the cohort began to laugh, in the low tired way it laughed now, and to get up off the trestles and come and draw. It passed down the wall from man to man. Fingers held the fist steady and watched each man draw, and each man drew and laughed, or swore, and threw it in the harbor. Ear drew. Pen drew, with his long white fingers, delicately, and held his straw up to the last of the light and said, "Saved by the length of a straw. It's how I've lived." Oppius drew, and Rufo, who had come down from the fort with Sylara for his supper, drew and grinned at it and put his hand up to the plait over his ear.
+
+Salvius drew long.
+
+Rusticus drew short.
+
+He held it up between finger and thumb, as though a magistrate had handed it to him.
+
+"No," said Rusticus.
+
+"Short straw," said Fingers. "It's the law."
+
+"It's a broom."
+
+"It's the law of the broom," said Fingers, and opened his fist, and wiped it on his breeches, and got out of his shirt the chalk he kept for the purpose and squatted down by the barracks wall where there was a clean place on the stone. The tip of his tongue came out between his teeth. He wrote *Rusticus* on the stone, big and uneven; and under it, a line, and on the line, the odds.
+
+"How long he lasts," Fingers said, without looking up. "Before she has him crying. I'll take a day. I'll take a week, at long odds. Nobody's taking a month. Oppius? A day?"
+
+"A day," said Oppius. "On the first hour."
+
+"I'll take the morning," said Pen.
+
+"You're all very funny," said Rusticus.
+
+"Hold on," said Hostus.
+
+He was sitting at the far end of the wall, at the end of the last trestle, with his back to the cookhouse and a bowl of beans on his knee, where he had been all through supper. Gaius had not noticed him there. People did not notice Hostus; it was the main thing about him. He put the bowl down on the trestle beside him now, and wiped his mouth on a clean cloth, and folded the cloth, and stood up.
+
+"I'll do it," said Hostus.
+
+The wall looked at him.
+
+"You didn't draw," said Fingers.
+
+"No."
+
+"You can't take a man's short straw if you didn't draw. It's—"
+
+"I know. The law of the broom." Hostus came along the wall. He was not a big man, or a loud one, and he did not raise his voice now; he stopped by Fingers, over the chalk on the stone. "I work under her. Every day, up there. I'll be nice to her anyway, or we'll kill one another by the end of the week, and then there'll be nobody to sew Ear up." He turned to Rusticus. "Give me your straw."
+
+Rusticus gave it to him, at once, and stepped back as though from a fire.
+
+"She'll eat you," said Fingers.
+
+Hostus considered this.
+
+"I've pulled teeth for thirty years," he said. "I have talked kindly to worse-tempered people with my hands in their mouths."
+
+Fingers squatted by the stone with the chalk in his fingers and his eyes on Hostus.
+
+Then he rubbed out *Rusticus* with the heel of his hand, and wrote *Hostus*, and drew the line under it, and squatted back on his heels and turned to the wall.
+
+"Well?" he said. "A day? A week?"
+
+Oppius had become interested in the sheep.
+
+"Nobody?" said Fingers.
+
+Nobody.
+
+Fingers crouched over the stone a moment longer; and then he rubbed the whole of it out, odds and line and name, with the flat of his hand, and stood up, and dusted his hand on his breeches, and went to get his bowl.
+
+Hostus sat down again at the end of the wall and picked up his beans. He rubbed the back of his neck once with his free hand, and went on eating, slowly, with his mouth shut.
+
+---
+
+The next morning, Gaius went up to have the hand looked at, because the binding had come loose in the night and Hostus had said to come.
+
+It had come loose because he had slept on it on the slip, by the keel. That was nobody's business. He went up the crown's road in the cool before the heat came, with the sun just over the eastern sea and the town's steam lying in the lanes, and the harbor below him flat as a plate, and the gap; and at the top of the stepped lane, by the door of the Baths, where the hot spring came out of the rock into its stone trough and steamed, he stopped, because Sister Domitia and Hostus were standing by the trough.
+
+They had been washing at the trough before the day's work, side by side; and now they had stopped.
+
+Sister Domitia had Hostus by the chin.
+
+She had taken hold of it with her right hand, firmly, finger and thumb either side, the way a woman takes the chin of a child who has been at the honey, and turned his face up to the light. Hostus stood quite still and let her. He was a little taller than she was, and she had to tip his head back to do it, and he stood with his head tipped back and his clean hands hanging at his sides, as a man stands for a sentence.
+
+"Open," said Sister Domitia.
+
+Hostus opened.
+
+She looked in, as Gaius had seen Hostus look into a hundred mouths at the Baths, with the side of one finger pulling down his lower lip so that she could see the gums. She turned his chin a little to the left, and to the right, and took her time about it, and Hostus stared at the sky.
+
+Then she let go of his chin.
+
+"Well," she said. "Those are the best teeth in the camp."
+
+Hostus shut his mouth.
+
+"We're taught it," said Sister Domitia, wiping her fingers on her apron. "The old books. You judge a man's diet by his teeth and his gums, before you judge it by anything he tells you, because he'll lie about what he eats and his mouth won't. I've been in every mouth in your cohort that'd let me since yesterday." She sniffed. "Bread and salt meat and sour wine, and half of them have been at the honey-cakes in the capital since they were boys. Ruins. I've seen better in a sheep." She took him in, the stoop and the long fingers and the clean apron. "Not yours. Yours are good. Every one. Who looks after them for you?"
+
+"Nobody," said Hostus.
+
+His voice was not quite his own.
+
+"I've drawn other men's," he said. "Thirty years. Every tooth in Tanner's Lane." He stopped. He seemed to be looking for something, in the air above her coif, and not finding it. "Nobody's ever—" He stopped again. "That's the first time," said Hostus, "anybody's looked."
+
+"Well, they should have," said Sister Domitia briskly. "It's a good mouth. You've looked after it. Keep on." She picked up her spear from where it leaned against the trough, and the bell spoke. "Ward's at the next bell. Don't be late."
+
+She went in.
+
+Hostus stood by the trough in the steam. He put up his hand and rubbed the back of his neck, slowly, and went on rubbing it, staring at the door of the Baths; and the back of his neck, above his collar, under his hand, had gone a deep and spreading red.
+
+Gaius discovered that he had urgent business with a keel.
+
+He went down the stepped lane again, fast for the knee, and down the crown's road with his hand in its sling and the binding loose, and into the yard, and stood at the head of the slip and studied the keel, hard, until he could trust his face.
+
+Fingers was sitting on the sawhorse by the shed door with his breakfast.
+
+"You're back quick," Fingers said. "She do your hand?"
+
+"No."
+
+Fingers considered him. Then he turned his eyes up the hill, toward the Baths, where there was nothing to see but the roofs and the steam; and the tip of his tongue came out between his teeth.
+
+He got up, and went to the barracks wall, where yesterday's chalk was still a grey smear on the stone; and got out his chalk, and wrote *Hostus* again, small, low down where only a man looking would see it, and drew a line; and under the line, after a moment's thought, wrote *OIL*.
+
+"For what?" said Gaius, who had followed him.
+
+"Her lamp," said Fingers. "A man who's sweet on a sister of the White keeps her lamp in oil, all year, till Midwinter. Everybody knows that. It's the oldest joke in the army." He wrote odds. They were very short. "How long before he's buying her oil, is the question."
+
+"You've only got him."
+
+"Only need him." Fingers stood back from the wall. "I'll take a month," he said. "Anybody'll give me a month."
+
+---
+
+The *Patience* brought the mail on the fifteenth day, on the morning flood, as she did every week.
+
+Pen met her. He always met her. He would stand on the long quay by her plank with his weight on one hip in the sun while the bags came off, and take the capital's bag on his shoulder up to the harbor master's house, and sit on the step there in the shade and sort it, as he had done all winter, by feel through the canvas before the strings were off and then by eye, into piles on the step: the Prefect's, the Navarch's clerks', the town's, the cohort's. He could tell a letter from a woman by the feel of the fold.
+
+Gaius was not waiting for him. He was on the slip with the boy, setting up the garboard, and he had his back to the quay.
+
+"One for the engineer," said Pen, at his elbow.
+
+He had come down the yard without Gaius hearing, as he did, with the cohort's letters in a bundle under his arm and one held out separately between two long fingers. He held it out to Gaius now. It was a half sheet, folded small, with plain white wax and no seal in it.
+
+"Half a sheet," said Pen, "by the feel." He was off up the yard with the bundle.
+
+Gaius put down his end of the plank. The boy, at the other end of it, held it.
+
+The hand was hers. He had seen it on a great many things, a list of stores and a note on a cloth over a bowl and once, on the night of the house, three lines on the back of a drawing; a small rounded clerkly hand, a court hand, from some schoolroom with a governess in it a long time ago. He broke the wax with a fingernail and read it standing on the slip.
+
+*Gaius,*
+
+*We came up the canal on the third morning, on the flood. The house is the same. The steps to the water are worn deeper in the middle, and somebody has whitewashed the gate. I have a room on the court side with a window that opens, and a bed, and a shelf.*
+
+*I am working in the infirmary in the mornings with the sisters, and at the gate in the afternoons, where the canal people come with what's wrong with them. It is mostly lungs, and children's ears, and what comes of the lock-gates.*
+
+*I eat at the bells. Tell Oppius the bread here is worse than his, and that I said so.*
+
+*Is the keel down?*
+
+*L.*
+
+He read it again, more slowly, as he would have gone over another man's drawing: for what was on it, and then for what was not.
+
+There was nothing that was not. It was a letter.
+
+He folded it small and put it in the front of his apron, behind the bib.
+
+"Master," said the boy, holding the plank. "Is it all right?"
+
+"It's fine," said Gaius. "Lift your end."
+
+---
+
+By then Sister Domitia had begun to eat like Liora.
+
+It went up like a wall a man walks past every day: one morning there was a course, and the next morning there were two, and on the fifth morning it was a wall.
+
+He saw the first course of it on the twelfth day, when she stopped by the cookhouse at the sea-wall on her round, at the hour of the noon bell, and ask Oppius what the healer had eaten. Gaius was at the well at the foot of the slope, drawing a bucket for the steam-box.
+
+"Ate?" said Oppius. He was a giant, with one eye and forearms floured white for good, and he peered down at her from the cookhouse door with the one eye as though nobody had ever asked him a harder question. "Whatever was going, Sister. She wasn't particular."
+
+"Yes, she was," said Sister Domitia.
+
+Oppius thought about it.
+
+"Fish," he said slowly. "When there was fish. Bread. Greens when she could get them, which in the winter she couldn't, and she'd go up the hill for the sorrel by the spring and come back with it in her apron. Water out of the fort spring." He thought harder. "Not after dark. Not anything. You'd bring her a bit of sausage at night when she'd been working, and she'd thank you, and give it to the engineer." His eye slid across to Gaius at the well, and so did hers. "And she walked. Everywhere. Up and down that hill ten times a day, when she could have sent a boy."
+
+Sister Domitia stood in the cookhouse door with her spear.
+
+"That's the old rule," she said, after a time, more to herself than to Oppius. "Out of the books. The rule of the bells. Plain food at the bells, and the spring's water, and nothing after the dusk bell, and the rounds on foot." She made a small noise in her nose. "Nobody keeps that. Nobody's kept it in the tents in twenty years. You can't, in the tents. You eat what comes, when it comes, on your feet, and you're glad of it."
+
+"She did," said Oppius.
+
+Sister Domitia was quiet.
+
+"What's the fish?" she said.
+
+He gave her a gurnard, done on the coals, and a heel of bread, and she ate it standing in the cookhouse door; and then, he saw, she noticed, and went and sat on the wall to finish it, with her spear across her knees, scowling at the harbor.
+
+After that she ate at the bells. There were no bells at Cyrene, except the fort's alarm bell and the one on the harbor master's house that nobody had rung since the raid, so she kept her own, in her head, by the sun; and the cohort learned to tell the hour by her. When she came down to the cookhouse, it was the noon bell. When she went up the hill, it was the dusk bell. She ate fish when there was fish, and when there wasn't she ate the mutton and the bread and the greens, and she grumbled about all of it, the rule and the old books and the women who had written them; and she ate it anyway, and walked her round twice a day, down the crown's road and up again.
+
+On the sixteenth evening, Oppius brought her a piece of sausage, after the sun was down, when she had been at the Baths since dawn with a fisherman's boy who had come off a mole-head onto the rocks.
+
+It lay on its bit of bread in front of her. Gaius, at the next trestle, could smell it: pork and garlic and fennel, still hissing.
+
+"That's after the bell," she said.
+
+"There isn't a bell, Sister," said Oppius, kindly.
+
+"There's always a bell." She pushed it back across the trestle to him with the tip of one finger. "Give it to the engineer."
+
+Oppius pushed it along to Gaius.
+
+He ate it. It was good sausage.
+
+---
+
+The bag had begun before any of it, on her second morning, in the yard. She had come down the crown's road with her physician's case and a heavy roll of linen under her arm, and the spear, and her own bag over her shoulder with the next day's dressings in it, and at the head of the yard Ear stepped out from the shed, and stopped in front of her, and held out his hand.
+
+"Can we help, Sister?" said Ear.
+
+"I'm not a cripple, boy."
+
+"No, Sister." Ear went on holding his hand out. He was nineteen, and the ear that Liora had mended on the beach was a pale crumpled shape on the side of his head, and he had the look of a boy who has been told to do a thing and will go on doing it until somebody tells him to stop. "Only we always ask."
+
+"Who's *we*?"
+
+Ear thought about this.
+
+"Everybody," he said.
+
+Sister Domitia looked past him at the yard: Rusticus and Salvius on the hard by the liburna, who had stopped work to watch, and the sawyers in the pit, and Velthur's boy, and Gaius on the slip. All of them were looking at her, and none of them was smiling.
+
+She took the bag off her shoulder and gave it to Ear.
+
+"Carry it level," she said. "There's bottles in it."
+
+He carried it level, down the yard behind her and round the end of the shed to the barracks, as a man carries a full pail of pitch. After that somebody carried it every day. It was never the same man two days running; Gaius never saw them settle it, and he never saw her ask. Whoever was nearest when she came down the crown's road stepped out and held out his hand, and said what they always said, and she gave it to him, and said, "Level."
+
+She stopped saying, "I'm not a cripple." It took about a week.
+
+---
+
+She corrected the rest of Cyrene as she had corrected his trench. The cohort learned to stand still when they heard the bell, because if they were doing something, she would see it, and it would be wrong.
+
+She corrected how they washed. She had the barracks' blankets out on the sea-wall in the sun every third day, and every man's shirt boiled in the cookhouse copper with lye, and stood by the copper while it was done. She corrected how the Lanciarii stood a watch on the mole-head in the heat (in the shade of the tower, not on top of it, and a bucket of water by them, and a hat). She corrected the way Gaius's sawyers stood in the pit, which had nothing to do with her, and it turned out she had been a sawyer's daughter in the capital; and the pitman's back stopped hurting. She told Valeria, on the long quay, in front of the Lanciarii, that the Farrier's haft had a check in it a finger below the socket and would split in the cold, and Valeria turned the haft to the light, and there was the check.
+
+She was wrong about half of it. She told Sylara the wrong herb for an elf's fever, which Sylara corrected; she told Fausta that bread wanted more salt, and Fausta said nothing, and sent her a loaf with more salt in it, and she ate it and drank a jug of water and never mentioned it again; she told Gaius that his steam-box was too hot, and it was not. But she was right about the other half. And she was right in such a voice, and with such a finger, that the cohort did the wrong half too, mostly, just in case.
+
+The bell at her spear went up and down the crown's road all day. When it stopped, the cohort turned round to see what was wrong.
+
+---
+
+She came to the song on the twentieth night.
+
+They had a fire on the sea-wall that night, after supper, for no reason, as they sometimes did now that it was summer: driftwood from the black beach and offcuts from the yard, burning green and blue with the salt. The cohort sat round it on the wall in the dusk and passed the yellow wine, and Oppius brought out the end of the mutton, and somebody, Rufo, with Sylara against his shoulder, started *The Angel of the Baths*.
+
+It was the cohort's song. It had been the cohort's since the Boundary House, though the tune was older, out of the gaol yards; and they sang it the way men sing a song they have sung on a hundred nights, without listening to it, in a long low rough unison that went out over the harbor and came back off the moles. Gaius did not sing. He sat on the end of the wall with his knee out straight, and listened to it, because it was hers.
+
+Sister Domitia was there. She had come down at sunset for her fish and stayed, which she had not done before; she sat on an upturned basket at the edge of the fire with her spear across her knees and Hostus beside her on the wall, a little way off, not too close, and she listened to the song with her head up and her mouth shut, as a schoolmistress listens to a child recite.
+
+They sang it through. It came to the last chorus, and the cohort sang the chorus, and it ended, and somebody passed the wine.
+
+"That's wrong," said Sister Domitia.
+
+The wall turned to her.
+
+"It's wrong," she said. "You've left a verse out." She lifted one finger off the spear, and tapped the shaft twice. "I've heard it a hundred times in the capital this spring, they sing it on every corner in the lower town, and in the infirmary, and at the Abbess's gate, so I'd know. There's the one about the stair, and then the one about the beach, and then there's one that goes up high before the last chorus, about the dark. Then the chorus. You went straight from the beach to the chorus. You've forgotten it."
+
+Nobody said anything.
+
+The fire cracked. Somebody's foot moved on the stones.
+
+Sister Domitia looked round the wall from face to face, as if waiting for somebody to say she was wrong; and nobody did. They watched the fire. Rufo had stopped with the jar halfway to his mouth, and put it down. Sylara had lifted her head off his shoulder. Ear was looking at his hands.
+
+It was Fingers who answered her, in the end. He was sitting on the wall on the far side of the fire, and he did not look up.
+
+"We've not forgotten it," Fingers said. "That's Tappo's verse."
+
+"Who's Tappo?"
+
+"He sang it on his own," said Fingers. "The high bit. We'd all stop, and he'd sing it, and then we'd come in again on the chorus. He started the song, the first night. At the Boundary House." He was turning a chip of driftwood over in his fingers. "We don't sing it. Not since Bastion."
+
+Sister Domitia sat on her basket with her spear across her knees.
+
+Gaius was on the far side of the fire from her, and he could see her face in the light of it: the starched coif, the broad weathered cheeks, the grey eyes on Fingers. Her finger had come up off the spear-shaft again for the tap. It stayed up.
+
+Then it came down, slowly, flat on the wood, and stayed there.
+
+"Tappo," she said.
+
+"Yes."
+
+She was quiet. The cohort was quiet. Beside her on the wall Hostus was looking at the fire.
+
+"Who else?" said Sister Domitia.
+
+Fingers lifted his head.
+
+"I don't know the names," she said. "She does. The healer. She says them every night, at the end of the day, all of them; the Abbess told me so before I came. I've not learned them." She said it in the flat voice she had used on Ear. "I'm sent in her place. I ought to know them."
+
+The fire cracked.
+
+"Bruttius," said Oppius, from the cookhouse door.
+
+"Trebonius," said Rufo, after a time.
+
+"Egnatius," said Ear, to his hands.
+
+There was a pause, and then somebody said "Sosius", and then nobody said anything, and Sister Domitia sat on the basket and looked at each of them as they said it, and then at the fire, with her lips pressed shut; and after a time she got up, and picked up her spear, and the bell spoke; and she went up the crown's road in the dark with the bell going at every second step, and nobody offered to carry anything, and she did not look back.
+
+Gaius sat on the wall.
+
+He had them all; he had heard them, in their places, every night for a year, in the still-room up the hill. He had the three at the beginning too, that the cohort did not say, the ones that were not soldiers. He had not said any of them.
+
+The next morning she asked Hostus for the rest of them, back to the stair, and Rufo, who had the roll; and that evening Gaius saw her on the long quay with Ear, walking slowly, and Ear talking, and her listening with her head bent, as she had walked the slope of the yard looking for the fall.
+
+---
+
+On the evenings before the *Patience* sailed, Pen wrote the cohort's letters.
+
+He had always written them. Half the cohort could not write and the other half could not spell, and Pen could do anything with a pen that a man could ask of one, and some things nobody had; he sat on the step of the harbor master's house with his lap-desk on his knees and the cohort queued in front of him in the long light, and he wrote their letters home. To mothers in the capital, and to the women some of them had found at Stoneheart and some at the fen; to Fausta, still, for Oppius, though Fausta lived at the foot of the next street and he saw her every morning. To the net-wives of the Row, for the ones who had been courting all spring by Pen's hand without either side ever having been within a mile of the other. Pen wrote them all, and read them back aloud, in his drawling herald's voice, improving them as he went; and then copied each one fair for the bag in his upright clerk's hand, and kept the first draft.
+
+"A man ought to keep a copy," he said, when Rusticus asked him what he wanted with it. "Of anything that matters."
+
+Gaius did not queue. He had nobody to write to but one, and he wrote that himself.
+
+He wrote it on the slip, on his knee, on a page torn from the back of his book of hull lines, in the plain capitals he had learned off the lintels at Corvus as a boy; and it took him three nights to write four lines. *The keel is down. The garboards are on. Domitia moved my latrine and she was right. Oppius says thank you for nothing about the bread.* He read it through on the third night and could not see that it said anything at all, and could not see what else to put; and he folded it and sealed it with pitch, for want of wax, and took it up to Pen on the step.
+
+"For the capital," he said.
+
+Pen took it. He weighed it between two fingers, as he weighed all of them, and set it on the pile.
+
+He was writing a letter for Ear, to Ear's mother, who sold eels at the Fishmarket steps. Gaius stood by the step a moment and watched the pen go. It was a good hand. He had always liked to watch it, the way he liked to watch any man who knew his trade; the downstroke and the hairline, every letter the same weight as the one beside it, nothing wasted. *Your loving son.* Pen dipped, and wrote the date in the corner, the way the clerks did, with the month and the day in figures; and Gaius watched a seven go down, quick and neat, with the little turned foot at the bottom that Pen gave all his sevens. It was a good seven.
+
+He went back to the yard.
+
+---
+
+The second letter came on the twenty-second day. It was shorter.
+
+*Gaius,*
+
+*The canal is low with the summer, and smells of it. A boy from the lock-gates came to the gate with two fingers crushed, and I kept them both.*
+
+*The doors here are shut at the dusk bell, as they always were. I had forgotten how loud the bar is.*
+
+*Mind the knee in the wet. Tell Domitia she's to make Hostus drink his own broth.*
+
+*L.*
+
+He read it standing on the slip, and then sitting on the keel, and then again that night by the lamp in the shed, with his lenses on, as though the writing were small.
+
+A boy, two fingers, a door.
+
+*I had forgotten how loud the bar is.*
+
+He went over it. It was in the same hand as the first, small and rounded and level; the lines came down the page as straight as the first letter's had. But the lines were closer together. She had written it on the same size of sheet, and left half the sheet bare at the bottom, and still the lines were closer together, as though she had been saving the paper.
+
+He folded it, and put it behind the bib of his apron, with the first.
+
+The third came on the twenty-ninth day. It was three lines.
+
+*Gaius,*
+
+*Cassandra came into the infirmary today and stood at the end of the ward while I worked, and then she went out again. I am well. I am eating at the bells.*
+
+*L.*
+
+He turned it over. The back was blank.
+
+The boy, at the other end of the strake they were offering up, held his end and waited and did not say anything. He had stopped saying "Master, is it all right?" sometime after the second letter. Gaius did not know when.
+
+---
+
+On the thirty-sixth day the *Patience* came in on the morning flood with the mail, and Pen met her, and carried the bag up to the step and sorted it; and he did not come down the yard.
+
+Gaius was on the staging at the hull's stern, fairing the frames with an adze. He had taken the sling off the morning after the cut, against everyone's advice, and the stitches had come out black at the end of the week as she had said they would, and Hostus had taken them out without a word and Domitia had looked at the scar and said nothing either, which was worse. He worked. He kept his back to the quay. The morning went by, and the noon; and in the middle of the afternoon he lifted his head from the frame and saw Marcus coming down the yard from the crown's road, alone, with a letter in his hand.
+
+It was not his letter. He knew that as he knew a timber was wrong before he had the rule on it. He put down the adze.
+
+Marcus came to the foot of the staging and stood there with his eyes on the frames and the half-built hull, as he always did in the yard, as though he had come to see the work. The cut on his forearm from the gate night had healed to a pink line; he had the letter folded small in his hand, with the broken white wax on it.
+
+"Come down," Marcus said.
+
+Gaius came down. It took him a time, with the knee, and Marcus did not offer to help, and did not look away either.
+
+"Read it," said Marcus, and held it out.
+
+It was written in a secretary's hand, quick and slanting, on good paper. It was addressed to *His Highness the Prefect of Cyrene*. It presented the Abbess's compliments. It said that the healer Liora was in reflection in the order's house, as the order had required, and would write to her friends when her reflection was finished, and that the Abbess trusted His Highness would understand, and would not look for letters until then. It was signed, *For the Knight-Abbess, by her hand, Sister Philippa, Secretary.*
+
+He gave it back.
+
+"When what's finished?" said Gaius.
+
+"It doesn't say."
+
+"No."
+
+They stood at the foot of the staging. The yard went on round them, the adzes and the mallets and the saw in the pit, and the smell of the pitch, and the sea. The boy was on the staging above them, fairing the frame Gaius had left, slowly, with his eyes on his work.
+
+"I've written to the Abbess," Marcus said. "This afternoon. And to my father." He folded the letter once and then again. "He answers everything. In his own time. The Abbess will answer too, very politely, and it will say this again." He put it inside his coat. "I've no standing in the order's house, Gaius. Nobody has. Not the crown. They built it so, four hundred years ago. A house the king couldn't come into."
+
+"I know."
+
+"So I'll write," said Marcus. "And wait. And write again."
+
+Gaius turned to the hull.
+
+"She said she wouldn't fight her way out of anything," he said.
+
+"Yes."
+
+"She didn't say anything about anybody else."
+
+Marcus turned his head.
+
+Gaius did not look round. He kept his eyes on the run of the frames along the hull, which were fair now from the stern to the turn of the bilge, and would be fair to the stem by the end of the week.
+
+"Don't tell me," said Marcus at last.
+
+"I've nothing to tell."
+
+"No. When you have," said Marcus, "tell me first." He tipped his head at the boy on the staging. "That's Velthur's boy."
+
+"Yes."
+
+"He's good?"
+
+"He's good," said Gaius. "He laid her a finger out at the third scarf. I took it up."
+
+"Did you tell him he was good?"
+
+The boy had stopped fairing, and was standing on the staging with the adze in his hand and his back to them, very still.
+
+"No," said Gaius.
+
+Marcus nodded, and turned, and went back up the yard toward the crown's road, with his hand on the front of his coat where the letter was.
+
+Gaius stood at the foot of the staging.
+
+"Boy," he said.
+
+The boy turned round.
+
+"Your scarfs," said Gaius. "Apart from the third. They were good scarfs."
+
+The boy stood on the staging above him. Then he turned back to the frame and went on fairing it, without a word, and twice he stopped and put his forearm across his eyes, and went on.
+
+---
+
+The book was in Netmakers' Row.
+
+He had lent it to Alana in the winter, for her letters class, and the hot sand out of it had gone onto the Navarchy's marines on the long stepped lane: the only use, so far as he knew, that anybody had ever made of the third volume. The child in the front of the class had asked to keep it to copy the plates. Alana had said she must ask the engineer, and then the engineer had sailed.
+
+He went up the Row in the evening. It was a steep cobbled street of net-lofts and narrow houses with the nets hung out to dry from the upper windows, and the smell of tar and fish-scale and wet hemp in it, and at the top of it, past the net-wife's window where the new clay lamp was burning, a woman at a door who called up the stairs behind her when he asked; and a small dark girl came down the stairs with the book in both arms, held against her chest.
+
+She did not give it to him.
+
+"You're the engineer," said Ennia.
+
+"Yes."
+
+"It's yours."
+
+"Yes."
+
+"I've copied the plates." She held it tighter. "Not all. There's the one with the crane, I hadn't done the crane." She had a thin fierce face and ink on her fingers, a great deal of it, and a front tooth missing. "Do you want it now? For good?"
+
+"For a week."
+
+"You'll bring it back?"
+
+"In a week."
+
+"You've to sign for it," said Ennia, and went back up the stairs, and came down again with a slate and a stub of chalk, and held it up to him; and he wrote his name on the slate in his lintel capitals, and she turned the slate over and checked both sides of it, and gave him the book.
+
+He took it down the Row under his arm and sat with it on the sea-wall by the yard, with the harbor going grey under him, and opened it.
+
+The third volume of the great Anaxis. On war-machines. He had not opened it since Silverwood, and before that not since he was a boy; nobody opened it. The leather was cracked at the spine and the boards were warped, and a child's ink was on the edges of the pages where she had turned them, and a child's slate-dust in the gutters. He turned the pages slowly. Bolt-throwers and their skeins, and the *palintone*, which he knew. Rams. Towers. The cauldrons of the hot sand, which a child had copied out somewhere in the Row, and he wondered how she had done the flames.
+
+He was hunting for something, and did not know what until it was under his hand.
+
+It was near the back, after the towers, a plate he had forgotten was there. Two men under a roof of shields, at the foot of a gate. Between them, on the ground, a thing like a stool: a squat oak frame with a great bronze screw standing up through the middle of it, threaded the whole of its length, and a bar through the head of the screw for two men to turn. The head of the screw was set under the bottom rail of the gate's leaf, where it hung. The text beside it was in Anaxis's dry old crabbed style, which he had loved as a boy and loved still: *A gate hung upon pintles is lifted from them, not broken; and a gate lifted from its pintles has no more strength in it than a shutter in the wind. For which the screw-jack, as here, worked by two men under cover, who raise the leaf the depth of the pintle and a little more, when it will fall outward of its own weight. It is quieter than a ram, and it wants no run-up, and it does not need to break anything.*
+
+He sat on the sea-wall with the book on his knees until it was too dark to see the plate. Then he went up the hill to find Domitia.
+
+---
+
+She was at the Baths, at the long table at the end of the hall under the hanging herbs, writing.
+
+He knew what she was writing. She wrote every night, at the end of the day, by one lamp; a page, sometimes two, in a big plain hand, and sealed it and put it in the Vigil's bag for the *Patience*. The whole cohort knew what she was writing. Some of them thought it was funny and some of them did not.
+
+Her head came up when the door went. It was after dusk. She had eaten nothing since the dusk bell, he knew that too, and there was a cup of the spring's water by her and nothing else on the table but the page and the lamp.
+
+"Engineer," she said. "Is it the hand?"
+
+"No."
+
+"The knee."
+
+"No." He came up the hall. There was a fisherman's boy asleep on one of the pallets, with his leg in splints, and nobody else. "The house," he said. "In the capital. Your order's house, by the canal."
+
+Her pen stopped.
+
+"What about it?"
+
+He had thought about this all the way up the hill, and he had not thought of a good way. He did not have good ways. He had walls, and he knew where to put the weight on them.
+
+"Liora said in her letter," he said, "that she'd forgotten how loud the bar is. On the door. When they shut it at the dusk bell." He stood by the end of the table. "I've been trying to see it. I'm a builder. I see things by how they're made. She said the doors are hung on great strap hinges, a hand thick, iron, bolted through—"
+
+"Pintles," said Domitia.
+
+He waited.
+
+"Strap and pintle," she said. "Not hinges. Hinges, he says." She put down her pen. "The straps are iron, and they run the width of each leaf, three to a leaf, and they're forged with an eye at the hinge end, and the eyes drop over iron pintles leaded into the stone of the jamb. I've oiled them myself, as a novice, every spring for four years. You stand on a ladder with a feather and a pot, and the leaf hangs over your head like the lid of a coffin, and if you drop the pot, Sister Agrippina makes you scrub the porch." She sniffed. "Bolted through. Nobody bolts a strap through the leaf on a door that size. You'd split it. They're clenched."
+
+"Clenched," said Gaius.
+
+"Nails, clenched over on the inside. Every hand's length. I'd have thought a builder knew that."
+
+"It's a big door, then."
+
+"It's two doors. Two leaves." She lifted her right arm off the table and laid it along the edge of it, from the elbow to the fingertips, the strong forearm bare where the sleeve was pushed back for writing. "That," she said, "and that again, and a bit, for the width of each leaf. And the height of the porch roof. Oak. Four fingers thick. Ledged on the inside, not braced."
+
+"May I?" he said.
+
+She considered him, and the boxwood rule he had taken out of his apron; and then, after a moment, she held her arm still.
+
+He laid the rule along it, from the point of the elbow to the tip of the longest finger. It was a strong arm, broad at the wrist, with an old white scar across the back of it and the skin brown to the elbow from the summer. He read the rule, and took it off, and put it away, and did not write anything down.
+
+"You've the wrong end of your rule," said Domitia.
+
+He had.
+
+"It's the same length either end," he said.
+
+"Then it doesn't matter, does it." She took her arm back and pulled her sleeve down over it. "Anything else, Engineer? Or can I finish my letter."
+
+"The bar."
+
+"The bar," she said, "is oak. It was meant to be iron. Some abbess a hundred years ago ordered an iron one from the smith on the Canal Steps and died before it was paid for, and they never got round to it. It drops into iron keepers, one on each leaf and one each side in the stone, and it takes two sisters to lift it, or Sister Agrippina, who is from the hills. It's lifted from the inside." She picked up her pen. "Of course it is. What use is a bar that lifts from both sides?"
+
+He said nothing.
+
+He had built one. It was on the door at the end of the shed, with a lifter through a slot in the leaf, and no lock. It stood on the latch now, with nobody behind it.
+
+"None," he said.
+
+She dipped her pen.
+
+"Good night, Engineer," said Domitia, and began to write again. "Mind you're not out after the bell."
+
+He went down the hall. At the door he turned once. She was bent over the page in the circle of the one lamp, her coif white as a sail; and the pen was not moving. Her eyes were on him.
+
+He went out.
+
+---
+
+He did not sleep on the slip that night.
+
+He lit the lamp in the shed, on the bench under the loft where the frames were stacked, and opened the book at the plate, and put Ennia's slate-dust out of the gutter of it with his finger, and set his rule beside it and a clean board, planed, and a stub of chalk; and he began to draw.
+
+He drew the jack first.
+
+Not Anaxis's jack. Anaxis's would do for a gate in a war, with men to spare and time to set it, and a frame like a stool that two men could carry. His would have to go in under a roof of shields in a street and be set and turned in the time it took the street to notice; it would have to lift a leaf four fingers thick a pintle's depth and a little more, and do it quietly, and break nothing. He drew the screw. He drew the frame round it and threw the frame away and drew it again, lower, and then again, with a shoe to take the bottom rail of the leaf and a bed to spread the weight on stone; and the lamp burned down in the shed, and the harbor was black outside the door. He trimmed the lamp, and sharpened the chalk on the edge of the bench.
+
+Then he drew the door. He had never seen it. He had no drawing of it but what a sister had put into the air over a table with her hands; but he had her arm, and the rule's length of it, and the height of a porch roof, and four fingers of oak; and he drew it, ledged and not braced, two leaves, with the straps across them and the pintles in the jamb, and a bar he would never see, lifted from inside. He drew it in a corner of the board, small, so he would know what he was lifting.

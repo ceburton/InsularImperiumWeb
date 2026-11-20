@@ -1,7 +1,7 @@
-// Deletes old audiobook versions from Bunny Storage: <prefix><hash>/ folders (v/ for Book One, book2/v/ for
-// Book Two) that the book's chapter list no longer uses and that are older than 30 days (podcast apps and cached
-// pages may still point at newer ones). `npm run audio:prune -- --dry-run` lists what would be deleted;
-// `-- --book 2` prunes one book.
+// Deletes old audiobook versions from Bunny Storage: <prefix><hash>/ folders (v/ for Book One, book2/v/ and
+// book3/v/ for Books Two and Three) that the book's chapter list no longer uses and that are older than 30 days
+// (podcast apps and cached pages may still point at newer ones). `npm run audio:prune -- --dry-run` lists what
+// would be deleted; `-- --book 3` prunes one book.
 import { readFile } from 'node:fs/promises';
 import { selectedBooks } from './books.mjs';
 import { list, remove } from './bunny-storage.mjs';

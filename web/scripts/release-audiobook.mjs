@@ -1,7 +1,7 @@
 // One command after editing the story: refreshes the reader's copy of each book (sync-story.mjs), lists the
-// chapters whose narration changed in either book, asks, re-renders them with the Kokoro generator, then uploads
+// chapters whose narration changed in any book, asks, re-renders them with the Kokoro generator, then uploads
 // them with publish-audiobook.mjs. It stops before git, so you can listen to a changed chapter before committing.
-// Run with `npm run audio:release` (`-- --yes` skips the question, `-- --book 2` works on Book Two only).
+// Run with `npm run audio:release` (`-- --yes` skips the question, `-- --book 3` works on Book Three only).
 // Rendering goes through the generator's wsl\render.ps1 when it exists (torch can't load on Windows with
 // Smart App Control on), otherwise through make_audiobook.py directly.
 import { execFileSync, spawnSync } from 'node:child_process';

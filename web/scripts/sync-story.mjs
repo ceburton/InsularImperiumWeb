@@ -1,7 +1,7 @@
 // Rebuilds the reader's copy of each book (public/stories/*.md) from the story-bible chapter files:
-// every chapters/ch*.md for Book One and chapters/book2/ch*.md for Book Two, in filename order, each cut at its
-// **NEW CANON CANDIDATES** notes, with a contents list. It is the same text as GridGeneral's
-// documentation/story/Insular-Imperium.md. Run with `npm run story:sync` (`-- --book 2` for one book;
+// every chapters/ch*.md for Book One, chapters/book2/ch*.md for Book Two and chapters/book3/ch*.md for Book Three,
+// in filename order, each cut at its **NEW CANON CANDIDATES** notes, with a contents list. It is the same text as
+// GridGeneral's documentation/story/Insular-Imperium.md. Run with `npm run story:sync` (`-- --book 3` for one book;
 // `-- --check` lists what would change and exits 1 if anything would).
 import { existsSync } from 'node:fs';
 import { readdir, readFile, writeFile } from 'node:fs/promises';

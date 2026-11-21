@@ -12,6 +12,7 @@
 6. [Chapter Six: Cast Out](#chapter-six-cast-out)
 7. [Chapter Seven: Royal Blood](#chapter-seven-royal-blood)
 8. [Chapter Eight: Twice](#chapter-eight-twice)
+9. [Chapter Nine: The Hand](#chapter-nine-the-hand)
 
 ---
 
@@ -5220,3 +5221,593 @@ The engineer did not look up. He said, "If that's the transports, I've done the 
 She unrolled the slip and held it out to him between two fingers, with the seven uppermost, until he looked up.
 
 "Engineer," she said. "What am I looking at?"
+
+---
+
+# Chapter Nine: The Hand
+
+**GAIUS**
+
+It was a seven.
+
+He saw that first, because it was the only thing on the slip a man could read, and because she was holding it so that he would. Then he saw the foot.
+
+The downstroke ran down straight, as any clerk's would, and where any clerk's would have stopped, this one turned up again, short and sharp: a hook at the bottom of the stroke, no longer than the width of the nib that made it.
+
+At Corvus, as a boy, he had learned his capitals off the lintels of the old houses, and his masons off the stones beneath them. Every man who dressed a stone for a wall in those days cut his mark into its bed before it was laid, a sign of his own, a cross with a tail or two strokes and a dot, so that the master could tell each man's stones at the week's end and pay him by them. The marks were in the walls still, turned inward against the rubble, where they would stay until the wall came down. Gaius had brought a few walls down. He could have told you which of those dead men had cut a true bed and which had skimped it, and he had never known one of their names.
+
+He knew this one's. He had paid it double once, out of the yard's box.
+
+On the slips at Cyrene, in the first autumn, he had stood at the forger's shoulder while Pen painted the enemy's ships on planed boards for the bolt-thrower crews to learn, with every hull's fault lettered under it; and every seven on the first two boards had worn this foot, the same on all of them to a hair. *It comes out when I'm not watching,* Pen had said, and drawn it in the air with the brush. On the third board and the fourth he had left it off. And this summer, on the harbor master's step, Gaius had stood by while one went down in the corner of a letter for two brothers to their mother, quick and neat, with the brothers arguing in whispers about what to put.
+
+It was a good seven.
+
+He did not take the slip from her. She was holding it to be read, not to be had, and he read it where it was: letters set as close as the strakes of a hull, and in the third row the figure.
+
+There was no call for a figure in a thing like that.
+
+At the table's corners the dwarves' three lanterns hung from their crooks and stank of mutton tallow. The fourth crook stood empty against the boughs, and its lantern lay on the end of the board below it, black with smoke, with Lyrielle's arrow still through the cage. Out on the turf, where the lantern had come down, the burned patch still gave off hot oil and scorched grass. The halls had gone down to their camp. Rufo stood a pace behind Sylara with his back to the table, facing the dark under the trees, and had not turned round.
+
+"Can anyone read it?" said Gaius.
+
+"Not I." Sylara was watching his face. "You know it."
+
+"I know the seven."
+
+"Whose?" said Rufo, without turning.
+
+Gaius's brows went up, as far as the new hair on them would let them go. He shut the ledger on the transports. He took his lenses off his nose, folded them and put them inside his shirt. He would not have the name said under the boughs, where the wood could hear a leaf turn over.
+
+"Where's the prince?"
+
+"At the fourth shed," said Sylara.
+
+He got up, with a hand on the board. Three days on the bench had set the knee, and it straightened a little at a time. He made his way along the end of the table, out from under its lanterns and past the nearest of the six trees, and Sylara walked beside him with the slip shut in her fist, and Rufo behind.
+
+The sheds stood in their row along the north edge under the last of the eaves, open at the front, giving back the day's heat out of their tarred roofs. The fourth was at the far end, toward the dwarves' fires on the shingle, and a lantern hung in its door.
+
+Valeria sat in the doorway on a full sack of barley, with the Farrier across her knees and the clerk's satchel shut under her arm. Behind her two of the Lanciarii stood over the three men on the floor: the groom with his bound wrists in his lap and his square face turned to the planks; the tall one who had poured the council's water, with the blood gone black on his cheek; and the clerk, who lifted his head at every footstep on the turf and let it drop again. From somewhere at the back Pacuvius was telling the dark that there was chaff in places a man did not have.
+
+Marcus stood by the door with Felix and the water jar a step behind him. He turned when they came out of the dark, and his eyes went to Gaius's face and stopped there.
+
+Sylara held out the slip. Marcus took it and turned it to the lantern.
+
+"Not here," said Gaius.
+
+Marcus walked a little way along the front of the sheds, out of the lantern's reach and the open door's, and stopped by the third shed's end-post with the slip in his hand. Gaius went after him. The others followed.
+
+"It's Pen's," he said.
+
+Out in the bay a block knocked twice against a mast and was still.
+
+The scar along Marcus's jaw pulled tight in the half-light, and he looked down at the seven for longer than it took to see it.
+
+"*A man reading by a lantern in the rain,*" he said, "*wants to know it's a seven, not wonder whose.* He said that to me at Bastion. At the map table, after the rest of you had gone. I asked him why his sevens had lost their feet." He turned the slip over, and back. "He told me why."
+
+"His bowl," said Sylara.
+
+Gaius turned his head.
+
+"At the trestle. At noon. The groom put his hand in and took nothing out, and the clerk took a nut and didn't crack it. The forger pushed the bowl along to him. I wrote it down."
+
+Rufo said nothing. He stood against the third shed's post with his arms at his sides, as still as the post.
+
+"Can you be wrong?" said Marcus.
+
+"About a beam," said Gaius. "Not about this."
+
+Marcus nodded, once. "I'll want somebody else to read it all the same. Not for me. For the tables." He held the slip to the little light there was. "Somebody who reads hands. Rusca. She read us Livia's at Cyrene off a single page, and told us the school."
+
+"It's the only figure on it," said Gaius. "In a thing like that, a figure's a count or an hour."
+
+"If it's an hour," said Rufo, "it's a boat."
+
+"After the bowl, the groom went down there," said Sylara. "With his jar. I heard him on the shingle behind the sheds, going toward the dwarves' camp."
+
+Below the sheds the shingle ran down into the dark to the water, and beyond the dwarves' camp, under the spit, the ore-boats lay drawn up above the tide-line in a row, black on the grey stones.
+
+"Then we'll see who keeps the hour," said Marcus. "Rufo. Men on the shingle, lying flat. Nobody stands up and nobody calls out."
+
+"And if it lands?"
+
+"Then we'll have a boat as well. If it doesn't, let it go home." He turned the slip over in his fingers, and then held it a little toward Sylara. "Will you lend me this? Till it's read."
+
+"Bring it back," said Sylara.
+
+"Not a word of the name tonight. Sylara, go to sleep. You've been on a roof since noon."
+
+"I'll sleep when it's come."
+
+"Then sleep on the roof," said Marcus.
+
+---
+
+Gaius went down with Marcus through the cohort's lines in the dark.
+
+The tents and the shelters of old sailcloth stood in their rows on the slope above the beach, and at the head of each row the fire had been banked to a red eye. A man coughed under a sail. Another had his boots outside his shelter, set side by side as if they were waiting for him. The slope gave way to shingle, loud under their feet however they trod, and the smell of the beach came up to meet them: weed rotting at the tide-line, wet stone, the tar of the boats. Out in the bay's mouth, small and low on the water, the *Good Year*'s riding light burned yellow and did not move.
+
+Alana's tent stood at the end of the last row, where the turf gave out, with a lamp lit inside it so that the whole canvas glowed. Rusca's was a little one pitched beside it, and it was dark. Felix stopped outside with the jar.
+
+Alana was awake. She sat at the camp table in her shift and an old cloak with the weather-book open in front of her and a pen in her left hand. Her right lay in her lap, curled, with the fingers moving a little on their own. She looked up when Marcus put the flap back, and then past him at Gaius, and whatever she had been going to say she did not say.
+
+"Will you wake Rusca?" said Marcus.
+
+She got up without a word and went out.
+
+When she came back the quaestor was with her. She had a blanket round her shoulders over the borrowed grey wool, and her copper braid hung down her back with no pin in it, and her feet were bare on the floor-cloth. She took in the two men, and stood where she had stopped, just inside the flap, and waited to be told what she had been brought for.
+
+Marcus held out the slip.
+
+"Will you read this hand for me?" he said. "Tell me what you see. Not what you think I want."
+
+She took it by its edges. She carried it to the lamp and held it at the lamp's height, a little away from her face, and read down it row by row. Her face did nothing. It hardly ever did.
+
+At the seven she stopped.
+
+Her other hand went to the linen in her cuff, and rested there.
+
+"I've seen this hand," she said.
+
+Marcus waited.
+
+"At Stoneheart. In the snow." She did not take her eyes from the slip. "It came in the *Docket*'s bag from the Spire, in a packet tied in the Spire's knot. *For the officer commanding at Stoneheart. Copies, from a friend at court, by way of the Spire: the enemy in his own words. To be read, and burned.* At the bottom of the packet there was a strip like this one, with a docket of its own. *An original. Taken from inside a hazelnut shell, in the pocket of a man who came over to the Navarchy's marines at Cyrene, on the thirtieth day of the prince's landing. Forwarded with the copies as a specimen of the friend's hand, should others come to the officer's notice.*"
+
+"Copies," said Marcus.
+
+"Of letters." She lifted her eyes from the slip then, to him. "Your men's. Written at Cyrene the night before you sailed west, to their women in the town and their mothers up the coast. A man to his mother about his feet. A man to his wife about a roof his brother wouldn't do right. A boy to a girl who'd danced with somebody else at the fires, and he didn't mind, at great length." Her low voice did not change at all. "Oppius to Fausta. *I will think of you the whole loaf.*"
+
+At the table Alana's lips moved, once, on nothing Gaius could hear.
+
+"And a board," said Rusca, "that somebody had kept on a hatch-cover. With the odds."
+
+"With the odds," said Alana.
+
+Rusca bent to the slip again. "On mine it was figures," she said. "A column. Every seven in it plain, a stroke and a bar, the kind a man makes who's been taught to leave himself out of his own hand. Every one but one. Halfway down, in the middle of a figure, a seven with a foot." She turned the slip a little to the lamp. "A weigh-house foot. My father puts it on his, on the quay at Lessa, so nobody can make a seven of his into a nine. He tried to teach it me at the beam, and I wouldn't have it; I wanted the Survey's." She was quiet a moment. "Somebody's father taught him that."
+
+"There's only the one figure on this," said Gaius.
+
+"Yes." She put out her hand without looking round. "Engineer. Your lenses."
+
+He gave them to her. They were too wide for her face, and she held them on her nose with one finger and bent to the slip at the lamp, so close that her breath stirred its edge.
+
+"He lifted the pen," she said.
+
+"He what?"
+
+"Here. Between the seven and its foot." She took the lenses off and gave them back to him with the slip, and held the lamp for him herself. "Look."
+
+He bent to the lamp until he felt its heat on his cheek, and looked. Under the glass the seven stood up as big as a nail-head, and at the bottom of its stroke, where the hook began, the ink lay heavier for the width of a hair, in a little bead, where a nib had come down for the second time onto ink that had already begun to dry.
+
+"On mine, the hand got there before the man could stop it," said Rusca. "You could see it go. This one he finished, and lifted off, and went back for."
+
+"Whose is it?" said Marcus.
+
+"The Survey called him the friend." She turned to Gaius, and waited.
+
+"Pen's," said Gaius.
+
+If it surprised her, it did not show. When she spoke again it was to Marcus.
+
+"The copies were in a copyist's hand," she said. "A Tharsian, paid by the page. But you could see the man under him who'd written the letters first. The men's sentences went one way and the letters went another. It was the same man under all of them." She held his eyes. "He writes your men's letters, Highness. I've watched him do it since Stoneheart. Under Oppius's sail, the afternoon before Bastion, he wrote them until his fingers were black."
+
+"And you didn't look at his sevens."
+
+"No."
+
+"Why not?"
+
+"There was a sum I didn't do."
+
+Alana had laid down her pen.
+
+"At Bastion," said Marcus.
+
+"At Bastion Livia said Fausta's first loaf, in the fog." Rusca's hand had gone to her cuff again. "I'd read it. I knew where she had it from. And I'd burned the copies in the Forge with the strip, so I had nothing to show you but my word, and my word was the Survey's." She was silent a moment. "At the map table I nearly told you. He was at the end of it with his pen up, to write down whatever I said."
+
+Gaius remembered it: the toll-house in the rain, the lamps and the wet cloaks and the men three deep in the doorway, the quaestor opening her mouth and shutting it again, and saying that the figures were the prince's; and at the end of the table, waiting with his pen lifted, Pen.
+
+"In the west tower at Cyrene," said Alana, "I asked you whether it was can't or won't."
+
+Rusca turned her head.
+
+"Won't," she said.
+
+The lamp hissed on its hook. Alana sat with her right hand in her lap and her left on the open weather-book, and kept her eyes on her friend's face, and Gaius could not have told anybody what was in her own.
+
+"*A friend at court,*" she said at last.
+
+"I took it to mean at court."
+
+"It did mean at court." Alana's mouth went thin. "It meant both."
+
+Marcus took the slip back from Gaius and rolled it, tight, round his finger.
+
+"Will you say it again?" he said to Rusca. "At the stone, before the council. The packet and the strip. And the sum."
+
+"If you ask me."
+
+"I'm asking."
+
+"Then yes, Highness." Something moved at the corner of her eyes and was gone. "Since you ask."
+
+Marcus went out to Felix. Gaius followed with his lenses in his hand; and as he stooped under the flap he saw Alana get up from the table and go round it toward the quaestor. He let the flap fall before he saw what she did when she got there.
+
+---
+
+He did not go to his blanket.
+
+There was nothing he could do at the seventh hour that Rufo's men could not do better lying flat on the stones, and he knew it; and he knew too that he would not sleep. So he went back up the slope, and along the turf in the grey of the elves' lamps, past the black patch, and round the far end of the fourth shed to the shingle behind it. Valeria had moved her sack out there for the night and set it against the planks of the back door, and was sitting on it with the Farrier across her knees.
+
+She moved along the sack.
+
+He sat. The sack was hard and lumpy and smelled of the threshing floor, and the shingle under his boots was wet with the dew already. Over their heads the shed's roof gave off the last of the day's tar into the cool. Beyond the fourth shed the dwarves' cook-fires had sunk to red, and somebody in their camp was snoring with great authority. Down at the edge of the water, among the dark humps of the ore-boats, Rufo's men lay on the stones, and he could not see one of them. Out in the bay's mouth the riding light burned.
+
+"He carried the bag," said Valeria.
+
+Gaius waited.
+
+"At Cyrene. Every time the *Patience* sailed. He'd be at my elbow at the foot of the plank with his hand out. *Save your legs, Captain.*" She had her drill voice down low, for the night. "Every report I wrote that first autumn went north in that bag."
+
+Her thumb went along the Farrier's haft in the dark, to the place her father's thumb had worn smooth, and stayed there.
+
+Behind the planks at their backs somebody shifted on the floor and was told to keep still. From the back of the shed Pacuvius said that if anyone wanted him he was in the barley. Somebody told him he was in the rope, and he said that was worse.
+
+"Will they hang him?" said Gaius.
+
+"Yes," said Valeria.
+
+The watch changed at the middle of the night. After that it was the seventh hour.
+
+He heard the boat before there was anything to see. Not the oars, which were muffled: the water running off the blades at the end of each stroke, a small wet sound at a long even space, and once the creak of a thwart as somebody shifted his weight on it. It was a ship's boat; he would have known that from the stroke alone. Fishermen rowed short and as it pleased them. These pulled long and together, as men pull who have somebody in the stern watching them do it.
+
+Valeria's hand closed on the Farrier.
+
+The boat came in out of the bay toward the shingle below them, and he saw it at last against the faint shine on the water: a long low shape darker than the dark, four oars and a man at the steering-oar. It stopped short of the stones. Somebody in it whistled, low, two notes falling.
+
+No answer came. Behind the planks at his back a man got up on his knees in the dark; Gaius heard the bowstring creak on his wrists, and a Lanciarius say something under his breath, and the man sit down again.
+
+The boat lay off and waited. The water clapped softly under its forefoot. The whistle came again, the same two notes.
+
+Then the oars dipped, and held water, and the boat turned in little more than its own length, neatly, and went away out into the bay toward the *Good Year*'s riding light, pulling long and together; and the small wet sound of the blades went with it until there was nothing left to hear but the sea on the shingle.
+
+Valeria let out her breath.
+
+"Seventh hour," she said.
+
+"Yes."
+
+"Whoever he is, he keeps his hours." She laid the Farrier back across her knees. "Go to sleep, Engineer."
+
+He did not. He sat on the barley with his back against the planks and the three men breathing behind them, and toward morning the old moon came up over the wood, so thin that it was more a mark on the sky than a light, and the sky round it began to go grey.
+
+---
+
+At first light the turf was grey with dew, and the cooks' fire was going on the shingle, and the smell of Oppius's bread came up between the sheds: barley and hot crust, with a little of the halls' tallow on the wind behind it.
+
+Pen was at the scribes' trestle under the eaves.
+
+He had not been to bed either. He was in the shirt he had worn yesterday, and the horn lantern at his elbow had burned down in the night and stood there blind, smelling of its drowned wick. His lap-desk was on the boards in front of him and his bowl of hazelnuts at his elbow, where it always was, and he was writing.
+
+Oppius stood across the trestle from him with his eye shut and his arms folded, floured to the elbow, and between them on the boards lay a loaf wrapped in a cloth, steaming.
+
+Gaius rounded the end of the sheds from the shingle with the night in his knee, and Marcus was coming up the turf from the lines with Felix behind him; they reached the end of the trestle together.
+
+Pen finished the word. He lifted the pen off the page, clean, as he did everything, and only then looked up: at Marcus, and at the slip in Marcus's hand, and at Gaius. His eyes were sharp and dark in the grey light, and kind, and tired out.
+
+"Highness," he said. "Master." He touched the page. "Might I finish this? It's for Oppius. He can't write."
+
+"I can write my name," said Oppius, without opening his eye.
+
+"He can write his name," Pen agreed.
+
+Marcus looked at the page, and at the baker, and at Pen.
+
+"Finish it," he said.
+
+Oppius went on. He had his eye shut, and he had heard nothing that needed stopping for.
+
+"The bread's bad here," he said. "Put that. The dwarves cook in mutton fat and it gets in everything, and the elves don't eat at all that I can see. The prince is well. He eats what I give him."
+
+Pen wrote. The pen went along the line without hurry, every letter the height of the one before it, and began the next without a blot.
+
+"*The bread here is bad,*" Pen read back, in his drawling herald's voice. "*The halls cook in mutton fat, and it is in everything, even the air. The elves eat nothing that I have seen, which I take as a judgment. The prince is well, and eats what I give him.*"
+
+"I never said a judgment."
+
+"You thought it."
+
+Oppius considered that, and let it stand. "Tell her the starter's alive. Tell her I've kept it in the crock in my shirt since Cyrene, and it's alive."
+
+Pen wrote that. Then, without being told anything, he wrote another line under it, and read it out with the rest.
+
+"*The clerk who writes this sends you his duty, and begs your pardon for the hand.*"
+
+Oppius opened his eye.
+
+"What's wrong with the hand?"
+
+"Nothing," said Pen. "It's a thing clerks put."
+
+"Then strike it. She'll think you've hurt yourself."
+
+Pen struck it, with one level stroke from end to end.
+
+Then he wrote it all out again fair on a clean sheet, all but the struck line, and sanded it, and folded it; and on the back, small and neat, he wrote the direction. *To Fausta, at the bakehouse at the foot of Rope Street, in Cyrene.*
+
+Oppius took it carefully in his floury fingers. He pushed the loaf across the boards with the back of his other hand.
+
+"For the writing."
+
+"It's too much."
+
+"It's yesterday's flour," said Oppius, and went away down the turf toward the shingle and the hull that was going east that morning for barley, with the letter held out in front of him, clear of his apron.
+
+Pen took up the first draft, the one with the struck line in it, and folded it once. He did not put it into his scrip with the others. He held it out across the trestle to Gaius.
+
+"You'll want that with the rest, master."
+
+Gaius took it.
+
+Pen looked at his bowl. Then he set two fingers on its rim and pushed it along the boards toward Gaius, as he had pushed it to everyone who had ever come to his trestle; and stopped it halfway, and drew it back.
+
+He laid his pen along the top of the quire, and stood up off the bench, straight, without his weight on one hip.
+
+"Where would you like me, Highness?"
+
+---
+
+The third shed smelled of barley and dust and warm tar. The sacks rose to the roof at the back in a stepped wall, and the floor was gritty with chaff where Pacuvius had lain among them as one of them, and the plank door at the back was shut. The light fell in at the open front off the turf, grey going to gold.
+
+Pen sat down on a sack because Marcus asked him to. Marcus stayed standing. Felix stood in the open front with the jar, and Gaius took the end-post, and after a little Rufo was at the front beside Felix, filling most of it. The quaestor came up from the lines without being sent for, in her grey, with her braid pinned up again, and stopped inside the front by the other post, and Marcus let her stay.
+
+Pen turned his head to her.
+
+"Quaestor."
+
+"Clerk," said Rusca.
+
+The long grin came and went.
+
+"Tell me," said Marcus.
+
+"From the beginning, Highness? It's not a long story. It only took a long time." Pen studied his hands, the long white fingers with yesterday's ink still in the creases. "The Warden came down to the cells himself, the week before the *Clemency*. He never did that. Small neat man, fur at his collar, a face for selling cheese. He said there was a gentleman who'd like letters from the prince's cohort, if the prince was to have a cohort, and who'd pay my father's quarter for as long as they came."
+
+"Your father."
+
+"He's on the debtors' side. By the Harbor Gate." Pen turned one hand over. "Nine years, this harvest."
+
+"For what?"
+
+"His beam was short." The grin came back and did not stay. "He kept a chandler's book on the Silk Row, Highness, and a beam on the quay for the tallow and the cordage, and one winter the assay said it weighed two pounds short in the hundredweight. They fined him for every hundredweight he'd ever sold across it, by their reckoning, which was thorough. He hadn't got it."
+
+"It will have been the knife-edge," said Rusca from her post. "The steel the beam rocks on. If it's soft it wears, and a beam that's weighed true all its life goes short in a winter, and no man can see it with his eye."
+
+Pen regarded her.
+
+"Is that so, madam."
+
+"My father weighs on the quay at Lessa."
+
+"Then you'll know," said Pen. "They weighed everything that went across it for as long as he had it. Nobody ever weighed the beam."
+
+Marcus let that lie. "And the gentleman."
+
+"The first quarter-day, the receipt for my father's keep came down to me in the cells, with a slip pinned to it. One line." Pen looked across at Gaius. "You'd have liked the hand, master. I never saw a better. *For the king's comfort, to know how his son's men do.* No name to it. It didn't want one. Half the letters that came down to the harbor prison from the palace were drafted in that hand."
+
+"Damien," said Marcus.
+
+"He never signed it, Highness. He hadn't the need."
+
+"And you believed it. The king's comfort."
+
+"I chose to." Pen turned his other hand over, so that both lay open on his knees. "It isn't hard, at a quarter-day. You'd be surprised what a man can believe with his father on the debtors' side."
+
+"What went?"
+
+"The men's letters. A copy of each, in a letter to my mother." He said it lightly, and the lightness did not last to the end of it. "My mother's house is by the Harbor Gate. The Warden's man has the key."
+
+"Your mother," said Rufo, from the front of the shed.
+
+"Dead, Rufo. The second winter they had my father." He held Rufo's eyes. "She worried."
+
+Rufo's hand went to his belt, to the tally-stick Pen had cut him at Cyrene with a mark under every notch for a dead man's joke.
+
+"That never went in the bag," said Pen. "Nor the jokes. Those were mine."
+
+"When did you know?" said Marcus.
+
+"At Bastion. In the fog. *The first loaf out of Fausta's oven. Not for the fort, for you.*" He looked down at the chaff between his boots. "I wrote that loaf, Highness. I wrote it twice: once for Oppius, and once for the bag. I knew where she'd had it from. I'd known what the king's comfort was all along, I expect, and chosen not to, and in the fog I couldn't choose it any more."
+
+"And after?"
+
+"After, I wrote nothing for him. The summer quarter didn't come." He lifted one shoulder. "I didn't tell you. There was no way of telling you that didn't tell you everything."
+
+Marcus held up the slip, rolled, between two fingers.
+
+"He came to the council," said Pen. "I saw him come up from the boat with his eight, and I cut a quill to nothing."
+
+Gaius had been at the trestle. He had told him it was a good quill.
+
+"The second morning his clerk gave me a quire to rule, and inside it there was a half-sheet in the clerk's hand, with the words to go in a nut. And a line under them." He did not look at the slip. "*The harvest quarter will be paid.*"
+
+"Say the words."
+
+Pen said them, low, in the herald's voice, as if he were reading them back to a man who had dictated them:
+
+"*The fourth roof, at the lamps. At the near tree. Then down behind the sheds to the shingle, by the dwarves' boats, and the clerk and the cupbearer will come to you there. A boat at the seventh hour of the night. Give it this, sealed, and it takes you off.*"
+
+"It came," said Marcus. "The boat. At the seventh hour."
+
+"It would. He'd have paid it to." Pen was quiet. "That's all of it. The line under them was for me."
+
+Gaius had read the same hour on the post at Bastion, by a lantern in the rain: *The army stands to at the seventh hour of the night.* The seven in that one had stood on nothing.
+
+"The seven," he said.
+
+Pen turned to him, and for a moment it was the slips at Cyrene again: the boards laid out to dry on the bench, and the man with the brush held up clean, turning his head.
+
+"You'll remember what I told you about my sevens, master. On the slips."
+
+"It comes out when you're not watching."
+
+"I was watching," said Pen.
+
+Gaius's brows went up, and stayed up.
+
+"I could have spelled it," said Pen. "*Seventh.* There's no foot on a word. He'd paid for the letter, and he had it, every word as he asked. He never said anything about a seven."
+
+"Why not come to me?" said Marcus.
+
+"Because then I'd have told you, Highness, and he'd have known that I had. And my father would go down to the common side, which is under the waterline, and he's seventy." Pen smiled a little. "This way it was only my hand that told. My father put that foot on his sevens so nobody could make them into anything else."
+
+The light had come up gold along the turf outside. Somewhere under the boughs the elves had begun the thin high thing they sang at sunrise, and in the halls' camp a hammer was going.
+
+"Whoever found it," said Pen, "it would come to you in the end, master. You're the only man who ever looked at my sevens."
+
+Gaius held on to the end-post.
+
+"I've written other men's hands since I was ten," said Pen. "Bishops. Magistrates. A dead admiral, for his widow. Every word I ever wrote was somebody else's, till the cohort. The men's letters said what the men meant, and I put down every word of it. It's the only honest work I've ever done." He looked up at Marcus. "And I sold it by the quarter."
+
+"Where are they?" said Marcus. "Your copies."
+
+"In my kit, Highness. Under the shirts. Every letter I ever wrote for the cohort." A pause. "A man ought to keep a copy of anything that matters."
+
+Marcus held his eyes a moment more. Then he said, "Felix."
+
+Felix stepped in from the front with the jar and filled the horn cup that hung from its neck, and held it out. Pen took it in both hands and drank all of it.
+
+"Thank you, Felix."
+
+"Strictly," said Felix, "it's the prince's."
+
+---
+
+Marcus asked the council for a day.
+
+Gaius saw him ask it from the turf's edge at the head of the slope, on his way down to the lines, with the sun just clear of the wood and the dew going off the grass in a thin smoke. He was too far off to hear a word. He saw the peoples at their tables: the elves standing at the south end, as they always stood; the clans in their row on the bench; the halls on their feet at the north table. And in the middle of them Marcus at the bare stone, talking low, with nobody beside him. Under the eaves the scribes' trestle stood empty. Pen's bowl was on it still, where he had drawn it back.
+
+When Marcus stopped, the eldest of the elves bent his head. At the north table Kolbrand sat down, and the halls sat down round him.
+
+Gaius went on down into the lines.
+
+Damien's tent stood in the middle of them, a good tent of oiled linen with its door-flap tied back for the air. Two of the Lanciarii stood at the door with their lanceae grounded, as if they had been lent him for the honour of it. On a bench in front of it sat what was left of his household in their dark good wool, with their hands in their laps and nothing to carry. The boy who served the boards watched Gaius all the way past.
+
+Pen's place was at the end of a row near the cooks' fire: a square of old sailcloth over an oar on two crutches, pegged out taut at the corners, with its ridge as true as a keel. His blanket lay folded square at the head of it, and a clean shirt folded on the blanket. Gaius knelt on his good knee in the wet grass, with the bad leg out straight behind him, and drew the kit out into the light.
+
+He took the case first, because he knew it: the little wooden case like a doctor's that Pen had brought down to the slips at Cyrene under his arm. Brushes, in a roll. Pens. A knife. The pots with their wax stoppers. The ruler of black wood with no marks on it, which ruled a line straight and measured nothing.
+
+The lid was lined with green baize, and the baize crackled under his thumb.
+
+He worked it loose at one corner with Pen's knife. Behind it, laid flat, were the receipts: each in a prison clerk's hand, with the Warden's seal in a blob of brown wax, *Received, for the keep of*, and a name, and a quarter-day. He turned each one face down before his eye could get to the name, and went through them so, by their seals, to the oldest. Pinned to that one was a slip with one line on it.
+
+*For the king's comfort, to know how his son's men do.*
+
+It was a better hand than Pen's. He would not have said there was one. Every letter in it leaned a little toward the next, as if it wanted to be liked.
+
+The newest paper lay on top of the receipts: a half-sheet of the council's good paper, folded once. On it, in a clerk's quick plain hand, were the words Pen had said in the shed, the fourth roof and the near tree and the boat; and under them, in the hand of the slip, one line more.
+
+The kit-bag lay under the case, of tarred sailcloth with a drawstring. In its mouth, rolled in a shirt, were a little wax tablet in a wooden frame, much worn, and a linen bag tied at the neck. The wax had Rufo's stick on it, notch for notch: a long row of upright strokes, with a mark cut under nearly every one, a hook, a ring, a slash. The last strokes in the row were new, and had their marks as well. The bag held a few hazelnuts, last year's, from this wood. Gaius tipped them into his palm and turned each one to the light, for wax in the seam. There was none. He put them back and tied the bag.
+
+The letters were under the shirts, where Pen had said.
+
+They were tied in bundles with tape, and each bundle was docketed on the outside in the plain upright clerk's hand that had written the order at Bastion. *The Patience, the first autumn.* *Midwinter.* *The night before the west.* *Stoneheart.* *Under Oppius's sail.* *Bastion.* *The step.* *Silverwood.* Every letter in them was a first draft, in the long fine hand.
+
+He carried it all up the slope to the north table, and sat down in his place on the bench, and laid it out.
+
+It took him from the first hour to the ninth. He sorted them by the date and then by the man; and halfway through the first bundle he saw the tick.
+
+It was small, in the top corner of the sheet: the mark a clerk makes against a line he has entered. Not every letter had one. A copy of Fingers's board had it, odds and all. He searched the bundles after that for the ticks alone. They ran on through the winter and the spring, through *Stoneheart* and *Under Oppius's sail* and into *Bastion*, and stopped. After Bastion there was not one. The letters went on, the same hand and the same men, and the corner of every sheet was clean.
+
+In the bundle docketed *The night before the west* were the letters Rusca had said by heart in the tent, the feet and the roof and the boy and his girl, each with its tick; and near the top, ticked like the rest, Oppius's: *I think of you at the oven, with the light of it on your face,* and then *the way the morning—* under its level stroke; and lower down, unstruck, *Your bread is the best in the isles.*
+
+He had been there. He had stood at the end of the trestle in the old mess with his plate in his hand and watched the stroke go through the morning, and been asked whether he had no one to write to. And at the last of the lamplight he had watched from *Constancy*'s stern while Pen, at the *Patience*'s plank, handed the mail sack up to Avitus with both hands, the letters in it sealed and fair. The *Patience* had gone north on the ebb that took the fleet west. Three weeks after, the Navarchy's ships had come out of the Grey in the night, into a town with its army gone.
+
+He did the sum without his slate.
+
+Arruns and Velthur had held the slip gate under the Navarch's window, each covering the other. Marcus had read it out on the gate platform at Stoneheart, in the wind, in Tuccius's plain words and a child's big letters, and Gaius had stood behind him and heard the two names go by. Afterward Pen had read the letter over again to the men who could not read. Slow. As many times as they liked.
+
+His box was under the bench where it always stood, with his rule in it and his tools. His hand went down into it and found the plane among the rest by feel, and closed on it: the beech of the stock worn to the shape of another man's palm, the iron set fine. He did not take it out.
+
+At noon the queen of the halls came along the bench with a board and set it down at his elbow, clear of the paper: black bread, an onion, and a slab of the halls' smoked mutton, black outside and pink in the cut, smelling of the smoke-house and of its own fat. Down the table Brokk had his hat back on his head, and the crook at the corner stood bare.
+
+Dagny considered the paper. Her palm was bound in clean linen where the lantern's ring had burned it.
+
+"Your men's?" she said.
+
+"Their letters home. Every one he wrote for them."
+
+She pushed her sleeves up to the elbow. Then she sat down across the board from him and drew the nearest bundle to her, and began to tie it again with tarred twine off the hank at her belt, tight, in the halls' knot; and the little brass steelyard on her belt knocked against the edge of the board as she worked.
+
+"In the halls," she said, "we'd keep that at the back of the book."
+
+"Why?"
+
+"It's owed." She bit the twine off. "Eat your mutton."
+
+He ate it.
+
+By the ninth hour it was done. The bundles stood on the board in their order, tied, the oldest at the bottom. He stood his hand on its edge against the stack to measure it, as he would have against a timber. It was a hand high.
+
+---
+
+At dusk Marcus came along the north table, and stopped by the stack.
+
+"Will you come with me?" he said. "I'm going to see my cousin."
+
+Gaius took the stack up under his arm, and they went down through the lines in the last of the light, with Felix behind them carrying the jar. The sun had gone down into the sea beyond the bay's mouth, and out on the water the *Good Year*'s riding light was lit. The cohort's fires were being built up at the heads of the rows, and the cooks had the mutton on. At Damien's door the two Lanciarii stood aside for Marcus. The household got up off its bench all together, as servants stand for their master's guests, and the boy took the flap and held it back. Felix stopped in the door with the jar.
+
+Damien had poured already.
+
+The tent was high enough for a tall man to stand upright under the ridge, with a floor-cloth over the grass and a camp table and two stools. It held the day's warmth, and smelled of orris-root and cloves. A lamp was lit on the table beside the black calfskin case, which lay open with the bone folder across its lid; and there were two silver cups, filled, and a jug of the Vessan red with cloves in it. Damien had shaved. He stood up as they entered, bareheaded, in the dark cloak he had worn to the stone, and smiled at his cousin as if Marcus had come to supper.
+
+"Cousin," said Damien. "Engineer."
+
+He took up a cup and held it out. Marcus did not take it. Damien held it out a moment longer, and then set it down at the edge of the table in front of Marcus without spilling a drop, and took up the other.
+
+"Last drink between the blood and the boots," he said, and drank it off.
+
+Marcus took the slip out of his shirt and laid it on the table between the cups.
+
+It had been rolled so long that it curled. Damien turned it to the lamp with one finger. Then he took up the bone folder, and drew it down the slip from end to end, slowly, until it lay flat; and he bent over the seven.
+
+Then his eyes moved to the stack under Gaius's arm.
+
+"He kept them," said Damien. "Of course he did. He kept everything. It was the first thing I liked about him." He turned his head. "And you'll be the man who reads sevens. Was it a good one?"
+
+"Yes," said Gaius.
+
+"It would be. He was the best hand I ever paid for. *For the king's comfort.* Is that what he told you? It was true, as far as it went. Your father never read a line of it, cousin." He turned his cup a little on the board by its foot. "I read every one."
+
+The twine round the stack cut into Gaius's fingers where he held it.
+
+The scar along Marcus's jaw drew tight.
+
+"What was your price?" said Marcus.
+
+"Now you ask." Damien smiled. "You were *nobody*, Marcus. The spare, sent to the First in a pair of boots, a name on a muster roll. I was the one they kept. They taught me seating charts while my uncle's soldiers learned kingdoms, and I learned them, every one; the best dinners in the isles were mine, and nothing happened at any of them. Then the world ends, and what does the great alliance do?" He lifted the empty cup a little, toward the door and the lines and the turf above them. "It rallies to a *sergeant*."
+
+"Lucan," said Marcus.
+
+"He negotiated. He is the only man since the war began who looked at the last Vael and asked my price instead of assuming my answer."
+
+"And what was it?"
+
+"Does it matter?" said Damien. "He asked."
+
+The lamp's flame leaned in the draught from the door, and stood up again.
+
+"You'll hang your clerk," said Damien. "You'll have to; it's your council, and a council wants somebody. Hang my groom with him, for the lantern." He set the cup down by its fellow. "But this is four tables under some trees, cousin. It can't try the king's blood. Only the king can do that, and the king has never in his life hanged his own."
+
+Marcus did not answer him. He took the slip off the table and rolled it, and put it back inside his shirt.
+
+"Felix will bring you paper," he said, "if you want to write tonight."
+
+Damien raised his eyes to him across the lamp, across the two cups: his own, empty, and the other, full to the brim.
+
+"To whom?" he said.
+
+Outside, the dusk had come down blue over the lines. The fires were going at the heads of the rows, and the smell of the mutton came along the slope in the smoke, with the barley under it; and up the slope toward the turf the crickets had begun. Marcus walked a little way off, as far as the nearest fire, and stopped there with his back to the tent.
+
+Gaius gave him the letters.
+
+On the top was the first draft of Oppius's letter, with the clerk's line at its foot struck through: *The clerk who writes this sends you his duty, and begs your pardon for the hand.*

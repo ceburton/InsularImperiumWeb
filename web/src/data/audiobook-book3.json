@@ -6,8 +6,8 @@
       "title": "Chapter One: The Hours After",
       "duration": 2767,
       "bytes": 22226021,
-      "sha256": "367b81ed162bfbadb43b0812287462005ed7032fa279e0728633d1d955f88805",
-      "url": "https://audio.insularimperium.com/book3/v/367b81ed/ch01-the-hours-after.mp3",
+      "sha256": "0b2b13e046065594139eb2329cb1ce34c61c612648a788ab20f96544669cffb8",
+      "url": "https://audio.insularimperium.com/book3/v/0b2b13e0/ch01-the-hours-after.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -22,8 +22,8 @@
       "title": "Chapter Two: Sister Domitia",
       "duration": 3690,
       "bytes": 29605732,
-      "sha256": "fe2941bf4f7a1a347d21b5c5c7b89fec0573217f7fcefda00065a3d458abddc6",
-      "url": "https://audio.insularimperium.com/book3/v/fe2941bf/ch02-sister-domitia.mp3",
+      "sha256": "599aff35e8dc16ab4b46684c5573a5b0ce8762be0d8413c8c1885336b7a6e55a",
+      "url": "https://audio.insularimperium.com/book3/v/599aff35/ch02-sister-domitia.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -38,8 +38,8 @@
       "title": "Chapter Three: A Vow Is a House",
       "duration": 3456,
       "bytes": 27738920,
-      "sha256": "9f49e417eb60513090c3962a74e04d296483dd9fdc105e85524a9a7ceeaa2339",
-      "url": "https://audio.insularimperium.com/book3/v/9f49e417/ch03-a-vow-is-a-house.mp3",
+      "sha256": "df536db01e374f59f9fdbd22e10c354b884747033e38d6d08868404765b11421",
+      "url": "https://audio.insularimperium.com/book3/v/df536db0/ch03-a-vow-is-a-house.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -54,8 +54,8 @@
       "title": "Chapter Four: The Third Volume",
       "duration": 3591,
       "bytes": 28820455,
-      "sha256": "5ac2fb1237178c4e4857093b1e7ab8b5365c46d5a091a86e208f3f878ad9fb2e",
-      "url": "https://audio.insularimperium.com/book3/v/5ac2fb12/ch04-the-third-volume.mp3",
+      "sha256": "fe8b24c344de45e5d12a06edaf21ef448dd67ad4885962a6ad3383aaf4f39650",
+      "url": "https://audio.insularimperium.com/book3/v/fe8b24c3/ch04-the-third-volume.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -70,8 +70,8 @@
       "title": "Chapter Five: The King Laughs",
       "duration": 3494,
       "bytes": 28042470,
-      "sha256": "fed5d098632e7505cd9f80c5691b367272d65eca845da09ed532731467088975",
-      "url": "https://audio.insularimperium.com/book3/v/fed5d098/ch05-the-king-laughs.mp3",
+      "sha256": "a08617e697fa297d5fca596e6c6f0406ebe432b8b8db190e4433996def03fad8",
+      "url": "https://audio.insularimperium.com/book3/v/a08617e6/ch05-the-king-laughs.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -86,8 +86,8 @@
       "title": "Chapter Six: Cast Out",
       "duration": 2826,
       "bytes": 22693918,
-      "sha256": "cd8ec3e9076835406e920f73f2a72d4da82ac8b61a0e60b40e1aa736a7b25792",
-      "url": "https://audio.insularimperium.com/book3/v/cd8ec3e9/ch06-cast-out.mp3",
+      "sha256": "7644447435434bdddbf2fe13824f714c47c27699ae6f9bf74dbb34e1b78ac0bc",
+      "url": "https://audio.insularimperium.com/book3/v/76444474/ch06-cast-out.mp3",
       "firstPublished": "2026-11-21",
       "pov": [
         [
@@ -106,8 +106,8 @@
       "title": "Chapter Seven: Royal Blood",
       "duration": 3151,
       "bytes": 25300131,
-      "sha256": "4b7588df00fe8106861aaa9828706ac2a3fbde64a9f1611cff6581033baa5e00",
-      "url": "https://audio.insularimperium.com/book3/v/4b7588df/ch07-royal-blood.mp3",
+      "sha256": "d8fd2c9020129155cc50b1fd361be7f1eb73e1c58c762bc12d61c1d58f7dcf33",
+      "url": "https://audio.insularimperium.com/book3/v/d8fd2c90/ch07-royal-blood.mp3",
       "firstPublished": "2026-11-21",
       "pov": [
         [
@@ -126,13 +126,29 @@
       "title": "Chapter Eight: Twice",
       "duration": 3353,
       "bytes": 26911581,
-      "sha256": "d6f5b5856d8b727577107266cbbbf2cffb3d8af268a7dbd34cf99ecb230c3d3f",
-      "url": "https://audio.insularimperium.com/book3/v/d6f5b585/ch08-twice.mp3",
+      "sha256": "bed7b09ff3c712222245b497af36176dc8b73c1e6081afdf85a5d1cc0d991891",
+      "url": "https://audio.insularimperium.com/book3/v/bed7b09f/ch08-twice.mp3",
       "firstPublished": "2026-11-21",
       "pov": [
         [
           5.4,
           "Sylara"
+        ]
+      ]
+    },
+    {
+      "track": 9,
+      "slug": "ch09-the-hand",
+      "title": "Chapter Nine: The Hand",
+      "duration": 2739,
+      "bytes": 22004639,
+      "sha256": "4464e4041b2ce4d52c3b8f05c3a44be7fd8d74ef23a61db164278165fbe3e739",
+      "url": "https://audio.insularimperium.com/book3/v/4464e404/ch09-the-hand.mp3",
+      "firstPublished": "2026-11-21",
+      "pov": [
+        [
+          5.7,
+          "Gaius"
         ]
       ]
     }

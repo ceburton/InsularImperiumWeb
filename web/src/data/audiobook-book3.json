@@ -52,10 +52,10 @@
       "track": 4,
       "slug": "ch04-the-third-volume",
       "title": "Chapter Four: The Third Volume",
-      "duration": 3722,
-      "bytes": 29862247,
-      "sha256": "350b1809f40fa815fb9ca99d99e42c712fef5e96acc6e6419bd553678eb7e710",
-      "url": "https://audio.insularimperium.com/book3/v/350b1809/ch04-the-third-volume.mp3",
+      "duration": 3591,
+      "bytes": 28820455,
+      "sha256": "5ac2fb1237178c4e4857093b1e7ab8b5365c46d5a091a86e208f3f878ad9fb2e",
+      "url": "https://audio.insularimperium.com/book3/v/5ac2fb12/ch04-the-third-volume.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
@@ -68,15 +68,71 @@
       "track": 5,
       "slug": "ch05-the-king-laughs",
       "title": "Chapter Five: The King Laughs",
-      "duration": 3521,
-      "bytes": 28255974,
-      "sha256": "35c8fdd334806ebeeb490f2040288ba95a2b434e1fb725acb492a3864fa11adc",
-      "url": "https://audio.insularimperium.com/book3/v/35c8fdd3/ch05-the-king-laughs.mp3",
+      "duration": 3494,
+      "bytes": 28042470,
+      "sha256": "fed5d098632e7505cd9f80c5691b367272d65eca845da09ed532731467088975",
+      "url": "https://audio.insularimperium.com/book3/v/fed5d098/ch05-the-king-laughs.mp3",
       "firstPublished": "2026-11-20",
       "pov": [
         [
           6.1,
           "Marcus"
+        ]
+      ]
+    },
+    {
+      "track": 6,
+      "slug": "ch06-cast-out",
+      "title": "Chapter Six: Cast Out",
+      "duration": 2826,
+      "bytes": 22693918,
+      "sha256": "cd8ec3e9076835406e920f73f2a72d4da82ac8b61a0e60b40e1aa736a7b25792",
+      "url": "https://audio.insularimperium.com/book3/v/cd8ec3e9/ch06-cast-out.mp3",
+      "firstPublished": "2026-11-21",
+      "pov": [
+        [
+          5.8,
+          "Gaius"
+        ],
+        [
+          1697,
+          "Marcus"
+        ]
+      ]
+    },
+    {
+      "track": 7,
+      "slug": "ch07-royal-blood",
+      "title": "Chapter Seven: Royal Blood",
+      "duration": 3151,
+      "bytes": 25300131,
+      "sha256": "4b7588df00fe8106861aaa9828706ac2a3fbde64a9f1611cff6581033baa5e00",
+      "url": "https://audio.insularimperium.com/book3/v/4b7588df/ch07-royal-blood.mp3",
+      "firstPublished": "2026-11-21",
+      "pov": [
+        [
+          5.9,
+          "Damien"
+        ],
+        [
+          577,
+          "Marcus"
+        ]
+      ]
+    },
+    {
+      "track": 8,
+      "slug": "ch08-twice",
+      "title": "Chapter Eight: Twice",
+      "duration": 3353,
+      "bytes": 26911581,
+      "sha256": "d6f5b5856d8b727577107266cbbbf2cffb3d8af268a7dbd34cf99ecb230c3d3f",
+      "url": "https://audio.insularimperium.com/book3/v/d6f5b585/ch08-twice.mp3",
+      "firstPublished": "2026-11-21",
+      "pov": [
+        [
+          5.4,
+          "Sylara"
         ]
       ]
     }

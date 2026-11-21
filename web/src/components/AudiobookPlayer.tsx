@@ -35,8 +35,9 @@ function clock(seconds: number) {
   return h ? `${h}:${String(m).padStart(2, '0')}:${sec}` : `${m}:${sec}`;
 }
 
+// Round to whole minutes first, then split, so 59:51 reads "1 h 0 min" and 1:59:45 "2 h 0 min", never "60 min".
 function runtime(seconds: number) {
-  const h = Math.floor(seconds / 3600), m = Math.round((seconds % 3600) / 60);
+  const total = Math.round(seconds / 60), h = Math.floor(total / 60), m = total % 60;
   return h ? `${h} h ${m} min` : `${m} min`;
 }
 

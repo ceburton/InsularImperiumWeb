@@ -14,6 +14,7 @@
 8. [Chapter Eight: Twice](#chapter-eight-twice)
 9. [Chapter Nine: The Hand](#chapter-nine-the-hand)
 10. [Chapter Ten: The Rope](#chapter-ten-the-rope)
+11. [Chapter Eleven: Eat](#chapter-eleven-eat)
 
 ---
 
@@ -6478,3 +6479,593 @@ Marcus stood by the helm with Nerva. Nerva's eyes went aft to the man at the til
 The case lay inside his shirt, where Sylara's slip had been: the wax-cloth, flat, and inside it the sheet in his own hand, with the names under it, and the dolphin in the wax. It had been cold from the jar when Felix gave it him at the boat.
 
 By the time they cleared the bay's mouth it was as warm as he was.
+
+---
+
+# Chapter Eleven: Eat
+
+**AURELIAN**
+
+He had named her, so he knew her a long way off.
+
+*Constancy* came round the end of the mole on the last of the light, under oars, with her sail furled on the yard and no lantern lit. The king watched her from his window all the way in. He counted her oars, one side and then the other, because he counted everything, and because she pulled them well: every blade going in together without a splash, and coming out together, wet and red with the last of the sun. She passed the moored galleys and the long quay and the mouth of the Lower Canal, losing way, and turned in under the Old Hill along the old berths, where the slipways went up into the shadow behind their bollards and their rings.
+
+The *Answer* lay in the first berth, as she had lain since the autumn the thief brought her in, long and low and black, with her lantern lit at the taffrail. *Constancy* went in beside her, into the second.
+
+It had been the old *Constancy*'s berth, until the fleet sailed. He had given the name to a hull at Cyrene in his own hand, at the foot of a clerk's list of stores, with no clear idea of what she would look like until she came in under his window in high summer. And there she was again, nosing in between the old stones with her oars coming in two at a time, and a man in her bows with a line coiled in his fist, ready to jump. Aulus Nerva stood aft by the steering oar.
+
+The city lay below the window in the harvest dusk. All day the barley carts had come in through the land gate and up the hill roads, and the dust of them hung over the roofs, gold where the light still caught it. On the tomb terraces under the palace wall the last roses had gone brown on the old stones. The smell of the quay braziers came up the hill, herring and charcoal and tar.
+
+Men were ashore before her lines were fast.
+
+He knew the Lanciarii by their spears, which stood up over their heads in a thin grey thicket, and by the way they made their square on the stones without anybody calling it. In the middle of the square, between the spears, a man in a dark cloak stopped at the foot of the plank to gather the hem of it up off the wet stones in one hand, and then walked on.
+
+The king knew the walk before he knew anything else. It was quick, but not too quick. It had never in its life been seen to hurry, and it had never once been late.
+
+He stood at the window until the spears had gone up into the town, and after that, with one hand on the sill, where the stone still held the heat of the day.
+
+Once before, a man had been brought off a ship for him to judge. They had taken Nerva off his own deck on the long quay on the day his son was carried home asleep in a hold, and sent the warrant up the hill. He had signed it at this table that same night, alone, in anger, with his name driven into the paper so hard that the nib split. It was the only warrant he had ever set his hand to. He had been wrong in every word of it.
+
+There was a young moon over the moles. The lamps were lit along the quay and on the *Answer*'s deck and in the windows of the town. Then he heard his son on the stair.
+
+Marcus took it fast. He had taken it fast since the winter, every step of it, like a thing to be got behind him; and after his feet, at every other step, came a knock of iron on stone, which was the butt-spike of a spear carried by somebody who had not left it with the porters.
+
+The steward brought them in with his lamp.
+
+His son was brown from a week of sea, with the salt dried white along the seams of his coat, and he had not stopped to change it. Behind him came the captain, with the long spear upright in one fist and a leather satchel under her other arm, and the scar down her face from the eye to the jaw. She had once sent up this stair the best sentence anybody wrote him in the whole of the war.
+
+"Majesty," said Marcus.
+
+"Prefect."
+
+Marcus set a small wooden case down on the writing table and squared it to the edge with two fingers, as he must have seen it done somewhere.
+
+"This was my clerk's," he said. "Pen. Clerk of the cohort. He wrote their letters home for the ones who can't, and he kept the first drafts." He laid a half-sheet beside the case, much folded, written close in a clerk's quick hand, with a small tick in its top corner. "Every one he copied for Damien, he ticked. That's Tappo's. He's dead. At Bastion."
+
+The king took it up and held it to the lamp.
+
+It was a letter from one of the cohort to a woman at Cyrene, and the clerk had put it down as the man must have said it, without any of the fine turns a clerk might have liked to add: a verse he had made for the angel song, which was not fit to send; his hand, which had mended; the cold. Halfway down it said, *The prince sleeps on the ground with the rest of us and is up first, and drinks water, and we tell him he is worse company for it.*
+
+The tick in the corner was small and neat: the mark a clerk sets against a sum when it has been paid.
+
+He held the letter out, and his son took it back and put it inside his coat.
+
+"It's for Cyrene," said Marcus.
+
+"Go on."
+
+"The council made a rule at Silverwood. What's done against the council, all four peoples hear, and the people whose man did it judge him. Pen was mine." His son's voice stayed level. "I hanged him on the shingle at first light, on the crown's ground. I wrote the order myself."
+
+"Were you sure?"
+
+"He told the four tables himself, at the stone."
+
+The king waited.
+
+"The Hold-King of Stoneheart said, *A king judges his own. Take him to yours.*" Marcus had not moved from the corner of the table. "He's yours, Majesty."
+
+"Yes," said the king.
+
+The captain stepped forward then. She did not put the satchel on the table. She held it out across it, and waited until he put out his hands, and laid it in them.
+
+"It's not been opened, Majesty," she said. "Your nephew's clerk ran back for it while the turf was burning. I've had it under my arm since."
+
+The leather was warm from her arm. It was salt-stained and heavy, with a good brass buckle.
+
+"There's one thing more," said Valeria. "The paper the Marshal carried against the healer all summer. I saw it on his table. It was in your nephew's hand."
+
+"Thank you, Captain. Where is he?"
+
+"His own rooms, Majesty. Two of mine on the stair, and two at the end of the passage."
+
+"Keep him there." He looked at his son. "And your court?"
+
+"It sat. The judgment's in my shirt, sealed. It goes to the justice in the morning."
+
+"Good."
+
+He set the satchel down by the case. His son was still at the corner of the table, watching him, and the king looked back at him. The grey at the side of his head had come on since he last stood in this room.
+
+"Go and eat," said the king. "Both of you."
+
+Marcus went. He took the stair as fast going down as he had coming up, and the iron came knocking down after him at every other step, and the king sat and listened to it all the way to the bottom.
+
+---
+
+He opened the case first.
+
+The receipts lay in it in a packet, the oldest at the bottom, each with a drop of brown wax and a seal in the wax. He knew the seal. He had given the Warden of the Harbor Prison his office himself, at a Midwinter, through a clerk, and had not thought of the man since. *Received, for the keep of*, in a prison clerk's hand, and a name he did not know, and a quarter-day; and the next, and the next, a quarter-day each, back to the winter before the *Clemency* sailed with the cohort.
+
+Under them, by itself, lay a note.
+
+It was a slip of good paper with a pin-hole in its corner, and one line on it in the most beautiful hand in the palace.
+
+*For the king's comfort, to know how his son's men do.*
+
+He laid it on the table in front of him and folded his hands on it, so that nobody in the room could see what they wanted to do. There was nobody in the room.
+
+Where the note had lain in the case there was a half-sheet, folded once. It had a line on it in a clerk's quick hand, of words that made no sense in any order he tried them in; and under them, in the other hand, one line more.
+
+*The harvest quarter will be paid.*
+
+The harvest bell was the day after tomorrow. He knew the quarter-days as he knew the berths.
+
+The buckle of the satchel was stiff with the sea, and his knuckles were stiffer, and it took him some time. Inside it was the whole trade of the clerk who had run back for it: a pen-case, a penknife, a horn of ink stopped with wax, a sand-box, a bundle of quires ruled so true that the lines might have been laid with a thread, and the record of his son's council, fair-copied in a clean chancery hand. Under all of it, at the bottom, was a packet in oilskin, tied with a cord.
+
+The folds inside had been set hard with a bone folder, so that the sheets opened of themselves when he slipped the cord. There were four, written close, without a blot, in the hand that had written everything in this palace that he had not written himself.
+
+His own words were at the top.
+
+*The king, asked whether the crown would send one of the blood to his son's council, with a commission under the seal, so that the four peoples might see the house sit down with them, said: My son called it. Ask him.*
+
+He remembered saying it. He had been at the window with a mussel shell in his fingers, setting it in its row on the sill with the others, and he had glanced up, and down again. It had seemed to him a small thing to say, and true.
+
+Further down, by itself:
+
+*The king eats nothing that is sent up to him, and is thinner every month.*
+
+He put his finger and thumb round his own wrist, under the cuff, and they met.
+
+Under it, in the same even hand:
+
+*The nephew is refused nothing to his face, and given nothing.*
+
+He had given him every feast to seat, and the run of the kitchens, and the sending up of his supper; and never once a thing that could not be taken back with a word.
+
+He read the rest by the lamp. The council and its tables, who sat where and who had asked first; the halls' iron, and the forty days; the heir's opening, *We lost at Bastion*, set down word for word; and the nephew all the way through, in the third person, as of a man the writer knew and thought well of. It ended with what the nephew would send, and when.
+
+He sat a while with them.
+
+He had counted everything in this room for as long as there had been a war to count. The steps. The berths. His son. And all that while, at his elbow, with a covered dish and a smile, somebody had been counting him.
+
+Damien had never argued with him. At Midwinter, with the good mutton in front of him, he had tried to think why, and had not been able to reach it. A man does not argue with what he means to sell. He lets it talk.
+
+---
+
+At the turn of the night the steward brought up the dish.
+
+It came up every night, and had since the black ship took the first berth, on an order given in the autumn and never taken back. Every night it went down again as it was: the mutton cut thick on its bed of barley under its cover, and the cup beside it. The cup was steaming. It was harvest; the stones of the city had not given up the day yet, the window stood open on a night with no air in it, and the kitchen was still sending up hot wine with cloves in it, because nobody had told the kitchen it was summer.
+
+He lifted the cover. The fat had not set. It smelled of mutton and barley, and of the cloves coming up hot and sweet through everything.
+
+"Does he ask after it?"
+
+"When he is here, Majesty. Every morning." There was nothing in the steward's face. There never had been. "Whether you have eaten."
+
+"And you tell him."
+
+"I tell him it came down, Majesty."
+
+"Tomorrow," said the king, "in the Lesser Hall, at the first lamp. This, as it is. My nephew will sit at my right hand."
+
+"Majesty."
+
+"And for me, herring. From the braziers on the galley quay. You know the man."
+
+"Majesty."
+
+The old man put the cover back on the dish. He took the lamp, and trimmed the one candle, and carried the dish down untouched. The king sat on by the candle with the sheets on his knee until it guttered.
+
+---
+
+They had mended the Lesser Hall after the funeral, and he had seen it full only once since, at Midwinter, hot to its rafters.
+
+Tonight there was nobody in it.
+
+The benches stood pushed in under the long tables. Somebody had strewn fresh rushes for the two of them, with meadowsweet among them, and the smell rose off the floor wherever the steward walked, sweet as honey and a little bitter under it. The two fires were laid and not lit. The light was going out of the high windows, and the young moon stood in one of them, a little fatter than it had been. At the king's end of the high table the iron candlestick was lit, with the kink the smith had left in its stem, and the new oak top shone under it. The king's guard stood at the great doors at the far end of the hall. The screen over the servants' passage stood on its new hinges, and somewhere behind it was the steward.
+
+The chair at his right hand stood pushed in to the board. It had been Titus's from his fourteenth year. Titus had sat in it at every feast with his elbows on the oak, talking across his father to whoever sat beyond him; the king had been a pillar between them, holding up the roof. After Hollowmere it had stood empty, but for one night: at Midwinter his son had sat in it through the meat, and then got up and walked the length of the hall to the lowest table, and the court had turned on its benches to watch him go.
+
+He had come in by the servants' passage, so as to be in his chair when his nephew came in at the far end; and he was.
+
+Damien came in between two of the Lanciarii, and they let him come on alone.
+
+He had dressed for it: the dark blue, with the plain silver clasp, his hair cut close and his jaw shaved to the bone. He walked up the empty hall at the pace a man keeps in a full one, and as he passed the Marshal's table he gave it the small bow he gave it on feast nights. He came up the steps of the dais. The king smelled orris-root, as he had always smelled it at his elbow.
+
+"Uncle," said Damien, and bowed.
+
+The king put his hand on the arm of the chair at his right.
+
+Damien looked at the chair. It was the first time in twenty years the king had seen him not know where to sit.
+
+Then he sat down in it, and arranged his cloak, and folded his hands on the oak.
+
+The steward brought the dish and the cup out from behind the screen and set them in front of him. In front of the king he set a plate of herring, split and blackened from the brazier, a barley loaf, coarse grey salt in a saucer, and a cup of water. The smell of the herring went up the hall and met the cloves.
+
+Damien looked at the dish, and at the cup, and at his uncle, and smiled a little, as if he were sorry to have put anybody to the trouble. "So it came down," he said.
+
+"Eat."
+
+His nephew took up his knife.
+
+He cut the fat away from the mutton and laid it at the rim of the plate in one piece, and ate the meat, and the barley under it that had taken the fat, steadily, neither fast nor slow. The king broke his loaf and ate his herring with his fingers, as they ate it on the quay, and the salt stung in a split at one of his knuckles. He laid the bones along the edge of his plate as he went, square to it.
+
+He had watched him eat once before like this, on the first night, at the corner of his own table: a boy of seven in a black coat too big for him, with his elbows tucked in, cutting his meat small so as to be no trouble to anybody.
+
+Damien took up the cup in both hands, because it was hot. The steam went up past his face. He drank it, not quickly, to the bottom, and set it down on the oak without a sound.
+
+"It's too sweet, Uncle," he said. "It always was."
+
+The king drank his water.
+
+Damien talked then, a little, as he always had: of the oak, which had taken the wax well, and of the kink in the candlestick, which he had always liked, because it showed where the hall had been hurt and mended. He asked for nothing. Once he turned his head and looked down the length of the empty hall, at the benches and the long tables, and the lowest table by the doors, where the draught came in.
+
+"There's a press in my rooms with every seating I ever drew for this hall," he said. "I never put myself here. Not once. In all of them."
+
+The king had never looked at one of them. He had gone where the steward took him, and sat down, and the hall had been content. He ate the last of his loaf.
+
+When the meat was gone Damien laid his knife across the plate, by the fat, and sat back.
+
+"Thank you, Uncle," he said.
+
+He rose. As he rose he laid his hand on his uncle's shoulder, lightly, the only man in the palace who ever had; and the king sat under it until it lifted.
+
+He went down the steps of the dais, and the two spears came up the hall to meet him and took him down it between them: past the lords' benches and the Marshal's table, past the guild-masters' and the priests', past the lowest table by the great doors, and out.
+
+---
+
+Forty-four steps. He counted them going up, with a hand on the wall at the turns.
+
+The candle was lit on the writing table. There was nothing beside it tonight.
+
+The window stood open on the harbor. The moon was going down behind the moles, and the braziers on the galley quay had burned to a red line along the water. In the first berth the *Answer*'s lantern still burned at her taffrail, and *Constancy* lay dark beside her.
+
+He sat down, and took the key out of his shirt on its chain, and unlocked the right-hand drawer, the deep one, and opened it.
+
+The recall lay on top, where he had laid it back in high summer with his son watching. *By the King's command.* Under it lay *Leave granted*, in his own hand, with his name and the day put under the two words at Midwinter, at the high table; and under that, three letters in his elder son's hand, which he did not take out. He knew them.
+
+*It costs nothing, in a drawer.* His nephew had said that at this table, with his hand on the king's shoulder.
+
+He took out the recall, and shut the drawer on the rest, and turned the key.
+
+He laid the recall face down. Damien had written it from edge to edge on the one side and left the other as it left the paper-maker: the palace's best, close and white, with no mark on it anywhere.
+
+He dipped his pen.
+
+*Nobody hangs a prince.* He had believed that once, at this table, on the night of the other warrant, with the split nib in his fingers. *They only stop saying his name.*
+
+He did not write *By the King's command*. That was on the other side.
+
+He wrote his nephew's name at the top, in full, in his own hand, cramped and slow, pressing on every downstroke, each letter leaning on the next. He wrote what had been done, and in whose name. He wrote the place, and the hour, and the rope, and that the name was to go on the gate. It was more than he had written in his own hand since there had been a son at Hollowmere to write to. Then he wrote his own name under it.
+
+The nib held.
+
+---
+
+**MARCUS**
+
+The port-reeve kept the dishonest beams in his loft.
+
+They hung from the rafters over the weigh-house floor in a long row, iron and brass and old black oak, each with the assay's lead seal on a wire through its eye and a wooden tag under the seal with a name and a year on it, like hams in a smoke-house. The heat had gathered under the slates since sunrise. The loft smelled of dust and old tallow and tarred cordage, and of the pigeons in and out at the gable window, who had been in and out of it, by the state of the boards, for longer than there had been beams to hang. The port-reeve's man went along the row with his ladder, reading the tags with his lips, and stopped near the end.
+
+"Silk Row," he said. "Chandler. Two pound short in the hundredweight." He looked down from the ladder with the tag between his fingers. "We don't often get asked for one back, Highness."
+
+"It isn't coming back," said Marcus. "We want it weighed."
+
+Rusca weighed it.
+
+She had it hung from the loft's own hook, over the trap where the sacks were hauled up, with its pans under it, and sent the port-reeve's man down for the crown's weights. They were brought up in a box: brass, each one stamped with the crowned dolphin and worn bright at the stamp. She set them in the pans and watched the pointer, and took them out, and changed the pans over and did it again. Then she had the beam down off its hook and laid it on the boards in the light from the gable window, and turned it over, and ran her thumbnail along the steel edge it had swung on.
+
+"It reads short," she said. "As the assay said." She held the edge up to the light. "The steel's soft. Somebody made it badly, a long time ago, and it's worn round under the load, as a coin wears with handling. That's what reads short."
+
+*She knows a soft knife-edge when she sees one.* Pen had said it in the shed with the order in his hand, as easily as he might have named a good tailor.
+
+"Not filed."
+
+"Nobody filed this." She wiped the grease off her thumb on the linen in her cuff. "A file leaves a bright line, and the rust starts in the line. This has only worn. You'd not see it with the beam hung. You'd have to have it down."
+
+"Will you write that for a court?"
+
+"I'll write it for any court in the isles."
+
+"The justice's will do. At the next assize."
+
+She wrote it on the back of the tag in the plain Survey hand, and put her name under it, and the port-reeve's man hung the beam on its hook again with the writing turned outward. It went on swinging a little after he let go.
+
+---
+
+They went along the long quay through the barley. It was coming off the coasting ships in sacks on men's backs, to the crown's beams at the head of every berth, and its dust hung gold over the whole quay and got into the mouth; and over the porters' shouting the weigh-clerks called the weights.
+
+The harbor prison stood above the Gaol Stair at the west end of the Lower Harbor, beside the Harbor Gate, with its back to the town and its windows on the water. The common side was under the waterline. The debtors' side was above it, where the light came in.
+
+There was a young clerk at the Warden's table with the prison's book open in front of him. The Warden's own room behind him was shut, and a bailiff of the Hall of Pleas sat on a stool outside it, eating a pear.
+
+"The Warden is with the justice, Highness," said the clerk.
+
+Marcus put the silver down on the book. "The harvest quarter," he said, and gave the name from the tag.
+
+The clerk found the name, and ran his finger along its line. "There's the summer quarter carried, Highness. Unpaid. The Warden had it let stand."
+
+"Both, then."
+
+The clerk wrote. *Received, for the keep of*, and the name, and *the summer quarter, and the harvest*, in a hand that ran downhill to the right; and he sealed it, not with the Warden's seal, but with the prison's own, a crude old thing with a key on it, and gave it to Marcus with the wax still soft.
+
+Then he bent over the book, and said, low, "There's word come down for the gate, Highness. For the morning after the court."
+
+"What word?"
+
+"A rope, Highness." The clerk turned a leaf that did not need turning. "In the king's own hand, the Marshal's man said."
+
+Marcus stood with the receipt between his fingers.
+
+Not the axe, then: not the block on the hill under its cloth, which was the blood's by right. The rope, at the Harbor Gate, at first light, under the debtors' windows.
+
+The scar along his jaw pulled tight.
+
+The debtors' side was a long room with barred windows on the harbor, and it was full of the sounds people make when they are being patient: dice on a board, a woman feeding a man out of a basket with a horn spoon, a child asleep on a pile of coats. It smelled of onions and old straw and the harbor at low water. At the far end, at the last window, a tall old man stood with his hands flat on the sill.
+
+He was long, as his son had been, with his son's nose and his son's long fingers, gone to knots at the knuckles, and his hair was white. He stood at the window as a chandler stands behind his counter, with his weight on one hip, waiting for whoever had come in to say what they wanted.
+
+"Highness," he said.
+
+He knew him. The whole of the lower town knew him this summer.
+
+"Your son was the clerk of my cohort," said Marcus.
+
+The old man's eyes went over his face, and to Rusca behind him, and back.
+
+"Was," he said.
+
+"Yes."
+
+"When?"
+
+"At Silverwood. On the shore, at first light. He was hanged. I gave the word."
+
+The old man stood with his hands on the sill.
+
+"Was it quick?"
+
+"Yes."
+
+Marcus took the letter out of the purse at his belt and held it out: *To my father*, under red wax with a thumb pressed in it. The old man took it, and weighed it between his finger and thumb without looking down.
+
+"Two sheets," he said.
+
+He kept it in his hand, and did not open it.
+
+"I weighed your beam this morning," said Rusca. "It reads short. The edge is soft, and it's worn round. Nobody filed it."
+
+"No," said the old man. "I know."
+
+Marcus held out the receipt. The old man took it in his other hand and looked at it: at the clerk's hand running downhill, and *the summer quarter*, and the prison's seal with the key on it. He turned it to the light from the window, as if there were something wrong with the seal.
+
+"He always paid it," he said. "Every quarter-day. He never missed one."
+
+The harvest bell began as they came out into the sun. It began somewhere up the hill, and the other bells of the city took it up after it, until the whole harbor rang; and the gulls went up off the Gaol Stair together and settled again on the water.
+
+---
+
+The custody rooms were under the roof of the Hall of Pleas, at the top of a back stair that went up in short flights, with a bailiff at the foot of it and another at the top. The one at the top knew him by now. He got up off his stool, and unlocked the door, and sat down again with his back to it.
+
+The room had kept the whole day's heat under its slates. There was a cot in it, and a table and a stool, and a jug, and a window no bigger than a book, which showed the roofs of the lower town going down to the harbor and one bare mast against the evening. Gaius sat on the boards under the window with his back to the wall and his bad leg out across the floor. Liora sat on the cot with her feet drawn up under her grey skirt. She was paler than she had been on the Fishmarket Steps, on the night of the jig, and thinner. On the stool between them, on a cloth, was what was left of a supper: the crust of a raised mutton pie, with the smell of its pepper and its fat in the whole room, and a few figs going soft in the heat.
+
+"You're late," said Liora. "There's no pie."
+
+"I ate."
+
+She looked him over from his hair to his boots, as she looked at a man on a pallet before he had told her where it hurt.
+
+"Some," she said.
+
+It had been a heel of bread on the quay at noon, standing, under the bell. He sat down on the end of the cot, because it was the only place left.
+
+"The court sits at the third hour," he said. "The justice has it. She's not broken the seal."
+
+"Good."
+
+"Gaius says you won't hear what's in it."
+
+"I told Gaius not to tell me," said Liora. "I never told him to sit there all evening looking as if he'd swallowed it." She took a fig off the cloth. "I'll hear it in the court. Read out, with the Steps on the benches. If it's going to be said, I want it said in a room full of fishwives."
+
+"It'll bear," said Gaius, from under the window.
+
+"I didn't ask you."
+
+"No," said Gaius. "It'll bear."
+
+She split the fig with her thumbs and ate half of it.
+
+"Gaius told me about Pen," she said.
+
+"Yes."
+
+"I'll want all of it. Not tonight."
+
+Below the window a lamp was lit in the lower town, and then another.
+
+"That's my father's pie," said Liora. "One comes up the hill every evening at lamp-lighting, with his steward, and a jug of something he thinks a court allows. He'll be there tomorrow."
+
+"At the back," said Gaius.
+
+"Standing. He's stood in the street outside every house they've kept me in." She ate the other half of the fig. "Somebody ought to tell him about benches."
+
+At the next bell the bailiff knocked on the door with his key. Marcus got up. Gaius did not.
+
+"Engineer," said the bailiff through the door.
+
+"My knee," said Gaius, and stayed where he was.
+
+Marcus went down. At the second turn of the stair he heard Liora laugh behind the door.
+
+---
+
+The court sat at the third hour of the first day after the bell, and by the second hour there was no room left on its benches.
+
+Half the lower town had come up the stepped street in the cool of the morning with their baskets on their arms. There were fishwives, and the women of the Steps, net-makers with twine still in their fingers, and porters with their hooks hung on their belts, who had sat down in rows to wait and would not be moved. By the third hour the cool had gone. The high windows stood open, and the heat came in at them off the stones of the street, and the wasps came in with the heat, to the baskets. The court smelled of hot wool and whitewash and fish.
+
+Marcus sat on the front bench with Alana beside him, and Gaius beyond her with his bad leg out straight into the aisle and his lenses on, and Rusca at the end; his shirt had stuck to his back already. Felix stood by the side wall with the jar. Across the aisle the Lord Marshal sat alone on his bench in his ribbons, sweating into them. At the back, by the wall, Lord Mela stood, and would not take the end of a bench that two fishwives had made for him; and a little way from him, in her white, with the plain steel cap on her head and her cloak back over her mail, stood the Knight-Abbess of the Vigil.
+
+If the court would not have it, the Marshal's information stood as he had laid it, and murder went down the hill to the Harbor Gate.
+
+The bailiffs brought Liora in by the side door at the stroke.
+
+She wore her own grey gown, and her hair was put up. She walked in between the two bailiffs at their pace and not her own, and stopped where she was put: on the boards before the dais, where the accused stand, which were worn hollow there by their feet. Behind Marcus a fishwife moved her basket under her bench and out of the way, as if the healer might want the room.
+
+Liora looked once along the front bench, at Gaius, and then at the dais.
+
+Justice Herennia came in from her room behind it, narrow and upright in her black, with her spectacles on, and the court got to its feet with a noise like a boat coming up a beach. She sat down behind her table, with her book and her inkpot and the water-clock, and looked at them all through the Vessan glass until they had sat down again. Then she pushed the spectacles up onto her forehead, and read.
+
+"This court sits on an information," she said, "laid before it at the start of the assize by the Lord Marshal: that the healer Liora killed three men, Statius, Pansa and the sergeant Atilius, of Tharsis, prisoners in the crown's keeping at Cyrene." She did not look up. "My lord Marshal. Does it stand?"
+
+Varro got up. "It stands, my lady."
+
+"The court has also a paper from the court of the place." She held it up, folded, so that the benches could see the wax and the dolphin in it. "Sealed, and given into my hand before the harvest bell."
+
+She broke the seal. In the quiet it cracked, and she unfolded the sheet, and smoothed it flat on the table with the side of her hand, and read it out.
+
+He had said the words once, in the sun, at the head of a slope by the sea, and written them out afterward at a dead man's place, leaning on the downstrokes. He heard them now in a whitewashed room in a dry low voice that gave them their weight and nothing over.
+
+"*The court finds that Statius, Pansa and the sergeant Atilius, of the garrison that held the fort of Cyrene, forced the healer they held prisoner there, in the steam-box house, in the nights after the fort fell. By the law of the isles that is death. The court sentences them to death.*"
+
+The court had gone so quiet that Marcus could hear the water-clock on her table, dropping.
+
+He looked round. The fishwife had reached without looking for the hand of the woman beside her, and held it; further back a net-maker sat with the twine gone still between her fingers. At the back of the court the Knight-Abbess had taken off her steel cap. She held it in both hands in front of her, against the white, and her long plain face under the coif was turned to the dais, and nothing in it moved.
+
+"*And it names as their executioner Liora, of the house of Mela, at a time and place of her choosing.*"
+
+Liora's head turned a little, toward the front bench, and the corner of her mouth went in.
+
+Herennia read the names under it. She read all of them, and where a name was in a hand she could not read she said whose the court was told it was: the Hold-King of Stoneheart, in the dwarf marks, and the keeper of the halls' book; two of the elders of Silverwood, in the elves' letters; a hand laid flat in ink, for the clans of the fen; the General; the captain of the Lanciarii; the engineer; the lady of Corvus; a captain of Tharsis; Sennius of Lessa; Rusca, of Lessa; and at the foot, small, for the Vigil, Domitia.
+
+She pulled the spectacles down, and looked over the court.
+
+"A court may try the dead," she said, "so that the living know where they stand. This court did so in my first year on this bench, and hanged a wrecker's name on the Harbor Gate. The court of the place sits where its chair is. This one sat in its own chair, in the open, under the Prefect's writ. It is written fair and sealed, with the names of those who heard it, and it was in my hands before the bell."
+
+Beside Marcus, Alana's lips moved with the words, and were still.
+
+"It is lawful," said Herennia.
+
+On the benches somebody let out her breath, and somebody else hushed her.
+
+Herennia pushed the spectacles up again, and turned back a leaf of her book.
+
+"The Lord Marshal's information gives the times and the places. The water-gate stair, at the loading. The hull staging, in the frost. The black beach, at the pyre." She laid her hand on the leaf. "Those are times and places of her choosing. A sentence carried out is not a murder. My lord Marshal?"
+
+Varro got up again. He stood a moment with his right hand shut, pressing the bull's head of his ring into the heel of it.
+
+"Enter it, my lady," he said. "As the Prefect gave it."
+
+He sat down.
+
+"Healer," said Herennia. She pulled the spectacles down and looked at Liora through them. "Your name. For the record."
+
+"Liora, of the house of Mela."
+
+Marcus turned on the bench. Lord Mela stood by the back wall in his old black coat cut for a broader man, with his pale wet-rimmed eyes on his daughter's back.
+
+Herennia wrote in her book. She sanded the line, and blew the sand off.
+
+"The charge is answered," she said. "The court has no further interest in the healer."
+
+She closed her book.
+
+At the back of the court, Lord Mela sat down.
+
+The bailiffs stepped back from Liora, one on each side, and for a moment she stood on the hollow boards with nobody beside her. Then she went down between the benches to the back of the court, and the lower town drew in its feet and its baskets to let her by, and she sat down on the bench beside her father.
+
+Alana's hand found Marcus's on the bench between them, under the fold of her skirt.
+
+---
+
+Outside, the heat stood in the portico between the square pillars, and the lower town went down the steps into it in a slow loud stream, telling one another what they had heard. Over the middle door the crown's scales, cut in the stone, had been worn soft by a great many years of weather. Marcus stood with Alana in the shade of the nearest pillar and let the stream go by.
+
+Liora came out on Gaius's arm, or Gaius on hers; with his knee it was hard to tell. Lord Mela's litter had come for him. He stood a moment at its door with his hand on the pole, and looked at his daughter.
+
+"Do you eat?" he said.
+
+"When I like," said Liora.
+
+He got into the litter, which was a thing nobody on the Old Hill had seen him do with a good grace in years.
+
+Cassandra came out after them, with her cap still in her hand. She did not go down the steps. She walked along the portico to where Liora stood in the shade of a pillar, and stopped in front of her, and looked at her for some time.
+
+"Keep your litany, girl," said Cassandra. "I was wrong to grudge it. It holds more than ours does."
+
+The corner of Liora's mouth went in again.
+
+"The novices begin the Seeing at the turn of the year," said Cassandra. "There's nobody in the house can teach it as you can." She stood with the cap in both hands. "I'm asking. Not the order."
+
+Liora looked at her. The lower town went by them down the steps.
+
+"I'll come and teach," said Liora. "I'll not take the vow."
+
+The Knight-Abbess's teeth clicked once.
+
+"That will do," she said.
+
+She put her cap on, and went down the steps into the heat, and the crowd let her through.
+
+Liora watched her to the bottom of the street. Then she said, to nobody:
+
+"Men are pardoned for the crimes of war. Women live with them."
+
+Gaius's eyebrows went up, as far as the short new ones would go.
+
+"That's the rest of it?"
+
+"That was the rest of it," said Liora.
+
+---
+
+Marcus was at the Harbor Gate before first light, with Felix.
+
+The gate was older than the sea wall on either side of it: a low arch of black stone, with the prison's wall run up against it on the one hand and the Gaol Stair going down on the other. A lantern burned on a hook under the arch, and round it, on the inner face, the crown's boards hung from iron nails in rows, each with a name on it. The newest still had their paint. The oldest had weathered down to the grain, so that only the letters stood up out of the wood, where the paint had kept the rain off them longest. The wrecker of the *Gannet* had hung there once, Herennia's first judgment, until his board rotted.
+
+The harbor was at low water and smelled of it, weed and wet mud and old rope, and along the quay the ovens had their first bread out. There were not many people: porters going down to the galley quay with their hooks, fishwives coming up from the boats with their baskets, a boy on a bollard, and at the bars of the debtors' side above the arch a few faces, grey in the grey. At the last window a tall old man stood with his hands flat on the sill. The Lanciarii stood in their square under the arch, with Valeria at the head of it and the Farrier grounded. Varro came down from the Old Hill in his ribbons, on foot, with the warrant in his hand and two of his own men behind him, and stood under the boards.
+
+Up on the hill the king's window was lit. Marcus had not been up the stair since the night *Constancy* came in, and no word had come down it for him.
+
+They brought Damien out of the prison at the first grey.
+
+They had let him dress, and shave. He was in his good blue, with his wrists tied in front of him in a strip of fine linen. He came out between the Lanciarii at his own pace, quick but not too quick, and as he passed Marcus he smelled of orris-root, here, at the Harbor Gate, at first light.
+
+It was the smell of every feast Marcus could remember. At his first, when he was still small enough to need a cushion on the bench, Damien had come down the lords' sons' table to him smelling of it, and moved his cup to the proper side of his plate, and told him that the old lord beside him was deaf on the left and liked to be shouted at.
+
+Damien stopped before the arch, where they stopped him, and looked up the hill at the king's window, and kept looking at it.
+
+Varro unrolled the warrant.
+
+He held it up in front of him to read, with the first light grey behind it, and Marcus, standing before the Marshal, saw the side that faced him. He did not need to read it. His father had shown it to him in the summer: *By the King's command*, in the beautiful hand, every letter leaning the same way, and at the foot a space for one name, with no name in it.
+
+The scar along his jaw went tight.
+
+Varro read the other side, in his council voice, which carried.
+
+"*Damien Vael, of my house, sold to Tharsis the letters of my son's men, and my words with them. He bought the clerk who copied them. The price was the keep of the clerk's father in my prison, paid in my name.*"
+
+At *of my house* Damien's head came up, as a man's does who hears himself called to the high table.
+
+"*He is to hang at the Harbor Gate at first light on the morning after the harvest court, by the rope, as the clerk was hanged. His name is to go on the gate.*" Varro lowered the paper. "*Aurelian.*"
+
+He pressed the bull's head of his ring into the heel of his hand, and rolled the warrant, and stepped back.
+
+Damien had stopped looking at the window. He was looking at Marcus.
+
+"Cousin," he said. "See that he eats."
+
+"He eats," said Marcus.
+
+Then they took him under the arch. Marcus watched it to the end, because somebody of the blood ought to; and it was quick.
+
+A fishwife had set her basket down on the stones to see. When it was over she picked it up again and went on up into the town with it, because the boats were in. At the last window above the arch there was nobody now.
+
+Afterward a man came out of the prison with a ladder and a board under his arm, and set the ladder against the arch, and nailed the board up among the others, high, where the paint would last. It was still wet when he came down.
+
+---
+
+The sun was up by the time he reached the Lower Canal.
+
+It had come over the roofs while he walked. It took the top of the Old Hill first, and the palace wall, and the king's window, which had been lit all night, went pale in it and was only a window; then the roofs; then the water. The canal was steaming a little in the first sun.
+
+The Drowned Lantern's canal window had glass in it. The sun was on the glass.
+
+On the step outside, the lower town had left its gifts in the night, as it had every night since the Vigil's door came off: a loaf in a cloth, a jug with a rag in its neck, plums in a twist of cabbage leaf, and a pair of eels in a wet dock-leaf that could only have come from Gemella's board.
+
+Liora sat on the step among them in her grey gown, with her hands in her lap, saying the names.
+
+He sat down on the step beside her. The stone was warm already where the sun had been on it, and the plums smelled of the sun. Felix stood on the walk with the jar.
+
+She was at the end of Bastion; Tappo had gone by, who made a song. She said the last of them without hurrying, and went on.
+
+"Pen, of the cohort, who wrote the letters home," said Liora. "And Damien Vael, of the king's house."

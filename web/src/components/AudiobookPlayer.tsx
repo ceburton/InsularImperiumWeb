@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 import type { AudiobookChapter, AudiobookInfo } from '@/lib/audiobook';
+import { runtime } from '@/lib/runtime';
 import { acquireWakeLock, releaseWakeLock } from '@/lib/wakeLock';
 import './AudiobookPlayer.css';
 
@@ -33,11 +34,6 @@ function clock(seconds: number) {
   const s = Math.max(0, Math.floor(seconds));
   const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), sec = String(s % 60).padStart(2, '0');
   return h ? `${h}:${String(m).padStart(2, '0')}:${sec}` : `${m}:${sec}`;
-}
-
-function runtime(seconds: number) {
-  const h = Math.floor(seconds / 3600), m = Math.round((seconds % 3600) / 60);
-  return h ? `${h} h ${m} min` : `${m} min`;
 }
 
 // Each book keeps its places under its own key (books.ts audioKey).

@@ -2,7 +2,10 @@ import { readFileSync } from 'node:fs';
 import path from 'node:path';
 import { test, expect, type Page } from '@playwright/test';
 import data from '../src/data/audiobook.json';
+import book2 from '../src/data/audiobook-book2.json';
+import book3 from '../src/data/audiobook-book3.json';
 import type { AudiobookChapter } from '../src/lib/audiobook';
+import { runtime } from '../src/lib/runtime';
 
 const { chapters } = data;
 const tone = readFileSync(path.join(__dirname, 'fixtures', 'tone.mp3'));
@@ -145,3 +148,25 @@ test('the podcast feed lists every chapter in order with exact file sizes', asyn
     expect(item).toContain(`<guid isPermaLink="false">insular-imperium-audiobook-${chapters[i].slug}</guid>`);
   });
 });
+
+test('lengths round to whole minutes before the hours are split off', () => {
+  expect(runtime(2767)).toBe('46 min');
+  expect(runtime(3569)).toBe('59 min');
+  expect(runtime(3591)).toBe('1 h 0 min');
+  expect(runtime(3690)).toBe('1 h 2 min');
+  expect(runtime(7170)).toBe('2 h 0 min');
+  expect(runtime(26328)).toBe('7 h 19 min');
+});
+
+const books: [string, { duration: number }[]][] = [
+  ['/media/audiobook', data.chapters], ['/media/audiobook/book-two', book2.chapters], ['/media/audiobook/book-three', book3.chapters],
+];
+for (const [url, list] of books) {
+  test(`${url} shows each chapter's length and the book's total without a 60-minute hour`, async ({ page }) => {
+    await page.goto(url);
+    const total = list.reduce((sum, c) => sum + c.duration, 0);
+    await expect(page.locator('.audiobook-facts')).toContainText(` · ${runtime(total)} · `);
+    await expect(page.locator('.audiobook-chapter-status')).toHaveText(list.map(c => runtime(c.duration)));
+    await expect(page.locator('.audiobook-chapters')).not.toContainText('60 min');
+  });
+}

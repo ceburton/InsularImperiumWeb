@@ -5,9 +5,9 @@
       "slug": "ch01-the-drowned-lantern",
       "title": "Chapter One: The Drowned Lantern",
       "duration": 415,
-      "bytes": 3405997,
-      "sha256": "8b189b25a969b5c38120cdb873ac4fbb6de4defcff3f3875553186a5dc611a9c",
-      "url": "https://audio.insularimperium.com/v/8b189b25/ch01-the-drowned-lantern.mp3",
+      "bytes": 3406573,
+      "sha256": "e2d4a5b36e77f03352291ea28baa3eccdbebdff16dc17c5948090f1ba1854029",
+      "url": "https://audio.insularimperium.com/v/e2d4a5b3/ch01-the-drowned-lantern.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -21,9 +21,9 @@
       "slug": "ch02-the-eulogy",
       "title": "Chapter Two: The Eulogy",
       "duration": 2048,
-      "bytes": 16475044,
-      "sha256": "27443a15fcbbde9036fa94dbf06fccfde06ea96a29de671bc7102ced8d378fa0",
-      "url": "https://audio.insularimperium.com/v/27443a15/ch02-the-eulogy.mp3",
+      "bytes": 16474852,
+      "sha256": "ef78725e02b9aa0f518083dd450836f45f476e3dde8c37db06d71a0f76b990ef",
+      "url": "https://audio.insularimperium.com/v/ef78725e/ch02-the-eulogy.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -35,7 +35,7 @@
           "Roderic"
         ],
         [
-          1249.5,
+          1249.4,
           "Alana"
         ]
       ]
@@ -45,9 +45,9 @@
       "slug": "ch03-the-clemency",
       "title": "Chapter Three: The Clemency",
       "duration": 2313,
-      "bytes": 18597032,
-      "sha256": "481bc37fe07b889b903b046efb79afac897e784bda38bba31066cb2239f6ee7e",
-      "url": "https://audio.insularimperium.com/v/481bc37f/ch03-the-clemency.mp3",
+      "bytes": 18597224,
+      "sha256": "d849261c2027e40e307fc5f12aa5387ff9732977e0b9691f797b5ca7692607ca",
+      "url": "https://audio.insularimperium.com/v/d849261c/ch03-the-clemency.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -81,9 +81,9 @@
       "slug": "ch04-the-grey",
       "title": "Chapter Four: The Grey",
       "duration": 2056,
-      "bytes": 16535331,
-      "sha256": "f2e6633b15c19ca081d11ae384c95f00fdf0d78da15847f80217b0a36fecb254",
-      "url": "https://audio.insularimperium.com/v/f2e6633b/ch04-the-grey.mp3",
+      "bytes": 16536099,
+      "sha256": "b832e3fa5bd9272ad5d0b135ccd4317e232677728d2c2ed4b79502afecc0d8cc",
+      "url": "https://audio.insularimperium.com/v/b832e3fa/ch04-the-grey.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -91,11 +91,11 @@
           "Alana"
         ],
         [
-          389.7,
+          389.8,
           "Marcus"
         ],
         [
-          1204.3,
+          1204.2,
           "Alana"
         ]
       ]
@@ -104,10 +104,10 @@
       "track": 5,
       "slug": "ch05-the-kettle-bank",
       "title": "Chapter Five: The Kettle Bank",
-      "duration": 2630,
-      "bytes": 21125866,
-      "sha256": "20a220cefdb9faf55992115286b38a8c588473dd6bd167cbfcd8d2980fe53809",
-      "url": "https://audio.insularimperium.com/v/20a220ce/ch05-the-kettle-bank.mp3",
+      "duration": 2629,
+      "bytes": 21124714,
+      "sha256": "8441a882b70233bf600176f9de1f8e1779da3961b0b63f21a1fa6c948ac861ce",
+      "url": "https://audio.insularimperium.com/v/8441a882/ch05-the-kettle-bank.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -115,7 +115,7 @@
           "Marcus"
         ],
         [
-          1060.3,
+          1060.4,
           "Alana"
         ],
         [
@@ -128,10 +128,10 @@
       "track": 6,
       "slug": "ch06-the-black-beach",
       "title": "Chapter Six: The Black Beach",
-      "duration": 2492,
-      "bytes": 20021289,
-      "sha256": "7042f6ed6e19d16fd755d05ce470f35f566e8dc325aff681f8dd41cf211a342c",
-      "url": "https://audio.insularimperium.com/v/7042f6ed/ch06-the-black-beach.mp3",
+      "duration": 2491,
+      "bytes": 20020137,
+      "sha256": "a0b4729092ed0a8105737e3e63627fba9e7148200e32bc4fc8d83fac41c32319",
+      "url": "https://audio.insularimperium.com/v/a0b47290/ch06-the-black-beach.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -139,7 +139,7 @@
           "Roderic"
         ],
         [
-          1517.3,
+          1517.4,
           "Marcus"
         ]
       ]
@@ -149,9 +149,9 @@
       "slug": "ch07-the-heart-stone",
       "title": "Chapter Seven: The Heart-Stone",
       "duration": 3106,
-      "bytes": 24939371,
-      "sha256": "391198dbfec3e28abdce2d91ab3e6e5c64a6ee3236da2d2a93f3aaedb5db787e",
-      "url": "https://audio.insularimperium.com/v/391198db/ch07-the-heart-stone.mp3",
+      "bytes": 24937835,
+      "sha256": "c979e47f35f086b8bcad680abe615c1314b9b874770fa74b9f04d45e2f035f9e",
+      "url": "https://audio.insularimperium.com/v/c979e47f/ch07-the-heart-stone.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -159,7 +159,7 @@
           "Alana"
         ],
         [
-          2746.9,
+          2746.8,
           "Marcus"
         ]
       ]
@@ -169,9 +169,9 @@
       "slug": "ch08-not-a-lady",
       "title": "Chapter Eight: Not a Lady",
       "duration": 3534,
-      "bytes": 28365030,
-      "sha256": "a8df3822ea0cde4c02624801815f56fc94be6f339664c3d41e897f16e89f3834",
-      "url": "https://audio.insularimperium.com/v/a8df3822/ch08-not-a-lady.mp3",
+      "bytes": 28364646,
+      "sha256": "2e837729650e5d16f6f01d8d489579f66f3072c153f913e5d73d7396cf32124b",
+      "url": "https://audio.insularimperium.com/v/2e837729/ch08-not-a-lady.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -191,11 +191,11 @@
           "Marcus"
         ],
         [
-          2597.3,
+          2597.4,
           "Alana"
         ],
         [
-          3262.3,
+          3262.4,
           "Marcus"
         ]
       ]
@@ -205,9 +205,9 @@
       "slug": "ch09-page-two",
       "title": "Chapter Nine: Page Two",
       "duration": 2199,
-      "bytes": 17680611,
-      "sha256": "67a2f953fdd6c93090ccb23592e9bd038720a8f151da16035830f63fe919151f",
-      "url": "https://audio.insularimperium.com/v/67a2f953/ch09-page-two.mp3",
+      "bytes": 17682147,
+      "sha256": "544e5c2ac88303e8574ee421b327689a6ee63d76690ce49be89fc4dac329ab1d",
+      "url": "https://audio.insularimperium.com/v/544e5c2a/ch09-page-two.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -221,9 +221,9 @@
       "slug": "ch10-the-writ",
       "title": "Chapter Ten: The Writ",
       "duration": 2883,
-      "bytes": 23156451,
-      "sha256": "ba01efa98b846e27735ac3332b0fbfcbcc1c7400edbcdfc2d2b570f50adf1697",
-      "url": "https://audio.insularimperium.com/v/ba01efa9/ch10-the-writ.mp3",
+      "bytes": 23154723,
+      "sha256": "273f862190c7de88651c95cf49777a90eb8562363c86f6b97d4d517d2eafea09",
+      "url": "https://audio.insularimperium.com/v/273f8621/ch10-the-writ.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -231,11 +231,11 @@
           "Valeria"
         ],
         [
-          1318.2,
+          1318.1,
           "Alana"
         ],
         [
-          2337.4,
+          2337.2,
           "Marcus"
         ]
       ]
@@ -245,9 +245,9 @@
       "slug": "ch11-the-tally",
       "title": "Chapter Eleven: The Tally",
       "duration": 3799,
-      "bytes": 30478375,
-      "sha256": "958f5939b8207f69f77887dae4f2168b21cb5933a64c13d72f81da0898006717",
-      "url": "https://audio.insularimperium.com/v/958f5939/ch11-the-tally.mp3",
+      "bytes": 30478951,
+      "sha256": "0516582f6e62713b650b0adad0c58a8df43e2e5243cc9cc0f3842e705dbf46bf",
+      "url": "https://audio.insularimperium.com/v/0516582f/ch11-the-tally.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -267,7 +267,7 @@
           "Liora"
         ],
         [
-          3522.5,
+          3522.6,
           "Marcus"
         ]
       ]
@@ -277,9 +277,9 @@
       "slug": "ch12-four-in-five",
       "title": "Chapter Twelve: Four in Five",
       "duration": 5035,
-      "bytes": 40369834,
-      "sha256": "eacad595520d57099cd928e128a2a4c4858ecfde5183936d006dc78cfac13b36",
-      "url": "https://audio.insularimperium.com/v/eacad595/ch12-four-in-five.mp3",
+      "bytes": 40367146,
+      "sha256": "f5fad45f2251368edb339179e73eb9181634e4ed551539e164e52282a3c67949",
+      "url": "https://audio.insularimperium.com/v/f5fad45f/ch12-four-in-five.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -287,15 +287,15 @@
           "Marcus"
         ],
         [
-          1614.6,
+          1614.5,
           "Liora"
         ],
         [
-          2643.5,
+          2643.2,
           "Valeria"
         ],
         [
-          3855,
+          3854.6,
           "Alana"
         ]
       ]
@@ -306,8 +306,8 @@
       "title": "Chapter Thirteen: Two Wounds",
       "duration": 3223,
       "bytes": 25871146,
-      "sha256": "83ac33d37e21c805c7fe42475025bc15b7d22f6b69d8dc26629f612725dac6f2",
-      "url": "https://audio.insularimperium.com/v/83ac33d3/ch13-two-wounds.mp3",
+      "sha256": "26564afbf432d77e543fd323a461983d3ec78aa21a9aea2707157c109fb923de",
+      "url": "https://audio.insularimperium.com/v/26564afb/ch13-two-wounds.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -323,11 +323,11 @@
           "Liora"
         ],
         [
-          2467.4,
+          2467.3,
           "Alana"
         ],
         [
-          3006.5,
+          3006.6,
           "Sylara"
         ]
       ]
@@ -337,9 +337,9 @@
       "slug": "ch14-the-boundary",
       "title": "Chapter Fourteen: The Boundary",
       "duration": 2664,
-      "bytes": 21398316,
-      "sha256": "a3e1d3a59d3f9b72c2deb1305c799492708bdfea680677ee16258acfbcf95b14",
-      "url": "https://audio.insularimperium.com/v/a3e1d3a5/ch14-the-boundary.mp3",
+      "bytes": 21397356,
+      "sha256": "f1a68a6dcf9f28e5fba885328626fe0700c9fdc2fd86300c4a251abaffb4cd1b",
+      "url": "https://audio.insularimperium.com/v/f1a68a6d/ch14-the-boundary.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -353,9 +353,9 @@
       "slug": "ch15-one-voice",
       "title": "Chapter Fifteen: One Voice",
       "duration": 2689,
-      "bytes": 21605096,
-      "sha256": "9ca33f3ec2519028086155c7fbb74e3eb363e65179b14067b3d7bef3f69d0c45",
-      "url": "https://audio.insularimperium.com/v/9ca33f3e/ch15-one-voice.mp3",
+      "bytes": 21604904,
+      "sha256": "c330e2cf7defecae115997a996082ac27724793ce55ded123ac425de63c30fc7",
+      "url": "https://audio.insularimperium.com/v/c330e2cf/ch15-one-voice.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -373,9 +373,9 @@
       "slug": "ch16-the-measure",
       "title": "Chapter Sixteen: The Measure",
       "duration": 3231,
-      "bytes": 25938538,
-      "sha256": "268a9f8235ecffa47264e1cec54d211a327b62cee88960527249b62ea4583fba",
-      "url": "https://audio.insularimperium.com/v/268a9f82/ch16-the-measure.mp3",
+      "bytes": 25939306,
+      "sha256": "389c0a0bb6ec0b77d7cc831c4a4f2fefc62db6c7aa76a58a0e353107a75edf0b",
+      "url": "https://audio.insularimperium.com/v/389c0a0b/ch16-the-measure.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -383,7 +383,7 @@
           "Liora"
         ],
         [
-          1581.4,
+          1581.3,
           "Valeria"
         ],
         [
@@ -397,9 +397,9 @@
       "slug": "ch17-the-heart-grove",
       "title": "Chapter Seventeen: The Heart-Grove",
       "duration": 3400,
-      "bytes": 27286192,
-      "sha256": "91d1f87a21312284b41a047362d15614f11a86f8d9541262488b9a1bb2591c3e",
-      "url": "https://audio.insularimperium.com/v/91d1f87a/ch17-the-heart-grove.mp3",
+      "bytes": 27285424,
+      "sha256": "fc039ddc80f4d5a514725389b37b7a02fb8e260a8fe0b9749a4d422d3ad81512",
+      "url": "https://audio.insularimperium.com/v/fc039ddc/ch17-the-heart-grove.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -407,7 +407,7 @@
           "Marcus"
         ],
         [
-          2708,
+          2707.9,
           "Sylara"
         ]
       ]
@@ -417,9 +417,9 @@
       "slug": "ch18-the-song-closes",
       "title": "Chapter Eighteen: The Song Closes",
       "duration": 4436,
-      "bytes": 35579439,
-      "sha256": "06af3e2b8653a50ce32c4cf3269ee958298c514360cf9bf9fc143c998d9e6a4f",
-      "url": "https://audio.insularimperium.com/v/06af3e2b/ch18-the-song-closes.mp3",
+      "bytes": 35579823,
+      "sha256": "e8fce9a4f9c2f41a09dae01b228a87d76c3743e061258fb2951a67532df2aa91",
+      "url": "https://audio.insularimperium.com/v/e8fce9a4/ch18-the-song-closes.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -431,11 +431,11 @@
           "Alana"
         ],
         [
-          2466,
+          2466.1,
           "Marcus"
         ],
         [
-          4171.6,
+          4171.7,
           "Sylara"
         ]
       ]
@@ -445,9 +445,9 @@
       "slug": "ch19-the-angel-of-the-baths",
       "title": "Chapter Nineteen: The Angel of the Baths",
       "duration": 4601,
-      "bytes": 36897718,
-      "sha256": "7aae0db01d5f6149fd4fce4a3c80b96e97996ab87845ead406bc45a6e6f277af",
-      "url": "https://audio.insularimperium.com/v/7aae0db0/ch19-the-angel-of-the-baths.mp3",
+      "bytes": 36896950,
+      "sha256": "8ef49e17bdb67fa42e75ad49891a63f9edacf24601423c70cfa56cb2520e2561",
+      "url": "https://audio.insularimperium.com/v/8ef49e17/ch19-the-angel-of-the-baths.mp3",
       "firstPublished": "2026-10-25",
       "pov": [
         [
@@ -455,7 +455,7 @@
           "Gaius"
         ],
         [
-          690.6,
+          690.4,
           "Marcus"
         ],
         [
@@ -467,11 +467,11 @@
           "Alana"
         ],
         [
-          4104,
+          4103.9,
           "Sylara"
         ],
         [
-          4289.2,
+          4289.1,
           "Sylara"
         ]
       ]
@@ -482,8 +482,8 @@
       "title": "Chapter Twenty: The Roof of the Sea",
       "duration": 4029,
       "bytes": 32322161,
-      "sha256": "4f7e0830a144f45b1a5249d23267980f6067b2e32d91bc868375a18f708962a3",
-      "url": "https://audio.insularimperium.com/v/4f7e0830/ch20-the-roof-of-the-sea.mp3",
+      "sha256": "5863c24f16f715d6450b0870f2736d52088e89c8f8b13caa89202b37abed7b21",
+      "url": "https://audio.insularimperium.com/v/5863c24f/ch20-the-roof-of-the-sea.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -495,7 +495,7 @@
           "Marcus"
         ],
         [
-          2592.4,
+          2592.2,
           "Liora"
         ]
       ]
@@ -505,9 +505,9 @@
       "slug": "ch21-two-runners",
       "title": "Chapter Twenty-One: Two Runners",
       "duration": 7549,
-      "bytes": 60479149,
-      "sha256": "1f1e86966bdeb90ae889d82b03917ba899cc5dd47c1174aef0ec9eb5ae677bbb",
-      "url": "https://audio.insularimperium.com/v/1f1e8696/ch21-two-runners.mp3",
+      "bytes": 60480685,
+      "sha256": "a27a53ba1785e4ebb590ad3e7e49bfe3fa3b8e7ffe8addb1b29bf643ede74671",
+      "url": "https://audio.insularimperium.com/v/a27a53ba/ch21-two-runners.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -523,7 +523,7 @@
           "Marcus"
         ],
         [
-          4586.2,
+          4586.3,
           "Gaius"
         ],
         [
@@ -531,11 +531,11 @@
           "Sylara"
         ],
         [
-          6072.2,
+          6072.3,
           "Rufo"
         ],
         [
-          7096.1,
+          7096.3,
           "Marcus"
         ]
       ]
@@ -545,9 +545,9 @@
       "slug": "ch22-slack-water",
       "title": "Chapter Twenty-Two: Slack Water",
       "duration": 6917,
-      "bytes": 55426861,
-      "sha256": "18667094338b0847ef655b73b1da48da53a3f6e57587f68a4b0da5b37b931fc9",
-      "url": "https://audio.insularimperium.com/v/18667094/ch22-slack-water.mp3",
+      "bytes": 55422637,
+      "sha256": "5b2e0dbfeda370e7e9443acc09e1a8d8365b5733e4db37530ccf8a55b4fc121f",
+      "url": "https://audio.insularimperium.com/v/5b2e0dbf/ch22-slack-water.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -555,27 +555,27 @@
           "Marcus"
         ],
         [
-          1325.3,
+          1325.4,
           "Thalassa"
         ],
         [
-          3038,
+          3038.1,
           "Marcus"
         ],
         [
-          3170.5,
+          3170.6,
           "Sylara"
         ],
         [
-          4245.5,
+          4245,
           "Ear"
         ],
         [
-          5487.2,
+          5486.7,
           "Gaius"
         ],
         [
-          6598.9,
+          6598.4,
           "Liora"
         ]
       ]
@@ -584,10 +584,10 @@
       "track": 23,
       "slug": "ch23-the-wakening",
       "title": "Chapter Twenty-Three: The Wakening",
-      "duration": 8109,
-      "bytes": 64959472,
-      "sha256": "6f792092bc76bfc85241e915040c402df636557b8444c148c888fd97665466e5",
-      "url": "https://audio.insularimperium.com/v/6f792092/ch23-the-wakening.mp3",
+      "duration": 8108,
+      "bytes": 64956016,
+      "sha256": "f5b9dfc1198714ce1532e049191b3ee031dd285fc02f28db16f7cb920e16eb56",
+      "url": "https://audio.insularimperium.com/v/f5b9dfc1/ch23-the-wakening.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -603,23 +603,23 @@
           "Valeria"
         ],
         [
-          2776,
+          2775.7,
           "Sylara"
         ],
         [
-          3765.9,
+          3765.5,
           "Rufo"
         ],
         [
-          4568.8,
+          4568.4,
           "Marcus"
         ],
         [
-          6134.7,
+          6134.3,
           "Liora"
         ],
         [
-          7906.6,
+          7906.1,
           "Sylara"
         ]
       ]
@@ -629,9 +629,9 @@
       "slug": "ch24-the-warm-roads",
       "title": "Chapter Twenty-Four: The Warm Roads",
       "duration": 6866,
-      "bytes": 55015025,
-      "sha256": "ef7fe338143ab8c882e6e731f8eab195812b5b90487779da0fb48e7a915699c9",
-      "url": "https://audio.insularimperium.com/v/ef7fe338/ch24-the-warm-roads.mp3",
+      "bytes": 55014641,
+      "sha256": "1a5d8db1f45877e05873d642aeb3f0cdb2e69957ef5e60571cfc01cc0ac7b542",
+      "url": "https://audio.insularimperium.com/v/1a5d8db1/ch24-the-warm-roads.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -639,7 +639,7 @@
           "Marcus"
         ],
         [
-          1618.3,
+          1618.2,
           "Gaius"
         ],
         [
@@ -665,9 +665,9 @@
       "slug": "ch25-every-hull-i-touched",
       "title": "Chapter Twenty-Five: Every Hull I Touched",
       "duration": 10299,
-      "bytes": 82483895,
-      "sha256": "da0a0c3d72baa7564e33f25c687b4d52af907024743601ee7bf4dd549bc7a4db",
-      "url": "https://audio.insularimperium.com/v/da0a0c3d/ch25-every-hull-i-touched.mp3",
+      "bytes": 82480631,
+      "sha256": "d7e84fbdfe52a22ddfca29043708b26ca43dc3d7b4fd5fe40ad4098633fc8ac2",
+      "url": "https://audio.insularimperium.com/v/d7e84fbd/ch25-every-hull-i-touched.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -675,11 +675,11 @@
           "Alana"
         ],
         [
-          1505.2,
+          1505.3,
           "Rufo"
         ],
         [
-          3056.8,
+          3056.7,
           "Gaius"
         ],
         [
@@ -687,7 +687,7 @@
           "Alana"
         ],
         [
-          7246.2,
+          7246,
           "Marcus"
         ]
       ]
@@ -696,10 +696,10 @@
       "track": 26,
       "slug": "ch26-a-day-we-can-spare",
       "title": "Chapter Twenty-Six: A Day We Can Spare",
-      "duration": 8522,
-      "bytes": 68263604,
-      "sha256": "97a9eba749ad69bafa2d1b873bd79b4564ec385b1de8c306ab8b62589e75ffa9",
-      "url": "https://audio.insularimperium.com/v/97a9eba7/ch26-a-day-we-can-spare.mp3",
+      "duration": 8521,
+      "bytes": 68260532,
+      "sha256": "811e72cbd716483f7ae26e92552e17737572350775c1b6597ae36515dcf58c5f",
+      "url": "https://audio.insularimperium.com/v/811e72cb/ch26-a-day-we-can-spare.mp3",
       "firstPublished": "2026-10-17",
       "pov": [
         [
@@ -707,11 +707,11 @@
           "Thalassa"
         ],
         [
-          2087.6,
+          2087.5,
           "Marcus"
         ],
         [
-          6426.7,
+          6426.5,
           "Aurelian"
         ]
       ]

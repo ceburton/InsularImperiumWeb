@@ -17,6 +17,8 @@
 11. [Chapter Eleven: Eat](#chapter-eleven-eat)
 12. [Chapter Twelve: A Time and Place](#chapter-twelve-a-time-and-place)
 13. [Chapter Thirteen: On the Books](#chapter-thirteen-on-the-books)
+14. [Chapter Fourteen: Eight](#chapter-fourteen-eight)
+15. [Chapter Fifteen: Prisoners First](#chapter-fifteen-prisoners-first)
 
 ---
 
@@ -8144,3 +8146,909 @@ Marcus went in with the first boat, and crossed the shingle to her alone, as he 
 "One who asks." Her eyes left him for the bay, where the ore-boats were coming in deep behind *Constancy* with the hides on their catapults, and the hundred's grey all along her rail, and white cloaks in the waist of the last hull; and came back to his face.
 
 "You are early."
+
+---
+
+# Chapter Fourteen: Eight
+
+**RODERIC**
+
+Thistle held her breath against the girth, and Roderic stood at her shoulder in the dark with the strap in his hand and waited her out.
+
+It was cold in the paddock behind the toll-house. The rain had given over before the second hour of the night and left everything wet, the wall-stones and the slates and the gorse beyond the wall. The mud by the gate had a skin on it now that broke under his boots like the crust of a pie. Over the marsh to the west the moon was going down, a night short of full, low and yellow, and it laid a long pale road over the wet country toward him.
+
+She let the breath go at last, all at once, with a groan, and he had the strap up and the tongue through before she could think to do it again.
+
+"There," he said. "Was that so very hard?"
+
+She brought her head round to bite him and met the mail at his elbow, and took that instead, and let it go with her lip turned back, offended, like a cat that has caught a wasp.
+
+He had named her in the first week, for her temper, to vex a woman. The horse he had saddled in this paddock in the spring had belonged to the Survey, and he had never given it a name at all.
+
+He ran his hand down her off foreleg and lifted the hoof and felt round the shoe, as he had felt round shoes in the dark since he was a boy in his grandfather's stables, and set it down again. She had good feet. She had been as sour as a green apple since the cove, which in her was health.
+
+When he lifted his left arm to bring the reins over her head, the coat moved on him, and he felt where it was new. It was the mail he had worn on the Long Field and on every field since, and the smith at Cyrene had mended it in the summer where the black lance had gone in under the arm. The new rings were brighter than the old. They would be for a year, as a new shoe is brighter than the hoof it is nailed to, until the weather got into them.
+
+The letter was in the saddlebag, in its oilskin, with a cord round it. He took it out and held it, and could not see it, and did not need to. It was the crown prince's letter, the one that had come with his order for the stair three years ago and told Roderic to burn the order. He had kept them both. Marcus had the order now. When he rode up this road before, the letter had stayed behind in his kit on the *Forward*, a mile out on the water. He put it in the pouch on his sword-belt, and buckled the flap down over it, and took his lance from where it leaned on the wall.
+
+Kaeso picked his way along the outside of the wall with the drum on his back. He had grown since the spring. His wrists showed a finger's length past his sleeves now, and his voice had gone down somewhere it did not always come back from.
+
+"Oppius sent this, General."
+
+It was a wedge of the halls' black bread with a strip of their smoked mutton folded inside it. Roderic ate it standing at the mare's shoulder. The bread was sour and heavy and the mutton hard as a strap, and black with the smoke of whatever they burned under the mountain, and very good. Thistle put her nose round to see if there was any for her, and there was not.
+
+"And you?"
+
+"Porridge, General. He put bacon in it."
+
+"Did he."
+
+"Cut small." Kaeso considered it. "So it went further."
+
+"That's Oppius." He wiped his fingers on the mare's mane, which she allowed, because it was a liberty and she would remember it. "You'll walk at my stirrup, the off side. You'll beat when I tell you and stop when I tell you, and in between you'll keep out from under her feet. She kicks."
+
+"Yes, General."
+
+"She'll kick you in particular. She takes against drums."
+
+Kaeso looked at the mare. Thistle looked back at him with one ear laid down flat, and the boy moved the drum round to his other hip.
+
+Valeria climbed up from the road with the Farrier on her shoulder and stopped at the wall. She had her plait pinned up under her helmet, and she had been down the lines of the Lanciarii already, all of them, by the look of her. Thistle put both ears back at her at once.
+
+"She's never forgiven me," said Valeria.
+
+"She was named for you. It's a hard thing to forgive."
+
+She looked at him over the wall in the last of the moon. On the road below them the cohort was getting up off the wet. Somewhere a man was being sick, quietly and thoroughly, as a man is sick who has been sick before every fight of his life and fought them all. Somebody laughed, and somebody told him to keep it off his boots.
+
+"Where will you be?" said Valeria.
+
+"Where you can see me."
+
+For a moment she did not answer. She reached over the wall and set his collar right where it had turned under at the neck of the mail, two quick tugs, as she would have done it for a recruit on a parade ground. Then she was gone down to the road and her company. He heard the Lanciarii's butt-spikes come up off the paving all together, as they did for her and for nobody else.
+
+---
+
+They marched up the Survey road in the dark, the whole army, the cohort's nails loud on the paving and the halls quieter on the verge beside it. The White brought up the rear, with rags tied round the bells on their spear-sockets. At the dip the old gorse closed in on both sides, higher than a mounted man, sweet and rank in the wet. Thistle pushed through it with her ears turning back and forth like a pair of sentries. Twice in the dark Roderic heard a sound off in the gorse that might have been a bird. The hundred had gone up the road before any of them, with Sylara and her four, before the moon was down. Sylara had promised them an empty road. It was empty.
+
+By first light the army stood on the second swell, where the halls had built the catapults the day before in plain sight of the gatehouse, and nobody had come out to stop them. Roderic left it there and rode down onto the slope alone.
+
+From the road the slope was nothing. It was a long fall of turf going away east toward the quarry-cut, smooth as a ride, with the gorse on it in dark clumps and the light coming up grey behind it. He had come down it once at the gallop with his eyes on a silver head, and seen none of it. He had seen all the rest of it from underneath a horse, looking up.
+
+So he went to the bottom. He let Thistle pick her own way down, and she took it carefully, testing the wet turf with each forefoot before she put her weight on it. At the foot of the slope he turned her round and sat her, and looked up the way he had looked from the ground.
+
+It was wrong at first. Then he moved her a length to his left, and back again half a length, and the slope stood over him as it had stood that day. The road's edge was black against the sky where the column had been, with the long tongue of gorse coming down from it on the left. A little to the right of the middle stood a clump with a dead stalk in it, white as a bone, that had been there in the rain.
+
+Liora had told him who was who, on the road south afterward, because she had been on the shield and had known them, and he had not. He had said the names back to her until he had them.
+
+High up, under the road's edge, where the first rider had struck them from the side: Bruttius, who took the lance on his shield and fell under the horse. Below him at the foot of the long tongue of gorse, where the shield tipped: Trebonius, on his knees with his hands on a dead rider's bridle. Three strides on, where his shield lay empty after she came off it: Egnatius, with a short sword. The broken ground below that, where there had been only two of them left round her. The flat place a little above the white stalk: Sosius, on his face. And the last twenty paces, and the dead horse's head, which had been here, at Thistle's forefeet, and was not; and Tappo, sitting on his heels.
+
+There was nothing of the bay. Not a rib of him, not a nail out of his shoes. The Survey had come down the slope afterward, he supposed, as it picked over every field, and the Survey wasted nothing.
+
+Thistle put her head down and began to crop the turf where the bay had lain, tearing it with a small wet sound, grass coming up by the roots, and he let her.
+
+He said them once more, aloud and low, in the order he had them, Bruttius to Tappo, because there was nobody to hear him but a mare with her mouth full. Then he gathered her up and rode back up the slope to the army.
+
+---
+
+The sun rose on the right, over the quarry-cut, and laid the shadows of the whole army out long across the turf toward the marsh.
+
+He could see the works now, all of them. The bank ran from the marsh to the quarry-cut, higher than a house, with its stone facing along the top, and the ditch lay in front of it, where the night's rain would be standing in the bottom. Before the ditch stood the golems in their four ranks, with the road left open between them a cart's width to the causeway and the gate. Behind them on the top of the bank the levy stood to in their wet cloaks, as they must have stood all night, and he could hear them coughing from here. Behind the bank, a quarter-mile back and higher, lay the curtain wall, with a dark line drawn along the top of it from tower to tower that did not cough. Beyond the curtain the foundries' three columns of yellow smoke stood up and bent away north-east on the wind, which was light, off the sea at his left shoulder.
+
+In the middle of the bank stood the gatehouse, and in its upper storey the window that had been cut for a bolt-thrower and never given one. There was somebody in it.
+
+The army had drawn itself up on the swell while he was down on the slope, without him, as he had told it to. The cohort held the middle across the road in front of the battery, shields grounded, Rufo at the front of them with his hand gone up to the fair lock plaited above his ear. To their left, toward the marsh, the halls stood in their ranks in mail to the knee with their long hammers sloped, short and broad and silent, and at their head a crimson cloak and a winged helm. Behind the halls the Lanciarii made a hedge of grey ash with the light on the heads, and behind the Lanciarii the White stood in their cloaks round Domitia. Up on the crest behind all of them the catapults stood in their row with their long arms up against the sky, and the halls' crews round them. Among the crews was a small figure in a grey cloak who would be Alana. The hundred were not there. Nothing was in the gorse but the wet.
+
+Marcus rode the line.
+
+He rode it slowly, the length of the halls and the cohort and back behind them along the Lanciarii and the White, on a chestnut gelding off the *Patience* that did not like the catapults and said so with its whole back. He had his blue cloak on and no helmet. He looked at them as he passed. He did not say anything to anybody. The front ranks waited for it as men wait before a fight to be told something, and turned their heads after him when he had gone by, and waited again. Roderic had heard a good many speeches before a good many fights, and made some, and knew that the best of them had been short and the rest had been for the man making them. He sat Thistle at the road's edge and watched him not make one.
+
+Marcus brought the chestnut back down the line to the road, and reined in beside Roderic, in front of the cohort. The chestnut threw its head. Marcus let it.
+
+"This time," said Marcus, not loudly, to the whole front rank of the army, "*we* set the pace."
+
+That was all of it.
+
+The front rank had heard it, and the rank behind had it from them, and it passed back through the army like water into sand. Roderic waited until it had gone all the way back. Then he stood in his stirrups.
+
+"You heard the man," said Roderic. "*Advance by the drum.*"
+
+Kaeso beat it.
+
+He beat it slow, as he had been told: the walk of heavy horse with a long way to go and all day to do it in, a beat and a long pause, and a beat. The army went down off the swell to it from the marsh end to the road, on the beat. Nobody hurried, and nobody was allowed to. On the crest behind them the catapults stayed where they were with their arms up, and the crews stood by them and watched the army go.
+
+The golems did not move. The levy did not move. The figure at the window did not move.
+
+At the foot of the swell Gaius had paced the ground the day before and driven a peg into the turf, with a white rag on it, where the front rank was to stop. It was out of bowshot of the bank, he said, and well inside his arc over their heads. Roderic rode to the peg and stopped beside it.
+
+"Kaeso. Hold."
+
+The drum stopped. The army stopped on the peg, all of it, the whole long line, and stood.
+
+It was very quiet then. There was the coughing on the bank, and from the golems a small sound, a tick and then another all along the line, as the sun got onto them from the quarry side; and somebody's belly in the cohort, loud, and the men round it grinning; and the wind going over the gorse.
+
+---
+
+He left the army on the peg with Marcus and rode back up to the battery, with Kaeso trotting at his stirrup and the drum knocking on the boy's hip.
+
+The catapults stood along the crest a little apart, each in its own trodden ring of mud. They were frames of black oak as long as a cart, bound with iron at every joint, and in each frame was an arm like the trunk of a young tree, with a leather sling at its end. Behind each frame stood a windlass with bars through its drum, and on the bars the bellows-crews from the halls, stripped to their shirts in the cold, with their breath going up off them. The shot lay in heaps behind the row: round stones dressed in the halls before ever the fleet put in for them, and carried round the north in the ore-boats' bilges for ballast. The boats had come to Bastion sitting low on what they meant to throw at it. The whole crest smelled of wet oak and tallow and dwarf.
+
+Ketta Quench was up on the nearest frame with her mallet, knocking a wedge under its foot. She was broad as a door and no higher than the mare's withers, with her black plaits bound in copper wire and her forearms spattered white with old spark-scars below the rolled sleeves. She did not look round at the horse.
+
+Gaius was walking along behind the row with his lenses on and a lofting sheet in one hand and his rule in the other, saying a word to each frame as he passed it. Alana sat on a heap of shot with the weather-book shut on her knees. Rusca stood beside her in the Survey's black with Alana's satchel on her shoulder, straight-backed, looking at the bank.
+
+Brokk was walking up and down behind them all with his hands hooked in his belt.
+
+He walked the row twice. The second time he stopped in the middle of it, and took his hands out of his belt, and every crew on the crest turned round.
+
+"Their line re-forms in nine heartbeats," said Brokk, "so you'll loose in *eight*!"
+
+The crews gave it back to him in one voice, the one word, and put their hands to the bars.
+
+"On the facing," said Gaius, to Ketta. "West of the gate, where the turf's slipped. Give me one to see it by."
+
+The windlass at her frame began to clank. The arm came down in the frame by jerks, groaning, with the crew's weight on the bars. Two of the crew lifted a stone into the sling and stood away. Ketta looked at Brokk. Brokk looked at Gaius. Gaius nodded.
+
+Ketta struck the pin out with her mallet.
+
+The arm went up. It moved faster than anything that size had any right to. It hit the crossbar with a shock that Roderic felt come up through the turf and Thistle's legs into his seat. The sling whipped over the top with a long rising hiss and let go. The stone rose off the crest into the morning, small and black and turning, over the army standing on its peg, over the golems, out over the ditch.
+
+It broke on the air.
+
+There was nothing there for it to break on. It met the empty air above the ditch, three spear-lengths short of the bank, and broke there as if it had met a wall; and for a heartbeat, where it broke, the air was written on. Pale lines stood up above the ditch, row under row, close as the weave of a good saddle-cloth, the whole length of the bank either way as far as he could see. Then they were gone, and the stone fell out of the air in pieces into the water at the bottom of the ditch.
+
+Down on the peg somebody in the cohort began to cheer, and stopped.
+
+"Again," said Brokk. "The next one. A frame east."
+
+The next one did the same, a little nearer the gate: the air took it and broke it, and let the pieces fall.
+
+Brokk said something in the halls' tongue that made the nearest crew look at its boots. Then he turned on Gaius.
+
+"That's a true arc, wonder-hands. I'd lay you that arc on a plate."
+
+"It's true," said Gaius. He had his lenses on the ditch, and had not taken them off it. "It isn't the arc."
+
+Alana had stood up. She stood on the heap of shot with the weather-book against her chest and looked at the place above the ditch where the writing had been, though there was only the bank to see now. Her lips were moving over something, as they moved over a column of figures. Beside her Rusca had the square of linen out of her cuff and in her fist, and was not using it.
+
+Then Alana climbed down off the heap and walked along the row to Ketta's frame, where they had a third stone in the sling and the crew standing ready. On the way she put the weather-book into Gaius's hands without looking at him, and he took it without looking at her. She stopped at the sling. She pushed back her sleeve and laid her right hand on the stone, the burned hand, and held it there.
+
+Roderic smelled it before he saw anything: hot stone, like a smith's quenching-tub when the iron goes in. When she took her hand away there was a mark burned into the stone where her palm had been, a single black stroke, straight, smoking a little in the cold.
+
+Brokk had come along the row behind her.
+
+"That's my stone, witch," he said. "And that's my arc."
+
+"*Our* arc," said Alana. She did not turn round.
+
+Gaius had the lofting sheet up again. "Two wedges out," he said to Ketta. "Bring it down into the front rank, at the slip."
+
+Ketta looked at him over the frame. "That's the witch's stone. You'll put it in the golems."
+
+"That's where I want it. I want one hole, not three."
+
+She knocked the two wedges out with her mallet without another word, and the frame settled, and the arm in it lay a little lower than its brothers along the row. Brokk looked at the stone with the black stroke on it, and then at the bank.
+
+"On eight," he said.
+
+He counted it. He counted it aloud for the crew in the halls' tongue, which Roderic did not have, and then for the rest of them in their own, slow and level, a hammer's beat. On the eighth Ketta's mallet struck the pin.
+
+The stone came in low.
+
+It passed over the army so low that the whole cohort on the peg ducked, and came up swearing. It struck the golems' front rank at the slip, where Gaius had laid it, and went through the first of them. Roderic saw it go. The golem burst apart round it with a noise like an armoury's racks coming down, and the stone flew on, and took the one behind it, and the one behind that. It bounded, and took the fourth in the shoulder and spun it round and down. Then it was out over the ditch, where the others had broken, and the air lit with its rows of writing, white, the length of the bank. The stone went through it as a good lance goes through the ring at a tilting-post. Where it passed, the lines guttered out in a ring round the hole and did not come back.
+
+It went into the bank under the facing, where the turf had slipped.
+
+The facing came down. Its stones broke out of the top of the bank in a long roaring slide, two and three together, and poured down over the turf into the ditch with the levy who had been standing behind them. The water in the ditch leapt up white. Where they had been there was a gap in the top of the bank with the morning sky in it.
+
+For a moment the whole crest was quiet. Then the crews were shouting, all along the row, and down on the peg the army was shouting. The halls in their ranks by the marsh did not shout. Every hammer in their front rank rose off its owner's shoulder and struck the turf, once, together, with one dull sound, like a dray-horse stamping in its stall.
+
+Brokk took his hands out of his belt.
+
+He walked down the row to where Alana stood at the sling with her right hand held in her left, and Gaius beside her with the weather-book. He looked at the two of them with his head back.
+
+Then he turned round to the crews.
+
+"The wonder-hands and the witch," said Brokk, "are *promoted*."
+
+They roared at that. Eydis's crew beat on their windlass bars, and Ketta stood up on her frame and shook her mallet over her head. Gaius's eyebrows rose, the new short ones, which had only lately grown back enough to do it.
+
+After that it was as Gaius and Brokk had said it would be, at a map table a long way from here, and as Roderic had not quite believed.
+
+The crews carried every stone meant for the bank past Alana on its way to a sling. She laid her hand on each one as it passed, as a groom on a gate lays his hand on every horse's quarter going out through it. The rest of the shot was for the golems. Gaius walked behind the row with the lofting sheet and gave each frame its turn and its lay, so that there was always one wound and one loosing and one coming down. Brokk stood in the middle of the crest and called the count, and on every eighth heartbeat a stone left its sling.
+
+They put them where the line closed.
+
+Roderic watched it close. He had seen it in the spring from the road, in the rain, and he watched it now from the crest in a clean light. Where a stone took a golem out of the front rank, the two either side of the place stepped in sideways, without turning, and the one behind stepped up, and in nine heartbeats there was no place. Only now, on the eighth, there was a stone coming into it. It took the one stepping in, and the one behind it, and the one either side stepped in after them; and on the eighth again another stone came. The line kept stepping into the hole to close it, as it had been made to, and the hole kept eating what stepped in. It ate back through the four ranks one by one. By the time the sun was clear of the quarry-cut there was a lane through the golems from the turf to the ditch. Above it the gap in the facing was three carts wide, and the bank had come down into the ditch in a slope of rubble a man could walk up.
+
+The knuckles of his right hand were keeping Brokk's count on his thigh, slow: eight and the stone, eight and the stone.
+
+Once, between counts, Ketta looked down the slope from her frame to the cohort on the peg, and lifted her mallet; and somewhere in the cohort's front rank a hand lifted, and dropped again.
+
+Alana's hand had begun to shake. She held it out over each stone a moment before she laid it on, and laid it on, and moved to the next. Her face had gone white round the mouth. Rusca stood at her shoulder and held the satchel and watched only her.
+
+"General," said Brokk.
+
+Roderic turned the mare.
+
+"It's through," said Brokk. "Four deep. If the king wants to walk up my rubble, now's when." He hooked his hands back into his belt. "I'll keep it open for him, eight and eight. Tell him not to dawdle in the middle."
+
+"You tell him."
+
+"Hah."
+
+---
+
+The halls had not moved since the army stopped. They stood by the marsh end of the line in their ranks as they had stood when he rode up the crest, with their hammers sloped and the light dull on their mail. None of them looked round when he rode down the slope behind them, but the front rank opened a little at its middle and let him through.
+
+Kolbrand stood at the head of them with *Balance* grounded in front of him and both hands on the haft. His plate had been let out to the last hole, and the crimson cloak hung straight down his back from the shoulders without a crease in it. Under the winged helm with its one uncut red stone, his blue eyes were about the height of Roderic's knee.
+
+"General."
+
+"Hold-King." Roderic leaned down to him. "The engineer's opened you a road. Brokk says now, and not to dawdle in the middle."
+
+"Brokk says." Kolbrand looked past him up the slope to the crest, where the arms of the catapults were going up and over against the sky one after another. Then he looked at the bank. "Your lancers. In the spring. Where did they stand when she came at them?"
+
+"On the top. Against the gatehouse, on this side of it." Roderic pointed with his chin. "She came up out of the quarry by a ramp at the far end and along the top of the bank, and over the gatehouse's wing-wall into them."
+
+"And they held."
+
+"They bent. Three steps. Then they held."
+
+Kolbrand looked at the place, a long way off across the golems and the ditch: the gatehouse, and the short wall of grey stone at its side.
+
+"Then that's where we'll stand," he said.
+
+Roderic straightened in the saddle.
+
+"Kaeso."
+
+The boy looked up at him from the off stirrup with his sticks ready, and his face set like a man's.
+
+"Walk," said Roderic. "Slow."
+
+The drum began, and the halls stepped off on it.
+
+They marched down the last of the turf to the golems at the drum's pace and not a step faster, the whole broad block of them, with the king in front and his cloak moving at his heels. At the mouth of the lane they drew in to fit it. Roderic rode behind their last rank with the boy at his stirrup, and Thistle fought him every stride.
+
+He did not blame her. He had watched the two walls of them shut the road behind the cohort that day in the rain, one long step each, all together, and the road was gone between one heartbeat and the next; a man standing in it would have been between them. The lane was no wider than that road, and on both sides of it the golems were moving. At its edges the line kept stepping in, a golem sidling out of the rank on the left and another on the right, and on the eighth a stone came down out of the sky and took it, and filled the air with flying iron. Pieces spun across the lane and rang off the halls' helmets. The halls did not look up. They walked between the falling stones on the drum. The mare under him went sideways and backward and up. Roderic sat her and talked to her the whole way, as he had talked horses through worse places than this, and kept her going forward.
+
+A stone took a golem at the lane's left edge, not ten paces from him, as it stepped in. It took it in the chest, and the golem burst along its seam from the crown to the crotch. The two halves of it crashed down at Thistle's forefeet and fell open, the one away from the other.
+
+He looked down into it.
+
+There was nothing in it. No works, no wheels, no man. It was hollow, like a mould when the casting's out, and the inside of the iron was dark and smooth. All over it, from the crown of the head to the feet, there was writing, cut into the iron, small and close, like a clerk's.
+
+Gaius had said so in the gorse, the day they first saw the line, and had it from Brokk, who had it from his grandfather. Roderic had thought it a dwarf's story.
+
+Thistle snorted at it and edged round it with her eyes rolling, and he let her go round, and did not look at it again.
+
+Beyond the golems was the ditch, and the halls marched down into it without stopping. The night's rain stood in the bottom, brown, knee-deep to a man and higher than that on a dwarf. The stones of the facing lay in it where they had landed, with the levy who had come down with them, and the halls walked over the stones and the levy alike. On the far side the rubble climbed the turf to the gap at the top of the bank in a long uneven slope of broken stone and earth. On the face of every stone in it Roderic saw the writing again, cut into the grey: rows of it, pale, the cuts so new that the stone inside them was still the colour of bread.
+
+The halls climbed the rubble on the drum.
+
+He put Thistle at it after them. She stopped at the foot and looked at it and told him what she thought of it. He told her she was a Tharsian-bred mare of good family, carried round the north at the crown's expense for this. She could go up it, or he would walk up it and leave her at the bottom to explain herself to the golems. She went up. She went up it as a goat goes up a wall, feeling for every stone before she trusted it, and twice a stone turned and she took her foot back and found another. He sat still on her and let her think. On the drum, behind the last rank of the halls, they came out through the gap in the facing onto the top of the bank of Bastion.
+
+---
+
+The levy were there to meet them, what was left of them at the gap.
+
+They were thin. He had known they would be, from the coughing. They were long-haired men with the bones standing in their faces and their wet cloaks dragging, in the Survey's helmets and the Survey's mail, which hung on them, and boots that were not theirs. They had the Survey's spears. Some of them came at the halls with the spears as if they meant it, and some stood with the spears and did not know what they meant. The halls' front rank went into all of them alike with the long hammers. It was short and ugly and loud, the hafts coming down on the spear-shafts and the spear-shafts breaking and the men under them falling. Then the levy at the gap were giving back along the top of the bank both ways, east toward the gate and west toward the marsh, with the halls following.
+
+The hundred were behind him on the rubble.
+
+He had not seen them come through the golems. He turned in the saddle and they were there, coming up out of the ditch onto the broken stone in their grey, quick and light, with Faelar at their head. Sylara was among them with her four about her, and Strabo with them in the cohort's mail. They spread out along the broken facing either side of the gap and put arrows on their strings. Faelar's ears moved at something along the bank, and he did not turn his head.
+
+Sylara got up on a fallen block of the facing and held her bow up over her head in both hands, flat.
+
+Strabo got up beside her.
+
+"The staff," he said, in the cohort's voice, loud and flat, and pointed with his whole arm along the bank to the west. "By the black fire. The whistle on the stone, past him. The crest, going back. Him with the staff, east, at the gatehouse wall. Him by the cart." He worked along the bank both ways, mark after mark: the men who had something in their hands to tell other men with. A staff, a whistle on a cord, a crest of dyed horsehair, a sword where everybody else had a spear. Ilvane, beside him, gave each mark again in the elves' speech, a word for each, and the word passed along the hundred. Eolan drew the fletching of his arrow once across his lower lip and set it. Nirel, at the end of the four, said Strabo's words over half aloud as he said them, *by the cart, by the cart*, as if she meant to keep them.
+
+Sylara brought her bow down.
+
+They loosed together, the hundred and the four, in one sound. All along the top of the bank from the gatehouse to the marsh the men with the staves and the whistles and the crests went down. One of them had the whistle at his lips.
+
+For a while the rest of them stood where they were.
+
+Nobody told them anything. They stood along the top of their bank in their wet cloaks with their spears. The halls were coming on at them from the gap a step at a time, and the elves waited on the broken facing with fresh arrows on their strings. Behind them, a quarter-mile off, the curtain's dark line did not move and did not come to help them. Then one of them near the gap threw his spear down on the turf. The man beside him looked at it, and threw his own down beside it. Then it ran along the bank both ways, as the arrows had, and on past the gatehouse to the east, where no arrow had gone, the spears dropping on the wet turf all along the top of the works with a sound like an armful of kindling let fall. The levy of Bastion sat down where they stood, or knelt, or stood wiping their palms down their wet cloaks where the shafts had been.
+
+Near the gap one of them sat down in the mud with his back against the broken facing, a boy with no beard yet, his hair cropped close to the skull for the lice. He put his face in his hands.
+
+One of the halls stepped over the boy's spear on the way past and stopped, and looked down at him. Then he felt in the pouch at his belt and brought out a strip of the black mutton, and held it out.
+
+The boy took his hands from his face and looked at it. Then he took it in both hands, and ate it, all of it, very fast, with his eyes shut; and the dwarf stepped back into his place in the rank.
+
+---
+
+Kolbrand took the halls along the top of the bank to the gatehouse.
+
+He did not hurry them. The drum had stopped at the gap, and nobody had started it again. The halls marched east along the top of the works at their own pace, which was the drum's pace without the drum, past the levy sitting on the turf with their hands on their knees. The top of the bank was a road in itself, wide enough for three wagons, trodden bare, with the levy's fire-pits at the back where the bank fell away to the low ground and the curtain. Roderic rode behind the halls with the boy at his stirrup. Behind him again the Lanciarii were coming up the rubble out of the ditch and forming on the top, with Valeria at the head of them. He turned once in the saddle to see. She had seen him already.
+
+The gatehouse stood up out of the middle of the bank, square and grey, a storey higher than the bank, with the road going in under it through the gate on its new black hinges. It stood back from the stone facing, so that the top of the bank ran on past its front over the gate in a strip of turf a few paces wide. On this side a wing-wall of the same grey stone ran from its corner straight out across the strip to the facing, chest-high, and closed it. Whoever came along the top of the bank from the east and meant to go on past the gate had to go over that wall. The halls marched up to it and halted in their ranks across the top of the bank, with their faces to the wall and the gatehouse's blind side, and to the east beyond, where she had come from.
+
+Kolbrand stood in front of them, against the wall, and grounded *Balance*.
+
+The window was above him now, across the wall and a storey up.
+
+He looked up at it. The rain had streaked the stone beneath it, and the centurion stood in it, close to the sill. He wore the plate of the First Legion, old pattern, and no helmet. He stood with his hands behind him, as an officer stands waiting for a file to finish dressing. His face was grey and still and entirely ordinary. It was the face of a man who has not slept for a long time, which Roderic had seen ten thousand times, and never once in a man three years dead.
+
+He had heard the man's voice once, by torchlight on the eve of the stair, on the island where it happened, speaking to the First Legion. He had never seen the face close before. He had put the order into the man's hand in the dark under his own seal, in his own words, and gone back to his cutter.
+
+His hand went to the pouch on his belt. It stayed there a moment. Then he took it away again and gathered up the reins, because the mare was fidgeting.
+
+The centurion did not look at him. He looked down at the halls, and along the bank at the levy sitting on their turf with their spears in front of them. Then he looked out over the golems and the lane through them, toward the swell where the catapults were working. A stone fell on its eighth heartbeat while Roderic watched him, and took a golem at the lane's edge, and the noise carried up to them on the bank. Nothing moved in the grey face.
+
+Behind the halls the White came up the rubble, with their spears and their cloaks kilted to the knee for the ditch. The bells on their spear-sockets were free now and rang a little at every step, and they carried the oil in leather bottles on their backs. Domitia led them. She stood on the rubble and looked along the bank both ways, at the levy's dead lying where the hundred had put them and the halls had left them, and at the levy's living sitting among them. Then she sent her score down the back of the bank to the dead with the oil.
+
+They went from one dead man to the next along the back of the bank, by the levy's black fire-pits, and knelt, and said the words over each, and poured, and lit. The first of them knelt on the far side of her man, with the wind in her face. Domitia came along behind her and tapped her twice on the shoulder with one finger, and moved her round by it to his other side. "Upwind of him, Sister. You'll want your eyes after."
+
+A tall sister with a burn scar across the back of one hand passed Roderic's stirrup with her bottle and knelt in the mud by the nearest of them, a man with a whistle on a cord round his neck. She did it quickly and well.
+
+The smoke rose off them along the back of the bank, and the wind took it north-east, low and grey, across the low ground behind the works toward the curtain wall. It smelled of hot fat and resin, and then of the other thing, and the levy sitting on the turf turned their faces from it. It drifted over the curtain. Roderic watched it go. Up on the walk the garrison stood in it from the west tower to the east, a dark line faced outward over the bank. The smoke went in among them and over them and out the far side, and nothing in the line bent or turned away from it.
+
+---
+
+She came in the afternoon.
+
+Thistle knew it before he did. She had been standing under him half asleep in the thin sun, with a hind foot cocked and her lip hanging, as a horse will stand all afternoon at the back of a fight if nobody asks anything of her. Then she was not asleep. She was up on all four feet at once and stiff, with her head high and her ears hard at the east. He felt the skin of her shoulders go tight under his knees and begin to shiver, small and fast, as a horse's skin shivers to throw off a fly when there is no fly. The sweat broke dark on her neck, and then white along the edge of the rein where it rubbed.
+
+Then he heard it.
+
+It was not loud. It carried along the top of the bank from the east, out of the quarry-cut, a long cold note with no tune in it. It came into him as the cold comes into a house when a door has been opened at the far end of it, out of sight.
+
+Behind him the hedge of ash shivered from end to end, all at once, as barley shivers when a wind goes over it. Over the wall, along the east half of the bank, the levy who had thrown their spears down got up off the turf and stood looking toward the quarry-cut. One of them began to walk backward, and then they were all running. In him it had never once come as running. It came as the other thing: his heels wanting the mare's sides, his hand wanting the lance down, the whole of him leaning toward the noise, as if the only way out of it was through it. It had come to him that way on the Long Field, and they had cheered him for it ever since, and it had put him on that slope with five men dead on it.
+
+She rose out of the quarry-cut at the far end of the bank by the ramp, where he had guessed there must be one, with her riders coming up after her two and two. On the top she turned along the bank toward the gate at a canter.
+
+The levy were running from her down the back of the bank, toward the curtain, along it, anywhere. She rode in among them with her lance up, not down, and they scattered from her across the low ground. She followed the nearest of them a little way down the back of the bank, as a man rides after hounds for the pleasure of seeing them run, and let them go, and rode back up onto the top. Then she came on.
+
+He looked for Valeria.
+
+She was at the head of the Lanciarii, ten paces behind him and to his left, with the Farrier upright in her right hand, and she was looking at him. Her left hand was down at her side.
+
+He sat the mare. The mare, who had more sense than he had, would have gone the other way if he had let her, and he did not let her either.
+
+She was close enough now to see. She sat a horse that was nothing but its bones, and sat it as well as he had ever seen anyone sit anything, long in the leg and upright, with the silver hair loose to her waist. The crimson plate on her was strapped over nothing at all. Her arms were bare from the shoulder-plates. Down her side, from under the arm to the hip, where the lacings of the breastplate had been let out, she was bare, and white as the lime-wash in a stable. The lanciarius nearest Roderic turned his face away. Roderic looked at her hands. The left was on the rein, low, too low, where it had been the summer she was eighteen and rode at his rings at home.
+
+In front of him the halls had not moved.
+
+The king had brought *Balance* up off the turf and was holding it level across the front of him in both hands, the haft across his thighs and the great double head out past his hip. Everybody in the army had heard by now what was written on its cheeks: *Hold. Weigh. Strike square.* Behind him the halls stood as they had stood all day. Nobody in all those ranks shifted his feet. Nobody turned his head at the horn. They were not still as the golems out there before the ditch were still; he had watched the golems all day, and there was nothing in them. They were still as men are still who are listening, and whatever it was they were listening to, it was not the horn.
+
+Then he saw it go out of the men nearest them.
+
+At the halls' left shoulder stood a lanciarius, a big lad from the hill country, whose haft had been shaking so that its head ticked against his neighbour's. He put the butt of it down on the turf, and stood, and looked at the back of the dwarf in front of him; and stopped shaking. The man beside him stopped. It passed back through the Lanciarii from the halls' end, as the shiver at the horn had passed through them, only the other way, and he watched it go, a face at a time, and did not know why. He would not have known how to ask.
+
+Under him, without his asking anything of her, the mare stopped trembling, and put her ears forward, and stood.
+
+In him the other thing did not go. It sat in him as it always had, leaning, wanting the lance down. He sat on it.
+
+She came along the top of the bank at the gallop with her riders strung out behind her, and in along the strip under the gatehouse's front, and her horse's hooves made no sound he could hear on the turf. She did not check at the wing-wall. She put the horse at it, and it rose under her and cleared it, and landed on the near side in front of the king, a length off, with her lance coming down.
+
+Kolbrand did not move. Then he moved once. *Balance* came up out of the level and across, square, and met the lance under the head and took the head off it; and went back down level across his thighs; and he stood.
+
+She checked.
+
+Her left hand came up on the rein at last, and the dead horse sat back on its hocks under her with the stump of the lance in her fist, and she looked at him. She looked along the whole front of the halls, and past them at the Lanciarii, and at Roderic on his mare, and did not know him. She looked at all of it, quickly, as a dealer looks along a line of horses for the one that will shy; and there was not one. He saw her face. It was very beautiful and there was nothing in it, and then there was something, and he did not know what it was. It was not anger. She turned the horse on its hocks and put it back over the wall.
+
+Her riders were not so quick. The first of them cleared the wall as she went back over it, and met the halls' front rank, and the front rank struck square, all of it together. The rider and the horse broke apart on the turf under the hammers. The ones behind did not try the wall. They went back along the gatehouse's front, and three of them turned off the top of the bank beyond it and down its back, and came round under the gatehouse on the low ground, fast, toward the White.
+
+The White were at the back of the bank behind the Lanciarii, kneeling among the dead with their oil. The first rider came up the slope at them out of the low ground and put his lance through the thigh of the last man in the Lanciarii's rear rank, Laenas, and pulled it out of him, and turned to come again. One of the sisters got up off her knees and stood over him where he lay, in the rider's road, with her spear; and did not go out of it. It was the tall one with the burned hand.
+
+Roderic had the mare half round, and his heels in her, and the lance coming down. The arrow went past the sister's ear.
+
+It went so close that the bell on her spear-socket rang with the wind of it. It took the rider in the face under the helm. He went backward over his horse's crupper and down on the turf at her feet, and his horse ran on past her without him, wide, down the slope toward the curtain. She put her spear into the rider where he lay, once, through the place where the oil was on the blade, and he stopped. Then she touched the bell on the socket with her nail, so that it rang again, once, and looked up along the bank to where the arrow had come from.
+
+Roderic took his heels out of the mare, and put up the lance.
+
+Yrrin stood on the top of the bank twenty paces off with his bow still up. He lowered it, and came down the back of the bank to her, and stopped in front of her, and ran a fingertip down the notch in the bow's grip.
+
+"You stood," he said.
+
+"It's what I'm for."
+
+Nirel had come down at his heels. She said it over to herself, *what I'm for*. Yrrin did not look round at her. He was looking at the sister.
+
+The other two riders were down by then, both, with arrows in them from the four and a sister's spear in one. When Roderic looked for Drusilla again she was far off along the bank, galloping back the way she had come with what was left of her riders behind her, and the levy scattering in front of her. Then she was over the brow of the ramp and down into the quarry-cut. The horn blew once more, further off. Then it stopped.
+
+In front of him the king had grounded *Balance* again.
+
+Kolbrand turned his head and looked up at Roderic from under the winged helm.
+
+"How many steps, General?"
+
+"None," said Roderic.
+
+---
+
+The stones kept coming all afternoon.
+
+In the first of it the White carried Laenas out the way the halls had come in. They took him down the rubble and over the ditch on a cloak slung between two of their spears, and out through the lane at a walk. They kept to the middle of it, with the stones falling at its edges on either side of them every eight. The tall sister had the front end; he had heard Domitia call her Junia. The bells on the two spear-sockets rang at every step, and Roderic heard them between the stones all the way through the lane. Afterward, on the verge below the battery where the litters lay in a row, a thread of gold-white rose among them and lay along the row, and faded, and rose again further along.
+
+Valeria came along the top of the bank from her company when the horn had been gone an hour, and stopped at the mare's off shoulder, and Kaeso got out of her way with his drum. She drove the Farrier's butt-spike into the turf and let it stand. Her right thumb went looking for the haft, and the haft was in the turf.
+
+"I didn't give you the palm," she said.
+
+"No."
+
+"You waited."
+
+"I wanted to go."
+
+"I know." She pulled the Farrier up out of the turf. "I watched you want to."
+
+She walked back along the bank to the Lanciarii.
+
+From the top of the bank he could see the whole of it, the golems below him from the marsh to the quarry-cut and the lane through them. On the swell the arms of the catapults rose and fell in Gaius's order. The line had drawn in. In the morning it had stood in its four ranks and ticked. Now it walked. All along the front of the ditch the golems were coming sideways toward the lane from both ends at once, a step and a step, without turning their heads, to close the hole.
+
+The marsh end emptied first, because it was nearer. By the middle of the afternoon the turf between the lane and the reeds was bare, a long strip before the ditch trodden to mud where the golems had come along it. The broken pieces lay in heaps at the lane's west edge, higher than a man.
+
+After that they came from the east, one behind another. None of them looked at the one ahead of it going down, and each walked on into the place where it had gone.
+
+On the road below the battery the cohort stood where it had stood since the drum stopped, across the road with its shields grounded, holding the middle, as Rufo had said at the map table it would, and not going up the road. Marcus sat the chestnut at the front of it. He had sat it there all day, and the chestnut had given up telling him about the catapults.
+
+The sun was going down over the marsh behind him.
+
+It laid the shadows out long along the top of the bank, the other way from the morning, toward the quarry-cut: the halls' and the mare's and his own among them. Out of the low ground beyond the quarry-cut, where the shadows pointed, the moon rose, round now, and yellow. The cold crept up out of the wet turf with the dark, into the mare's legs and up through her into his, and his breath began to show, and hers. Behind the halls the White's fires had burned down to red along the back of the bank, and their smoke still went off over the curtain, thinner now. He could smell it in the mare's mane, and in his own beard.
+
+By then the golems came one at a time, and further apart; and then there was only one coming.
+
+It started from the far end of the works by the quarry-cut and walked the whole length of the bank alone. It kept to the far side of the ditch, sideways, a step and a step, into the low sun, its long shadow dragging behind it toward the moon. It came past the gatehouse and across the mouth of the causeway, and on below the halls, and he could hear its feet in the mud across the ditch. None of the halls turned his head to watch it go by. Roderic did.
+
+It came to the lane, where there was nothing left standing on either side of the hole, only the heaps. It stepped in sideways at the edge of the hole, as it had been made to, into the place where the line had been.
+
+Roderic counted.
+
+On the eighth the stone fell out of the dusk and took it. The pieces dropped onto the heaps, and rocked, and lay still.
+
+He counted on.
+
+On the ninth, nothing stepped in.
+
+Up on the swell the arms of the catapults stood up against the last of the light, all along the row, as they had stood at first light, and none of them came down. He looked up at the window. It was empty. He did not know how long it had been.
+
+In the quiet he could hear the ticking again, the small sound of the morning, a tick and then another; only now it was all in one place, in the heaps at the lane's edges where the broken pieces lay, giving as the cold got into them.
+
+Kaeso had sat down on his drum at the mare's off side, which he had been told never to do, and gone to sleep on it with his sticks across his knees. Thistle had not kicked him.
+
+The moon was clear of the quarry-cut before Roderic knew he was still counting.
+
+The knuckles of his right hand were going on his thigh, slow: eight, and nothing; eight, and nothing. They were sore with it.
+
+He had always ridden at things.
+
+He let it run.
+
+---
+
+# Chapter Fifteen: Prisoners First
+
+**VALERIA**
+
+She knew the spear before she had it out of the heap.
+
+The halls had piled the levy's spears at the back of the bank at dusk, by the cold fire-pits, where the levy had thrown them down. It was a long untidy heap as high as her hip, all of it the Survey's issue, broad in the head and cheap in the ash, with the closed hand stamped on every socket. She walked along it in the dark with her left hand trailing over the hafts and the Farrier in her right, as she walked a rank at muster, and let the hand do the looking. Wet ash. Wet iron. A head gone loose on its rivet. Then, among the broad heads, a narrow one, long and leaf-shaped; and under her fingers, just below the socket, a knot in the haft, hard and smooth, with the grain of the ash bent round it as a laid hedge bends round its stake.
+
+She drew it out. The heap shifted and settled with a long wooden clatter, and somewhere along the bank one of the levy said a word in his sleep.
+
+It was Saturio's.
+
+A knot so near the socket was a weakness, and any quartermaster in the kingdom would have had the haft out and burned it. The first time she pulled him out of the rank for it, years ago at Callow, Saturio had told her that the ash had grown round that knot since before she was born. He had carried it since before she could walk, he said, and it had let neither of them down yet. So at every muster after that she had taken the spear out of his hands and looked at the knot, and given it back, and moved on to the next man; and he had stood and waited for her to do it.
+
+The last time she saw it, it had been going back up the road in the rain over his shoulder, with the rearguard. He had been the first man out of the column at the mark-stone, when Marcus asked for men who knew what a rearguard was. On the night of the stair he had stood in her file at the land gate, and been first out of the rank that night too. She remembered him in the gate by the light of the burning town, the grey just coming into his beard, with his point down and the knot under his hand, saying the same thing to every man in the file as the dead came up the road. *Low. Take them low. They don't mind the high ones.*
+
+Galba had come up behind her with the files. He saw the head of it against the sky and took his time.
+
+"Levy had it, then," he said at last, in the voice he kept for kit.
+
+"Yes."
+
+"All summer." He looked along the bank at the levy asleep in rows under their wet cloaks, where the halls had told them to lie down. "Carrying it about."
+
+She put it over her left shoulder with the Farrier on her right, and walked on west along the top of the bank, and the files followed.
+
+It began to rain before they reached the marsh end. It blew in off the sea on their left, out of the dark, on a wind that had backed in the night and brought the cloud up over the moon: fine at first, and then not fine. Behind them along the back of the bank the White's fires hissed out one after another and left a smell of wet ash. The rain got in at the neck of her mail and ran down her spine under the arming coat in one cold line.
+
+Across the low ground the curtain stood up against the sky. Along its top, from the west tower to the east, the dark was thicker in two ranks where the garrison stood on the walk. It had stood there all night, as it stood every night from the second hour, and the rain made no difference to it.
+
+Tonight would be different. Tonight Alana went under the keep with her burned hand to cut whatever held them there, and once it was cut they would answer to no one, on the walk or in the towers or at the pen gate, with the town still behind the bars. So the pens would be empty by dark. That was the day's work. The rest of it was ground.
+
+Rusca walked at the edge of the files in the Survey's black with her mitted hands under her arms. She had come down from the battery in the last of the night behind a sister of the White with a lantern, and brought Alana's word with her, and given it to Valeria at the foot of the bank exactly as she had been given it, as if it were an order about somebody else.
+
+*Bring her back.*
+
+That had been all of it. Alana's hand had been bad since the last stone, the sister said, and she had not come down herself.
+
+"Can you swim?" said Valeria.
+
+Rusca considered it. "No."
+
+"Then stay in the boat till I tell you."
+
+At the marsh end the Lanciarii ate standing, with the rain on them. Oppius had sent up cold mutton in a cloth and a sack of the halls' black bread, and the bread had lain all night at the back of the bank and taken the White's smoke into it. The mutton had gone cold in its own fat, which lay on it white and hard as candle-ends. The men ate with their fingers and wiped their fingers on their cloaks. Laenas, who had had a rider's lance through his thigh the afternoon before and been carried out through the lane on a cloak slung between two of the White's spears, was telling his file how it had felt, again. Valeria ate nothing. She was going in a boat.
+
+---
+
+The marsh began where the bank ended, with no line between them that Valeria could see. The turf went soft under her boots, and then wet, and then it was reed. It was last year's reed, taller than a man, the colour of old rope in the grey, with alders standing up out of it here and there, black and dripping. The water lay still between the stems with the rain pricking it. It smelled of peat and rotting stem and cold: a thinner smell than the fen's, with no warmth under it.
+
+The two liburnas lay in the reed at the edge of the open water. Nerva's men had brought them round from the south bay by the west shore the day before, with their masts out and laid along the thwarts, and left them at the marsh's mouth for the clans, and taken the oars away with them. Gaius had had them on the strand for a day to knock the shoes off their keels and the stone out of their bilges. Now they sat on the water as high and light as a pair of empty troughs, and smelled of new tar where the shoes had been.
+
+Sszarra was standing in the water at the reed's edge with only her shoulders and the long flat head out of it, and the rain running down her scales.
+
+"You're cold," said Valeria.
+
+The head turned to her, slowly. The clans were slow in the cold. She had seen them at the bay the morning the fleet sailed in, lying out on the rocks with their eyes shut until the sun had got into them; and there was no sun this morning, and would not be.
+
+"Yes," said Sszarra. "You are wet."
+
+"Yes."
+
+Sszarra closed both gold eyes at her, once.
+
+They boarded, Galba's file in the first boat and Scaeva's in the second, the men sitting along the bottom boards with their knees up and their spears laid along the thwarts. Valeria sat in the bow of the first with the two spears across her lap, and Rusca behind her. There was not an oar or a pole in either boat. The clans were in the water under them. She could not see them. She could see the reed shiver where they passed, and then only the rain on the water.
+
+Then the boat moved.
+
+Nothing in it moved it. It slid off the reed into the open water smooth and level, with a little ripple at the stem and none along the sides. The second boat followed. The marsh closed up behind them, and the bank lay long and black on their right.
+
+It was still water, flat as a table under the rain. Her belly had not been told. She was sick over the side before they had cleared the reed, quietly, and wiped her mouth on her wrist, and Rusca at her shoulder studied the reed on the other side with great attention until she had done.
+
+"Still water, Captain," said Scaeva from the second boat.
+
+"I know what it is."
+
+The canal turned in toward the bank and went into it by an arch. It was old work, round, of dressed stone gone green and half drowned, so low that its crown stood hardly higher than a man sitting, and weed hung from the keystone into the water. Valeria put her head down. The boat slid in under it.
+
+It was black under the bank, blacker than the night had been, and it went on a long way. The water talked to itself along the walls. Drips fell from the roof onto her helmet with a small hard sound, and onto her neck, and down her collar to join the rain. It smelled of old stone and moss, and of something that had died in there long ago and been left. Behind her one of Galba's file said under his breath that it was like being swallowed, and Galba told him he could stop that now. Her belly had gone quiet in the dark. She did not trust it.
+
+Then there was grey ahead, a round of it with the rain slanting across, and the boat slid out from under the far side of the bank into the first of the light.
+
+The low ground lay before them: wet grass and gorse and old spoil-heaps, a quarter-mile of it to the curtain, grey and dripping. The canal ran straight across it between low walls of cut stone, with the water a foot below their tops, and from the boats she could see over them: the wet grass going away on either hand, and the curtain ahead, grey on grey.
+
+On the curtain's walk the dark had begun to thin. She watched it go in at the towers' doors, from the ends of the walk inward, two and two, until the walk was empty and there was only the wall.
+
+Halfway across, the boat slowed.
+
+It did not stop all at once. The ripple at the stem grew small, and smaller, and then there was none, and the boat lay still on the canal between the walls with the rain falling into it. The second boat drifted up behind and lay still too. Galba's head turned to her. Down in the water, she supposed, something was lying with its eyes shut, waiting for its blood to come back. Ahead of them the curtain stood with its walk empty and its towers along it. If anything stepped out onto that walk now, it would look straight down at two boats full of men sitting still in the canal.
+
+"How long can they—" said Rusca behind her, very low.
+
+"As long as they need."
+
+She said it in the voice that made things so, and Rusca stopped asking.
+
+The boat moved again.
+
+Away to the east, where the curtain ran down to the quarry-cut, a postern opened in its foot, small and low, and riders filed in at it out of the cut at a walk. There was something wrong with the shape of their horses' heads. At the front of them rode one whose hair was so pale that it showed through the rain from where Valeria sat. Then the postern shut, and there was only the wall again.
+
+She listened for the horn. It did not blow.
+
+Cavalry had been on her list since the Long Field. It could stay there.
+
+The canal reached the foot of the curtain and turned along it, and lay under the wall broad and still from end to end. From the swell in the spring it had looked like a moat. It had looked like one to everybody.
+
+Near the wall's west end there was an arch in its foot, wide enough once for a stone-barge. Somebody had bricked it up long ago with a poorer brick than the wall's stone, from the crown down to a little above the water, and left the bottom open for the canal to pass. Under the surface, a foot down, she could see the top bar of an iron grate, red with rust, and the water sliding in black between the bars.
+
+Sszarra went under without a ripple.
+
+The boats lay at the foot of the wall in the rain and waited. Above them the curtain rose grey and wet and enormous, and the walk along its top was empty, and Valeria kept her eyes on the edge of it. Scaeva's file had their spears up across their knees. The rain hissed on the canal and kept on hissing.
+
+"I'll need to be close to one of them," said Rusca behind her, low. "The heading's small."
+
+"How close?"
+
+"An arm's length. Nearer, if the light's bad."
+
+Valeria looked at the light. It was bad.
+
+"Then I'll be at your back."
+
+The water at the foot of the brick heaved and turned brown. A bar rose out of it in a scaled hand, eaten through at its foot where it had stood in the silt. The hand laid it along the top of the canal's wall without a sound and sank again. Another rose. Then a third, snapped off short; and then the hand rose empty, and stayed up, open, in the rain.
+
+She went over the side.
+
+The cold buckled round her ribs a hole too tight, and the breath went out of her all at once. The bottom was silt over stone, and the water stood at her chest. She laid the two spears flat on the water in front of her and went in under the brick bent double, with her chin in the canal and the crest of her helmet scraping along the brick above. For three strides it was dark and stank of rust and old weed, and the cold was in her teeth.
+
+Then she was through, and standing up in grey light in still water, with the rain on her face.
+
+Behind her Rusca came through with her face turned up to the brick and her eyes shut, and Galba's fist in the back of her collar.
+
+It was a basin, square, walled in old stone, with barge steps going down into it on three sides, worn hollow in the middle by feet that had stopped coming. Beyond it the fortress ground rose in a long slope of wet grass and broken paving, and on the top of the rise, in plain sight, square and grey and shut, stood the keep. Horses waited at its gate in the rain with nobody on them, and their heads were bare bone.
+
+To her right the canal ran on eastward along the inside foot of the curtain, with a towpath beside it under the wall. Along the wall the towers stood out from it one after another into the rain. Every one had a black doorway at its foot, open, giving onto the towpath.
+
+*Things that might kill me,* she thought: the towers. She put the keep under *later*.
+
+At the foot of the steps the basin stirred, and Sszarra rose out of it, slowly, with the cold in every joint of her and the rain running off her, until the gold eyes were level with Valeria's own.
+
+"Water remembers every door," said Sszarra.
+
+She turned her long head and looked at the keep on its rise, and then east along the towpath under the wall, as far as it went into the rain, and then back at Valeria.
+
+"Which, shield?"
+
+"Prisoners first. Always."
+
+---
+
+Sszarra went down into the basin again, back under the brick to the boats. They walked east along the towpath in single file under the wall, the Lanciarii with the water running out of their boots and their spears carried low: Valeria first, and Rusca behind her, and Galba behind Rusca. They kept quiet. The towpath was old paving with moss in the joints, and the yellow weed that grows on stone where nobody walks, and it was slick under the hobnails. On their left the canal lay still under the rain. On their right the wall rose.
+
+The first tower stood out across the towpath, so that the path bent round its foot and past its door. The door was open. In the dark inside, the garrison stood.
+
+It stood as it had come in off the walk, rank behind rank, filling the tower's floor from wall to wall, faced toward the doorway. The grey light from outside lay on the nearest faces, and the rest ran back into black. Some wore the kingdom's helmets and some the Survey's, side by side in the same rank. The rain blew in at the door onto the front rank and ran down into their open eyes. Valeria walked past the doorway within a spear's length of them, and kept her eyes on them, and did not hurry; and behind her she heard the file not hurry either.
+
+Nothing came out.
+
+Nothing came out of the next one, or the one after. At every tower the towpath bent round its foot. At every one the door stood open and the dark inside was full, and the faces at its front were turned to the doorway and did not turn to follow them. From the keep on its rise anyone who cared to look could see the whole length of the towpath. She did not know why they let the file go by. She put that on her list under the towers.
+
+Somewhere past the middle of the wall Pacuvius's foot slid off the edge of the towpath into the canal to the knee, and the wall gave the splash back to them, loud. He stood there with one leg in the water. Every man in the file stood where he was. In the doorway beside them the front rank of the garrison stood as it had stood, with the rain running down its faces. Not a head turned. After a breath Pacuvius drew his leg out of the canal, very slowly, the water running off his boot, and set it back on the stone, and the file walked on.
+
+Back across the low ground behind the wall, far off, the halls had begun on the gatehouse. She heard the hammers, slow and heavy, like men splitting logs in a yard, and under them Kaeso's drum.
+
+Where the curtain met the old workings the canal turned in under the rock by a cutting, with walls of raw stone either side, and the towpath turned with it. At the end the rock opened out overhead, and the canal stopped in a basin. It was a square of black water under a face of quarried stone. Mossy quays ran round three sides of it, with iron rings in them rusted to their bolts, and from the quay at the far side a stair climbed to the level above.
+
+Valeria went up the stair first, low, and looked over the top step.
+
+The yard lay in front of her, flagged with cut stone, with the rain standing on it in sheets. Along its left side the rock rose sheer. In its foot the galleries ran back into the dark one after another, low square mouths driven into the hill when the island still cut its own stone, every one barred across with the Survey's iron, close-set and rusted brown. The first and widest of them was the pen gate. At the far end of the yard the pens' ramp ran down into it between walls of raw cut stone from the fortress ground above. At the foot of the ramp, under an oilcloth slung on two poles, the gate clerk sat at his table with his back to her.
+
+He had been put there to watch the ramp, because the ramp was the way things came.
+
+The row stood along the bars of the pen gate, between her and him, faced in toward the bars, bareheaded in the rain. They wore what they had been killed in, and none of it matched.
+
+The clerk had a cold. She could hear it from the stair-head: a thick wet sniff, and another, and then the small dry clack of a bead going over on his frame, for no reason she could see but to give his hands something to do. The rain drummed on the oilcloth over his head like a tabor. She did not think he would have heard a horse come up behind him.
+
+She put Saturio's spear into Galba's hands without looking round, and took the Farrier in both of hers, and crossed the yard.
+
+She went behind the row. It was farther than it looked. The flags were wet and the rain was loud and the dead did not turn their heads. She could smell the pens now, through the bars and over the dead's backs: a byre not mucked out since the spring, and wet rock, and a fire of something green that would not burn. Under all of it was the smell of people. Somewhere behind the bars a child was coughing. Galba was a pace behind her left shoulder and Pacuvius on her right, with Laenas behind them.
+
+Five paces from the clerk, the butt-spike of Laenas's spear touched a flag.
+
+It was the smallest sound in the yard. The clerk heard it. He began to turn on his stool, and he was a good clerk, and he was counting as he turned, before he had seen anything at all.
+
+"*Bastion. The pen gate. Row two—*"
+
+His hand went out to the frame, and the first of a figure was in his mouth. All along the bars the row moved: every head came round a little, together, and every left heel lifted off the stone.
+
+She put the Farrier's haft over his head and into his open mouth from behind, both fists on the ash, and drew it back hard into his teeth like a bit into a colt. His head came back against her mail.
+
+His teeth shut on the ash. The boy at the Forge had bitten her to the bone through the side of her hand, in the dark, and gone on trying to count through her fingers. This one could bite ash. He tried to count through it anyway. A noise came out round the haft with numbers in it, and the row did not answer it. His hand was still going for the frame. Pacuvius's long arm reached over her shoulder and took him by the wrist and lifted the hand off the beads, and held it up in the rain, out of the way.
+
+Laenas had his knife out.
+
+"Alive," said Valeria.
+
+The knife went away.
+
+The row stood where the figure had left it. Every one of them had his weight on his right foot and his left heel up off the flags, as raw recruits stand when the drill-master stops the count between one foot and the next, waiting to be told. No living file could have held it. They held it.
+
+Galba took the muffler off the clerk's neck, wet as it was. Valeria drew the haft out of his teeth, and Galba had the muffler in its place before he could make a sound. Pacuvius tied his hands behind him with the cord off the oilcloth, and the oilcloth slid down off its poles over the table in a long slither of water. The clerk sat on his stool in the rain with the muffler in his mouth. He was young, a boy nearly, in the Survey's black, with the keys of the pen gate on a ring at his belt and his nose running. He was shivering. She supposed it was the cold.
+
+Then Rusca walked past her into the rain, and Valeria followed her and stood at her back.
+
+Rusca went straight up to the nearest of the dead, the one at the end of the row by the clerk's table, and stood in front of it. She stood close, an arm's length from it, near enough to see the buckles. Its face was half turned toward the clerk, where the count had left it. Rusca did not look at the face. Her eyes went to its brow, along a line of something written there and back again, and not once came down to the eyes.
+
+Over her shoulder Valeria could see the writing: a seam across the grey skin of the brow like a healed cut, and under it a line of something small. She could not read it. She did not try.
+
+Rusca read the transfer low, to the dead man's brow, in her own voice. It reached Valeria flat and even, every word the same weight as the last, as a roll is read at a muster.
+
+"*Bastion. The pen gate. Row two. The gate clerk's count. Transferred from the gate clerk's count to the count of—*"
+
+Valeria heard her draw breath.
+
+"*—Plautia Rusca, quaestor, of the Survey. By order of Plautia Rusca, quaestor.*"
+
+Nothing happened. The rain fell. The row stood with its heels up.
+
+Rusca stepped back from it, and her shoulders touched Valeria's mail, and she stood there against it for the space of a breath. Then she crossed to the clerk's table and took the frame up off the wet wood, where the oilcloth had slid away from it, and held it in her two mitted hands as if it were heavy. She gave the heading again, the post and the row, with her own name on the end of it where the clerk's had been; and then the count.
+
+"Row two. Stand aside. By the wall."
+
+Her finger moved a bead.
+
+The row came down off its heels all together, with one small sound of wet leather on stone. It turned. It walked across the yard in file to the wall under the ramp, every man the same distance behind the next. There it faced about, and stood against the cut stone with its back to it and its hands at its sides; and the rain came down on it.
+
+The pen gate stood bare.
+
+"Prisoners first," said Valeria.
+
+Rusca had gone white to the mouth. She drew the square of linen out of her cuff and wiped the rain off the clerk's frame with it, a row of beads at a time, and laid the frame down on the table.
+
+"That's what I said."
+
+---
+
+Galba gave her back Saturio's spear and took the keys off the clerk's belt. They were stiff. He swore at them, low and steadily, in the hill-speech, while he tried them one after another in the lock of the pen gate. Behind the iron the faces rose up out of the dark and watched him do it.
+
+They had come to the bars when the row went to the wall. They stood there now pressed close, and looked at the dead standing by the wall, and at the Lanciarii in the rain, and at Galba's hands on the keys, and not one of them spoke. They were thin. She had known they would be. She had not known what it would look like on a child. Their clothes had been the clothes of a harbor town three autumns ago: smocks and shawls and oiled wool, sea-boots, a fisherman's knitted cap with the colour gone out of it. They had worn them every day since, and slept in them on rock.
+
+The lock gave. Galba pulled, and the gate swung out with a shriek of rust that ran up the rock face and back, and nobody came out.
+
+"Out," said Valeria. She said it in her drill-field voice, because it was the only one she had that carried. "Slowly. Mind the step."
+
+They came out.
+
+A woman came out among the first of them with a shawl over her head and a boy by the hand. At Valeria's voice she stopped in the gateway and looked up at her face, at the scar, for longer than the rest, and the people behind her went round her.
+
+"You shouted at me," she said.
+
+Valeria did not know her. She had shouted at a whole town that night. She had stood in the land gate with one file of spears and the streets emptying at her back, and the dead coming up the road out of the dark in front, and shouted until she had no voice left to shout with; and every face that went past her into the town had been this woman's, in a shawl, with a child by the hand, running for the harbor and the boats.
+
+"Did you run?"
+
+"I ran," said the woman, and walked on into the yard with the boy.
+
+"Scaeva."
+
+"Captain."
+
+"The gate on the road. Open it."
+
+Scaeva took his file up the ramp at a jog, past the dead by the wall, and over the top of it into the rain. Over the lip of the ramp she could see the top of the nearest tower, and its walk, with nothing on either.
+
+Galba worked along the rock face with the keys from gallery to gallery, and the bars swung open one after another, every one with its shriek, and the yard filled. They came out slowly, as she had told them to, holding to the bars and to each other. Old men. Women with their hair hacked off short, scratching at it. Children, who stood out in the open and stared up into the rain. A man came out on a crutch cut from one of the galleries' pine props, with the bark still on it. Many of them sat down on the wet flags where they stood, as if their legs had only been waiting for leave. The Lanciarii went among them with their cloaks off and put the cloaks round the ones who were shaking, and then had no more cloaks. Valeria's was the last. She put it round a woman with a child on her hip, and Laenas saw her do it.
+
+"Eyes front, Laenas."
+
+A man with a fisherman's hands and no teeth took her by the sleeve.
+
+"The boats," he said. "Did they get out? The night of it."
+
+Most of them had gone down in the harbor mouth before they cleared it.
+
+"Some," she said.
+
+He nodded, as if that were what he had thought, and let go of her sleeve.
+
+The child on the woman's hip was a girl of two or so. She put both hands up into the rain and looked at them, and then at her mother, and then at the rain again.
+
+The yard was not wide, and they had to pass close by the dead to go anywhere in it. None of the dead moved. None of them looked at the living, or had anything in its face. The living went past them with their eyes on the flags, or with their eyes on the dead; and one old man stopped in front of them and stood there until somebody took him by the arm and led him on.
+
+She put the dead by the wall in the third column, the one with no heading.
+
+The last gallery was at the back of the yard, where the rock curved round and the light did not reach far. Galba took longer over its lock than over the others. When it gave he pulled the bars open, and stood there with the keys hanging from his hand.
+
+There were men inside. They were standing up, which nobody else had been. They stood back from the bars in the dark in two short ranks, dressed by the right, and their faces were grey shapes over beards. She could not see one of them plainly.
+
+"You took your time," said Galba.
+
+"We were kept," said a voice out of the dark.
+
+She knew it. She had heard it answer to its name at every muster since Callow.
+
+They did not come out. Galba stood back from the bars with the keys, and waited.
+
+Scaeva had been gone an hour when the cohort came down the ramp.
+
+They came down at a walk with their shields on their arms, Rufo at the head of them, and halted at the foot and stood looking at the yard. Behind them walked Marcus, in his blue cloak, with no helmet and his hair plastered flat by the rain. Liora was at his shoulder with her hood up, and Faelar, and Domitia in her steel cap, and Hostus with a kettle in each hand.
+
+"That's him," somebody said near Valeria, an old man's voice. "From the stair."
+
+"He came back, then," said somebody else.
+
+Marcus stopped at the foot of the ramp. The scar along his jaw had pulled tight. He said nothing to them. He stood there in the rain, and they looked at him, a great many of them, for as long as they wanted.
+
+On the road south in the spring she had told him she would have gone through. So would Cassandra, who had done it as a sum. Valeria looked at the faces turned up to him in the rain.
+
+Across the yard Galba still stood at the last gallery with the keys in his hand. Marcus looked past the town to him, and to the two short ranks in the dark behind him, and did not go over.
+
+Then the cohort began to carry them up. They carried the ones who could not walk up the ramp on their shields, and the ones on the shields lay on their backs and watched the rain going by over them. At the head of the ramp Liora knelt in the wet with her hood up. They brought her the worst of them, and she put her hands on them one after another, and some of the ones she touched got up off the shields and walked.
+
+Laenas gave a boy the heel of black bread out of his pack. Domitia was there before the boy had it to his mouth. She tapped Laenas twice on the wrist with one finger.
+
+"Broth. Not bread."
+
+Laenas took the bread back. The boy watched it go with a face Valeria did not want to see twice. Hostus worked along the line with his kettle and a horn cup. He filled the cup with mutton broth, the fat skimmed off it and the steam rising from it into the rain, and put it into the boy's hands.
+
+"Drink it," he said. "Slowly."
+
+When two of the cohort came for the clerk, Galba pulled the muffler out of his mouth so that he could walk without choking. The clerk looked past him at Rusca, who stood by the table in the rain with her hands in her mitts.
+
+"How am I entered, Quaestor?"
+
+"Taken," said Rusca.
+
+When the last of the town had climbed the ramp, the men in the last gallery came out.
+
+They came out into the yard in their two short ranks, and halted, and stood. Their hands were empty. What was left of their kit was on them: the mail gone, the arming coats worn through at the elbows, the cloaks long since given to somebody. They were thinner than the town. Galba walked down the front of them as a file-leader walks his file before a march, looking at their feet. At the end of the rank he said they would all want new boots, and that he would see to it.
+
+Saturio was last. His beard had been grey in the spring. It had grown down onto his chest since, and he had got thin behind it, so that there was not much left of his face but the nose and the eyes. He had a board under his arm. He crossed the yard to the foot of the ramp, where Marcus was, and stopped, and held it up.
+
+"Kept the count, Centurion."
+
+Marcus took it like a relic.
+
+It was a piece of split pine, one of the galleries' old props, a forearm long and grey with handling. At the top, a little apart from the rest, long strokes were scratched deep in two rows: the field, she supposed, and the road. Under them, small and close and even, a stroke to a day, ran the short ones, row on row, down to the foot of the board and over onto the back. He had done it with a hobnail. In places the nail had skidded on the grain, and he had gone back and cut the stroke again.
+
+Her three were up there among the long ones.
+
+The rearguard climbed the ramp last of all. Saturio passed her at the foot of it. He saw his spear on her shoulder, and looked at it, and at her, and went on up the ramp after the others with nothing in his hands. His left boot was short of a nail at the heel.
+
+Galba followed Saturio, and Valeria followed Galba with both spears, and the Lanciarii followed her. At the head of the ramp Faelar stood to one side in the rain with his bow unstrung over his shoulder. She had seen him there from the yard since the first of the town went up, with his eyes going to every face. Once, at something she could not hear, his ears went back and lifted again. When the last of the rearguard had passed him he turned his head to Marcus, who had not asked him.
+
+"Two hundred and nine."
+
+---
+
+The rain stopped a little after noon.
+
+They crossed the fortress ground in a long slow column, the cohort and the town, with the Lanciarii at the tail. They passed the foot of the keep's rise and followed the inside of the curtain to the gate on the road, where Scaeva's file stood in the gateway with their spears grounded. At every tower they passed the door stood open and the dark inside was full, and none of it stirred. She watched each door until it was behind her. The keep stood on its rise with its gate shut and the horses waiting before it.
+
+Rusca walked beside Valeria at the tail. She had not spoken since the yard. At the curtain's gate she looked back once, along the inside of the wall toward the old workings, where the ramp was.
+
+"What happens to them?" said Valeria.
+
+"They stand."
+
+"Till when?"
+
+"Till somebody counts them again."
+
+"Who?"
+
+Rusca looked at the wall a moment longer. "Me, I suppose," she said, and walked on through the gate.
+
+Beyond it the road ran straight across the low ground to the bank. The hundred were out in the wet grass either side of it with their bows, grey and still, and Valeria did not see them until she was among them. The halls had the gatehouse. They had gone in by its own door, which lay in pieces in the road, and the gate itself stood open on its new black hinges with nothing broken. They stood in the gate passage on both sides of the road, short and broad, with their hammers grounded. A dwarf sat on the bar, which they had lifted down and laid against the wall, and ate a sausage, and watched the town go by under him.
+
+Out beyond the gate the causeway ran over the ditch between the heaps of broken golems, where Marcus had turned the cohort round in the spring. The town walked out along it slowly in the thin sun, and down the road to the litters below the battery, and the cold wind off the sea went through their rags and the army's wet cloaks alike.
+
+She left the files on the road and walked back up the causeway alone, with the two spears on her shoulders.
+
+The halls let her through the gate without a word. She climbed the back of the bank west of the gatehouse by the levy's trodden path to their fire-pits, and walked along the top of it past the wing-wall, to the place.
+
+She knew the place. In the spring the Lanciarii had held the top of the bank here, a short line along the stone facing with their backs to the curtain and the golems standing on the slope below them, a step under their points. The dead horses had come along the facing out of the fog, and the line had given back three steps under them, and come forward again. Two of hers had gone down under the hooves at the line's end and over the facing. The black lance had taken a third and lifted him and thrown him after them. She had not been able to get down to them. There had been golems on the slope to the foot of the facing, shield to shield; and then the fog, and then the road.
+
+She laid the two spears down on the turf at the top of the facing, side by side, and sat on the stone and let herself down over it onto the slope.
+
+The turf was steep and wet, and her heels went into it and held. Below her it fell away to the ditch, where the rain-water stood brown in the bottom. Somewhere on the air above the ditch was the ward, which she could not see. The slope was empty now.
+
+They were where they had fallen, a little way down, close together.
+
+They were bones in their mail. The summer and the crows and the rain had taken everything else. The mail had rusted brown and red and lay on them in folds. Their helmets were still on. The turf had grown up a little round them, as turf grows round anything left lying on it long enough, and there was moss on one of the helmets.
+
+Nothing had raised them. Nothing had buried them either.
+
+She knew Mucius by the band of brown wool at the cuffs of his arming coat. She had had the sleeves let down for him herself, because no coat in the stores had ever reached his wrists, and the band was still there, rotten, round the bones. She knew Cominius by the ring on the bone of his finger, black plaited horsehair, which a girl at Callow had made him and which he had not once taken off, not for inspection, not for her. She knew Fulvius by his mail. It was holed through the front and through the back where the black lance had gone in and out.
+
+"Mucius. Cominius. Fulvius."
+
+She sat down on the turf beside them with her knees up. The wet came through her breeches. Out over the ditch the cloud was breaking up from the west, and the light came and went on the heaps of broken golems at the lane, and on the swell beyond them where the catapults stood in their row, and on the litters below the battery, where the town was. The wind smelled of the sea and the ditch-water and the turf. A crow dropped onto the nearer heap and looked at her, and at them. She stayed where she was, between it and them, until it went.
+
+When she turned and looked up, the General was sitting Thistle on the top of the bank above her, beside the two spears, with the low sun on his face under the edge of the cloud. The mare had her ears back at Valeria, as she always had. He did not come down. She looked at him, and he at her; and then she turned back to her three.
+
+The White would come down to them in the morning with the oil and the words, and Domitia to see it done from upwind.
+
+When she climbed back up over the facing the spears were where she had left them, and the mare's hoofprints went away along the top of the bank toward the gate.
+
+---
+
+At dusk the White had their fires along the road below the swell, and the Lanciarii had theirs at the end of the row, and Oppius had the kettle on. It was mutton and barley, with the halls' onions in it and a marrow-bone, and a skin of yellow fat on the top that he broke with the ladle, and the smell of it carried along the road in the cold. The sky had cleared from the west, and the night was going to be hard and still; the water in the ruts would be ice by morning. Along the verge where the litters lay, the town sat wrapped in the army's cloaks and ate out of the White's bowls, and the steam rose off the bowls into the firelight.
+
+Up on the curtain the walk was empty. By the second hour of the night it would not be.
+
+Marcus sat at the cohort's fire with Saturio's board across his knees. He was not reading it. He looked up when she passed, and down again.
+
+Alana was at the White's fire, sitting on a sack with her right hand in a bowl of warm water and Liora beside her. Valeria brought Rusca back to her. Alana looked up at Rusca's face, and then at hers, and did not ask. Rusca sat down on the sack beside her. After a little she took Alana's hand out of the water and dried it on the linen from her cuff, the burned palm last.
+
+Yrrin came down off the swell while the kettle was going round. He was broad for an elf, and the firelight caught the scar through his eyebrow, and he had a small flat flask in his hand of the kind the White keep their lamp oil in. He walked along the road past the Lanciarii's fire, where every man of them saw him, to the White's, where every sister did. He stopped in front of Sister Junia, who had stood over Laenas with her spear on the bank the day before while the elf's arrow went past her ear, and ran a fingertip down the notch in his bow-grip.
+
+"For your lamp," he said.
+
+Junia looked at the flask. She was tall, as tall as he was, and freckled from the field, with a burn scar across the back of the hand she held out for it. She rang the bell on her spear-socket once with her nail, and took it.
+
+Yrrin walked back up the swell into the dark.
+
+The Lanciarii had a song about that. They had had it since before Valeria was a recruit, and they had it out now, all of them, before the elf was out of earshot. The first verse was about the oil, and where a man might get it, and what he paid. The second was about the lamp, and was worse. They were two lines into the third, which was about the wick, when Valeria said, "The wick can wait for Midwinter," and the White's fire laughed louder than her own.
+
+Saturio was sitting at the end of the Lanciarii's fire with a bowl of Oppius's barley in his lap and only the spoon in his hand. Somebody had got him a cloak. The rest of the rearguard sat round him close, as men sit who have slept in a heap for half a year and have not yet remembered how to sit apart. Galba sat with them with his own bowl, and ate it, and said nothing.
+
+Valeria walked round the fire to Saturio with the two spears. He looked up from the bowl.
+
+She looked at the knot once more, and held it out to him.
+
+He put the bowl down on the road and took it.
+
+"There's rust in the socket," said Valeria.
+
+"Yes, Captain."
+
+He ate the rest of his supper with it in the crook of his arm.

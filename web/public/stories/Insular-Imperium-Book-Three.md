@@ -21,6 +21,7 @@
 15. [Chapter Fifteen: Prisoners First](#chapter-fifteen-prisoners-first)
 16. [Chapter Sixteen: Choose](#chapter-sixteen-choose)
 17. [Chapter Seventeen: Excellent Hinges](#chapter-seventeen-excellent-hinges)
+18. [Chapter Eighteen: The Sum](#chapter-eighteen-the-sum)
 
 ---
 
@@ -10120,3 +10121,465 @@ The shaving rose off the old oak in one long curl, darker than new wood would ha
 At the slip-foot at Cyrene he had watched Arruns and his brother true a strake on trestles like these, one from each end, with their heads down, working toward each other.
 
 He went round to the far end of the trestles, where Velthur would have stood, and began again from there.
+
+---
+
+# Chapter Eighteen: The Sum
+
+**VARUS**
+
+They brought the debtors out at the morning slack, when the harbor lay still under a rain so fine that it made no rings on the water.
+
+The debtors came out of their side of the harbor prison at the foot of the old mole, two by two, with a turnkey in front of them and a turnkey behind, and walked down the mole to the Survey's hull at the end of it. The turnkeys did not hurry them. There was no need. The hull would lie there as long as she was told to lie there. She had been waiting since first light with her oars run out level over the water. The men on her benches sat with their heads down in the rain, and the rain ran out of their hair and down their faces and off the ends of their noses, and none of them wiped it away.
+
+The clerk who entered the debtors sat at a table at the foot of the mole, under an awning of tarred sailcloth that let the rain through at one corner. It was Thessa's old clerk, who had kept the town's book for as long as the town had been the Survey's. Every winter the frosts gave him a chilblain on the knuckle of his forefinger. He held his pen off it, between the second finger and the third, so that his downstrokes all leaned back a little, like men walking into a wind. As each debtor reached the table the turnkey said a name, and the old clerk wrote it, and the trade after it, and then the one word; and looked up for the next.
+
+*Name. Trade. Carried.*
+
+Varus stood at his shoulder and read them down the page as the old clerk wrote them.
+
+He had stood there for the last three quarter-days as well. A captain of the Navarchy might stand where he liked on a Thessa quay, in the rain, with his hands behind his back, and by the second time the turnkeys had stopped looking at him. The old clerk had not looked at him once.
+
+There were not many this quarter. There were never many at Thessa. A cooper, who had drunk his yard. A boatman whose boat had gone down under him off Halcyra with the loan still on her. An old Thessan woman in a shawl, who walked by herself, because the turnkeys had nobody to pair her with, and who said her own name to the clerk before the turnkey could, clearly, in the common tongue, as if she wished it spelled right. The clerk spelled it right.
+
+Burrus came near the end.
+
+He was a big soft-spoken man with a sailmaker's stoop, and he still had his palm strapped on his right hand, the leather band and the iron eye he pushed his needle with, as if they had taken him off his bench in the middle of a seam. In the spring he had cut the *Excise* a new mainsail, and cut it well, with every seam lying the one way, so that she drew like a new ship. He had owed the chandlers for the canvas since. Varus had known that. Everybody on the quay had known it.
+
+Burrus saw him, and nodded to him as he had nodded across his loft on the day the sail went aboard.
+
+"Captain," he said.
+
+Varus set his heels on the quay, as on a deck when she rolls. Then Burrus was past, and the turnkey said his name, and the old clerk wrote it.
+
+*Burrus. Sailmaker. Carried.*
+
+When the last pair was aboard, the Survey's clerk on the hull's after-deck moved a bead along a wire of his frame, under his hood, and the oars lifted together and went in together, and she drew off from the mole and out between the heads into the rain. Varus listened to her go. The Navarchy pulled two and a pause, and always had, because living men must breathe. The hull pulled with no pause anywhere in it, stroke on stroke on stroke, even as beads along a wire, until the rain had her.
+
+The old clerk sanded his page and poured the sand back into its box.
+
+"Where do they go?" said Varus.
+
+The old clerk put the end of his pen on the column.
+
+"Carried, Captain."
+
+"Carried where?"
+
+"It's a column." The old clerk closed the book, and buttoned it under his coat out of the rain, and took it away up the quay.
+
+Varus had learned his sums on a slate at Ostra, like every child in Tharsis. A figure that is carried goes on into the next column, and is added in there. It arrives.
+
+The dead went to the quay. That was no secret; it was the best-known thing in Tharsis, and the best-kept custom. A son died at the oar or in the quarries, and a month after his mother saw him on the quay, working, and did not look at his face, and for a year kept a lamp burning in the window. At Thessa the harbor-master's stock had been building the new mole since the spring. It grew out into the harbor a length at a time, by night, and in the morning the town's boys fished off the new end. Three times since the spring Varus had walked out along it after dark, among them at their work, and looked at their faces.
+
+Tharsians did not look at the faces. It was not written anywhere; it did not need to be. He had gone with his collar up and his mouth dry, and looked at every face on the new mole by the light of their clerk's little hooded lamp, one after another, as they passed him with the stone. He had been looking for the carried. There had been none of them on the new mole. There had been none of them on any quay he had put into since the spring. The dead went to the quay, and the debtors were carried, and the column sailed for the Spire with the rest of Thessa's book, and nobody carried was ever raised after.
+
+It had begun at Cyrene, under the slip gate, in the rain.
+
+He had taken four ships there at the winter's end, by night, to bring away the Navarch and the prisoners and to burn the slips. At the slip gate there had been two men standing in front of the stair door, and they were of Thessa. He had known it by their faces before he heard them; and then he had heard them, calling to each other in Thessa's speech. He had called up past them to the lit window over the arch, to the Navarch by his title and by name: that the Navarchy had sent for him at its own cost, and he was to come down. Nothing had come down. Then the two men of Thessa had held the gate under that window against the Navarchy's marines, for a fishing town that was not theirs, until neither of them had anything left to hold it with. He had stood at the foot of the arch and looked at them a long time, and then up at the window, where the Navarch was writing. He had been adding them ever since, at sea and ashore, in his cot at night and at the foot of the old mole on quarter-days, and they would not come out. He had asked at Thessa's yards for their names. The yards had looked at his coat, and gone back to their adzes.
+
+His posting had gone up on the board in the clerks' hall a week before: *Captain D. Varus, the Excise: to carry for the Survey, Thessa to the Spire.* There were not so many living captains left in the Southern Sea that the Survey could pick and choose, and not so many that the Navarchy could refuse it. At noon on the quarter-day the officer who had the Southern Sea while the Navarch was held sent the quarter's return down to the *Excise* in its oilcloth, with a line of his own pinned to the outside: *Read it as it is written.*
+
+They sailed with the evening ebb, a southerly behind them and the west's packets in their oilcloth in the locker under Varus's cot. The old clerk sat in the stern out of everybody's way, with Thessa's book in its box on his knees and a covered basket at his feet that smelled of honey and aniseed. His wife had baked for the voyage. He gave Varus one of the cakes, and it was still warm in the middle.
+
+He ate one himself, slowly, leaning out over the box, so as not to get honey on Thessa's book.
+
+---
+
+They raised the Teeth at first light, to starboard.
+
+The Navarchy passed on the west side of the reef now, since Cyrene was lost and the wood had signed: between the Teeth and the wood's long shore, at night if it could, and fast. The southerly had fallen light in the middle watch, and the dawn broke grey behind the reef with the *Excise* still abreast of it, a mile off, and the masts standing.
+
+They ran the whole length of the reef above the white water, black and bare, some straight and some leaning, and the wind came off them cold, with the smell of weed in it. A few still had a yard crossed, and what had been a sail hung off it in strips. Aeridor's royal fleet had come down out of the north to relieve Thessa, the year Tharsis took it, steering by Thessa's own shards, and it was here still. Most of its masts had stood.
+
+Varus had been at the Navarch's side that night, holding the box.
+
+They had lain in the pool inside the reef from the evening slack, at anchor, without a light. At dusk the Navarch had said, "Now," and Varus had taken the lid off the lead box and held it open in the crook of both arms. It was warm. He remembered that first, the warmth of it coming through his coat, like something alive. Then the note: thin and high, coming up through the soles of his feet and into his teeth, so that he wanted to weep for something he had never had and could not have named. He had held it until his arms were dead. The lanterns had come out of the north in the first hour of the night, a long line of them, coming on, and the Navarch had said every line aloud as he wrote it.
+
+*Their fleet seen at the first hour of the night, by its lanterns. Thirty-one sail. Steering by their shards.*
+
+*Second watch. The first is on the reef.*
+
+*Second watch. The rest.*
+
+*No surf. One heard everything.*
+
+The men in the water had called to the ship until the fourth watch: to the ship, because by then they could see her by the light of their own lanterns on the reef, and she was the only thing there was to call to. The Navarch had written every line to its end. He had not hurried at the calling, and he had not stopped for it. At dawn he wrote *Lid shut*, and Varus shut the lid, and he wrote *Weighed*, and *No boats*; and Varus put the box down on the deck and went to the rail and was sick over it, and came back, and said he was sorry.
+
+The Navarch had looked up at him from the book, courteously, and nodded, and gone back to the line he was on.
+
+It had been a victory. It was in the Navarchy's books as the first of them, and Varus was in it by name, holding the box. Now the Teeth went into the sum, at first light, to starboard, with the masts on them.
+
+The men on the benches faced aft, as rowers do, and so they had the reef in front of them all morning, going away, while Varus had it at his shoulder. By noon the Grey had it, the fog that rings every island of the Isles.
+
+The old clerk was a poor sailor and a good passenger. He kept the stern and the honey-cakes, and was sick once, neatly, to leeward, and begged nobody's pardon for it. On the second day, with the wind round in the south-west and the sea gone down, he talked about the new mole. He was proud of it.
+
+"Built at night," he said. "All of it. You'd go to bed and it was so far, and in the morning it was so far again." His good finger measured a length along the rail, and then another. "It'll berth a trireme on both faces. You'll not see a better mole in the Southern Sea."
+
+"It's a good mole," said Varus.
+
+"My wife says the old one was better." He wiped the honey off the good finger on his cuff. "Her father's house is on the Ropewalk. Fourth from the sea. You'll have passed it a hundred times. She can see both moles from the upper window, and she says the old one was better."
+
+---
+
+They made the Spire's harbor at first light on the third day, under sleet, and the night's work was ending on the quay.
+
+The quay stock came down the slipway in a file, unhurried, in good order, and walked on into the harbor until the water closed over them; and the next came after, and the next. The *Excise* lay off the slipway's foot waiting for her berth, close enough that Varus could have seen their faces. He looked at the tops of their heads, as the custom asked. Some were dark and some were grey, and the sleet lay on all of them and did not melt.
+
+"The senior quaestor's boy is on this quay," said the old clerk at his elbow, low. "Since the winter it was raised."
+
+The harbor took the last of them. Then the quay held only the night's stone in its stacks, with the sleet settling on it, and above the town, on the island's back, the Spire.
+
+He had heard it described at every captain's table in the Southern Sea, as a marvel and a thing built in a season. Nobody had told him that the sleet would not lie on it. It rose black out of the island and on up into the weather, and the sleet slid off it everywhere. It stood clean and black in a white morning, with the academy's roofless walls along the sea below it, left as they were.
+
+They berthed under it at noon, among the Survey's hulls. At dark the night's work began again on the quay beside the *Excise*, and Varus lay in his cot and listened to it until first light: a block set down on its bed, another run along on rollers, a clerk's count, low, over and over. No man cursed a dropped block, or called for a rope, or sang.
+
+The audit was the next morning. He went up with the clerks at the first hour, in the half-dark, under the sleet, with Thessa's old clerk a step ahead of him carrying Thessa's book in his arms. The great doors stood open at the stair's foot, with the taking of the Isles cut in the black glass, island after island; and low on the left leaf, at the height of his knee, a fleet was going onto a reef with every one of its masts standing. He passed it, and climbed a stair built for processions.
+
+The audit room was long and cold, with a black floor that rang under his sea-boots. A brazier burned at the end of it, new-lit, and gave no heat yet, and the clerks sat down to stiff ink and breathed on their fingers. They sat by their islands, in the Survey's black, each behind his book with a well and a frame, and nobody spoke. Sleet ticked on the windows along the harbor side. The room smelled of damp cloaks and charcoal and cold ink.
+
+Varus stood at the wall by the door with the Southern Sea's return in his hands.
+
+He did not hear the king come in. When he looked along the table again the king was at its head, sitting: an old man, thin, in black, his collar buttoned to the throat, with a pen in his hand. He must have crossed the black floor on felt shoes while the clerks were sitting down. Behind him stood a steward with a stone jug, an old soldier with a neck that would not turn.
+
+At the king's left sat Vopiscus, the senior quaestor, a heavy careful man with the Survey's books squared in front of him and his back to the windows. He waited until the last clerk had his pen wet. Then he began with Thessa, as the old clerk had said he would.
+
+"Thessa." Vopiscus read the quarter: the stock in hand, the raised, the lost, and the carried.
+
+The old clerk went down his column with his finger, round the chilblain, and slid a bead across on his frame.
+
+"Agreed."
+
+The king wrote. Then the other islands down the table, and each keeper said agreed. At the end came the islands that had sent no return, where the form put them: Cyrene, the Survey of the Fourth Year; the wood; Stoneheart. Bastion was the last of them. It was new there. The clerk who had kept Bastion's book was not at the table, and nobody said where he was.
+
+"No return," said Vopiscus, level, and turned the page.
+
+Then he looked down the table to the wall by the door.
+
+"The Southern Sea."
+
+Varus read it as it was written. He read the hulls in hand, by name, and where each lay; the men on the rolls; the men lost, which was a short line this quarter; the stock shipped aboard the Southern Sea's hulls for the marines, by the Survey's own count, which the Survey would agree. What was not in it, he did not read, because it was not there. The ships that had sailed from Thessa at the winter's end at the Navarchy's own cost were not in it, nor the one of them left heeled over on the end of Cyrene's inner mole, nor two men of Thessa under a window. He came to the last line.
+
+"The Navarch of the Southern Sea: held at Cyrene."
+
+"Entered as a loss," said Vopiscus.
+
+Varus set his heels, and looked up from the sheet.
+
+The king was drinking water. The steward had turned his whole body to pour it from the stone jug, and the king held the cup in both hands and drank carefully, on the one side of his mouth, like a man who has a bad tooth and knows where it is. He did not look at the wall. He had not looked up for the Southern Sea. He put the cup down, and wet his pen, and entered what he had been given; and the cold of the wall came through Varus's coat into his shoulders.
+
+Then Vopiscus took one more book from under the others.
+
+It was a small book in plain black boards, and its spine was bare: it bore no closed hand, and no title or number. Down the table the clerks kept their eyes on their own books. Varus was not of the Survey, and he looked at it. Vopiscus found the quarter's page and took a thick finger down it, past columns of writing too small to read from the wall, to the figures at the foot.
+
+"The first line." Vopiscus read what had been drawn against it, and what remained.
+
+Drawn, said Vopiscus, and remains. At the foot of the old mole the old clerk had said carried.
+
+"The second line." Drawn, and remains; and a third figure after it, which Vopiscus read with the rest and waited after, as a clerk waits who may be asked about a figure. He was not asked. "The third line." That too. "The fourth line."
+
+The thick finger rested on it.
+
+"No return."
+
+The king ruled a line. Vopiscus put his name at the foot of the page, and shut the black book, and slid it back under the rest, and the pens along the table went on.
+
+Afterward, in the passage outside the audit room, Vopiscus stood with his back to its window and gave Varus the west's packets out of a clerk's arms. Most were thin. One was thick, and sewn into its oilcloth, and sealed in black wax, and there was nothing pressed into the wax at all: no hand, no beak, no mark of any office.
+
+"Into the quaestor's own hand at Thessa, Captain," said Vopiscus. "Not his clerk's."
+
+Behind him the boys were coming up the stair with the quarter's dinner, and the smell of roast mutton ran ahead of them along the passage, with rosemary in it, and pepper. The Survey would eat it off the audit table, in its order. Varus took the stair down past the boys, and they flattened themselves to the wall for his coat, holding the dishes up out of his way. He carried the packets down in the crook of both arms.
+
+---
+
+They cleared the Spire's harbor on the evening ebb with the wind gone round into the south, dead foul, and rowed.
+
+The wind held three days. It blew cold out of the south with rain in it, and the *Excise* put her shoulder into it and climbed and dropped, and the benches pulled two and a pause, two and a pause; and the old clerk lay in the stern under a sailcloth with the box in his arms and was sick over the side when he had to be. On the third night the sky blew clear, without a moon, and the stars came out hard and small, and the men were tired.
+
+They heard the hull before they saw her.
+
+The stroke came up astern of them out of the dark: every blade going in at once and coming out at once, and no breath taken between, stroke on stroke on stroke. On the *Excise*'s benches the stroke went ragged, and the bosun said a word, and it steadied. Then she was there, close on the larboard quarter, a long low shape blacker than the water, overhauling them into the wind as if there were no wind. On her after-deck a little hooded lamp burned over a slate and a counting-frame. Under the hood the clerk's face was bent to his count.
+
+She passed close enough that Varus heard the water drip from her blades between strokes. The heads on her benches did not turn. Then she was ahead, and the lamp was a spark, and then there was only the stroke in the dark ahead of them, and then not that.
+
+The old clerk had woken. He lay with the sailcloth to his chin and his eyes on the stars.
+
+"That'll be the quarter's notices," he said. "They send them on after, to every post. They're always there before us." He shut his eyes again. "Every quarter."
+
+Varus went below.
+
+His cabin was the size of a cot and a locker and a man standing. It was close, and smelled of tar; the lamp swung on its hook. He sat down on the cot, with the locker open between his knees, and took the thick packet out, and sat with it.
+
+He had carried it two nights. It weighed what paper weighs. The wax was black and smooth, with nothing pressed into it; and the book at the audit had had nothing on its spine.
+
+He worked the point of his knife under the edge of the seal. The wax held no mark to spoil. It lifted whole, and he laid it on the locker lid. Then he cut the stitches of the oilcloth one by one, counting them, and opened it.
+
+On top lay a half-sheet. One line was copied fair across it, in a square plain hand.
+
+*After Aeridor: the home towns, by the quarter.*
+
+Under it were two sheets close-written, ruled in blocks, a quarter to a block. *The first quarter.* Then the names of towns, each with a line set against it. *Thessa: to the first line. Lessa: to the second line.* And more under those, to the third line and the fourth. *The second quarter.* More towns. He knew most of them. He had put into half of them, and had a cousin in one. He read the first sheet to its foot, and the second, by the swinging lamp, and his eye ran down the blocks as it ran down a return, quarter by quarter, until it stopped low on the second sheet.
+
+*Ostra.*
+
+There was more below that. The last block on the second sheet had one name in it, and a great deal of paper round the name: the capital of Tharsis, to all the lines.
+
+Under the sheets lay the census of the first quarter's towns, sewn in a bundle, town by town, by street and house. Each town's sheets had its line written at the head in another ink, in the same square hand as the half-sheet. Thessa's came first. They were in a hand that leaned back into its wind.
+
+He knew the streets. He had walked all of them. The old mole's foot and the harbor prison, which had a column of its own. The yards. The Tanners' Steps. The Ropewalk, numbered from the sea, every house of it, the living in each in their order, each with a name and a trade.
+
+*The fourth house from the sea.*
+
+There was a clerk of the Survey in it, by name. It was the first time Varus had seen his name. Under it there was a woman's name, and *his wife*, and *of Thessa*.
+
+Lessa's sheets came after. Varus turned them without reading them. He knew nobody in Lessa.
+
+He laid the sheets on the locker lid, on top of the seal. He went up on deck past the bosun at the helm, to the rail, and was sick over it in the dark, into the black water going by. When he had done, and stood up, and wiped his mouth, there was nobody to say he was sorry to.
+
+The wind was cold on the wet of his face. Aft, the old clerk was asleep again under the sailcloth with Thessa's book in his arms.
+
+He knew the regulations by heart; the Survey saw to that. He said them now, to himself, the way they were written. *An officer who breaks the seal of a thing he is given to carry is struck from the rolls of the Navarchy from the day. His ship is given to another. His pay is stopped from the day. His name is read before the fleet. The pension on his house is stopped.* And another article, further on, for an officer who carried his ship to the enemy, which ended at his own yard.
+
+He counted it, as it was written. The rolls. The ship. The pay. His name, read out before the fleet at Thessa, from the end of the Navarchy's mole. The pension on his house.
+
+His mother had his father's pension, at Ostra. It was not much. It paid the rent of the two rooms over the net-lofts, and the chandler's book at the year's end, and it had paid them since the sea kept his father. She paid the chandler on the day, at his counter, in coin, and stood there while he wrote it. Without the pension she would be on his book by the spring, and behind on it by the summer.
+
+He had stood at the foot of the old mole on four quarter-days.
+
+He stayed at the rail until his hands were too cold to feel it under them. Then he went down, and put the sheets back in their order in the oilcloth, the Spire's line on top, and folded it, and laid the black seal in with them.
+
+---
+
+They came into Thessa at dusk the next day, on the last of the flood, with the wind fallen away to nothing and the sky gone clear and green over the hills behind the town.
+
+The old clerk went ashore first, with the box under one arm and the empty basket on the other. At the foot of the plank he turned and lifted the basket an inch toward Varus.
+
+"My wife will have the fire in," he said.
+
+"Thank her for the cakes," said Varus.
+
+The old clerk nodded, and set off up the quay. Varus stood at the rail until he turned into the Ropewalk, with the box under his arm and his free hand up to keep his hat on, though there was no wind.
+
+The clerks' hall was the old customs house on the quay, which the Survey had taken for its office for the west the season Thessa was settled. Its doors stood open and its lamps were lit. Inside, under the beams, the postings board ran the length of the far wall: the Navarchy's on the left, the Survey's on the right, and the Survey's wider every quarter. The night clerk sat at his brazier by the door with the arrivals book open on a desk beside him, toasting a crust on the point of a pen-knife, and the hall smelled of it.
+
+The notice was new. It was nailed among the Survey's postings at the height of a man's eye, and the nail was bright, and the paper had not yet taken the damp of the hall.
+
+*Rusca, quaestor, Lessa: struck.*
+
+"Came on the Survey's hull this morning, Captain," said the night clerk behind him, through the bread. "One for every post."
+
+Varus knew the name. The whole Southern Sea knew it: she had commanded for the Survey at Stoneheart, and been taken there, and she was at Cyrene now, up at the fort on the hill, on her word. Struck was a short word. By the next quarter-day it would be up on the Navarchy's side of the board, with his own name in front of it.
+
+He took his red book out of his coat and copied the notice into it, exactly, at the foot of the night's page. Then he helped himself to a half-sheet from the night clerk's desk, which was a theft, and copied it again on that, and folded it.
+
+He gave the night clerk the west's packets for the office, all but one, and the night clerk signed for them and pushed the arrivals book across the desk to him without getting up. Varus dipped the night clerk's pen. He wrote the truth, because it was a book.
+
+*The Excise, from the Spire. The Survey's packets for the office: delivered. One for the quaestor's own hand, under a plain seal: opened at sea by the captain, and kept.*
+
+He signed it, *D. Varus*. The night clerk blotted it without reading it, as he blotted everything, and went back to his bread.
+
+Varus walked back along the Navarchy's mole in the dark. The Southern Sea's galleys lay along it in their order, with their stern-lanterns lit, and at each the man on watch knew his coat and said "Captain" as he passed, all the way along to the *Excise*.
+
+Aboard, he got his pay out of the locker in his cabin. It was the quarter's pay, drawn on the quarter-day before they sailed, and what was left of the quarter's before. His fingers were slow with cold. He counted it out on the locker lid, coin by coin, by the cabin lamp, and it came to what it came to; and he put it all in a purse, and drew the strings, and went up.
+
+The men were eating along the benches and in the waist. It was bean porridge with salt pork boiled in it and the onions the bosun had bought on the quay, and the smell came aft with the steam off it into the cold. They ate from their bowls with the spoons they kept in their belts. They did not stop when he came along the gangway. He did not want them to.
+
+"We sail at the second hour of the night," he said. "On the ebb. North."
+
+Nobody said anything. North was the Spire, and they had come from it.
+
+"To Cyrene," said Varus. "Under a white cloth."
+
+The spoons stopped.
+
+He could hear the water lapping at the mole, and somebody's dog up in the town, and a pan scraping in a house along the quay. A man on the third bench set his bowl down on the bench beside him, carefully, as if it were full to the brim, which it was not.
+
+"You know the regulations," Varus said.
+
+They knew them. The Survey saw to that too.
+
+"Any man who wants to go ashore, goes ashore now, before she sails. I'll give him a line in my hand that he left her at Thessa before she sailed for anywhere, and the bosun will put his mark under it." He set his heels. "That's all I've got to give."
+
+"What's at Cyrene, Captain?" said somebody in the waist.
+
+"If I told you, you'd be in it."
+
+Then Didius spoke, from the fifth bench on the larboard side. He was the oldest aboard. He had pulled the *Excise*'s fifth oar on that side since she was launched, and before that he had pulled beside Varus's father, on another ship, out of Ostra, when Varus was a boy carrying their dinners down to the mole. He had a grey head and a voice like a block that wants grease, and he did not get up.
+
+"Is it where they go?" he said.
+
+Varus looked at him.
+
+"Yes," he said.
+
+Didius nodded, as if a figure had been read to him that he already had. He picked his spoon up again.
+
+Some of them went. Not many. They came aft one by one with their bundles and named themselves to him in the rowers' way, by name and ship and bench. Varus wrote each man his line in the red book and tore the leaf out and gave it him, and the bosun made his mark under it. That was all any of them said. One of them shook his hand. They took their bundles down the plank and away along the mole, and not one of them looked back.
+
+When they were gone Varus walked along the benches to the fifth on the larboard side and put the purse in Didius's hand.
+
+"My mother," he said. "At Ostra. You know the house."
+
+Didius looked down at the purse. Then he looked up at Varus, for so long that his neighbour on the bench stopped eating. Then he stood, and put the purse inside his shirt, and took his bundle from under the bench.
+
+"Didius," he said. "Of Ostra. The *Excise*. Fifth bench, larboard."
+
+Varus wrote it, and tore the leaf out, and gave it him.
+
+The bosun brought the parley board up from the locker aft in its wrapping, and unwrapped it on the hatch-cover: the white open hand of the Navarchy's parley, painted on its board. Varus took the cloth. He shook it out, and it was a good square of linen, clean, with the creases of the locker in it.
+
+"Below," he said.
+
+The bosun looked from the board to him. Then he took it below.
+
+They sailed at the second hour of the night on the ebb, with the men short on the benches and the cloth lashed to the forestay, white in the dark. There was no wind at all. They rowed out between the old mole and the new, two and a pause, past the hull's empty berth at the old mole's end; and Varus stood at the stern and looked astern at the town going down into the dark, at the windows lit along the Ropewalk, one after another up from the sea. He could not tell from there which was the fourth.
+
+---
+
+The Grey lifted off Cyrene at noon, all at once. There was the island in front of them in a hard cold light, with the steam of its springs lying low over the town and the harbor, and the two mole towers either side of the gap with their feet in it.
+
+No bell rang. The bolt-throwers on the mole towers turned to follow them in, slowly, and stopped when they lay to off the gap and the men rested on their oars.
+
+Then there were a score of heads in the water round the oars, between the blades and under the bows, where there had been only water.
+
+Merfolk. They hung in the cold water close enough to touch with an oar's end, with their blue hair lying out on the swell round them, and looked up at the *Excise*'s men. Nobody aboard moved. A man on the larboard side drew his oar in through its port, slowly, and stopped when the nearest head turned to look at him, and drew it no further. The heads did nothing. They watched. They were the ones who had been at the Navarchy's cables in the dark the night of the raid, and every man on the benches knew it.
+
+A boat came out through the gap from the long quay. Four boys rowed her, pulling well and badly by turns, and a square grey man sat in the stern with a spear upright between his knees and the tiller under his arm. He brought her round under the *Excise*'s quarter neatly and held her there, looking up. He had a broken nose, and a white seam through his left eyebrow where the hair would not grow again.
+
+"Who's master?" he said.
+
+"Varus. Captain."
+
+The grey man rubbed his nose with the back of his wrist, and kept the wrist there, and looked at Varus over it.
+
+"You'll come alone," he said. "And without that."
+
+Varus unhooked his sword from his belt, scabbard and all, and gave it to the bosun. Then he climbed down into the boat and sat where he was put, in the bows, facing the boys' backs, with the grey man in the stern looking at him over their heads the whole way in.
+
+They came in through the gap between the towers into the steam. It lay on the harbor in a sheet, waist-high and warm, and smelled of bad eggs and wet stone. The boat pushed through it and out under the long quay; and the town was there above the quay, climbing the hill in steps, with the fort on the hill at the top of it. One of the boys was up the quay steps before the boat was fast, and away up the crown's road to the fort at a run.
+
+They waited on the quay, at the head of it, by the harbor master's house.
+
+The grey man stood with his spear and did not talk, and Varus stood with his hands behind his back, and the town went about its afternoon round them. Beside the house's door there was a small square window, and on its sill a lamp of red clay, unlit, with the closed hand on its shoulder, set with its back to the room. Along the quay the prisoners sat at their meal under the steam-box wall, a long row of them on the stones, eating fish stewed with onions out of a great iron pot. When they saw him there, one and then another set his bowl down beside him, and they stood up along the wall, all of them, in their row.
+
+They did not come. They stood at the wall where they ate, as they had stood on the night his men called them.
+
+He did not call them. He stood with his hands behind his back. After a time a man at the end of the row sat down, and picked up his bowl, and then the rest.
+
+Beyond the wall was the yard. A hull stood in her staging on the slip, framed and half planked, with the shipwrights on her and a smell of hot pitch and new oak about her. A town lad of about fifteen was running a plane along a strake. Above him on the staging a long young man with big red hands was fairing a frame. He looked down and saw Varus, and took his hands off the frame quick, as if it were hot. Then somebody spoke to him, and he put them back.
+
+The boy was back at a run, down the crown's road, and stopped in front of the grey man to get his breath.
+
+"The Prefect says yes," he said. "He's to go up. And the Prefect'll see him after."
+
+The grey man nodded, and turned, and walked; and Varus walked beside him along the quay to the slip gate.
+
+It was an arch across the quay, twelve paces wide, with the yard behind it; and beside it, at the foot of the old tower, a narrow door with a step. The stones in front of the stair door had been swept. They were wet with the steam off the gutters, and dark, and there was nothing on them.
+
+Varus stopped where the first of the two had gone down across the foot of the door. He knew the place to a stone. He set his heels on it.
+
+The grey man stood by him with his spear and let him stand.
+
+The dusk was coming down off the hill into the town. Along the quay two of the prisoners came from the steam-box wall with spears on their shoulders, and two boys of the town with them, and took the slip gate between them, two to a side. The prisoners had the right of the arch, under the window, where the two of Thessa had stood. They looked at Varus's coat, and then away from it, at the quay, which was what they were there to look at.
+
+"Up there," said the grey man, with a lift of his chin at the stair door. Then he put his spear on his shoulder.
+
+"I've a lamp to see to," he said, and went back along the quay toward the head of it.
+
+---
+
+The stair was steep and dark and turned once. At its head there was a door that was not locked, and Varus knocked on it.
+
+"Come in, Captain Varus," said the Navarch through it. "Forgive me. I am at the end of a line."
+
+He went in.
+
+It was a small bare room, kept like a cabin. It smelled of lamp oil and ink and the sea, and of the cold that came round the edge of the shutter. There was a cot made up tight, and a shelf that held only quills, cut. There were two stools, and a table under the window; and at the table, with the last of the light across the page, the Navarch was writing, and saying each word aloud as the pen made it, without hurrying.
+
+"*…and a boat went out to her from the quay.*"
+
+He sanded it, and looked at it, and stood, stooping for the beams, in the long black coat. He had not changed. He made Varus the small exact bow he made everybody.
+
+"Captain Varus."
+
+"Navarch."
+
+By the door a plain sword hung on its peg. Varus had seen it hang by the door of every cabin the Navarch had ever had. He had never seen him wear it.
+
+The Navarch looked him over once with his pale heavy-lidded eyes, the beard and the coat and the bare belt, and then looked at his face.
+
+"The other stool is sound," he said.
+
+Varus sat on it. The Navarch sat again, across the corner of the table from him, with his long white hands folded beside the book.
+
+"You didn't answer me," said Varus. "At the gate."
+
+"No." The Navarch's eyes went to the window, and came back. "I did not know what answer the occasion required."
+
+"You were writing."
+
+"Yes."
+
+"I saw you."
+
+"I believed that you had."
+
+Down in the yard a mallet was going, and stopped, and went on. Varus's hands were cold. He held them between his knees.
+
+"The two at the gate," he said. "Their names."
+
+"Arruns," said the Navarch. "Velthur. Of Thessa."
+
+He did not look at the book for them.
+
+"Thessa's yards wouldn't tell me."
+
+"No," said the Navarch. "They would not."
+
+Varus took the packet from inside his coat, laid it on the table between them, and opened the oilcloth back. The half-sheet with the notice lay on top, folded, where he had put it at Thessa; under it the Spire's line, and the sheets, and the bundle. The black seal lay at the side, whole.
+
+The Navarch looked at the seal and did not touch it.
+
+"You have opened it," he said.
+
+"At sea."
+
+"And entered it?"
+
+"At Thessa. In the arrivals book."
+
+The Navarch nodded slowly, once. He unfolded the half-sheet and read the notice, and folded it again along its fold.
+
+"The quaestor on the hill will want this," he said, and set it by itself on the corner of the table. Then he drew the rest toward him, and read.
+
+He read the way he had read everything Varus had ever seen him read: the line at the head, and then the sheets, at the pace of a return, never hurrying, his eyes going down each block to its foot and on to the next. He turned the first sheet and read the second. Low on the second sheet he was a long time. Then he turned to the bundle, and read Thessa's census, every street of it, house by house, and then Lessa's, which Varus had not, every house of that too. From the stool Varus could see down through the window to the foot of the arch, where the watch stood with their spears, and the swept stones in front of the stair door. The light went out of the window while he read. The cold came round the shutter. Down in the town somebody was frying fish, and the smell of it climbed the stair, and Varus had not eaten since Thessa and did not want to.
+
+The Navarch finished the last of Lessa's sheets, and laid it on the others.
+
+He struck a light and lit the brass lamp on the table, and moved it so the light fell on his book, and the window went black behind him. The day's page was dated already at its head, in the morning's ink, and Varus could read its first lines from the stool: the wind, the tide, the Grey lifting at noon, a galley off the gap under a white cloth. He drew the book a little nearer, wet his pen, and wrote, and said the words as he wrote them, as he had said them on his own deck at the Teeth.
+
+"*Captain Decimus Varus, of the Excise, came up at dusk, alone, without his sword.*"
+
+The pen went back to the well.
+
+"*He brings a packet of the Survey's for the Quaestor for the West, under a plain seal, which he opened at sea with his own hand, and has entered so at Thessa.*"
+
+The pen went back.
+
+"*The Spire's line, in its own words: After Aeridor, the home towns, by the quarter.*"
+
+He wet the pen again, and drew it on the lip of the well, and brought it to the page.
+
+"*The first quarter,*" said the Navarch. "*Thessa,*"
+
+The pen stopped.
+
+Varus waited for Lessa. It did not come.
+
+The Navarch put the pen down by the well, and his hand came away from it. The fingers closed on a stylus that was not there, as if the page were wax, and opened again, and did not go back to the pen. The ink dried on the nib. The lamp burned, and the page lay open under it, written as far as the comma.
+
+Beyond the black of the window, down at the head of the long quay, in the small square window of the harbor master's house, the red lamp was lit.
+
+The Navarch had not looked up from the line.
+
+"There is no form for it," he said.

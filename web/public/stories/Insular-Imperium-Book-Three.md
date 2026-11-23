@@ -22,6 +22,7 @@
 16. [Chapter Sixteen: Choose](#chapter-sixteen-choose)
 17. [Chapter Seventeen: Excellent Hinges](#chapter-seventeen-excellent-hinges)
 18. [Chapter Eighteen: The Sum](#chapter-eighteen-the-sum)
+19. [Chapter Nineteen: The Settling](#chapter-nineteen-the-settling)
 
 ---
 
@@ -10583,3 +10584,713 @@ Beyond the black of the window, down at the head of the long quay, in the small 
 The Navarch had not looked up from the line.
 
 "There is no form for it," he said.
+
+---
+
+# Chapter Nineteen: The Settling
+
+**ALANA**
+
+At dusk Alana lit the lamp with the fire rune.
+
+She drew it on the wick with the tip of her finger, small, as she had drawn it on a slate in her first year at Corvus, for marks: the hook, the cross-stroke and the closing turn. The wick took it. A bead of flame stood up out of the oil, and leaned, and steadied, and the room came up out of the dusk around it a piece at a time: the table, the inkwell, the paper, Rusca's hands.
+
+For a moment the room smelled of the rune, hot and clean. Then the stones had it back. The top room of the west tower had been the old garrison's sail store, and its walls had kept the tar. On a cold night the hemp came out of them as well, faint, the way an old ward keeps the shape of its rune on a lintel long after the fire has gone out of it.
+
+It was Rusca's room, and the one dry room in the fort, which was why Alana kept her books in it. There was a cot along the wall, and a table under the window with two stools and one drawer, and over the window, on two brackets, a shelf. The books stood on it: the weather-books Alana had filled, each dated on its spine in her own hand, and Sabellius's day-book, which she had kept; and at the end of the row, a little apart from the others, the book she had carried out of Corvus, wrapped and corded, with her own wax on the knot. She had taken it out of the iron-banded trunk in the autumn and put it up there, because the trunk had been at sea and the room was dry. At Corvus she had kept her books at the top of a tower as well, and the porter's boy had carried them up the stair for her every day for four years. Here she carried them herself.
+
+The window was small, and looked west over nothing but water. The door locked from the outside. Its key stood in the lock on the landing side, and had not once been turned. Until Bastion a lanciarius had sat on a stool on the landing below; since Bastion there was only the stool.
+
+Rusca sat at the end of the table, ruling paper.
+
+The stationer in Rope Street ruled his sheets wide, for bills of lading. Every evening Rusca took a stack of them and put a line of her own between each two of his, in pencil, along a batten she had begged off the yards, so that two of Alana's lines went where one of his had gone. Paper was dear in the winter. Alana had not asked her to do it. Rusca did her kindnesses that way, as if they were corrections.
+
+She sat straight in the Survey's black, cut high at the collar, with the closed hand worked white on its breast and her copper braid down her back. She had put on fingerless mitts at the first frost and kept them on since, and the freckles across her nose had gone pale with the winter. Her pencil went along the batten, and lifted, and came back, with no more sound than a moth at a shutter.
+
+Alana was writing out the catalogue.
+
+She had kept the catalogue of the library at Corvus from the year the masters gave her the drawers, and copied its cards fair as they went brown; and on the fishing boat, with the library burning on the cliff behind her, she had discovered that she had kept it in her head as well: every card in its drawer, every drawer in its case, and the cases in their galleries, in their order. Since the first frost she had been writing it out, a drawer a night, on Rusca's paper.
+
+Tonight it was the poets: the long drawer under the windows of the east gallery, the high meter.
+
+*Songs for the Long Measure, in the high meter. No author. The east gallery, the poets, the low shelf by the window.*
+
+Her lips went over the shelf-mark as she wrote it. It had been a thin book in green boards, with a ring on the back board where somebody had once stood a cup. She had read it at fourteen, in that window, with her feet tucked up under her, when she ought to have been at a lecture on the properties of salt, and had not been caught. The low shelf had been ash for two winters. She wrote it in.
+
+"Is that the dance?" said Rusca, without looking up.
+
+"The verses for it. They're older than the dance. You can't dance to them."
+
+"Then what were they for?"
+
+"Reading in a window," said Alana, "when you ought to be somewhere else."
+
+Rusca ruled another line. The pencil whispered along the batten and stopped.
+
+"Has he named a day?"
+
+"It isn't his to name. It's his father's."
+
+"Has his father?"
+
+"Not yet." Alana dipped her pen. "When he does, I'll put it in."
+
+"In the column."
+
+"In the column."
+
+The ink had gone thick with the cold. She took the well into her right palm and warmed it from the inside of her hand, a little at a time, until the ink ran from the pen again. The palm had healed since Bastion. It no longer pulled when she opened it. She had Marcus's blue cloak round her shoulders over the violet, because he had told her to keep it, and she had.
+
+At noon the Grey had lifted off the sea. She and Rusca had gone out on the wall-walk to see it go, because Rusca liked to watch weather leave. The gutters from the spring-head were steaming below the walk in the cold, and the air up there smelled of them, of hot stone and eggs gone over, so that Alana breathed through her mouth. The Grey drew back off Cyrene all at once and without hurry, as it did, and left the water under it hard and bright and very cold; and out of the last of it a galley pulled in toward the gap, slow, with a white cloth on her forestay, and lay to off the mole towers on her oars. Cyrene's bell gave a friendly ship two strokes and two. For the galley it gave nothing at all. The capital's packet sailed in past her an hour later and got its two and two, and then the bell was quiet again.
+
+Rusca stood at the parapet with her mitts on the stone and watched the galley's oars.
+
+"Survey?" said Alana.
+
+"Navarchy." Rusca did not look round. "She breathes between strokes."
+
+When the home guard's boat put out to her from the long quay, Rusca went in without another word.
+
+All afternoon the stair stayed empty. Marcus did not come up. Alana went down to the Baths for her letters class, where Tertulla wanted to know about the ship with the sheet on it, and whether she had come to give up. Alana said she did not know, which was true, and set them all to copy *white* and *cloth* until the light went. She had come back up at dusk with the frost beginning on the walk and the half moon high in the south, and Rusca had been at the table, ruling by what was left of the light in the window, and had not looked up.
+
+They worked through the first hour of the night and into the second. The edges of the window whitened. The lamp burned down the width of a finger. Rusca ruled, and Alana wrote the poets, and neither of them said *galley*.
+
+In the second hour there were steps on the stair.
+
+There were two men. One was heavy and unhurried, with a spear-butt that touched the treads. The other was in sea-boots, and took the turns too fast, and had to stop and wait for the first. Rusca put down her pencil and stood. She always stood for a door.
+
+The knock came, and Rusca looked at Alana.
+
+"Come in," said Alana.
+
+Tuccius opened it: square and grey, with his broken nose and the white seam through his eyebrow, and his spear upright beside him, and the cold of the stair coming in round him. He drew the back of his wrist across his nose against it.
+
+"Chair," he said. "Quaestor." He stood aside. "Captain Varus, of the galley. He has leave from the Prefect to come up."
+
+Cyrene knew the name. At the end of the last winter he had come in by night with four ships to take the Navarch off and burn the slips, and had gone away with three.
+
+He was younger than she had thought he would be. He had a dark beard that had not yet decided what shape it was, and the Navarchy's sea-coat gone white at the seams with salt, and a belt with nothing on it. He had a packet sewn in oilcloth under one arm and a half-sheet folded small in his hand. He came two steps into the room and set his heels apart on the boards, as if he thought it might roll.
+
+He looked at the two of them, and at the lamp, and at the stacks of ruled paper, and then at Rusca; and after that at no one else.
+
+"Quaestor Rusca."
+
+"Captain."
+
+"This first." He gave her the half-sheet. "It was nailed up in the clerks' hall at Thessa when I came in. I copied it. The Navarch said the quaestor on the hill would want it."
+
+Rusca unfolded it and read it standing, at the lamp. It was not long. She read it once. Then she folded it along its creases, and once more, small, and kept it in her hand.
+
+"Thank you, Captain."
+
+"And this." He brought the packet out from under his arm. "It was given me at the Spire for the quaestor for the west, at Thessa. Into the quaestor's own hand."
+
+Rusca did not take it. She studied it: the oilcloth, and the seam where it had been sewn, and the stitches along the seam, every one of them cut.
+
+"Yes," said Varus, as if she had asked.
+
+"I'm not the quaestor for the west, Captain."
+
+"No." He did not take it back. "You're the one there is."
+
+She took it then, in both hands.
+
+"The Navarchy," she said, "carrying for the Survey."
+
+"There aren't so many living captains left, Quaestor," said Varus, "that they can choose."
+
+He gave them the rest standing where he was, like a man making his report aboard. The Prefect had read it, and the Navarch. When it had been read up here he was to carry it on. The Prefect had given him leave, and a man of Lessa to go with him.
+
+"He says you'll know into whose hands."
+
+"Lessa," said Rusca.
+
+"It's in the packet, Quaestor."
+
+He turned to go, and stopped at the door with his hand on it.
+
+"I didn't read Lessa's," he said. "I knew nobody there."
+
+Then he went down, and Tuccius after him. Alana heard the spear-butt stop on the landing below, by the stool, and go on; and then the turns of the stair took them both, and the tower was quiet. The key stayed where it was in the lock.
+
+Rusca sat down. She put the packet on the table, on the poets, and the folded half-sheet on the packet, and laid her hands on either side of them in their mitts.
+
+"Sit by me, Chair," she said. "You'll want to see the hands."
+
+Alana brought her stool round the corner of the table and sat at Rusca's elbow. Through the cut seam she could see the edge of a seal of black wax lying loose inside, whole, and blank.
+
+---
+
+"*Rusca, quaestor, Lessa: struck,*" said Rusca.
+
+She read it in the voice she kept for the forms, the one Alana had heard her use at Bastion: low, and level, and carrying to the back of a room without any trouble at all. Then she laid the half-sheet flat and squared it to the table's edge with two fingers.
+
+"It's in order," she said.
+
+In the autumn, at the map table, Alana had told her she had been entered lost and not struck, and meant it for a comfort; and Rusca had been quiet for a moment, and then said, *No. Not struck.* It had been a comfort. Alana had watched it be one all the way to Bastion.
+
+"What does it do?" she said.
+
+"From the day it comes into a post, nothing written there after it will take my voice." Rusca's finger rested under the last word, not touching it. "A count. A transfer. Anything I read them."
+
+"And before?"
+
+"Rows written before it came in were written while I was on the rolls. They'll hear me still, until somebody reads them out of my count and into another. That takes an officer. It takes time."
+
+"Corvus," said Alana.
+
+"Corvus's have stood two years."
+
+Alana thought of Corvus's walls, which she had last seen dark against the burning, and of what stood on them now in its ranks, facing the sea. It would still hear Rusca.
+
+Every one of them had been written. She had learned the Survey's short forms off the dead, because she had nothing else to learn them from, and had wanted ever since to see the form they were copied from.
+
+"And you?" said Alana. "What does it leave you?"
+
+"What I was this morning." Rusca squared the half-sheet to the table's edge again, though it was square. "A prisoner of your prince, on my word, in the Chair's keeping." She took her fingers off it. "It doesn't strike what I am. Only what I'd have been."
+
+She took the small black book out of her coat. She opened it at the back, where she kept her mother's letters folded flat, a thin sheaf in a round and hurrying hand, and laid the notice in among them, and closed the book on its ribbon, and put it away.
+
+Then she opened the packet.
+
+She laid it out on the table in its order, as it had come. On top was a half-sheet, and on it a single line in a square, plain hand. Under that, two sheets written close and ruled off in blocks. Under those, a thick bundle sewn together along one edge. The black seal she set to one side. The oilcloth smelled of fish oil and salt water and of a cabin kept shut.
+
+"That's the Spire's hand," said Rusca. "The chancery." She read the line. "*After Aeridor: the home towns, by the quarter.*"
+
+"The home towns," said Alana.
+
+"Ours."
+
+The cold came off the window onto the back of Alana's neck, under her hair.
+
+"To do what with?"
+
+Rusca did not answer at once.
+
+"Settle them," she said.
+
+Alana knew the word. It was what Tharsis said of an island once the taking was over: when the island was on the books, and there was no one left in it to argue with.
+
+"Corvus was settled," she said.
+
+"Yes."
+
+There was no date on it. Alana looked for one where a Corvus clerk would have put it, at the foot, and then at the head, where a Tharsian might, and there was none.
+
+"It isn't dated."
+
+"It wouldn't be." Rusca's finger went along beneath the words. "A clerk doesn't date a paper before the thing in it is due."
+
+"When is it due?"
+
+Rusca touched the first two words. *After Aeridor.*
+
+Then the order. Rusca read it to her with her finger going down the blocks; and Alana's lips went after the names of the towns as they came.
+
+"*The first quarter,*" read Rusca. "*Thessa: to the first line. Lessa: to the second line.*"
+
+Alana's lips stopped on Lessa. Rusca's voice went on to the next.
+
+There were towns Alana knew from charts, and towns she had never heard of, and against every one of them a line: the first, the second, the third, the fourth. Then *the second quarter*, and towns again. Rusca turned to the second sheet and went down it block by block to the foot, where the last block had a single town in it. It was Tharsis's own capital. Against it, in the same hand and no larger than the rest, was written *to all the lines.*
+
+Rusca stopped there.
+
+"What are the lines?" said Alana.
+
+"I don't know." Rusca did not look up from the sheet. "I've never seen them written."
+
+Alana knew lines of every kind: ruled lines, and the lines of a verse, and a coast's line on a chart, and the line a tide left on a quay wall. She could not think of one that a town could be sent to.
+
+Under the order lay the census.
+
+Thessa's sheets came first, in a hand that sloped backward. Rusca turned them by their corners, one after another, without reading them, until she came to the sheets behind; and there she stopped, with the corner of one in her fingers.
+
+At the head of the first of them, in the chancery's square hand again, was written *Lessa: to the second line.* Below it the census began in a hand of its own, small and upright and even, a little cramped in the loops.
+
+"I know that hand," said Rusca. "He was in my year at the school."
+
+She began at the quay.
+
+The census went by street, and in each street by house; and Lessa did not number its houses, so the clerk had set each one down by where it stood. *The quay. The weigh-house. Over the weigh-house:* a name, and *deputy of the beam, widower. The chandler's, by the steps:* a name, and *chandler*; a name, and *his wife*; a name, and *the chandler's boy. The net-loft with the stone stair. The salt-house.* Under each house came the living of that house, one to a line, a name and then a trade, in their order: salters and net-menders, a pilot, a gutting-woman, a girl who kept geese.
+
+Rusca read it aloud. She read every house on the quay and every name in every house, in the voice for the forms, as evenly as a tide-table; and Alana, who had thought she might go faster over the names she knew, or slower, listened for it and could not hear it.
+
+Alana had never seen Lessa. By the end of the quay she could have walked it.
+
+Lessa lay east of here, across the water. The window looked west.
+
+At the end of the quay, at the corner of a lane, Rusca read, "*The nine lamps,*" and under it a single line. "*Cluvia, widow. Nets.*"
+
+There was no other name under Cluvia's. Rusca's finger rested on the line, and moved on.
+
+"The house with nine," said Alana.
+
+"*The nine lamps*, the quay calls it. Everybody does." Rusca studied the small upright hand. "So does he. He was always careful."
+
+She wet the tip of her thumb on her tongue to turn the sheet, and turned it, and did not dry it on her linen. It came down at the head of the next sheet, still wet, and the paper cockled under it.
+
+*Brine Lane*, the sheet said at its head; and under that, the first house, *Across from the nine lamps.*
+
+Rusca did not read the names aloud.
+
+"My mother," she said.
+
+Alana waited.
+
+"Then my father." Her thumb had not moved. "*Weigher, of the quay.*"
+
+"Your mother's first," said Alana.
+
+"She'd have answered the door."
+
+Somewhere far down in the fort a door shut, and somebody laughed in the court below and was told to be quiet.
+
+Then Rusca lifted the sheet before it and held it half turned back, so that Cluvia's one line stood across from her mother's, as the two houses did.
+
+"There were ten in that house," she said, "when I went up to the school."
+
+Alana knew the custom; Cyrene kept it now, for its Tharsian dead. A house put a lamp in its window for one of its own who was gone, and kept it lit for a year, and on the day the year was out it put the lamp out.
+
+"She keeps them all," said Alana.
+
+"She's never put one out."
+
+Alana looked at the small upright hand, house after house of it, every line as even as the last.
+
+"When did they take it?"
+
+"In the autumn. They take one every autumn, for the bread." Rusca let the sheet down. "Every mouth in a house is counted for its loaf. The clerk comes round with his book, and a boy to carry the ink, and you give him your names at the door, and he writes them in and goes on to the next. The bakehouse keeps a copy." She did not turn back to the first sheet, where the chancery's line was. "This one has a line at the head."
+
+Rusca read on. She did not read aloud any more. She went through the rest of Lessa to herself, sheet by sheet: Nail Street, and the tanners' yards, and the streets that climbed from the harbor to the top of the town, every house of it, with her thumb drying in the air between the sheets and the linen in her cuff where it was.
+
+Alana did not watch her read. She watched the window. The moon was not in it yet. There was only the black, and the sea under the black, and far out, where she knew the Grey would be lying along the water, no light at all.
+
+When she came to the last sheet Rusca closed the bundle on its stitching, Thessa uppermost again.
+
+"It's a census," she said.
+
+"Like the quarry."
+
+"Like the quarry."
+
+At Bastion there had been pens at the quarry, which Alana had never seen and had lain awake over all the same, and the Survey had called what was in them a census too.
+
+There had been a winter, the first after Corvus, when she would have given her right hand to see every town in Tharsis burn as Corvus had burned. She had kept it by her under the roof of the lodging-house by the Fishmarket Steps, with her trunk at the foot of the cot, and built it town by town in the dark, as carefully as she had ever built anything. Somebody at the Spire had written it out fair for her, by the quarter, in a square plain hand, and left off the date.
+
+She put her hand up to the shelf.
+
+She did not decide to. It went up over the window, past the weather-books and Sabellius's day-book, to the end of the row, and came to the cord and the knot and her own wax on it, and rested there.
+
+It was not warm. It had never once been warm. Under her hand it was what it had been in the trunk and at sea and up here in the dry: attentive.
+
+She had read everything at Corvus that she had been let near, and a good deal that she had not. She had read the writing on the dead from the Kettle Bank to Bastion, and burned more of them than she had let herself count. Her fire could take the dead off a wall. It had nothing to say to a census.
+
+Her jaw wanted to shake, as it shook after a burning, and she had burned nothing.
+
+Under her other hand was the table's one drawer, and in the drawer was Livia's letter, folded small as it had come, with *To the Chair of the Catalogue* on the outside in the hand that had taught hers. She did not need to open the drawer for it. She had it by heart, as she had the poets. *He asks whether the little chair is well, and whether she has opened the book yet, and I tell him: not yet, Quintus. Not yet. But she is learning to write in the future, and that is where every book begins.*
+
+She took her hand down.
+
+She picked up her pen and dipped it; and the drawer of the poets was in her head where it had always been, every card in it in its order, and for the first time since the fishing boat she could not get it open.
+
+---
+
+It was Rusca who spoke first.
+
+"It has to go to Lessa."
+
+She was looking at the bundle, not at Alana.
+
+"Lessa's sheets, and the order with them. To the lamp-keepers. Every lamp in Lessa is on the guild's book, with a tag on it, and a name, and the day the year is out. The keepers walk the lanes every night with their oil. They know every door in this." Her mitt lay on the top sheet. "They'll know every name. If the keepers at Lessa have it, the guild at the capital has it in a week, and whatever comes into the guild, Aemilia Scaura reads herself."
+
+"Who is she?"
+
+"She keeps the guild. She's the Navarch's sister."
+
+Alana thought of the Navarch down in his room over the slip gate, who had read every sheet of it before it came up the hill.
+
+"What will she do with it?"
+
+"I don't know," said Rusca. "Nobody's ever sent the guild one of these. It's only ever had the names after." She took her mitt off the sheet. "And I'll take it to them. Myself."
+
+"Varus is taking it."
+
+"Varus doesn't know whose door." Rusca lifted her eyes from the bundle. "And when a Navarchy coat knocks at a door in Lessa after dark, it's a letter. They'll have the lamp lit in the window before they've drawn the bolt. I know whose door. It's my count."
+
+On the southern road, in the toll-house, with the rain stopping, she had stood at the end of the trestle with her linen in her hand and said that it was not. *I don't know whose it is.*
+
+"They know your face at Lessa," said Alana.
+
+"They know it at every post on the north shore. I'd go in by night, by the lanes. I was a girl in those lanes."
+
+"They'll have your notice up in the hall there."
+
+"Then they'll be looking for me on the board, and not in Brine Lane. Chair. I know whose door it goes to, and how to knock on it, and what to say when it opens. Nobody else on this side of the water does."
+
+"Marcus has given Varus leave," said Alana. "And Sennius to go with him. Sennius is of Lessa. He knows the lanes."
+
+"Sennius knows the lanes to his mother's door," said Rusca. "Your prince can give his leave to whom he likes. It's still my count."
+
+"Then count it," said Alana.
+
+Rusca looked at her.
+
+Alana drew one of the ruled sheets across to her and wrote on it, slowly, in a plain hand, as she would have written up a tide; and her lips moved over it as she wrote.
+
+*If R. goes, and is taken at Lessa: the sheets; and R.*
+
+*If V. goes, and is taken: the sheets.*
+
+"And Varus," said Rusca.
+
+"Varus sails either way."
+
+Rusca's eyes went to the oilcloth, and the cut stitches.
+
+"Yes," she said. "On the quarter-day his name goes up on the board at Thessa, on their side, with the reason under it. He'll have known that when he cut the first one."
+
+"Then he's in both lines, whatever you do," said Alana, "so I've left him out of both. You're only in the first."
+
+She wrote the third line under the other two.
+
+*And nobody else this side of the water can write the form.*
+
+"Which form?" said Rusca.
+
+"Theirs. The one they enter a man on." Alana put the pen down. "If they take you at Lessa, it goes with you, and there's nobody left to ask."
+
+Rusca drew the sheet to herself and read it as she read a return, from the head to the foot, once, with her finger under each line.
+
+"It agrees," she said.
+
+"It's Marcus's sum, not mine. He'll have done it this evening, when he gave Varus leave. I've only written it out."
+
+"Yes." Rusca turned the sheet face down. "He does his sums."
+
+She sat with her hand flat on the back of it.
+
+"I'd have liked to see her open the door," she said.
+
+There was no line in the sum for that.
+
+Then Rusca took a fresh sheet off the stack, one of the stationer's that she had not touched, and laid the batten on it and ruled it closer than she ruled Alana's, two lines of her own between each two of his. She took up Alana's pen from beside the sum, and dipped it, and began to write.
+
+It was the form.
+
+Alana knew it before the third line: the post, the row, the count it answered to, which she had read small on a great many brows by now, under the sentence written with the point. She had burned them, and read Livia's amendments in their margins. This was the thing they were copied from.
+
+Rusca wrote the headings down the left of the sheet, one to a line, each with its short form beside it as the Survey wrote them, in the square, even hand they taught at Lessa. *Post*, and its letter with a stroke through the foot. *Row.* *Count*, and after it, smaller, *answering to.* *Name.* *Trade.* *House, and where it stands.* *Of.* *Entered*, and the day. Then a line by itself:
+
+*Sentence: as ordered.*
+
+Then *By order of*, and *In the hand of*; and at the foot, under a rule of their own, two more, side by side: *Lost* and *Struck.*
+
+"That's all it says?" said Alana. "*As ordered*?"
+
+"That's all it ever said." Rusca did not look up. "The order says the rest."
+
+On the table beside the form lay the order, open at its first block. *Lessa: to the second line.* Beside the order lay the census.
+
+Alana looked from one to the other, and back to the form. *Name.* *Trade.* *House, and where it stands.* *Of.* The census had all four, for every house in Lessa, in a small upright hand, for the bread.
+
+She put out a finger toward the foot of the form, not touching the ink.
+
+"Those two?"
+
+"A row that's taken, or can't be found, is entered lost. It stays on the books. It's owed for." Rusca wrote the short form beside *Lost*, and went on to the next. "A row that's past mending is entered struck. Burned, mostly. Then it's off the books, and nobody owes for it."
+
+"Somebody enters mine, then."
+
+"Somebody will have." Rusca wrote the short form beside *Struck*, in the same hand as the rest. "You've given them a good deal of work, Chair."
+
+Every one of the dead Alana had burned since the Kettle Bank had been entered, in somebody's hand, under headings like these, on a sheet like this one; and an entry held, as every entry held, for as long as somebody kept the book.
+
+She had a line of her own at the foot of a page in the weather-book that had held through Bastion on no better footing.
+
+"Why are you writing it?" she said.
+
+"In case."
+
+At the foot, where a quaestor signed, Rusca wrote *Rows*.
+
+*Rows. I'll have to think of something better than that.* Alana had said it in this room, the first night, with the lamp on the stool between them. She had never thought of anything.
+
+Rusca sanded it from the pounce-box and tipped the sand back, and turned the sheet round on the table, and set it in front of Alana, with the pen.
+
+Alana read it from the head to the foot. Then she took up one of the catalogue's sheets, and on the next ruled line after the last of the poets she wrote a card for it.
+
+*The master form of the Survey, for the entering of a man; from memory. Rows. Cyrene, the west tower.*
+
+Where the shelf-mark went she wrote *To be shelved*, and blotted it on her sleeve.
+
+---
+
+"I'll see the man of Lessa," said Rusca. "Before he goes."
+
+There was a boy at the gate to run for such things. Alana went down for him herself, without a light, with her hand on the wall.
+
+Below the first turn the stair was black. On the landing her hand found the stool in the dark, and the frost had found it first: the seat was rough with it. Lower down, the door at its foot let the cold up the stair to meet her, and the stones were glazed under her fingers where the steam from the gutters had got in at the slits and frozen.
+
+Outside, the night had gone hard. The frost lay white in the joints of the paving and furred along the top of the parapet, and the gutters from the spring-head smoked straight up into the cold, with no wind to lean them. The sky over the fort was thick with small hard stars. The half moon stood in the south-west, over the sea, where the window would have it by the sixth hour.
+
+The gate boy was asleep in the lee of the gatehouse wall, in an old cloak of the Lanciarii with its badge picked off, with his knees drawn up inside it. She touched his shoulder and he woke all at once and was on his feet, as boys woke in a garrison.
+
+"Gaius's house, down at the yard," she said. "Sennius. The long one, with the room off the kitchen. Tell him the quaestor asks for him."
+
+"Now, Chair?"
+
+"Now."
+
+He ran off down the hill with the cloak flapping, loud on the frost, and then not loud.
+
+Alana did not go in.
+
+She walked along the wall-walk to the east side, where the parapet looked down over the town, and stood there in Marcus's cloak with her hands inside it. Below her Cyrene stepped down its hill to the harbor, every roof of it white, and the steam lay out over the water in a pale sheet. Beyond the mole towers there was one light on the sea: the galley's stern-lantern, off the gap, small and yellow and still.
+
+Past it there was the dark; and past the dark, east, across the water, Lessa.
+
+She walked it in her head, as Rusca had read it to her: along the quay from the weigh-house, past the chandler's by the steps and the net-loft with the stone stair, to the corner of the lane and the nine lamps burning in their window on the keepers' oil; and across the lane from them a door, with one lamp of its own in the window, which Rusca's mother had kept for her own brother since the quarries. In the autumn a clerk had knocked at that door with his book and his boy and his ink, and she had answered it, and given him her name, and then her husband's, for the bread.
+
+Up in the tower Rusca would be sitting with that door under her hand.
+
+At the White's fire, after the last stone, Rusca had lifted Alana's hand out of its bowl and dried it in her own linen, finger by finger, and left the palm till last. She had walked out of Bastion at the mare's stirrup with the weather-book under her arm, and handed it up at the first halt with the ribbon where Alana had left it.
+
+It would take the boy a quarter of an hour to the yard, and Sennius as long to climb back. Alana gave her all of it. She stood at the parapet until the frost had got through the cloak and the wool of the violet under it, and the galley's lantern had not moved; and then she went back to the tower.
+
+She heard it from the landing, before she reached the door: the pencil going along the batten, and lifting, and coming back.
+
+A little before the fifth hour Sennius came up.
+
+He had to stoop for the door. He was a long young man, all wrists and shins, with big red hands, and he had come in a coat thrown over his shirt with sawdust still in its folds from the yard. He smelled of the kitchen at Gaius's house: of onions, and of the morning's bread set to rise. He stood inside the door with his hands at his sides, where somebody had once told him to keep them.
+
+Alana gave him her stool and sat on the cot.
+
+"You're of Lessa," said Rusca.
+
+"Yes, Quaestor."
+
+"Your mother's house."
+
+"Nail Street, Quaestor. The smithy. It was my father's."
+
+"I know it. You could hear it from Brine Lane, of a morning." Rusca considered him. "You threw stones at the gulls on the weigh-house roof."
+
+"Yes, Quaestor."
+
+"My father chased you off the quay with the beam-pole."
+
+"Yes, Quaestor," said Sennius; and for the first time since he had stooped in at the door, he nearly smiled.
+
+Rusca opened the bundle again and turned through Lessa, wetting her thumb for each sheet and drying it on the linen in her cuff before the next. At Nail Street she stopped and ran her finger down the houses.
+
+"*The smithy*," she read. "*Marcia, widow. Nails.*"
+
+Sennius had his hands on the edge of the table. He took them off it quick, as if the edge had been in the fire.
+
+"That's her," he said.
+
+"She's in her own house," said Rusca.
+
+He looked at the sheet. He did not try to read it. Alana did not know whether he could.
+
+"They'll have sent her a letter," he said. "After Cyrene. They put *lost*."
+
+"Lost isn't struck," said Rusca.
+
+He turned that over, with his big hands in his lap.
+
+"Is she in trouble?"
+
+Rusca's eyes went to the head of the sheet, and came back to him.
+
+"Not yet," she said.
+
+He let it go.
+
+"She'll have a lamp in for me," he said.
+
+"Yes," said Rusca. "When you're home, the sheets go to the lamp-keepers. Not to the Survey's post, and not to the Navarchy's. The captain will want to take them to an office. Don't let him."
+
+"No, Quaestor."
+
+"You'll take him by the lanes. He won't know them."
+
+"I know them."
+
+"That's why it's you."
+
+She drew a half-sheet of the stationer's toward her, one she had not ruled, and wrote on it in her own small hand with Alana's pen, without stopping. Then she turned it round to him.
+
+"So you'll know what you're carrying," she said, and read it to him.
+
+"*It is cold here, and clear.*
+
+"*We eat mutton, and brown bread.*
+
+"*Yes.*"
+
+She folded it in three, and wrote on the outside, and read that to him as well. "*Brine Lane. Across from the nine lamps.*" She put it into his hand. "Into her own hand."
+
+He put it in the breast of his coat and buttoned the coat to the neck.
+
+"Quaestor," he said, and stooped for the door, and went down.
+
+He left the cold of the stair behind him in the room.
+
+"Yes?" said Alana.
+
+"She'll have asked."
+
+"Asked what?"
+
+"Whether it's true, what's nailed up in the hall."
+
+"She'll have heard."
+
+"She'll have told the lane herself, before anybody else could. She did that when I was posted west." Rusca turned the census back to the quay, and put the pen in the well. "She'll still want it from me."
+
+Alana pulled the blue cloak closer round her on the cot and drew her feet up under it, off the cold boards.
+
+"What does she ask, usually?"
+
+"Whether I'll have him."
+
+"Who?"
+
+"Whoever it is that quarter." Rusca turned the black book over in her hands, and did not open it. "She puts a man in every letter. Since I was twenty-two."
+
+"And you write back."
+
+"The weather, and the food, and no."
+
+"Who was it, the last time?"
+
+"The deputy of the beam. The widower. Again." Rusca considered it. "He still had a good hand and a south window. That time she underlined the window."
+
+Alana put her face in the cloak.
+
+"You may laugh," said Rusca. "She'd want you to. She'd want you to write and tell me to take him."
+
+"I wouldn't dare." Alana came up out of the cloak. "Not to a woman who's only ever made one offer of her own."
+
+Rusca's eyes came up.
+
+"I read it," said Alana. "In the summer, at the fen, when you gave me the book for the grain."
+
+"I know you did," said Rusca. "You put the ribbon back a page out."
+
+Alana opened her mouth, and shut it again. Then she got up off the cot, and took the weather-book from the table, and sat down with it on the stool Sennius had left warm, and turned back through it: past the autumn and the summer, past the fen and the capital, past the southern road and the moor, her hand going bad and good and bad again under her fingers, to a winter's day on the high grass at Stoneheart, with the wind at the head of the page.
+
+"*North-east, light,*" she read. "*Snow on the high grass. The quaestor offered grain, and then herself. M. declined both. I saw.*"
+
+Rusca opened the black book and went back a long way through it, wetting her thumb as she went and drying it on the linen, and came to the page without having to look for it.
+
+"*At the cattle, to H., apart,*" she read. "*The grain. The stove. Declined. Declined again, with thanks. Seen by the Chair at a dozen paces, who wrote it down.*"
+
+Alana looked at her.
+
+"The stove?"
+
+"There was a stove," said Rusca. "On the tender. It was the only warm place on that coast."
+
+"And you."
+
+"That's not a thing you put in a book."
+
+"I put it in mine."
+
+"You weren't the one who offered it," said Rusca, and the crooked eye-tooth showed.
+
+Alana laughed. It broke out of her before she could catch it, and once it had started there was no stopping it: she laughed until the cloak slid off one shoulder and her ribs hurt under the violet, with the weather-book shut on her finger. Rusca lasted a little longer. Then she bowed over the table and laughed into her mitts without a sound, her shoulders going and the braid sliding forward over one of them, and the lamp shivering on the table with it.
+
+"*Seen by the Chair,*" said Alana, when she could.
+
+"You were," said Rusca, into the mitts. "At a dozen paces."
+
+It set them both off again.
+
+When Rusca lifted her head at last, the census was under her elbow, open at the quay. The third line from the top was *Over the weigh-house*, and under it the name, and *deputy of the beam, widower.*
+
+Rusca looked at it. Then she took her elbow off it, and squared the sheets.
+
+---
+
+Alana took up her pen again. The drawer of the poets was where it had always been, and this time it opened, and the next card stood in its place behind the last.
+
+*Couplets for a Midwinter Table, in the high meter. Not to be read to the first years. The east gallery, the poets, the low shelf.*
+
+She had learned a dozen of them by heart at sixteen, out of the copy on that shelf, and had not been caught at that either. She wrote the card in, and the next, and the one after.
+
+At her elbow Rusca had drawn the order to her, and was copying it in pencil onto the paper she had ruled for the poets, a block at a time.
+
+"For your prince," she said, when Alana looked. "He'll want it after the galley's gone."
+
+By the sixth hour the half moon had come down into the window.
+
+It hung low over the sea, a little to one side of the frame, and its light came in over the table and lay on the boards by the cot. Out on the water a road of it went away west, toward where the Grey would be.
+
+Alana heard him on the stair before he reached the landing. She knew his step on it by now: he took the turns wide, where the treads were broadest, and never put a hand to the wall. Rusca stood. He knocked, because it was Rusca's door.
+
+"Come in," said Rusca.
+
+Marcus came in with the frost on his hair and no cloak, because Alana had it. He had a letter in his hand with its seal broken. He looked at Rusca first.
+
+"Rusca."
+
+"Highness."
+
+He looked at the table: at the oilcloth and the bundle, and the order with Rusca's copy beside it, and the form with *Rows* at its foot. He did not touch any of it.
+
+"Will Varus do?" he said.
+
+"He'll do, Highness."
+
+He nodded once. "Your rations stand, Quaestor."
+
+"Thank you, Highness," said Rusca, as she had said it every day since the *Forward*.
+
+Then he sat down on the end of the cot. Alana left the table and sat by him, and lifted the edge of the blue cloak, and put it round them both. The cold of the stair came off his coat into her side.
+
+"There was a letter on the packet," he said. "From my father."
+
+"I saw her come in."
+
+He looked down at it. "Midwinter," he said. "In the Hall of Kings."
+
+The old scar along his jaw pulled tight, and he went on looking at the letter instead of at her.
+
+"He says he'd like to see it."
+
+The Hall of Kings.
+
+She had not been in it. At fifteen she had stood outside its doors for most of a morning with a book under her arm, waiting for the second prince to come out, and he had come out by another door. And now there it was in her head, the whole of it at once: the dome, and the long cold floor under it, and the court along the benches turning its head; and somebody in violet walking up the middle of the floor with her chin up and her hair pinned to stay, not hurrying, toward the far end, where this time somebody was waiting—
+
+*At Midwinter, in the Hall of Kings.* It wanted to go into the high meter. Her head had begun to set it there before she could stop it, in the grave measure of the laments, and was already looking for the rhyme.
+
+She put the girl with the book back where she kept her.
+
+"Then he'll have to come down his stair for it," said Alana.
+
+"He means to."
+
+Marcus looked past her, at Rusca, who had sat down again at the table and taken up her pencil.
+
+"Rusca," he said. "You'll come."
+
+"I go where the Chair goes, Highness," said Rusca, without looking up. "It's in my terms."
+
+The moon was going into the sea. Alana watched it go, the rim of it and then nothing, and the glass gave her back the lamp, and the three of them in it. Then she got up out of the cloak and left it round him, and sat down at the table, and drew the weather-book to her and opened it at the back, at the new column.
+
+The last written page was full. The column went down it in her good hand and then in the shaking one, and at its foot was the line she had written in the tent on the night before Bastion, which she had read to nobody. She laid her left hand flat over the foot of the page.
+
+On the clean page facing it, at the head, with her right, she wrote:
+
+*Midwinter, in the Hall of Kings: to be married.*
+
+The ink stood wet on the page.
+
+Rusca drew the square of linen out of her cuff. It had come back to her from Bastion washed, by Alana herself, at the spring-head under the wall. She folded it to a clean corner and laid it across both pages at once, the new line and the foot of the old page together, so that Alana took her hand away and the linen went down where her hand had been; and pressed, and held it there.
+
+Then she lifted it off, and closed the book, and gave it back.
+
+"There," said Rusca. "Now it'll keep."

@@ -20,6 +20,7 @@
 14. [Chapter Fourteen: Eight](#chapter-fourteen-eight)
 15. [Chapter Fifteen: Prisoners First](#chapter-fifteen-prisoners-first)
 16. [Chapter Sixteen: Choose](#chapter-sixteen-choose)
+17. [Chapter Seventeen: Excellent Hinges](#chapter-seventeen-excellent-hinges)
 
 ---
 
@@ -9561,3 +9562,561 @@ Once, toward the end, he slept, or nearly, and woke with his chin on his chest a
 He did not say the roll. It was the first night since the stair that he had not.
 
 They kept the last watch of the night together, side by side and facing the same way, until the relief came.
+
+---
+
+# Chapter Seventeen: Excellent Hinges
+
+**KOLBRAND**
+
+Kolbrand took his plate off by the guest fire in the last hour of the night, and sat down in his shirt.
+
+One of the young ones did the buckles. He was a lad of the catapult-halls with his first beard on him, and he worked from the top down and the left side before the right, as he had been taught. At the first buckle his fingers were too cold, and he blew on them, and Kolbrand held the arm still and waited. Then the lad laid each piece on the hide as he freed it: the vambraces, the pauldrons with frost already in their fur, the backplate. The breastplate he laid on its face, and the winged helm on top of it. Every strap had gone into its last hole at the cove. Every strap gave it up now without an argument.
+
+The cold was through the linen at once. The shirt was wet down the back from the night's work, and the frost found the wet. After the plate was off, his shoulders went on carrying it.
+
+*After Bastion he can fight in his shirt,* Dagny had told the heir, on the shingle. He had not fought in it. He had sat down in it.
+
+Dagny would hear of it before he was home. Somebody would tell her that the king had sat down in the frost in his shirt in front of the whole camp, and she would say she had told him to, and both would be true.
+
+The halls lit a guest fire wherever they camped, at the end of their lines nearest the road, so that a man walking in out of the dark met a fire before he met a sentry. This one was a trough of their own coal up on four stones. The coal had come down from the Long Seam in sacks, and it burned slow and red, and its smoke had the Seam in it, sulphur and wet black rock. Nothing else in this country smelled of anything he knew. He sat close enough that his knees were hot. The rest of him was not.
+
+The lad brought him the heel of a black loaf and a horn of ale from the bottom of a keg. The halls had eaten at dusk, while he was still on the towpath. He ate the bread a bite at a time, and drank. The ale was flat and cold and tasted of the malt-house at home, and he drank all of it.
+
+Behind him his halls slept along their lines on the frost in their mail, each with his hammer laid along his side and his beard over his face against the cold. *Balance* lay on the hide by his knee. Up at the curtain the White's fires on the towpath had burned down, and only their smoke drifted over now, low, with the stink in it. Over all of it the sky went up and did not stop. He had been under it since the cove, and it had still not got a top. The moon was going down into the marsh a night past its full, flattened along one side, and the frost on the hide shone round the plate.
+
+He had walked the litters after midnight, while the halls were still raking out the towers.
+
+The halls' cut ones lay at the near end of the row on their own shields, and by then most of them were sitting up. The healer had been along the row ahead of him. Where she had been, men were eating the White's broth out of their helmets and telling each other that the White made broth as if fat cost money. A dwarf who could find fault with a broth would mend. Each of them looked up at him from his shield as he reached it, and he stood over each a moment, and went on. They were telling it already at the litters, in both tongues, the halls to the Lanciarii and the Lanciarii back again: the heir first down the stair under the keep, and the General after him with his head bent under the arch. A lanciarius with a splinted leg was doing the General for the dwarf on the next shield, ducking his head under an arch of his own two hands, and the dwarf did him back again, and neither of them could stop laughing.
+
+Near the end an old hewer of the Foot crews, with his forearm bound to a stave, looked up from his helmet of broth and said nothing. He tipped his head toward the last shield, where the lamp was.
+
+Ulf lay at the end of the row.
+
+Somebody had combed his beard out straight on his chest. He was grey in the face, with the White's linen bound round his ribs, and his breath came short and shallow and took its time coming back. A sister of the White knelt by his head, her lamp on the ground beside her and her hand spread on his chest, and when he stood over her she kept it there. The healer had been to him too. Whatever she had mended, he had not woken for it.
+
+Kolbrand had carried him once before.
+
+Ulf had been the last of the night crew up from the Foot, the night the beam stopped, because he had been working the far face, where the props went first. Kolbrand had reached him in the black with the water at his chest, and got him across his back, and halfway up the Long Seam a cap had come down across the two of them. It opened Kolbrand's brow to the bone. He climbed the rest of the Seam blind, with his own blood in his eyes and Ulf's in his beard, finding the way by the slope under his boots; and that night he brought up the whole crew. It was the last time he had gone anywhere in his shirt.
+
+He had stood at the row's end until he could not feel his feet. Then he had left the sister to it, and come back to the fire.
+
+When the fire had dried the front of the linen, he said, "Book."
+
+The keeper came out of the dark between the sleepers at her own pace, small and bent, with the bronze beads of her cord clicking at her belt and the case on her back hanging nearly to her knees, and knelt on the hide by the plate. She unbuckled the case and took the book out, and turned it over on her knees, and opened it from the end. Then she held it to the fire for him with her nose almost on the leaf.
+
+The leaves there were the oldest, full of lines in kings' hands and keepers' hands. The oldest ink had gone brown. Most of the lines had a stroke drawn through them, once, through the middle. He turned past them to the crown of Aeridor's.
+
+*The crown of Aeridor. Two winters' paper. Owed.*
+
+He had eaten those two winters with his halls. His plate had been taken in at every strap for them, and the children had held their bowls out to the line cut inside them, and Dagny had filled them to it. The heir's promise stood under it now, and his own stroke ran down from the old line to the promise and not through it: moved, not struck. He had drawn it at the trough in the clans' hall with all Stoneheart sitting round the walls to see it done. The grain had not come yet. He left it.
+
+Tharsis was on the next leaf, in the halls' own marks: *The drowned iron*, and under it, small, Sten Hammerlee, written in after the Long Seam. He did not touch that either.
+
+His own line stood last of all. He had cut it into the leaf himself in the spring, the day the word of Bastion came up the mountain and no letter with it. The heir had promised him on the shingle to send first whenever he went against the Survey's iron, because it took the halls forty days to bring the catapults down to the sea; and he had gone against it at Bastion without sending, and lost. Kolbrand had cut the line in the common letters, so that the heir could read it without the witch at his elbow, and so could anyone else who cared to.
+
+*The heir. Forty days. Not sent.*
+
+This summer the heir had sent, on the day of the signing, and named his day. At the cove Kolbrand had told him *Sent*, and had not struck the line then. A man can send with a pen. But the heir had sat out the forty days with Bastion's pens full, because forty was what the halls needed, and come to the cove on the day he named and not the day before. In the spring he had been in a hurry. And tonight he had put the halls at the foot of the tower stairs, where the work was, and then gone first himself down his own stair. A Hold-King goes first into the dark. That was not a thing anybody had told the heir.
+
+Kolbrand put out his hand. The keeper's reed pen was across his palm, and the horn of ink unstoppered, before he asked.
+
+"Struck, Hold-King?" she said. "Or moved?"
+
+"Struck."
+
+He held it as he had held it to cut the line, like a graver, and drew it once along the line from end to end. It caught at *Not*, where he had cut deepest, and ran on through.
+
+There was clean leaf under it, the rest of the page.
+
+He thought of the boy at the halls' gate in the wind, last winter, with a sack of the crown's barley on his own shoulder and the shoulder set so hard round it that he could barely get it down. *Brokk says you carried your own sack.* *Everybody did.* He had asked about the boy before ever he came up the mountain, and he had gone on asking since: what he ate, and who he listened to.
+
+He would not tell the heir. The heir could read.
+
+He gave the keeper back her pen.
+
+She bent and looked at the stroke with her nose on it, and blew on it. Then she shut the book, and put it in its case, and buckled the case, and went back with it into the dark.
+
+The lad who had done the buckles ran up from the litters, and pulled up at the edge of the firelight with his breath smoking.
+
+"King."
+
+"Well?"
+
+"Ulf's awake." He was grinning all over his first beard. "He's asking for his hammer."
+
+Kolbrand looked at the fire.
+
+"Give it him," he said.
+
+---
+
+**GAIUS**
+
+Brokk wanted the gates, and wanted somebody to tell about them, so at first light Gaius went up to the keep with him. He had slept an hour in his coat, and Liora not at all; she was still at the litters.
+
+The frost had been hard in the night, and it held. It crunched under their boots on the causeway and lay white along the tops of the golem heaps, and the cold of it struck up through Gaius's boot-soles into the small bones of his feet. Brokk talked the whole way, low, with his hands hooked in his belt: about the ore-boats, and the catapults, which wanted taking down and stowing before the weather turned, and the gates.
+
+"The boats go home light," he said. "We've drunk the ale."
+
+"What will you put in them?"
+
+Brokk did not answer that. At the bank's gate he stopped and looked it over, as he looked over a catapult somebody else had strung. It stood open in its gatehouse on hinges as black as the day they came out of the mould, with two of the halls asleep in their mail by the ashes in its door.
+
+"This summer's," said Brokk.
+
+He went on across the low ground, where the ruts had frozen, picking his way along their crowns in his nailed boots and talking over his shoulder. Away to their left along the foot of the curtain Faelar's hundred were going slowly in their grey, finding the ones that had gone over the wall in the night.
+
+"You looked at our door like that," said Brokk. "At the halls' gate. The first day. With your whole face."
+
+"I couldn't see where it hung."
+
+"No," said Brokk. "Hah."
+
+At the curtain's gate the cohort's front rank were still on their feet in the arch, with frost on their shoulders. Rufo stepped out to them from the lee of the wall, where a little fire had gone to ash. He had one hand inside his mail. He fell in beside them without a word, and they passed through together. Inside, the towpath ran away east and west along the foot of the wall, and every tower door along it was black, and the stone above each was smoked to the first loop. The heaps on the towpath had burned down to grey. The frost lay on them too, and held the smell close to the ground, so that they climbed up through it from the canal: burned cloth and cold oil, and the dead. The halls who had raked out the towers were coming along the towpath in a file, sooted to the eyes, with their rakes over their shoulders. Brokk said something to the first of them in the dwarf tongue, and the dwarf said something back, and both of them laughed, and neither stopped walking.
+
+In the keep's court the night's feet had trodden the frost black, and the light had not got down into it yet from the roofs. Scaeva's file marched up through the open gate behind them for the relief, and Galba's men came away from the stair head slowly, and stood and stamped and blew on their hands. On the north side, at the strong-room door, Laenas and Pacuvius had two of the arsenal's grey blankets round them, with the post's mark at the corners; their cloaks had gone to the town at the pens. Two of Scaeva's took the door from them.
+
+Rufo crossed the court to it, and one of Scaeva's lifted the bar.
+
+Marcus came up the three steps one at a time, stiff from the stone. He had no cloak. The rings at the collar of his mail were white with his own breath, and Tiberius's gladius was in his left hand in its scabbard. Behind him the strong-room was dark, and low along its wall, as far as the light from the door went in, there was a paleness that was a man sitting.
+
+Rufo gave him the board.
+
+"Relief," he said.
+
+Marcus took it, and looked at it, and put it inside his own mail.
+
+"He's still the one who did it," said Rufo.
+
+"Yes," said Marcus. "And he's still the one on the stair."
+
+Rufo put his hand up to the fair lock plaited above his ear, and held it.
+
+"Aye," he said.
+
+Brokk had been waiting at Gaius's side with his hands in his belt. Now he took them out.
+
+"Princeling."
+
+Marcus turned. "Brokk."
+
+"The gates." Brokk tipped his head back at the open leaves behind him. "That one. The curtain's. The bank's. The little one at the end that she went out by. All of them."
+
+"What for?"
+
+"So nobody shuts them."
+
+Marcus looked past him, through the gateway, at the fortress ground going away grey under the frost to the curtain, and the black doors along it.
+
+"Take them," he said.
+
+"Hah," said Brokk, and hooked his hands back in his belt.
+
+Marcus went down the rise toward the camp in his mail, with the board inside it, to find his cloak.
+
+Rufo stayed at the top of the steps when he had gone, and looked down into the strong-room at the paleness by the wall. Then Scaeva's men shut the door on it, and he went down the rise to sleep.
+
+The halls climbed the rise with their gear in the second hour, and had the keep's gate off before noon. Gaius stood by the wall of the court with his rule under his arm and kept out of their way.
+
+The leaves opened inward, so their straps were on the court side, three to a leaf, broad and black and bolted through the oak. Brokk's crews drove oak wedges under the foot of the first leaf at the hinge end, one either side, with two hammers swung together so that the leaf rose level, the width of a barleycorn to a stroke, until the strap eyes stood clear of their pintles. Then they had levers under it, and rollers under the levers, and they walked it out and down onto the flags on its face, a little at a time, with a dwarf on every lever and Brokk talking to all of them at once. The leaf never swung. A leaf that size, swinging, takes a man's legs off at the knee.
+
+While they walked the second leaf down, Brokk stood by him with his hands in his belt.
+
+"Well, wonder-hands?"
+
+"I'd have used a screw."
+
+"Better?"
+
+Gaius watched the leaf go down onto the flags, and nobody shouting.
+
+"Slower," he said.
+
+They knocked the straps off with drifts and sledges, and the ironwork went down the slope on a hand-cart to the ore-boats in the south bay. The halls were taking the Survey's fortress home a strap at a time. The oak went to the fires. It was old oak, close in the grain and heavy, gone silver on its weather face and black wherever the iron had lain on it, and clean brown at the heart where the drifts split it. Gaius walked beside the carts as far as the foot of the rise, and stood there while they went on down to the camp, and thought about what it would have made.
+
+When they had done, the gateway was an empty arch with the pintles standing out of its stones, and from the foot of the rise a man could see straight into the court.
+
+---
+
+By noon he was down at the aid station, where the healers washed their hands in basins on the ground.
+
+The station ran along the verge below the swell, between the road and the White's tents, and the town lay along it on litters and on the army's cloaks. The frost had gone out of the verge by then and left it mud. The sisters and the healers knelt in it to their basins, and got up, and went to the litters, and came back and knelt again. It smelled of lye and broth. The town's clothes steamed in the sun; they had been slept in on rock since the island fell. Domitia had been along the whole verge before noon telling every sister on it what she was doing wrong, and most of them had been.
+
+The levy's spears still lay heaped at the back of the bank, where the levy had thrown them down, and Gaius had brought an armful of the shafts down with him. They were ash, cheap and straight, too thin for a lancea and good enough for this. He lashed the first three together at the head with cord from the White's stores, so that they stood up on their own.
+
+A man of the town had got up off his cloak to watch. He was grey and thin, with his breeches tied up with string, and his hands were a net-maker's, hard across the inside of the fingers where the twine runs. When Gaius had made the lashing he put out one of them for the cord without a word. Gaius gave it to him. The man undid the lashing, and made it again round the three shafts with a hitch Gaius had never seen, quick, with the end tucked back under itself, and pulled it, and it bit.
+
+"Nets," said the man. "Before."
+
+Gaius did the next one the man's way, and the one after it. Then he laid the tail-boards of two of the levy's carts across them; and by the time the cord had rubbed the side of his finger raw there was a trestle down the middle of the station at the height of a woman's waist, and the sisters were lifting the basins onto it.
+
+Domitia stood at the end of it with her hands on her hips, and looked along it from one end to the other.
+
+"Took you long enough," she said, and walked off.
+
+He was lashing a second trestle when Hostus started on the town's teeth.
+
+Hostus had his stool at the far end, and his bucket, and the ones who could sit up waited their turn for him on the mud. The pens had loosened half the teeth in the town. He laid his left hand on each brow and tipped the head back against his own chest, and talked the whole time in his long patient voice, about the weather and the man's trade, with the pincers going in under the talk. The tooth held, and held, and came all at once, as a treenail comes out of green oak when it gives. Then Hostus dropped it in the bucket and gave the man a cup of something that made him cough, and the man got up holding his jaw, and the next sat down.
+
+Domitia was at the basin nearest him.
+
+She had taken her steel cap off to wash, and her coif with it, and her hair hung down heavy over one shoulder. She washed her hands, and her face, and dried them. Then she looked down into the water, a good deal longer than a woman needs to see whether her face is clean. She turned her head a little to the left, and then to the right. The flesh had gone off her face since the spring, and left the bones in it.
+
+Hostus had stopped.
+
+He had the pincers in a man's mouth and his hand on the man's brow, and he was looking down the trestle at her. The man waited. In the end he said, "Ah?" round the pincers.
+
+Hostus took his clean hand off the brow and rubbed the back of his own neck with it. Then he bent to the mouth again, and drew the tooth, and held it up in the pincers and looked at it from both sides before he let it drop.
+
+Gaius tied off his lashing.
+
+Across the road Fingers was chalking on the flat side of a cart with his back to the station: *Hostus*, big and uneven, and a line under it, and on the line one word, *oil*, and the odds. Ear wandered over to read it, and then Rusticus, and then the cousins, and Fingers held his cap out behind him without turning round and felt the coin go into it.
+
+"Engineer?" he called across the road. "You were nearest."
+
+"On what?" said Gaius.
+
+Fingers looked at him a moment. Then he wiped the odds off the cart with his sleeve, and chalked them shorter.
+
+Gaius picked up the next shaft.
+
+Felix worked along the verge with his jug and his cup, giving the town water. He stopped by a boy of about twelve who sat on a cloak with his feet in sacking tied round with twine, and put the jug down, and took a parcel out of his shirt. It had been in there since the spring, and it had taken the shape of him. He unwrapped it on his knee. It was a pair of socks, grey wool, knitted close and doubled at the heel.
+
+"They're a soldier's," said Felix. "His sister knitted them. She wanted them given to somebody who needed them."
+
+The boy looked at the socks, and at Felix, and down at his feet.
+
+"Strictly," said Felix, "that's you."
+
+He knelt in the mud and picked the twine undone himself, because the boy's hands would not manage it. Under the sacking the feet were white, and ridged where it had bound them. The boy pulled the socks on. They reached past his shins nearly to his knees, and he sat on the cloak looking at his own feet.
+
+Liora was at the far end of the station, where the worst of the town lay, on her knees in the mud. Her skirts were heavy with the wet and black with mud from the knee down, her hair was bound up off her neck in a bit of cord, and there was a smear of mud on her cheek from her own hand. She went from one litter to the next without getting up, with her hands flat on each in turn; and behind her the coughing stopped, a litter at a time.
+
+Gaius went down the verge to her.
+
+"There's a trestle for the basins now."
+
+"Good." She did not look up. Her hands were on a woman's chest, and the woman had stopped coughing and lay looking up at the sky with her mouth open, breathing. A girl barely old enough to walk sat in the mud by the woman's head and patted the blanket with both hands.
+
+"Your knees are wet through."
+
+"They're lying down," said Liora, and the corner of her mouth moved.
+
+The woman under her hands slept. Liora got up off her knees to go to the next, and stood a moment with her wet hands held away from her skirts; and Gaius looked at the height of them off the ground, and took it away with him.
+
+---
+
+That night the keep's gate burned in the army's fires all along the road.
+
+The oak burned long and hot and almost without smoke, and spat sparks out of it that made the cohort lean back from the fire with their bowls. Oppius had broached a cask of salt pork from the arsenal and boiled it in the big kettle with barley and onions until the barley was fat with it, and the smell went up and down the road and brought the halls to the cohort's fire with their own mutton and a keg. One of them came last, between two others, with his ribs strapped in the White's linen, and sat down slowly on the end of the keg with a hammer across his knees, and would not be parted from it to eat.
+
+The king came with them. He was in his shirt, with a hide over his shoulders against the cold. Out of the steel he was a broad dwarf with a pink scar across his brow, and the cohort got up off their sacks when he came to the fire all the same. He sat down by Marcus. He drank, and passed Marcus the horn, and Marcus drank, and passed it back.
+
+The White carried broth along the verge to the town in buckets. Gaius sat on a sack with his back cold and his face too hot, and ate his pork, and burned his mouth on it, and ate the rest anyway. Liora sat beside him with her wet skirts spread to the fire, steaming, and ate hers off his knife, because she had lost her own somewhere along the verge. Before the bowls were empty the halls had sung, in the dwarf tongue, a song about a mule that went on as long as the keg did, and the cohort roared the last word of every verse with them without knowing what it meant.
+
+When the kettle was scraped Nirel came round the fire to Liora.
+
+She was the youngest of Sylara's four, small and freckled under the grey, with her braid pushed down the back of her collar, and she squatted in front of Liora on her heels, as the cohort squatted at dice.
+
+"The four," she said. "On the hill. I want their names, and what they did."
+
+Liora gave them to her, as she had given them to the General on the road, in the voice she used for the names: each man's century and his town, and what he had carried, and where he had stopped. Nirel said them back under her breath, a few words at a time, after her.
+
+"And Tappo," said Liora. "Of the cohort. Who made a song." Her hand had gone to the bag at her side, where his cap was.
+
+"He made his own," said Nirel.
+
+She stood up at the fire, and sang.
+
+She sang it high, higher than any man in the cohort could have gone, to a tune of the wood that climbed where their tunes came down; and she sang it in the common tongue, in Liora's own words. *Bruttius, of the old harbor, carried the front of the shield.* The fire spat. *Trebonius held the bridle till the rider stopped to kill him.* Along the road the fires fell quiet one by one as the song reached them, and at the next one the Lanciarii set their cups down. Oppius stood with the ladle in his hand and did not put it in the kettle. Ear's bowl had tipped in his lap, and the last of his pork ran out of it onto his boots. *Egnatius stood in the horse's way with his sword out, and had no shield, because his shield was under her. Sosius was the youngest. He had a sister at Cyrene who sends him socks.*
+
+At *socks* Felix looked away from the fire, down the verge toward the town.
+
+*He was hit at the top, and told nobody, and went down twenty paces short.*
+
+Then she stopped, and the fire was the loudest thing on the road.
+
+Nirel looked at Liora.
+
+"Yes," said Liora.
+
+At the next fire, among the Lanciarii, Valeria said, not loud, "She left you out."
+
+"Good," said the General.
+
+Sylara sat against Rufo's shoulder with her knees drawn up. "In the wood only the eldest make songs," she said.
+
+"She's not in the wood," said Rufo.
+
+At the edge of the firelight, where he had stood all evening with the dark at his back, Faelar's ears moved, once.
+
+Felix cleared his throat. "That was right," he said. "Strictly. All of them in their order."
+
+"*Strictly*," said Nirel, under her breath. Then, aloud: "What is *strictly*?"
+
+"It means exactly," said Felix. "With nothing over and nothing short." She waited. He looked round the fire. "Engineer. Your rule."
+
+Gaius passed it across to him. Felix opened it and laid his thumbnail on the first mark.
+
+"That's a foot," he said. "Not about a foot. Not a big man's foot. Strictly, a foot."
+
+Nirel looked at the rule, and at the marks on it, and at Felix.
+
+"Strictly," she said, "it is a stick."
+
+"Strictly," said Felix, "it's a rule."
+
+An hour later he was still telling her, and Gaius had not had his rule back. Across the road Fingers squatted at his cart with the tip of his tongue between his teeth, and chalked under *Hostus*: *The Elf & the Servant*.
+
+Gaius and Liora went back along the road in the third hour of the night, with the moon coming up over the quarry-cut.
+
+"She had them right," said Liora. "Every one."
+
+"You gave them to her right."
+
+"I've given them to anybody who asked." She walked a little way. "Nobody's asked to keep them before."
+
+Further on she took his hand and turned it over to the moon, and found the raw place on his finger from the cord, and put her own finger on it. It was warm, and then it was not sore.
+
+"It was only skin," he said.
+
+"It was my skin."
+
+The camp was going to sleep. The White's tents stood dark along the verge with their bells on the poles, and at the end of the healers' row there was a lamp lit in the barber's tent, so that the canvas showed yellow from inside.
+
+Domitia came along the row from the White's lines with her hair down her back and her white cloak held round her. She stopped at the barber's tent, and tapped its pole twice with one finger, and lifted the flap, and went in.
+
+Gaius had stopped walking. The tent was a little out of square. He had been meaning to tell Hostus so since the cove.
+
+Liora's hand was on his arm.
+
+"Walk," she said.
+
+He walked. When he looked back from their own tent, the barber's lamp was out.
+
+---
+
+The morning was grey, with a wind off the south-west that smelled of rain and brought none.
+
+The White ate at the bells, and Liora with them, so Gaius ate there too, at the end of the bench the halls had made the sisters out of a plank of the keep's gate on two stones. It was barley porridge with a lump of the halls' butter going down into it yellow, and he ate it with the wind at the back of his neck and his rule back in his belt. The town ate at the bells as well, in a line with their bowls, and the girl from the verge went down it a second time with hers held up in both hands, and was filled again.
+
+Domitia came down the row from her tent in grey.
+
+It was a grey cloak of the order's, of plain wool, over her mail, and the fold-creases from whatever chest it had come out of were still square in it. Gaius's eyebrows went up. There was no oil-flask on the hook at her hip. She had the look she brought to the bells every morning, as if the porridge had done something to her. She sat down near the middle of the bench, and the sisters on either side of her moved along a little, and then a little more, and went on eating.
+
+"How do they know?" said Gaius, low.
+
+"She told them," said Liora. "That's what the grey's for."
+
+She took up her bowl, and got up, and carried it along the bench, and sat down in the space on Domitia's left. Domitia went on looking at the fire.
+
+"You needn't," she said.
+
+"I know," said Liora.
+
+Hostus came along the verge with two bowls, and stood at the end of the bench holding them.
+
+"Sit down, Barber," said Domitia.
+
+He sat down in the space on her right, and gave her one of the bowls, and rubbed the back of his neck.
+
+The cohort passed on their way up the road, in ones and twos, with bread in their fists. "Morning, Sister," said Ear, going past; and Rusticus after him, and the cousins: "Morning, Sister." "Morning, Sister." Fingers came last, and looked at the two bowls, and said, "Morning, Sister. Barber."
+
+"Morning," said Domitia, to each of them.
+
+When she had eaten she took a half-sheet out of her sleeve and unfolded it on her knee. She wrote to the Abbess every night, pages of it. Gaius was near enough to see that there were two lines on this, in her own hand, and he did not lean. She read them over once and changed nothing. Then she folded the sheet small and gave it to one of the order's carters, who was going down to the south bay with the Vigil's bag and a mule; and he put it in with the rest and buckled the bag, and went off down the road toward the bay where the *Patience* lay.
+
+Domitia got up, and crossed to the trestle, and tapped it twice with one finger.
+
+"That's out of true," she said.
+
+Gaius went and put his rule on it. It was, by a shaving.
+
+---
+
+In the afternoon the halls took the bank's gate off.
+
+It was the biggest of the gates, hung high in its gatehouse, and Brokk had asked for figures, which he never did. The wind had got into the gatehouse and through it, smelling of rain still, and Alana sat out of it in the guardroom door at a camp table with a board and chalk, copying Gaius's figures fair into the dwarf marks for Brokk's crews: the leaf's weight, the wedges, the lift. She wrote with the wrong hand. The right was wound in Rusca's linen, and Rusca sat beside her with the weather-book shut on her knees and watched the marks go down. Alana's lips moved over each of his figures before she wrote it.
+
+"Your nines lean," she said.
+
+Gaius looked at her board. "Yours lean the other way."
+
+Marcus stood at her shoulder. When she put the chalk down to work the cramp out of her fingers, he picked it up and held it until she wanted it again.
+
+Brokk had been up the gatehouse stair to the hinges and down again twice. He crossed to Marcus now with his hands in his belt, and jerked his head east, toward the quarry and the pens.
+
+"Princeling. That row by the pens' wall."
+
+"What about it?"
+
+"Stands there. Eats nothing. Doesn't tire." Brokk sniffed. "Can it lift?"
+
+Marcus looked at Rusca.
+
+"Can they?" he said.
+
+Rusca's hands lay still on the book on her knees. "I can count them, Highness," she said. "I won't write them."
+
+Marcus nodded.
+
+"Wedges, then," he said.
+
+"Hah," said Brokk. "Wedges."
+
+The wedges went in where Alana's marks put them, and the leaf rose as far as the figures said it would and no further. It came off its pintles late in the afternoon, with the halls on the levers, and went down on its face on the rollers. Brokk went and looked at Alana's board, and grunted; and when they had drawn the straps he had the hinges carried out into the gatehouse door and laid side by side on a hide.
+
+Gaius knelt on the hide by them.
+
+They were cast, not forged: strap and knuckle in one pour, and the strap tapering clean to its end, with the bolt-holes cast in and not punched. Brokk knelt across from him and turned the nearest over, so that he could see it was as good on the back, which only the oak would have seen.
+
+"Feel that," said Brokk.
+
+Gaius ran his thumb round the knuckle, where a smith wraps a strap's end round and welds it. There was no line in it anywhere.
+
+"No seam," he said.
+
+"No seam." Brokk sat back on his heels. "Same iron as those," he said, and tipped his head at the golem heaps along the causeway.
+
+Gaius would have liked to meet the man who cast it, and was glad he would not.
+
+"What will you do with them?" he said.
+
+"Keep them."
+
+Gaius's eyebrows went up.
+
+"For what?"
+
+Brokk looked at him as if he had asked what a bellows was for.
+
+"They're *excellent* hinges," he said.
+
+---
+
+At dusk Hostus came along the healers' row to the trestles.
+
+"Engineer."
+
+"Barber."
+
+"My tent," said Hostus.
+
+"It's out of square."
+
+"So I'm told."
+
+Gaius went with him. The barber's tent stood at the end of the row with its flap tied shut, and its ridge fell toward the road by the thickness of a thumb, which was plenty, to a man with an eye for it. He drew the pegs along the low side and set them again further out, and drove them with the heel of Hostus's mallet, while Hostus held the pole upright with both hands and looked at the top of it, as he was told. Then Gaius slacked off the guy on the high side, and drew it again, and stood back.
+
+The ridge ran level.
+
+Hostus looked at it with his hands in his sleeves.
+
+"She'll find something else," he said.
+
+---
+
+The curtain's gate fought them.
+
+That was the next morning, still and clear, with the frost not yet off the road. The halls had the wedges in under the first leaf by the second hour, and it rose level and stopped, with one strap eye clear of its pintle and the other not. The pintle had rusted in its lead. Whoever hung the gate had run lead round its foot into the stone to set it, when the wall was new, and since then the wet had got in between the iron and the lead and swelled the rust until the two were one piece. They drove the wedges again, and the leaf groaned in its frame and stayed where it was, and Brokk said a short word to it, and two of the halls laughed in the middle of a stroke.
+
+Marcus had come down from the keep to watch, in his blue cloak again. Brokk came round the leaf to him, wiping his hands on his thighs.
+
+"Your quaestor's dead would have that up by now," he said.
+
+Marcus unpinned his cloak and gave it to Felix. He went to the nearest lever, and set his shoulder under it among the halls, and waited for Brokk's word.
+
+They heaved. The ash of the lever bent. Gaius heard the rust give in the lead before he saw the eye move, a dry crack, and then the strap jumped off the pintle in a shower of red flakes and the leaf hung free, and the halls walked it down. One of them said something to Brokk as they went past him, and Brokk barked.
+
+"He says you lift like the king," he said to Marcus. "All shoulder."
+
+Marcus straightened, and worked the shoulder round once, and took his cloak back from Felix. There was rust down the back of his arming coat, and he left it there.
+
+He stood by Gaius a moment with the cloak over his arm, looking up at the curtain's walk where it ran away east to the postern.
+
+"Is it sound?" he said. "The walk, at that end."
+
+"It held the garrison."
+
+"Two people," said Marcus.
+
+Gaius looked along the walk. It was good dressed stone, and the parapet was whole from the gate to the end.
+
+"It would hold the cohort," he said.
+
+Marcus nodded, and pinned his cloak over the rust, and set off along the towpath.
+
+At noon Gaius walked down with the carts to the south bay, because the ironwork of the curtain's gate was on them and Brokk wanted it counted aboard.
+
+The ore-boats lay drawn up on the shingle under the bluff, and the halls were loading them from both sides at once. The catapults were going in first, broken down as they had come, and the Survey's iron after them along the keels, strap by strap. The keeper sat on a bale above the tide-line with the book's case across her knees, and ran a bead along her cord for every strap that went up the plank. In the stern of the nearest boat lay a long bundle in a hide, roped. The halls said Brokk had carried it down himself the night before. Out in the bay the *Patience* rode at anchor with her sail furled, and the Vigil's bag aboard her by now. A few of the town had come down too, and stood on the wet shingle with their backs to the boats, looking at the sea. The net-maker was one of them.
+
+Kolbrand was on the shingle in his shirt. As Gaius came down the last of the path the king stooped, and took a strap off the nearest cart, and swung it up onto his own shoulder, and carried it up the plank himself. Nobody offered to take it from him. When he came down for the next he nodded to Gaius in passing.
+
+"Engineer."
+
+"Hold-King."
+
+The keeper ran another bead along her cord.
+
+In the afternoon they came to the postern.
+
+It stood in the foot of the curtain at its east end, where the wall ran down to the quarry-cut: a single leaf of old oak no wider than a cart, on two black straps from the same moulds as the bank's. Drusilla had ridden out at it. The halls had it off its pintles in an hour, and the straps off it after, and the leaf lay on its back on the towpath to wait for a cart to the fires.
+
+Gaius stood over it.
+
+It was older than any of the gates, and better. It had been split from the log along the rays and not sawn, so that the silver fleck showed in it wherever the weather had worn the face, and its boards had been rubbed true against each other before they were pinned. He laid his palm on it. It was dry right through, and colder than the air.
+
+"Brokk."
+
+Brokk came along the towpath with his hands in his belt, and looked at the leaf, and at him.
+
+"That's a door," said Brokk.
+
+"It was."
+
+"What's it to be?"
+
+"A table," said Gaius. "For the healer."
+
+Brokk looked at him a while longer, and at the leaf, and at the two black hinges lying on a hide beside the postern's empty frame. Then he took his hands out of his belt, and stooped, and picked up the upper hinge, and gave it to Gaius.
+
+"For the healer," he said.
+
+---
+
+He had the height of her hands already, from the verge. What he wanted first was the leaf in two.
+
+Ear and the cousins had lifted it onto two trestles for him at the foot of the curtain by the postern, complaining of the weight of it the whole time, and had set it down gently, because he was watching. He sawed it across at dusk with the halls' long saw. The sun had gone down over the marsh, and the frost was coming down again out of a clear, still sky. It settled on the towpath and the trestles and the backs of his hands. The dust from the cut was brown and dry, and smelled sour and clean. The work went into his shoulders and warmed him from there outward, and he took the saw down through the old oak in long strokes and let its own weight do the cutting. Brokk's hinge lay on the end of the near trestle with the frost on it too.
+
+He thought about the hinge while he sawed. The strap would want shortening for a table, and a pin making for its eye, and the pin letting into a block, and the block into the other half; and the legs would want to fold under on something, and he had not yet thought what. He liked that.
+
+"Whatever Corvus is for, it's nearly *finished*."
+
+It was Alana's voice, and it carried down off the walk clear in the still air. He looked up. She and Marcus stood on the walk above the postern, against the sky, at the parapet, looking east.
+
+Marcus said nothing for a time. The saw had stopped in the cut, and Gaius left it there.
+
+"Will you marry me?" said Marcus.
+
+"Yes," said Alana.
+
+Marcus laughed. Neither of them moved from the parapet.
+
+"What's the line?" he said. "In the new column."
+
+"Ask me after."
+
+It was a question about a person, plainly put and answered, in less time than it takes to drive a nail. He had kept a question of his own on the board since a morning at Cyrene, and had not got it past the footing. He put this one away where he kept good splices.
+
+Beside him the postern's frame stood empty in the foot of the wall, with its pintles in the stone and the frost on them.
+
+Then he finished the cut.
+
+The two halves lay side by side on the trestles with their sawn edges together, furred from the saw. He took the plane that had been Arruns's out of his box. It came out cold. He tapped the heel of the stock once on the trestle to draw the iron back a hair, and sighted along the sole at the last of the light in the west, and set it on the sawn edge of the first half, at his own end, and pushed.
+
+The shaving rose off the old oak in one long curl, darker than new wood would have been and close as horn, and the smell rose with it. He took the edge down from his end in long strokes as far as the middle, and stopped there.
+
+At the slip-foot at Cyrene he had watched Arruns and his brother true a strake on trestles like these, one from each end, with their heads down, working toward each other.
+
+He went round to the far end of the trestles, where Velthur would have stood, and began again from there.

@@ -21,9 +21,9 @@
       "slug": "ch02-the-cold-grounds",
       "title": "Chapter Two: The Cold Grounds",
       "duration": 3507,
-      "bytes": 28145769,
-      "sha256": "5ac67011188760d50fb07e76fd5a2a3d30fe2e2b351b01bc73ec1ffc3286473b",
-      "url": "https://audio.insularimperium.com/book2/v/5ac67011/ch02-the-cold-grounds.mp3",
+      "bytes": 28145385,
+      "sha256": "be0f9d99730797b5433bbd6df2f8921076dd3e27c368a20d451c3a47fc586976",
+      "url": "https://audio.insularimperium.com/book2/v/be0f9d99/ch02-the-cold-grounds.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -37,9 +37,9 @@
       "slug": "ch03-who-gave-him-leave",
       "title": "Chapter Three: Who Gave Him Leave",
       "duration": 3258,
-      "bytes": 26151085,
-      "sha256": "2e25c83ed47e2c28b5a00aafc600ed20b0139a5252083a02ea111506bbafa26f",
-      "url": "https://audio.insularimperium.com/book2/v/2e25c83e/ch03-who-gave-him-leave.mp3",
+      "bytes": 26152237,
+      "sha256": "16d4f259264d0b2b6852ca961e014c8cf08a7fbf3633452835d9358dbba8c302",
+      "url": "https://audio.insularimperium.com/book2/v/16d4f259/ch03-who-gave-him-leave.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -54,8 +54,8 @@
       "title": "Chapter Four: Eat What I Eat",
       "duration": 3065,
       "bytes": 24609512,
-      "sha256": "9dcb8eb28e13713dc10ee3cb5aeb690ee9cd696910997cf8620de61cf67ece0d",
-      "url": "https://audio.insularimperium.com/book2/v/9dcb8eb2/ch04-eat-what-i-eat.mp3",
+      "sha256": "6bf612eb586b28958caf5e86d30e36d936990c9d94315b13f995970333a3eb32",
+      "url": "https://audio.insularimperium.com/book2/v/6bf612eb/ch04-eat-what-i-eat.mp3",
       "firstPublished": "2026-11-02",
       "pov": [
         [
@@ -73,9 +73,9 @@
       "slug": "ch05-pressure-applied",
       "title": "Chapter Five: Pressure, Applied",
       "duration": 1891,
-      "bytes": 15219755,
-      "sha256": "98f366859c6d34c394ba78db9f317880e8182e44dc566006d158dc7dce08a40d",
-      "url": "https://audio.insularimperium.com/book2/v/98f36685/ch05-pressure-applied.mp3",
+      "bytes": 15219179,
+      "sha256": "b76c7ce7fbfbec2ee0f07d2b277e8b3d7763c2e606e2bf57af83bbb0b22c233b",
+      "url": "https://audio.insularimperium.com/book2/v/b76c7ce7/ch05-pressure-applied.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -153,9 +153,9 @@
       "slug": "ch09-here",
       "title": "Chapter Nine: Here",
       "duration": 2941,
-      "bytes": 23619166,
-      "sha256": "c13203b647f13a482eb4181b85dae8ab99c12939dbd4e6b4e386cb13352978e2",
-      "url": "https://audio.insularimperium.com/book2/v/c13203b6/ch09-here.mp3",
+      "bytes": 23618206,
+      "sha256": "9a6292ac308c01432b41ee8e6cea089723ac01faa517656aa45543f28f921f77",
+      "url": "https://audio.insularimperium.com/book2/v/9a6292ac/ch09-here.mp3",
       "firstPublished": "2026-11-03",
       "pov": [
         [
@@ -163,7 +163,7 @@
           "Gaius"
         ],
         [
-          2168.4,
+          2168.3,
           "Marcus"
         ]
       ]
@@ -173,9 +173,9 @@
       "slug": "ch10-constancy",
       "title": "Chapter Ten: Constancy",
       "duration": 3368,
-      "bytes": 27037155,
-      "sha256": "2438298e50efac01e6b7647f9376ff95d3c02cbea02a853baa0452db07a0491d",
-      "url": "https://audio.insularimperium.com/book2/v/2438298e/ch10-constancy.mp3",
+      "bytes": 27035619,
+      "sha256": "4a1064e61cdca2aeb7e0b6d1f34843c44f8de97c749ddc40a5441433bac5220e",
+      "url": "https://audio.insularimperium.com/book2/v/4a1064e6/ch10-constancy.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -187,15 +187,15 @@
           "Gaius"
         ],
         [
-          1484,
+          1483.8,
           "Gaius"
         ],
         [
-          2045.6,
+          2045.4,
           "Gaius"
         ],
         [
-          3052.3,
+          3052.1,
           "Gaius"
         ]
       ]
@@ -221,9 +221,9 @@
       "slug": "ch12-salt",
       "title": "Chapter Twelve: Salt",
       "duration": 4751,
-      "bytes": 38096737,
-      "sha256": "e56d89c61ddd267258ca56826476903b70c04b764b1e338e9a8b3ab9af8ea1a3",
-      "url": "https://audio.insularimperium.com/book2/v/e56d89c6/ch12-salt.mp3",
+      "bytes": 38096161,
+      "sha256": "b81515970cad5333698ab0cc579e6d2b3dd87943f079103f6ec43e71d0d2a409",
+      "url": "https://audio.insularimperium.com/book2/v/b8151597/ch12-salt.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -237,9 +237,9 @@
       "slug": "ch13-arrears",
       "title": "Chapter Thirteen: Arrears",
       "duration": 3744,
-      "bytes": 30040998,
-      "sha256": "7a9ca4fa89693c15e8f97da8573433a5f5ee9db243ad3e4b0d44d63c4eaca3c4",
-      "url": "https://audio.insularimperium.com/book2/v/7a9ca4fa/ch13-arrears.mp3",
+      "bytes": 30039654,
+      "sha256": "f3e95548827227e5e84e5bb28ab8826e3ac4d82b2280efcda1dc0f5e17c73754",
+      "url": "https://audio.insularimperium.com/book2/v/f3e95548/ch13-arrears.mp3",
       "firstPublished": "2026-11-04",
       "pov": [
         [
@@ -381,9 +381,9 @@
       "slug": "ch22-logistics",
       "title": "Chapter Twenty-Two: Logistics",
       "duration": 4421,
-      "bytes": 35458858,
-      "sha256": "beaf8689932adcbe2c4b3e851b6b69816b580cc0a8bc81913ff99c1fbf75ad0d",
-      "url": "https://audio.insularimperium.com/book2/v/beaf8689/ch22-logistics.mp3",
+      "bytes": 35458666,
+      "sha256": "df50be16a67effd912c7b21ebfe34b92ce3261685d23852cda2e53dd479be4a7",
+      "url": "https://audio.insularimperium.com/book2/v/df50be16/ch22-logistics.mp3",
       "firstPublished": "2026-11-05",
       "pov": [
         [

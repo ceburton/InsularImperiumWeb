@@ -27,6 +27,7 @@
 21. [Chapter Twenty-One: Leave Granted](#chapter-twenty-one-leave-granted)
 22. [Chapter Twenty-Two: The First Page](#chapter-twenty-two-the-first-page)
 23. [Chapter Twenty-Three: The Toll](#chapter-twenty-three-the-toll)
+24. [Chapter Twenty-Four: Lessa](#chapter-twenty-four-lessa)
 
 ---
 
@@ -13524,3 +13525,521 @@ Thalassa knelt in the bows between her kin and put her hand in the sea.
 It ran one way under the hull, toward the land, as a flood should. It did not tremble, and it did not press against her palm. Somewhere out in it, behind them, Kymon was swimming west.
 
 It was only cold.
+
+---
+
+# Chapter Twenty-Four: Lessa
+
+**GAIUS**
+
+They were going up the long stepped lane at Cyrene, the two of them, hand in hand.
+
+They never did that. He knew it as he knew the lane, without having to look at it: every short flight and every landing, the sail-loft's upper door going by, the backs of the hill's houses, and steam lifting out of the gutters along the edges of the steps and darkening the stone. Her hand was warm in his. The flights climbed ahead of them in the sun as easy as a ramp laid at one in twelve. They went round Caelius's step without breaking stride, as the whole town did. There were people on the lane, a woman shaking a mat over a sill and a boy going up with a can for the Baths, and none of them looked at the two of them twice.
+
+At the top, where the lane went in under the wall of the Baths, somebody was waiting.
+
+It was Tullia.
+
+She had on the apron she wore at the wheel, grey down the front with the dust of the glass, and her hair was tied up off her neck as she tied it to work. Her hands were folded in the apron. She was smiling at him, the smile she had given him across the shop the night he told her there were no mountains on the moon.
+
+It went into him all at once. He stopped on the step with it. It was as old as the bridge, and it had not come at him like this in years, with nothing worn off it, and his chest shut on it so that his breath would not go past.
+
+He looked at Liora.
+
+She was already looking at him.
+
+When he put his eyes back on the lane there was nobody at the top of it. There was the wall of the Baths with the sun on it, and the steam going up past the wall, and nobody.
+
+He woke under *Constancy*'s stern deck with the lenses shut in his hand.
+
+It had followed him up out of the dream. It lay under his ribs where the dream had put it. Over the rudder-trunk the fog had gone pale. The moon was up somewhere above it, and the Grey took its light and gave it back with no shadow in it. Water ran off the edge of the deck in drops onto the planks by his head. Forward, a man coughed in his sleep, and off the quarter, where he could not see her, the *Answer*'s cable worked in its hawse, a slow groan and a slack.
+
+Liora was asleep beside him, on her side and turned to him. Her hair had come half out of its cloth and lay across the blanket between them. Close to, without the lenses, she was a softness of gold and pale, as near things always were to him. He did not put them on.
+
+He lay and looked at her, and the thing under his ribs stayed where it was.
+
+Then something else rose beside it, from low down in him, warm, and filled him round the ache without moving it, as the flood comes up the slip round a new hull and takes her weight off the blocks, and she floats with everything still in her.
+
+He let his breath go, all of it. The deck was steady under his back.
+
+After a time he put the lenses away inside his shirt on their cord, and raised himself on his elbow, and bent and kissed her cheek, below the eye, so as not to wake her.
+
+She did not wake as people wake. Her eyes were open before he had lifted his head, as if she had been lying there awake all along to see what he would do. She turned her head on the blanket and kissed him on the mouth, slowly, a lover's kiss, with her hand come up cold out of the blanket to the side of his face; and then she laid her head on his arm again and shut her eyes.
+
+He lay and listened to the *Answer*'s cable until he slept. He laid no wall.
+
+---
+
+The fleet lay in the Grey all the next day, waiting for the flock.
+
+At first light Liora said the names. She sat up in the blanket with her cloak round her and said them low, toward the white over the rail, as she said them every morning, from the first to the last in the order they died. Gaius lay with his eyes shut and listened. He knew the order as he knew the lane. He knew where the cohort's began, and where the men from the vat came in, and the boy of the Lower Steps who had wanted to know how the beams stayed up; and toward the end, where the names were newest, he knew how her voice did not change for them.
+
+She came to Pen in his place, and Damien in his.
+
+Then she stopped, and folded the blanket, and went forward to Oppius's fire.
+
+Of the other hulls there was only what the fog let through: the *Patience*'s horses shifting on her deck, somebody hailing somebody and being answered, the slap of a sweep. Under *Constancy*'s bows Thalassa's kin called to one another in the water in their own tongue, low, like gulls a long way off. Thalassa sat in the bows with her feet over the side, and every so often put her head down to the water and listened, and came up shaking it. The fog lay on everything in drops, on the rail and the looms of the oars and the cohort's hair. Oppius had his fire going in the sand-box forward, and the cohort stood round it by twos with their bowls, and the smell of barley and bacon carried aft through the wet.
+
+In the afternoon Liora saw to the oarsmen's hands.
+
+They had pulled two days through the coast's channels and half a night on the run in. She began on the larboard side, bench by bench, and Gaius carried the pot of salve for her, which was wool-fat and pine-tar and smelled of a sheepfold and a new hull, with the roll of linen under his arm. At each bench a man held out his hands to her palms up, and she took them in hers and turned them to what light there was. When she wanted the salve Gaius held the pot out, and she took it off the top with two fingers, and did not touch him.
+
+Gaius put on the lenses. With them on he could see her plain, the fog caught in her lashes and the chap on her lower lip, and the line that came between her brows when a hand was bad. Then he turned to the looms. He had shaped them at Cyrene out of ash, and given them a swell at the grip for a big hand; now they had worn dark and smooth where the hands had been, and on the seventh bench there were two brown smears dried on the wood. The leather at the seventh thole was worn through to the pin. He put his finger on it. He would see to that before the landing.
+
+"It's the oar, Engineer," said the man on the seventh bench, a slinger by his forearms, with his hands in Liora's. "Begging your pardon."
+
+Gaius's eyebrows went up.
+
+"The oar's sound," he said. "It's the hands."
+
+The corner of Liora's mouth went in. She laid the salve into the man's palms, where the blisters had broken and gone white at the edges, and closed his fingers over it for him.
+
+"Keep them shut," she said. "Till the watch changes." And to Gaius, without looking up from the next man's hands: "You'll see to that thole."
+
+"Before the landing."
+
+"I know."
+
+She did the starboard side after, every bench of it, and last the man at the bow oar, who said there was nothing wrong with his and had to show her. His were the worst on the ship. He studied them lying in hers, the broken places and the white, with interest.
+
+"You could warm them," he said. "Like you do."
+
+"Tomorrow," said Liora.
+
+The man's eyes went to her face, and then out to the fog, and he said nothing more. She laid the salve in, and closed his fingers on it, and stood up and wiped her own on the linen. They walked aft down the gangway, she in front, because there was room for one.
+
+Aft of the last bench the deck opened out. He came up beside her there, and held out his hand to her, palm up, as the men on the benches had held out theirs.
+
+They had never done that.
+
+She took it, and held on tight.
+
+---
+
+**VARUS**
+
+The *Excise* went out of Cyrene's gap eastward at the dark of the moon, on an evening ebb, by herself.
+
+Going out, Varus kept his eyes on the town. Cyrene had lamps of its own now, a few, lit at dusk in the Tharsian way for Tharsians who had died there; and at the head of the long quay the red one on the harbor master's sill, turned with its back to the room, that he had walked past twice a day all winter. He watched it until the gap closed on it.
+
+All winter she had lain at the mole's end under the white cloth, on the Prefect's word. It had come down to the mole in the first week: *When the fleet sails. Not before. Let the Spire be looking west.* No galley crossed the north water in the dead of the year in any case. In the spring the fleet came down from Aeridor and lay two nights in the harbor, and went out of the gap westward on a morning ebb, the whole long line of it, for Silverwood and Bastion and whatever lay past Bastion. *Constancy* passed the mole's end first, close enough for Varus to hear her oar-master calling the stroke, and the Prefect at her stern rail looked across at the white cloth, and at Varus under it, and lifted his hand; and Varus lifted his.
+
+When the gap was astern the bosun took the white cloth down off the forestay. He folded it on the hatch-cover, stiff as it was with the winter's salt, and carried it aft, and put it in the locker with Varus's sword.
+
+Varus had not read Lessa's sheets at Cyrene. He had known nobody there. All winter the sheets had stayed wrapped, with the order, in the locker under his cot, and he had not once opened them; on the second night out he unwrapped them in his cabin, by the lamp, and read them. The oilcloth had the cold of the locker in it, and the sheets had taken the smell of the tar, and the lamp swung on its hook as she rolled and took the light to and fro across the page.
+
+He took them house by house, as the clerk had set them down: the quay, and the weigh-house, and the deputy of the beam over it; the nine lamps at the quay's end; Brine Lane, whose first house had a woman's name at its head and *Weigher, of the quay* under it; Nail Street.
+
+*The smithy. Marcia, widow. Nails.*
+
+There was no other name under hers. He read it twice. Then he read on up the town, past the coopers and the tanners' yards and the school, to a goatherd and his mother in the last house under the hill, and wrapped them again, and lay on his cot in the dark until the watch changed.
+
+At first light he went up.
+
+The wind had gone in the night. She was going east under half her oars over a long grey swell, two and a pause, with the watch below asleep along the gangway in their cloaks and the cold coming up off the water into everything. There was no land. Ahead, low along the sea's rim, the Grey lay white, and somewhere inside it was the north shore of Tharsis. The bosun had the pot on in the waist, pease and salt fish, and the steam off it lay flat along the deck and smelled of the fish.
+
+She was short on her benches, and had been since Thessa. The men who had stayed pulled in two watches now, half the oars at a time, and slept when they could; their hands had gone in the first two days of it, and the bosun had seen to them with tallow and rag. They knew what it would cost them. By now the quarter-day had come and gone at Thessa, and the clerks' hall had her name up on the Navarchy's side, and his under it, and under his every name on her benches. They did not know why. He had not told them, and they had not asked him again. If he told them, they would be in it.
+
+Thucer was in the waist with the watch below, off his oar, with the boathook across his knees. He was binding a new lashing round its head where the old one had worn through, turn on turn, and biting the twine off short. He was a Thessa man, big and slow and careful with his hands. Nobody else aboard ever put the boathook away: whoever used it laid it down where he had used it, and Thucer went and got it, and put it back in its beckets under the rail, and said nothing.
+
+At the bow Sennius had a bucket of sea-water between his feet and a fist of sand off the ballast, and was scrubbing the backs of his hands with it.
+
+He had done it every morning since Cyrene. The pitch of the Engineer's yard had been black in the cracks of his hands all winter, and the sand had it nearly out now, and the skin had come up red and raw round the knuckles. He had washed his shirt the day before and dried it on the forestay, where the white cloth had been. When his hands were red to the wrist he rinsed them, and turned them front and back, and took up more sand.
+
+The bosun went by him with the pot.
+
+"They're clean, Sennius," he said.
+
+"Yes, Bosun."
+
+Eppius brought Varus his bowl.
+
+He did not have to. He came off the third oar on the larboard side when the watch changed, and went to the pot, and came aft with two bowls, and gave Varus one and stood at the rail with the other. He was of Ostra, as Varus was. His mother sold eels from a tub at the foot of Ostra's mole, and Varus's mother had bought her eels at that tub for twenty years, and stood there while they were weighed.
+
+"Didius'll have been to your mother by now, Captain," said Eppius.
+
+"Yes."
+
+"He'll have gone by mine on his way." Eppius blew on his porridge. "She'll have made him take eels."
+
+Varus ate standing, with the spoon from his belt. It was hot, and too salt, and he ate all of it. He knew what his mother would have done with the purse. She would have counted it out on her table, coin by coin.
+
+When he had done he told the bosun how it would be. In between the heads at first dark, on the young flood. Alongside at the steps. Out again on the first of the ebb, toward midnight, with whatever they had done and whatever they had not. The bosun nodded. He had the tide in his head already, and he did not ask what they would be doing ashore.
+
+Sennius washed his hands again at noon.
+
+A little after, coasting inside the Grey, the fog thinned and showed them the north shore close aboard: a black headland with the swell working at its foot, and along its top two men walking the edge with a measuring-chain between them, heads down, counting their paces. Neither of them looked up. Varus had her backed off into the white before the second man reached the end of the chain.
+
+By mid-afternoon they were lying off Lessa, still in the Grey, and close in. Varus would not take her nearer than that by daylight. They lay with the oars shipped and the fog all round them, white and wet and near enough to touch, and listened to the land: gulls over a midden, a cart on stones somewhere, a dog. The men sat on the benches with their hands between their knees and did not talk. Thucer had finished his lashing, and gave it a twist to try it.
+
+Sennius came aft, and stood by the locker, and said nothing until Varus looked at him.
+
+"When the sheets are with the keepers, Captain," he said. "I'll not be coming back down."
+
+"No."
+
+"She told me it was all right."
+
+He meant the healer.
+
+"I know," said Varus.
+
+Sennius nodded. He put his raw hands behind him, and then brought them round again, because there was nothing for them to do there.
+
+Somewhere off the bow in the fog a hammer had started: a light hammer, quick, and a pause, and quick again.
+
+"That'll be her," said Sennius. "Finishing a box for the morning."
+
+It might have been anybody's hammer. Varus did not say so.
+
+"She'll box my ears," said Sennius.
+
+He stood and listened to the hammer until it stopped, and then he went forward again to his bench.
+
+His mother had kept a lamp once, at Ostra. The sea had kept his father, and a lamp for a man the sea keeps is set to face the sea; she had put it in the back window over the net-lofts, where it looked down the harbor to the mole's end and the open water past it. Varus had been carrying his father's dinners down to the mole that year, and Didius's with them, and then only Didius's. For a year he had come home up the outside stair in the dark with the lamp's light on the step above him. On the day the year was out she wet her fingers and put it out, and took her coat down off its nail, and went down to the chandler's to pay what was owed.
+
+The fog had begun to go grey toward the land. In an hour it would be dark.
+
+---
+
+The *Excise* came out of the Grey under the north shore of Tharsis an hour after the last of the light, and there was Lessa.
+
+It lay at the bottom of its hill between two dark heads, and its lights ran up the hill in strings and knots, small and yellow and still. Most of them were low, at the height of a sill, each by itself, with the room behind it dark. Here and there a window was lit right through, with a fire in the room and somebody crossing it; there were not many of those, and as the *Excise* stood in they went out one by one. The lamps stayed. The men on the benches had their backs to it, and watched Varus's face instead.
+
+It was a lamp town. Children in Tharsis learned what that meant before they learned their letters.
+
+Sennius stood at the stem with his face to the land. He had the clean shirt on, and his coat buttoned over it to the neck. The land breeze came off the north shore to meet them in the dark and brought the town out over the water: wood-smoke, and the harbor's mud, and the salt-house, and under all of it the tan-pits, sour and sweet at once. Sennius breathed it as if somebody had put a plate in front of him. He looked up the town, from lamp to lamp, and then at one place, and stayed on it. Varus did not ask which it was.
+
+Then Sennius turned round from the stem.
+
+"Keep her off the east head, Captain," he said. "There's a rock."
+
+Varus had the north shore's chart open on the locker lid under the stern-lantern. It was the Survey's chart, as all the Navarchy's were. He held the lantern to it. The east head was drawn clean, with deep water to the foot of it.
+
+"It's not on the chart."
+
+"No, Captain. The boats know it." Sennius looked out past the bow at the dark. "Two of the salt-boats went on it when I was small. You can see it at the bottom of a spring ebb. It looks like a sow asleep."
+
+Varus gave it to the bosun at the steering oar, who took her wide. Then he took his pencil and drew a small cross off the east head, where Sennius said, and wrote beside it in the margin *Boats know it.*
+
+"There was a lad off the quay was going to put them all on," said Sennius. "Every rock on the shore."
+
+"And?"
+
+"He went into the Survey, Captain."
+
+Varus put both watches on the oars for the run in.
+
+"Thucer," he said. "Eppius. You'll take her lines up when she's alongside, and stay with them."
+
+"Captain."
+
+They rowed in between the heads on the young flood, past the boats lying dark at their moorings, and over the dip of their own oars a grinding came off the quay, on and off, like a quern. The quay ran along the foot of the town with the water a long way below its edge, and the weed on its stones showing black in the lantern-light. At the foot of the steps by the chandler's they came alongside.
+
+An old man came down the steps to them with a lantern on a pole and a book under his arm, and a muffler wound up to his ears. He held the lantern out over the water to read her name off her bow, and then he looked at the coat, and coughed into the muffler, and his breath smoked in the lantern-light.
+
+"Ship?"
+
+"The *Excise*," said Varus. "Of Thessa."
+
+"Master?"
+
+"Varus."
+
+The night man wrote it in his book on his knee, with the lantern hooked on the step above him.
+
+"Business?"
+
+"Letters."
+
+"At this hour."
+
+"They come when they come."
+
+He wrote that too, and nodded, and went back up the steps and away along the quay with the lantern swinging. Varus watched it go.
+
+The lantern had not gone far before he thought that he might have given the night man any name he liked. The book would have taken it. Then the lantern stopped at a door with a lamp over it, a little way along the quay, and went in.
+
+---
+
+Thucer and Eppius took the lines up the steps and made them fast to the rings, and stayed on the quay to tend them. There was a spring tide making, and she would rise the height of a man by high water, and somebody had to take in her slack as she rose. Thucer took the boathook up with him, to fend her off the stones.
+
+Before he went up, the bosun held out Varus's sword to him in its scabbard. He had fetched it from the locker aft, from beside the folded cloth.
+
+Varus looked at it.
+
+"Keep it," he said. "It's letters."
+
+He left the ship to the bosun and went up, with the oilcloth under his arm and Sennius at his back. At the top of the steps the quay was wet underfoot, and the chandler's shutters breathed tar and hemp at his shoulder. Thucer had sat down on the bollard by the stern ring with the boathook leaning on his shoulder, and Eppius was giving the bow line a little more as she rose, and neither of them raised his head as he went by. The dead were working.
+
+A barge lay along the quay under the weigh-house with cut stone in her, and they were bringing it ashore and up into the town: two to a rope and a sledge between each pair, and the sledges grinding on their runners over the stones. A clerk walked at the head of the file with a little lamp and a frame of beads, and called the count as he went, low, the heading first and then the figure, and slid a bead along its wire at every sledge with a small dry click. The file came along the quay toward the steps at the pace he set, and Sennius stopped where he was, and Varus stopped beside him, because a file is let by.
+
+They passed close enough to touch. They wore the Survey's oilskins over the clothes they had died in. Every man of them leaned into his rope alike, with his head down and his eyes on the stones in front of him, and none looked up.
+
+One near the end of the file leaned differently. He was young, and long in the back, and the stoop was in his neck and his shoulders before the rope came to them, from years of walking with his eyes on the ground a little way ahead of him, measuring it. Varus had seen that stoop on the headland that afternoon.
+
+Varus looked at his face, which was not done.
+
+He did not know him.
+
+Then the file was past, and the grinding of the sledges dwindled along the quay toward the salt-house, and Sennius lifted his eyes off the stones.
+
+The Survey's house stood on the quay between the weigh-house and the chandler's, with a lamp over its door, and the door open. Inside there was a clerk at a desk by a brazier, and the board on the wall behind him with its notices in rows, and the night man's lantern on its pole leaning by the door. The warm air out of the door smelled of charcoal and ink. The night man's book lay open on the desk under the clerk's hand. Varus's feet had turned toward the door before he knew it, and the clerk looked up at the coat outside his door, and down again.
+
+Sennius took him by the sleeve.
+
+"Not there, Captain."
+
+He took his hand off quick, as if the coat had come out of the fire.
+
+"The quaestor said you'd want to," he said.
+
+Varus looked at the lit door, and then at him.
+
+"Did she," he said.
+
+They turned up the lane behind the salt-house, Sennius in front.
+
+---
+
+Sennius took him by the lanes, as he had been told to. They were not lanes Varus would have found: a passage between two walls that a man had to turn sideways for, a flight of steps worn into a trough, a yard where a dog lifted its head from its paws and put it down again.
+
+"He knows you," said Varus.
+
+"He's old," said Sennius.
+
+At the turn below the yard he put his hand out to a gatepost as he went by, low down, where the stone was worn pale, and seemed not to know he had.
+
+Every few doors there was a lamp in a dark window with a tag hanging from it on a string. Sennius read the tags as he went by. He did not stop for them. Now and then he said a name under his breath, and once he said nothing at all, and went on a little faster. One tag had turned on its string toward the lane, and Varus read it too in passing: a man's name, and a day at midsummer. In one window that was lit right through, a man sat late over the end of his supper with a child asleep against his arm, and on the sill in front of him, with its tag turning a little in the heat of the room, a lamp burned for somebody else. Twice they stood in a doorway while a keeper went by them up the lane with his can, filling the lamps on the sills from outside, through the window-gratings, without a word to anybody, and went on.
+
+The keepers' house stood at the top of a lane where it turned. It was a low stone house with its door open and its light lying out on the wet cobbles, and along its wall under the eaves a row of oil-jars stood waist-high, with wooden stoppers in their mouths. The smell met them in the lane: hot wick, and oil, good oil, olive, the kind the Navarchy's officers had at their own table and the Navarchy did not burn.
+
+Inside an old man sat at a bench under a hanging lamp, filling cans. They were the long-spouted cans the keepers carried, a row of them on the bench, and he filled them one at a time from a jar on a cradle at his elbow, tipping the jar with his knee. His fingers were black with oil and wick to the second knuckle. A book lay open on the bench beside him, ruled in columns, with old tags pinned to its edge in a fringe, gone brown with handling: the tags of lamps whose year was out.
+
+He looked up at the coat, and then past it at Sennius in the door. He set the can down.
+
+"I filled it at dusk," he said.
+
+"Yes," said Sennius.
+
+The old man looked at him a moment more. He turned back a leaf of the book and found a line with his black finger, and rested the finger on it, and did not draw his pen through it. Then he wiped his hands on a rag, which made no difference to them.
+
+"She'll be sitting up," he said.
+
+"After," said Sennius. "The quaestor sends these. For the guild."
+
+"Which quaestor?"
+
+"Rusca. Of Brine Lane."
+
+"The weigher's girl," said the old man.
+
+Varus gave him the oilcloth. The old man unwrapped it on the bench, clear of the oil, and turned the sheets by their corners with the backs of his fingernails.
+
+The order was on top. He read the head of it, and the first block under the head. He read slowly, with his black forefinger going along under the line and not touching it.
+
+*The first quarter. Thessa: to the first line. Lessa: to the second line.*
+
+Then he turned to the census. *Lessa: to the second line* stood at the head of its first sheet in the chancery's square hand, and under it the town began in its own clerk's small upright one: the quay, the weigh-house, the chandler's by the steps. He turned through it. At the end of the quay he stopped, and Varus saw the finger rest a moment over *The nine lamps*. The old man would have filled those every night for longer than Varus had been at sea. Then the finger moved on. Up Nail Street it stopped again, and the old man lifted his eyes from the sheet to Sennius in the door, and put them back. He did not read every house. He turned the sheets as a man turns over a net he knows, looking at the mesh.
+
+At the end he turned back to the order, and read it through this time, block by block, to the foot of the second sheet. Low on that sheet the finger passed over *Ostra*, as it had passed every other town, without stopping. Varus watched it go by. It stopped under the last block.
+
+*The capital of Tharsis: to all the lines.*
+
+He read it twice. Then he took his finger back to the head of the first sheet and laid it under Lessa.
+
+"First column," he said.
+
+Varus set his heels against the flags.
+
+The old man folded the sheets along their creases, and the order with them, and wrapped them in the oilcloth as they had come. He did it carefully, the corners square. Then he got up, and put them in a canvas satchel, stiff with oil, that hung on a peg by the door, and buckled the flap.
+
+"The oil-boat goes at first light," he said.
+
+"To the capital."
+
+"To the guild."
+
+He sat down again and took up his can.
+
+"Who has it, at the guild?" said Varus.
+
+"The Navarch's sister." The old man tipped the jar with his knee, and the oil ran into the can, slow and gold. "Everything that comes into the guild, she reads herself."
+
+"I'll want a receipt," said Varus.
+
+The old man looked at him, at the coat and the white salt in its seams. He drew the book to him and dipped his pen.
+
+"Name?"
+
+"Varus," said Varus. "Of the *Excise*."
+
+The old man wrote it at the foot of a column, slowly. Then he reached into a box on the bench and took out a tag: a slip of the guild's stiff paper with a hole at one end for the string, such as hung from every lamp in Lessa. He wrote on it in the same round careful hand, and held it out.
+
+*Lessa,* it said, and under that the day, and under that *Received, for the guild*; and a small lamp drawn in three strokes, for his own name.
+
+It smelled of the oil. Varus put it between the leaves of his red book, and buttoned the book inside his coat.
+
+"Go on, then," the old man said, past him, to Sennius in the door.
+
+---
+
+Nail Street climbed from the head of Brine Lane toward the tanners' yards, and the whole street smelled of the tan-pits, like a cow a week dead. Sennius did not seem to notice. He went up it faster than he had come through the lanes, and then, halfway up, slower.
+
+The smithy stood on the left. Its forge-door was shut and barred for the night, with a line of red under it from the banked fire, and a smell of the fire and the slack-tub got through the boards even against the tan-pits. Against the door stood a small keg with its lid on, chalked *Roofing*, for somebody to fetch in the morning. Beside the forge-door was the house door, and beside the house door a window that looked down the street to the quay.
+
+There was a lamp in the window. It stood on the sill in a clay dish, with its flame standing up straight in the still air of the room, and a tag hanging from it on its string.
+
+Sennius stepped to the window first. He bent and read the tag, as he had read the others. *Sennius*, it said, in the guild's round hand, and a day under it.
+
+Then he faced the door.
+
+He put his hand up to knock, and laid it flat on the wood, and took it off quick. He stood back from it.
+
+Then he unbuttoned his coat at the neck and took out Rusca's letter, folded in three, with *Brine Lane* on the outside of it, and held it out to Varus.
+
+"Into her own hand," he said.
+
+Varus took it. Sennius buttoned his coat again to the neck, and stood on the step with his big raw hands at his sides, where somebody had once told him to keep them.
+
+Varus knocked.
+
+Inside, the lamp went from the window. Varus stepped back across the street into the dark, out of the way of the door, and left Sennius alone on the step. A bolt was drawn.
+
+Marcia of Lessa opened her door to her son, and put out the lamp.
+
+---
+
+Varus went down Nail Street by himself, with Rusca's letter in his coat.
+
+The street fell away in front of him between its dark houses toward the quay, with a lamp on a sill here and there, and the smell of the tan-pits at his back. At the bottom of it, far along the quay, the lamp over the Survey's door was still burning. Halfway down a keeper came up the middle of it with his can, on the last of his round, and Varus stood in against a wall to let him by. The keeper did not look at the coat. He went on up the street toward the smithy.
+
+At the foot of the street Varus looked round. The smithy's window was lit right through now, with a fire in the room behind it, and the keeper was standing at it with the can in his hand, looking in at the empty sill. He was still standing there when Varus turned the corner.
+
+Brine Lane ran down from the foot of Nail Street to the quay's end, and its first house stood across from the nine lamps.
+
+They were all in one window, at the corner, nine small flames on the sill and on a shelf put up across the window for the purpose, a row and a row and the ninth by itself, burning on the keepers' oil. Behind them an old woman sat at a net with a netting-needle, working by their light.
+
+Across the lane the first house was dark but for one lamp on its sill. Its tag was dark with old smoke, and the day on it was long past. Varus went to its door and knocked.
+
+The lamp came first. Before any foot sounded inside, before the bolt, a hand reached into the window with a second lamp and tipped its wick to the first, and set it down burning beside it, and drew back. Then the feet. Then the bolt.
+
+The woman in the door was small, with a shawl held together at her throat and her hair gone grey from some brighter colour, and her eyes went to the coat and stayed there. Behind her a big man stood in his shirt, with one hand flat on the door-post above her head, as if the house might need holding up. The room behind them smelled of fish broth and lamp-oil, and in the corner behind the door stood a long pole with its grip worn to a shine.
+
+"From your daughter," said Varus. He held out the letter. "Into your own hand."
+
+She took it.
+
+She did not open it at once. She looked at the outside of it, at *Brine Lane. Across from the nine lamps.* written small and even, and touched the writing once.
+
+"It's her hand," she said.
+
+Then she turned with it to the window and opened it there, by the two lamps. It was short. She read it, and read it again, and the shawl slipped at her throat and she let it.
+
+Her husband took it out of her fingers. He read it standing, holding it out at the length of his arm and as still as a weigher waiting for his beam to come to rest, and then he folded it along its creases, small, and gave it back to her on his open palm. It was a weigher's palm, broad and clean, with the beam's callus across it.
+
+"She never would eat mutton," he said.
+
+"She'll eat what's put in front of her," said the woman. "There." Then, to Varus: "Is she well?"
+
+"She was well at Cyrene," said Varus.
+
+The woman nodded. She held the letter against the shawl with both hands.
+
+"Thank you, Captain," she said, and shut the door.
+
+Through it he heard her voice, and then the man's, low, and then nothing.
+
+Varus went back to the corner of the lane, under the nine lamps, and turned there and waited for the second lamp to go out. A lamp lit at a knock is put out again if the letter is not the one it was lit for.
+
+It burned on. Once he looked round at the nine, where the old woman's needle dipped in and out of the mesh by their light, and then back across the lane. He stood until the cold had come through his boots, and it burned on.
+
+---
+
+He came out of the lane onto the quay, and stopped.
+
+There was a light coming from the weigh-house end of the quay. It was a lamp with a hood over it that threw its light down and nowhere else, and it came at a walk, and behind it there was a file in step, with no sound but their feet. It was nearer to the steps than he was.
+
+The night man's book.
+
+Varus ran.
+
+He ran past the salt-house and the net-loft with the stone stair, with nothing in his hands now to carry, and the cold air tearing in his chest and his boots loud on the quay, and nobody came to any window to see who ran; and he came to the steps by the chandler's a dozen paces before the lamp did. The tide stood at the top of the flood, and the harbor lay flat and black and still. The *Excise* had come up the height of a man while he was in the town, and her deck lay level with the second step from the top, and he went down onto it in one stride. The bosun had the men on the benches already, and their oars across their knees. Thucer and Eppius stood at the rings above him with the lines in their hands.
+
+"Aboard," said Varus. "Now."
+
+Thucer looked along the quay at the lamp coming, and down at her side against the stones.
+
+"The ebb'll lay her on the stones, Captain," he said. "Somebody's to bear her off."
+
+Varus looked at him. Then he turned to the benches.
+
+"Starboard side, ready," he said. "Easy."
+
+On the quay above him the lamp stopped at the head of the steps, by the bollard. The man who carried it set it down on the bollard and opened a list under it. He was young, and clean-shaven, and in the Survey's black, with the white closed hand at his breast: Lessa's quaestor. Varus could see his face, lit from below by his own page. The file stood behind him in its rows and did nothing. It would do nothing until the entry had been read to it from the beginning to the end. That was the form.
+
+The quaestor began to read, in the voice for the forms.
+
+"*The Excise, galley, of the Navarchy of the Southern Sea, at Thessa.*"
+
+"Let go aft," said Varus.
+
+Thucer had the stern line off its ring before the words were out, and threw it down onto the deck in a heap. The first of the ebb had begun to run along the quay, out toward the heads, and it took her stern and swung it off, slowly, and her bow fell in against the stones with a grind of the fenders.
+
+"*Struck from the rolls of the Navarchy from the quarter-day.*"
+
+"Let go forward."
+
+Eppius threw the bow line down. Then he and Thucer put their backs against her stem where it lay at the quay's edge, and their feet to the stones, and shoved.
+
+"*Her master, Captain D. Varus, struck from the same day, for carrying his ship to the enemy, under a white cloth.*"
+
+She came off a yard. Thucer set the boathook against her stem and leaned his weight on it, and she came off two yards, three, and the starboard oars bit, and the larboard oars ran out over the water that had opened between her and the stones, and bit after them.
+
+"*She and her people to be held at any post they come into.*"
+
+Eppius stood at the quay's edge with nothing in his hands. Between him and her side there was more water now than a man could jump. Thucer looked at the boathook. Then he threw it, underhand, the length of it, and it clattered down onto her deck by the mast.
+
+"*And her master to be hanged at his own yard.*"
+
+Varus looked up at the yard.
+
+The quaestor closed his list. On the last word the file came forward, all together. Two of them took Thucer by the arms and two took Eppius, and the two men stood where they were on the edge of the quay and were taken. Neither of them called out. Eppius turned his head once, toward the water, and then the rows had him round and were walking him back along the quay behind the lamp.
+
+Varus set his heels on his own deck.
+
+At the head of the steps the quaestor stood under his lamp and wrote in the list, a short word, at the end of a line. Varus could not see it from the water.
+
+"Pull," he said. "Together."
+
+They went out on the ebb, two and a pause, past the boats at their moorings and between the heads, wide of the east one, where the rock lay like a sow asleep under the water. Nothing came after them.
+
+Outside the heads the bosun went along the benches. He shipped the two oars that had nobody at them, the ninth on the starboard side and the third on the larboard, and lashed their looms down to the benches. Then he picked the boathook up from where it lay by the mast, and stood a moment with it, and put it back in its beckets under the rail.
+
+"Where to, Captain?" he said.
+
+"West," said Varus.
+
+The bosun went forward and gave it to the benches.
+
+Varus sat down on the locker aft under the stern-lantern, and took out his red book, and opened it on his knee, past the stubs of the leaves he had torn out at Thessa. The tag fell out of it, and he picked it up off the deck and put it back between the leaves. He wet his pencil.
+
+*Thucer, of Thessa. The Excise, ninth bench, starboard: lost.*
+
+*Eppius, of Ostra. The Excise, third bench, larboard: lost.*
+
+The quaestor would have them in another column.
+
+The men on the benches had him in front of them as they pulled. They had watched him write, and did not ask what.
+
+He closed the red book with the pencil in it and buttoned it inside his coat, and turned on the locker and looked back. The land breeze had followed them out, with the tan-pits in it still.
+
+The heads stood black on either hand, and between them, falling behind, lay Lessa: the quay along the bottom of its hill, and the town going up from it into the dark, and the lamps. The lit rooms were all dark now. Nothing showed of Lessa but its lamps.
+
+He counted them.
+
+He began at the corner of the quay, at the nine, and the two across the lane from them; the one his knock had lit he counted with the rest. Then he worked back along the quay past the salt-house and the net-loft and the steps, and up the town, street by street, as far as the eye would go, and lost his place once among the roofs and went back to the nine and began again: lamp after lamp, each on its sill in a dark room, and all but one of them with a tag on its string, and a name on the tag, and the day the year was out. Somewhere on Nail Street there was a window with no lamp in it. He did not look for it.
+
+The Grey came up behind the *Excise* and took the heads, and then the quay, and then the lamps, from the bottom of the hill to the top.
+
+For the first time, Varus wondered how many of the windows were his.

@@ -23,6 +23,7 @@
 17. [Chapter Seventeen: Excellent Hinges](#chapter-seventeen-excellent-hinges)
 18. [Chapter Eighteen: The Sum](#chapter-eighteen-the-sum)
 19. [Chapter Nineteen: The Settling](#chapter-nineteen-the-settling)
+20. [Chapter Twenty: Midwinter](#chapter-twenty-midwinter)
 
 ---
 
@@ -11294,3 +11295,561 @@ Rusca drew the square of linen out of her cuff. It had come back to her from Bas
 Then she lifted it off, and closed the book, and gave it back.
 
 "There," said Rusca. "Now it'll keep."
+
+---
+
+# Chapter Twenty: Midwinter
+
+**MARCUS**
+
+At the far end of the Hall of Kings two porters were trying to find a place for *Balance*.
+
+They had taken it off the king of Stoneheart at the doors, as they took every blade brought into the hall, and Kolbrand had let it go without a word and gone on up the floor in his crimson. Now the two of them stood in the snow-light from the doors with the axe between them, and the rack had been built for swords. They laid it across the pegs, and it hung out over both ends. They stood it in the corner, where it leaned taller than either of them with its two blades over their caps. The one with the chalk stepped back to find a place on the wall for its mark, and there was none. In the end they laid it along the flags at the foot of the rack, and he knelt and drew its mark on the floor.
+
+Marcus watched it from the other end of the hall, from the foot of his father's step, where he had stood long enough for his feet to stop telling him about the floor.
+
+The hall was cold. Every lamp in its brackets was lit, and the court had filled its benches in furs, and the city had filled the floor behind the court as far back as the pillars and out between them. None of it had touched the cold. Over all those heads the snow going off the city's shoulders rose in a thin steam into the dark of the dome.
+
+The last time he had stood on this floor his brother had been lying in state at the top of the steps behind the chair, and Marcus had been too drunk to stand still.
+
+The place where the biers were set, up in the dark under the dome, was empty.
+
+The Marshal sat at the end of the first bench with his ribbons on his breast. Behind the benches the lost islands had climbed the hill in their good clothes, and the Steps with their arms folded, and the guilds in their chains. Among the pillars, in a block, scrubbed until they shone and plainly sorry for it, stood the cohort. Rufo stood up out of it by a head, with Sylara at his elbow. Liora was in her green, with Gaius beside her, and his eyebrows were up at the dome.
+
+Beside Strabo, on the cohort's right, the only one of Sylara's four under the roof stood tall and still, with the snow melting in her slate-grey braid. Ilvane had come in for him. The hundred stood out on the steps in the falling snow with their hoods back, a long pale crowd as still as the pillars, and Faelar at the top of them, a pace short of the porch.
+
+The halls stood down the left side of the floor below the lords, a low wall of plate and leather and braided beards. Kolbrand was at their head with the winged helm on, because under the mountain the helm was the crown, and the lords on the front bench kept looking at it. Dagny was at his shoulder. Behind them the halls' keeper sat on a stool that somebody had carried up the floor for her, with the halls' book shut on her knees. The bronze beads of her cord clicked as she settled them in her lap.
+
+"Feet?" said Roderic.
+
+He stood at Marcus's right hand, with his beard trimmed for it and an empty belt.
+
+"Gone."
+
+"Mine went at the porters." Roderic did not look round. "Cold house."
+
+"It was built for it."
+
+Behind his left shoulder, a pace back, Valeria stood in the king's madder, where she had stood behind his brother. Her plaits were pinned up for once, and the old white scar on her cheek showed in the lamplight. Her right hand hung empty at her side. The thumb went looking for the Farrier's haft, which was at the doors with the porters, and came back without it.
+
+Somewhere over the city a bell rang for Midwinter, and another answered it from across the harbor.
+
+Behind the chair the door of the king's stair was shut, with two of the guard on it.
+
+The bolt went back on the far side.
+
+The guards stood away. The door swung in on the dark of the stair, and the court heard it and rose off its benches all at once, with a scrape of wood on stone that rang under the dome. Behind the court the city stood up on its toes.
+
+His father came down the last of the stair with a hand on the wall.
+
+He was in the plain dark wool he wore for everything, with the thin circlet on his white hair. He came through the door slowly and stood at the top of his step beside the chair. He looked out over the hall: at the court on its feet, and the city behind it, and the halls, and the snow blowing in at the doors over the porters' rack. Then he looked down at his son.
+
+They had not been in a room together since the harvest.
+
+His father sat.
+
+The herald was the same little old man as ever, with his paper and his great voice. He unrolled the paper below the step and cried it into the dome.
+
+"*A marriage, before the kings of Aeridor!*"
+
+The dome took it up into the windows of its drum and brought it back down on their heads, and sent it out through the doors to the steps, where the hundred stood in the snow.
+
+At the far end the porters stood back from the doors, and Alana came in.
+
+The hundred had parted for her on the steps and closed again behind her. She stopped inside the doors while the women shook the snow off her shoulders, and then she came up the lane the stewards had kept open through the middle of the floor.
+
+She was in violet. The cloth had come down the king's stair a month since, in the steward's arms, with no word sent with it. The women of the second landing had sat up over it every night after, and let Marcus see none of it. It was cut close from her shoulders to her hips, and laced close, and from the hips it fell heavy to the floor and came after her a moment late at every step. The women had put her hair up high and pinned it so that nothing short of a gale would have moved it. Her neck was bare to the cold. Her chin was up.
+
+She did not hurry.
+
+He saw the heads go round along the front benches as she passed, one after another, like a word passed down a file: the great houses, and the herald's daughters on their bench, and the Marshal. A woman in white fox turned to her neighbor with her mouth open, and shut it again. They had seen her in violet before, at a Midwinter years since, when she had come the length of the Lesser Hall toward him and he had given his smile to a herald's daughter instead.
+
+At the third pillar she turned her head toward the lords' benches and gave them the line of her neck and her jaw, and held it there for a pace, and turned it back. Somewhere in the cohort a man whistled low, and was elbowed for it. Halfway up the floor she began to smile, at nobody in particular, and kept it.
+
+The women of the second landing followed her two by two in their black, with the small grey woman first. Behind them, alone, at a distance she had plainly measured, came Rusca, in the Survey's black, with her mitts on and her hands folded in front of her. The front bench knew the cut of that black. He saw them know it. At the end of the bench the Marshal pressed the bull's head of his ring into the heel of his hand, and looked at the herald.
+
+She stopped at the foot of the step beside him, and the violet settled round her feet. A flake of snow was still melting on the pins in her hair, and her breath was short with the cold of the floor, and there was ink at the side of her second finger. There always was.
+
+The herald read from his paper.
+
+"*Who speaks for the prince?*"
+
+"His father," said the king.
+
+He said it from his chair, flat, without leaning forward. The dome took that too, and sent it out to the steps.
+
+The old scar along Marcus's jaw pulled tight. He kept his eyes on the herald.
+
+"*Who speaks for the lady of Corvus?*"
+
+The court had been waiting for that one. He could hear it wait: the furs settling on the benches, a throat cleared on the second. Corvus had burned, and its chairs with it, and there was no one left on the floor of the Hall of Kings to stand up for its girl.
+
+Then Dagny came out of the halls.
+
+She stepped from Kolbrand's shoulder into the middle of the floor, short and square, with the copper wire bright in her black plait and her keys and tally-sticks swinging at her belt. She stopped below the step and sized up the king of Aeridor like a new bellows-hand.
+
+"The halls of Stoneheart," said Dagny.
+
+The herald looked at his paper. It was not on his paper. He looked at the king.
+
+His father sat with his big knuckles on the arms of his chair and waited.
+
+Dagny pushed her sleeves up to the elbow.
+
+She turned her back on the king and faced Marcus. The old spark-scars stood out white on her forearms. She had a voice for a forge floor, and the dome had nothing to add to it.
+
+"Marcus of Aeridor," she said. "The halls bid. A bed in the mountain where the frost has never been. A seat at the kettles while there's coal under us. Half a cow."
+
+The front bench made a sound. Among the pillars the cohort made another.
+
+He had answered a bid in that form once before, in a passage under the mountain, with *the witch*, and the passage had laughed.
+
+"Spoken for," said Marcus.
+
+"By whom?"
+
+"Alana," he said, "of the chairs of Corvus."
+
+The dome took it up into the drum and gave it back, and sent it out through the doors. He heard his own voice go out over the steps, small and far off in the snow, saying her name to the hundred.
+
+Dagny turned to Alana.
+
+"Alana of the chairs of Corvus. The halls bid. A forge that has never once gone out. Wire for every mark you'll ever cut. A smith with all his teeth."
+
+"Spoken for," said Alana.
+
+"By whom?"
+
+"The Centurion."
+
+The cohort roared. The dome had been built for heralds, and it rang. Along the front bench the lords turned to one another, and he watched them try to work out who the Centurion was.
+
+"Then it's in the book," said Dagny.
+
+The keeper had it open on her knees already. She wrote with her nose an inch from the leaf. At the end of the line the beads on her cord clicked once, and she blew on it.
+
+The herald had found his place again.
+
+"*Marcus of Aeridor,*" he cried, "*and Alana of Corvus, before the kings!*"
+
+Out on the steps, in the snow, the hundred began to sing.
+
+It was one note. They held it among them, a hundred voices, and passed it low and high and low again so that it never broke for breath. It came in at the doors over the porters' heads and up the floor, and filled the drum, and along the benches the furs stopped turning. It was the note the wood sings for a pledge. The cohort knew it. Among the pillars Rufo's hand went up to the fair lock plaited above his ear, and stayed there till the note was done.
+
+When it was done Kolbrand walked out from the halls.
+
+He did not speak. The lamplight was on the gold in his beard, and two of his hammers carried something after him on poles, under a hide. They set it down at the foot of the step, between Marcus and the king's chair, and stood back. It was long and it was heavy, and he heard it settle on the flags. Beside him Alana's lips moved, once and again, over some sum of her own, and stopped.
+
+"Heir," said Kolbrand.
+
+"Majesty."
+
+The king of Stoneheart stooped and took the hide by its edge and drew it off.
+
+It was bronze: a length of it as long as a tall man, curved, and finished so that the lamps ran along it. It was thick as a beam at the back and drawn down along its inner edge to one long clean bevel, and somebody had polished it until the dome lay in it upside down. There was not a mark on it.
+
+"The ring," she said.
+
+"The first of it." Kolbrand was looking at the bronze, not at her. "The rest when you've a hall to hang it in. The marks are yours. We don't cut a chair's marks."
+
+"Corvus owes you already," said Alana. "It's in your book."
+
+"A living debtor we lend to," said Kolbrand.
+
+---
+
+The great doors of the Lesser Hall stood open all that night, by the king's order, and the snow came in.
+
+It blew in along the floor under the lowest table, and lay in a white tongue on the boards inside the doors until the heat of the fires reached out and licked it up. The court sat in its furs with its back to it, because the order was the king's. Beyond the doors the palace yard lay white under its lanterns, and beyond the yard the gate of the King's Park stood open on the dark of the pines, where the hundred had made their camp in the snow. In the doorway itself, with the snow behind him and the heat of the hall on his face, Faelar stood all through the feast.
+
+At the high table the chair at the king's right hand was drawn in under the board, with no cup set at it. It had been Titus's chair. The last time Marcus sat in it he had got up after the meat and gone down the hall to the lowest table, and stayed there, and nobody had sat in it at a feast since. The stewards served round it and set no dish at it. His father sat down beside it and did not look at it, and the court looked at nothing else.
+
+Marcus sat at his father's left, with Alana beside him. Behind his chair Felix had the cup filled with water before the benches were half full, and was studying the beams of the roof.
+
+The cohort had been put up in the musicians' gallery over the screen, there being no room for them on the floor, or no table the stewards would set them at. They had driven the musicians into one end of it and sat along the rest with their legs through the balusters. Every time a goose went by beneath them on its board, a sigh ran along the gallery that could be heard at the high table.
+
+The herald cried *Midwinter!*, and read out the year's matters in the chancery form, as he read them every year. This year the king answered them. He answered every one from his chair, in a word or two: *Granted*, and *Next year*, and *No*, and once, to a guild of chandlers, *Ask me again when you've weighed it*. At the ends of the high table the clerks wrote as fast as they could go, and the meat waited behind the screen until he had done.
+
+Then the meat was carried in. It was the Midwinter meat, as it had been since there was a Lesser Hall to eat it in: goose hot from the spits, and a boar's shoulder carved at the high table, and mutton for the long tables. The benches fell on it. The hall smelled of goose fat and pine smoke. His father ate the goose.
+
+Between the meat and the dancing Marcus went down the hall.
+
+The masters of the galleys had their own table below the guilds. Nerva sat at the end of it, long and spare, with his white-tipped beard on his chest and a cup in front of him he had not drunk much of.
+
+"Highness."
+
+"The old berths," said Marcus. "Tonight, when your masters can stand."
+
+Nerva considered him with his pale sea-eyes.
+
+"All of them?"
+
+"Every one he's got."
+
+"He'll see the lights."
+
+"Then do it in the dark."
+
+Nerva took up his cup. "Midwinter," he said to the masters of the galleys, who were not listening; and drank.
+
+Marcus went on down the hall to the doors.
+
+The lost islands sat at the lowest table, across the foot of the hall in the draught, where Alana had sat a year ago. At the end of the bench nearest the doors sat Gemella, with her apron spread in her lap and her cooper's forearms on the board, putting goose-ends into it. She was not putting all of them in. Every so often she reached back over her shoulder without turning round and put one out through the open door, and a hand took it off her on the step outside.
+
+The hand was Nirel's. The youngest of Sylara's four sat on the step in the snow, a pace outside the threshold and not an inch over it, with her hood over her braid and her knees drawn up to her chin, eating goose.
+
+Felix had come down after him with the cup. He stood and took this in.
+
+"Strictly, Mother," said Felix, "they won't eat at a table."
+
+"She's not at a table," said Gemella, loud enough for the high table. "She's on the step."
+
+"On the step," said Nirel, under her breath, to herself, and took another.
+
+Faelar stood in the doorway above her, with snow on his shoulders. He kept his eyes on the hall when Marcus stopped beside him.
+
+"Your hall is very warm," said Faelar.
+
+"You could come in."
+
+"I am half in."
+
+Up in the gallery the pipes had been got back off the cohort, and the musicians began the Long Measure.
+
+The rushes had been raked to the walls, and the boards shone. All down the hall the benches turned toward the dais, to see the heir get up and lead it out, as the heir always had; and the heir was standing by the door with an elf.
+
+Last Midwinter Marcus had led it out himself, with a girl in violet fetched up from the lowest table. Before that it had been his brother's, every Midwinter he could remember.
+
+He went back up the hall between the tables, with the measure going round over his head and the court watching him come, and stopped at the end of the high table, where the General sat.
+
+"General."
+
+"Highness."
+
+"You learned this under a cane."
+
+"I did."
+
+"Then let's see what the cane got for its trouble."
+
+Roderic sat a moment longer. On his thigh the knuckles of his right hand beat out a bar of the measure, and stopped. Then he looked down the hall to the wall by the doors, where Valeria stood guard in the king's madder, and got up.
+
+He went down the hall to her, and every head turned after him.
+
+He stopped in front of her and bowed: not the court's bow but the full bow of his grandfather's house, with a hand on his heart and the grey head bowed. Valeria regarded him over it as she might have regarded a file that had dressed its ranks without being told. Then she came off the wall and lifted her right hand, palm down, shoulder-high. He set the back of his wrist under her fingers, and they walked out onto the floor.
+
+They walked it round once, alone, with the whole hall on its benches. She danced it as she marched, upright and unhurried, with her marching boots under the madder's hem and the white scar turned to the high table at every turn. He danced it as if he had never left his grandfather's long gallery, grave and easy, and now and then said something to her that moved the scar. Under his lifted arm she made the great turn, and the madder flared and fell straight again. Then the passing, back to back, close and not touching.
+
+There was nothing in it, and the hall watched every moment of it.
+
+On the dais his father had turned in his chair to see.
+
+Then the measure began again and the floor filled: lords' sons, and guild-masters with their wives, and half the cohort down out of the gallery for anybody who would have them. When Marcus turned from the end of the high table, Alana was already standing, with her right hand up palm down at the height of her shoulder, waiting for his wrist.
+
+He laid it under her fingers.
+
+He had danced the Long Measure since he was tall enough to be put on the floor for it, and he had never heard anybody sing to it. They walked it round among the crowd, slow, with her fingers light on his wrist. On the passing, back to back with him in the middle of the court of Aeridor, she was singing. It was under her breath, and only he could hear it: old words that would not march with the tune, and fought it at every step. She sang them to the end of the figure regardless.
+
+Then the last figure, and the yard of empty floor the court left between partners for the bow. He bowed the full bow. She curtsied low, with her skirts in her hand. All down the hall the couples stood back from each other across their yards.
+
+Alana came across hers.
+
+She did it in one step, with the violet swinging after her, and kissed him in the middle of the floor of the Lesser Hall, before the court of Aeridor and all its daughters, a good deal longer than the measure had room for.
+
+The gallery howled. Something went over the rail and landed among the guild-masters. The pipes lost the measure, and found it, and lost it again.
+
+When he could see the hall, the woman in white fox was sitting very upright on her bench, and Kolbrand was beating the board with the flat of his hand, and down by the doors Faelar's ears had gone back. On the dais his father was examining the beams of the roof.
+
+It was late when the novice came. She slipped in past Faelar, a girl in a novice's white with her hood up, and stood inside the doors looking up the hall as if it were a river she had been told to cross. Felix went down for her. He brought her up the side of the hall to the dais, where she curtsied to the king, and then to Marcus, and said what she had been sent up the hill to say.
+
+"The Abbess asks for the Centurion at the poor gate, Highness. At the turning of the sun."
+
+Alana had heard it. She looked at him.
+
+"The women will want me an hour at least," said Alana.
+
+"Tell the Abbess yes," said Marcus.
+
+When the feast broke up they went down the hall to the doors together, with the women of the second landing round Alana and the cohort coming down out of the gallery behind. At the doors he looked back once. His father sat on at the high table alone, with the iron candlestick burning at his end of the board and the kink in its stem black against the light. At his right hand the empty chair stood drawn in under the board.
+
+---
+
+They took her down the hill with torches.
+
+The snow had stopped while they feasted and the sky had cleared behind it, and now it was freezing hard. The new snow creaked under every boot, and the smoke of the torches stood straight up into a sky crowded with stars. The moon rode high over the harbor a few nights past the full and laid the whole city out white below them, from the Old Hill to the moles, with the warm canals smoking across it in long grey lines. The bells had fallen quiet.
+
+The women of the second landing walked round Alana in their black, close, like an escort through a hostile town. The cohort came behind with the torches, singing *The Angel of the Baths* in two keys.
+
+At the foot of the Fishmarket Steps the small grey woman stopped at the lodging-house door and turned round on him.
+
+"We'll have her now, Highness."
+
+The women took Alana in at the door among them in a rustle of black, and the door shut. Through it he heard them going up the stair all talking at once, and a laugh on the second landing, and another door.
+
+The cohort stood in the snow and regarded the shut door. Then they set off along the galley quay to the mouth of the Lower Canal, and up the canal walk to the Drowned Lantern, to drink to her. Marcus walked with them as far as its sign, with Felix at his heels.
+
+The canal ran smoking between its stone banks in the moonlight, and the frost had furred every mooring ring along it. Under the sign, in the snow, with his hands up his sleeves, stood Hostus.
+
+He was not going in. The cohort passed him into the heat and the noise one after another, with a word for him or a hand on his shoulder. He nodded to each of them and stayed where he was, thin and stooped under the sign, with his face turned up the canal toward the bend.
+
+Marcus left him there and went on up the walk with Felix, round the bend.
+
+The long white wall of the Vigil's house ran along the right of the walk, blind to the height of a tall man. In it was the deep arch of the Lantern Gate, which was the poor gate on every other night of the year, with its benches down the sides and the iron grille across its back, barred from within, and a lamp burning in the arch. Across the walk on the left the champions' sand lay under the snow, and on the sand the men were waiting with their lanterns.
+
+There were more of them than he had looked for. Every one of them had kept some sister's lamp in oil through the year, and tonight was the one night she might walk out to him. They stood about on the trodden snow in their cloaks with their breath going up: lanciarii, and men of the cohort, and some guild's son in a fur hat. Marcus knew the master of a coasting ship from the galley quay, and there was a smith from the yards with his hands black to the wrist even tonight. Each had his lantern lit, so that the sand under the white wall was crowded with small yellow lights, like a harbor full of riding-lamps.
+
+Yrrin stood among them with a lantern.
+
+He was the broadest elf Marcus had ever seen, with the old scar through his eyebrow gone white in the frost. He held his lantern a little out from himself, as if it were somebody else's and he had been asked to mind it. The men had left a space round him. He stood in it.
+
+Fingers was there too, in the middle of the sand, with empty hands and everybody's money already in his book.
+
+Marcus went in under the arch to the grille, with Felix behind him. The sister's stool stood empty against the side of the arch. Through the bars he could see the court, and a novice just inside them with her hand on the bar.
+
+The warm well smoked in the middle of it, and its steam went up into the frost and the moonlight and hung over the flags, and through it the lamps along the roofed walk burned yellow and soft. The White stood along the walk in a rank, in their white, with their spears grounded beside them and the bells at the sockets still: more of them than the court had been built to hold. Behind them, in the shadow of the walk, stood the Hearth, women in plain wool with a red cord at the waist. By each of them stood a man: a carter in his good coat, a baker still white with flour, a man of the harbor watch with his helmet under his arm. The husbands stood a little behind their wives and kept still, like men who had done this before.
+
+At the back of them all, against the wall, in grey, stood Domitia.
+
+There was a place in the White's rank where she would have stood, and it had been left open.
+
+Cassandra stood at the head of it, by the well, in the white cloak with the steel clasp and the plain steel cap, with her spear grounded at her side. Under the eaves above her hung the small high bell of the house, and another novice stood under it with the rope in her hands and her eyes on the Abbess.
+
+She rang it at the turning of the sun.
+
+It rang once, small and high, and all over the city the great bells took it up and rang the sun round. Behind him on the sand every lantern went up at once, and the light of them jumped on the bars.
+
+The first sister came out of the rank.
+
+She walked across the court past the well with her hand closed round the bell at her spear's socket to keep it quiet, and stopped at the grille an arm's length from Marcus. She looked out through the bars at the lights on the sand for as long as it would have taken her to say a prayer, if she was saying one. Then she turned round and went back to her place.
+
+So did the next. So did most of them. One at a time they crossed the court and stood at the bars, and looked out at the lanterns, and turned away. Each time one turned, a lantern went out somewhere on the sand behind him, and he heard the men round it cheer the man who held it, and thump him on the shoulders.
+
+Twice a sister did not go back. The first was a broad, grizzled woman with a broken nose. She looked out, and said a word to the novice at the grille, who drew the bar. She passed Marcus under the arch with the steam of the court still on her white, and the novice shot the bar again behind her. She made straight across the walk for a lanciarius with a beard like a thorn hedge, who set his lantern down in the snow so that he could have both his arms. The sand cheered her as if she had taken a wall. The second went to the smith from the yards, who forgot his lantern altogether and left it burning on the sand.
+
+Then Junia came.
+
+She was taller than most of them, and long in the arm, and freckled, and when she put her hand to the bars the burn on the back of it showed in the lamplight. She looked out. There was only one elf on the sand, and Marcus had no need to turn round to know where she was looking. She looked until the men on the sand had stopped talking.
+
+Then she put her nail to the bell on her spear, and rang it once.
+
+She turned and went back across the court to the rank.
+
+Marcus turned round. On the sand Yrrin lifted his lantern and blew it out.
+
+The men round him cheered him louder than they had cheered any of them. They closed in on him and beat him on the shoulders, which no elf of the wood cared to have done. He stood in the middle of them in the dark with the dead lantern hanging from his hand, and bore it.
+
+When the last of them had come to the grille and gone back, the White said the vow.
+
+They said it together, low, along the walk, with their faces to the well. It was short. Through the bars he caught only the end of it, where their voices came down together: *till the sun turns again.* The small bell rang once more under the eaves, and the rank broke, and the White went to the fire.
+
+It burned in an iron basket on the flags at the end of the court. They stood round it close with their hands out, as the White stood round a fire after a night at the line.
+
+The novice at the grille drew the bar.
+
+"The Abbess will see the Centurion at the fire," she said.
+
+He sent Felix down to the Lantern to wait for him. The sand watched him go in. A groan went up from it, and then a laugh.
+
+The White had opened their ring for him. Cassandra stood with her back to the fire and her spear in the crook of her arm, and did not warm herself. A few paces in front of her, out of the fire's reach, alone, in grey, stood Domitia, and the nearest sisters had drawn off from her a pace, as if the grey might be catching.
+
+Cassandra had a half-sheet in her hand. It had been folded small, and opened, and folded again so often since Bastion that its creases had gone soft. Marcus could see two lines on it in a heavy square hand, and nothing under them.
+
+"Centurion," said Cassandra.
+
+"Abbess."
+
+"You'll stand there."
+
+He stood there.
+
+She opened the half-sheet and read it aloud.
+
+"*I broke the rule tonight, with Hostus the barber. I am in grey from the morning. Domitia.*"
+
+She folded it again. Round the fire the White stood still.
+
+"Are you carrying?" said Cassandra.
+
+"I don't know yet," said Domitia.
+
+Cassandra regarded her, and the two straight brows did not move.
+
+"Twenty years," she said. "I would have let you walk out tonight with honour. Why couldn't you wait four months?"
+
+Domitia put out one finger and tapped the half-sheet in Cassandra's hand, twice, as if she were marking a slate.
+
+"Because we're going to Corvus," she said, "and I'm forty-five, and I was tired of being right."
+
+The fire spat. Somewhere in the ring a bell rang by accident, and was stilled.
+
+Cassandra's teeth clicked.
+
+"Grey, till the sun turns again," she said. "No oil. No crypts. Nothing of the line, and no Seeing where the dead are. At the next Midwinter you'll choose like any sister: the Hearth, or the White again after a full season in grey, or the door, with honour." She said it all at one pace, as it was written. "That's the rule."
+
+"Yes, Abbess."
+
+"This isn't." Cassandra turned the folded half-sheet over in her fingers without looking at it. "You'll go to the army as its healer, under the Hearth's rule, since you've already chosen where to keep it."
+
+Then she looked at Marcus.
+
+"Centurion. Your healer."
+
+"We'll keep her," said Marcus.
+
+Cassandra put the half-sheet away inside her cloak, against her mail.
+
+"Your name stays on the roll," she said to Domitia. "Where it is."
+
+She turned her back on them both and held her hands out to the fire.
+
+Domitia stood a moment longer. Then she went out by the grille, which the novice opened for her, and under the arch, and across the walk past the sand. The men on the sand saw a woman of the Vigil come out of the Lantern Gate at Midwinter, and cheered her as they had cheered the others. The men with dead lanterns cheered her too. A lanciarius called after her that she was a fine figure of a woman, Sister, and the Deep keep her. Domitia did not turn her head.
+
+Marcus stood in the arch and watched her go down the canal walk in the moonlight, heavy and unhurried in the grey cloak, with her breath going up. At the bend, where the Lantern's light fell round the corner onto the snow, a thin man was waiting for her. Marcus saw his hand go up to rub the back of his neck. Then she reached him and took his arm, and the two of them went round the bend together, out of the moonlight.
+
+---
+
+The stair of the lodging-house was dark, and smelled as it always had, of fish oil and cabbage and the broth of mutton bones. The warmth of the stove climbed it with him as far as the second landing and gave out there. Behind a door on the second landing somebody was still awake. He heard a woman say something low, and another laugh, and then a silence so deliberate that he could hear it all the way up the next flight.
+
+He stepped over the rotten tread without having to think where it was.
+
+The door at the top stood ajar on a light.
+
+The room under the roof was as cold as it had been a year ago, and somebody had done what could be done about it. There were bricks wrapped in flannel in the narrow bed, hot from the stove, and more blankets on it than the house could have spared, and the lamp was lit on the sill under the eaves window. The window had frosted over inside already, all but a corner.
+
+Alana was sitting on the end of the bed in the violet, with her hands in her lap and her hair still up.
+
+"They wanted to take it down," she said. "I told them you'd want to."
+
+"Did you."
+
+"I told them you'd been studying it all night."
+
+"I had."
+
+"Then you'll know where the pins are."
+
+He did not. He learned where they were with his fingers, standing over her, a pin at a time, while she sat straight-backed on the end of the bed and told him each time he missed one, which was often. The women of the second landing had been thorough. When the last of them was out, her hair fell all at once, the whole weight of it, over his wrists and down her back to the blankets. It smelled of the cold and of the snow that had melted in it.
+
+She stood up and turned her back to him.
+
+"The lacing's crossed," she said. "Take each cross out whole. If you pull the lace it locks, and we'll be here till the thaw."
+
+He took each cross out whole. The lacing went down her back from the nape to the hip through eyelets the women had worked by hand, and he drew it loose a cross at a time, slowly. Under the violet she wore a shift of fine linen that the cold went straight through. As the lacing opened down her back he saw the cold take her: the skin of her shoulders roughening with it, and the fine hair rising at her nape.
+
+He stopped with his hands at the last cross.
+
+"The line," he said. "In the new column—"
+
+She turned round inside his hands, with the violet open down her back, and put her hand over his mouth.
+
+"Ask me after," said Alana.
+
+She had his coat off his shoulders before he had the last cross out, and her cold hands in under his shirt against his ribs, so that he swore, and she laughed into his chest. The cord of the oilskin at his breast would not come for her. He pulled it off over his head himself and laid it on the sill by the lamp, with what was in it, and she watched him do it without a word. He took the last cross out whole all the same. Then the violet slid down round her feet in one heavy fall. She stepped out of it in the shift, and the cold took all of her at once. She said a word that a chair of Corvus should not have known, and went into the bed like a seal off a rock.
+
+He got in after her. The bed was narrow and the bricks were hot and everything else was cold. At first they only fought the blankets and each other for the warm places, with their breath smoking over them in the lamplight, until one of the bricks went over the side and hit the boards with a thud that the second landing must have heard. Under the blankets she got the shift off over her head and threw it out after the brick. Then there was nothing between them but her skin and his, and the cold waiting at the edges of the bed. Her feet were like ice on his shins. Her hands were not cold for long.
+
+She was precise at first. She told him where, and how slowly, as she would have entered the wind in the weather-book, and corrected him once. He did as he was told, carefully, with his mouth at the hollow of her throat, and lower, and his arm under the small of her back where the bed sagged, until she stopped telling him anything at all. There was her breath going ragged at his ear, and her heels hooked behind his knees, and the narrow bed complaining under the two of them; and he had meant to be careful of her, and was, for as long as she would let him, and then she would not let him, and he was careful no longer.
+
+At the end she turned her face into his shoulder so that the second landing should not hear her, and the second landing heard her anyway.
+
+Afterward they lay under the whole weight of the women's blankets, with the lamp burning down on the sill and the cold drawn off round the bed like a besieger. Her head was on his chest, and her hair was everywhere.
+
+"It's after," said Marcus.
+
+"After that," said Alana, into his chest.
+
+She was asleep before he could ask her what came after that.
+
+He lay and listened to her breathe. The lamp burned lower. The house below them creaked and settled into the frost, floor by floor, down to the stove. Toward morning he got out from under her arm without waking her, and went to the window.
+
+The corner had iced over with the rest. He set his palm on the ice and held it there until the cold went up his arm to the elbow and the ice softened, and he rubbed a hole in it.
+
+Through the hole he could see the harbor white under the moon, and the dark of the Old Hill above it. The inner quay lay under the hill in its shadow, too far off and too dark to tell him anything.
+
+He dressed in the dark. When he had his boots on and the oilskin back inside his coat, she spoke from the pillow without opening her eyes.
+
+"Mind the tread," said Alana.
+
+---
+
+Before dawn the frost had the city to itself.
+
+He went down through the dark house past the second landing, and over the tread, and out. The moon had gone over into the west and hung pale above the roofs, and the snow on the Fishmarket Steps was blue with it. The galley quay's braziers had gone out long since, all but one coal in the last of them, which showed red as he passed. Along the quay a rim of ice had come out from the stones wherever the warm water did not reach.
+
+He went round the head of the harbor to the inner quay under the hill.
+
+In the first berth the *Answer* had her stern lantern lit, as she always did. *Constancy* lay in the second. In the third lay the *Patience*, and in the fourth the *Forward*. After them came the rest, one to a berth, the length of the quay under the hill: the Cyrene hulls with their new oak pale under the frost, and the prizes with their names painted out and painted new. They lay dark at the old bollards with their lines frozen stiff to the great iron rings, and not a lantern lit among them, and the frost white along every rail. On the deck of one a man of the watch sat wrapped in a sail against the mast, and lifted a hand to him as he went by, and put it back under the sail.
+
+He went up the hill.
+
+The Hall of Kings was dark, and colder than it had been with the court in it. The porters' rack stood empty along the wall inside the doors. At its foot, on the flags, the chalk mark was still there where *Balance* had lain.
+
+The guard on the king's stair knew him, and stood away from the door.
+
+The stair went up the tower in the dark, cold at every slit window, and he climbed it with a hand on the wall. At the top the old steward was waiting with his lamp. He opened the door of the writing room without a word, and stood aside.
+
+The room was small. It was always smaller than Marcus remembered. One candle burned on the writing table beside the plain paper, and the fire on the hearth had been let go down to a red glow. The tall window over the harbor had grown its frost on the inside, white ferns of it over every pane, so that nothing showed through the glass but a paleness. On the sill lay the old stern-rail with its crowned dolphin.
+
+His father sat at the small table by the window with a fur round his shoulders and the circlet laid on the table by his hand. He had eaten mussels for his supper, the quay way, and nested the empties one inside the next in a row along the table's edge, square to it.
+
+"I've eaten," said the king, before Marcus could ask.
+
+"Good."
+
+"Sit."
+
+Marcus sat. It was the chair he had sat in a year ago, when there had been herring on the table and his father had served him with his own hands. His side of the table was bare tonight.
+
+His father considered him over the shells.
+
+"Half a cow," said the king.
+
+"It's a good offer, under the mountain."
+
+"It's a good offer anywhere." He moved one of the shells a little, into line with the rest.
+
+Then he put his hands on the table and got up.
+
+He did it slowly, a hand on the table and then on the back of the chair, and went to the writing table. He drew the chain out of the neck of his shirt with the key on it, and stooped, and unlocked the right-hand drawer, and took out what was in it.
+
+On top lay the half-sheet with the two words on it, which Marcus had seen there in the summer. His father laid it on the writing table. Under it lay three letters, folded, with their seals broken long ago.
+
+He put *Leave granted* back in the drawer by itself, and shut the drawer, and locked it, and dropped the key back inside his shirt. Then he brought the three letters to the small table, and the candle with them, and sat down, and pushed the letters across to his son.
+
+Marcus knew the hand before he had them open. It was the hand of the order in the oilskin at his breast.
+
+"You'll want them," said Marcus.
+
+"I know them," said the king.
+
+Marcus turned the third of them to the candle.
+
+It was the shortest. It asked for leave to fall back to the causeway, as a soldier asks for a thing he knows he will not be given. At the foot, in a paler ink, as if the man had sat on over the page into the night, there was one line more:
+
+*I would not ask if there were another way.*
+
+He folded the three of them together along their old folds and opened his coat. He put them in the oilskin at his breast with the order and the letter that had come with it and the roll of the ninety-one, and tied the cord. His father watched the oilskin go back inside the coat, and did not ask what else was in it.
+
+"He asked three times," said the king.
+
+"I know."
+
+His father turned his face to the window and the frost on it.
+
+"Go back to your wife."
+
+Marcus stood. He went to the door, and the steward opened it on the stair and the lamp, and on the threshold he turned round.
+
+The frost on the glass had gone grey. Behind it, somewhere over the harbor, the light was coming.
+
+His father had got up from the small table. He stood at the window with a hand on the sill beside the old rail. With the side of the other he wiped the frost from a pane, once across, and the white went to water under his hand and ran down the glass. He stooped a little, and looked down through it at the harbor and the old berths under the hill.
+
+Then he began to count.
+
+He did it aloud, low, in the voice he had used for the barley, from the hill's end outward, and at every number his head moved a little along the quay below. He did not hurry. Marcus stood in the door with the steward's lamp at his back and heard him go on past ten, and past twenty.
+
+"Thirty," said the king.
+
+He leaned closer to the glass.
+
+"Thirty-one."

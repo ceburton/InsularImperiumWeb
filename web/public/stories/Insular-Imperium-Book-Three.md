@@ -6237,7 +6237,7 @@ He put the stick back in his belt, and his knife after it, and went on watching 
 
 By the third hour the wind had gone round into the west, and the smoke came up the slope.
 
-It rose off the shingle past the sheds in a long grey drift, low to the ground, smelling of salt wood and moss and of the other thing under them, and crossed the head of the slope and the turf, and went in under the boughs among the leaves. Marcus stood at the head of the slope with it going past him and did not move out of it.
+It rose off the shingle past the sheds in a long grey drift, low to the ground, smelling of salt wood and moss and of the other thing under them, and crossed the head of the slope and the turf, and went in under the boughs among the leaves. Marcus stood at the head of the slope in it, and did not move out of it.
 
 Felix and young Ear brought the chair up from the first shed.
 
@@ -6249,11 +6249,11 @@ At the edge of the shade two of the elders looked at the chair, and down at the 
 
 He sat down in it.
 
-The sun was in his face. The oak was warm already, and hard, and it had been made for a bigger man or a man in a heavier coat, and it held him upright whether he wanted it to or not. Under the boughs in front of him the hearers stood at the edge of the shade, and for a moment, with the light in his eyes, they were only shapes against the dark; then he could see them. The king, bareheaded still, with his helm under his arm and the keeper at his elbow. Lyrielle, and Vael-Anar with his hands in his sleeves. Sszarra at the front of the clans, with the bay drying on her scales. Gaius on his feet, leaning on his rule. Rusca a little apart. Domitia in her white, with a wax tablet open in her hand and her stylus ready. Behind them the cohort and the Lanciarii stood three and four deep, and the smoke made their eyes run.
+The sun was in his face. The oak was warm already, and hard, and it had been made for a bigger man or a man in a heavier coat, and it held him upright whether he wanted it to or not. Under the boughs in front of him the hearers stood at the edge of the shade, and for a moment, with the light in his eyes, they were only shapes against the dark; then he could see them. The king, bareheaded still, with his helm under his arm and the keeper at his elbow. Lyrielle, and Vael-Anar with his hands in his sleeves. Sszarra at the front of the clans, with the bay drying on her scales. Gaius on his feet, leaning on his rule. Rusca a little apart. Domitia in her white, sent from the Vigil in Liora's place, with a wax tablet open in her hand and her stylus ready, and Hostus at her shoulder with his bag. Behind them the cohort and the Lanciarii stood three and four deep, with Rufo at the front and Felix and Ear at the end of the first rank, and the smoke made their eyes run.
 
 Roderic stood at his right hand. He wore a long coat of dark blue wool, old in the cut, which Marcus had not seen on him before, with the creases of a sea-chest still in it and his beard combed down over the collar. Valeria stood at his left, with the Farrier grounded beside her and her thumb on the worn place on the haft.
 
-Alana sat in front of him and to one side, at her camp table, with the weather-book shut at her elbow and a fair sheet before her, and a pen.
+Alana sat in front of him and to one side, at her camp table, with the weather-book shut at her elbow and a sheet before her, and a pen.
 
 "This is the court of the Prefect of Cyrene," said Marcus. "It sits for Cyrene, under my writ, in its name. It sits here, on the crown's ground, because a thing was done at Cyrene that was never tried there."
 
@@ -6269,33 +6269,43 @@ At her table Alana's pen went along the sheet and stopped.
 
 "Captain Merula," said Marcus.
 
-Merula had come ashore from the *Patience* that morning, when Marcus sent for him, and had waited since by the end of the first shed, out of the way. He had kept aboard her every day of the council, by his own asking: a Tharsian, he had said, had no business under those trees until somebody called him there. Now he climbed the last of the slope at a clerk's pace, short and broad and grey, with his stoop and his lenses on their cord, and stopped in front of the chair, and looked at it.
+Merula had come ashore from the *Patience* that morning, when Marcus sent for him, and had waited since by the end of the first shed, out of the way. He had kept aboard her every day of the council, by his own asking: a Tharsian, he had said, had no business under those trees until somebody called him there. Now he climbed the last of the slope at a clerk's pace, short and broad and grey, with his stoop and his lenses on their cord, and came to the chair, and looked at it.
 
 "I know that chair, Highness," he said.
 
 "You sat in it."
 
-"Fifteen days." Merula considered it, as he considered everything, like a figure he had been asked to check. "I signed the paper for the quay in it."
+"Fifteen days." Merula considered it like a figure he had been asked to check. "I signed the paper for the quay in it."
 
 Marcus waited.
 
-"I had the garrison," said Merula. "Those three were mine. Statius, and Pansa, and my sergeant. The nights after the fort fell I was down at the slips with the Survey's gear. I knew what was being done in the steam-box house by her face, in the mornings. I'd not have allowed it. I didn't stop it after. That's mine, Highness. I said it to you once on a beach, with nobody by. I'll say it here, where it's written down."
+"I had the garrison," said Merula. "Those three were mine. Statius, and Pansa, and my sergeant. The nights after the fort fell I was down at the slips with the Survey's gear. I knew what was being done in the steam-box house by her face, in the mornings."
+
+He took off his lenses.
+
+"I'd not have allowed it," said Merula. "I didn't stop it after. I was their captain. I had men who'd have done what I told them, and I sat at the slips and counted crates."
+
+Domitia went on writing, with her eyes on his face.
+
+"I've added it up every day since, Highness," said Merula. "It won't come out any other way. That's mine. I said it to you once on a beach, with nobody by. I'll say it here, where it's written down."
 
 Alana wrote it down.
 
-"Thank you, Captain."
+"I don't ask you to forgive it," said Merula.
 
-Merula stepped back, and stood, and did not go away.
+"I don't," said Marcus.
+
+Merula wiped the lenses on his sleeve, and put them on again, and stepped back among the hearers, and waited.
 
 "Sennius of Lessa," said Marcus.
 
-Sennius stepped out of the cohort. He was a long young man still, with red hands he had not grown into, and he crossed the turf to the chair like a man on a deck in a swell, and stopped there. His hand went out to the arm of the chair, to steady himself, and came off it quick.
+Sennius stepped out of the cohort. He was a long young man still, with red hands he had not grown into, and he crossed the turf to the chair like a man on a deck in a swell, and stood there. His hand went out to the arm of the chair, and came off it quick.
 
 "Who put you on the door?" said Marcus.
 
 "The sergeant, Highness."
 
-"With what?"
+"What did he give you?"
 
 "A lamp."
 
@@ -6307,11 +6317,77 @@ Sennius's eyes were on the chair. "Statius. Pansa. The sergeant."
 
 "No, Highness."
 
+"What did you see?"
+
+"Nothing, Highness. I looked at the floor."
+
+"What did you hear?"
+
+Sennius had begun to shake. He put his big hands together in front of him to hold them still, and they shook together.
+
+"She said something to them," he said. "I didn't know the words. They hit her for it. I heard that." He swallowed. "They told each other to take turns."
+
+"And to hold her."
+
+At the edge of the shade Domitia was crying, and writing. Then she put the back of her wrist to her eyes, once, hard, as if they had disobeyed her, and bent to the wax again. Gaius had taken his weight off his rule. He stood square on his bad knee, and did not seem to know it. At Marcus's left hand Valeria's fist had closed on the Farrier's haft.
+
+"I would kill them," said Sennius.
+
+He had lifted his eyes from the chair, and was looking at Marcus.
+
+"I wish they could be raised, so I could kill them again." The big hands had come apart. "I know what I did. I would do something different now. I would kill them, or die trying."
+
 "That's all the court needs from you," said Marcus.
 
-Sennius stood a moment longer, as if there must be more. He went back across the turf to the cohort, and Ear moved over and made room for him at his shoulder.
+Sennius stood a moment longer, as if there must be more. Then he went back across the turf to the cohort, and Ear moved over and made room for him at his shoulder.
 
-Marcus sat in the governor's chair with the sun on him and the smoke going past.
+Marcus drew breath for the finding.
+
+"Highness."
+
+Hostus had set his bag down on the turf. He came out from Domitia's shoulder, thin and stooped, with his sleeves rolled to the elbow, and stood where Sennius had stood, with his hands at his sides.
+
+"I knew," he said.
+
+Marcus looked at him.
+
+"From the first morning, when we came up off the beach." Hostus rubbed the back of his neck with his clean hand. "I saw the bruises. I saw her gown, torn, with a nail through it. I let them know, and got hit for it."
+
+"Who hit you?"
+
+"The sergeant. In the pen, when I went in to see to their hurts." Hostus touched the bone under his left eye with two fingers, where there was nothing to see. "He had men to help."
+
+At the front of the cohort Rufo's hand went up to the plait above his ear, and stayed there.
+
+"She healed me," said Hostus. "She said—"
+
+The smoke went past between him and the chair.
+
+"She healed me."
+
+Hostus did not cry, but his face betrayed the effort.
+
+"I couldn't do more," he said. "I'm sorry for it."
+
+"One more thing. The noises."
+
+At her table Alana's pen lifted from the sheet.
+
+"Of the abuse?" said Marcus.
+
+Domitia closed her eyes.
+
+"No," said Hostus. "The crying. She cried every night, when she thought no one could hear."
+
+"I still hear them," said Hostus. "Every night."
+
+His voice stopped. The anguish on his face did not.
+
+Alana's eyes were wet. She looked down at her sheet for a while; then she dipped her pen, and wrote.
+
+Domitia opened her eyes. Hostus came back across the turf and took up his bag, and stood at her shoulder again; and without looking round at him she tapped his wrist twice with one finger, and said nothing.
+
+Marcus had hold of the arms of the chair, in the pale places other men's hands had worn. He let go of them.
 
 "The court finds," he said, "that Statius, Pansa and the sergeant Atilius, of the garrison that held the fort of Cyrene, forced the healer they held prisoner there, in the steam-box house, in the nights after the fort fell. By the law of the isles that is death. The court sentences them to death."
 
@@ -6321,13 +6397,41 @@ He did not raise his voice.
 
 Nothing moved under the boughs but the smoke.
 
-Then Sszarra, at the front of the clans, closed both her gold eyes, once, slowly, and opened them again. Gaius sat down on the turf where he stood, with his bad leg out straight in front of him. Domitia was writing on her tablet as fast as the stylus would cut the wax. And somewhere in the back of the cohort a man let his breath out loud, all at once, like a man come up from under water; and somebody told him hush, and did not mean it.
+Then Sszarra, at the front of the clans, closed both her gold eyes, once, slowly, and opened them again. Gaius sat down on the turf where he stood, with his bad leg out straight in front of him. At the end of the first rank Felix nodded once, to nobody. And somewhere in the back of the cohort a man let his breath out loud, all at once, like a man come up from under water; and somebody told him hush, and did not mean it.
+
+Sennius had come out of the cohort again. He took a few paces across the turf, with Ear holding his sleeve, and his eyes went past Marcus, down the slope at Marcus's back.
+
+"There should be a rope for any man who held the lamp," he said.
+
+Hostus set his bag down on the turf again.
+
+"I should hang," said Sennius. "I'll do it myself, and save her the trouble."
+
+He pulled his sleeve out of Ear's fingers and went past the chair and down the slope with his long stride. Hostus was already going after him, and Ear after Hostus. Beside the chair the Farrier came up off the turf, and was grounded again.
+
+Marcus did not get up. Behind him he heard the long stride going down, and then not; a grunt, and boots sliding on the turf, and Hostus's voice, low.
+
+They brought him back up between them, Hostus with both hands on the long lad's arm and Ear on the other, and walked him round in front of the chair.
+
+*This war may take him,* she had said, at the window of the Baths. *But I will not.*
+
+"There's been enough hanging for one day," said Marcus.
+
+Sennius stood between the two of them with his head down.
+
+"A rope's quick," said Marcus. "Live with it. That is your sentence from this court. Serve her for the duration of the war."
+
+Sennius lifted his head.
+
+"If I die, Highness," he said, "I would wish to be raised, to go on serving her."
+
+Hostus kept hold of his arm.
 
 Marcus got up out of the chair.
 
-He went across the turf to the scribes' trestle under the eaves, and sat down on the bench at Pen's place. Alana followed him with the sheet she had written and the form of words Herennia would want. She laid them down beside the fair sheet and stood at his shoulder, and gave him the words when he needed them, and was silent when he did not. Pen's bowl stood at the far end of the board, with three nuts in it.
+He went across the turf to the scribes' trestle under the eaves, and sat down on the bench at Pen's place. Alana followed him with the sheet she had written, and the form of words Herennia would want, and a fresh sheet for the fair copy. She laid them down in front of him and stood at his shoulder, and gave him the words when he needed them, and was silent when he did not. Pen's bowl stood at the far end of the board, with three nuts in it.
 
-He wrote it out in his own hand. He leaned on the downstrokes, and let them be heavy.
+He wrote out the finding in his own hand. He leaned on the downstrokes, and let them be heavy.
 
 When it was done, the hearers wrote their names under it at the trestle. The king first, in the dwarf marks, pressed so hard into the paper that his name stood up on the back, and the keeper after him with her mark. Lyrielle wrote in the elves' letters, quick and fine, and Vael-Anar after her, slowly, setting each stroke down where it would stay. Sszarra laid her inked hand on it below the elves' names. Then Roderic; Valeria; Gaius, standing, with one hand on the trestle for his knee; Alana.
 
@@ -6335,7 +6439,7 @@ Merula came to the trestle after them, and stood there.
 
 "I heard it as well," he said.
 
-Marcus held out the pen, and Merula took it and wrote his name, small and close, in a hand made for columns. Sennius came after him, because Merula looked round for him, and wrote *Sennius of Lessa* in big careful letters, as a smith's boy writes; and after him, unasked, Rusca bent over the sheet and wrote *Rusca, of Lessa* under it in the plain Survey hand. Domitia wrote last of all, very small, for the Vigil.
+Marcus held out the pen, and Merula took it and wrote his name, small and close, in a hand made for columns. Sennius came after him, because Merula looked round for him, and wrote *Sennius of Lessa* in big careful letters, as a smith's boy writes; and after him, unasked, Rusca bent over the sheet and wrote *Rusca, of Lessa* under it in the plain Survey hand. Hostus wrote his name under hers, and his trade after it. Domitia wrote last of all, very small, for the Vigil.
 
 He folded it. He warmed his own wax over Alana's candle and let it fall on the fold, and set the dolphin in it.
 
@@ -6935,9 +7039,15 @@ He looked round. The fishwife had reached without looking for the hand of the wo
 
 Liora's head turned a little, toward the front bench, and the corner of her mouth went in.
 
-Herennia read the names under it. She read all of them, and where a name was in a hand she could not read she said whose the court was told it was: the Hold-King of Stoneheart, in the dwarf marks, and the keeper of the halls' book; two of the elders of Silverwood, in the elves' letters; a hand laid flat in ink, for the clans of the fen; the General; the captain of the Lanciarii; the engineer; the lady of Corvus; a captain of Tharsis; Sennius of Lessa; Rusca, of Lessa; and at the foot, small, for the Vigil, Domitia.
+Herennia read the names under it. She read all of them, and where a name was in a hand she could not read she said whose the court was told it was: the Hold-King of Stoneheart, in the dwarf marks, and the keeper of the halls' book; two of the elders of Silverwood, in the elves' letters; a hand laid flat in ink, for the clans of the fen; the General; the captain of the Lanciarii; the engineer; the lady of Corvus; a captain of Tharsis; Sennius of Lessa; Rusca, of Lessa; Hostus, barber; and at the foot, small, for the Vigil, Domitia.
 
-She pulled the spectacles down, and looked over the court.
+Then she dipped her pen.
+
+"The court of the place writes *forced*," she said. "The record of this court must name the crime as the law names it." She wrote in her book, and said the words as she wrote them, in the same dry voice. "Rape. Of a prisoner, by the men who held her. Three men, on more nights than one." She laid the pen down. "This bench has never given less for it."
+
+On the hollow boards Liora had not moved.
+
+Herennia pulled the spectacles down, and looked over the court.
 
 "A court may try the dead," she said, "so that the living know where they stand. This court did so in my first year on this bench, and hanged a wrecker's name on the Harbor Gate. The court of the place sits where its chair is. This one sat in its own chair, in the open, under the Prefect's writ. It is written fair and sealed, with the names of those who heard it, and it was in my hands before the bell."
 
@@ -6945,7 +7055,7 @@ Beside Marcus, Alana's lips moved with the words, and were still.
 
 "It is lawful," said Herennia.
 
-On the benches somebody let out her breath, and somebody else hushed her.
+On the benches the net-maker's fingers had begun to move again in the twine.
 
 Herennia pushed the spectacles up again, and turned back a leaf of her book.
 
@@ -10928,7 +11038,7 @@ On the southern road, in the toll-house, with the rain stopping, she had stood a
 
 "Then they'll be looking for me on the board, and not in Brine Lane. Chair. I know whose door it goes to, and how to knock on it, and what to say when it opens. Nobody else on this side of the water does."
 
-"Marcus has given Varus leave," said Alana. "And Sennius to go with him. Sennius is of Lessa. He knows the lanes."
+"Marcus has given Varus leave," said Alana. "And Liora has let Sennius go with him. She told him it was all right. Sennius is of Lessa. He knows the lanes."
 
 "Sennius knows the lanes to his mother's door," said Rusca. "Your prince can give his leave to whom he likes. It's still my count."
 

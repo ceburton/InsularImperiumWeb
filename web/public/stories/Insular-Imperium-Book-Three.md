@@ -25,6 +25,7 @@
 19. [Chapter Nineteen: The Settling](#chapter-nineteen-the-settling)
 20. [Chapter Twenty: Midwinter](#chapter-twenty-midwinter)
 21. [Chapter Twenty-One: Leave Granted](#chapter-twenty-one-leave-granted)
+22. [Chapter Twenty-Two: The First Page](#chapter-twenty-two-the-first-page)
 
 ---
 
@@ -12488,3 +12489,429 @@ She wrote it plain, as she wrote her reports.
 She left room at the foot for a name, and for what goes after a name. Then she turned the sheet about on the table to face him, and gave him the pen.
 
 He wrote *Marcus*, and lifted the pen.
+
+---
+
+# Chapter Twenty-Two: The First Page
+
+**LIVIA**
+
+The small lights on Livia's thread had not moved since the autumn.
+
+They were the quick ones. The large lights kept their places on the thread, dim and steady, and had kept them from the first night she carried them. The small ones went up the thread and down it, past the large ones and round them and back again, and would not keep their places, as they had not once kept their places on the benches at Corvus. Since the autumn they had kept them. Each lay where it had stopped, small and bright, and went nowhere.
+
+She sat with the thread across her lap on the clerks' bench on Lucan's landing, under the lamp.
+
+The landing had no window. It was a square of black floor at the head of the processional stair, with the stair coming up into it out of the dark of its well. The doors of the audit room stood on the harbor side, and across from them was the door of his study. Over the bench the lamp hung on its chain and was never let go out, by day or by night. It burned the Survey's oil, bought by the cask. Toward morning the boy came up with his can to fill it, as he did twice in a night, and stood on the far end of the bench to reach it, as far from her as the bench allowed. He poured without looking down, and the flame bent and stood up again. She could not smell the oil. She remembered what lamp-oil smelled like burned all night in a room with no window, from the reading rooms at Corvus in the weeks before the examinations, and she gave the landing that.
+
+Two men of the garrison stood at the stair-head with their spears. They had drawn the lot for Corvus this year. They looked at the wall.
+
+She had come up the stair at midsummer, from Bastion, by sea and then on foot like the living, because a door cost a light and she had none to spare for a stair. Nobody had sent for her. She had climbed from the great doors at the foot of the stair to the top of it, past every floor of the Survey, with herself going up beside her in the polished glass of the walls. Then she had sat down on the bench, and she had sat on it since. She sat there by day, when the clerks of the Survey went up and down past her with their books held against their chests and their eyes on the treads. She sat there by night, when there was nobody on the landing but the two at the stair-head, and then the two who came up at the turn of the night to stand where they had stood and look at the same wall. On audit days she went down before the clerks of the islands came up, and came back when they had gone. She would not sit in a row of them.
+
+The first morning, Lucan had come up the stair at first light, and she had stood and said good morning to him, and he had gone past her into the audit room as if the bench were empty. It was what she had expected. She sat down again and arranged her silk. Cluvius came out of the study and saw her, and stood a moment, and bowed his head to her, and went down. That was the first day. There had been all the summer since, and the autumn, and most of the winter, and every one of them had been the first day again, except that Cluvius no longer stopped before he bowed.
+
+She was very hungry.
+
+In the dead it was not in the belly. She had no belly to speak of now. She had a waist, which was a different thing, and which she kept. The hunger was in the distances. Since the autumn the landing had been getting longer. The lamp on its chain was a lamp at the end of a long room. When the two at the stair-head shifted their feet, it was a sound on the floor below. Her own hand on her knee was a hand that somebody had described to her once, and not well.
+
+Once in the winter she had lost an afternoon. The clerks had been going down past her with their books at noon, and then the two at the stair-head were being changed at the turn of the night, and between the one and the other there was not a sound or a face. For days afterward she sat stiller than she had sat since Corvus, to see whether it would happen again. It had not, yet.
+
+Only one thing had come nearer. The two at the stair-head were afraid of her, as every pair that drew the lot was afraid of her. Since the autumn she could tell the one's fear from the other's across the width of the landing, as she had once told from the front of a lecture room which boy at the back had not done the reading. The left-hand one had a wife in the lower town. He was more afraid in the mornings.
+
+She was dressed for the landing as she had been from the first day. The black silk worked with gold was cut away from her shoulders and from most of her back, and had felt to her like sacking for years. Her hair was up, with the one silver pin she had left, and a pin of black horn where the other had been; the warden had the other. Not a soul on the landing had looked at any of it since midsummer.
+
+Before first light Cluvius came up the stair with a packet.
+
+He was narrow and grey, and had kept Lucan's door since before the war. The packet was done up in oilskin, and the oilskin was wet. It had come across from the capital in the bottom of the salt-boat on the night tide, as the packets from the capital came, in any weather. She knew what it would smell of: tar, and bilge, and the damp coat it had been carried up from the quay inside.
+
+He bowed his head to her as he passed. She did not answer it; she had not answered it yet. He took the packet into the audit room and laid it on the sill of the middle window, where it would be wanted, and came out, and went down.
+
+Since the harvest the packets had come in a plain hand. The fine hand that used to fill them had been hanged at the capital, at the harvest, and the clerks on the stair had talked of it for a week in the low voices that clerks keep for a stair. Lucan had entered the loss, and bought a plainer hand.
+
+She had not been inside his study since last winter. She had come to him at the ninth hour, with the light going, and told him the Teeth: the little chair taken out of the prince's bow, the sea going round, the irons gone soft on the little chair's wrists without a rod. She had told it well. When she had done he wrote one line on a half-sheet for Vopiscus, and sanded it, and set his sand-box square, and looked at her.
+
+"You will draw nothing until the ledger balances. Close the door."
+
+Eleven words. She had counted them on the stair going down, because he would have.
+
+At every audit since, the first line in the black book had been read with nothing drawn against it. She had not needed to be in the room to know it.
+
+She had asked him for an errand, afterward, in the way she asked him for things, by telling him what he would want and leaving him to find it on his own books; and he had given her the moor. For a season she had made her own allowance out of the moor. She had taken its census herself, hearth by hearth, the living and the laid, and kept its living behind their own doors at dusk. Then the prince came up the moor road with his oil and his cohort and the Vigil at his back, and she went south to Bastion through her doors, a light at a time. She had kept one thing of the moor. It lay in the flat case at her girdle with her pen and her ink: three leaves of paper folded once together, in her own hand. She had shown them to nobody.
+
+Through the autumn, on the bench, she had made a lecture of them. She had lectured best to empty rooms, at Corvus. She had the order of it by heart: where to begin, what to hold back, and where to stop and let him ask, if he asked. She had given it to the landing night after night, in her head.
+
+In the autumn, in the night, on this bench, she had felt the anchor under Bastion's keep go out.
+
+She had written it herself, every ring of it, in her smallest hand. It had held a man's shame in its place at Bastion for years. Every night since midsummer she had felt it there, far off and small and warm, as she might have felt her own name said in another room.
+
+That night somebody read it.
+
+She knew it for reading at once. A reader had come to the knot with a lamp and was going round it a ring at a time, line under line, as a pupil reads back a fair copy, with moving lips. Livia had sat over enough such readings to know the pace of one. This one did not hurry, and did not skip, and did not once go back. She sat on the bench and let it be read, and did not move. It took most of an hour.
+
+Low on the knot there was a turn of the cord she had made in a hurry, at Bastion, on a bad night, with the lamp smoking. It had held. She had meant to go back to it, and had not. The reading came to that turn, and stopped there, as she would have stopped. She knew then who was reading.
+
+Then the fire. It started at that turn and ran through the knot. The light in it flared up once and was gone, and the cord let go of every ring at once. There had been no rod. She had always said the little chair could do it without one.
+
+When it was done there was a place in the night where it had been, and nothing in the place.
+
+In the morning she wrote a letter on her knee, here on the bench, and folded it in four, and put it in the case under the moor's leaves. She had not sent it.
+
+She laid two grey fingers on the inside of her left wrist, where the thread began, and kept them there. Nothing went by under them.
+
+At first light the two at the stair-head stopped looking at the wall and looked at the stair.
+
+She had not once heard him come up it. He wore felt shoes, and felt made no sound on the black treads. He rose out of the dark of the well into the lamp: past sixty, and thin, in black, with his collar buttoned to the throat.
+
+She stood.
+
+"Good morning, Lucan."
+
+She had said it every morning since midsummer, standing, as a pupil stands when the master comes into the room. He did not answer it. He went past her into the audit room and down the length of it between the empty benches. He took the packet off the sill of the middle window, and cut the oilskin, and read it there, standing.
+
+The doors stood open, as they did on every day that was not an audit. From the bench she could see down the room to the window: a tall grey shape at the far end, with his black one in it. The grey came up slowly behind him, whitest at the foot of the window, where there was frost on the panes. She could not see the harbor from where she sat, but she knew the hour. The night's work would be ending on the quay, and the quay stock going down into the harbor for the day. He liked to watch that. He did not watch it this morning. He read.
+
+He read for longer than she had seen him read anything. He read a page once, as a rule, and after that it was his; she had watched him do it across his table to the Navarchy's particulars and the Survey's quarters and her own reports, for years. This he read to the foot, and then went on standing with it. At last he folded the sheets along their own folds and put them inside his coat, and came back up the long room and out, and across the landing toward his door.
+
+At the bench he stopped, and looked at her.
+
+He had not done that since the eleven words.
+
+It was not a long look. She had read faces all her life, at Corvus and since, and his was the one she had not got a word out of. He gave it to people as a clean page is handed across a table. But a page can be held in more than one light, and she knew this look. It was the look he gave a figure he had carried at the foot of a column for a year, and wanted again.
+
+Then he let himself into his study, and shut the door.
+
+Livia sat down again, and settled the silk.
+
+Something in the packet had made her worth having again. She did not know what. It came from the capital; it would be the prince, or the little chair, or the old king, or all three at once; it had been enough to stop him at the bench. If she sat on the bench and waited to be sent for, he would give her back her line in his own time, when he had a use for it. She would owe him the giving, and have nothing left to pay it with.
+
+She had one thing left to pay with.
+
+She had not held it out to him in all the months on the bench. A thing held out to a man who goes past without looking at it is a plea, and she did not plead. He had looked at her now.
+
+When Cluvius came up the stair at the third hour, she spoke to him.
+
+"What came on the salt-boat, Cluvius?"
+
+He stopped on the top tread. "The packet from the capital, lady."
+
+"I know that."
+
+"Yes, lady."
+
+He waited, in case there was more. She had taught boys who answered like that, at Corvus. They had made very good clerks.
+
+"Then I'll have the form for a petition."
+
+He stood on the tread for as long as it took a careful man to be sure she had said it.
+
+"The form for a petition, lady."
+
+"You keep them by the ream downstairs. I've watched the clerks carry them up."
+
+"Yes, lady." He went down, and came back up with one, and gave it to her. "They go in at the fourth hour," he said, "in their order."
+
+"Then I'll be in my order, Cluvius."
+
+It was a half-sheet ruled in the Survey's way, with a place for the King, and a place for whoever asked, and a place for the matter, and no place for anything else. It was her first petition. She took her pen out of the case and wrote it on her knee. *To the King.* Then: *From the first line, on the landing.* In the place for the matter she thought of *Restoration*, which was the Survey's word, and of *Allowance*, and of *Dinner*, which would have made him look up. She wrote *Payment*, and nothing after it. She had no breath to dry it with. She held it up to the lamp until the ink went dull.
+
+At the fourth hour Cluvius carried the petitions in, in their order, with hers at the foot because it had come last.
+
+At noon he came out with the answers, and gave her hers.
+
+It was the smaller half-sheet the Survey kept for answers, with room on it for an answer and no more. The answers were Cluvius's to write. She had seen enough of them carried across the landing to know his narrow grey hand on them, and this was not in it. It was small and upright, each letter standing a little apart from the next, as if it might be wanted for counting.
+
+*The ninth hour.*
+
+It was the hour at which he had seen her last winter. He would have looked it up.
+
+There was a grain of sand in the fold of it. She had not known him leave one before.
+
+She had the afternoon to think in.
+
+The clerks went down to their bread and came up from it. At the seventh hour the study door opened and Old Tullus came out with the water-jug off Lucan's table, and went down the stair for the evening's water. He came back up it slowly with the jug full, a tread at a time, steadying himself on the wall.
+
+Lucan apart, he was the one living man on the floor who was not afraid of her. The guards looked at the wall, and the clerks at the treads, and Cluvius kept his eyes down when he bowed. Old Tullus looked at her, as he might have looked out at the weather, and carried the jug in. In the summer she had wondered at it. She had stopped wondering. He had kept a room for twenty years with the first sentence Lucan ever wrote sitting up in a chair in it, and dressed it every morning, and combed its hair. She did not suppose she was much, after that.
+
+She gave the landing her lecture once more, from the beginning. It began, as every lecture of hers had begun, with what the thing was not. It was the best thing she had made since Corvus. She took it to pieces in the afternoon, as she had once taken to pieces the exercises of pupils who wrote too much, by half and then by half again, until what was left would go in the time it takes a man to turn round from a window. The rest could wait for his questions.
+
+She knew what the leaves were. She had known on the moor, with the lamp up. She was carrying her own ending up his stair in her case, to sell it to him for her dinner.
+
+She had turned that over on the bench through the autumn, and turned it back, and come out where she came out now. Lucan did not let things go. He had not let anything go in his life that he could keep and count. He kept the quay stock under the harbor by day, so as not to lose a night's work of them. He kept his brother. If there was a drawer in the isles where her ending would be kept and never used, it was his.
+
+And she was hungry. She had been hungry since the moor, and since the autumn she had been hungrier than she had known a thing could be and go on sitting up. That was the rest of the reason, and it was most of it.
+
+---
+
+At the ninth hour Cluvius came up the stair and crossed the landing to the study door, and opened it, and said the form of words.
+
+"The King will see the first line."
+
+She stood. The two at the stair-head looked at the wall.
+
+She went past Cluvius into the study, and he shut the door behind her.
+
+It was snowing.
+
+She had not known. There was no window on the landing, and she had not been out of its lamp since the last audit day. Here was the one window of his study full of snow, coming down past the glass out of a low sky, thick and slow and straight, because there was no wind to lean it. The room was cold. She knew it by what it did to other things: the ink in the well on his table had frozen at its edges, and when Lucan breathed, his breath stood in front of him a moment and thinned away. She supposed the room smelled of cold ink and snow, as the copying room at Corvus had smelled on mornings when the fire was late. She gave it that.
+
+The lamp on the table was not lit. He had never lit it for her. The walls were the Spire's black glass, as all its walls were. Everywhere else in the Spire the glass was polished, so that she passed herself on every stair; here he had had it left dull, and it gave back nothing. She had disliked the room for that from the first.
+
+Last winter she had turned his sand-box on the table with one finger, so that it stood crooked. It stood square. She left it.
+
+He was at the window, his back to her, looking down.
+
+She did not need to cross the room to know what he was looking at. Below the window the academy lay as it had lain since the burning, all of it, down the hill to the sea: the roofless walls in their courts, and the north range with its towers, whose stairs still climbed inside them and came out on the sky, and the black terraces stepping down to the water. The snow would be filling the courts, and lying along the tops of the walls and in the sills of the empty windows. On the side toward the sea, where the long gallery had run, there was no wall left for it to lie on. It would come down into the place where the gallery had been, and lie on the ground.
+
+The youngest had crept in under the long gallery's tables when the doors broke in. She had found them there.
+
+She waited inside the door. She did not sit, and he did not tell her to. Her shoulders and most of her back were bare to the room, and the cold of it did not roughen her skin. He was buttoned to the throat.
+
+"Aurelian is dead," said Lucan.
+
+He said it to the window. The snow came down past the glass.
+
+"He died at his table, before the turn of the night, nine nights after Midwinter. They buried him at first light on the quarter-day." He left the space after it that he left between entries. "The heir was not crowned at the door. He told the council he would be crowned when he had finished his count."
+
+Livia nearly laughed.
+
+She had talked with the prince once, on the moor, on the broken crown of the barrow she had made her own, with his cohort at his back and his oil not yet lit. He had stood in the heather below her in the dark and asked her to define her terms, one at a time and at length, while the Vigil emptied the villages behind her. She had answered him, because a question put properly deserved an answer, and because she had rather liked him for it; and by the time she saw what he was doing it was done. Now the runner was counting. Somebody had been teaching him.
+
+"The fleet sails for Corvus in the spring," said Lucan.
+
+So that was the packet.
+
+The little chair was coming home.
+
+For a moment Livia did not move at all. She had stood so in this room once before, and he had seen it. He had his back to her now.
+
+The little chair would come up the harbor in the spring, at the rail, looking for the towers before anything else; she had always looked for the towers first. The girl who had corrected the astronomical canon at thirteen, and kept every card in the catalogue, and had burned the anchor at Bastion, would come home to the ruin with the snow gone off it and the Spire standing over it. Livia would be there to meet her.
+
+She had not looked forward to anything since the moor. She looked forward to that.
+
+Then she had the rest of it. He would want every lord of the Spire on their feet by the spring. He would want the first line drawing again, whatever it cost him, because lords who cannot stand will not hold the Spire against a fleet. That was the look on the landing. That was the ninth hour. He would have given her back her line within the month, for nothing.
+
+She did not mean to be given anything.
+
+"I've brought you the first page," said Livia.
+
+He turned from the window.
+
+In the snow-light his face was as it had been on the landing: long and dry, the skin gone thin over the temples, the eyes a little red at the rims from the lamps he worked by and would not light for her. For years she had thought the cold rooms would have him, or the quarters. They had not. He waited.
+
+She opened the case at her girdle. Her pen lay in it, and her ink, and under them the moor's three leaves folded once together; and under those, folded in four, the letter. She took out the leaves and shut the case on the letter. Then she crossed behind the table to the window and held them out to him.
+
+When he took hold of them she did not let go at once. Then she did.
+
+He unfolded them, and read them standing, as he read everything, with the leaves held up to what was left of the light. She stepped back to the corner of the table, where she could see his eyes go along the lines.
+
+She had the rest of the lecture ready, for when he asked her what they were. She saw, before he had come to the foot of the first leaf, that he would not be asking.
+
+He was reading them. On the bench she had wondered whether he could. He had written his first sentence twenty years ago, and a great many since; but a man may write a hand all his life and never read it backward.
+
+She had copied them on the moor by lamplight, each the night before she took it off its stone.
+
+The first had been a long barrow on the high moor, a mile beyond the tor village: a back of turf the length of a ship, with grey stones set up on edge across its eastern end, and a door in the stones, two uprights and a lintel over them. She had been alone at that one. The fog came and went round the lamp. There was cold in it, she supposed, because she could see the wet standing on the grass; she had not felt it. She held the lamp up to the lintel and read the stone.
+
+It was cut all across in lines. The strokes were long and short, each pressed in deep at its head and let go at its tail, like the first page of strokes a child makes with a new pen, bearing down at the top of each in case the pen gets away from him. She had set enough such pages at Corvus. She read the first line as she would have read a child's, to see what it was trying to be; and then the second. Then she stood in the fog with the lamp up and did not go on, because she knew it.
+
+She had made every stroke of it herself, with the point, on the dead. Only they were turned. They were all there, and all the wrong way round, as writing is when a written sheet is held up to a window and read through from its back. It was the sentence. It was the sentence turned over.
+
+She read it to the foot. Nobody had taught it her, and nobody needed to; it went into her as her own hand does when she reads it back. The same strokes that held, turned over, let go. Where the sentence stood the dead up, this laid them down. There was no hurry in it, and no order given, only a letting go, line after line, as a master lets a class go on the last day of the year, a bench at a time. And all through it, in every line, was a thing the sentence did not have.
+
+It loved what had lived.
+
+When she came to the foot of it, she was looking at her thread, and could not remember looking down.
+
+It would let them go. Written large enough, over enough of the dead, it would let every light on the thread go: the large ones and the small, Hesper's old gold and the porters' children and the youngest ones from under the tables. It would let her go with them, or whatever of her was left when they had gone.
+
+There had been three doors with the song over them in her way across the moor. She copied all three, a night to each. On the last night she laid the leaves side by side on a flat stone and read them against each other. By then she had the dead of the first barrow standing behind her in the dark, in their rows, as still as she had told them to be. The three agreed. They had been cut years apart, by men who could not have read them, and there was not a stroke different among them.
+
+She had taken them off herself, with a point and a hammer, a stroke at a time, in the order they had gone on, from the head of each stroke to its tail. That is the only way to take writing off anything so that it stays off. It took the best part of a day for each door. She could not have left them where they were. A song that works cannot be left over a door that has to be opened, and she had been hungry.
+
+Behind the doors the moor's dead lay on their shelves as they had been laid, in rows, with their hands folded and their hair combed out over the stone. Somebody had sat with each of them once, with a comb. She had not wondered at it then. She had gone along the shelves with the point, and stood them up.
+
+One of the first barrow's, an old man with a shepherd's hands, had knocked. She had not told him to. Every dusk he went down to a door in the tor village and knocked on it, twice and then once, and waited, and knocked again; and on the far side of the door somebody sat up all night and did not open it. She had entered it in her census as a hearth that held. She had not wondered at that either.
+
+She had copied the songs because she had been a chair at Corvus, and a chair at Corvus does not take a text off the world without a fair copy of it in her case. She had told herself that was all.
+
+At the window Lucan came to the foot of the third leaf. He looked up from it, across the room, at the other door, the one in the inner wall; and then down again.
+
+He went back to the first leaf. He laid the three along the sill side by side, and bent to them, and began to read them against each other, a line of each at a time, as she had on the moor.
+
+*Again.* She had written it in the margins of the exercises that earned it, for years. He had clerks to read one copy against another; it was what clerks were for. She had not seen him do it himself.
+
+He did it slowly. Once he laid a finger under a stroke on the second leaf and found the same stroke on the third, and held both, and went on. Once, a little past the middle, he went back a line and read it again. She had written those leaves, and knew where every line fell on them. It was where the song stopped asking the dead to lie down, and began to tell them why. The light was going, though the snow kept a little of it in the window. He read the last of them close to the glass, with the snow coming down on the far side of it and his breath going out grey over the leaves.
+
+Then he gathered them up.
+
+"Who has read these?"
+
+He was still looking out at the snow.
+
+"I have."
+
+"Who else?"
+
+"Nobody, before you. They can't read it on the moor. They cut it by the shape, as they were taught, and ring a bell at dusk."
+
+"Who cuts it?"
+
+"An old man at Marrow Down. The villages talked of him while I had them, as they talked of the weather." She remembered the talk: low, at their doors, after the bell. "He'll be putting it back over my three doors by now. He has it by heart. He doesn't know what it says."
+
+"How old?"
+
+"Older than you."
+
+He did not turn round. "The stones."
+
+"Over the doors of their dead. Every crypt on the moor has one. I took it off three."
+
+"The others."
+
+"I wasn't given the time. The prince came up the road with his oil."
+
+"The chair was with him."
+
+It was not a question. "She was."
+
+"Did she read them?"
+
+"She can't." Livia remembered her on the moor with the book in her satchel, shut: the one book that would have taught her to read it. "She would not open the book."
+
+"Is there another copy?"
+
+"No." She thought about it, because he would want it right. "Only the one in my head."
+
+He did not tell her to forget it. He would have seen, as she had, that of everyone in the isles who might ever have that song by heart, she was the last who would write it.
+
+He asked nothing more.
+
+She had liked being asked since she was a girl. She went back over Lucan's questions now as she had gone over the prince's afterward, on the road south, to see what had been done while she was answering.
+
+He had not asked her why she had copied them, or taken them off the stones, or carried them up his stair at midsummer and sat on them outside his door until today. He never asked anyone why. He had asked who had read it, and where it was written, and who could write it again; whether the one who got away had seen it; and whether there was a copy left.
+
+They were the questions a man asks about a paper after he has burned the building it was kept in.
+
+Corvus had burned for something on a shelf. She had told the little chair so herself, in the Navarch's cabin on the morning of the Teeth, as a thing a pupil ought to know about the house she came from: a whole house of books, burned for one of them. She had not known which.
+
+She knew now. She had carried it up his stair in her own case.
+
+She had kept the key to the forbidden wing at Corvus, and it had not been in the forbidden wing; she would have read it there. It had been out on the open shelves, then, with the herbals and the tide-tables, where anybody might have read it and nobody had. There would have been a card for it, in the little chair's drawers. There had been a card for everything.
+
+Lucan laid the leaves on the table. Then he crossed the room to the door in the inner wall, and opened it, and stood in it.
+
+She had not been through that door. Only Lucan went through it, and the old man who kept the room. From the corner of the table she could see past his shoulder into a narrow room. It had books on three walls from the floor to the ceiling, all of one size and all in their order, the oldest of them faded nearly white: the day-books, twenty years of them. The fourth wall had a window on the quay. The last of the light came in by it, with the snow going past outside. Far below it, on the quay, the clerks' lamps would be coming out one at a time for the night's count.
+
+Old Tullus was by the door, in the quilted coat and the mittens. He was older than the brothers, and the clerks said he would not sit. He had a strop hooked to the end of a shelf and was taking a razor up it and down it, with hands that shook in the cold. At each turn of the blade the grey of the window ran along it.
+
+In the middle of the room, with the window at his back, Lucan's brother sat in his chair.
+
+Ventidius had been king of Tharsis, once. He sat in grey winter wool with fur at the collar, with a rug over his knees and his hands set on the chair's arms as somebody had set them, and his hair combed. His eyes were down, on the floor a little way before his feet. His face was calm. The clerks said it had not once been calm while he lived. At the lamps every evening Lucan went in and read him the day; the whole floor knew it, and nobody on the floor spoke of it.
+
+Tullus had stopped the razor. He was looking at Lucan.
+
+Lucan stood in his own doorway and looked at his brother. She could not see his face, and would have been none the wiser if she could. He stood there while the window behind the chair went a shade darker, and another, with the snow falling past it.
+
+"At the lamps, Tullus."
+
+"Majesty."
+
+The razor went up the strop again. Lucan shut the door.
+
+On the bench she had told herself that his drawer was where her ending would be kept and never used. She had just watched him stand in the door of the thing he had kept longest.
+
+He came back to the table. He took a key from his belt and stooped, slowly, a hand on the table to spare his knees, and unlocked the bottom drawer, and drew it out. His own book lay in it, the one he kept for himself. He laid the three leaves on top of the book, and shut the drawer on them, and locked it, and put the key away.
+
+He had not burned them.
+
+He burned what he could not count. He had burned a house of books the size of a town, and every book in it, for a thing on a shelf he could not so much as name. Here was the thing, read and counted, under his key with his own book. What he wanted it for she could not tell. She did not know whether he knew.
+
+She laid two grey fingers on the inside of her left wrist. Nothing went by under them. She kept her eyes on his hands.
+
+"It balances," said Lucan.
+
+It was an ordinary word. He used it of columns, and of quarters, and of the islands when their returns came in. She had waited since last winter to hear him use it of her. She had sat for it through the summer and the autumn and the winter, and asked for it at last on the Survey's form, like a fisherman's widow asking after a pension. Now she had it. She had paid. She would never know whether she had needed to.
+
+He sat down at the table. She stood at the corner of it, and it was a table at the end of a long room. He put his writing hand under his arm a moment, against the cold. Then he took up his pen, and broke the ice at the edge of the well with the butt of it, and dipped, and drew a half-sheet to him, and wrote Vopiscus his one line. He sanded it, and poured the sand back, and set the box square.
+
+She did not read the line. There was only one line it could be.
+
+He looked up at her.
+
+"Close the door."
+
+She crossed to the door and opened it with her good hand, and went out, and shut it behind her with the same hand, softly, as she had shut it last winter.
+
+She did not look down at the thread when she left the room.
+
+Cluvius was on the landing, waiting by the door to be called in for the line. He bowed his head to her. She inclined hers to him, and went past.
+
+The two at the stair-head looked at the wall. The lamp burned over the empty bench. She went down the processional stair toward her household, past the doors of the floors below, one black tread at a time into the dark of the well. At each landing's lamp a woman in black and gold went down beside her in the polished glass, a long way off, and kept pace.
+
+---
+
+After the turn of the night Myrto came in with a taper and lit the lamp.
+
+She was a woman of the lower town, past forty and broad in the face, and she had been two years in the household. The taper shook in her fingers. She lit the wick at the second try, and set the glass over it, and stood back from the table.
+
+"Will you want anything more, lady?"
+
+"No." Livia looked at the hands on the taper. They were raw from the lye-tub. She had not looked at them in two years. "Your hands want goose-grease, Myrto. Tell the steward I said so."
+
+"Yes, lady."
+
+Myrto went out backward, with her eyes on the floor. She had not done that since her first month.
+
+The room came up round the lamp: the table, and the chair Livia sat in, and the brass dish, and the curtain over the passage door. The taper would have left tallow on the air. She gave the room that.
+
+Everything was near again. Myrto's feet went away down the passage outside, and they were in the passage. The lamp was a lamp on her own table, at the length of her arm. The light of it lay on the table between her hands, and her hands were her hands.
+
+The small lights were moving.
+
+They went up the thread and down it, quick and bright, past the large ones and round them and back again, and would not keep their places. She did not count them. Lucan would have counted them before she had crossed the room; she had always thought it vulgar in him. She laid two grey fingers on the inside of her left wrist, where the thread began, and felt them go by under her fingers, one and then another, and then the first again, coming back.
+
+At the next audit Vopiscus would read the first line, and there would be something drawn against it, and something remaining. At the lamps Lucan would have gone in to his brother, and read him the day. She wondered how he had entered it.
+
+She opened the case at her girdle.
+
+There was only her pen in it now, and her ink, and the letter. It had lain under the moor's leaves since the autumn, unopened, and it came open stiffly along folds that had set. She spread it under the lamp and read it through.
+
+*To the Chair of the Catalogue.*
+
+*Last night you read my anchor through, and burned it. You caught the lazy turn. I felt you stop at it. It was cleanly done, and without a rod; I always said you could.*
+
+*Better.*
+
+*I have the oldest page. I copied it off three doors on the moor before I took it off them: the song they cut over their dead. You can't read it. I can. It is the book's own hand, the right way round.*
+
+*Written large, it would let them go. Old Hesper, and the porters' children, and the little ones from under the tables, and Quintus. What it would leave of me I don't know. Not much.*
+
+*Quintus has stopped moving.*
+
+*I am very hungry. Come for it when you come.*
+
+*L.*
+
+She had written it on her knee on the bench, the morning after the anchor, with the lamp burning over her in the daytime as it burned at night. She had written it straight through without stopping, and without a word struck out, which she had not done since she was a girl. Every line of it had been true when she wrote it. She had not written another letter in her life of which that could be said. She had a gift for the other kind.
+
+*Quintus has stopped moving* was not true now, nor *I am very hungry*. The rest was.
+
+The *better* was the truest thing in it. At Corvus she had made the little chair wait for that word, a week at a time, as she made all of them wait, because it was good for them. The little chair had sat at the end of the front bench through the week with her hands folded on her slate, not asking, and Livia had watched her not ask.
+
+The brightest of the small lights went by under her fingers, up the thread to the old gold one, and round it, and back. That was Quintus. The little chair had spent a whole winter on him with the rod, and he had not got a spark out of it, and had not minded. He had not once sat still on a bench for the length of a lesson, and Livia had not once made him.
+
+It could still go. The salt-boat went out on the night tide, whatever the weather. The part of it that was still true could go as it stood, and the page itself she could write out again in an hour, fair, without a slip. It was in her head stroke for stroke, as every ring of the anchor had been. The little chair would have it in her hands before the thaw, and sail for Corvus in the spring with it in her case.
+
+The little chair would know what it was for. She would write it large, if it took her the spring; and the lights would go out along the thread, the gold one and the small ones, and Quintus would stop moving again, and not start.
+
+She had given the page to Lucan at the ninth hour, for her line. She could give it to the little chair tonight for nothing.
+
+She took a clean sheet from her writing case and laid it on the table under the lamp, and set the ink by it. She took her pen out of the girdle case and looked at the nib. It wanted trimming. She trimmed it, and laid it by the sheet.
+
+Then she held the corner of the letter to the lamp.
+
+It caught at the corner and ran along the folds faster than she would have thought paper could go, and she laid it in the brass dish before it reached the grey fingers. She had had enough of fire in that hand.
+
+The clean sheet lay under the lamp with nothing on it.
+
+On her wrist the small lights went up the thread and down it, quick and bright, by the light of the burning letter.

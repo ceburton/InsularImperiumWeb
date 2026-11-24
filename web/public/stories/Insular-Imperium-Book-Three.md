@@ -26,6 +26,7 @@
 20. [Chapter Twenty: Midwinter](#chapter-twenty-midwinter)
 21. [Chapter Twenty-One: Leave Granted](#chapter-twenty-one-leave-granted)
 22. [Chapter Twenty-Two: The First Page](#chapter-twenty-two-the-first-page)
+23. [Chapter Twenty-Three: The Toll](#chapter-twenty-three-the-toll)
 
 ---
 
@@ -12915,3 +12916,611 @@ It caught at the corner and ran along the folds faster than she would have thoug
 The clean sheet lay under the lamp with nothing on it.
 
 On her wrist the small lights went up the thread and down it, quick and bright, by the light of the burning letter.
+
+---
+
+# Chapter Twenty-Three: The Toll
+
+**THALASSA**
+
+The road gave out an hour before first light.
+
+It had been thinning since Bastion. All night Thalassa swam it east with the fleet over her head, low along the bottom, where the last of Bastion's hearth breathed up through the sand. At the harbor mouth it had been as wide as a dry-folk street, warm along her belly, with the sea's cold lying along her back. By moonrise it was a lane. By the time the moon stood high it was no wider than her hand, and she had to turn her cheek this way and that to keep it. Then she put her face into the place where it should have been, and it was gone.
+
+A road did not end like that. A warm road ran from one hearth to the next under the cold, and whoever kept to it long enough came up under somebody's island into the warm. It thinned in the middle, where both hearths were furthest off and neither had much breath to spare, but it did not stop. This one stopped like a line somebody had cut.
+
+She hung in the black water and spread her fingers until the webs stood taut between them, feeling for which way it ran.
+
+It ran both ways.
+
+The flood pushed east under her, steady and strong, as no flood had any business running at the neaps with a half moon in the sky. Over it, along her back and shoulders, the ebb ran west as strong. They slid past each other in the same water, one on top of the other, and did not mix, and where they met the sea trembled. She felt it in her webs and in the skin of her face, fine and quick and never still.
+
+Kymon came up under her. He swam below her and a little behind, as he had every night of their lives together, so that nothing could come at her out of the deep that he had not seen first. Now he hung there with the trident across his body and did not move.
+
+She put her hand back to his shoulder. They could not speak under the water. They had never needed to.
+
+They went up.
+
+*Constancy* was coming on out of the dark over them, long and low, her oars dipping along both sides and the lantern at her stem-head smeared gold on the mist. Every hull had its note for anyone who had grown up listening, and *Constancy*'s was low and even, like a breath let out slowly. Thalassa had listened for a rattle in it all the way from Cyrene, for the pleasure of telling Gaius, and had not heard one.
+
+Kymon went up the knotted line at the bow ahead of her and put his hand down. She came over the rail streaming, and the cold of the air took hold of her at once: the hard, dry cold of the roof of the world, that the sea never had. Her coat hung heavy and its shells knocked together. The bows smelled of pitch and lantern oil and the night's sweat off the benches. Two of her kin crouched in the eyes of the ship with their arms over the side to the shoulder. They looked up at her, wet to the crown, and she saw that they had felt it too.
+
+She knelt between them and put her hand in the sea.
+
+With her hand in it she could hear the fleet coming on behind in the dark, every ship by her note. The *Answer*, the slow triple knock of her three banks. The *Patience*, heavy, with the horses shifting in her belly. The *Forward*'s lean high note, and the rattle at her stern-post that nobody had ever traced. The ore-boats, deep-laden and grumbling, and the White's hull, and the new hulls of Cyrene with their oak gone quiet in its second year, and the prizes, each with the Navarchy's stroke still somewhere in her timbers. When Thalassa was aboard she called *Constancy*'s stroke from here, and Kymon said it after her in Aeridor for the oar-master, because her Aeridor came out of her slowly, and a stroke should not.
+
+"Easy," she said now, in her own tongue.
+
+"Easy all," said Kymon behind her, in theirs. The oar-master took it up aft, and the oars lifted out of the sea and hung there dripping, and *Constancy* ran on a little, slower and slower, and lay on water that would not lie still under her.
+
+Marcus picked his way forward between the benches. He had the blue cloak round him and the mist in his hair, and he crouched beside her at the rail and waited. He had learned that much about the sea: that it told her things in its own time.
+
+"The road's gone," said Thalassa.
+
+"Gone where?"
+
+"Cut." She lifted her hand from the sea and turned it over, and put it back. "Bastion's hearth breathes out into this, and out here the breath stops. There's no warm water. There's no road. And the tide is wrong."
+
+"Wrong how?"
+
+"It's going both ways."
+
+He leaned out over the rail. The sea heaved grey under the bows in the first of the light, like any sea. He took her word for it.
+
+The light grew in the east ahead of them. The mist lifted off the water in rags, and there was the coast.
+
+It lay across the whole of the morning: a chain of low black islets and reefs, broken, going away eastward one behind another, with pale flats of sand between them where the sea had gone off and dark channels winding through. Nothing on it stood higher than a man. The light on it was flat and grey, and the seals on the nearest rocks lifted their heads at the ships and laid them down again.
+
+And round the rim of it the storms were walking.
+
+Grey curtains of rain hung from black cloud to the sea, far off to the north of it and to the south, each alone and a long way from the next. Every one of them was moving, slowly, the same way round the edge of the coast, like sentries walking a wall. The one off the northern bow moved on round toward the east as she watched, and another walked up out of the west into the place where it had been. None of them came in.
+
+"They don't come in," said Marcus.
+
+"No."
+
+"Why not?"
+
+Thalassa watched the next one come up into its place. She had no answer that was true, and she gave him none.
+
+Ahead of them the first islet lay low across the channel's mouth. There was a wreck on its western rocks. She had gone over on her side with her bow cocked at the sky, so old that the sea had made her the color of the stone, and under her bowsprit her figurehead still stood out pale against the rock: a woman of the sea with her arms crossed on her breast, and a fish's tail.
+
+The dry folk always gave them tails.
+
+Something was sitting on the figurehead's head with its ankles crossed, swinging one foot.
+
+---
+
+Nerva brought *Constancy* in under the wreck's lee until the figurehead was a stone's throw off, and held her there on the oars against water that pulled two ways at the blades.
+
+The thing on the figurehead was a sailor, or had a sailor's shape. It was lean and long in the leg, of middle years, with a deckhand's face burned brown and creased deep at the eyes from squinting into weather, and a queue of kelp hanging down its back where a man would have tied his hair. Its arms and its long shins were driftwood, grey and silver and worn smooth, and where the light caught them they showed the grain. It grinned at all of them at once.
+
+The smell of it reached them across the water: low tide. Not the clean salt of the open sea, but the smell of the bottom when the sea has gone off it, weed and mud and the sweet rot of what the ebb leaves behind. Thalassa had known that smell all her life. It was the smell of where the sea was not.
+
+Her mother had told her about the coast. No swimmer of Kolpos had been there in her mother's lifetime, but the stories had come down. The folk of the coast could not lie, her mother said, and could not be trusted for it.
+
+"Good morning," it said. Its voice carried without being raised. "Welcome to the coast. The coast has three lights and one rule: nothing here is *yours*."
+
+"Who are you?" said Marcus.
+
+"Names are dear, general." It wagged a finger of driftwood at him. "You'll have to make do with parts. I'm the Prompter. You'll be wanting to hear about the last army."
+
+"What last army?"
+
+It leaned forward with its elbows on its knees and ran its eye along the hull: the cohort on their benches, the hundred in the waist with their bows across their knees, the Lanciarii aft with their lanceae. It was the look of a doorkeeper seeing who had come.
+
+"The last army through here," it said, "is *still* through here."
+
+Nobody laughed at that.
+
+Sylara got up from the rail, bow in hand, and said clearly, for the benches: "It's lying."
+
+The Prompter clapped, a dry knock of driftwood on driftwood, and a seal on the rocks barked back at it. "She's lying! I adore her."
+
+Thalassa looked at the warden. Sylara's face was empty. It was always emptiest when she was working.
+
+"What does it cost?" said Marcus. "Passage."
+
+"One true thing, freely told. Paid at the door."
+
+"Which door?"
+
+"The way out, general. We always take it going out, so you know what the show was worth. That's the premium arrangement. You should see the standard."
+
+"Which is?" said Roderic, from the gangway.
+
+"The standard crossing is drowning." The Prompter beamed at him. "Very popular. Hardly any complaints."
+
+The channel round the islet's north end was too shallow for a laden hull on a tide that would not say which way it was going, and Nerva would not take *Constancy* through it with the army aboard. So the boats put the cohort ashore to walk the islet's length, with the Lanciarii and the hundred and as many more as they could carry from the hulls behind, and the seamen took the hulls round light on half their oars. Thalassa went with the walkers. The water in that channel was no water she wanted to be in.
+
+The Driftlings were waiting before the first boat touched.
+
+They were among the rocks and the weed and the seals, as if they had been there all along and nobody had troubled to see them: man-high, or a little under, wiry and bandy and grinning, made of driftwood and wrack, like old deckhands left out too long in the weather. There were a few on the sand. Thalassa looked away at the boats and back, and there were a great many more, though she had seen none of them move. Where one stopped, its wet footprints walked on a step without it, and stopped too.
+
+They walked up the islet with the cohort. They talked. They asked men their names and answered for them before they could, wrongly, in the men's own voices, and laughed. They took things. Not a man felt anything go.
+
+Halfway along the islet Roderic stopped. He had worn his spurs ashore, as he wore them everywhere, on a deck or in a hall, and nobody had heard them stop chiming. His heels were bare.
+
+The spurs turned up at the end of the islet, on a bull seal lying out on a flat rock. They were strapped to its hind flippers and buckled properly, and the rowels turned when it twitched. Roderic stood over it in his good coat, his beard combed, while the knuckles of his right hand kept a slow count against his thigh. The seal opened one eye at him and shut it. It stank of old fish and contentment.
+
+"Those are mine," said Roderic.
+
+A Driftling leaned on the rock at his elbow, grinning. "Nothing here is yours."
+
+Roderic considered that. Then he bent to the seal with great courtesy.
+
+"Keep your heels down," he said, and walked on.
+
+Gaius lost his rule a little after. Thalassa saw it go. A Driftling slipped past him close, and the boxwood rule was out of his belt and in its hand, and it had turned and bowed and was holding it out to him before he had finished turning round. He took it. He laid it along his forearm from the wrist. Then he held up one finger against the end of it, and his eyebrows rose as high as they would go.
+
+"A finger short," he said. "Exactly a finger. Not a hair over." He bowed back to it. "Thank you."
+
+"Don't thank them," said Thalassa.
+
+The Driftling whooped. Three more ran across the sand to him with their hands out: a cockle-shell, somebody's knife, a shoe that belonged to nobody on the islet. Gaius looked at Thalassa, and at them, and at the shoe.
+
+"Thank you," he said, to the shoe.
+
+By noon he owed the whole coast.
+
+Rusca went along at the cohort's edge with her ledger open on her forearm, counting the Driftlings. Thalassa had watched her count stores on the quay at Cyrene, her eyes going along a row and her pen setting a figure down at the foot of it, and she went about it the same way here. She set a figure down. She raised her eyes. She crossed it out and set down another, and raised them again, and crossed that out too, and turned to a clean page, and wiped her fingers on the linen at her cuff, and began again. The Driftlings round her kept still while she counted, and smiled at her, and every time she lifted her head there was a different number of them.
+
+Brokk had come ashore from the ore-boats and stood on a rock above the sand, hands hooked in his belt, eyeing the Driftlings. One of them was offering him a shell for his hat.
+
+"What's it worth?" said Brokk.
+
+"Whatever you'd give."
+
+"Then it's worth nothing, and so's my hat." He kept his hands where they were. "It's not a *bargain* if one side's made of fog."
+
+The Driftling bowed to him, deeply, and walked off down the sand in Brokk's hat. Brokk was wearing a fisherman's straw with half its brim gone. He stood a moment in it with the wind coming through the gap. Then he let go of his belt and went after his own.
+
+The Prompter had come down off its figurehead. Thalassa did not see it come. It was walking beside her on the seaward side, between her and the water, as if it had been there all morning.
+
+"You feel it," it said. "Your lot always do."
+
+"What is it?"
+
+"Somebody's had the tides off us." For a moment it did not grin. "Nothing comes in when it's billed. Nothing goes out. The whole season's ruined. We've had no house at all." Then it grinned again, and leaned to look past her at Marcus coming along the sand with Alana. "Until now."
+
+The islet's lee was a flat of grey sand that ran down to the channel, and the flood was coming in over it. Thalassa halted at its edge to watch, and Marcus with her.
+
+The water came over the sand in thin sheets, as a flood does over any flat, each sheet a little further than the last. It reached the line of weed and broken shell where the last tide had stopped, and passed it. It kept on, up the sand, past where any tide on that flat could have reached, up the slope toward the dune-grass, where the ground climbed. Water did not climb. This climbed. It crept on up in thin trembling sheets against the fall of the ground, and at the top, by the first of the grass, it stopped and lay there shivering, and did not go back.
+
+Thalassa crouched and put her hand in it.
+
+It pressed against her palm, all along the edge of her hand and in between her fingers, as Galene pressed against her knee in a crowd. Under that, far off in the east, there was a pull: steady and patient, like a net with something heavy in it.
+
+She took her hand out. It was shaking. She held it against her coat until it stopped.
+
+"Thalassa?" said Marcus.
+
+"It is afraid, Marcus. Water, afraid."
+
+He crouched beside her and looked at the water lying at the top of the slope. Then he looked where she was looking, east.
+
+Roderic came down the sand behind them, spurless, to the edge of the flat, and read it as a horseman reads ground.
+
+"A horse could cross that at the gallop," he said. "Before it's under."
+
+"Not here," said Thalassa.
+
+"When, then?"
+
+She closed her wet hand, and the pull was still in it, far off in the east.
+
+"You will ride when the wave lifts. Not before."
+
+The knuckles on his thigh had stopped.
+
+The boats took them off the islet's east end at noon, with the Driftlings standing along the tide-line waving them off with everything they had taken. Rusca sat in the stern of Thalassa's boat with the ledger shut on her knee. Halfway out to *Constancy* she opened it, and sat with it, and then turned it round and held it out to Thalassa without a word.
+
+Every figure on the page was struck through. Under the last of them somebody had written a line in a round hand that was not Rusca's.
+
+"What does it say?"
+
+"*Fey: yes*," said Rusca.
+
+---
+
+All the afternoon they threaded the channels.
+
+Thalassa called the stroke from the bows with her arm in the sea, and could not trust a word it told her. A channel that ran deep by its color shoaled in a boat's length under the stem. A rock that should have been bare lay drowned, and a bank that should have been drowned stood up dry with the weed hanging off it. Twice the flood took *Constancy* by the stern and swung her half across a channel, and Nerva at the steering oar said things to the oar that the cohort would remember. Kymon dropped over the side and swam ahead of them, down, feeling for the bottom with the butt of his trident, and came up under the bow each time to tell her what was there in as few words as would carry it. "Rock. Two spears down." "Sand. Soft." "Nothing. Deep." She called the stroke by him and not by the sea, and they got through.
+
+In the narrowest of them the *Forward* came up so close on the quarter that her oars nearly fouled *Constancy*'s, and Thalassa saw Felix at her rail. Marcus's man was bent over it, giving the sea his dinner. Beside him on the rail sat the youngest of Sylara's four, Nirel, who should have been at *Constancy*'s stem-post, with her heels hooked under the rail and her hand flat on his back. She was singing to him. Thalassa could not make out the words over the oars, but the cohort on the after benches could, and she heard the stroke go ragged while they listened.
+
+"She's got the verse about the quartermaster," said somebody. "Every word of it."
+
+"It's the pork," Felix told the sea, loud enough for both hulls.
+
+Then the channel opened, and Nerva swore the *Forward* back into her place.
+
+By the end of the afternoon Thalassa's arm was dead to the shoulder, and the webs of her hand had gone white as cuttle-bone, as they did in the cold grounds.
+
+The first beacon stood on its own islet, with an anchorage in its lee and a beach of black shingle under it. The fleet came in to the anchorage at dusk and let go its anchors in water that pulled at the cables two ways, and the boats took the army ashore.
+
+Thalassa had never seen anything like the beacon. It was a round tower of grey stone, not tall, older than anything she had seen the dry folk make, and not like any of it. A stair wound up round its outside in one long turning climb, like the whorl of a whelk, to a bowl of stone at the top. Round its foot a band of letters was cut in the stone, going round the way the stair went, so worn that the rain had made them soft.
+
+There were lights about it already. Blue-green, at a lantern's height, bobbing, they hung in the air round the tower's foot and along the shingle like lamps somebody had strung for a feast and forgotten. They drifted off when she watched them. When she put her hand near one, there was no warmth in it at all.
+
+"Don't steer by ours," said the Prompter. It was sitting on the stair a little way up with its ankles crossed. "They've never brought a ship in yet. Not in one piece."
+
+Marcus climbed the stair with a lantern and Alana behind him, and Thalassa followed them up, because nobody had told her not to.
+
+The bowl at the top was black inside and empty: no wood, no oil, no ash. It was cold to the hand and dry, though the mist had lain on it all day. Alana bent over it and drew her fire-sign in the air above it with one fingertip. The sign glowed as she drew it, and hung over the bowl a moment, gold, and went out.
+
+Nothing caught.
+
+Alana drew it again, slower, with her mouth shut tight. It went out again.
+
+Thalassa had never seen her fire refuse her. Alana straightened and held up her fingertip and scowled at it, as if it had failed her, and Marcus held the lantern a little higher and did not say a word, which was wise of him.
+
+"There's writing at the foot," said Thalassa.
+
+They went down. Alana walked round the tower with the lantern close to the stone, her lips moving over the worn letters, round and round with them as they turned, and at the end of the band she straightened.
+
+"It's an old hand," she said. "Older than the Survey's. Older than ours. It's the beacon talking. It says it answers…" She laid her finger on the stone. "A lit match. And an honest need."
+
+"That's all?"
+
+"That's all it says." She looked at her fingertip again. "I'd have thought mine was honest."
+
+Marcus opened the lantern's horn. He took a match out of his pouch, a sliver of wood with its head dipped yellow, and held it to the flame. It flared and stank, and settled. He climbed the stair with it cupped against the wind, and Alana went up behind him, and Thalassa stayed at the foot.
+
+He held the match over the bowl.
+
+The beacon took it without a sound. A flame rose out of the empty bowl, taller than a man, and it was blue: not the blue of a lamp's heart but the cold blue of deep water a long way down, with the light coming through it from above. It made no smoke. Thalassa felt it on her face at the stair's foot, a small warmth, honest and steady, of the kind the green lights had none of. Round the tower's foot they dimmed and drew off along the shingle.
+
+At the top of the stair Marcus and Alana stood in the light of it. It made her face blue-white and his dark, and the mist moved round them both. Alana had her hand on his arm. She was gazing into the fire, her head tipped, as she read a page she had not made up her mind about.
+
+Their voices came down the stair.
+
+"What will you give it?" she said. "At the door."
+
+"Something true."
+
+"That narrows it."
+
+He laughed.
+
+---
+
+The army made its fires on the shingle under the beacon as the dark came down, and the Spindrift came to them out of the sea.
+
+They walked up out of the surf as the merfolk did, with the water running off them. They were tall grown men and women, and they were beautiful, and their hair was like foam blown off the top of a wave, moving all the time and never settling. What they wore was mostly suggestion.
+
+To Thalassa every one of the men was a little like Kymon. She supposed it was meant as a compliment to Kymon, and took it as one.
+
+But there was a pool among the rocks at the top of the beach, left by the wrong tide, and when one of them passed it she glanced into the water, from habit. There was nobody in it. There was a heap of foam, walking.
+
+They danced. They took hands in a long line on the wet sand below the fires and danced as the sea comes up a beach, in and out, and quicker each time, and the blue of the beacon was on their skin and their foam hair, and the green lights came back and bobbed over them like the lights the deep fish carry.
+
+The cohort did not know where to put their eyes. Macro held his beard in his fist, low down, and studied the sky. Dento chewed his twig until it split, and examined the pieces. Fingers had his tongue-tip between his teeth over a knot that did not need untying. Hostus, who had come across from the *Patience* in her boat, kept his clean hand on his nape and watched the boat as though it might leave without him. The Lanciarii stood with their lanceae grounded and their eyes on the beacon. Rufo watched the dance with great interest until Sylara said something in his ear, and then he watched the sea.
+
+One of the women left the line and came up the shingle to the fire where Marcus sat with Alana, and stood over them with the firelight on her. She was taller than the others and the foam of her hair was whiter: the big wave at the end of a set, and she knew it. She smiled down at Marcus. She did not look at Alana at all. It was all for Alana.
+
+"Darling," she said. Her voice had the sea in it. "Your second act dragged. Bastion. All that *marching*." She sank on her heels before him to bring her eyes to his. "I'd make you a king *tonight*."
+
+Marcus sat very still.
+
+Alana kept her eyes on the fire. "He has one booked."
+
+The Spindrift on the sand stopped dancing and clapped, all of them, and the Driftlings round the fires clapped, and somewhere up on the beacon's stair the Prompter clapped with a dry knocking of driftwood. At the nearest fire a Driftling was wiping its eyes. The woman rose, and made Alana a curtsey down to the shingle, and went back down to the line without looking at Marcus again.
+
+Marcus let his breath out. Alana put another stick on the fire.
+
+---
+
+Oppius had his pot on the biggest fire: barley and salt pork, with the last of the onions cut into it, and the smell of the onions going soft in the pork fat drifted down the shingle on the smoke. The cohort had stripped the beacon's rocks of mussels while the light lasted and laid them on the hot stones round the fires until they gaped and hissed, and ate them out of the shell with their fingers, and burned their mouths, and swore. The Driftlings squatted where the firelight ended and watched every mouthful go in, as gulls watch a net come in.
+
+Thalassa and Kymon sat where the wash came up, with their feet in the sea, away from the heat, and ate their mussels raw. Kymon opened them with the point of his knife and handed them to her one at a time. They tasted wrong, of iron, as the water did.
+
+Valeria came down the shingle to them with a skin under her arm and two cups in her hand.
+
+She sat down on the stones beside Kymon without asking, as she sat down beside anyone, and filled both cups. The wine went into them black, and the smell of it reached Thalassa on the wind: pitch, as on a new hull, and something sweet under the pitch. She held one out to Kymon.
+
+"From under my own hill," she said. "I've been keeping it."
+
+Kymon looked at the cup, and then at Thalassa. The merfolk took no wine. Thalassa gave him no help at all.
+
+He took the cup. He thanked Valeria for it gravely, in Aeridor, and drank.
+
+Thalassa watched his face. It was a broad face that did not move much, and Galene had it, and she had seen it hold still on the sea-door's step with twenty marines in front of it. It held still now while the wine went into his mouth. Then it moved, everywhere at once, in every direction a face could go: the brows down, the eyes watering, the mouth trying to get away from itself. He swallowed, because he had been given it, and shut his eyes.
+
+Thalassa laughed.
+
+It broke out of her low and hoarse, her gull's laugh, and she could not stop it. She put her head down on her knees and laughed until her ribs hurt and the shells on her coat rattled, and Valeria laughed beside her, and Kymon sat with his eyes shut, holding the cup. Then he opened them, and peered into it.
+
+"It is warm," he said.
+
+"That's the point of it," said Valeria.
+
+He thought about this. Then he held the cup out to her, carefully, still nearly full. "It is a good warm," he said. "For you."
+
+Valeria took it back and drank it herself, and got up, and went back up the shingle to the fires, where Roderic was telling the Lanciarii about the seal.
+
+When the fires had burned down Thalassa and Kymon went into the sea.
+
+The water in the anchorage was wrong, as all of it was. It pulled two ways and trembled. But it was the sea, and they had gone into it together at the end of every night that mattered since the night they were married. They swam out low under the anchored hulls, in the dark under the keels, where the beacon's blue slanted down through the water in long cold shafts to the sand.
+
+They came up in the lee of *Constancy*'s rudder with their faces just out of the sea and their hands on her planking.
+
+"Glaukos asked to come," said Kymon.
+
+"I know. He asked me too."
+
+"What did you tell him?"
+
+"No." She laid her cheek against the wood. "What did you tell him?"
+
+"To ask you."
+
+She laughed again, quietly this time, with her face against the hull, and he put his big hand on the top of her head and left it there. She thought of the hollow under the Kettle with the sea-light jar by the door, and the two of them asleep in it, and old Ione across the passage, who would feed them seal-fat broth and tell them they were fools. She did not let herself think past that.
+
+Later, when Kymon had gone down to lie on the sand under the anchorage, she swam alone along the line of the hulls. She could not have slept. She put her head up in the lee of the *Patience*'s quarter and put her palm flat to the planking.
+
+The *Patience* was a heavy hull and a patient one, and she was full of horses. Thalassa could feel them through the wood, shifting their weight in their stalls, the slow knock of a hoof, a long breath blown out. Somewhere above them a lamp hung in a cabin, and she could feel that too, a faint warmth in one place on the planks. And voices. The merfolk timed their dives by a song felt through a boat's planking, and a voice was no different.
+
+It was the grey sister's voice, low: the one who corrected everything. Thalassa knew it. The whole fleet knew it.
+
+"It came this morning," said Domitia.
+
+A stool creaked. Nobody answered.
+
+"So there's to be no child," said Domitia. "I'll write it to the Abbess. Two lines." Something tapped on the wood inside, twice. "And I find I mind."
+
+"So do I," said Hostus.
+
+"A little."
+
+"A little," he said.
+
+Thalassa took her hand off the planking.
+
+She stayed in the lee of the *Patience*'s rudder a little longer, with her face in the cold air and her hand in the sea, and kept it off the wood.
+
+The half moon came up over the coast in the middle of the night. By its light the water on the flats was still climbing the sand, a little at a time, as far up as it could get.
+
+---
+
+The second beacon took Gaius's match a little after first light, on its reef in the morning mist, and burned blue behind them all the way to the flat.
+
+The flat stretched across the coast from north to south, and by the moon it should have been under a fathom of water at that hour. It was dry: miles of grey sand and low black rock furred with weed, with pools standing in it that the sky lay in, white. The one channel looped round it to the north, too shallow for laden hulls on a tide that might do anything, so the hulls went round light, as at the islet, with Kymon in the water ahead of *Constancy* sounding it for Nerva, and the army walked.
+
+Before the column started down onto it, Marcus came to her at its edge.
+
+"How long have we got?" he said. "Before it comes back."
+
+"I don't know."
+
+"Guess."
+
+"No."
+
+He nodded, as though she had told him something useful.
+
+"Then we walk fast," said Marcus, and stepped down onto the sand.
+
+They walked fast. Thalassa led, barefoot, because her feet could feel where the sand was soft before it took a man to the knee. Marcus kept a pace behind her, and behind him the army wound down onto the flat in a long dark column: the cohort and the Lanciarii, the hundred moving lightly at the edges, the White in their order with the bells on their spear-sockets ringing at every step, Cassandra's steel cap among them. The sand was hard and ridged and cold underfoot. The weed on the rocks popped when she trod on it.
+
+There was a wreck in the middle of the flat, sunk to her bilges in the sand, her planking long gone and her ribs standing up out of it black. Gulls sat along the ribs. They were thin grey gulls and they sat still, all of them facing the same way, toward the army, and as Thalassa drew level with them she saw that none of them blinked. The nearest turned its head to her. Its face was like wet glass, and she saw herself in it.
+
+The fog was coming off them.
+
+It did not roll in from the sea, as fogs do. There was no wind to bring it. It breathed off the wreck and off the gulls on her ribs and spread out across the flat, white and thick, and the army walked into it. It was not cold. That was the first wrong thing about it. A sea fog is cold; this lay on her skin as warm as a rock pool at noon, and had no salt in it. The sound of the column in it was close and flat, as sound is in a cave. The column closed up in it without an order given, until the head of it walked at her shoulders.
+
+Then the fog ahead of them parted like a curtain drawn back, and there was a light inside it, and Roderic was there.
+
+Not Roderic. A horse of bronze, on a plinth of stone in a square she did not know, with rain on it and a pigeon on its head. It was saddled, and nobody sat in the saddle. The plinth under it was cut deep with letters, line under line.
+
+Roderic was beside her. He looked up at the empty saddle.
+
+"They've got the stirrups too long," he said, and walked through it, and on its far side was a room.
+
+It had white walls and it was small, with a cot with its blanket drawn tight, and a table, and on the table a medal on its ribbon, and that was all. No window. No door that Thalassa could see. Nobody in it.
+
+Valeria gave it one glance.
+
+"It's in a drawer," she said, and walked round it.
+
+It closed, and opened.
+
+Alana sat in a chair by a tall window, in a high room with books along its walls, with a book open on her knee. Its cords lay cut on the floor beside the chair, with the broken wax that had sealed them. She was reading it with her lips moving, and her face as she read was calm, and content, and nobody's face that Thalassa knew.
+
+The living Alana had stopped. Marcus took her hand.
+
+"No," said Alana.
+
+She walked through it with her hand in his.
+
+It closed, and opened, and there was a field.
+
+Thalassa did not know it either. It was wide and flat and grey, and the dead stood on it in their rows as far as the fog went, unmoving, every one. In the middle of them Rufo stood alone, with his shield on the ground beside him and his hands hanging. He was the only one there breathing.
+
+At her shoulder Rufo put up a hand to the fair lock plaited in above his ear.
+
+"It's lying," said Sylara.
+
+"It isn't lying, warden. It's a *review*." The Prompter was at her elbow. It had been at her elbow since the fog came down, as close as it could get, like a gull that has picked its boat. "There's a difference."
+
+Sylara took Rufo by the arm and walked him through it.
+
+It closed, and opened, and it was hers.
+
+A table under trees, in the green dark of a wood, and on it a warden's report: finished, the last page written to its foot and the pages tied in their cord, the pen laid square beside it. Leaves had come down on it from the trees, and more leaves on those.
+
+Sylara stopped. Rufo stopped with her, because she had his arm.
+
+"Lie to me again," said the Prompter softly. "The one about the elves liking you."
+
+"They adore me," said Sylara, and walked on with him.
+
+The Prompter put its hand on its heart.
+
+The sand had gone softer under Thalassa's feet. A pool lay across their way where the sand had been dry, and the water in it was welling up from below. She took them round it, and walked faster.
+
+The fog opened again, and there was a bridge.
+
+It was a bridge of timber on stone piers over a river, in a town on a hillside, with a street of small shops on the near bank below it. It was burning. The fire ran along its timbers in a sheet and the burning planks fell out of it into the river one by one and hissed. Thalassa heard Gaius stop.
+
+His eyebrows went up, and did not come down.
+
+"It burned from the other end," he said. "The first time."
+
+He did not move, and it closed on its own.
+
+It opened on the surf, at dusk, on a beach of black sand; and a woman kneeling in it, in grey, with her honey hair down her back and the water running in round her knees and out again. It was Liora. Thalassa knew the beach. She had first met Liora in that surf, and they had found that some of their dead were the same. The woman in the surf was saying them now, in the order they died, in the low steady voice Thalassa remembered. The names went by. She had held some of their hands.
+
+The woman in the surf reached Pen in his place, and Damien in his, the last of them. Then she did not stop.
+
+"Gaius," she said.
+
+Liora's mouth went in at the corner. She walked through it without a word.
+
+Gaius stood where he was. Thalassa saw his face, and looked away from it. Then he followed Liora into the fog.
+
+The column went on past the place where the surf had been. Back among the bells Thalassa heard a click, one, small and hard, like a tooth on a tooth.
+
+"That isn't her voice," said Cassandra.
+
+On the wreck's ribs, somewhere back in the white, a gull turned its glass face toward the bells.
+
+"*Oh*," it said. "Four shells."
+
+The fog opened once more, and it was Thalassa's.
+
+The north passage at Kolpos, the lip of the rock where the dome's air met the water, and nobody at the lip to see anyone in. The sea-grass round the vents was grey and flat, and no bubbles rose off it. The dome above it was dark. Along the passage wall the old jars stood in their row, Nerites's jars with the twist in the neck, and there was no light in any of them. The hollow was empty. The children's mats were rolled up against the wall, and the sea-light jar by the door was dark, and nobody had fed it. Over Kolpos the sea lay calm.
+
+Thalassa could not move.
+
+She stood on the wet sand in the fog and could not lift her foot. She spread her fingers until the webs stood taut, as if there were a current in it to read. There was none. The fog lay on her webs and told her nothing. And over Kolpos the sea lay calm.
+
+That was what a calm sea did. It lay down on its rocks and purred, and let the hull find them.
+
+She lifted her foot.
+
+"*Calm seas lie*," she said, to all of them, in the voice she called the stroke in. "Walk."
+
+They walked.
+
+When she turned to look back along the column, Marcus was walking a pace behind her, and there was only white before him.
+
+"Not him," said the Prompter, beside her. "He's paying."
+
+They came out of it at the flat's end with the sun well past noon, all at once, as a swimmer breaks out of the sea into the air. Behind them the fog lay on the flat like a wall and did not follow. Ahead the third beacon stood on its rise of rock at the edge of the sand, grey, with its stair winding up it, and beyond it the channel where the hulls waited with their oars out.
+
+Marcus held a match out to her.
+
+She had never lit one in her life. The merfolk had no use for fire.
+
+"Go on," said Marcus.
+
+Valeria held up the lantern, and Thalassa put the match's yellow head to the flame as she had seen Marcus do, and it caught with a spit and a stink of brimstone, and she nearly dropped it. She climbed the stair with it cupped in her webbed hand, round and round the tower, and the little flame shook in the wind and did not go out. At the top she held it over the bowl.
+
+She thought of the north passage at Kolpos, and Pherusa standing at the lip of the rock in the dark, touching them in, every one.
+
+The beacon took it.
+
+Behind them, while they waded out to the boats with the blue fire burning over them, the water came back over the flat. It ran in fast, from the east, up the sand the wrong way, over their footprints and over the wreck, and the gulls sat on her ribs and watched it come and did not move.
+
+---
+
+The exit reef closed off the last of the coast at dusk, and the sea broke white along all of it but one place.
+
+Nerva brought *Constancy* to the gap on the three blue lights. They burned behind the fleet in a long uneven line across the dusk, one on its reef, one on its rise, one on its own islet far back to the west, and he steered by them, looking aft and then ahead and aft again, until the gap opened in the white before her stem. The fleet closed up into line behind her: the *Answer*'s triple knock, the *Patience*'s heavy note, the rest. In the gap the water ran straight out through the reef toward the east, all of it one way.
+
+The Prompter was sitting on *Constancy*'s stem-head.
+
+It sat with its ankles crossed and the forestay at its back, and grinned along the deck at all of them, at the cohort and the hundred and the Lanciarii, at Roderic without his spurs and Gaius with his short rule and Rusca with her ledger shut tight under her arm. It smelled of low tide.
+
+"Tickets," it said.
+
+Marcus came forward along the gangway. The deck went quiet behind him as he passed, bench by bench. Alana followed him as far as the mast and stopped there with her hand on it. Thalassa was in the bows, kneeling between her kin with her arm over the side, and she did not get up.
+
+"One true thing, general," said the Prompter. "Freely told. You've seen the show. Now you know what it was worth."
+
+Marcus stopped below the stem-head and looked up at it. He did not answer at once. The foot swung, keeping time, and the sea ran out through the gap under the bow, and a long way behind them one of the green lights bobbed up out of the dusk beside the third beacon, hopefully, and went out.
+
+"I want it," said Marcus. "The crown."
+
+He was quiet for a moment.
+
+"I'm afraid of how much," he said. "I'll wear it anyway."
+
+Under the hull, the tide stopped.
+
+It was not slack water. Thalassa had known slack water all her life, the long breath the sea takes at the top of the flood before it turns. The whole sea under *Constancy* stopped at once, from the reef to the bottom, as a room goes still when someone in it has been listening all along. It held. Then it ran on out through the gap as before.
+
+She looked at her kin. They knelt one on each side of her, arms in the sea to the shoulder, and there was nothing in their faces. Nobody else had felt it.
+
+The foot had stopped swinging. The Prompter sat looking down at Marcus with its driftwood hands on its knees, and it was not grinning.
+
+"*Barely* a truth and *entirely* true," it said. "Wear it, then."
+
+Then it uncrossed its ankles and grinned again. It put a hand into the kelp of its hair and brought out a shell, a small white whelk with a long whorl, and leaned down and put it into Marcus's palm.
+
+"Put it to your ear," it said.
+
+He did. Thalassa, kneeling a yard away, heard it too. She had held a thousand shells to her ear since she was smaller than Galene, and heard the sea in every one, as everybody does. This one had a man's voice in it, very small and far away, like a voice in a boat heard from the bottom: *I want it. The crown. I'm afraid of how much.*
+
+Marcus took it from his ear. His face did not change. Only the old scar on his jaw drew tight.
+
+"We can't lie, general," said the Prompter. "We can put on a *play*. At Corvus, before the sun, give this back to the sea, and the Company will play to the wall." It sat back, and swung its foot. "Mind the dunes. The ground there is already full."
+
+Then the stem-head was empty, and the forestay was wet where its back had been.
+
+---
+
+Thalassa went down the knotted line into the sea, and Kymon came down after her. They lay side by side in the water under the bow, each with a hand on the planking.
+
+Marcus came to the rail above them and looked down.
+
+He still had the shell. He stood there a moment with the dusk behind him, looking at the two of them in the water, and then he asked.
+
+"The eldest told me once that if I needed fire, I should tell the sea-people," he said. "Will your people carry a word to it for me?"
+
+Thalassa could not answer him at once.
+
+It was Kymon who answered. He had the black trident in his hand already, and the spear-gun was on his back. "What word?"
+
+"Corvus, the morning we land." Marcus glanced down at the shell. "And tell it I asked."
+
+"It will say I am slow," said Kymon.
+
+"You are slow," said Thalassa.
+
+He looked at her. Then he put his hand on the top of her head, and left it there a moment.
+
+He went down. The water closed over him without a sound, and she felt him go, west, under the reef and into the wrong water, low along the bottom on a road that was not there.
+
+She climbed back up the knotted line into the bows, and knelt between her kin, and put her arm over the side.
+
+"Give way," she said, and heard that she had said it in Aeridor. There was nobody now to say it after her.
+
+The oar-master took it up aft. The oars bit, and *Constancy* went out through the gap, and the fleet came after her one hull at a time, the *Answer* and the *Patience* and the *Forward* and the ore-boats and the rest, out of the last of the broken water into the open sea.
+
+Corvus was ahead of them.
+
+It was a long way off over the water, against the dark of the east: black hills, and a black town on them, and over all of it a black spire, high and thin. The sun was down behind the fleet, and its light still lay red on the top of the spire and nowhere else. Thalassa had never seen it. She had heard Alana talk of its towers.
+
+Alana had come forward to the rail. Rusca stood at her shoulder.
+
+"It went up in one season," said Rusca. "Out of the archive's stone. The Survey counted it."
+
+Alana did not answer. She had her chin up, and she looked at the spire as a woman looks at a house she means to live in.
+
+"It's been making *us*, too…" Marcus was a little behind them, watching it. "We'll see which work holds."
+
+Gaius had come up with Liora beside him. He considered the spire as he considered anything, as a thing somebody had built.
+
+"Mine," he said. "Statistically."
+
+Liora looked at him. He looked at her.
+
+"…Ours," said Gaius.
+
+Thalassa knelt in the bows between her kin and put her hand in the sea.
+
+It ran one way under the hull, toward the land, as a flood should. It did not tremble, and it did not press against her palm. Somewhere out in it, behind them, Kymon was swimming west.
+
+It was only cold.

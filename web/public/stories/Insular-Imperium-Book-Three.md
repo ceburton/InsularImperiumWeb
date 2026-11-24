@@ -24,6 +24,7 @@
 18. [Chapter Eighteen: The Sum](#chapter-eighteen-the-sum)
 19. [Chapter Nineteen: The Settling](#chapter-nineteen-the-settling)
 20. [Chapter Twenty: Midwinter](#chapter-twenty-midwinter)
+21. [Chapter Twenty-One: Leave Granted](#chapter-twenty-one-leave-granted)
 
 ---
 
@@ -11963,3 +11964,527 @@ He did it aloud, low, in the voice he had used for the barley, from the hill's e
 He leaned closer to the glass.
 
 "Thirty-one."
+
+---
+
+# Chapter Twenty-One: Leave Granted
+
+**VALERIA**
+
+At the turn of every night the king's steward brought the king's dish down his stair.
+
+He came down slowly, an old man in black with the dish in one hand and a lamp in the other, though he could have climbed that stair blind. He passed the man of the king's guard at the stair door, and the king's chair under its cloth, and crossed below the step to the low door in the side wall that let into the king's kitchen. When he stepped out again he had only the lamp. He climbed back up with it, and the night had turned.
+
+The Lanciarii had kept the Old Hill by night since the morning after Midwinter. The order had come down that same stair in the steward's hand, under the king's seal, with no reason given in it. Valeria had read it twice for the reason. She walked the hill as the Marshal had given it to her in the summer, the palace wall from the harbor tower along to the tombs, the lane, the garden of the tombs, the yard; and when the night turned she stepped in at the wicket of the great doors and stood inside them by the porters' empty rack to watch the steward pass. She had done it every night since the order reached her. She could not have said why. Going by, he said "Captain," and she said "Steward," and that was all the talk there had been between them.
+
+The frost that came down on Midwinter night had held. Every night since had been clear and still. The moon had wasted to nothing, and the stars stood down close over the hill. Snow lay on the palace roofs and the wall-walk and the garden of the tombs, and it creaked under the boots of the watch. Below the hill the canals smoked in the cold, and the harbor had a skin of ice round its edges.
+
+That night, at the second hour, she walked her round. Pacuvius had the harbor tower. He stood in the angle of its parapet with his new cloak up over his nose and his lancea in the crook of his arm, and told her the harbor was quiet, which it was. From up there she could see the whole sweep of the old berths under the hill, with a hull dark in every one, and first of them all, at the hill's end, the *Answer*'s stern lantern, like a picket's fire across a valley.
+
+Every one of those hulls would want a crew by the spring, and every crew its bread and its water, and carts to bring them down to the quay, and horses for the carts, and fodder for the horses. She had begun to reckon them on these rounds. It was something to do with her head in the cold, and nobody else in the army would think of the carters until the morning they were wanted.
+
+Along the face of the palace wall the king's tall window was lit, as it was every night, with one candle's light coming dim through the frost on the glass. While she stood there a shadow moved between the light and the glass, and stayed. Then it was gone, and the window was only light.
+
+She walked the wall to the tombs. The stone of the parapet burned through her glove where she set her hand on it, and the crust on the snow along its top broke under her fingers. Laenas had the gate of the garden of the tombs, and was walking up and down in front of it to keep his feet alive. Below him the terraces stepped down the hill one under another, white, with the old doors of the kings let into them and a drift against each. She took the lane down, which was ice, and crossed the yard, where a dog barked once from the stables and stopped, and so to the Hall.
+
+Inside, the Hall was black under the dome. It smelled of lamp-smoke and old incense, and the cold rose off the floor through the soles of her boots and settled in the bones of her feet. One lamp burned at the far end, at the stair door, where the king's guard stood. It showed her the king's chair with the cloth over its arms, up on its step, and the bare swept floor below the step where the council's table stood when the council sat. Galba kept the wicket at her back. The Farrier stood grounded at her side, and the cold of the haft struck through her glove.
+
+Tonight the steward came down with nothing in his hands but his lamp.
+
+He passed the guard and the chair, and the kitchen door without turning his head to it, and walked on down the length of the floor toward her. The lamp showed her his face before she heard his feet.
+
+"Captain," he said.
+
+"Galba. The doors."
+
+She went the length of the Hall with him. The man of the king's guard at the stair door looked at the old man's empty hand, and opened the door for the two of them himself.
+
+The stair turned up inside the tower, narrow and dark, with a draught at every slit. Through each slit as they passed it she had a strip of the harbor, black, and then the wall again. The steward climbed ahead of her with his lamp, one tread at a time and both feet on each, and his breath rose white in front of him and hung there for her to walk through. She carried the Farrier at the trail, low, so that the butt-spike should not knock on the treads. The last time she had climbed this stair it had knocked all the way up, and all the way down again behind the prince. At the top the door of the writing room stood open, as the steward had left it.
+
+She leaned the Farrier against the wall inside the door.
+
+She had been in the room once, in the autumn, with the nephew's satchel under her arm, and the king had thanked her for it from his writing table. It was colder now, and it smelled of ash, and of the sea, and of onion. The fire was out on the hearth, and the only light was a single candle on the writing table. The window over the harbor had frosted on the inside, white from the leads to the middle of every pane but one, where the frost was thinner, as if somebody had wiped the glass clear with his hand and it had begun to grow back.
+
+The king was by the window, at the small table.
+
+He sat a little turned toward the glass, in the plain dark wool, with a fur of grey wolf round his shoulders that had slid off one of them. His eyes were shut. His hands lay one over the other on the table, the big knuckles standing up, and beside them lay the thin gold circlet. He had eaten cockles for his supper, and set the empty shells out along the table's edge, each one square to it, like kit laid out on a blanket for an inspection.
+
+His face had gone quiet. It was thinner than it had been at Midwinter, and his white hair had fallen forward over one temple, and there was nothing left in his face of the hall or the stair or the ledgers: only a tired old man who had shut his eyes. She had seen the old ones in the carts on the Hollowmere road go like that, sitting up, between one jolt and the next.
+
+She crossed to him and touched the back of his hand with the backs of her fingers. It was as cold as the sill.
+
+Her right thumb went along her palm looking for the haft. The Farrier was by the door.
+
+She drew the fur up onto his shoulder, and stood back.
+
+"When?" she said.
+
+"At the turn, Captain." The steward stood in the doorway with his lamp. "I went in for the candle."
+
+The candle burned clean. Its wick had been trimmed short, and on the tray beside it lay the black curl of what had been cut away.
+
+Then, because somebody would ask, she checked him. His lips were pale and dry, and his nails were clean and pale, and there was no mark on him and nothing spilled. The cup at his elbow held an inch of water with a skin of ice on it. The shells were clean.
+
+"Who brought the cockles?"
+
+"I did, Captain. Off the boats at the galley quay, this afternoon. I watched every one of them opened." His eyes went to the row of shells along the table's edge. "He ate them all."
+
+She took a sheet off the king's paper, and the pen out of its stand. The steward set down his lamp and drew the chair out from the writing table for her.
+
+"I'll stand."
+
+She wrote standing, with her back to the chair.
+
+*To the Lord Marshal, from the officer of the watch on the Old Hill.*
+
+*The King is dead. He died at the small table in his writing room, before the turn of the night. His steward went in to him at the turn and came down for me. No one else has been up. I have sent for the Prince.*
+
+*Valeria, captain of the Lanciarii.*
+
+She read it through once for anything in it that was not so. There was one thing, and it would be so before the paper left her hand. She folded it once and took up the Farrier, and at the door she turned round.
+
+The steward had moved to the small table. He stood beside the king's chair with his lamp, as he must have stood beside it every night while the king ate, and waited.
+
+She took the stair down. Halfway, at one of the slits, she stopped. Through it she could see the *Answer*'s stern lantern, still burning. She stood with the report in her hand and the cold of the slit on her face, and let herself have the time it took to breathe out once, and in. Then she went on down.
+
+At the doors Galba had the wicket open on the frost. He saw her face, and took off his helmet, and held it against his chest. Laenas and Pacuvius had just come in off the wall at the change of the posts, and stood outside on the steps, stamping, with their lanceae on their shoulders.
+
+"Laenas. The Corvus lodging-house. Foot of the Fishmarket Steps, the room under the roof." Laenas waited for more. "Tell the prince the captain asks for him at his father's stair. That's all of it. You've nothing to say to anybody else on the way."
+
+Laenas gave his lancea to Galba and took the steps two at a time, long-shanked, into the dark of the lane.
+
+"Pacuvius. The Lord Marshal's house." She gave him the folded paper. "Into his own hand."
+
+He buttoned it into his coat and set off down the lane after Laenas at the long hill lope that ate the ground without seeming to, and turned in where the lane turned, under the palace wall. She heard him knock.
+
+She walked back up the floor to the king's stair, and the guard stood aside to give her the place before the door. Once she had kept this stair a great many nights for Titus, while he climbed it to his father.
+
+She stood there now and waited for his brother.
+
+---
+
+The Marshal came first.
+
+She heard the wicket, and Galba's voice, and the Marshal's over it. Then a lantern swung up the floor between the pillars with Ursus's red beard behind it and the Marshal beside it. He had dressed. He wore his good coat and every ribbon he owned, from the old king's wars to this one, as if it were a feast day; and he had her report open in his hand. The cold came in with him, and the smell of the lantern's hot horn and of the snow on his boots.
+
+He halted at the stair's foot, where she stood, and his eyes passed over her to the door.
+
+"Captain."
+
+"My lord."
+
+He made no move toward it, and neither did she. Her mouth had gone dry.
+
+"The prince first, my lord."
+
+The Marshal considered her, as he had considered her across his own table in the summer.
+
+"So he should be," he said.
+
+Ursus set the lantern on the floor, and its light climbed the nearest pillars and stopped. The Marshal read her report again by it, though he must have read it by his own fire. Then he folded it along her fold and put it inside his coat.
+
+They were standing about where the council's table went. Titus had read a report of hers aloud at that table once, every word of it, and asked the Marshal at the end which of them was untrue.
+
+"His order put you on this hill," said the Marshal.
+
+"It did, my lord."
+
+"Mine was for the summer. Did his give a reason?"
+
+"None, my lord."
+
+The king's order lay inside her mail against her shirt, beside the Marshal's own. The Marshal turned his face up to the stair door.
+
+"I carried his father down that," he said. "On a board. I was a cadet in the guard."
+
+She waited.
+
+"He was crowned at the tomb door before they'd shut it on the old man. I held a torch."
+
+Her feet had begun to ache. Somewhere under the dome a pigeon shifted on a ledge, and was still. The Marshal stood with his hands behind him, and the lantern made his ribbons into small bars of color down the front of his coat, and behind him Ursus breathed through his crooked nose and said nothing. The man of the guard at the stair door had tears running down into his beard, and his eyes to his front.
+
+The prince came in at the wicket with Laenas behind him, and Alana with him.
+
+He crossed the floor fast, in his coat over his shirt and no sword, with his hair on end and his breath coming hard from the hill. Alana had a shawl over her head, and her hair was down under it. Valeria stepped out from the stair door to meet them.
+
+"The king's dead, Highness. At the small table by his window. His steward went in to him at the turn."
+
+He stopped. Then he passed her, and the Marshal, and the guard opened the door for him, and he climbed.
+
+Alana started up behind him. She stopped on the second step with her hand on the wall, and stood there; and then she stepped down again and stood beside Valeria at the foot. The lantern showed the fringe of her shawl shaking.
+
+"We were asleep," said Alana.
+
+"So was he."
+
+Alana turned her head and searched Valeria's face. Then she put her hand on Valeria's arm, on the cold rings of the mail, and kept it there.
+
+Above them his feet climbed the stair, and round, and round, and stopped. After that there was nothing to hear.
+
+Laenas had come up behind them, and stood at Valeria's other side to make his report, low.
+
+"He was out of the door before I'd done, Captain. The lady brought his coat after him. And her shoes," he added. "She put them on at the street door."
+
+Alana glanced down at her feet as if she had not known they were shod.
+
+The Marshal unpinned his cloak. He held it out to her with the lining turned toward her, the court way.
+
+"My lady."
+
+She stared at the cloak, and at the Marshal. Then she let go of Valeria's arm and took it, and put it round her over the shawl, and the hem of it lay on the floor about her feet.
+
+He was a long time up there. Ursus trimmed the lantern twice. Once the Marshal took a pace toward the stair door, and found her in front of it, and took the pace back.
+
+Titus had come down this stair at a run, two treads to a stride, with his father's answer, whatever it was, and his face already turned to the next thing. "Well, that's done," he would say, and she would fall in at his left shoulder, and they would walk the floor together and out by the doors into whatever the weather was.
+
+The prince came down slowly. She heard him on the stair from a good way up, a step and then a step, and the turns of the stair took the sound away and gave it back nearer. He stepped out at the foot with the king's key on its chain, and stood on the bottom step. His face was white and still. His eyes went first to Alana in the Marshal's cloak, and then to the Marshal.
+
+The Marshal straightened.
+
+"Highness." He said it as the form said it, and kept the same voice for the rest. "The Hall rings once at first light, and after it the city keeps its bells still until the king is in the ground. He lies under the dome three days. The council sits at the third hour, in the realm's name, and keeps the realm's business in its hands until the heir is crowned. The heir is crowned at the tomb door, at the burying, over his father." He stopped. "As his father was over his."
+
+"I know the form," said Marcus.
+
+"Then—"
+
+"No."
+
+The Marshal waited.
+
+"He finished his count," said Marcus. "I'll be crowned when I've finished mine."
+
+Valeria saw it then, the way she would have seen a gap open in a rank when the man in it fell. The council sat in the realm's name until there was a king. The ships in the old berths were the realm's, and it was the Marshal who called the council. There would be no king until Corvus, and there would be no Corvus without the ships. If the Marshal said the word at the third hour, they could lie at the bollards with their lines frozen to the rings until the prince was an old man.
+
+"What did he leave in the drawer, Highness?"
+
+Marcus took a half-sheet out of his coat and gave it to him.
+
+The Marshal turned it to the lantern. It was a half-sheet of the king's plain paper. Two words stood on it in the king's hand, and under them the king's name and a day. Valeria had seen the name go onto it, and the day, at the high table at Midwinter a year ago, wet, with the steward's pen, and the herald turn the half-sheet over for the rest, and find the back of it bare.
+
+*Leave granted.*
+
+A dead king's leave was a dead king's. The Marshal had only to say so.
+
+The Marshal turned his ring so that the bull's head lay inward, and set it against the heel of his hand, and pressed, and held it there. When he took the ring away the little bull stood white in the flesh, and filled red.
+
+"It was entered," said the Lord Marshal. "As His Majesty gave it."
+
+He folded the paper along its fold and gave it back to the prince.
+
+"The council sits at the third hour, Highness. It'll want your answer in your own words."
+
+"It'll have them."
+
+The Marshal bowed to him, the court bow, from the neck. Alana began to take off his cloak, and he lifted a hand to say that she should keep it; and he walked away down the floor with Ursus and the lantern, and the wicket shut behind them.
+
+The prince stood on his step with the paper inside his coat. Then he turned his head to Valeria.
+
+"You sent Laenas."
+
+"And Pacuvius, Highness. At the same time."
+
+"The Marshal's house is nearer."
+
+"Laenas has the longer legs."
+
+"His fur was up," he said. "On both shoulders."
+
+"It had slipped, Highness."
+
+Something crossed his face, and stayed only long enough for her to see it.
+
+High up in the drum of the dome the windows had begun to go grey. Alana climbed the bottom step to him in the Marshal's cloak, and stood against him, and he let her. Valeria turned round to face the doors.
+
+At first light the Hall's bell rang once over their heads, and after it every bell in the city kept still.
+
+---
+
+They brought him down after the bell.
+
+She heard them from the foot of the stair before she saw them: the steward's tread first, and his lamp coming round the turns, and behind it the heavier feet of the king's guard and the board between them, which knocked the wall at every turn. At the worst of them one of the guard said *Steady* under his breath, the way a carter says it to his team on a bad hill with the load at their backs. Then they stepped out at the foot with the king between them on the board, feet first, under his fur. The young one who had wept at the stair door had the foot of it.
+
+They carried him up the steps under the dome to where the biers stood, and laid him on the one that waited there. Two of the Hall's people followed with a cloth of gold folded over their arms, the cloth the kings of Aeridor lay under.
+
+The prince stopped them at the foot of the steps.
+
+"He'll lie in his own clothes."
+
+Alana went down to the Hall's people and spoke to them low, and thanked them, and they carried the cloth away again, folded, wherever it was kept.
+
+So he lay in the plain dark wool, as he had lived in it, with the circlet on his breast and his hands folded under it. The steward combed his hair. The Hall's people set a tall candle of beeswax at each corner of the bier and lit them, and the smell of the wax rose into the old incense. It was as cold under the dome as in the yard, and he would keep.
+
+Valeria sent Galba down to the loft for the rest of the company. They marched up in the half-light in their new cloaks, and she put two files on the steps outside the doors and kept the third inside them. Then the porters opened the great doors on the frost. The lane outside was full already from the doors to the turn, and quiet, and more were climbing into the back of it in whatever they had pulled on when the bell rang once and stopped.
+
+Under mourning law no blade came under the dome while he lay there. At the doors Valeria gave the Farrier to the porter, the heavy young one in the leather apron, his fingers waxy with tallow, who had once asked her which end of it went up.
+
+"The Farrier, Captain."
+
+He racked it head up, and put no chalk over it.
+
+The city climbed the hill all that day. It filed up the lane in the frost with its breath smoking, and in at the doors, and up the steps past the bier and down again, and out at the doors on the other leaf. The guilds came in their hoods, and the wives from the canals, and the porters off the quays with their caps in their hands, and the old women who went to everything and knew the form of it better than the heralds. Hardly anyone spoke under the dome. The feet on the steps made a long soft sound that never stopped, like rain on thatch.
+
+Without the bells the city lost its hours. People were at the doors at the wrong times for their own work: a guild of chandlers who had meant to come at first light stood about in the lane half the morning in their hoods, stamping, and asking one another the time. Across the snow of the yard the shadow of the palace wall went round, the only dial the hill had left.
+
+The Marshal returned in the middle of the morning, in his ribbons again, with Ursus, and passed her at the doors.
+
+"Captain."
+
+"My lord."
+
+When the Marshal judged it the third hour, the porters carried the council's long table in to the foot of the king's stair, and the council sat at it in the realm's name, with the king above them under the dome. They sat in their cloaks with their hands in their sleeves, the Marshal at the head in his ribbons, Lord Sestius with his lost island's badge at his collar, Lord Opimius with his chin sunk in his collar, and a clerk at the foot with his pen. The king's chair stood empty under its cloth above them. The prince stood.
+
+The Marshal sent a porter for the officer of the watch. Valeria gave the doors to Galba and walked up between the pillars to the foot of the table, where the clerk had her report flat under his hand.
+
+"Is this your hand, Captain?"
+
+"It is."
+
+He entered the death from it, and read the entry out in his thin dry voice, *before the turn of the night*, as she had written it. Then the Marshal asked the heir for his answer to the council; and the prince gave it them as he had given it in the small hours, and no longer, and let the clerk's reading of it stand.
+
+Lord Opimius said "*Irregular*" into his collar.
+
+The clerk's pen lifted, and waited. The Marshal looked at it down the table, and it moved on to the next line without the word.
+
+"Then the realm keeps the realm's ships, my lords," said Opimius, "until the realm has a king. I take that to be the form."
+
+"It is," said the Marshal. "Clerk. The leave."
+
+The clerk turned back the council's book to Midwinter a year ago, and read it out as it was entered there, *as His Majesty gave it*: the Prefect of Cyrene, to take the king's ships beyond the waters of Cyrene, he and such of his officers as sail with him. Lord Sestius put two fingers to the badge at his collar while it was read, and kept them there. Lord Opimius sat back in his chair.
+
+"The council will rise," said the Marshal.
+
+It rose. Valeria went back to her doors, and the porters carried the table out again and swept the floor where it had stood.
+
+When the floor was swept the prince climbed the steps and took his stand at the bier's foot, where they said his father had stood for Titus. Valeria had been on the road from Hollowmere with the carts that week, and had come home to a swept floor.
+
+He stood there all day. Alana stood with him for most of it, a little behind his shoulder, and when she left him it was to bring him water, which he drank, or to speak to someone who had come up the lane and stood lost at the foot of the steps. The steward kept the bottom step of the king's stair, sitting, with his lamp unlit beside him.
+
+At noon Felix walked up from the galley quay with a basket over his arm and a cloth over the basket. He carried it up the steps to the prince and spoke to him low, and brought it down again with the cloth over it as he had carried it up.
+
+He stopped at the doors.
+
+"He won't," he said.
+
+"No."
+
+Felix looked at the basket, and then at her. "You've been up all night, Captain."
+
+"I'm on duty."
+
+"So's the herring." He took the cloth off.
+
+*Go and eat*, the king had said in the autumn, from his writing table, to the prince and to her. *Both of you.*
+
+They sat on the top step outside the doors, in the frost, with the basket between them. The herring had been split and broiled over the braziers on the galley quay, and the skins had blistered black, and the flesh came away from the bones white and smoking and smelling of the charcoal and the tar. There was a barley loaf off the quay ovens, ash still on the crust, and a twist of coarse salt in a paper. Valeria had not known she was hungry until the smell rose off the basket. She ate with her fingers. The salt stung in the cracks of her lips.
+
+"Off the same brazier," said Felix. "The steward used to come down for his there."
+
+She ate the rest of the fish. Below them the city kept on up the lane, slow, four and five abreast, and passed them at the doors.
+
+When she had done she broke the loaf and carried half of it in to the bottom step of the king's stair. The steward took it from her without a glance at it, and held it in his lap. After a time he began to eat it.
+
+Felix folded the cloth back over what was left and took the basket up the steps again, and stood with it behind the prince at the foot of the bier, in case.
+
+In the afternoon the cohort climbed the hill together and went past the bier with the city, Rufo first, his helmet on his hip, and Liora last. None of them stopped at its foot, where the prince stood. Each of them looked at him going by, and he looked back at each.
+
+At dusk Valeria took her files up past the bier, as the guilds had passed, with their helmets under their arms. She stood at its side as long as the files took to go by.
+
+The steward had combed the white hair back off the king's forehead, and it lay fine and flat on the cushion. The candles made his face yellow and still. His hands under the circlet were the hands that had taken *Leave granted* out of his coat at the high table a year ago, and the knuckles stood up on them as big and stiff as ever. At Midwinter this year he had turned round in his chair at the high table to watch her walk the Long Measure with Roderic. She had seen him do it over Roderic's shoulder at the passing, and nearly missed her turn.
+
+She followed the last of the files down the steps and back to the doors.
+
+When the windows of the drum had gone dark, the prince came down from the bier with Alana, and stopped by Valeria at the doors while the porter brought his cloak.
+
+"You had the hill last night."
+
+"Yes, Highness."
+
+"Was his window lit?"
+
+"At the second hour." She thought back to the harbor tower, and the frost on the glass. "He was at it. Something stood between the candle and the glass, and then moved off."
+
+The prince nodded, once, and went out with Alana into the dusk.
+
+Roderic rode up in the first of the dark. He passed the prince in the lane with a hand on his shoulder, and gave his sword to the porter at the doors, and walked in, and took the head of the bier.
+
+Valeria kept the doors with Galba's file. Late in the evening the lane emptied. Twice in the night the porters got up off their bench to trim the candles at the corners, and lay down again in their aprons; and after that there was only the frost in at the wicket, and the candles at the corners, and Roderic at the head of the bier with his arms down and his eyes on the old man's face. He stood the way he sat a horse, easy and square, good for all night.
+
+The steward got up off his step, and by that she knew the night had turned. He lit his lamp at the nearest candle, and opened the stair door, and climbed with it, as he had climbed every night. While his light was still going round the turns above them, Roderic said the king's name.
+
+"Aurelian."
+
+He said it once, not loud, in the voice he kept for the names of the dead. Then he was quiet again. Once in the small hours she saw him ease his weight onto the other foot, and settle; and so he stood until the drum went grey.
+
+At first light the king's guard took the corners, and he walked down to her at the doors, slow in the knees from the standing. He stopped beside her at the doors, close, so that his arm lay along hers through the mail and the coat, and stayed there while the porter took his sword down out of the rack. Then he went down to the stables to see to his horse.
+
+She slept the morning out on the porters' bench by the rack, in her mail, with Galba's file on the doors. When she woke there was a leather apron folded under her head, smelling of tallow, and the lost islands were coming up the hill. They came in the order they had been lost.
+
+Thessa first, the island the king had sent his father's fleet to relieve in the war's first year, which the fleet had never reached. They were old men and old women in coats that had been good, and a few younger ones behind them who could not have remembered the island. Under the dome, at the foot of the steps, they stopped, and the long soft sound of the feet on the steps stopped with them. The eldest of them, a man so old that two of the others held him by the elbows, said "Thessa." Then they filed up past the bier and down again, and out.
+
+Then the Stair Isle. They were fewer, and most of them were fishing people, brown and broad in the hands. At the foot of the steps an old man in a fisherman's jersey said "Halcyra." Valeria had only ever heard it called the Stair Isle.
+
+Then Corvus. The women of the second landing came in black, in a knot, with the small grey woman in the middle of them, and when they stopped at the foot of the steps it was the small grey woman who said "Corvus." Alana left the prince and stood among them, and walked up past the bier with them and down again, and then climbed back to her place at his shoulder.
+
+When the women had gone she stepped out to the doors for the air, and stood beside Valeria with the Marshal's cloak gone and her own shawl pulled close.
+
+"The cloth for my dress came down that stair," said Alana. "In the steward's arms. There wasn't a word with it."
+
+"Mine came down it the same way."
+
+Alana looked at her. Then she nodded, slowly, as she nodded over a figure that had come out right, and went back in.
+
+Then Hollowmere. There were more of them than of the others. Valeria had held its causeway with the Lanciarii while the carts crossed, with the mere on both sides of her and the wounded going over at her back, until Titus's order came to go back with them; and she had gone, and he had stayed. A woman with a baby at her shoulder said "Hollowmere" at the foot of the steps. At the bier's foot the prince turned his head at the name, and his eyes came down the length of the floor to her at the doors, and held there. On the way out some of them knew Valeria too, and touched their foreheads to her, and one old man stopped and took her hand in both of his and shook it, and walked on without a word.
+
+She stood up straighter after that.
+
+That night, late, Roderic rode up again with a crock under his cloak wrapped in a cloth. It was broth from Gemella's fire at the Steps, mutton and barley, still hot through the crock, and it smelled of onion and pepper. He gave it to her at the doors. She drank off a third of it, and sent the rest along the file.
+
+"Gemella meant that for you," he said, when the crock came back to him empty.
+
+"It was for me."
+
+"I'll tell her so." He took the crock under his cloak again. His face was grey with cold above his beard, and he had shaved for the king.
+
+Then he went down the hill again, and the file stood the doors in pairs, and the pairs talked, low, because the frost had got into everyone's feet and talk kept it out.
+
+"They're saying on the quay he'll not be crowned," said Pacuvius.
+
+"They're saying a deal of things on the quay," said Galba.
+
+"He'll be crowned," said Valeria. "When he's done."
+
+Pacuvius turned that over in the hill way, all round, before he answered. "Done what, Captain?"
+
+"His count."
+
+Galba blew on his fingers. "Then we'll want carts."
+
+"I've reckoned them."
+
+On the last day she slept the morning on the porters' bench again, and woke to the same frost. The halls' ore-boats still lay in the harbor waiting for it to break, with their sails furled hard and white along the yards, and at noon Kolbrand climbed the hill.
+
+He came on foot, bareheaded, with two of the halls behind him and the winged helm that was Stoneheart's crown under his arm, and the city stood aside for him in the lane without being told. His crimson cloak was black at the hem with the snow of the lane, and the gold rings in his beard took the light from the doors. The porter waited for his axe. The dwarf king opened his cloak to show him he had brought none, and Valeria took him up the floor to the foot of the steps.
+
+He climbed the steps to the bier and stood at its side. He stood so long that the porters came and changed the candles at the corners round him, one after another, and he let them work about him as if he were a pillar. The city filed up past him, and down. The prince stood at the foot.
+
+Then Kolbrand turned to him.
+
+"Heir."
+
+The prince waited.
+
+"He moved his line," said Kolbrand. "He didn't live to strike it."
+
+The old scar on the prince's jaw pulled tight.
+
+"I'll strike it."
+
+"When the grain comes."
+
+He bowed his bare head to the bier, once, and came down the steps, and Valeria took him back to the doors. His two fell in behind him there, and she heard the halls' boots go away down the lane in step, as they went everywhere, until the frost had them.
+
+---
+
+On the last night the Marshal came alone.
+
+He came before the turn of the night, when the lane was empty and the porters were asleep on their bench by the rack, with no lantern and no Ursus. He wore a plain dark cloak with nothing on it. He stepped in at the wicket and passed her without a word, up the floor, and up the steps, and took the place at the bier's foot where the prince stood by day.
+
+She watched him from the doors. The candles at the corners stood straight in the still air, and the wax ran down them and hardened in the cold. Her feet had gone past aching an hour since. She had eaten his beef in the winter, with the fat on it and his mustard, and held his wine level and set it down full; and in the summer she had drunk it, at the same table, because by then it was only wine. The Marshal stood with his chin down, and the candlelight lay along the grey of his cropped head. He was still there when the steward climbed with his lamp, and he stayed long after.
+
+Then he left the bier and walked back to her at the doors.
+
+He stopped beside her at the doors, with the cold of the wicket coming in round them both, and stood a moment with his face to the dome. His cloak smelled of the candles.
+
+"Titus asked me once which word of a report of yours was untrue," he said. "You'll remember."
+
+"I remember, my lord."
+
+"I've been looking for it since." He did not turn his head. "At my own table I thought I had it. You told me you could have held the prince."
+
+"I did, my lord."
+
+Up under the dome a candle guttered and steadied. The bier was a long shape of dark wool and gold up at the top of the steps, with the light round it.
+
+"You held that stair against me," said the Marshal. He pressed the ring to the heel of his hand. "You could have."
+
+"Yes, my lord."
+
+"Then I was wrong to try to break you."
+
+She was standing at attention. She had been since he began.
+
+He waited for nothing from her. He went out at the wicket into the frost, alone, without a lantern, and she heard his boots go down the lane on the snow as far as the turn, and his own door open and shut.
+
+Her right thumb went along her palm for the smooth place under the head of the haft, that was her father's. The Farrier was in the rack, head up.
+
+He had stood on her list under *later* since the summer. She took him off it, and put him nowhere else.
+
+---
+
+They buried him at first light, in the frost.
+
+At the doors the porter had the Farrier out of the rack and in her hand before she asked for it.
+
+The king's guard carried the bier out at the great doors and round under the palace wall, the long way by the yard, so that the hill could see him go, and out to the highest of the terraces of the tombs, with the prince walking behind it bareheaded, and Alana at his side, and the council behind them two by two. The city stood in the lane and along the terraces and on every roof that would bear it, and the only sounds were boots on the snow and the creak of the bier's poles in the guard's hands. Valeria walked with the Lanciarii at the tail of the council. Roderic walked with them, at her side.
+
+The kings' door stood open on the highest terrace, with the drift dug away from it and the snow trodden flat before it. The cold that breathed out of it was older than the frost, and smelled of stone that had never seen the sun. Inside, by the light of the torches set in the snow at the door, she could make out a passage going back into the hill, and shelves along it, and on the nearest shelf the end of a stone box with a name cut in it, worn.
+
+The herald waited at the door with his paper, a little old man carrying a voice made for a bigger one. The guard set the bier down before the door. The steward lifted the circlet off the king's breast and stood holding it in both hands.
+
+The herald cried the king's name, once, out over the terraces and the white roofs and the harbor. Then he turned to the heir with his paper, and waited.
+
+The prince put out his hand and touched the circlet in the steward's hands, once, and took the hand away.
+
+The herald waited a moment longer. Along the terrace a lord of the council stepped forward, and the Marshal turned his head, and the lord stepped back. The herald folded his paper.
+
+Alana had been looking at the circlet. She looked at the prince instead.
+
+They carried the king in, and the door was shut on him. The prince stood before it with his head bare and the frost in his hair. The steward climbed back up the hill with the circlet held before him in both hands, the way he had carried the dish.
+
+Then every bell in the city rang at once.
+
+It rose up the hill from the canals and the quays and the holy houses and the streets of the Steps, all of it together, after three days of nothing, and the gulls lifted off the harbor in one white sheet and wheeled over the old berths, crying. Valeria felt it in the soles of her feet through the frozen ground. Beside her Roderic shut his eyes, and opened them. After that the bells rang the hours again, and the city went back to its work by them.
+
+The prince turned from the door at last, and Alana took his right arm. Valeria fell in at his left shoulder, and they went down through the tombs together.
+
+That night she kept the hill as she had kept it every night since Midwinter. At the second hour she stood in the harbor tower with Pacuvius, and along the face of the wall the king's window was dark. Below them on the inner quay a man was walking the old berths from the hill's end outward, alone and without a lantern, and stopping at each. On the *Answer*'s deck the watch lifted his lantern to him as he passed, and put it down again. She knew the walk.
+
+"Shall I go down, Captain?" said Pacuvius.
+
+"Leave him be."
+
+She watched him as far as the last of the berths, and then she finished her round.
+
+At the turn she stepped in at the wicket and stood by the porters' rack.
+
+The steward came down the stair with nothing in his hands but his lamp.
+
+She knew where the king was, and her breath stopped in her all the same. He passed the guard and the chair, and walked down the floor to her.
+
+"The prince asks for the captain."
+
+She climbed the stair behind him with the Farrier at the trail.
+
+The steward had lit the fire in the writing room, and the room was warm. It smelled of pine burning, and of the candle. The shells were gone from the small table, and the fur lay folded on the king's chair by the window. The frost had the window again, every pane of it. The prince stood at the writing table by the candle, in his coat, with the cold of the quay still on it and the smell of tar. The right-hand drawer stood open and empty.
+
+The circlet lay on the table by the candle. He laid it in the drawer, and turned the key on it. Then he put the chain over his head, and the key slid down inside his shirt.
+
+"The fleet sails for Corvus in the spring," he said.
+
+"I'll want it written, Highness."
+
+"Then write it."
+
+He came round the table and drew the chair out for her. She stood where she had stood to write the other, with her back to it, and took a sheet off the pile, and the pen out of its stand.
+
+She wrote it plain, as she wrote her reports.
+
+*To the masters of the ships in the old berths, and to the captains of the army.*
+
+*The fleet sails for Corvus in the spring, on the first fair wind after the thaw.*
+
+*It sails under King Aurelian's leave, given in his own hand and entered by the council as he gave it.*
+
+She left room at the foot for a name, and for what goes after a name. Then she turned the sheet about on the table to face him, and gave him the pen.
+
+He wrote *Marcus*, and lifted the pen.

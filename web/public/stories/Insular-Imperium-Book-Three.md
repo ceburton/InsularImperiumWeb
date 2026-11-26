@@ -28,6 +28,7 @@
 22. [Chapter Twenty-Two: The First Page](#chapter-twenty-two-the-first-page)
 23. [Chapter Twenty-Three: The Toll](#chapter-twenty-three-the-toll)
 24. [Chapter Twenty-Four: Lessa](#chapter-twenty-four-lessa)
+25. [Chapter Twenty-Five: The Beach](#chapter-twenty-five-the-beach)
 
 ---
 
@@ -14043,3 +14044,527 @@ He began at the corner of the quay, at the nine, and the two across the lane fro
 The Grey came up behind the *Excise* and took the heads, and then the quay, and then the lamps, from the bottom of the hill to the top.
 
 For the first time, Varus wondered how many of the windows were his.
+
+---
+
+# Chapter Twenty-Five: The Beach
+
+**MARCUS**
+
+Corvus smelled sweet, and the sweetness ought to have been buried deeper.
+
+It hung over the still water in the last hour of the dark, where the boats lay off under *Constancy*'s bow. Marcus breathed it and did not like it and breathed it again, because there was nothing else to breathe. Twenty men sat on the thwarts round him with their oars across their knees. The other boats lay behind his in a long line, black on black, so close that he could hear the men in the next one breathing through their noses. The flood slopped against the boat's side. Somewhere aft on *Constancy* something wanted grease. The cold rose off the sea into the backs of his legs and stayed there. He had not been warm since the coast.
+
+Four days the fleet had lain in the Grey, out of the Spire's sight. On the first evening Thalassa had climbed the knotted line onto *Constancy*'s deck and sat dripping on the hatch-cover and reckoned it for him by the moon, since she reckoned no other way. "Before the moon is gone, he is at the mountain," she had said. "The flock is quicker than a tide." And then: "It will say he is slow." She had laughed her gull's laugh at that, and stopped. So Marcus had picked a morning with no moon and the spring flood under it, and had not known since whether he picked it for the flock or for the dark.
+
+*Corvus, the morning we land. And tell it I asked.*
+
+He did not know if it would come.
+
+Oppius had gone along the benches before the boats were lowered, with a basket of cold bacon and ship's biscuit, putting a piece of each into every hand whether it wanted one or not. "Eat it now," he told each man. "There's nothing hot till Corvus." Marcus had eaten his at the rail. The bacon was salt and the fat had set on it, the biscuit tasted of its bag, and a shred of the rind was still lodged between two of his teeth. He worked at it with his tongue and listened to the dark.
+
+His was the first boat. Rufo sat amidships at the head of the cohort's first file with his shield on his knees. Kaeso crouched between the rowers' feet with his drum held in his arms like a sleeping child. Valeria had the bow, with the Farrier upright beside her and its butt between her boots. Rusca sat in the stern behind Marcus with Alana's satchel on her lap and her mitted hands folded on it, in a cohort cloak somebody had lent her over the Survey's black. Alana was beside him on the stern thwart, with her glass rod across her knees and her hands in her sleeves. Roderic had the steering oar.
+
+The horses were all on the *Patience*. Thistle had told the whole fleet what she thought of that, half the night across the water. Roderic had climbed down into the boat without his spurs and had not said one word about horses since the coast, which Marcus had never known him manage. Thalassa had told him he would ride when the wave lifted, and not before. His right hand lay on his thigh, and its knuckles were beating there slowly, keeping some count of his own.
+
+Ahead, the land was a darker dark, with a pale line moving along the foot of it where the surf ran. To the north the Grey lay on the sea in a long low bank, close in, across the mouth of a harbor Marcus had never seen. There were no stars over the land. Then, while he watched, there was a little less dark behind it.
+
+The east paled, slowly, and the land took shape against it: low black hills, and a black town climbing them roof over roof. Over all of it, so high that he had to put his head back to see the top, rose the Spire, thin and straight against the grey. It was blacker than the night around it. It had gone up in one season.
+
+Low on the hill under it, among the roofs, a light was burning: one small yellow fire at the top of a tower, no bigger than a lamp at that distance. While he watched it, something passed in front of it, and it was there again.
+
+Valeria had seen it first. She did not turn her head.
+
+"Two years under *that*," she said, "and they held on."
+
+It was time, or nearly. *At Corvus, before the sun, give this back to the sea.* Marcus put his hand inside his shirt, past the key on its chain, and brought out the shell.
+
+It was the Prompter's whelk, white and no longer than his finger, and it had taken the warmth of his skin. He did not put it to his ear. He knew what was in it.
+
+He leaned out over the gunwale and put his hand into the sea. The cold took it to the wrist and climbed on into the bones of his arm, so that for a moment he could not feel whether he still held anything. Then he opened his fingers.
+
+For a breath the sea kept it. Then the water beside the boat spoke, low, in a man's voice, and the voice moved off from them over the black swell toward the fog in the north. It was his. A boat's length away it would have been only a voice, but he knew the words, because he had said them first, at the door going out of the coast: *I want it. The crown. I'm afraid of how much.* They drew away across the water, smaller and smaller, and the fog took them, and they were gone.
+
+He drew his hand out of the sea. It ached to the elbow.
+
+Beside him Alana had turned her head. He felt her look at him in the dark. She did not ask.
+
+Out on the fog bank to the north, a light came on.
+
+Then another beside it, and another, until there was a long line of them at the height of a ship's bow, yellow, swinging a little. Behind each light the fog darkened and took a shape. Marcus watched a galley grow out of the Grey where no galley had been: her stem, her rail, her bank of oars lifting together and dipping. Another followed her, and another behind that, until there was a fleet off the harbor mouth longer than his own, rowing slowly south along the edge of the fog with every lantern lit, as no fleet coming to a landing ever would. A horn sounded from hull to hull. A drum began to beat the stroke. It was Kaeso's beat to the life, and Kaeso sat at Marcus's feet with his hands flat on the head of his own drum, staring.
+
+All along the false fleet, on the face of the fog, tall figures were walking. They walked on nothing, from hull to hull, slow, with their arms raised, and their white hair blew in a wind that was not there. The Spindrift were dancing.
+
+*The Company will play to the wall.*
+
+The wall answered.
+
+At the south end of the sea wall, where the battery was, lanterns ran along the stone. Something thudded there, deep, and again, and a third time, and out on the edge of the fog white water stood up among the hulls and fell back. The fog-ships rowed on. Then pale flecks began to drop into the light along the fog, one hard behind another, too many and too close together. Arrows. Whoever was shooting them took no rest between.
+
+The false fleet rowed on through them with its lanterns swinging.
+
+At *Constancy*'s rail Nerva held up the half-hour glass where Marcus could see it, and turned it over. "One glass, Highness," he said, not loudly. "From now."
+
+Under the bow Thalassa rose out of the sea to her shoulders, between two of her kin. She laid her hand on the swell and spread it, and the webs between her fingers went taut.
+
+"Now, Centurion," she said. "The pull is with us. *Now*."
+
+Roderic stood up at the steering oar. He drew a breath with a speech in it, the old general's breath that had carried over horse-lines and parade grounds since before most of the boat was born, and every man in the boat waited on it with his hands on his oar.
+
+"…*Row!*"
+
+Kaeso found his beat, his own, and they rowed.
+
+---
+
+The beach came up out of the dark as a grey line, and then as surf, and then as sand.
+
+It was black sand, coarse as meal, with the foam running in white across it and drawing back hissing, and the dunes rose behind it, grey with their grass in the first light. The boats ran in on the flood with the pull under them. Marcus felt it through the planking: the sea going their way for once, all of it, leaning toward Corvus as a crowd leans toward a gate.
+
+The keel took the bottom with a grinding that ran up through the thwart into his spine. The boat slewed. Rufo was over the side before she stopped, into the sea to his thighs with his shield up, and the first file followed him, and Marcus with them.
+
+The sea took him to the hip, and every muscle in his belly shut on the cold. His boots filled. The backwash tore the sand out from under his heels and the next wave shoved him on. Then there was sand under him that stayed where it was, and he was out of the sea with the water pouring off his mail and the cohort forming on either side of him on the wet black beach.
+
+All along the shore the boats were coming in, one after another out of the dark, grinding and slewing, and the men poured off them into the surf and up out of it. Rufo's voice put them into their files. Nobody cheered; there was no breath for it. The wall made itself on the wet sand with the sea at its back, shields up and locked, and Marcus stood in the second rank with his sword out and the salt drying on his face already, and looked up at the dunes.
+
+They climbed from the beach in a long dark slope, with tufts of grey grass on it bent all one way by the wind, and their crest was a line against the dawn. Something moved along the crest.
+
+They came over it all at once, along the length of the beach, and down the slope at a run with the sand pouring away from their feet, and they were bigger than men. They were grey-green, bare-armed in the cold, as broad as doors, with tusks that jutted from their lower jaws past their lips. They carried axes and great curved blades and shields of hide stretched on hoops. They came down that slope roaring, and the smell of them ran ahead of them on the land breeze: grease and smoke and the rank of a byre in spring.
+
+Marcus had never seen one. The man beside him said a word he had not heard since the Fishmarket Steps.
+
+On the crest, where the slope was steepest, one had stopped.
+
+He stood with the dawn coming up behind him, a head taller than the rest, with a sash wound round his middle of a dozen colours, every one of them faded, and the points of his tusks capped in brass that caught the first of the light. He had an axe over his shoulder like a woodsman going home at the end of the day. He looked down the beach at the boats and the shields and the blue cloak in the middle of them, and he laughed, and the laugh carried all the way down to the water.
+
+"*Don't disappoint us, little king!*"
+
+In the front rank Rufo laughed back at him over the rim of his shield.
+
+"I *like* this one," he said. "Can it be mine?"
+
+"It's yours when Valeria points," said Marcus.
+
+Then the orcs hit the wall.
+
+The wall went back a step. Marcus felt it go through the man in front of him and into his own shield, and his heels slid back into the wash, and the sea sucked the sand away from under them. An axe swung down over the rims and split a helmet beside him. A hide shield slammed into the locked shields and a grey-green arm came over them, groping, and somebody's short sword took it off at the elbow, and the arm fell among the men's feet, opening and shutting its hand. The cohort's blades stabbed in under the shields, low, as Rufo had taught them in the yard at Cyrene, and out, and in.
+
+The orcs did not fall when they should have. One with a sword in his belly to the hilt took the man at the other end of it by the throat and lifted him off the sand. He was still lifting him when Fingers ducked under the shields and cut the back of his knee, and he came down roaring on top of both of them. Another, with half his face gone, laughed.
+
+A face rose over the rim in front of Marcus, tusked and grinning, and he put his sword into it and felt the bone take the point and let it go. Something hot ran down his wrist inside his sleeve. It was not his.
+
+Behind them the second boats were in. He heard the Lanciarii come ashore on the left with their long lanceae, and Valeria's voice among them, and the wall's left end stopped giving and began to hold. He heard the White land behind the line, and their bells. Out of the corner of his eye he saw grey shapes go up the dunes on the right from the elves' boats, quick and low, and then did not see them. At the south end of the beach the halls' ore-boats had come in broadside on, and the dwarves were going over their sides into the surf with the catapults' arms on their shoulders under the hides. In the shallows in front of them, with the sea round his greaves and his crimson cloak floating out on the wash, Kolbrand stood in his steel and gold with *Balance* on his shoulder and his head tipped back, reading the sky.
+
+Far out on the water behind them *Constancy*'s horn blew once, long, for the glass, and Marcus looked round.
+
+In the north the false fleet's lanterns were going out one after another, and its hulls going back into the white they had come out of. On the edge of the fog, where the last lantern had been, something sat a moment on nothing, swinging one foot, and was gone.
+
+The battery found the beach.
+
+The first stone dropped among the boats at the water's edge and burst a hull like an egg, and the men in it. The second struck the surf and threw up a wall of black water. The third came down on the beach behind the shields, and Marcus heard what it did there, and did not look round.
+
+Valeria's hand in his cloak hauled him back through the files, and a man of the third rank stepped into his place. She let him go behind the last rank and went on along the wall.
+
+In the lee of the shields Rusca was writing.
+
+She stood close behind the rear rank, where the stones were falling, with her ledger in the crook of her arm and a stub of lead in her mitted fingers. Every time a man fell in the front she made a stroke. Once she wiped her fingers on the linen in her cuff, and went on.
+
+"What are you doing?" said Marcus.
+
+"Entering them, Highness."
+
+"In which column?"
+
+"My own." She made another stroke.
+
+A knot of orcs came round the wall's right end at a run, over the open sand, with their axes up. Alana stepped out of the lee of the shields into their way.
+
+She drew her sign on the air with the glass rod, quick, and her eyes turned gold. Fire ran out from the end of the rod along the tide-line, a hedge of it waist-high on the wet sand, between the orcs and the cohort's flank. The orcs stopped at it. Two of them did not stop in time.
+
+She stepped back into the lee of the shields with the rod held down at her side. Her hand was shaking. She took the rod in both hands and held it hard against her thigh, and watched the orcs through the fire.
+
+Valeria stood behind the wall with the Farrier in her fist, watching the fight over the men's heads, and did not move. The wall gave another step, and held. The orcs came at it again, and again, and each time there were fewer of them in the rush and more of them on the sand, and up on the crest the big one was still laughing.
+
+Then the rush went slack, as a wave goes slack at the top of the beach before it turns. Valeria lifted the Farrier and pointed it up the slope at the crest, where the big one stood.
+
+"Aye," said Rufo.
+
+The wall went up the beach.
+
+It climbed at a walk, with the shields locked and the cohort's feet sinking in the dry sand above the tide-line, and the Lanciarii's long blades going in over the shields from the left. Roderic toiled up on foot beside Valeria with his sword out, blowing, sand to his ankles.
+
+"This," he said, "is what horses are for."
+
+"Thalassa said."
+
+"Thalassa has never walked up a beach in mail."
+
+The orcs gave back up the slope in front of them, fighting as they went and carrying their hurt. Marcus had seen the Legion do it worse.
+
+At the crest the big one was the last to go, walking backward with his axe on his shoulder. He looked down the slope at Rufo and lifted his free hand, as one captain lifts his to another across a field.
+
+Rufo lifted his.
+
+---
+
+For a moment the crest was empty.
+
+The cohort stood at the foot of the dunes with their chests heaving and the sweat going cold on them under their mail. The sun rose behind Corvus and laid the Spire's shadow down the hill and over the roofs and out across the dunes, long and thin. Marcus wiped the salt out of his eyes with the back of his wrist. Behind him the stones were still going over, and men in the boats were still dying.
+
+Then the dune line moved.
+
+It was the whole crest at once, the length of the beach. The sand ran down the face toward them in sheets, hissing, and the grey grass slid with it, and under the crest something lifted, and went on lifting.
+
+A head rose out of the dune. It was as big as a cart, and sand ran off it in streams. Shoulders followed it, and arms, with the sand pouring off them, and the thing got its knees under it and stood; and beside it another stood, and another, until there were five of them along the crest against the morning, and a man would have come to their knees.
+
+At every neck was a collar of black iron as broad as the rim of a cartwheel, and from collar to collar, from the first of them to the last, ran a chain. Every link of it was the size of a man's head. Marks were cut in the links, and the marks glowed a dull red, the red of iron going grey on the anvil, and a smell of hot iron rolled down the slope off it. The middle one's collar was thicker than the rest, and set at its throat was a stone, cut, the same dull red. Behind them on the far slope men in red ran with long iron rods, and wherever a rod touched the chain the marks on it brightened, and the Giants moved.
+
+The nearest turned its head and looked down at the cohort, and Marcus saw its eyes. They were not cruel. They were the eyes of something that had been a long time asleep and had been woken to work, and was tired.
+
+Then it put its foot on the slope.
+
+The sand poured out from under it, and it came down the dune face in a long sliding stride, and the others with it on the chain, and the ground shook under Marcus's boots.
+
+"Can it be broken?" he said. "The chain."
+
+He had not known whom he was asking. It was Brokk who answered. The smith had come up the beach from the south end with a file of the halls behind him, his hands hooked in his belt and the fisherman's straw pushed back on his head. He stood at Marcus's elbow looking up at the chain as he would have eyed a bad casting.
+
+"Third link," said Brokk. "Left of the keystone collar."
+
+"How do you know?"
+
+"It's the one they close last." He took his hands out of his belt, and spat in the sand. "Their smiths are lazy."
+
+Marcus turned to the sea.
+
+The first of the liburnas lay in the wash behind the boats, so light without her shoe and her stone that she floated where a boat would have grounded, and on her bow behind the bolt-thrower stood a man whose lenses flashed in the new sun. Marcus ran down the beach and into the surf to his knees.
+
+"*Gaius!* The chain! Third link, left of the keystone collar!"
+
+Gaius had a hand up to his lenses. "Whose left?" he shouted back. "Their left or mine?"
+
+"*Theirs*, wonder-hands!" roared Brokk from the beach.
+
+"I can lay on a chain." Gaius was already bent to the bolt-thrower. "I can't lay on a link I can't see!"
+
+Marcus turned round in the surf.
+
+Sylara stood behind him at the water's edge. He had not heard a step. She had her bow in her fist and her hood thrown back, and she had already tied a strip of white linen behind the head of an arrow. She was looking past him, north along the beach, to where the land wall ran down to meet the sea wall and an old tower rose out of the angle between them.
+
+"Sylara—"
+
+"You know I've already started climbing," she said, and went.
+
+She ran north along the foot of the dunes with her braid flying. The choir-tower was older than the walls that had been built up against it: a square grey tower going up in stages, with long arched windows in its top stage where some choir had once sung the hours out over the sea. Its stones were rough, and black with weed to the height of a man.
+
+Rufo watched her go. His hand rose to the plait above his ear, and dropped again to his sword.
+
+The Giants came down onto the beach.
+
+The first of them swung its arm, not hurrying, and a file of the cohort was swept off its feet and lay where it fell. The chain swung between them, and where it fell on the wall the shields went flat. Valeria's voice rose over all of it, "*Open! Let them by!*", and the cohort, which had held against the orcs at the water's edge, broke into its files and opened like a gate, and the Giants walked down through the gap with the chain swinging between them and the men in red running behind. They were walking toward the boats.
+
+Sylara was on the tower. Marcus could see her on its seaward face, out of sight of the wall-walk, going up the black stones from crevice to crevice, out of the weed onto the clean stone above it, to the sill of the first window and on, without once stopping to look down.
+
+She reached the top stage and swung herself in over the sill of the long window, and for a breath she was gone. Then she stood in the window's arch high over the beach, dark against the morning that showed through the tower behind her, and drew.
+
+He saw the white rag go.
+
+It dropped in a long fall into the chain, between the middle Giant and the next, and stuck there; and the rag hung from the iron, white on black, where Brokk had said.
+
+"*There!*" Marcus roared it over his shoulder at the sea, and did not need to. Out in the wash behind him the bolt-thrower slammed.
+
+The bolt went over his head with a sound like canvas tearing.
+
+The chain rang once, short and flat. The middle Giant's head jerked round at the noise, and the link with the white rag on it opened and dropped in two pieces on the sand.
+
+Then the marks went out.
+
+They went out from the broken link both ways, link by link and collar by collar, the length of the chain, until the iron was only iron and the stone at the middle one's throat was a dull dark pebble in a black collar. The men in red stopped running.
+
+The Giants stood still.
+
+The middle one lifted its hands to its throat. It took the collar in its fingers and pulled, and the iron opened at the hinge with a crack like a tree splitting in frost, and it stood holding the open collar in its two hands and looking down at it.
+
+Then its head came round, slowly, and it looked at the men in red.
+
+They ran. It took two strides after them up the slope, and bent, and took the broken end of the chain off the sand. It swung it once, low, along the crest of the dunes, where the men in red had run to and the orcs had drawn up again; and when the chain came round, there was nobody standing on that part of the crest at all.
+
+It dropped the chain.
+
+All of them turned then, and came down the beach toward the sea, and the cohort stood aside. They walked down through the cohort carefully, as a shepherd walks through his ewes at lambing, putting their feet where nobody was, and nobody struck at them. They walked past the boats and into the surf, and the sea climbed their legs, and their waists, and their chests. Thalassa was in the water by the liburna's bow. She turned on her back as the first of them waded by her, and let it go past, close enough to touch, and did not touch it. The sea came up to their shoulders and their necks, and then there were only the heads, going away from the land in a line, and then a wave ran in over the last head, and there was only the wave.
+
+Up on the slope a voice roared with delight.
+
+"*They promised us,*" bellowed the big one, "*an army worth the morning! Ask for Ghash at the gate!*"
+
+He was still laughing as he went back over the crest.
+
+---
+
+The cohort went over the crest in a slide of loose sand, and the dunes took them in.
+
+Inland they ran in long ridges, one behind another, steep and dark, with the grey grass along their tops and deep hollows between, where the wind did not reach and the sand lay cold under its crust. Valeria led them north and east along the bottoms of the hollows toward where the gate must be, out of the wall's sight. The battery felt for them all the same. Its stones flew over high from the corner of the walls and dropped into the hollows ahead and behind with a thud that Marcus felt in his shins, and threw up sand, and once a man. His thighs burned from the climbing. The sweat ran cold down his back under the mail, and the salt had dried white on his boots. Along the dune-tops on the left the hundred kept pace in their grey, low and quick, and Sylara was among them, down off her tower, with her braid over her shoulder.
+
+In the hollows the sweet smell was stronger. It lay along the bottoms where the air was still, as water lies in a ditch, and the men breathed through their teeth and spoke of anything else.
+
+At the fourth ridge Valeria put up her hand. Beyond it the ground ran up bare to the last of the dunes, and the battery had been throwing into that slope since first light; it was pocked from end to end like a field after hail. The cohort and the Lanciarii lay down on their bellies under the ridge's lip with their shields over their backs, and waited for the next stone.
+
+Marcus lay with his cheek on his arm. The sand was coarse and black, and smelled of the sea, and of the other thing. Its cold came through his sleeve. A stone went over, and another, and somewhere ahead the crossbows on the land wall were talking.
+
+Behind him Dento took the twig out of his mouth.
+
+"Highness," he said, low.
+
+Two hollows back, in the bottom of one they had crossed, the sand was going down. It sank slowly along a trough as long as a ship, as the sand sinks in the top of Nerva's glass, and the grey grass on its edges leaned in after it. Then something pushed up through it.
+
+It was a hand. A sleeve that had been blue. A helmet. Along the whole length of the trough a row of them was standing up, and behind that row the sand had begun to sink again. Beyond it, in the next hollow toward the beach, the grass was leaning in.
+
+*Mind the dunes. The ground there is already full.*
+
+Valeria looked at Marcus once.
+
+"Go," she said. "I'll keep the ridge."
+
+"Rufo. Your file."
+
+They ran back down into the hollow and over the ridge behind it, with the sand giving under every stride, Rufo's file and Marcus, and Alana and Rusca behind them, Rusca with her ledger under one arm and her borrowed cloak bunched in her other fist to keep it from under her feet. On the slope above the pit Rufo's file locked shields, and Marcus stood behind them, and looked down.
+
+The first row was out of the pit and on the slope. The second was rising behind it. They were near enough now to see.
+
+Their mail had rusted red at every rivet. The blue of their cloaks had gone black and stiff, the sea's work and then the sand's, and it cracked when they moved. Their faces were the grey of men the sea has had. Dry weed hung from the cheek-pieces of their helmets. They carried their swords low at their sides, as soldiers carry them on a march, and on their arms they had the long curved shields of the old pattern, with the paint gone from them except on the bosses. On every boss there was the crowned dolphin.
+
+The old scar along Marcus's jaw pulled.
+
+*The last army through here is still through here.*
+
+His father had sent one army to Corvus, in the winter Corvus fell. It had marched down to the ships with its drums, past the foot of the Fishmarket Steps, and Marcus had heard it go by from a bench outside a wine-shop on the steps, with a cup in his hand, and had not got up to see. It took the long way, by Bastion and the coast, because the short way was the Spire's. It never reached Corvus. Before the spring the crown had entered it lost, and he had not asked where.
+
+The sea had brought them here. The same pull that carried his boats in this morning had carried them in, a man at a time, onto this beach; and somebody had been waiting on the sand with spades, and a clerk to enter them.
+
+One of them, in the second row, still had a drum on his back. Its head was split.
+
+On the crest across the pit stood a man in the Survey's black, with a frame of beads held against his chest. His voice carried over the hollow, small and even.
+
+"*Strand. Row one,*" he said, and a name Marcus did not catch, and a figure. A bead clicked along its wire, and the first row took a step up the slope toward Rufo's shields.
+
+Rufo set his feet. "Highness?"
+
+"Hold."
+
+Rusca had stopped at Marcus's shoulder. She stood listening with her head tipped, as he had seen her listen across a table to a sum being added wrong.
+
+"*Strand. Row one,*" said the man on the crest, and the name, and a figure.
+
+"*Strand. Row one,*" said Rusca, with him, and the name, and a figure of her own, in his voice to the breath, as if the two of them had learned it at the same desk.
+
+The row stopped.
+
+Every man of it stopped in the middle of his step, one foot on the slope and one behind. The sand went on running out of its mail and its sleeves, and nothing else about it moved.
+
+The man on the crest bent his head over his frame and counted again, louder. Rusca counted with him. The row stood. He began on the second row, and she began with him, figure for figure, without raising her voice, and the second row stood still in the pit with the sand to its knees. Then he stopped counting.
+
+He lifted his head and looked for her.
+
+His eyes went along Rufo's shields and past them, and picked her out: a woman in a borrowed cohort cloak with a ledger under her arm, counting in his own form across the sand. He stood so through one breath, and another.
+
+"He's looking for you," said Marcus.
+
+"He'll not have seen one before."
+
+"One what?"
+
+"A turned one."
+
+The man on the crest put his frame under his arm and walked away along the ridge toward the wall. Nobody shot at him; the hundred had their bows on the wall-walk.
+
+Bells.
+
+The White came over the first dune from the beach at a run, with their bells going. They had been at the aid station. They went down out of his sight into the first pit in a long white line, with their spears levelled and the sun on their shields.
+
+Cassandra did not go down with them. She came over the ridge between the pits and round the head of the second, to Marcus, with her shield on her arm and sand to the knees of her mail, and looked down at the two rows standing in the pit, and at Rusca. Her teeth clicked, once.
+
+"The dead are *mine*," she said. "The gate is *yours*."
+
+At the toll-house she had said it across the map, to his plan. This morning nobody had sent for her.
+
+She turned and ran back the way she had come, after her sisters, and her bell rang with her the whole way. Before long the smoke rose black over the ridge from the first pit, and the smell of the oil with it, and then the other smell.
+
+Rusca had not moved. She stood at the top of the slope with her ledger shut against her chest, and below her in the pit the drummer stood in the middle of his step with the split drum on his back, and the sand still running out of his sleeves.
+
+---
+
+Kaeso reached him there, running up out of the hollow with his drum bumping on his back.
+
+"Highness." He was too blown for a moment to say more. "The station. The White's gone off it, and she's shooting into it. The one on the wall."
+
+*The gate is yours.*
+
+Marcus looked at Rufo, and Rufo was already moving.
+
+They went back toward the beach at a run, upwind of the first pit's smoke, and from the top of the first dune Marcus could see down into its lee.
+
+The aid station lay below him at the north end of the beach, close under the corner of the walls: a hollow of trodden sand where the wounded lay in rows on cloaks and hides, with a driftwood fire and a kettle on it, and Liora's bag open on a shield. The battery's stones flew over it high, to fall on the beach beyond. It was too close under the wall for them. It was not too close for arrows.
+
+One dropped into it as he watched, quick and pale, out of the sky from the wall, and stood quivering in the sand between two of the wounded. Then another. Where each one struck, the sand round it turned grey as ash, and the grey spread a little way out from the shaft, and stopped.
+
+The arrows were bone, white, shaft and head and all.
+
+One cloak in the hollow was grey. The rest of the White were in the pit behind him.
+
+Marcus took the dune's face in a long slide, and Rufo's file was locking shields along the north side of the hollow, between the wounded and the wall, before he had his feet under him again.
+
+Domitia stood at the open end of the hollow with a cohort shield on her arm and her steel cap on and the grey cloak over her mail, facing the wall. There was no flask at her hip. She did not turn to the smoke. Two bearers hurried past her with a lanciarius between them and set him down on a grey place, and she tapped the nearer bearer's shoulder twice with a finger.
+
+"Off the grey," she said.
+
+The nearer bearer's grip was going. Marcus took the man's feet from him, and they carried him clear and set him down in the lee of Rufo's shields.
+
+The hollow smelled of blood and vinegar and wood-smoke, and of the first pit's oil blowing over the dune, and of the cold that rose off the grey sand, which had no smell and which he smelled all the same. Hostus knelt over a man's leg with his saw. He looked up at Marcus once, and rubbed the back of his neck with his clean hand, and bent to the leg again.
+
+Marcus looked up at the wall over the shield-rims.
+
+She stood on the wall-walk at the corner, a little along from the battery, between two merlons, in the open. Her hair was red, the red of a fox's back on snow, and her skin was white against the grey stone. She wore dark leather laced close, cut away at the drawing arm and in other places that had nothing to do with drawing, so that one shoulder and the long white flank under her arm were bare to the wind off the sea. She did not seem to feel it. Her bow was bone too.
+
+Her eyes came down the hollow and rested on him a moment, on the blue cloak. Nothing came back to him out of them. Then they went on past him, looking for something else, and he looked away.
+
+She drew and loosed, and was drawing again before the shaft had landed, and loosed, with no rest between. Up on the dune's crest behind the station a score of the hundred were shooting at her, and their shafts broke on the merlons round her or flew over. She did not answer them. Her arrows dropped into the station, and into the station, and nowhere else.
+
+*The healers first.*
+
+Liora was on her knees in the middle of the hollow, with her sleeves pushed up past the elbow and blood to the wrists, over a man of the cohort whose face Marcus knew and whose name he could not, at that moment, bring to mind. Her hair was tied back with a strip torn from somebody's shirt. She did not look up at the wall.
+
+Eolan came down the face of the dune with Yrrin over his shoulders.
+
+He laid him on clean sand at Liora's side as if he might spill. Yrrin had a crossbow bolt through him below the left collarbone, standing out of his back as long as a finger, and his bow was still in his fist. Eolan straightened, and looked at him once, and climbed the dune again; at its top he drew an arrow's fletching across his lower lip, and nocked it, and shot at the wall.
+
+A sister of the White ran down the dune behind him with soot on the hem of her white cloak and her spear in her hand. At the foot of the slope she stopped and rang the bell at her spear's socket once with her nail. Then she drove the spear's butt into the sand and knelt at Yrrin's head.
+
+Yrrin was trying to get up.
+
+She put her two hands on his shoulders. They were long hands, freckled, and one had the oil's old burn across the back of it.
+
+"Not this morning," said Junia.
+
+He lay back.
+
+Liora finished with the cohort man and turned on her knees to Yrrin, and took his wrist, and looked at the bolt. Yrrin's fingertip ran down the notch in his bow-grip. He looked at her hands.
+
+"Aeridor's," he said.
+
+"Aeridor's," said Liora, and took hold of the bolt.
+
+On the wall the woman with the red hair turned her bow from the hollow's far end toward its middle.
+
+Rufo left his place in the shields and stepped in front of Liora with his own shield up, between her and the wall, and stood there.
+
+Liora did not look up. "Rufo. You're in my light."
+
+"Tactical," said Rufo. "Stand behind the ugly thing, that's doctrine."
+
+The corner of her mouth went in. She took Yrrin under the arms, and Junia took him by the shoulders, and between them they dragged him his own length sideways through the sand, into the shadow of Rufo's shield.
+
+The first arrow hit the shield so hard that the rim knocked back against Rufo's helmet. The second was in it beside the first before he had his balance again. The third struck where Liora had been kneeling, and the sand there turned grey. The fourth went under the rim and through the calf of his leg.
+
+Rufo told the woman on the wall what he thought of her mother, and did not move his feet.
+
+Then there was a lull. The battery was between throws. The hundred on the crest were nocking. Somewhere down the beach a man was calling for water, and stopped. In the quiet a voice came down off the wall, a woman's voice, low, and she spoke as if to someone standing beside her on the wall-walk. There was nobody beside her.
+
+"…Healer moved. Inconvenient."
+
+Liora drew the bolt.
+
+Yrrin arched up off the ground, and Junia leaned her weight on his shoulders and held him down. A faint red-gold light ran along the rims of Liora's fingers where they lay on him, and stayed there while the arrows thudded round them into the shield and the sand, and then it went out. Yrrin lay still, breathing.
+
+Junia did not take her hands from his shoulders.
+
+Liora rocked back on her heels. Her face had gone white to the lips. She put her hands into her armpits, as the fishwives on the Steps did in a frost, and took them out again. Hostus put a heel of sausage into one of them without being asked, and she ate it in three bites, looking at Rufo's leg.
+
+"Sit down," she said.
+
+"I'm busy."
+
+"You're bleeding into my bag."
+
+Rufo sat. She broke off the shaft behind the head and drew it out of him, and where it fell the sand went grey; and the light came and went along her fingers, and Rufo watched the stones go over.
+
+At the open end of the hollow Domitia stood with her shield toward the wall and her back to the smoke of the pits, where she had stood all morning.
+
+---
+
+Faelar heard them first.
+
+He stood on the dune's crest above the station with an arrow on the string, and he had stopped drawing. His head was turned to the west, to the sea, and his ears moved.
+
+Marcus turned and looked where he was looking. The Grey lay along the sea's edge in the west as it had lain all morning, low and white, with the sun on it. Over it, high up, there were specks.
+
+He took them for gulls, near and small. Then he saw that they were neither. They were far off and they were great, and they were coming in a long loose skein out of the white with the sun under their wings, and they grew as they came, and kept growing after he had thought they must stop.
+
+He heard them before they were over the surf: a long beating, out of time with itself, like a squall crossing the water toward them on a morning with no wind.
+
+There were dozens of them, long in the neck and long in the tail, in all the colours of a mountain's side. Every one of them had eaten. He could see it in the way they flew, heavy and unhurried, as geese fly in over a stubble field. At their head, lower than the rest, flew one twice the size of any of them, with the lichen grey-green along its back. As it banked over the surf Marcus saw the crooked spar in its left wing, one long finger-bone knit out of true where it had been broken long ago, so that the skin beside it lay a little slack.
+
+He had asked it to come.
+
+On the crest the hundred had lowered their bows.
+
+The flock crossed the beach so low that the liburna's mast swayed in the wind of them, and their shadows raced up the sand and over the dunes and the station, and the wounded who could move pulled their cloaks over their heads. At the south end of the beach the halls stood still at their ropes.
+
+Then the eldest went for the battery.
+
+It swung round over the sea in a wide circle, and banked left, and came in from the water low over the wash, so low that the surf flattened under the wind of it. At the foot of the wall it lifted. As it lifted it opened its mouth.
+
+Fire poured out of it onto the battery, and lay there.
+
+It did not go out. It lay on the stone where the eldest had laid it and burned on nothing, white at its heart and yellow at its edges, along the platform and over the catapults' frames and the bolt-throwers and the men; and it was still burning when the eldest had passed over and away. The heat of it reached the station. Marcus felt it on his cheek, as the face feels a forge door opened across a yard, and the smell rolled after it: pitch and hot stone and burning hair. A catapult's arm burned through and fell. A bolt-thrower's skeins parted with a crack like a whip. Men ran off the platform burning, and some of them ran off the wall.
+
+Behind the eldest the flock went along the sea wall and the land wall in a long string, and wherever one of them breathed, the wall-walk emptied.
+
+The woman with the red hair had not stayed for the fire. She had walked along the wall-walk away from it to where the wall met the choir-tower, and she stood there with her bow in her hand, watching the eldest.
+
+It went round over the sea again, and banked left. It went round again. She watched it round, and nocked, and did not draw. For once that morning she was taking her time.
+
+The third time it banked she drew and loosed, not at the eldest but at the empty air to the left of it, where it had not yet come; and it turned into her arrow.
+
+The shaft took it in the left wing.
+
+The eldest made a sound that Marcus felt in his chest. The wing folded wrong. It came down out of the turn sideways, gathering speed, over the station and the first dune, with the good wing beating and the other trailing, and struck the dunes beyond the first pit, and slid, throwing the sand up ahead of it in a long wave, and lay still.
+
+Marcus was already running.
+
+He ran up the face of the first dune, and at its top he looked back once at the wall. The angle by the choir-tower was empty, and the door from the wall-walk into the tower stood open on the dark. He went on over the dune, past the first pit, where the White stood in the smoke with their spears in their hands, looking. The eldest lay along the ridge above the second pit, on its side, with its good wing folded and the broken one spread out over the sand, and the bone arrow standing in the crooked spar. Round the arrow the skin of the wing had gone grey. Below it in the pit the rows stood where Rusca had left them, and did not look up.
+
+Its sides heaved, slow and deep, and its breath went in and out with a rasp like a saw in green wood. It smelled of its mountain: hot stone, the vents' bad eggs, and meat.
+
+It turned its head on the sand and looked at him with one yellow eye that did not blink.
+
+"You told the sea-people," it said. "I came."
+
+"You did," said Marcus.
+
+It moved the broken wing a little on the sand, and looked along it at the shaft in the old break, and back at him.
+
+"Your war has disturbed me *again*, little soldier."
+
+"I've a healer."
+
+"Keep her for your own." It laid its head down on the sand. "I have mended before."
+
+---
+
+The battery was still burning when the army came up out of the dunes.
+
+With the stones stopped, the bare slope before the last dune was only a slope, and Valeria brought them up it at a walk, the cohort and the Lanciarii and the halls together, with the hundred along the ridges on either hand. Rufo limped a little in the front rank and would not be put anywhere else. Behind them the halls hauled the catapults up through the sand on their rollers, and Kolbrand walked beside the first of them with *Balance* on his shoulder. Gaius walked with him with his rule in his hand. As they passed the eldest on its ridge his eyebrows went up, and stayed there.
+
+Rusca came up the slope beside Alana with her ledger under her arm, and the sand on the hem of the borrowed cloak.
+
+At the crest of the last dune Valeria drove the Farrier's butt into the sand and let go of it, to shade her eyes. Her right thumb went looking along her palm for the haft, and did not find it, and she took the spear up again.
+
+Below them stood the gate.
+
+It was set in the land wall a long bowshot off, an arch of black stone between two square towers, with its leaves shut. Before it the orcs had drawn up again in their colours, and Ghash stood in front of them with his axe on his shoulder, waiting, as a man waits at a crossroads for a friend who is late.
+
+Above the wall the lower city climbed its hill roof over roof toward the Spire, and among the roofs stood the bell-towers, square and grey, with an arch at the top of every one and a bell in every arch. From one of them a thread of smoke still rose where the fire had burned in the night. Nothing else moved on the hill.
+
+Marcus stood with the sun on the back of his neck and the salt stiff in his hair, and looked at them.
+
+Behind him on the dunes the White were coming up from the pits, and their small bells rang at every step they took. Over the gate, in the towers of Corvus, the great bells hung in their arches as they had hung since the city fell, every one of them still.

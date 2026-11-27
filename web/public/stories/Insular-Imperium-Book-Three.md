@@ -10209,6 +10209,106 @@ Ear and the cousins had lifted it onto two trestles for him at the foot of the c
 
 He thought about the hinge while he sawed. The strap would want shortening for a table, and a pin making for its eye, and the pin letting into a block, and the block into the other half; and the legs would want to fold under on something, and he had not yet thought what. He liked that.
 
+---
+
+**MARCUS**
+
+The walk was sound. He had asked.
+
+It ran east from the gate along the top of the curtain, wide enough for two, and at its end, over the postern, it stopped against the sky and the wall went down under it into the quarry-cut. He had walked her out along it in the last of the light. Behind them the sun had gone into the marsh. The frost was coming down again out of a sky with nothing in it, and it settled along the coping, fine and white, so that his sleeve left its print there, and the cold came through the wool to the elbow. It had got into his shoulder too, where the lever had been that morning. Somewhere below the wall a saw was going through old wood in long strokes, without any hurry, and the smell of the cut came up to them, faint, through the cold.
+
+Alana stood at the parapet with her shoulder against his arm, and looked east. There was nothing to see that way but the cut going up black into the dark, and the night coming on behind it. Corvus lay out beyond that, past the Shattered Coast, a long way past seeing. She looked at it anyway.
+
+"Whatever Corvus is for," she said, "it's nearly *finished*."
+
+He did not answer her.
+
+Her right hand lay on the coping, wound in Rusca's linen, with the little red lamp in its corner turned up to the sky. The frost was settling on the linen too. The ink was on her other hand now, all down the outside of the smallest finger, where a hand drags on the page. Since the keep she had written everything with the wrong one, badly, and not once complained of it.
+
+*Six,* she had said, from the floor of the room under the keep, with her teeth going and Rusca getting it down in the weather-book. Not as a woman says a thing that frightens her. As she said a figure she meant to copy fair.
+
+Six anchors in the Spire, one to a chamber going up, and all of them in one night or none. He had held the lamp while she closed her raw hand on the one under the keep. He had leaned back from the heat of it. She had not. He had smelled it: hot bronze, and horn, and under them the smell of a pyre, coming off her.
+
+Afterwards she had sat down hard on the rock with the hand held up by its wrist, and shaken. He had put his cloak round her and held it shut in front of her, and that was all the use he had been. *Is it out?* she had said. *I couldn't look.* It was Rusca who told her.
+
+She had not done it for Corvus. She had done it for a promise of his, made in the heart-grove at Silverwood to a thing with Tiberius's face, that ended *however I have to*. However he had to had turned out to be her hand.
+
+On the Kettle Bank she had knotted a rag round that hand with her teeth. Under the keep she had pulled the bandage off it with them.
+
+He had never once asked her not to. At the chapel at Cyrene, in the first week, he had let her go up a scalding drain to a man with a chisel, because she was the only one of them who knew what that man knew; and he had looked at her and not said it, and she had held the look a moment longer than she needed to. He had been letting her go where he could not follow ever since, and she had been coming back with her hand burned.
+
+She had saved him the first time without lifting a hand. On the night of the feast she had come to him in the Lesser Hall, and told him he had blood on his chin, and that she would like a good seat. He had not had a drink since that night. On the *Clemency* he had given himself a dozen reasons why, and they were all true; but on the worst night, with the bells ringing that were not there, the one that held had been that she would see.
+
+Then the Kettle Bank. When the drowned of Cyrene came in over the rail she had lit the sea round his ship, and in the grey light after she had come to him at the mast with oil in her hair and her robe burned to the knee, and held out the back of her book to him for his dead, because he would not remember them otherwise. On the dune she had kissed him, and stopped him, and wanted a door. At the Teeth she had left the skin of both palms on the lid of a lead box, two dark hands with the fingers spread, and he had looked at her face and not at her hands, so that she would not see him look. When at last he told her he loved her, she had said it back the way a helmsman says back a bearing, so that there could be no mistake on the night.
+
+Here, in the spring, her hand had been open over the causeway before he finished the word, and she had held the causeway open with it until the arm would not lift. She had come down the southern road in the back of a wagon with it lying in her lap like a thing that was not hers, and when he went to her she had opened her eyes and told him to go to the tail. This time she had laid it on every stone that went at the bank, until the last of them took the skin.
+
+Without her he would be dead on the Kettle Bank, with the drowned in over the rail.
+
+Without her he would be the prince who lost a cohort in a gate, and they would sing it on the quays, and for once the song would be right.
+
+Without her he would be in the Drowned Lantern with his boots on the table and his chair tipped back against the wall, holding very still so that the world would hold still with him.
+
+He tried to think of after: Corvus done, and the Spire down, and home. He had been making up a kingdom aloud since Stoneheart, a piece at a time, in the dark of whatever room they had, and she had been writing it down. A granary on every island, which they were still quarrelling about. A school, which they had never quarrelled about, except as to whether it came before the granaries. The academy's doors in the halls' bronze, to be collected. He could see every piece of it, but only as she would write it, a line at a time down the new column in her neat small hand. He tried it without her, once, as a man tries the ice on a ditch with one boot. There was nothing under it at all.
+
+Straight below them was the postern, with its door off since the afternoon. Three nights ago Drusilla had ridden out at it with her headless lance up and her hair down her back. Before she went she had sat her dead horse in the court of the keep, in the moonlight, with the frost on her bare arms, and asked Tiberius to come back to her; and Tiberius had put his hands behind him and looked at the wall. They had been given leave to marry, once, and Marcus had stood on a bench in the mess and given them their toast. *The spring.*
+
+They had left it for after. He had seen what after was. It was a court full of frost, and a woman who could not feel it, and a man who would not look at her.
+
+*You'll know when,* she had told him at Cyrene, with her hand flat on his chest over his papers. *I promise you'll know when.*
+
+He knew.
+
+He was not going to carry it to Corvus unasked. He wanted it known. He wanted the cohort to have it by breakfast and the halls by noon, and the quays to make a song of it by the next packet and get it wrong, and his father to have it in a letter in his own bad hand, and Fingers to pay out on whatever book he was keeping. But he wanted her to have it first, up here, with nobody laughing.
+
+He had a speech for it. He had been making it all day, at the lever with the rust coming down on him and along the towpath after, and it was a good speech. It said what she had done for him, and what he owed her, and what he would be if she had not; and every word of it was for him. It would have put the whole of that down on her to carry, so that he could stand up straighter without it. She had carried enough of his.
+
+At the fish-bell, with his father's window lit on the hill above them, he had told her. *Marry me*, as he had once said *Forward* to a ship's company. She had been right to put it off.
+
+Below the wall the saw had stopped. He turned his head. There was frost in the loose hair at the nape of her neck, under the pins, and her breath went up white beside his, and she was still looking at Corvus.
+
+"Will you marry me?" he said.
+
+---
+
+**ALANA**
+
+"Will you marry me?"
+
+She had the answer before he had come to the end of it. It had been waiting a long time.
+
+She kept it a moment all the same, as yesterday she had kept each of Gaius's figures on her lips before she let the chalk have it. She wanted the question by itself first, before anything came after it. It was a question. At the fish-bell it had not been.
+
+And he had made no speech. He had been quiet all the way out from the gate, with the look her students used to wear on the stair before a disputation, saying it over; and at the end of the wall he had not said it at all. He had asked.
+
+She did not look round at him yet. The frost had got through Rusca's linen, and she could feel the cold of the stone all along the raw place in her palm, and she left the hand where it was. She had not wondered, when he walked her out along the wall, why it should be this end and no other. She understood it now. There was no window lit over them, and no play, and nobody up here for him to have said it to but her.
+
+She had been fifteen, in a garden on the Old Hill, when a prince laughed at something she said and looked at her properly, for as long as it takes to look; and she had gone home and made fourteen lines of it in the high meter, and copied them out three times for the hand. She remembered the high table drawing its breath before it laughed. She remembered that he had done her voice well. She remembered a gown that had cost a year in a stocking under her mattress, and the dressmaker in the Silk Row who had looked at her coin and then at her and said *Violet, I think, for you*; and the length of the Lesser Hall, and his eyes going through her to the herald's daughter; and the length of it back, at an ordinary pace. By then she had built him a house on the cliffs at Corvus, with a library on the ground floor and the sea on three sides, and him reading at the window, and children with ink on their hands. She had chosen the curtains. She put one stroke through all of it, as through a line that would not scan.
+
+Then she had built another, at home, with no prince in it. The academy made her the youngest chair it had ever seated, and gave her a lecture-room over the sea, and students who argued with her and were right often enough to be worth the trouble. On the first day of autumn the town brought its children up to stand in the great ring under the chairs and look up, and every year she had watched their faces while they did it. It had been enough. She had made it be enough, with both hands. One night the sky over Corvus went the colour of a forge, and she was in a fishing boat with the fishermen cursing at the oars and the sea round it full of pages, and everyone she had taught was dead, and some of them more than once. Lucan had struck that one through for her, and out of the hole where the library had been he had grown his Spire. She had come aboard the *Clemency* with a great deal of lamp oil and nothing left she would be sorry to leave, for a good seat.
+
+The first one had been coming back for a year, a piece at a time, and she had not let it. Last Midwinter he had walked the length of the Lesser Hall to the lowest table, past every daughter on the benches, and given her his wrist for the dance in front of all of them; and she had let herself have that, for the length of the slowest dance the court had, and at the end of it had left the yard of floor between them as the court keeps it. In the spring, at sea, with his voice making the kingdom in the dark and her pen going after it down the new column, the pen had written *The queen's garden* on its own, and she had put one stroke through that too, and been glad nobody saw.
+
+And here it was anyway, the girl's, come round the long way. Not fourteen lines read out to a table in her voice. Four words, asked by the man himself in his own, on the Survey's wall, with the frost on his shoulders and the smell of the rust still on him. Tonight she had walked the whole length of the wall beside him, at an ordinary pace, and had not counted one step.
+
+She wanted it.
+
+She had known that since she was fifteen. She had not known how much until it was asked. The size of it frightened her, which the dead had never managed. There was something now that she would be sorry to leave.
+
+She wanted it more than the chair. More than the library back, every card in its drawer. She wanted the quarrel about granaries to go on for the rest of her life. She wanted to correct his grammar. She went looking for something else to want, out of habit, as she went down a column a second time for the figure she might have missed, and there was nothing else there.
+
+She had said *Corvus* to him a moment ago. For as long as a breath takes, she had forgotten Corvus.
+
+The last line in the new column, the one she had shown nobody, was the girl's house again, in plainer words.
+
+She turned her head from the dark and looked at him. There was nothing to count. There was one word.
+
+"Yes," said Alana.
+
+---
+
+**GAIUS**
+
 "Whatever Corvus is for, it's nearly *finished*."
 
 It was Alana's voice, and it carried down off the walk clear in the still air. He looked up. She and Marcus stood on the walk above the postern, against the sky, at the parapet, looking east.

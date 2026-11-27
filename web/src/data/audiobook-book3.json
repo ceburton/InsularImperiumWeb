@@ -276,10 +276,10 @@
       "track": 17,
       "slug": "ch17-excellent-hinges",
       "title": "Chapter Seventeen: Excellent Hinges",
-      "duration": 2686,
-      "bytes": 21576686,
-      "sha256": "bb82cf70d9bb2599b6de7d7b57d2be0a8285bab5abd0805f94a4c31349221fbe",
-      "url": "https://audio.insularimperium.com/book3/v/bb82cf70/ch17-excellent-hinges.mp3",
+      "duration": 3459,
+      "bytes": 27762926,
+      "sha256": "04452802c05a7405d7630daa904e296d17f514033bb09e4ab828787476bf7703",
+      "url": "https://audio.insularimperium.com/book3/v/04452802/ch17-excellent-hinges.mp3",
       "firstPublished": "2026-11-23",
       "pov": [
         [
@@ -288,6 +288,18 @@
         ],
         [
           564.7,
+          "Gaius"
+        ],
+        [
+          2564.3,
+          "Marcus"
+        ],
+        [
+          3039.2,
+          "Alana"
+        ],
+        [
+          3332.9,
           "Gaius"
         ]
       ]

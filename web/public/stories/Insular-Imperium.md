@@ -2284,7 +2284,7 @@ Marcus did not move.
 
 "The stair," he said at last. Alana knew the word and not what was under it. She saw Roderic flinch. "The last time I wasn't where my men could see me, they were on a stair." He let out a long breath. "All right. All right, optio. The gate."
 
-Then he looked at Alana, and she saw that he was afraid, and that he was not going to say so.
+Then he looked at Alana, and she saw that he was worried for her. Not for the gate, or the cohort, or the town: for her, going down a hole in the ground where he could not follow. He was not going to say so. She found that she did not need him to. She held his look a moment longer than she had meant to, and was glad of it, and did not stop to ask herself why.
 
 "Iason," he said, without turning his head. "You know the yards."
 

@@ -29,6 +29,7 @@
 23. [Chapter Twenty-Three: The Toll](#chapter-twenty-three-the-toll)
 24. [Chapter Twenty-Four: Lessa](#chapter-twenty-four-lessa)
 25. [Chapter Twenty-Five: The Beach](#chapter-twenty-five-the-beach)
+26. [Chapter Twenty-Six: The Bells](#chapter-twenty-six-the-bells)
 
 ---
 
@@ -14668,3 +14669,513 @@ Above the wall the lower city climbed its hill roof over roof toward the Spire, 
 Marcus stood with the sun on the back of his neck and the salt stiff in his hair, and looked at them.
 
 Behind him on the dunes the White were coming up from the pits, and their small bells rang at every step they took. Over the gate, in the towers of Corvus, the great bells hung in their arches as they had hung since the city fell, every one of them still.
+
+---
+
+# Chapter Twenty-Six: The Bells
+
+**ALANA**
+
+At noon the halls laid the first catapult on the gate of Corvus.
+
+They had hauled both catapults up the last dune through the morning on their rollers, with the sand pouring away from under them at every heave. Now the pair stood on the crest a long bowshot above the gate, their arms wound down to the stops and a stone in each sling. Brokk walked between them with his hands hooked in his belt. Gaius stood by the first with his rule held out at arm's reach and one eye shut, sighting along it at the gate. He moved it a little, and held it there.
+
+"Write me the falls," he had said, without looking round. So Alana sat on a coil of the halls' rope behind him, with the weather-book open across her knees and the pen ready, and waited for the first.
+
+By noon the wind had come round off the sea. It ran along the land wall from the west and up the slope, bringing the battery with it from the corner where the walls met: pitch, and hot stone, and under them something like a kitchen where the fat has caught. The eldest's fire still lay on the battery's stones, and would not go out. The sun stood over the dunes behind her, and her shadow lay short on the page. There was sand in the gutter of the book. She blew it out, and the wind put it back.
+
+"Loose," said Gaius.
+
+The arm swung up with a crack that she felt through the rope under her. The stone sailed away over the slope, small and black against the town, and hung, and dropped short. It struck the sand in front of the orcs and threw up a fan of it, and rolled, and stopped at the feet of their front rank. The orcs cheered it.
+
+*Short,* she wrote. *Left, a little.*
+
+"Short," said Gaius.
+
+"I can see it's short," said Brokk.
+
+"Up a turn. And bring her right a hand."
+
+The crew put their backs into the windlass, and the arm sank again a click at a time. Alana pushed the hair off her neck where it had slipped out of its pins. It was gritty. She let it be. Her right hand ached in the old burns, as it ached after fire. That morning she had laid a hedge of fire along the tide-line, and the hand had not forgiven her yet. She dipped the pen.
+
+The second stone cleared the gate and the wall over it and fell among the roofs beyond. She saw the dust stand up there before she heard the tiles go. Nobody cheered that one.
+
+*Over. Into the roofs, this side of the first bell-tower.*
+
+"Down a half," said Gaius.
+
+Below them the orcs had not moved for any of it. They stood across the gate's mouth in their colours, with their axes and their great curved blades and their hide shields on hoops. Every time a stone passed over them they turned their heads all together to watch it land, and shouted after it. Ghash stood before them, the axe on his shoulder. Even at a bowshot she could see the brass on his tusks.
+
+The third stone struck the gate.
+
+She saw it go into the leaves before she heard it. The leaves shook, and splinters stood out from them black against the stone of the arch; and then the sound reached her up the slope, flat and late, as a dropped book sounds from the far end of a reading room.
+
+*The gate,* she wrote. *Low, on the left leaf.*
+
+Gaius lowered the rule. His eyebrows rose and settled again, which was all the cheering he did.
+
+"Again," he said. "Same lay."
+
+Rusca stood beside the rope, her ledger under her arm, with sand to the knee on the borrowed cloak. She was watching the orcs.
+
+"They're paid at the quarter," she said. "And late. It's a saving."
+
+"Is that in a return?"
+
+"Everything's in a return."
+
+Below the dune Kaeso's drum began.
+
+It beat up out of the sand at a walk, and the army marched down the slope to it. Alana watched them go, rank under rank, as lines go down a page. The cohort kept the middle in its files with its shields up, and the Lanciarii its left with their lanceae. On its right the halls' shield-men moved under their great round shields, broad and slow and steady, and Kolbrand walked at their front in his steel and gold with his crimson cloak lifting behind him in the wind. In the middle of the cohort's front rank was the blue cloak. On the beach Valeria had hauled him out of the second rank by it, back behind the line, and put another man in his place. At the crest of the last dune he had taken a place in the front rank, and this time she had let him.
+
+Alana watched the blue cloak down the slope until her eyes stung, and then she made herself watch the gate.
+
+Halfway down, a man stepped out of the cohort's front rank and walked on alone ahead of it.
+
+He limped a little, on the leg the archer had put her arrow through that morning. He had the shield on his arm and the sword down by his leg, and he did not hurry. Alana knew the walk before she could see the face. It was Rufo. He walked on until he was nearer the orcs than his own front rank, and stopped in the open with the sun on him, and put his sword up over his head; and the wind brought her one word of what he shouted, small and clear.
+
+"*Ghash!*"
+
+The orcs roared. Ghash stepped out from the front of them, taking his axe down off his shoulder, and their front rank followed him a few paces and stopped. The cohort's front rank marched on to the drum and stopped as well; and between the lines, on the open sand, the two of them met.
+
+She saw little of it. They were small at that distance, and the dust rose round them. The axe rose and fell, and the shield was under it, and afterward the shield was still there. They circled. Once Rufo was down on one knee, and Alana's breath stopped in her; then he was up again. Then the drum changed its beat, and both lines rushed in at each other from either side and closed over the two of them, and she could not see them at all.
+
+"Loose," said Gaius.
+
+The next struck the leaves where the third had. *The gate, the same.*
+
+"Up a half," said Gaius.
+
+The one after took them at the join, high, and something in the gate cracked that was not the stone. She felt it in the rope under her. For a moment the leaves stood as they were. Then they swung in, both of them, slowly, back into the dark of the arch, and the long groan of their hinges reached her after they had stopped.
+
+"That's the bar," said Brokk.
+
+Down at the gate one voice rose over all the noise of the fight, huge, and the orcs heard it. Their line drew back off the cohort's shields along its whole length. It did not break. It gave back a pace at a time with its shields up and its wounded in the middle of it, into the open gate, and the last rank turned under the arch to face the slope and backed in. Ghash stayed in the gate's mouth by himself, facing up the slope, and she heard him laugh over everything: a great bellow of pleasure, as though somebody had given him a present. Then he ducked in under the arch after his orcs, and the gate's mouth was empty.
+
+Out on the sand, where the lines had been, Rufo stood with his sword up over his head and blood running down the arm that held it.
+
+*The bar,* Alana wrote. Her hand was not steady.
+
+Gaius leaned over her shoulder and read the page. "What did I give her for that one?"
+
+"Up a half."
+
+"Put that in."
+
+She wrote it above the line, small: *Up a half.* He read it, and nodded, and walked off along the crest to tell Brokk's crews to unship.
+
+---
+
+The bar lay in the passage in two pieces, each as thick as a man's thigh, with its iron straps burst off it. Alana stepped over it.
+
+The passage was long, and dark after the slope, and cold, and its walls were wet. It stank of the orcs, who had gone through it: grease and smoke and old sweat. Near its inner end two low doors faced each other across it, one in each tower, banded with iron and shut. She looked at them as she passed. Then the passage opened, and there was sun again, and she knew where she was.
+
+It was the lower square. The town had always called the gate behind her the Strand Gate, after the beach. In the years she lived here she had walked out through it on summer evenings with a book, to read in the dunes, and come back in through it with sand in her shoes. The flags were the same, worn into a shallow track from the gate to the avenue. The well stood in the middle under its stone lip with its bucket gone and its chain hanging. On the east side stood the bell-tower with its bell in its arch, and under it the stationer's where she had bought her ink. The stationer's shutter was down. So was every shutter round the square, and on every door somebody had chalked the Survey's tallies, row on row of strokes in fives with the fifth drawn across. The wall's inner face made the square's west side, with a stair at its southern corner climbing to the wall-walk. On the north side the avenue climbed straight out of the square to the top of the hill, a long aisle of shuttered houses, with the Spire over everything.
+
+Valeria was putting them across it.
+
+She did it at a walk, pointing with the Farrier. The cohort took the middle, with its back to the gate's mouth and its face to the avenue, and the Lanciarii its left, and the halls its right, with Kolbrand at the end of their front. At the left end stood Thalassa and two of her kin, with their black tridents grounded and the sea still running out of their hair onto the flags. The hundred climbed the stair at the corner and spread along the wall-walk over the square, where they could see up the avenue. Faelar stopped at the stair's head with his face to the hill, and his ears moved.
+
+Marcus was in the front rank again, in the middle, where the avenue would come at them. Valeria looked at him, and at the man beside him, and walked on along the line without a word.
+
+Alana took her place behind him, in the second rank at his left shoulder. Rusca stood in behind her.
+
+They waited. Somebody behind her was eating something out of his pouch. At the end of the front rank Dento was binding a rag round Rufo's forearm, and Rufo was telling him how to do it. In the middle of the square the well-chain moved in the wind and touched the lip, and touched it again. The avenue was empty to the top.
+
+Then, far up the avenue, a horn.
+
+It was a long way off, at the top of the hill, and it was not loud, and it did not need to be. The fear ran down the avenue ahead of it as a spring tide floods the flats, not up the channel but over everything at once, and into the square, and into her. Her knees were water. Her stomach turned over. Every part of her that had ever run wanted to run now, and said so: back down the passage, over the broken bar, out onto the sand, anywhere at all.
+
+Her lips were moving. She was saying the shelf-marks.
+
+*The east gallery. The poets. The low shelf by the window.* She went along the low shelf from there, a book at a time, as she had when the stacks were new to her, with her finger on their spines, and on to the long drawer under the windows, and her feet stayed where they were.
+
+Along the line men were shifting on theirs. Somebody behind her began the prayer to the Sun and lost it halfway through. At the left end Thalassa had spread her hands at her sides until the webs between her fingers stood taut. Two files along from Alana, in the second rank, Roderic stood on foot with his sword in his fist, and the knuckles of his other hand were beating a count on his thigh, over and over. His face was perfectly calm.
+
+Marcus took a breath. She was near enough to feel him take it.
+
+"*Every people at this gate holds it* as *one people, or loses it as four! One round!*"
+
+On the wall-walk above them the hundred answered him with one note, all together, and held it. It filled the square. While it lasted she could not hear the horn.
+
+Then the horse came down the avenue.
+
+It walked at first, down the middle of the long empty street between the shuttered houses, and the sound of its hooves reached the square ahead of it, bone on stone. It was nothing but its bones. Where it passed out of the shadow of the houses into the sun, the sun shone through its ribs and laid their shadow on the flags under it. The rider sat it tall, with her silver hair loose to her waist and a lance across the saddle-bow. Alana had seen Drusilla before, at Bastion, on the bank above the causeway, from the ground and under the horses. There had been rain then, and a fog off the marsh. Now it was broad day in the lower square of Corvus, and there was nothing to keep her from being seen. The crimson and black plate was strapped on over nothing. Her arms were bare to the shoulder, and so was her side, from the armpit to the hip, where the breastplate had been unlaced and left so; and the skin was the white of a root turned up by a spade.
+
+The lance had no head. Its ash ended at the socket, and the socket was split and empty. *Balance* had taken the head off it at Bastion.
+
+At the top of the square she brought the lance down, and the horse broke into a trot, and then the gallop.
+
+Nobody ran.
+
+Alana did not see it strike. She saw the horse's skull rear over Marcus's shield, so close that she could see a line cut across the bare bone between its eyes, and read it before she could stop herself. It was one word, in the Survey's hand. *Run.* Then the front rank gave a step under the blow, and the second rank gave a step with it, and Alana with the second, her shoulder against a man's mail; and the rear rank set its feet; and the line stopped, and held.
+
+The horse stood in among the front rank's shields with its bones clicking. The lance's ash lay across Marcus's shield. Above it the rider looked along the ash at him, at the blue cloak, and her face was untroubled.
+
+"Give him back," she said.
+
+From behind his left shoulder Alana could see the old scar that ran from behind his ear to his jaw. It pulled tight. He did not answer her.
+
+Tiberius was in the *Answer*'s hold, off the beach, under guard. The rider looked along the front rank, face by face, and over it, at the second, and on past them both, as if somebody might be standing behind the line in the gate's mouth; and nobody was.
+
+Kolbrand walked along the front of the line from the right, in his steel and gold, and as he walked he took *Balance* down off his shoulder into both his hands.
+
+The rider saw it. She backed the horse out of the shields, a step and then another, with its bones clicking on the flags and her eyes on the axe the whole way. At the top of the square she turned it. Then she rode back up the avenue at a walk, with the lance across the saddle-bow again, and did not look round.
+
+The fear left with her. It drained out of the square as it had flooded in, all at once, and Alana's knees began to shake now that they were allowed to. Her lips were still moving. She stopped them.
+
+"Well," said Rufo, at the end of the front rank, with his arm in Dento's rag. "I never got a look at her."
+
+"You had your eyes shut," said Dento.
+
+---
+
+Behind her, in the passage, a bolt shot back.
+
+Alana turned round. She was in the second rank, and the gate's mouth was only a few paces behind it; she could see down the passage to the sunlight on the slope at the far end. The low door in the east tower stood open. Out of the dark inside it a voice spoke in the Survey's form, flat, with no word weighed more than another, and gave a figure; and the dead walked down out of the tower's stair into the passage, a row of them.
+
+Across the passage the west tower's door had opened as well.
+
+They were Corvus's own, the gate's garrison as the Survey had left it: some in Aeridor's old mail, gone brown, and some in the Survey's oilskins over what they had been buried in. Their faces were the grey of tallow, and their eyes stood open and did not blink. They walked along the passage toward the line's back in step, as the count gave them their steps, and the passage was full of the sound of their feet.
+
+"*Rear rank!*" Valeria's voice ran along the line. "*About!*"
+
+Alana was already out of the second rank. She stepped into the gate's mouth with the rod in her hand, and drew her sign on the air before the east tower's door, and felt her eyes go.
+
+The fire went in at the door. It entered low and filled it, and climbed the stair inside, and the row in the doorway stood in it and burned without a sound, and in the dark above them somebody living screamed and ran on up. The fire did not touch him. When she took her hand down the doorway was a hole full of light, and the stair beyond it was empty, and her right hand was shaking from the wrist. She clamped the rod against her side under her arm until the shaking was only in the hand.
+
+The west tower's rows were in the passage. The rear rank had faced about and locked its shields, and the first row of the dead walked into them and stopped against the rims and leaned there, feeling along the edges with their grey fingers for a way through. Behind them a second row followed, and a third. In the west tower's door, on the step, a man in the Survey's black was giving the count, with a slate in the crook of one arm and a stick of chalk in his other hand.
+
+She knew him. She had seen him that morning on the ridge over the second pit, with his frame, before he looked across the pit and picked out Rusca.
+
+High up the hill, a bell rang.
+
+It was so far off that it might have been a bell in a dream, and Alana knew it before she knew she had heard it. It was the catalogue's bell. Four years, as Chair, she had kept her books in the room under its loft, and it had rung the hours over her head until she stopped hearing it, and she would have known it in any city in the isles. It rang again. It rang wildly, with no measure to it, a stroke and then two together and then a gap, as nobody had rung it in all her years under it. Before it had rung three times another bell answered it, lower down the hill, and then another lower than that.
+
+The towers took it up one after another down the hill, each nearer than the last and each louder, every one of them rung by somebody who did not know how, until the whole hill was ringing and the ringing was rolling down the avenue toward the gate as the horn had.
+
+The count in the west tower's door had stopped.
+
+The quaestor on the step was looking up the hill, past the line, up the avenue, with his chalk still raised. In the passage the rows stood where his last figure had left them, every man caught mid-step, one foot down and the heel of the other off the flags. In the corners of the passage two more of the Survey's clerks stood with their slates. They were looking up the hill as well, and their counts had stopped with his.
+
+Then he looked down the passage, over the heads of the stood dead, at Rusca.
+
+Rusca had not moved from behind the rear rank. She stood with her ledger under her arm in the borrowed cloak, looking back at him, and her face showed nothing at all.
+
+He stooped. He laid the stick of chalk on the step in front of him, along the joint between two stones, and took his fingers off it one at a time, as a reader leaves her book on the desk at the closing bell for the keeper to put away. Then he straightened, and stood there with his empty hand at his side.
+
+In the corners of the passage the two clerks looked at him, and looked at each other, and laid their chalk down too.
+
+Valeria had come round to the rear rank. She looked at the dead in the passage, at all the lifted heels, and then at Rusca.
+
+"Quaestor," she said. "They're in my gate."
+
+"Stand them by the wall," said Rusca. "Somebody's coming for them."
+
+She slipped between the rear rank's shields to the first of the dead, and stood in front of it, near enough to see its buckles. She looked at its brow.
+
+"You're struck," said the quaestor from the step.
+
+"They were written before it."
+
+She read the transfer. Alana could see that she was reading, and could not hear a word of it, because the bell in the square's own tower had begun, close and enormous, and after that there were only the bells.
+
+Alana had stood beside the bell in the catalogue's tower when it rang, once, as a girl, for a dare, and been deaf till supper. Now the square's own bell was ringing just across the flags, and it was the worst of them. It rose through her feet out of the flags. It rang in her chest. The ringers had no more idea of time than the rest, and it fell in great uneven crashes, and between them the air shook.
+
+In the middle of it Rusca stepped back from the brow. She took a stick of chalk out of the satchel at her hip, Alana's satchel, which she had carried since the boats, and held out her other hand to the quaestor on his step without looking at him; and he put his slate into it. She gave the heading, and the count, and the chalk made its stroke.
+
+The heels came down along the row together. It turned in the passage and filed out of the gate's mouth, spaced as evenly as the beads on a clerk's frame, and the rear rank opened its shields to let it by. It crossed the corner of the square to the west side, and faced about there, and stood against the wall's inner face with its back to the stone.
+
+The quaestor's chalk still lay on his step, along the joint where he had laid it. Alana picked it up. One of the clerks in the corner of the passage had put his slate down by his feet, and she took that as well, and he let her.
+
+Rusca was already in front of the second row. Alana stood at her shoulder, close enough to read the brow past her, and wrote the heading off it on the clerk's slate, small, as she would have written a shelf-mark: *Strand Gate. Row two. The quaestor's count.* She caught the transfer only in scraps between the strokes of the bells, and did not need more; she knew the form. She watched the row take it, and turn, and file out of the passage to its place along the wall beside the first, and wrote the next heading under the last.
+
+It took all afternoon: one row at a time, an arm's length from a brow, with the bells crashing over them and the light in the passage's mouth going slowly from white to gold. Fingers took the quaestor down off his step and sat him on the threshold of his own door with his hands in his lap, and stood over him. Valeria kept the line facing up the avenue. Nothing moved on it.
+
+The slate filled. Alana turned it over and wrote on down the back.
+
+The last row stood near the outer end of the passage, where the daylight reached in. Rusca stepped up to it as she had to all the others, and stood in front of the first of it, and read the brow. Alana wrote the heading down. All afternoon Rusca had looked no lower than a brow.
+
+Then her eyes dropped from the brow to the face under it.
+
+It was a man's face. He was long and thin, and stooped at the neck and shoulders, though he was young for it.
+
+She looked at him. Then she looked along the row, at all of them.
+
+---
+
+The bells rang until the ringers' hands gave out.
+
+The top of the hill failed first, the catalogue's bell and the towers near it, which had been ringing longest: one after another they missed a stroke, and rang again, and missed two, and stopped. The silence followed the ringing down the hill tower by tower, until only the bell in the square was left; and then that faltered too, and swung on its own for a while, and was still. Alana's ears rang on without it. Through the ringing she heard the well-chain touch the lip.
+
+Then a bolt shot back in one of the houses round the square.
+
+A shutter opened a crack, and closed, and opened again. A door was unbarred across the square, and another along the avenue, and the people of the lower city climbed up out of their cellars into the late sun and stood in their doorways, and looked.
+
+The first thing she saw was how thin they were. She had expected it, and expecting it was no use. Then they stepped out into the square, slowly, keeping to the walls, looking at the cohort's mail and the halls' great round shields propped against the well, and at the elves along the wall-walk, and at Thalassa, whom they did not believe. There were dock clerks among them in their aprons, and old men with ink on their fingers whom Alana knew by sight from the reading rooms, and a dozen women in the long black of a choir whose palms were raw from the ropes. One of the women walked straight to her own door and began to scrub at the Survey's chalk on it with a wet rag, hard.
+
+Along the west wall the stood rows waited where Rusca had left them. The city's people walked along them in the wall's shadow. They did not touch them. They passed along the rows slowly, looking into the faces, and every so often one of them stopped in front of a face, and stood, and went on. At the far end a man stopped in front of one and did not move on at all. When Alana looked again he was sitting on the flags at its feet with his back against the wall beside it.
+
+The aid station climbed up from the beach late in the afternoon, on hand-barrows and doors and on the bearers' backs, and Liora set it out under the bell-tower on the east side, on the flags in front of the stationer's shutter. Rufo sat down on an upturned bucket in front of Liora and held out his arm in Dento's rag without being asked, and she unwound the rag and looked at what Ghash had done, and said something short, and he laughed.
+
+Oppius had his kettles going by the well before the sun was off the wall-walk. He had brought them up from the boats on a handcart with a sack of barley and a cask of the ships' pork. He boiled the barley with the pork in it and an onion cut up into each kettle, and the smell spread round the square. The city smelled it. They gathered round the kettles in a ring at a little distance and would not come closer, until Oppius filled a bowl and held it out to the nearest of them, who was a boy. The boy took it. After that Hostus had to stand by Oppius with a ladle to keep the ring from closing.
+
+Alana ate hers sitting on the well's lip with the bowl in both hands. The barley was too hot, and gluey, and salt with the pork, and the onion had gone sweet in it. She had eaten nothing since the cold bacon in the boats before dawn. The heat of the bowl soaked into her hands, the right one too, and the ache eased a little.
+
+Marcus sat down on the lip beside her with his own bowl. He ate it without speaking. When he had finished he looked along the west wall at the rows, and at the man sitting on the flags among them, and then into his empty bowl.
+
+"They'll want burying," he said.
+
+"They'll want letting go first."
+
+"Can you?"
+
+"I don't know how."
+
+He took it with a nod, as he took the tide from Nerva. Rusca was sitting on the flags at the foot of the well with her back against it and her ledger open on her knees, entering the rows off the clerk's slate in lead, a heading at a time. When she had done the last of them she drew the linen out of her cuff and wiped the chalk off the slate with it, slowly, the front and then the back, until the slate was black and clean. Then she sat there with the clean slate in her lap and did not write anything else.
+
+The sun left the wall-walk. The shadow of the west wall crossed the square and climbed the faces on the east side, the sky over the Spire paled to green, and then to grey, and the cold settled.
+
+Then, at the top of the hill, one bell rang alone.
+
+It rang slowly, a stroke and then a long space and then another, and every stroke was let die out before the next. Alana put her bowl down on the well's lip. She knew that one as well. It was the catalogue's bell, rung for the closing, as it had been rung at dusk every evening since there was a catalogue: slowly, so that anybody still in the galleries had time to finish the page. Somebody up there had rung it properly.
+
+It stopped. Alana sat on the well's lip with her hands folded, and waited, and did not know she was waiting until she saw the lantern.
+
+It appeared out of a lane at the top of the square, on the sea side, where the lanes climbed the cliff: a small horn lantern, carried low, and behind it a few people of the lower city. The woman carrying it was very small and very straight. She crossed the square through the soldiers as if they were furniture, in a keeper's grey gown gone shiny with wear, with a brass key on a cord round her neck, and she stopped at the well and lifted the lantern and looked at Alana.
+
+"Chair," she said.
+
+Her voice was big. It always had been, a choir-mistress's voice in a sparrow's body; it had carried across the reading rooms when Alana was a pupil, and three soldiers at the kettle turned their heads now.
+
+"Keeper," said Alana.
+
+Callirhoe, who had taught her the stacks when she was fourteen, gave the lantern to the man behind her. She took Alana's hands, and turned them over, and looked at the palms in what was left of the light: at the right one, where the fire had been through it more times than Alana could remember, and the left. Alana looked down at the palms holding hers. They were raw across the middle from the rope, raw and weeping, and they did not let go. Then Callirhoe looked up into her face, at her eyes, as a keeper looks at a book that has come back late, for damp.
+
+She let go.
+
+"Your books are where you left them," she said. "I've read most of them."
+
+"Which?"
+
+"Your notes on the spring tides are wrong. We'll speak of it." She touched the brass key at her throat, and tapped it twice against her collarbone. "The drawers burned first. Before the galleries. I watched them go from the top of the tower."
+
+"I know."
+
+"You know."
+
+"I've been writing them out. Since the first frost. A drawer a night." Alana heard her voice shake, and did not know why it should now, of all the day. "I'm in the north gallery."
+
+Callirhoe looked at her. Then she sat down on the well's lip beside her, straight-backed, with her raw hands open on her knees, palms up, to keep the cold air on them.
+
+Marcus had stood up when the lantern appeared. He stood now a little way off, with Rusca, where he could hear, and did not come nearer.
+
+"There's a file on the catalogue's door," said Callirhoe. "They stood it there the week after the fire, across the doorway, with a clerk on a stool beside it and a lamp at night. It's been there ever since. I've lived over that court for two years, Chair, and not once set foot in my own catalogue."
+
+"A file of the dead."
+
+"What else have they got?"
+
+"On the door of a burned room."
+
+"I've thought about it," said Callirhoe. "I've had the time."
+
+Livia had written of her once, in a letter Alana found in a dead quaestor's papers at Cyrene. *She always comes to see what has been done, and she always stays to read about it.* So the file was on the door for her. But nobody set a watch on ash.
+
+She sat on the well's lip and went through the catalogue in her head, for what would not burn.
+
+The brass of the instruments at the end of the east gallery, and the great sphere, which would be lumps now. The seals of the old chairs in their case, which were bronze. Glass, which would have run. Then she was in the herbals, on the north side, in the dark between the windows. She had copied their cards fair in her first year with the drawers, because the old ones had gone too brown to read; and for the third case from the north stair there was a card in her own hand.
+
+*A stone of the moor, cut. No author. On the back in the masters' hand: Turned, for the wing. The herbals, the third case from the north stair, the low shelf, under the tide-tables. To be read.*
+
+She had written those last three words in the new column at Marrow Down, under the song off the chapel lintel, and ruled a line under them, and had not once thought of the card.
+
+"Chair," said Callirhoe.
+
+Alana had said the card aloud. "There's a stone," she said. "In the herbals. It came in with a moor physician's books, years before either of us, and it was shelved with them, as gifts are."
+
+"The moor-stone." The key tapped. "I know the one. Nobody could read it."
+
+"No."
+
+"You tried."
+
+"I put it down to be read." Alana looked up at Marcus. "It's cut," she said. "In strokes. The masters wrote on the back that it was turned for the wing. Livia had the wing's key." She stopped. "It's stone, Marcus. It wouldn't burn."
+
+He did not ask her whether she could read it. He looked past her up the hill, where the sky over the Spire was losing its light, and then at Callirhoe, and at the raw hands on her knees, and at the dark lane climbing the cliff that she had come down by.
+
+"Tonight," he said.
+
+---
+
+There was no moon. They climbed by the lanes along the cliff, because the avenue was the Spire's, and Callirhoe led with her lantern held low.
+
+The lanes rose in steps between the houses, steep and narrow, turning back on themselves. On every door the Survey's chalk showed grey as the lantern passed it. Below them on the left, whenever the houses opened, there was the sea, black, with a line of white along the foot of the cliff where it broke; and the cold rose off it, and their breath hung white past the lantern. Down at the corner where the walls met, the battery was still burning, low and red. Above them the Spire stood up over the top of the hill against the stars. There was a light in it, high up, at one window, and Alana looked at it once, and after that kept her eyes on the lantern.
+
+Marcus climbed behind her, and behind him Rusca with the clerk's slate. Then came Cassandra, whom Marcus had sent Kaeso to fetch from the White's fire in the square, with Junia and another sister of the White. They carried their lamps unlit, and each of them climbed with her fist closed round the bells at her spear's socket, so that the bells were still. Dento and three of the cohort brought up the rear with their shields.
+
+Nobody talked. Callirhoe climbed without stopping, at seventy, and did not use the wall.
+
+At the top of the last stair the lane met the cliff's edge, by a gateway with no gate in it, and Alana stopped there with her hand on the gatepost, because her legs had stopped. She had come in at that gateway every morning she lived in Corvus.
+
+The court was smaller than she remembered, and the stars were in it. The roofs were gone from everything round it, and the walls stood up roofless on every side, black, with the sky showing through their windows. There was grass between the flags. The burned smell hung over everything, cold and sour, as a hearth smells in the morning before anybody has seen to it. At the far side of the court stood the catalogue's front, the length of the court, and in the middle of it the great door. At the court's corner, at the cliff's edge, stood the bell-tower. It was stone, and whole. Its top was dark.
+
+Across the catalogue's doorway stood the file.
+
+Callirhoe stopped in the middle of the court and held up her lantern, and the light ran across them. They stood shoulder to shoulder across the door, which hung half open on its upper hinge, burned black; they faced out into the court, with the dark of the doorway behind them: dead men in old mail and old cloaks, grey in the lantern, their eyes open on the court. At the end of the file, by the step, a clerk's stool lay on its side, and a little hooded lamp beside it, out.
+
+"He went down the hill when the bells began," said Callirhoe. "I watched him go. He ran."
+
+Rusca held out her hand for the lantern. Callirhoe gave it to her, and she crossed the court to the file with it, and stood in front of the nearest of them, at an arm's length, and held the light up to its brow. Alana stood at her shoulder.
+
+Under the seam across the brow the heading was written small in the Survey's hand. *Corvus. The catalogue door. Row one. The door clerk's count.*
+
+Rusca read the row its transfer. She read it low, in her own flat voice, to the brow. Here there were no bells, and Alana heard every word of it, and the breath that Rusca drew where the form wanted a name; and then the name, and *by order of*, and the name again. Then she stepped back and gave the heading again, with her own name in the clerk's place, and the count.
+
+"Row one. Stand inside. By the wall."
+
+The chalk made its stroke on the slate.
+
+The file stirred, all along its length. It turned, the man at the end first, and filed in at the burned door into the dark of the hall, and its feet sounded away from them over the flags inside, and stopped.
+
+As the file turned, the lantern lit it face by face. Marcus waited beside the step. One of the dead passed him close, a big man, heavy in the jaw, whose nose had been broken flat across his face years ago and set badly: in mail of the old pattern, the First Legion's, that had gone dark all over. His eyes were clouded. He went past Marcus and in at the door with the rest, and did not turn his head.
+
+The lantern showed her the scar along Marcus's jaw, pulled tight.
+
+She did not ask. Cassandra lit the White's lamps at Callirhoe's lantern, one from another, and they followed the file in.
+
+The hall was as long as she remembered it, and half its roof was gone, so that the stars were in the far end of it and the near end was dark. The file stood along the wall on the right, with their backs to the stone and their faces to the hall, as still as the pillars. The lamps moved along them. Marcus walked down the line of them, slowly, until he reached the big man, and stopped there, and stood in front of him.
+
+"He had my left," he said. "The year before the stair."
+
+---
+
+Callirhoe took the lantern back from Rusca, and Alana walked down the hall with her to the far end, where the stars were, and through the arch there into the galleries.
+
+She did not need the lantern for the way. She had not needed a light for it in years. The galleries opened from the arch one out of another as they always had, east and then north, with the sky over all of them now. The cases still stood in their rows down the length of each, burned to the iron: the uprights and the brackets standing up black out of the ash, and the shelves gone from between them, and the books. The ash lay deep on the floor. It was soft, and cold, with a crust on it that broke under her feet and let her down into it to the ankle. It got into her shoes. The smell of it now was mostly the cold, and under the cold, faintly, paper.
+
+Under the windows of the east gallery, where the drawers had stood, their brass pulls lay in the ash in rows. Each lay where its drawer had burned away from round it, in its place. The lantern passed along them, and they shone, one after another, the whole length of the gallery.
+
+They turned into the north gallery. The herbals had been on this side, in the dark between the windows; there was no dark between the windows now, only the stars. At the end of the gallery the north stair went up into nothing, stone steps without a rail, to where the upper gallery had been, and stopped against the sky. Alana stopped at its foot, and turned, and walked back along the cases to the third.
+
+The tide-tables' shelf had gone, and the shelf under it. The two iron brackets that had held the low shelf were still there, standing out from the uprights a little way above the ash. Across them, where the shelf had burned out from under it and let it down, lay the stone.
+
+She knelt in the ash.
+
+It was a slab of the grey moor-stone, about the size of a ledger and thicker than her hand, furred with ash. She brushed the ash off it with her sleeve. Under the ash it was cold, and rough, and when she put her fingers to its face she could feel the cuts in it. She got her hands under it and lifted it off the brackets, and it was heavier than it looked, as stone is, and she sat back on her heels in the ash with it in her lap and turned it over.
+
+On the back, small, the masters had cut their note with a graver.
+
+*Turned, for the wing.*
+
+She had read it the year they gave her the drawers, kneeling in front of this case with the stone on her knees as it was now, in a good light, with the gallery full of readers. *Turned*, as the catalogue used the word: put over into another tongue. There was a turned copy of it, then, for the forbidden wing, in a tongue somebody could read, and the wing was Livia's, and Alana had no key. So she had put it back on the low shelf as she found it, face to the case, and written the card fair. At the foot of the card she had written the three words, because it would be read one day.
+
+"Keeper," she said. "Hold the light low. Across it."
+
+Callirhoe held the lantern down by the stone, so that the light lay across its face and every cut in it threw a shadow. Alana turned the stone face up again in her lap. She got the weather-book out of the fold of her cloak, and opened it at the new column without looking, and turned on through it to the place, and held the page up beside the stone.
+
+She had copied it at Marrow Down off the underside of a chapel lintel, standing on a cart, with the book open on Gaius's back. Strokes, long and short, each cut deep at its head and shallow at its tail, line under line. *It's older than anything at Corvus,* she had told the old man standing in the yard below her.
+
+The first line of the page was the first line of the stone. So was the second.
+
+It had been at Corvus. It had been here.
+
+*Turned.* She looked at the first line of the stone again, where the lantern showed which end of every stroke was cut deep, and saw what she had been looking at.
+
+She had never been able to read the moor's strokes. But she knew these. She had read them in the first barrow on the moor, and on every brow she had been close enough to read since, in the seam across the grey skin: the sentence. *Walk. Hold. Kill what lives.* Every stroke of it was on the stone. They ran the other way. Each one was cut deep at the end where the sentence let it go, and ran out where the sentence began it, all the way along the line, and down the face, and to the foot.
+
+Not into another tongue. Over.
+
+She had read her own seal off its face that way since the day the masters gave it her, without thinking, as anybody reads a seal: the wrong way round. She read the stone the same way.
+
+Her lips moved over the first line, and over the second. For a few lines she was turning it, stroke by stroke, the sentence's way and then back; and then somewhere in the fourth or fifth she stopped turning it and was only reading. It had a measure. The sentence had none; it was three stamps of a foot, but this ran long and slow, older than the high meter, and her lips had the measure before she did.
+
+She read it to the foot.
+
+At the Kettle Bank she had burned the dead of Cyrene where they stood under the sea, hundreds of them, because she knew no other way to make them lie down. The Vigil burned them still. She had burned a row in a tower door that afternoon.
+
+Her hand was lying flat on the stone. She left it there.
+
+Callirhoe had said nothing. She was looking at Alana's face over the lantern, and whatever she saw in it she kept, and after a moment she put the lantern down on the ash and reached into the breast of her gown and took out a book. It was small and thick, with its boards scorched at one corner. Alana knew it. She had signed her name in it more often than anywhere else in her life. It was the catalogue's issue-book.
+
+Callirhoe opened it on her knee at a page written to the foot, and turned to the next, which was clean, and held it out.
+
+"Sign for it," she said.
+
+"It isn't leaving the catalogue."
+
+"It's leaving the shelf."
+
+Alana took the book. She wrote in it with her own pen, in the lantern light, on her knee, with the stone in her lap: *The herbals, the third case from the north stair, the low shelf: a stone of the moor, cut. Alana, of the chairs of Corvus.* Then she gave it back, and Callirhoe read it, and blew on it, and shut it, and put it back in her gown. The key at her throat tapped once against her collarbone.
+
+"Now," said the old woman. "Can you carry that?"
+
+---
+
+She carried it. It was heavy against her chest, and its edge bit into her arms through the sleeves, and her right hand complained the whole length of the galleries and she let it. Callirhoe walked ahead of her with the lantern. The brass pulls shone in their rows as they passed, and darkened again behind them.
+
+In the hall the White had set their lamps along the floor at the feet of the file, one by every third man, so that the dead stood along the wall in a low yellow light with their faces in shadow. Rusca stood at the end of the file with the clerk's slate held against her. Dento and the cohort were at the door. Marcus had not moved. He stood in front of the big man with the broken nose, a little way off, and looked at him; and the big man stood against the wall with his clouded eyes on the hall and did not look at anything.
+
+Cassandra came down the hall to meet her. She looked at the stone in Alana's arms, and at Alana's face; and then her teeth clicked together, once.
+
+"Read it to us," she said.
+
+Alana knelt down at Marcus's right with the stone across her knees. Callirhoe held the lantern low beside it, across its face, as she had in the gallery. Cassandra stood at the big man's right, and Junia and the other sister on his left, close, as the White stand round a bed. Nobody told them to. Junia had her spear in her hand still, with her fist round its bells.
+
+Alana read the first line aloud.
+
+She had never heard it. She had copied it off a lintel and read it off a stone, but she had not said it in a voice, and her voice was strange to her in the hall. It was the isles' speech as she said it, turned back stroke by stroke out of the sentence's, and it left her in the stone's long measure. When she had said the line she stopped.
+
+Cassandra said it after her. She said it low and level, as she gave her sisters their villages. Junia said it with her, and the third sister, a little behind, and their three voices ran down the hall and back off the far wall where the stars were, and stopped.
+
+Alana read the second line.
+
+So they read on, a line and then the line again, down the face of the stone. Alana did not look up. She read with her finger under the line, as she had taught children to read in a tray of sand, and the women said each one after her, and the lamps burned on. The cold of the court lay on the flags. Her breath hung white over the stone at every line, and theirs over his face.
+
+Somewhere past the middle she heard Cassandra's voice falter on a word and come back.
+
+Alana looked up. Callirhoe had lifted the lantern.
+
+The seam across the big man's brow was gone. There was a man's forehead under his hair, lined, with a small old scar through one eyebrow, and nothing written on it anywhere. While she watched, the cloud cleared out of his eyes as the Grey goes off the water when it lifts; and he blinked.
+
+She looked down at the stone and read the next line, and the women said it after her.
+
+He drew a breath. She heard it go in, ragged, like a man's coming up from under water, and it came out of him again white in the lamplight.
+
+They read on to the foot. Alana read the last line, and the women said it after her, and then there was no more of the stone to read, and nobody said anything.
+
+The big man turned his head.
+
+He looked along the hall: at the lamps on the floor, and the women round him, and the old woman with the lantern; along the wall at the file of the dead standing there with their eyes open, his own file, and did not stay on any of them. He looked at Marcus.
+
+Then he stepped away from the wall. It was a soldier's step, short and certain, and he took two of them, and turned, and stood at Marcus's left, facing as he faced.
+
+"Marcus," he said.
+
+His voice was rough, as a voice is that has not been used, and low, and clear.
+
+"Hispo," said Marcus.
+
+They stood there. Marcus did not turn his head, and Hispo did not turn his. Down the hall the cold crept in at the door, and the lamps leaned in it and stood up again. Along the wall the rest of the file stood as they had stood. Alana knelt with the stone on her knees and did not move, and nobody in the hall moved, and Hispo stood in his place in the line with his breath going up white in front of him, slower, and slower.
+
+It was not long.
+
+His knees went. Marcus had him before he reached the flags, on one arm, as if there were very little of him, and let him down onto them, and knelt there with him.
+
+His face had fallen in a little round the broken nose, and the grey of it was only the grey of the dead, as the dead look in their own beds.
+
+"The Deep keep you," said Marcus.
+
+Junia opened her hand on the bells of her spear, and rang them once with her nail.
+
+Cassandra knelt down on the other side of him. She laid her palm on his chest, over the dark old mail, and looked up along the wall at the file standing in the lamplight.
+
+"We'll sit with them," she said.
+
+Marcus stood up. He lifted the stone off Alana's knees without asking, and she let him. Rusca walked down the hall from the end of the file with the slate held against her, and stopped by Hispo and looked down at his face, and walked on to the door. Callirhoe followed her with the lantern. Dento and the cohort filed out into the court.
+
+Alana was last. In the doorway she turned to the hall: the lamps along the floor, and the dead along the wall in their light, and the three women of the White kneeling round the one who lay on the flags, and the stars in the far end where the roof had been.
+
+Then she stepped out over the threshold into the cold.
+
+Alana closed the catalogue's burned door behind her, and it did not latch, and she left it.

@@ -1571,7 +1571,7 @@ It was not ringing for Titus. It was ringing for them.
 
 Marcus looked at it, and then away.
 
-He climbed onto the lid of the empty arms chest by the mast, because it was the only high place in the waist, and stood there above them in the grey light with his scorched cloak hanging off him. The whole waist looked up at him. Faces black with smoke. Grey with sickness and no sleep. Rufo's, set. Iason's, empty. Oppius's one eye, wet. The drum-boy, Kaeso, with his bloody rag-wrapped sticks in his lap.
+He climbed onto the lid of the empty arms chest by the mast, because it was the only high place in the waist, and turned his back on Cyrene, and stood there above them in the grey light with his scorched cloak hanging off him and the headland and its bell over his shoulder. The whole waist looked up at him. Faces black with smoke. Grey with sickness and no sleep. Rufo's, set. Iason's, empty. Oppius's one eye, wet. The drum-boy, Kaeso, with his bloody rag-wrapped sticks in his lap.
 
 "Look behind you," he said.
 

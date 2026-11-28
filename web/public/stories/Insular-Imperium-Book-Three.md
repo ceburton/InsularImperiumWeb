@@ -30,6 +30,7 @@
 24. [Chapter Twenty-Four: Lessa](#chapter-twenty-four-lessa)
 25. [Chapter Twenty-Five: The Beach](#chapter-twenty-five-the-beach)
 26. [Chapter Twenty-Six: The Bells](#chapter-twenty-six-the-bells)
+27. [Chapter Twenty-Seven: The Argument](#chapter-twenty-seven-the-argument)
 
 ---
 
@@ -15179,3 +15180,533 @@ Alana was last. In the doorway she turned to the hall: the lamps along the floor
 Then she stepped out over the threshold into the cold.
 
 Alana closed the catalogue's burned door behind her, and it did not latch, and she left it.
+
+---
+
+# Chapter Twenty-Seven: The Argument
+
+**MARCUS**
+
+The doors of the Spire stood open.
+
+He had known they would. Tiberius had said so at Bastion, by the Survey's lamp, with Alana on the floor at Marcus's back with her teeth set, and Rusca's lead racing after the dead man's words in the weather-book. Alana had read him the line again that day, in the lower square, as if one of them might have got it wrong. *Lucan leaves the stair open.* All the same he had thought there would be something across the doors at the last: a bar, or a chain, or a row of the dead with their clerk.
+
+There was nothing. The two leaves stood back against the face of the Spire on either side of the doorway, each taller than three men, and between them the stair climbed into the dark, broad and black and polished. The last of the sun lay across the bottom step, red, and reached no further.
+
+The army had come up the avenue in the afternoon, at a walk, after a morning's sleep on the flags of the lower square. The avenue had been empty. Up the hill every shutter stayed closed but one, which opened the width of a face as they passed, and closed again. At first light a man had climbed out of a cellar in the square leading a ewe on a cord. She was a thin old ewe with the wool coming away from her in handfuls, and he must have kept her alive down there through two winters of the Survey. He gave the cord to Oppius and went back down. At noon there had been mutton in the kettles, a little for every man, grey and stringy and swimming in its own fat. Marcus could still taste the fat at the back of his throat, and smell the kettles' smoke in his cloak.
+
+Now the army filled the forecourt at the avenue's head from side to side. The cohort stood in the middle, with Kaeso's drum silent at its front, and the hundred waited back among the last houses of the avenue in their grey, so still against the shutters that he had to look twice to find them. Above the doors the Spire rose in terraces cut from its own black glass, one above another, narrowing. The Survey's banners hung on the lowest terrace with no wind to stir them, the closed hand white on the black, and under each banner a row of the dead stood looking out over the town. They had not moved since the army entered the forecourt. Roderic had looked up at them once, long, and set the cohort's rear rank facing them, and said nothing about it.
+
+But it was the doors that held everyone at the stair's foot.
+
+Close to, he saw that the leaves were not plain black. The carver had worked the whole face of each in shallow relief, and polished some of it and left the rest rough, so that in the low light the polished glass shone red and the rough lay dark. It was the taking of the Isles. It ran down each leaf island by island, in panels the height of a man: hills and a harbor, and a town above the harbor with its people small in the streets. At the top of the left leaf Thessa shone. Under it was Thessa again, the same hills and harbor and the same people in the same streets, all of it rough, and dark. Then the next island, lit, and the same island dark beneath it; and the next. The carver had given every roof its tiles.
+
+Near the foot of the left leaf a fleet was running onto a reef. The carver had cut the reef as a line of white teeth in the sea, and the ships coming down on it under oars, close, in their order, with all their masts standing. On every stern he had cut the crowned dolphin. Marcus knew them by it: his grandfather's fleet, that his father had sent to relieve Thessa, and that lay on the Teeth still. The masts had the finest polish on the doors.
+
+On the right leaf, below the islands, there was a stair.
+
+It climbed from a quay to a gate in a wall, steep and narrow, with the drop on its open side; and on it, rank over rank, small and exact, stood men with shields. At the stair's foot, on the polished sea, a ship was standing out from the quay with her oars out and her wake white behind her. She was a small ship. The carver had taken as much trouble over her as over anything on the doors.
+
+He felt the scar along his jaw draw tight.
+
+Liora had come up beside him with her bag on her shoulder. She stood and looked at the doors before she said anything.
+
+"He carved his crime on his front door," she said.
+
+"He carved it *proud*," said Valeria. She stood on Marcus's other side, with the Farrier grounded and her eyes on the stair, not on the doors. "That's worse. You'll want to argue with it." Then she looked at him. "Don't."
+
+"And if it says something true?"
+
+"*Especially* then."
+
+Roderic had walked forward from the cohort's rear rank. He stood looking down at the small ship on the polished sea, and his knuckles beat a count on his thigh, and stopped.
+
+"She was bigger than that," he said.
+
+"I know," said Marcus. "I was in her."
+
+Roderic kept his eyes on the ship. "I'd carry it again," he said. "The order. If it was to do." Then, before Marcus could answer him: "Go on. I'll keep the doors for you. Somebody has to stand about out here looking like a general."
+
+In the square at noon Marcus had named who would climb, and nobody had argued it: Alana, Liora, Gaius, Sylara, Rufo, Thalassa, Valeria. Eight, with himself. Brokk followed them with the halls' line, a coil of tarred cord on a reel across his back that he had carried up the avenue without letting anyone touch it. Behind Brokk, in his plate, with *Balance* across his shoulder and the red stone in his helm gone dark in the shadow of the doorway, walked the king of the halls. Nobody had asked Kolbrand. Nobody had been fool enough to ask him not to. Rusca had stayed in the lower square with the stood rows.
+
+Inside the doors the cold came down the stair to meet them. It was the cold of a cellar, still and old, and it went through his mail as if the mail were not there.
+
+Sylara's few sat along the bottom step with their bows across their knees: Ilvane, and Yrrin with his fingertip in the notch of his bow-grip. At the end of the step, as far out under the sky as the doorway would let him sit, was Eolan. They stood when Sylara reached them. She said something to them in the elves' tongue, short, and they sat down again.
+
+Brokk knelt and made the end of the line fast round the foot of the stair's newel with a knot Marcus did not know, and pulled it, and pulled it again, and stood up.
+
+"One pull, they come up," he said. "Two, they stop where they are."
+
+"And three?" said Gaius.
+
+"Three, I'm dead, and somebody else is pulling."
+
+High above them the first landing's lamp burned in the dark of the well. Its light reached a little way down the steps toward them, and stopped.
+
+Behind them the sun went off the doors, and every island on them was dark.
+
+---
+
+The first chamber was off the first landing, and its door stood open, as the doors at the stair's foot had.
+
+Valeria went through it first. She always did. Marcus stepped in at her shoulder and saw a table just inside, with a hooded lamp on it and two clerks of the Survey behind it in their black. One had an open book in front of him and one a frame of beads under his hand, and the nearer looked up and opened his mouth.
+
+"Not a figure," said Valeria.
+
+The point of the Farrier was under his chin. He shut his mouth. A figure from a clerk was all the dead ever needed to stand. The other clerk's fingers moved on the frame, and Rufo's hand closed over them, over the fingers and the beads together, and stayed there, and the clerk looked up at him and drew his fingers out from under it.
+
+They tied the clerks' wrists with their own belts, and Brokk pulled the line once. Then Marcus took the hooded lamp off the table and turned round, and the floor stopped.
+
+It was a church, and it was the wrong way up.
+
+Where the roof of a church rises into the dark, this fell away. The floor gave out a step beyond the clerks' table. Below it broad shallow steps went down, and down, and on either hand the ribs of a vault curved down with them, black, until they met far below in a dark the lamp did not reach. On the steps sat the dead. They sat in rows, as a congregation sits, all the way down both sides, with their hands on their knees and their heads bowed toward the bottom. On every brow the lamp found there was a seam of writing, and a shorter line under it.
+
+None of them moved. The lamp shook a little in his hand, and their shadows shook with it, and they did not.
+
+Then, from the bottom, there was a knock.
+
+It was one knock, slow and heavy, as of a shoulder against wood. After it there was nothing, for so long that he had begun to tell himself he had not heard it. Then another.
+
+On the moor, in another winter, the dead had walked home in the fog and knocked at their own doors, each with his own knock, so that the house would know him and open. Two and one, Col had knocked, as he had knocked coming in off the hill when he was a boy. This was nobody's knock. It came, and waited, and came.
+
+"Down," said Liora.
+
+They went down between the rows, Liora first, with Marcus behind her holding up the lamp and the others at his back. The steps were worn in the middle as church steps are worn. The cold grew worse with every step. There was no smell in it, which was wrong for a church: no wax, no damp, no old incense in the stone. There was only the cold.
+
+Behind him there was a sound, wood and steel, over and over. He looked round. Rufo was walking with his sword in its sheath, Pen's tally-stick in his left hand and his knife in his right, and at every row they passed he cut a notch.
+
+"Don't," said Liora, without turning her head.
+
+"Habit."
+
+"Not these. They had names."
+
+Rufo looked at the stick. He put the knife away.
+
+At the bottom the steps ended against a wall of the black glass, and in the wall there was a door. It was oak, the first wood Marcus had seen in the Spire: old oak, gone black, in two leaves, with the iron on it rusted brown. It was shut. On each leaf, where the two met, a ring of old bronze was set into the wood, and through the two rings, across the join, the anchor was worked.
+
+It was Bastion's knot, or its brother. The cord went over and under and through itself, and through the rings and back, and the bronze was cut all over in Livia's hand. But in the knot at Bastion there had been a light, red, far down among the turns. There was none in this. The lamp's light went into the knot and did not come out. It was less like a thing on the door than a place where the door had gone. Bastion's had warmed the room; cold came off this one. He felt it on his shins.
+
+The knock came through the door.
+
+Liora had put her hand on the oak beside the rings. He saw the knock arrive in her arm, up to the shoulder. She stood with her head bowed toward the wood, as the dead on the steps behind them bowed toward it, and between one knock and the next she listened.
+
+"He's walking," she said. "Round. All the way round, in there, and when he comes to the door he walks into it. And goes on round." She was quiet for the space of a breath. "He's been walking a long time."
+
+The knock came.
+
+"Every night of my life," Liora said to the door, "I've prayed for the dead. Every day of this war I've prayed against them." The corner of her mouth went in. "I am *sorry* for you, and tonight those are finally the same prayer."
+
+Rufo put the tally-stick in his belt.
+
+"Names, not numbers," he said. "Aye." He drew his sword. "*Point me.*"
+
+His voice rolled up the nave between the rows and back off the vault, and on the steps the dead did not lift their heads. Behind the door the knock did not come when it should have come. Marcus stood with the lamp and waited for it with his breath held, and it did not come, and did not, and then came.
+
+Liora took Rufo's wrist in her hand, as she took a man's wrist to feel for what was wrong in him. She drew the point of his sword to the knot, and down a little, and a little to the left.
+
+"There," she said. "Where it's coldest."
+
+Rufo struck once, short, from the shoulder, as he would have struck over a shield-rim. The cord parted under the edge with a sound like a wet rope cut on a block. The knot gave, and loosened round itself, a turn and then another, slowly; and out of the place where the door had been missing the cold poured in one long breath. It passed Marcus's face and rose up the nave over the bowed heads, and it did not stop. It was still going by when the first of the halls' shield-men reached the bottom behind them with their hammers. It was still going by when the clerks had been handed back up the steps to the landing, and Brokk had set two dwarves on the last steps before the door with orders to let nobody near it who carried ink.
+
+"Can we open it?" said Rufo. He was looking at the door.
+
+"If we open it," said Liora, "he'll walk out. And keep walking."
+
+Rufo took his eyes off the door.
+
+They climbed the nave between the rows with the lamp, and the dead sat with their heads bowed and did not look up as they passed. Behind them, at the bottom, the knock came, and the long wait, and the knock.
+
+He heard it on the stair, fainter at every turn; and then something louder came down and covered it.
+
+---
+
+The heat met them on the landing outside the second door, dry and heavy, the heat of a lime-kiln with the wind behind it.
+
+The roar was the furnace. The chamber ran back into a red dusk, and at the far end the furnace stood in the wall with its mouth open. Half a dozen men in leather aprons stood before it, black to the elbow and running with sweat: living men, all of them, with their eyes white in their faces. They stood still when they saw the Farrier. Valeria walked them back against the wall, and they sat down on the floor where she pointed, with their hands on their heads.
+
+Kolbrand did not come in. He stopped on the threshold and grounded *Balance*, and stood with both hands on the haft, and Brokk stopped beside him with the line, hands hooked in his belt.
+
+Along one wall lay the moulds, long boxes of black sand with the shapes of men pressed into them in halves, a breast in one and a back in the next, an arm, a slit helm. Against the other wall the finished iron stood in a row with its back to the glass. Baskets of ore stood by the furnace's mouth, heaped with round black lumps the size of a child's head, and the lumps were wet, and crusted white. And in the middle of the floor, in the full red of the furnace, stood the altar.
+
+It was a long table of black iron, hip-high, and on it lay an iron soldier in two halves, the breast laid back from the back like a mussel opened on a plate. Two more stood at the altar's foot, finished, one on either side, as acolytes stand. They were taller by a head than any man in the room, with no neck between helm and shoulders and rivets in rows down every seam. The slit in each helm was a slit and nothing more.
+
+Gaius went to the altar. He took his lenses out of his tunic and put them on, and bent over the open breast, and his eyebrows went up.
+
+Marcus looked over his shoulder. On the inside of the iron there was writing, in a hand as small as a clerk's, line under line from the neck of the breast-piece down; and the last line was still being written. He watched it grow. It crept across the iron with nothing to write it, a stroke and the next stroke, slow as sap. The line above it had set dull already, and the one above that.
+
+"It's good work," said Gaius. "That's the obscenity of it."
+
+He put out his hand to the seam where the two halves would close, and ran a finger along it, and then along the edge of the altar itself. Down the altar's edge, cut into the iron, ran a column of figures: the pour, Marcus supposed, or the weights, the founders' reckoning for the thing on the table. Gaius stopped with his finger on one of them. He read the column down to the foot and up again. Then, frowning, he took a stub of chalk out of his belt and struck out a figure on the iron and wrote another beside it.
+
+"You're *amending the arithmetic*," said Brokk, from the door.
+
+Gaius looked at the chalk in his fingers. He rubbed out what he had written with his palm, and went on rubbing after it was gone.
+
+"It's in here," said Alana.
+
+She was crouched at the altar's flank, with the red light on her face and her wrapped right hand held clear of the iron, and her lips were moving over something on it. Marcus bent beside her. Low in the altar's side, sunk flush in the black iron, was a ring of bronze cut all over in the same hand, and in the ring, filling it, was nothing: a black the furnace did not light. The altar was too hot to bear a hand on. He felt the cold off the ring on his face.
+
+"It's written into the altar," she said. "Under the iron."
+
+In the doorway Kolbrand had not moved, but he was no longer looking at the altar. He was looking at the baskets by the furnace's mouth.
+
+He walked in with *Balance* in his fist, past the altar and the soldiers at its foot as if they had been posts, and stopped at the nearest basket and took out one of the black lumps. It was crusted white. Water ran out of it over his gauntlet. He brought it back to the altar and broke it on the iron's edge, once, and it split, and he turned the broken face up and held it under his nose. Marcus smelled it from where he crouched: sulphur, and wet black rock, and under them the sea.
+
+"Ours," said Kolbrand.
+
+"The drowned iron," said Brokk, low, from the door. His hands came out of his belt.
+
+On either side of the altar's foot the two soldiers turned their heads.
+
+They came as rockfall comes, all at once after nothing. The nearer walked into Rufo, who had got his shield up in front of Alana, and the shield rang like a struck pan. Rufo went backward off his feet and across the floor into the moulds, and the sand rose round him in a black cloud. Valeria drove the Farrier's point into the slit of the other's helm, and the point sank to the socket, and it did the iron no harm at all. It turned its head on the spear. It lifted its arm.
+
+Kolbrand laid the broken ore on the altar's edge.
+
+He did not look at them. He set his feet, and an iron fist landed on his breastplate with a crash. He gave half a step under it, and stood. His eyes were on the altar, on the ring of bronze in its side, and he studied it as a quarryman studies a stone for the line it will split along.
+
+Then he struck. *Balance* went up over his head in both hands and came down square, the whole broad bit of it flat on the line of the ring, and the altar broke. It broke with a deep cracked note that Marcus felt in his teeth, down the whole length of the table and through the ring, and the two halves of the iron soldier on it slid apart into the break. Out of the break poured the cold, past the furnace's heat, so that for an instant he was shivering in a room where the sweat was running down his back.
+
+The soldier with the spear in its helm had stopped. It stood with its arm raised over the moulds, where Rufo was sitting up in the sand, and did not bring it down. Its fellow stood with its fist on Kolbrand's breastplate, where it had struck him, and kept it there, as a man leaves his hand on a door he has forgotten he was opening.
+
+On the inside of the broken breast-piece the line of writing had stopped half through a word.
+
+Kolbrand stepped back from under the fist. He looked at the broken ore on the altar's edge, the white crust and the black inside it; and then he carried *Balance* back to the door, and grounded it, and stood on the threshold facing the stair, with the furnace's red on his cloak behind him. When the halls came up the line he did not move out of the doorway for them, and they went in round him, one at a time.
+
+Valeria worked the Farrier out of the slit with her foot on the iron's knee. Rufo climbed out of the moulds black from head to foot, spitting sand, and felt down his ribs with two fingers, one at a time.
+
+"All there," he said.
+
+---
+
+They heard the third chamber before they reached it: a long roar like surf in a sea-cave, with a scream riding on it, high and thin and never stopping, as green wood screams in a fire. The glass of the stair sweated. Water ran down the steps from under the door to meet them, warm, and steaming a little where it ran.
+
+Thalassa pushed past him on the stair, up into it.
+
+The chamber was round, and full of steam, and hot as a bath-house. Marcus walked in with his eyes running, and through the steam he saw what stood in the middle of the room, and stopped.
+
+It was the sea.
+
+It stood up out of the floor in a column as thick as a tower and as high as the vault, grey-green and moving. There was weed in it, turning, and sand, and once a fish drifted by inside it, slowly, upside down. Bands of bronze circled it from the floor to the vault, close as the hoops on a cask, and every band was cut with signs he did not know, and the water strained against them and could not pass. Under it, in the floor, a fire burned in a pit, in bronze bands of its own; and where the bottom of the sea touched the top of the fire the water was screaming. The steam climbed the column's side in a white sheet and away into a flue in the vault, and the whole room shook with it.
+
+At the column's foot, where the ends of the bands met the floor, the anchor was worked through their rings, black, with the steam curling round it and never into it.
+
+Two clerks sat at a desk by the wall in oilskins, with their book open in front of them and its pages gone limp as wet cloth. Valeria walked toward them, and they stood up and held out their wrists.
+
+Then the sea turned on them.
+
+A tongue of it lashed out between two bands, grey and solid, as a sea comes aboard over the bow, and took Gaius across the chest and laid him flat on the wet floor. It struck again. Marcus felt it go past his face, cold and heavy and salt, and heard it hit the wall behind him like a door thrown back.
+
+Thalassa walked out onto the open floor.
+
+She stood in front of the column, with the steam blowing her hair, while the water in the column turned all through itself. She spread her fingers until the webs between them stood taut, and shouted up at the bands, at the signs cut in them, at the vault and the flue and the clerks with their book:
+
+*"They chained the* tide *and called it engineering!"*
+
+The sea stopped.
+
+The tongue of water hung in the air between two bands and did not strike. Then it drew back in, and the whole grey column leaned toward Thalassa, out against its bronze toward where she stood, as a chained dog leans toward a voice it knows; and the weed in it swung round toward her, and the sand.
+
+On the first islet of the Shattered Coast, with the flood climbing the sand where no flood could climb, she had crouched and put her hand in the water and taken it out shaking. *It is afraid, Marcus,* she had said. *Water, afraid.* He had crouched beside her, and looked at it, and not known what she meant.
+
+She spoke to it now in her own tongue, low, far beneath the steam's scream, so that he heard it more in the floor than in the air. The sea leaned on its bands. Under his boots he felt the Spire's whole height take the strain.
+
+"The tide's making," said Thalassa, in Aeridor, to nobody. "Outside. It feels the flood."
+
+The bands sang. Then the signs on them began to glow, dull and then bright, sign after sign, as iron glows in a forge, and the anchor at the column's foot drew taut on its rings.
+
+"*Down!*" said Valeria. "*Everybody down!*"
+
+The sea broke its harness.
+
+The bands burst, all of them, from the floor to the vault, and the anchor tore through its rings and came apart in the water, and the sea fell on the room. It did not fall on them so much as through them, all of it rushing one way: toward the wall that looked west. Marcus was on his face on the floor with a great cold weight going over his back. Something struck the far wall. The glass of the window there burst outward in one piece, and through the hole the sea poured out of the Spire in a long grey rope. On its way it passed over the fire in the floor, and the fire screamed, and went out.
+
+Gaius was going with it. Marcus saw him slide past on his back on the wet glass, toward the hole, with his hands out and nothing to take hold of. Rufo caught him by the belt with one hand and held him there, lying on his own face, with the water pouring over both of them; and then it had gone by, and it was over, and Rufo had him.
+
+"Still," said Gaius, coughing, "it *was* engineering."
+
+The room was dark, and full of steam that was thinning, and cold air was blowing in through the hole in the wall. Water ran away across the floor and out of the door and down the stair. In the floor the fire's pit lay dark in its bronze, with a little red in the bottom of it, sullen.
+
+Thalassa stood where she had stood. Of all of them only she was still on her feet. Her hair hung down her back in wet ropes, and she was looking out through the hole in the wall, west, into the dark, where the sea was.
+
+"It's gone home," she said.
+
+Liora was kneeling by Gaius with her hands on his chest where the water had struck him, and then on Sylara's arm, which had been in the steam to the elbow and come out red. The red faded under her hands. Marcus got up off the floor. His mail was full of the sea. He could taste it. In the doorway Brokk stood in the water running out over the sill, shaking it off his reel, and pulled the line once.
+
+The two clerks were still standing by their desk with their wrists held out. Their book had gone out of the window with the water.
+
+---
+
+The fourth chamber was dark.
+
+The door from the landing opened into the end of a gallery, long, and colder than anything they had yet climbed through. Gaius held up one of the halls' lanterns and Alana the other, and the light died a few paces in. Columns stood in two rows down its length, black, too thick to reach round. The floor was polished, and the lanterns' light lay on it in two pale smears. Away at the far end, a long way off for any room, there was another light, yellow and steady: a hooded lamp, on a table. Between it and them, at the gallery's end, something hung between the last two columns, and against the far lamp it showed as a place where the light was missing.
+
+"Lanterns down," said Sylara.
+
+Before anyone could set one down, the lantern in Gaius's hand burst.
+
+Marcus heard the glass go and saw the oil leap out of it in a gout of flame, and in the same breath the lantern in Alana's hand burst too. The flames ran out across the polish and burned there in two pools, blue and yellow. Something white lay across the floor between them: an arrow, of bone.
+
+"Out," said Marcus. "Put them out."
+
+They stamped the burning oil out, and it was dark.
+
+He stood in the dark and smelled the oil, and the brine in his own clothes, and something under them, dry and faintly sweet, like a butcher's yard in summer when the bones have lain out in the sun. Far off, at the gallery's end, the hooded lamp burned. The thing hung between the columns against it, black.
+
+"She's quick," said Sylara, low, beside him. "She draws again before the first one's landed."
+
+A woman's voice spoke out of the darkness at the gallery's end, cool and in no haste, from nowhere he could place.
+
+"The forest one," it said. "Good. I had hoped the war would send something that *aims*."
+
+Then nothing.
+
+Marcus crouched behind the nearest column with Alana against his shoulder and her breath coming in short pulls. Somewhere to his left Rufo was saying something under his breath about the dark, steadily, a word at a time. He could not see Sylara. He knew where she was by her voice when she spoke again.
+
+"She learned on deer," said Sylara. "Somebody else's."
+
+Something moved behind him, in the doorway, and he turned with his hand on his sword.
+
+It was Eolan.
+
+The landing's lamp was behind him, and as he turned his head it showed his face from the side, grey and wet, the eye in it wide and fixed. Then he slipped in and down into the shelter of the column and was only a shape, lean and still, with the bow in his hand. He had climbed the stair behind them alone, and nobody had heard him come.
+
+"You're under stone," said Sylara, out of the dark.
+
+"I had noticed," said Eolan.
+
+He took an arrow from his quiver and drew its grey fletching once across his lower lip before he nocked it.
+
+What the two of them said to each other then, they said in their own tongue, and not much of it. Then Sylara stood up from behind her column and walked out into the gallery.
+
+Marcus saw her pass against the far lamp: the hood, the bow, the long fair braid down her back. She walked into the aisle between the columns, into the open, and stopped there with nothing in front of her but the dark and the lamp at the end of it, and lifted her bow.
+
+From the right, far down the gallery, an arrow struck stone. It was Eolan's. He had loosed at a column on the far side, high, and the shaft cracked off it and clattered away across the floor.
+
+From the dark at the gallery's end two arrows flew toward the sound, so close together that the second was off the string before the first had struck. Marcus saw them only as two white flickers in the lamplight. As the second flew, and the archer drew again, he saw her. She had stepped a pace out from behind the last column on the left to loose, and the far lamp was behind her. For the space of a drawn bow she was a shape against it: red hair, and white shoulder, and the pale curve of the bow.
+
+Sylara did not shoot her.
+
+She loosed at the thing between the columns. The arrow crossed the length of the gallery in the dark with a sound like a breath drawn through the teeth. Marcus did not see it fly, only arrive. The knot jumped on its chain against the light, and the cord sprang open round the shaft, turn after turn, like a coiled line when its lashing is cut; and out of it the cold rushed down the gallery toward them and past.
+
+The archer stepped out into the light.
+
+She stood by the keepers' table with an arrow drawn to her ear and its bone head on Sylara. Marcus saw her plainly now, far off and sharp: red hair loose on her shoulders; skin as white as the lamp's glass, and a great deal of it between the straps of her dark leather; the bone bow bent. Sylara had another arrow on her string, drawn, and it was on her.
+
+"Already drawn," said the archer.
+
+They stood so. Neither of them loosed. Then the archer let the string down, slowly, as a woman sets down a cup she has decided not to drink. She turned her back on all of them and walked away past the keepers' table into the dark at the gallery's far end, where there was a door, and through it.
+
+Eolan stood behind the column at Marcus's side with his arrow drawn and her back in front of him the whole way, plain against the light.
+
+"Eolan," said Sylara.
+
+"Her back," said Eolan, and let his string down.
+
+The keepers at the gallery's end were two old men. They had sat at their table under the hooded lamp all that while with their hands flat on their book, and they did not get up until Valeria told them to.
+
+Afterward Sylara walked the floor and gathered the bone arrows one by one, and looked at the heads, and threw them away. She walked back along the gallery with her own arrow from the knot and slid it into her quiver. Something in the quiver chimed against it: the silver pin she had shot out of Livia's hair on the moor.
+
+---
+
+The light under the fifth door was the first in the Spire that reached anywhere.
+
+It spilled over the threshold onto the landing and lay on the floor and across the foot of the stair, a long pale wedge of it, and on the steps above the landing. It was not lamplight. It had no warmth in it, and no colour Marcus could name. It was the light a winter noon has in a high room.
+
+Alana stopped on the landing. He heard her breath catch, and heard her let it go.
+
+Inside, the room was a library. He saw that before anything: the bays, the shelves rising from the floor to the vault in their cases, the reading table in the middle, the order of it. But there were no books on these shelves. Where the books should have stood in rows there were lights, each in its own stoppered glass. They were small, and still, and all of one kind, though some were brighter than others. Under each, pasted to the shelf's edge, was a slip of paper with a line on it in a hand he knew.
+
+Alana went to the nearest case and bent to read a slip.
+
+"It's our form," she said. "The catalogue's. Case and shelf and place." She straightened. "She's catalogued them."
+
+"Of course I catalogued them," said Livia. "What else would I do with them? Eat them?"
+
+She sat at the reading table under the lights, with her elbow on it and her chin on her good hand, as she might have sat in the catalogue on a dull afternoon, waiting for a pupil who was late. At her other elbow, on a reading-stand of black wood, lay the anchor. Her black silk was worked with gold, and it left her shoulders bare and most of her back, and her hair was pinned up high with one silver pin. Her thread ran down from her left wrist into her lap, and the lights on it lay still.
+
+Marcus looked at the anchor instead.
+
+"Is the book still shut?" said Livia. She was looking at Alana. She had looked at nobody else since they came in. "The one you took from my wing. The corded one. I've so wondered. Knowledge weighs more unopened, little chair."
+
+Alana looked up along the shelves, at the lights in their rows, at the slips under them.
+
+"That's the difference," she said, "between a library and a *hoard*."
+
+"Every soul on these shelves has a name," said Liora.
+
+Livia did not so much as turn her head.
+
+"Go on, then," she said to Alana, and lifted her chin from her hand, and nodded at the stand. "You'll want to read it first. You always did."
+
+Alana went to the stand. She bent over the knot as she had bent over the one at Bastion, close, without touching it, and her lips moved as she read it ring by ring. Livia watched her read with two grey fingers laid on the inside of her own left wrist, where the thread began.
+
+"There's nothing lazy in it," said Alana.
+
+"No," said Livia.
+
+Alana held out her right hand to Marcus without looking at him. He unwound the wrap from it, a turn at a time, and the old burns showed pale across the palm. She lifted the knot off the stand in her bare hand, rings and all, and shut her fist on it.
+
+Gold rose in her eyes.
+
+There was no lazy turn in it for the fire to begin at, so it had to begin everywhere at once. Her fist shook, and then her arm to the shoulder. Smoke boiled out between her knuckles, thick and black, and the stink of it, scorched cord and hot bronze and her own skin, and he had to turn his face from the heat. The rings ticked in her grip. Her face did not change. It went on far longer than at Bastion, and he stood at her elbow with nothing to do with his hands but keep them off her. Then the cord gave in her fist, all of it at once, and the cold breathed out between her fingers and away up the room past the lights.
+
+Alana opened her hand. Ash fell out of it, and the rings rang on the floor.
+
+"Better," said Livia.
+
+Alana stood with her hand open and shaking, and did not look at her.
+
+Then Livia stood up.
+
+She looked along the shelves at the lights in their glasses, all of them, the way a widow looks round her house when the carts have come for the furniture. Her face was calm. She put her good hand to her girdle and drew out a vial of the Spire's black glass, no longer than a finger, and held it up to the shelves.
+
+The lights moved.
+
+They leaned in their glasses, all down the shelves, all together, toward her, and the lights on her thread stirred in her lap and leaned too. As he watched, the first of them rose out of its glass, through the stopper, a little thread of pale fire drawn out toward the vial in her fingers. Then another. Then a score.
+
+And behind him the cold stole in at the door. He felt it on the back of his neck. It came down from the stair above, from the dark over the landing, and in round them toward her, toward the vial, as the draught in a house goes toward a fire.
+
+"She's spending them," said Alana. Her voice was flat. "All of them. At once."
+
+"And herself," said Liora.
+
+Marcus moved. He had his sword half out and two steps taken toward the table, and he would never have been in time.
+
+Something went by his ear, close enough to stir his hair.
+
+The vial burst in Livia's fingers. It broke into splinters and a little black dust, and the threads of light that had been drawn out toward it snapped back into their glasses on the shelves and into the thread in her lap. The cold at Marcus's back stopped, and was only the cold of the room. On the shelf behind Livia's head a bone arrow stood in the wood, still humming.
+
+He turned round.
+
+The doorway was empty. There was the landing outside, and the dark of the stair climbing from it, and nobody.
+
+Livia was looking at the doorway too. She stood by her table with her hand still raised where the vial had been, the fingers spread, and went on looking at it; and what was in her face, in the pale light of her library, was something that was almost, horribly, gratitude.
+
+Then she sat down. She put her hand in her lap, over the thread, and did not look at any of them again.
+
+"Leave her," said Marcus.
+
+There was one more, and the night was going. The halls had come up behind them, and two shield-men took her door with their hammers, backs to it and faces to the stair, and kept their eyes off the lights.
+
+On the landing Alana held out her right hand to Liora without a word. It was shaking from the wrist, and the palm was blistered white across the old burns. Liora took it in both of hers, and they stood like that in the light from the library while the shaking went on, and on, and at last began to ease.
+
+---
+
+On Lucan's landing a boy was filling the lamp.
+
+He was up on the end of the clerks' bench in his stockings, with a can in both hands and the lamp let down on its chain to the height of his face. He was pouring the oil in slowly, so as not to spill, frowning at the spout, and the landing smelled of it, fish and old smoke. He looked round when they climbed out of the well onto the landing. Then he looked back at the lamp and went on pouring, and did not stop until it was full.
+
+At the stair-head two men of the garrison stood with their spears, looking at the wall. They went on looking at it. Valeria took their spears out of their hands, one and then the other, and they let her, and did not take their eyes off the wall.
+
+The landing was a square of black floor with no window. On the right there was a door, shut. Across from it, on the harbor side, two tall doors stood open on a long room with lamps in it. A narrow grey man in the Survey's black stood just inside them, his hands one over the other.
+
+"The King will see the first line," he said.
+
+Marcus walked past him into the room.
+
+It was long and cold, and the floor rang under his boots. Down the harbor side ran a row of tall windows, black with the night. Far below beyond the glass, lanterns moved in a slow line on the quay, with the dead at their work in the dark. A long table ran nearly the length of the room, with places down both sides. A handful of them were taken, by clerks in their black with their books open and their frames of beads at their elbows, and a lamp at each. The lamps were small, and their light reached a little way across the table and stopped, so that each clerk sat in a yellow room of his own with the dark between him and the next. The brazier at the room's end stood cold.
+
+At the head of the table, in a high-backed chair of old dark wood that had not been made for this room, sat an old man in black.
+
+A cup of water stood at his hand, and a sheet of paper, and a pen; and at his elbow, on the bare oak of the table, lay the last anchor.
+
+He was older than Marcus had pictured him: past sixty, and thin, with the thinness of a man who forgets to eat rather than one who cannot, and his hair grey and cut short. He wore no chain and no ring. Under the table his feet were in felt shoes. He looked up from his paper as they walked up the room, not quickly, and took them in one by one in the order they came, as a clerk runs his eye down a column. When he reached the last of them he looked back at Marcus.
+
+"I had three contingencies for the anchors," said Lucan. "You were the second-likeliest."
+
+His voice was dry and quiet, and it carried down the long cold room without his raising it at all.
+
+Valeria walked up the table's other side at the pace she walked a line before a fight, looking at nothing. The clerks did not look up from their books. One of them, a heavy man at Lucan's left with his back to the windows, had stopped writing.
+
+"You'll have come to tell me I'm wrong," said Lucan. "Everybody who comes up that stair has come to tell me something. Let me save you the first part. You have been fighting the dead since your brother's funeral, and you will want to tell me about the dead, and I know about the dead. Let me tell you about the living instead, since nobody else in your Isles has ever kept their books." He put his palm on the paper in front of him. "Nine succession wars in seventy years. A famine every fourth winter, as regular as your tides. Thessa selling the stones of its own harbor wall to buy grain. I kept those books for thirty years, Highness. I kept them honestly, which no one in Aeridor ever did. Your Isles were a slow shipwreck with heraldry."
+
+He lifted his hand, and took up the paper, and squared it, and began to fold it.
+
+"I signed the order for Thessa in this chair," he said. "It was my chair at the council table at home, and when the Spire was built I had it brought over, because it is a good chair and I am used to it. It was raining that night. I remember the rain on the windows. The clerk was waiting at my elbow with the sand. I read the order through twice and found nothing in it to change." He folded the paper once across, and laid it on the table, and folded it again. "So I signed it, and folded it, and gave it to him. Then I went in and read my brother the day, as I did every evening. It was a short day. There was not much in it."
+
+He put the folded paper down by his cup, and drank, carefully, on one side of his mouth.
+
+"The dead do not starve," said Lucan. "They do not feud. They do not *grieve*. I have read every history this island's archive held, and they are *one* story: people, failing each other, forever. I chose the only ending that holds still." He looked at Marcus over the folded paper. "My clerks call it the Settling, because they are clerks. What comes through the door at the top of this house is the Calm."
+
+The lamps burned small along the table. The heavy clerk at his left sat with his pen lifted over the page, and a drop gathered at its point and fell.
+
+Marcus had nothing to say to him.
+
+Every figure in it was true. He had learned the nine wars as a boy, battle by battle, at a tutor's elbow, and sat in the Hall of Kings under the banners of half of them. He had seen the fourth winter come to his father's city, the winter the granaries were never quite full enough for. He had seen his father's face. And on the doors at the stair's foot his grandfather's fleet was going onto the reef with every mast standing, and it was beautiful, and his father had sent it, and Thessa had fallen all the same. *You'll want to argue with it,* Valeria had said. *Don't.*
+
+"Your ledger's missing a column," said Gaius.
+
+He stood at Marcus's shoulder, still damp from the sea, his regrown eyebrows stiff with salt.
+
+"Nobody in it gets to *want* anything," Gaius said. "It's taxidermy."
+
+"Taxidermy," said Lucan, at once. "My brother would have taken an hour to say that worse."
+
+Gaius's eyebrows went up. He did not try again.
+
+Lucan looked back at Marcus. He waited, politely, for the figure that would close it.
+
+"The crown comes to me," said Marcus.
+
+He had said as much once before, at the exit reef, to a thing on *Constancy*'s stem-head that could not lie. He had never said it to a king. It fell into the cold room plainly, like his own name, and the heavy clerk at Lucan's left looked up.
+
+"I'll wear it," he said. "I'll wear it at a table where four peoples can tell me no, and I'll ask before I spend them. They'll tell me no. They'll tell me I'm wrong, at that table, to my face, and some of the time they'll be right, and I'll have to sit there and hear it." He looked down the table at the clerks in their small rooms of light, and back at the old man in his good chair. "I'm not your counter-argument, Lucan. The table is."
+
+The pens had stopped, all down the table. In the dark beyond the windows the lanterns crawled along the quay. Out on the landing the boy's can scraped once on the bench, and was still. For a breath drawn, and let go, and drawn again, the old man sat in his chair with his hands on the folded paper and looked at Marcus and did not say a word.
+
+"That is a *new* figure," said Lucan. "It will fail, you know. Committees always—"
+
+The Farrier came down through the anchor.
+
+Valeria had not asked, and Marcus had not told her. She stood at the table's head on Lucan's right, where she had walked while he talked. She lifted the spear and brought it down in one short stroke with her whole weight behind it, through the knot and the bronze and into the oak beneath them, and it stood there upright with its haft trembling and half the head gone into the wood. She let go of it. At her side her right thumb moved, feeling for the ash that stood in the table.
+
+"You'd answered him," she said.
+
+The cold rose out of the knot round the spearhead.
+
+It did not breathe out, as the others had. It went. It went up all at once, past them, up through the vault, as the air goes up a chimney when the fire takes. With it, from far below, from under their feet, from every chamber they had climbed through, the cold of the other five rushed up past them through the Spire, and while it passed there was no light anywhere: not in the lamps, not in the windows, not in his own eyes. He stood in it blind. It poured through him as the sea had poured over him, cold and enormous and in a hurry; and somewhere in it, close, quiet, unhurried, a voice was saying, "Six anchors. A season's work in each—"
+
+Then it was gone, and the light came back.
+
+It came back whole. Every lamp along the table was burning, and their light spread from them across the table and the floor, up the walls and into the corners, as the light of lamps does in any room, and met, and filled it. Marcus saw the whole room at once for the first time, end to end, the clerks and their books and the black windows and the spear standing in the table, as if somebody had taken a cloth off it. Down the length of the Spire under his boots the glass ticked and settled, floor below floor, like ice on a pond in the night.
+
+The chair at the head of the table was empty.
+
+All down the table the clerks had stood up in their places, as clerks stand when their master rises, with their eyes on their books. All but the heavy one at the empty chair's left, who sat where he had sat, with his pen in his hand.
+
+"—the foundry, a total loss," said the voice. It was out on the landing. "The harness. That was a good harness. The keepers, carried. Livia's—" A pause, as of a clerk over a line he cannot decide how to enter. "Impaired."
+
+Marcus ran down the room with the floor ringing under him and Rufo at his heel. The clerks stood in his road in a row between the table and the wall, not to stop him, only standing where they had been taught to stand. Rufo put them aside with his shield one after another, and they fell, and lay where they fell.
+
+On the landing the lamp burned on its chain over the bench, and the boy sat under it with his knees drawn up. The two men of the garrison were looking at the wall. Beside the shut door, in the landing's inner side, where Marcus had seen only shadow when he climbed up, there was a narrow opening, and a stair rising out of it, steep, into the dark.
+
+Lucan was on it, a few steps up. He was climbing at an old man's pace, with one hand on the wall and the folded paper in the other, in his felt shoes. He stopped when Marcus reached the stair's foot, and turned, and looked down at him.
+
+"The door can finish opening the *expensive* way," said Lucan. "I had so hoped to spare the budget."
+
+Then he went on up.
+
+Marcus put his foot on the first step.
+
+Far up, where the stair ended, a door stood half open. Above Lucan the dark on the stair was moving. It was coming down out of the door, and it flowed down the steps toward the old man and round him as a fog comes down a hill, and he climbed up into it and was gone. It came on down. It was not a shadow. It was a light that was the opposite of light. Where it lay on the steps they went out of the world, step by step from the top downward. The cold ran before it down the narrow stair into Marcus's face, and his breath stopped in his chest.
+
+From somewhere inside it Lucan's voice went on, level, and further off at every word. "Two clerks. The bound, a total loss. Lamp oil—"
+
+Marcus stood with his foot on the first step and the dark coming down to it.
+
+*He likes a procession.*
+
+He took his foot off the step.
+
+Rufo stood at his shoulder with his shield up and his weight forward. He was looking up the stair into the dark as he had looked up the slope at Ghash.
+
+"Rufo," said Marcus.
+
+"Aye," said Rufo. He did not move.
+
+The dark reached the bottom step and stopped there, at the edge of the landing, as the sea stops at the top of the tide, and came no further. It lay in the mouth of the narrow stair like still water in a well. The voice in it was gone. The lamp's light crossed the landing to it and went in, and more light followed, and none came back. Round the bench the floor darkened, and the wall behind the garrison men, until the only light on the landing was what fell out of the audit room's doors.
+
+Behind them the others had come out of the audit room and stood in that light.
+
+Over the boy the lamp burned on its chain, full to the brim, and lit nothing; and he sat under it with his can in his lap, and looked up.

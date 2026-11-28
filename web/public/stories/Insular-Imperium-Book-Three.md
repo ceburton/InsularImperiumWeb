@@ -10553,6 +10553,8 @@ There was a clerk of the Survey in it, by name. It was the first time Varus had 
 
 Lessa's sheets came after. Varus turned them without reading them. He knew nobody in Lessa.
 
+He did the sum then, because it would not wait for him. A figure that is carried arrives. On the quarter-days the debtors went off the old mole two by two and were carried, and the column sailed for the Spire, and at the Spire a black book with nothing on its spine read out its lines by number, what each had drawn and what remained. There were four lines. The Spire had four lords, and the Navarchy had carried for every one of them. What a lord fed on was not raised after, because there was nothing left in it to raise. The order did not say *carried*. It did not need to. It set a town against a line, as the quarter-day set a debtor; and the capital against all four.
+
 He laid the sheets on the locker lid, on top of the seal. He went up on deck past the bosun at the helm, to the rail, and was sick over it in the dark, into the black water going by. When he had done, and stood up, and wiped his mouth, there was nobody to say he was sorry to.
 
 The wind was cold on the wet of his face. Aft, the old clerk was asleep again under the sailcloth with Thessa's book in his arms.
@@ -11467,7 +11469,35 @@ He nodded once. "Your rations stand, Quaestor."
 
 "Thank you, Highness," said Rusca, as she had said it every day since the *Forward*.
 
-Then he sat down on the end of the cot. Alana left the table and sat by him, and lifted the edge of the blue cloak, and put it round them both. The cold of the stair came off his coat into her side.
+She did not sit down.
+
+"Highness. The lines."
+
+Marcus looked at the order, and not at her.
+
+"I asked the Navarch," he said. "He'd written as far as Thessa. He wouldn't say it, so I said it, and he told me when I had it right." He was quiet a moment. "Each of the Spire's lords is kept on a line in a black book. What's written under a lord's line is what he's let feed on. The carried go there. They aren't raised after."
+
+Nobody moved. Down in the court the gutters from the spring-head smoked in the frost.
+
+"The first line is Livia's," said Marcus.
+
+Alana's eyes went to the drawer, and the letter in it, in the hand that had taught hers; and then to the bundle, to Thessa's sheets, house after house of them, that Rusca had turned by their corners and not read.
+
+"And the capital to all of them," said Rusca.
+
+"Yes."
+
+"Then there's nobody left to keep the book."
+
+"He'll keep it," said Marcus. "Until there's nothing left to enter."
+
+Rusca looked down at the census under her hand, open at the quay. For a moment her mouth worked, and nothing came; then it did, in the voice for the forms.
+
+"They'll be well fed till then," she said. "Nobody starves."
+
+She sat down. She drew the linen out of her cuff and held it, and did not use it, and put it back.
+
+Then Marcus sat down on the end of the cot. Alana left the table and sat by him, and lifted the edge of the blue cloak, and put it round them both. The cold of the stair came off his coat into her side.
 
 "There was a letter on the packet," he said. "From my father."
 
@@ -13729,6 +13759,8 @@ All winter she had lain at the mole's end under the white cloth, on the Prefect'
 
 When the gap was astern the bosun took the white cloth down off the forestay. He folded it on the hatch-cover, stiff as it was with the winter's salt, and carried it aft, and put it in the locker with Varus's sword.
 
+What the *Excise* carried was the Spire's order for the Settling, two sheets in the chancery's square hand that set Tharsis's own towns against the lords' lines a quarter at a time, with Thessa and Lessa in the first; and with it Lessa's census, which named everybody living in the town. They were going to the lamp-keepers. Every lamp in Lessa was on the keepers' book, and what the keepers at Lessa had, their guild at the capital had in a week. Sennius was to take him to them by the lanes. He was a Lessa boy, and after Cyrene a letter had gone to his mother that said *lost*; the healer had let him go home to her.
+
 Varus had not read Lessa's sheets at Cyrene. He had known nobody there. All winter the sheets had stayed wrapped, with the order, in the locker under his cot, and he had not once opened them; on the second night out he unwrapped them in his cabin, by the lamp, and read them. The oilcloth had the cold of the locker in it, and the sheets had taken the smell of the tar, and the lamp swung on its hook as she rolled and took the light to and fro across the page.
 
 He took them house by house, as the clerk had set them down: the quay, and the weigh-house, and the deputy of the beam over it; the nine lamps at the quay's end; Brine Lane, whose first house had a woman's name at its head and *Weigher, of the quay* under it; Nail Street.
@@ -13788,6 +13820,22 @@ He meant the healer.
 "I know," said Varus.
 
 Sennius nodded. He put his raw hands behind him, and then brought them round again, because there was nothing for them to do there.
+
+"Captain," he said. "The second line."
+
+"It's a lord's," said Varus. "One of the four at the Spire. The carried go to the lines. What goes to a line isn't raised after. There's nothing left to raise."
+
+Sennius looked at the locker lid.
+
+"All of Lessa," he said.
+
+"The first quarter after Aeridor."
+
+"Her too."
+
+"She's on the sheet."
+
+Sennius had a hand on the rail. He took it off quick.
 
 Somewhere off the bow in the fog a hammer had started: a light hammer, quick, and a pause, and quick again.
 
